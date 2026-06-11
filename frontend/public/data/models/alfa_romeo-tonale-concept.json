@@ -1,0 +1,72 @@
+{
+  "id": "m-alfa_romeo-tonale-concept",
+  "slug": "alfa_romeo-tonale-concept",
+  "name": "Tonale Concept",
+  "fullName": "Alfa Romeo Tonale Concept",
+  "brandId": "brand-alfa_romeo",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Alfa Romeo Tonale Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2019_alfa_romeo_tonale_concept/images/1920x1080/2019_alfa_romeo_tonale_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2019_alfa_romeo_tonale_concept/images/1920x1080/2019_alfa_romeo_tonale_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "alfa-romeo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-alfa_romeo-tonale-concept-2020-0",
+      "slug": "alfa_romeo-tonale-concept-2020-0",
+      "modelId": "m-alfa_romeo-tonale-concept",
+      "brandId": "brand-alfa_romeo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Alfa Romeo Tonale Concept | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2019_alfa_romeo_tonale_concept/images/1920x1080/2019_alfa_romeo_tonale_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2019_alfa_romeo_tonale_concept/images/1920x1080/2019_alfa_romeo_tonale_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-alfa_romeo-tonale-concept-2020-0",
+          "generationId": "gen-alfa_romeo-tonale-concept-2020-0",
+          "url": "https://images.caricos.com/a/alfa_romeo/2019_alfa_romeo_tonale_concept/images/1920x1080/2019_alfa_romeo_tonale_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2019_alfa_romeo_tonale_concept/images/1920x1080/2019_alfa_romeo_tonale_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Alfa Romeo Tonale Concept | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

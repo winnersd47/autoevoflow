@@ -1,0 +1,118 @@
+{
+  "id": "m-chevrolet-cruze-hatchback",
+  "slug": "chevrolet-cruze-hatchback",
+  "name": "Cruze Hatchback",
+  "fullName": "Chevrolet Cruze Hatchback",
+  "brandId": "brand-chevrolet",
+  "bodyType": "hatchback",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Cruze Hatchback — hatchback, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_cruze_hatchback/images/1920x1080/2017_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_cruze_hatchback/images/1920x1080/2017_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+  "tags": [
+    "hatchback",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-cruze-hatchback-2020-0",
+      "slug": "chevrolet-cruze-hatchback-2020-0",
+      "modelId": "m-chevrolet-cruze-hatchback",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Cruze Hatchback | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_cruze_hatchback/images/1920x1080/2017_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_cruze_hatchback/images/1920x1080/2017_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-cruze-hatchback-2020-0",
+          "generationId": "gen-chevrolet-cruze-hatchback-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2017_chevrolet_cruze_hatchback/images/1920x1080/2017_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_cruze_hatchback/images/1920x1080/2017_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Cruze Hatchback | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "hatchback",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-cruze-hatchback-2020-1",
+      "slug": "chevrolet-cruze-hatchback-2020-1",
+      "modelId": "m-chevrolet-cruze-hatchback",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Cruze Hatchback | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2012_chevrolet_cruze_hatchback/images/1920x1080/2012_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2012_chevrolet_cruze_hatchback/images/1920x1080/2012_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-cruze-hatchback-2020-1",
+          "generationId": "gen-chevrolet-cruze-hatchback-2020-1",
+          "url": "https://images.caricos.com/c/chevrolet/2012_chevrolet_cruze_hatchback/images/1920x1080/2012_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2012_chevrolet_cruze_hatchback/images/1920x1080/2012_chevrolet_cruze_hatchback_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Cruze Hatchback | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "hatchback",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

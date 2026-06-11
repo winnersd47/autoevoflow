@@ -1,0 +1,72 @@
+{
+  "id": "m-nissan-xmotion-concept",
+  "slug": "nissan-xmotion-concept",
+  "name": "Xmotion Concept",
+  "fullName": "Nissan Xmotion Concept",
+  "brandId": "brand-nissan",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Xmotion Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_xmotion_concept/images/1920x1080/2018_nissan_xmotion_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2018_nissan_xmotion_concept/images/1920x1080/2018_nissan_xmotion_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-xmotion-concept-2020-0",
+      "slug": "nissan-xmotion-concept-2020-0",
+      "modelId": "m-nissan-xmotion-concept",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Xmotion Concept | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_xmotion_concept/images/1920x1080/2018_nissan_xmotion_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2018_nissan_xmotion_concept/images/1920x1080/2018_nissan_xmotion_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-xmotion-concept-2020-0",
+          "generationId": "gen-nissan-xmotion-concept-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2018_nissan_xmotion_concept/images/1920x1080/2018_nissan_xmotion_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_xmotion_concept/images/1920x1080/2018_nissan_xmotion_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Xmotion Concept | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

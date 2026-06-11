@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-panamera-s-hybrid",
+  "slug": "porsche-panamera-s-hybrid",
+  "name": "Panamera S Hybrid",
+  "fullName": "Porsche Panamera S Hybrid",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Panamera S Hybrid — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2012_porsche_panamera_s_hybrid/images/1920x1080/2012_porsche_panamera_s_hybrid_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2012_porsche_panamera_s_hybrid/images/1920x1080/2012_porsche_panamera_s_hybrid_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-panamera-s-hybrid-2020-0",
+      "slug": "porsche-panamera-s-hybrid-2020-0",
+      "modelId": "m-porsche-panamera-s-hybrid",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Panamera S Hybrid | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2012_porsche_panamera_s_hybrid/images/1920x1080/2012_porsche_panamera_s_hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2012_porsche_panamera_s_hybrid/images/1920x1080/2012_porsche_panamera_s_hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-panamera-s-hybrid-2020-0",
+          "generationId": "gen-porsche-panamera-s-hybrid-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2012_porsche_panamera_s_hybrid/images/1920x1080/2012_porsche_panamera_s_hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2012_porsche_panamera_s_hybrid/images/1920x1080/2012_porsche_panamera_s_hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Panamera S Hybrid | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

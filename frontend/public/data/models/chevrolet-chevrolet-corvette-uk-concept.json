@@ -1,0 +1,26 @@
+{
+  "id": "ncs-chevrolet-chevrolet-corvette-uk-concept",
+  "slug": "chevrolet-chevrolet-corvette-uk-concept",
+  "name": "Chevrolet Corvette UK Concept",
+  "fullName": "2025 Chevrolet Corvette UK Concept",
+  "brandId": "chevrolet",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "GM revealed an advanced design study Chevrolet Corvette Concept car developed by the UK team as part of a global design project involving multiple studios...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Chevrolet-Corvette_UK_Concept-2025-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Chevrolet-Corvette_UK_Concept-2025-thb.jpg",
+  "tags": [
+    "new",
+    "2025"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/chevrolet/2025-corvette_uk_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.745Z",
+  "updatedAt": "2026-06-05T07:36:26.745Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-tru-140s-concept",
+  "slug": "chevrolet-tru-140s-concept",
+  "name": "TRU 140S Concept",
+  "fullName": "Chevrolet TRU 140S Concept",
+  "brandId": "brand-chevrolet",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet TRU 140S Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2012_chevrolet_tru_140s/images/1920x1080/2012_chevrolet_tru_140s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2012_chevrolet_tru_140s/images/1920x1080/2012_chevrolet_tru_140s_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-tru-140s-concept-2020-0",
+      "slug": "chevrolet-tru-140s-concept-2020-0",
+      "modelId": "m-chevrolet-tru-140s-concept",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet TRU 140S Concept | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2012_chevrolet_tru_140s/images/1920x1080/2012_chevrolet_tru_140s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2012_chevrolet_tru_140s/images/1920x1080/2012_chevrolet_tru_140s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-tru-140s-concept-2020-0",
+          "generationId": "gen-chevrolet-tru-140s-concept-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2012_chevrolet_tru_140s/images/1920x1080/2012_chevrolet_tru_140s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2012_chevrolet_tru_140s/images/1920x1080/2012_chevrolet_tru_140s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet TRU 140S Concept | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

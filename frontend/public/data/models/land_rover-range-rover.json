@@ -1,0 +1,394 @@
+{
+  "id": "m-land_rover-range-rover",
+  "slug": "land_rover-range-rover",
+  "name": "Range Rover",
+  "fullName": "Land Rover Range Rover",
+  "brandId": "brand-land_rover",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Land Rover Range Rover — suv, produced since 2020.",
+  "generationCount": 8,
+  "thumbnailUrl": "https://images.caricos.com/l/land_rover/2022_range_rover/images/1920x1080/2022_range_rover_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/land_rover/2022_range_rover/images/1920x1080/2022_range_rover_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "land-rover"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-land_rover-range-rover-2020-0",
+      "slug": "land_rover-range-rover-2020-0",
+      "modelId": "m-land_rover-range-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2022_range_rover/images/1920x1080/2022_range_rover_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2022_range_rover/images/1920x1080/2022_range_rover_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-2020-0",
+          "generationId": "gen-land_rover-range-rover-2020-0",
+          "url": "https://images.caricos.com/l/land_rover/2022_range_rover/images/1920x1080/2022_range_rover_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2022_range_rover/images/1920x1080/2022_range_rover_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-2020-1",
+      "slug": "land_rover-range-rover-2020-1",
+      "modelId": "m-land_rover-range-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2018_range_rover/images/1920x1080/2018_range_rover_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2018_range_rover/images/1920x1080/2018_range_rover_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-2020-1",
+          "generationId": "gen-land_rover-range-rover-2020-1",
+          "url": "https://images.caricos.com/l/land_rover/2018_range_rover/images/1920x1080/2018_range_rover_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2018_range_rover/images/1920x1080/2018_range_rover_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-2020-2",
+      "slug": "land_rover-range-rover-2020-2",
+      "modelId": "m-land_rover-range-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Autobiography Black (Long and Short WB) | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2014_range_rover_autobiography_black/images/1920x1080/2014_range_rover_autobiography_black_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2014_range_rover_autobiography_black/images/1920x1080/2014_range_rover_autobiography_black_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-2020-2",
+          "generationId": "gen-land_rover-range-rover-2020-2",
+          "url": "https://images.caricos.com/l/land_rover/2014_range_rover_autobiography_black/images/1920x1080/2014_range_rover_autobiography_black_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2014_range_rover_autobiography_black/images/1920x1080/2014_range_rover_autobiography_black_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Autobiography Black (Long and Short WB) | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-2020-3",
+      "slug": "land_rover-range-rover-2020-3",
+      "modelId": "m-land_rover-range-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2013_range_rover/images/1920x1080/2013_range_rover_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2013_range_rover/images/1920x1080/2013_range_rover_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-2020-3",
+          "generationId": "gen-land_rover-range-rover-2020-3",
+          "url": "https://images.caricos.com/l/land_rover/2013_range_rover/images/1920x1080/2013_range_rover_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2013_range_rover/images/1920x1080/2013_range_rover_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-2020-4",
+      "slug": "land_rover-range-rover-2020-4",
+      "modelId": "m-land_rover-range-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_range_rover/images/1920x1080/2012_land_rover_range_rover_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_range_rover/images/1920x1080/2012_land_rover_range_rover_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-2020-4",
+          "generationId": "gen-land_rover-range-rover-2020-4",
+          "url": "https://images.caricos.com/l/land_rover/2012_land_rover_range_rover/images/1920x1080/2012_land_rover_range_rover_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_range_rover/images/1920x1080/2012_land_rover_range_rover_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-2020-5",
+      "slug": "land_rover-range-rover-2020-5",
+      "modelId": "m-land_rover-range-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Defender X-TECH | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_defender_x-tech/images/1920x1080/2011_land_rover_range_rover_defender_x-tech_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_defender_x-tech/images/1920x1080/2011_land_rover_range_rover_defender_x-tech_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-2020-5",
+          "generationId": "gen-land_rover-range-rover-2020-5",
+          "url": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_defender_x-tech/images/1920x1080/2011_land_rover_range_rover_defender_x-tech_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_defender_x-tech/images/1920x1080/2011_land_rover_range_rover_defender_x-tech_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Defender X-TECH | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-2020-6",
+      "slug": "land_rover-range-rover-2020-6",
+      "modelId": "m-land_rover-range-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Autobiography Black | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_autobiography_black/images/1920x1080/2011_land_rover_range_rover_autobiography_black_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_autobiography_black/images/1920x1080/2011_land_rover_range_rover_autobiography_black_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-2020-6",
+          "generationId": "gen-land_rover-range-rover-2020-6",
+          "url": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_autobiography_black/images/1920x1080/2011_land_rover_range_rover_autobiography_black_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_autobiography_black/images/1920x1080/2011_land_rover_range_rover_autobiography_black_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Autobiography Black | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-2020-7",
+      "slug": "land_rover-range-rover-2020-7",
+      "modelId": "m-land_rover-range-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover/images/1920x1080/2011_land_rover_range_rover_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover/images/1920x1080/2011_land_rover_range_rover_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-2020-7",
+          "generationId": "gen-land_rover-range-rover-2020-7",
+          "url": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover/images/1920x1080/2011_land_rover_range_rover_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover/images/1920x1080/2011_land_rover_range_rover_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

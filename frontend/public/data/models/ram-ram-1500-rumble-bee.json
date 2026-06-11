@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ram-ram-1500-rumble-bee",
+  "slug": "ram-ram-1500-rumble-bee",
+  "name": "Ram 1500 Rumble Bee",
+  "fullName": "2027 Ram 1500 Rumble Bee",
+  "brandId": "ram",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The entry point to Ram's new muscle trucks is the 2027 Ram 1500 Rumble Bee with the 345-cu.-in. (5.7-liter) HEMI V-8, producing 395 horsepower and 410 lb.-ft. of torque...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ram-1500_Rumble_Bee-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ram-1500_Rumble_Bee-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ram/2027-1500_rumble_bee/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.716Z",
+  "updatedAt": "2026-06-05T07:36:26.716Z"
+}

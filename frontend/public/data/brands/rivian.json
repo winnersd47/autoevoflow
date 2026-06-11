@@ -1,0 +1,74 @@
+{
+  "id": "brand-rivian",
+  "slug": "rivian",
+  "name": "Rivian",
+  "fullName": "Rivian",
+  "country": "USA",
+  "countryCode": "US",
+  "foundingYear": 2009,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "",
+  "description": "Rivian is a USA automobile manufacturer founded in 2009.",
+  "parentCompany": null,
+  "headquarters": "Irvine, USA",
+  "modelCount": 2,
+  "generationCount": 2,
+  "tags": [
+    "usa",
+    "automotive"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "models": [
+    {
+      "id": "m-rivian-r1t",
+      "slug": "rivian-r1t",
+      "name": "R1T",
+      "fullName": "Rivian R1T",
+      "brandId": "brand-rivian",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Rivian R1T — sedan, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/r/rivian/2021_rivian_r1t/images/1920x1080/2021_rivian_r1t_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/rivian/2021_rivian_r1t/images/1920x1080/2021_rivian_r1t_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "rivian"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-rivian-r1s",
+      "slug": "rivian-r1s",
+      "name": "R1S",
+      "fullName": "Rivian R1S",
+      "brandId": "brand-rivian",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Rivian R1S — sedan, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/r/rivian/2021_rivian_r1s/images/1920x1080/2021_rivian_r1s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/rivian/2021_rivian_r1s/images/1920x1080/2021_rivian_r1s_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "rivian"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

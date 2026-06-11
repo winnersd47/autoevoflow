@@ -1,0 +1,302 @@
+{
+  "id": "m-ford-f",
+  "slug": "ford-f",
+  "name": "F",
+  "fullName": "Ford F",
+  "brandId": "brand-ford",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford F — sedan, produced since 2020.",
+  "generationCount": 6,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2019_ford_fusion/images/1920x1080/2019_ford_fusion_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2019_ford_fusion/images/1920x1080/2019_ford_fusion_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-f-2020-0",
+      "slug": "ford-f-2020-0",
+      "modelId": "m-ford-f",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Fusion | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2019_ford_fusion/images/1920x1080/2019_ford_fusion_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2019_ford_fusion/images/1920x1080/2019_ford_fusion_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-2020-0",
+          "generationId": "gen-ford-f-2020-0",
+          "url": "https://images.caricos.com/f/ford/2019_ford_fusion/images/1920x1080/2019_ford_fusion_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2019_ford_fusion/images/1920x1080/2019_ford_fusion_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Fusion | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-2020-1",
+      "slug": "ford-f-2020-1",
+      "modelId": "m-ford-f",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Fusion | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_fusion/images/1920x1080/2017_ford_fusion_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2017_ford_fusion/images/1920x1080/2017_ford_fusion_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-2020-1",
+          "generationId": "gen-ford-f-2020-1",
+          "url": "https://images.caricos.com/f/ford/2017_ford_fusion/images/1920x1080/2017_ford_fusion_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_fusion/images/1920x1080/2017_ford_fusion_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Fusion | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-2020-2",
+      "slug": "ford-f-2020-2",
+      "modelId": "m-ford-f",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Fusion NASCAR Sprint Cup Car | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_nascar/images/1920x1080/2013_ford_fusion_nascar_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_nascar/images/1920x1080/2013_ford_fusion_nascar_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-2020-2",
+          "generationId": "gen-ford-f-2020-2",
+          "url": "https://images.caricos.com/f/ford/2013_ford_fusion_nascar/images/1920x1080/2013_ford_fusion_nascar_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_nascar/images/1920x1080/2013_ford_fusion_nascar_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Fusion NASCAR Sprint Cup Car | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-2020-3",
+      "slug": "ford-f-2020-3",
+      "modelId": "m-ford-f",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Fusion Hybrid | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_hybrid/images/1920x1080/2013_ford_fusion_hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_hybrid/images/1920x1080/2013_ford_fusion_hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-2020-3",
+          "generationId": "gen-ford-f-2020-3",
+          "url": "https://images.caricos.com/f/ford/2013_ford_fusion_hybrid/images/1920x1080/2013_ford_fusion_hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_hybrid/images/1920x1080/2013_ford_fusion_hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Fusion Hybrid | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-2020-4",
+      "slug": "ford-f-2020-4",
+      "modelId": "m-ford-f",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Fusion Energi | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_energi/images/1920x1080/2013_ford_fusion_energi_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_energi/images/1920x1080/2013_ford_fusion_energi_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-2020-4",
+          "generationId": "gen-ford-f-2020-4",
+          "url": "https://images.caricos.com/f/ford/2013_ford_fusion_energi/images/1920x1080/2013_ford_fusion_energi_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_fusion_energi/images/1920x1080/2013_ford_fusion_energi_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Fusion Energi | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-2020-5",
+      "slug": "ford-f-2020-5",
+      "modelId": "m-ford-f",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Fusion | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_fusion/images/1920x1080/2013_ford_fusion_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2013_ford_fusion/images/1920x1080/2013_ford_fusion_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-2020-5",
+          "generationId": "gen-ford-f-2020-5",
+          "url": "https://images.caricos.com/f/ford/2013_ford_fusion/images/1920x1080/2013_ford_fusion_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_fusion/images/1920x1080/2013_ford_fusion_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Fusion | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

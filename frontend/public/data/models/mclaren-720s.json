@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-720s",
+  "slug": "mclaren-720s",
+  "name": "720S",
+  "fullName": "McLaren 720S",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "endYear": 2018,
+  "isActive": false,
+  "description": "McLaren 720S — sedan, produced since 2018.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s/images/1920x1080/2018_mclaren_720s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s/images/1920x1080/2018_mclaren_720s_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-720s-2018-0",
+      "slug": "mclaren-720s-2018-0",
+      "modelId": "m-mclaren-720s",
+      "brandId": "brand-mclaren",
+      "codeName": "2018",
+      "generationNumber": 1,
+      "startYear": 2018,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2018 McLaren 720S",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s/images/1920x1080/2018_mclaren_720s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s/images/1920x1080/2018_mclaren_720s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-720s-2018-0",
+          "generationId": "gen-mclaren-720s-2018-0",
+          "url": "https://images.caricos.com/m/mclaren/2018_mclaren_720s/images/1920x1080/2018_mclaren_720s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s/images/1920x1080/2018_mclaren_720s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2018,
+          "altText": "2018 McLaren 720S",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2018"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

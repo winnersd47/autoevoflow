@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-polo-r-wrc",
+  "slug": "volkswagen-polo-r-wrc",
+  "name": "Polo R WRC",
+  "fullName": "Volkswagen Polo R WRC",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Polo R WRC — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_polo_r_wrc/images/1920x1080/2013_volkswagen_polo_r_wrc_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2013_volkswagen_polo_r_wrc/images/1920x1080/2013_volkswagen_polo_r_wrc_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-polo-r-wrc-2020-0",
+      "slug": "volkswagen-polo-r-wrc-2020-0",
+      "modelId": "m-volkswagen-polo-r-wrc",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Polo R WRC | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_polo_r_wrc/images/1920x1080/2013_volkswagen_polo_r_wrc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2013_volkswagen_polo_r_wrc/images/1920x1080/2013_volkswagen_polo_r_wrc_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-polo-r-wrc-2020-0",
+          "generationId": "gen-volkswagen-polo-r-wrc-2020-0",
+          "url": "https://images.caricos.com/v/vw/2013_volkswagen_polo_r_wrc/images/1920x1080/2013_volkswagen_polo_r_wrc_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_polo_r_wrc/images/1920x1080/2013_volkswagen_polo_r_wrc_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Polo R WRC | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

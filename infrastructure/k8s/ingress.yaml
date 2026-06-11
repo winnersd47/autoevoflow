@@ -1,0 +1,117 @@
+---
+# =============================================================================
+# Main Ingress – automotive-ai-platform
+# Requires: ingress-nginx controller + cert-manager with ClusterIssuer
+#           "letsencrypt-prod" already configured in the cluster.
+# =============================================================================
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: automotive-ai-ingress
+  namespace: automotive-ai
+  labels:
+    app.kubernetes.io/part-of: automotive-ai
+  annotations:
+    kubernetes.io/ingress.class:    "nginx"
+    ingressClassName:               "nginx"
+
+    # TLS – cert-manager will provision and renew the certificate
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"
+
+    # Force HTTPS redirect
+    nginx.ingress.kubernetes.io/ssl-redirect:       "true"
+    nginx.ingress.kubernetes.io/force-ssl-redirect:  "true"
+
+    # Upload / request body size (for image uploads)
+    nginx.ingress.kubernetes.io/proxy-body-size: "50m"
+
+    # Proxy timeouts (ML inference can be slow)
+    nginx.ingress.kubernetes.io/proxy-connect-timeout: "60"
+    nginx.ingress.kubernetes.io/proxy-read-timeout:    "300"
+    nginx.ingress.kubernetes.io/proxy-send-timeout:    "300"
+
+    # Rate limiting – 100 requests per minute per IP
+    nginx.ingress.kubernetes.io/limit-rps:            "100"
+    nginx.ingress.kubernetes.io/limit-connections:    "20"
+    nginx.ingress.kubernetes.io/limit-burst-multiplier: "5"
+
+    # Security headers
+    nginx.ingress.kubernetes.io/configuration-snippet: |
+      more_set_headers "X-Frame-Options: SAMEORIGIN";
+      more_set_headers "X-Content-Type-Options: nosniff";
+      more_set_headers "X-XSS-Protection: 1; mode=block";
+      more_set_headers "Referrer-Policy: strict-origin-when-cross-origin";
+      more_set_headers "Permissions-Policy: camera=(), microphone=(), geolocation=()";
+
+    # Enable CORS for API endpoints
+    nginx.ingress.kubernetes.io/enable-cors:            "true"
+    nginx.ingress.kubernetes.io/cors-allow-origin:      "https://yourdomain.com"
+    nginx.ingress.kubernetes.io/cors-allow-methods:     "GET, POST, PUT, PATCH, DELETE, OPTIONS"
+    nginx.ingress.kubernetes.io/cors-allow-headers:     "Authorization, Content-Type, Accept, Origin, X-Requested-With"
+    nginx.ingress.kubernetes.io/cors-max-age:           "3600"
+
+    # Upstream keepalive
+    nginx.ingress.kubernetes.io/upstream-keepalive-connections: "32"
+
+spec:
+  ingressClassName: nginx
+
+  tls:
+    - hosts:
+        - yourdomain.com
+        - www.yourdomain.com
+      secretName: automotive-ai-tls-cert
+
+  rules:
+    # -------------------------------------------------------------------------
+    # Main domain – frontend SPA
+    # -------------------------------------------------------------------------
+    - host: yourdomain.com
+      http:
+        paths:
+          # API routes – must be listed before "/" to take priority
+          - path: /api
+            pathType: Prefix
+            backend:
+              service:
+                name: backend
+                port:
+                  number: 8000
+
+          # ML inference proxy (e.g. direct embedding requests from frontend)
+          - path: /ml
+            pathType: Prefix
+            backend:
+              service:
+                name: ml-inference
+                port:
+                  number: 8001
+
+          # Frontend – catch-all (React Router handles client-side routing)
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: frontend
+                port:
+                  number: 3200
+
+    # -------------------------------------------------------------------------
+    # www redirect – handled by rewrite at nginx level
+    # -------------------------------------------------------------------------
+    - host: www.yourdomain.com
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: frontend
+                port:
+                  number: 3200
+
+---
+# =============================================================================
+# Grafana sub-domain ingress is defined in monitoring/grafana.yaml.
+# The certificate for grafana.yourdomain.com is issued separately there.
+# =============================================================================

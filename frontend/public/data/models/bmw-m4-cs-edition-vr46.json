@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-m4-cs-edition-vr46",
+  "slug": "bmw-m4-cs-edition-vr46",
+  "name": "M4 CS Edition VR46",
+  "fullName": "BMW M4 CS Edition VR46",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW M4 CS Edition VR46 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m4_cs_edition_vr46/images/1920x1080/2025_bmw_m4_cs_edition_vr46_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_m4_cs_edition_vr46/images/1920x1080/2025_bmw_m4_cs_edition_vr46_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-m4-cs-edition-vr46-2020-0",
+      "slug": "bmw-m4-cs-edition-vr46-2020-0",
+      "modelId": "m-bmw-m4-cs-edition-vr46",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M4 CS Edition VR46 | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m4_cs_edition_vr46/images/1920x1080/2025_bmw_m4_cs_edition_vr46_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_m4_cs_edition_vr46/images/1920x1080/2025_bmw_m4_cs_edition_vr46_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m4-cs-edition-vr46-2020-0",
+          "generationId": "gen-bmw-m4-cs-edition-vr46-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2025_bmw_m4_cs_edition_vr46/images/1920x1080/2025_bmw_m4_cs_edition_vr46_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m4_cs_edition_vr46/images/1920x1080/2025_bmw_m4_cs_edition_vr46_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW M4 CS Edition VR46 | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-activee-concept",
+  "slug": "bmw-activee-concept",
+  "name": "ActiveE Concept",
+  "fullName": "BMW ActiveE Concept",
+  "brandId": "brand-bmw",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW ActiveE Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2011_bmw_activee_concept/images/1920x1080/2011_bmw_activee_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2011_bmw_activee_concept/images/1920x1080/2011_bmw_activee_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-activee-concept-2020-0",
+      "slug": "bmw-activee-concept-2020-0",
+      "modelId": "m-bmw-activee-concept",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW ActiveE Concept | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2011_bmw_activee_concept/images/1920x1080/2011_bmw_activee_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2011_bmw_activee_concept/images/1920x1080/2011_bmw_activee_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-activee-concept-2020-0",
+          "generationId": "gen-bmw-activee-concept-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2011_bmw_activee_concept/images/1920x1080/2011_bmw_activee_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2011_bmw_activee_concept/images/1920x1080/2011_bmw_activee_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW ActiveE Concept | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

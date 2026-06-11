@@ -1,0 +1,26 @@
+{
+  "id": "ncs-lexus-lexus-es-500e-awd",
+  "slug": "lexus-lexus-es-500e-awd",
+  "name": "Lexus ES 500e AWD",
+  "fullName": "2026 Lexus ES 500e AWD",
+  "brandId": "lexus",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "ES 500e is equipped with Lexus' DIRECT4 intelligent electric all-wheel drive system. This provides continuous adjustment of drive torque distribution to all four wheels...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-ES_500e_AWD-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-ES_500e_AWD-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/lexus/2026-es_500e_awd/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.733Z",
+  "updatedAt": "2026-06-05T07:36:26.733Z"
+}

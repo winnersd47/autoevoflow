@@ -1,0 +1,72 @@
+{
+  "id": "m-honda-0-ev-concepts",
+  "slug": "honda-0-ev-concepts",
+  "name": "0 EV Concepts",
+  "fullName": "Honda 0 EV Concepts",
+  "brandId": "brand-honda",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda 0 EV Concepts — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2024_honda_0_ev_concepts/images/1920x1080/2024_honda_0_ev_concepts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2024_honda_0_ev_concepts/images/1920x1080/2024_honda_0_ev_concepts_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-0-ev-concepts-2020-0",
+      "slug": "honda-0-ev-concepts-2020-0",
+      "modelId": "m-honda-0-ev-concepts",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda 0 EV Concepts | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2024_honda_0_ev_concepts/images/1920x1080/2024_honda_0_ev_concepts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2024_honda_0_ev_concepts/images/1920x1080/2024_honda_0_ev_concepts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-0-ev-concepts-2020-0",
+          "generationId": "gen-honda-0-ev-concepts-2020-0",
+          "url": "https://images.caricos.com/h/honda/2024_honda_0_ev_concepts/images/1920x1080/2024_honda_0_ev_concepts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2024_honda_0_ev_concepts/images/1920x1080/2024_honda_0_ev_concepts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda 0 EV Concepts | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

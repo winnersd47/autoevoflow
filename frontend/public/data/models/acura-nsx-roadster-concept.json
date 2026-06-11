@@ -1,0 +1,72 @@
+{
+  "id": "m-acura-nsx-roadster-concept",
+  "slug": "acura-nsx-roadster-concept",
+  "name": "NSX Roadster Concept",
+  "fullName": "Acura NSX Roadster Concept",
+  "brandId": "brand-acura",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Acura NSX Roadster Concept — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/acura/2012_acura_nsx_roadster_concept/images/1920x1080/2012_acura_nsx_roadster_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/acura/2012_acura_nsx_roadster_concept/images/1920x1080/2012_acura_nsx_roadster_concept_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "acura"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-acura-nsx-roadster-concept-2020-0",
+      "slug": "acura-nsx-roadster-concept-2020-0",
+      "modelId": "m-acura-nsx-roadster-concept",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura NSX Roadster Concept | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2012_acura_nsx_roadster_concept/images/1920x1080/2012_acura_nsx_roadster_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2012_acura_nsx_roadster_concept/images/1920x1080/2012_acura_nsx_roadster_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-nsx-roadster-concept-2020-0",
+          "generationId": "gen-acura-nsx-roadster-concept-2020-0",
+          "url": "https://images.caricos.com/a/acura/2012_acura_nsx_roadster_concept/images/1920x1080/2012_acura_nsx_roadster_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2012_acura_nsx_roadster_concept/images/1920x1080/2012_acura_nsx_roadster_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura NSX Roadster Concept | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

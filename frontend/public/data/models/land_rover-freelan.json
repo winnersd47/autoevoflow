@@ -1,0 +1,164 @@
+{
+  "id": "m-land_rover-freelan",
+  "slug": "land_rover-freelan",
+  "name": "Freelan",
+  "fullName": "Land Rover Freelan",
+  "brandId": "brand-land_rover",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Land Rover Freelan — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/l/land_rover/2013_land_rover_freelander_2/images/1920x1080/2013_land_rover_freelander_2_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/land_rover/2013_land_rover_freelander_2/images/1920x1080/2013_land_rover_freelander_2_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "land-rover"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-land_rover-freelan-2020-0",
+      "slug": "land_rover-freelan-2020-0",
+      "modelId": "m-land_rover-freelan",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Freelander 2 | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2013_land_rover_freelander_2/images/1920x1080/2013_land_rover_freelander_2_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2013_land_rover_freelander_2/images/1920x1080/2013_land_rover_freelander_2_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-freelan-2020-0",
+          "generationId": "gen-land_rover-freelan-2020-0",
+          "url": "https://images.caricos.com/l/land_rover/2013_land_rover_freelander_2/images/1920x1080/2013_land_rover_freelander_2_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2013_land_rover_freelander_2/images/1920x1080/2013_land_rover_freelander_2_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Freelander 2 | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-freelan-2020-1",
+      "slug": "land_rover-freelan-2020-1",
+      "modelId": "m-land_rover-freelan",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Freelander 2 Sport Limited Edition | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_freelander_2_sport_limited_edition/images/1920x1080/2012_land_rover_freelander_2_sport_limited_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_freelander_2_sport_limited_edition/images/1920x1080/2012_land_rover_freelander_2_sport_limited_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-freelan-2020-1",
+          "generationId": "gen-land_rover-freelan-2020-1",
+          "url": "https://images.caricos.com/l/land_rover/2012_land_rover_freelander_2_sport_limited_edition/images/1920x1080/2012_land_rover_freelander_2_sport_limited_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_freelander_2_sport_limited_edition/images/1920x1080/2012_land_rover_freelander_2_sport_limited_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Freelander 2 Sport Limited Edition | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-freelan-2020-2",
+      "slug": "land_rover-freelan-2020-2",
+      "modelId": "m-land_rover-freelan",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Freelander 2 SD4 Sport Limited Edition | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_freelander_2_sd4_sport_limited_edition/images/1920x1080/2011_land_rover_freelander_2_sd4_sport_limited_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_freelander_2_sd4_sport_limited_edition/images/1920x1080/2011_land_rover_freelander_2_sd4_sport_limited_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-freelan-2020-2",
+          "generationId": "gen-land_rover-freelan-2020-2",
+          "url": "https://images.caricos.com/l/land_rover/2011_land_rover_freelander_2_sd4_sport_limited_edition/images/1920x1080/2011_land_rover_freelander_2_sd4_sport_limited_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_freelander_2_sd4_sport_limited_edition/images/1920x1080/2011_land_rover_freelander_2_sd4_sport_limited_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Freelander 2 SD4 Sport Limited Edition | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": "m-ford-f-150",
+  "slug": "ford-f-150",
+  "name": "F-150",
+  "fullName": "Ford F-150",
+  "brandId": "brand-ford",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford F-150 — sedan, produced since 2020.",
+  "generationCount": 5,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_f-150/images/1920x1080/2021_ford_f-150_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2021_ford_f-150/images/1920x1080/2021_ford_f-150_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-f-150-2020-0",
+      "slug": "ford-f-150-2020-0",
+      "modelId": "m-ford-f-150",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford F-150 | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_f-150/images/1920x1080/2021_ford_f-150_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2021_ford_f-150/images/1920x1080/2021_ford_f-150_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-150-2020-0",
+          "generationId": "gen-ford-f-150-2020-0",
+          "url": "https://images.caricos.com/f/ford/2021_ford_f-150/images/1920x1080/2021_ford_f-150_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_f-150/images/1920x1080/2021_ford_f-150_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford F-150 | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-150-2020-1",
+      "slug": "ford-f-150-2020-1",
+      "modelId": "m-ford-f-150",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford F-150 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2018_ford_f-150/images/1920x1080/2018_ford_f-150_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2018_ford_f-150/images/1920x1080/2018_ford_f-150_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-150-2020-1",
+          "generationId": "gen-ford-f-150-2020-1",
+          "url": "https://images.caricos.com/f/ford/2018_ford_f-150/images/1920x1080/2018_ford_f-150_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2018_ford_f-150/images/1920x1080/2018_ford_f-150_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford F-150 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-150-2020-2",
+      "slug": "ford-f-150-2020-2",
+      "modelId": "m-ford-f-150",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford F-150 | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2016_ford_f-150/images/1920x1080/2016_ford_f-150_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2016_ford_f-150/images/1920x1080/2016_ford_f-150_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-150-2020-2",
+          "generationId": "gen-ford-f-150-2020-2",
+          "url": "https://images.caricos.com/f/ford/2016_ford_f-150/images/1920x1080/2016_ford_f-150_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2016_ford_f-150/images/1920x1080/2016_ford_f-150_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford F-150 | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-150-2020-3",
+      "slug": "ford-f-150-2020-3",
+      "modelId": "m-ford-f-150",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford F-150 | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2015_ford_f-150/images/1920x1080/2015_ford_f-150_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2015_ford_f-150/images/1920x1080/2015_ford_f-150_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-150-2020-3",
+          "generationId": "gen-ford-f-150-2020-3",
+          "url": "https://images.caricos.com/f/ford/2015_ford_f-150/images/1920x1080/2015_ford_f-150_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2015_ford_f-150/images/1920x1080/2015_ford_f-150_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford F-150 | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-f-150-2020-4",
+      "slug": "ford-f-150-2020-4",
+      "modelId": "m-ford-f-150",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford F-150 | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2012_ford_f-150/images/1920x1080/2012_ford_f-150_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2012_ford_f-150/images/1920x1080/2012_ford_f-150_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-150-2020-4",
+          "generationId": "gen-ford-f-150-2020-4",
+          "url": "https://images.caricos.com/f/ford/2012_ford_f-150/images/1920x1080/2012_ford_f-150_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2012_ford_f-150/images/1920x1080/2012_ford_f-150_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford F-150 | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

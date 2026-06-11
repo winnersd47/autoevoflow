@@ -1,0 +1,118 @@
+{
+  "id": "m-volvo-v60-cross-country",
+  "slug": "volvo-v60-cross-country",
+  "name": "V60 Cross Country",
+  "fullName": "Volvo V60 Cross Country",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo V60 Cross Country — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_v60_cross_country/images/1920x1080/2019_volvo_v60_cross_country_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2019_volvo_v60_cross_country/images/1920x1080/2019_volvo_v60_cross_country_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-v60-cross-country-2020-0",
+      "slug": "volvo-v60-cross-country-2020-0",
+      "modelId": "m-volvo-v60-cross-country",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo V60 Cross Country | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_v60_cross_country/images/1920x1080/2019_volvo_v60_cross_country_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2019_volvo_v60_cross_country/images/1920x1080/2019_volvo_v60_cross_country_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-v60-cross-country-2020-0",
+          "generationId": "gen-volvo-v60-cross-country-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2019_volvo_v60_cross_country/images/1920x1080/2019_volvo_v60_cross_country_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_v60_cross_country/images/1920x1080/2019_volvo_v60_cross_country_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo V60 Cross Country | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-v60-cross-country-2020-1",
+      "slug": "volvo-v60-cross-country-2020-1",
+      "modelId": "m-volvo-v60-cross-country",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo V60 Cross Country | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2016_volvo_v60_cross_country/images/1920x1080/2016_volvo_v60_cross_country_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2016_volvo_v60_cross_country/images/1920x1080/2016_volvo_v60_cross_country_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-v60-cross-country-2020-1",
+          "generationId": "gen-volvo-v60-cross-country-2020-1",
+          "url": "https://images.caricos.com/v/volvo/2016_volvo_v60_cross_country/images/1920x1080/2016_volvo_v60_cross_country_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2016_volvo_v60_cross_country/images/1920x1080/2016_volvo_v60_cross_country_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo V60 Cross Country | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

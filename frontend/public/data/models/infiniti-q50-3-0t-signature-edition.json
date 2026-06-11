@@ -1,0 +1,72 @@
+{
+  "id": "m-infiniti-q50-3-0t-signature-edition",
+  "slug": "infiniti-q50-3-0t-signature-edition",
+  "name": "Q50 3.0t Signature Edition",
+  "fullName": "Infiniti Q50 3.0t Signature Edition",
+  "brandId": "brand-infiniti",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti Q50 3.0t Signature Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_q50_3.0t_signature_edition/images/1920x1080/2017_infiniti_q50_3.0t_signature_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_q50_3.0t_signature_edition/images/1920x1080/2017_infiniti_q50_3.0t_signature_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-q50-3-0t-signature-edition-2020-0",
+      "slug": "infiniti-q50-3-0t-signature-edition-2020-0",
+      "modelId": "m-infiniti-q50-3-0t-signature-edition",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Q50 3.0t Signature Edition  | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_q50_3.0t_signature_edition/images/1920x1080/2017_infiniti_q50_3.0t_signature_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_q50_3.0t_signature_edition/images/1920x1080/2017_infiniti_q50_3.0t_signature_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-q50-3-0t-signature-edition-2020-0",
+          "generationId": "gen-infiniti-q50-3-0t-signature-edition-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2017_infiniti_q50_3.0t_signature_edition/images/1920x1080/2017_infiniti_q50_3.0t_signature_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_q50_3.0t_signature_edition/images/1920x1080/2017_infiniti_q50_3.0t_signature_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Q50 3.0t Signature Edition  | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

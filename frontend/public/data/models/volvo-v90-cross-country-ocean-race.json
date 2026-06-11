@@ -1,0 +1,72 @@
+{
+  "id": "m-volvo-v90-cross-country-ocean-race",
+  "slug": "volvo-v90-cross-country-ocean-race",
+  "name": "V90 Cross Country Ocean Race",
+  "fullName": "Volvo V90 Cross Country Ocean Race",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo V90 Cross Country Ocean Race — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2018_volvo_v90_cross_country_ocean_race/images/1920x1080/2018_volvo_v90_cross_country_ocean_race_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2018_volvo_v90_cross_country_ocean_race/images/1920x1080/2018_volvo_v90_cross_country_ocean_race_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-v90-cross-country-ocean-race-2020-0",
+      "slug": "volvo-v90-cross-country-ocean-race-2020-0",
+      "modelId": "m-volvo-v90-cross-country-ocean-race",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo V90 Cross Country Ocean Race | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2018_volvo_v90_cross_country_ocean_race/images/1920x1080/2018_volvo_v90_cross_country_ocean_race_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2018_volvo_v90_cross_country_ocean_race/images/1920x1080/2018_volvo_v90_cross_country_ocean_race_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-v90-cross-country-ocean-race-2020-0",
+          "generationId": "gen-volvo-v90-cross-country-ocean-race-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2018_volvo_v90_cross_country_ocean_race/images/1920x1080/2018_volvo_v90_cross_country_ocean_race_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2018_volvo_v90_cross_country_ocean_race/images/1920x1080/2018_volvo_v90_cross_country_ocean_race_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo V90 Cross Country Ocean Race | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

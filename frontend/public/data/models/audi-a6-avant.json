@@ -1,0 +1,58 @@
+{
+  "id": "m-audi-a6-avant",
+  "slug": "audi-a6-avant",
+  "name": "A6 Avant",
+  "fullName": "Audi A6 Avant",
+  "brandId": "brand-audi",
+  "bodyType": "van",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi A6 Avant — van, produced since 2026.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "van",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-a6-avant-2026-0",
+      "slug": "audi-a6-avant-2026-0",
+      "modelId": "m-audi-a6-avant",
+      "brandId": "brand-audi",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "van"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 A6 Avant",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "van",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

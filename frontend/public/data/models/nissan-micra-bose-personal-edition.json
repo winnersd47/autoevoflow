@@ -1,0 +1,72 @@
+{
+  "id": "m-nissan-micra-bose-personal-edition",
+  "slug": "nissan-micra-bose-personal-edition",
+  "name": "Micra BOSE Personal Edition",
+  "fullName": "Nissan Micra BOSE Personal Edition",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Micra BOSE Personal Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_micra_bose_personal_edition/images/1920x1080/2017_nissan_micra_bose_personal_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_micra_bose_personal_edition/images/1920x1080/2017_nissan_micra_bose_personal_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-micra-bose-personal-edition-2020-0",
+      "slug": "nissan-micra-bose-personal-edition-2020-0",
+      "modelId": "m-nissan-micra-bose-personal-edition",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Micra BOSE Personal Edition | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_micra_bose_personal_edition/images/1920x1080/2017_nissan_micra_bose_personal_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_micra_bose_personal_edition/images/1920x1080/2017_nissan_micra_bose_personal_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-micra-bose-personal-edition-2020-0",
+          "generationId": "gen-nissan-micra-bose-personal-edition-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2017_nissan_micra_bose_personal_edition/images/1920x1080/2017_nissan_micra_bose_personal_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_micra_bose_personal_edition/images/1920x1080/2017_nissan_micra_bose_personal_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Micra BOSE Personal Edition | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

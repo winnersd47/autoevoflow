@@ -1,0 +1,72 @@
+{
+  "id": "m-bentley-flying-spur-speed-ombre-by-mulliner",
+  "slug": "bentley-flying-spur-speed-ombre-by-mulliner",
+  "name": "Flying Spur Speed Ombre by Mulliner",
+  "fullName": "Bentley Flying Spur Speed Ombre by Mulliner",
+  "brandId": "brand-bentley",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bentley Flying Spur Speed Ombre by Mulliner — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bentley/2025_bentley_flying_spur_speed_ombre_by_mulliner/images/1920x1080/2025_bentley_flying_spur_speed_ombre_by_mulliner_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bentley/2025_bentley_flying_spur_speed_ombre_by_mulliner/images/1920x1080/2025_bentley_flying_spur_speed_ombre_by_mulliner_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bentley"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bentley-flying-spur-speed-ombre-by-mulliner-2020-0",
+      "slug": "bentley-flying-spur-speed-ombre-by-mulliner-2020-0",
+      "modelId": "m-bentley-flying-spur-speed-ombre-by-mulliner",
+      "brandId": "brand-bentley",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bentley Flying Spur Speed Ombre by Mulliner | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bentley/2025_bentley_flying_spur_speed_ombre_by_mulliner/images/1920x1080/2025_bentley_flying_spur_speed_ombre_by_mulliner_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bentley/2025_bentley_flying_spur_speed_ombre_by_mulliner/images/1920x1080/2025_bentley_flying_spur_speed_ombre_by_mulliner_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bentley-flying-spur-speed-ombre-by-mulliner-2020-0",
+          "generationId": "gen-bentley-flying-spur-speed-ombre-by-mulliner-2020-0",
+          "url": "https://images.caricos.com/b/bentley/2025_bentley_flying_spur_speed_ombre_by_mulliner/images/1920x1080/2025_bentley_flying_spur_speed_ombre_by_mulliner_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bentley/2025_bentley_flying_spur_speed_ombre_by_mulliner/images/1920x1080/2025_bentley_flying_spur_speed_ombre_by_mulliner_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bentley Flying Spur Speed Ombre by Mulliner | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

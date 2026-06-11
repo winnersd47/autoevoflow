@@ -1,0 +1,72 @@
+{
+  "id": "m-nissan-altima-sr",
+  "slug": "nissan-altima-sr",
+  "name": "Altima SR",
+  "fullName": "Nissan Altima SR",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Altima SR — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_altima_sr/images/1920x1080/2016_nissan_altima_sr_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2016_nissan_altima_sr/images/1920x1080/2016_nissan_altima_sr_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-altima-sr-2020-0",
+      "slug": "nissan-altima-sr-2020-0",
+      "modelId": "m-nissan-altima-sr",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Altima SR | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_altima_sr/images/1920x1080/2016_nissan_altima_sr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2016_nissan_altima_sr/images/1920x1080/2016_nissan_altima_sr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-altima-sr-2020-0",
+          "generationId": "gen-nissan-altima-sr-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2016_nissan_altima_sr/images/1920x1080/2016_nissan_altima_sr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_altima_sr/images/1920x1080/2016_nissan_altima_sr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Altima SR | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

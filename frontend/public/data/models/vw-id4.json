@@ -1,0 +1,51 @@
+{
+  "id": "m-vw-id4",
+  "slug": "vw-id4",
+  "name": "ID.4",
+  "fullName": "Volkswagen ID.4",
+  "brandId": "brand-volkswagen",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Volkswagen ID.4 (2020-present) is the MEB-platform electric SUV — the ID family volume leader and the electric equivalent of the Tiguan in the range.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "suv",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-vw-id4-1",
+      "slug": "vw-id4-gen1",
+      "modelId": "m-vw-id4",
+      "brandId": "brand-volkswagen",
+      "codeName": "ID.4",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Volkswagen ID.4 (2020-present) is the MEB-platform electric SUV — the ID family volume leader and the electric equivalent of the Tiguan in the range.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

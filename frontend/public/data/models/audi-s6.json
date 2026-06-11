@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-s6",
+  "slug": "audi-s6",
+  "name": "S6",
+  "fullName": "Audi S6",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi S6 (1994–present) is the performance version of the A6, combining executive saloon practicality with enhanced performance. Key generations include the C5 (quattroed 4.2-litre V8) and the current C8 with a 3.0-litre turbocharged V6 MHEV.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-s6-1",
+      "slug": "audi-s6-gen1",
+      "modelId": "m-audi-s6",
+      "brandId": "brand-audi",
+      "codeName": "C4/C5/C8",
+      "generationNumber": 1,
+      "startYear": 1994,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi S6 (1994–present) is the performance version of the A6, combining executive saloon practicality with enhanced performance. Key generations include the C5 (quattroed 4.2-litre V8) and the current C8 with a 3.0-litre turbocharged V6 MHEV.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+---
+# =============================================================================
+# Frontend – Deployment (Next.js standalone)
+# =============================================================================
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend
+  namespace: automotive-ai
+  labels:
+    app: frontend
+    app.kubernetes.io/name: frontend
+    app.kubernetes.io/part-of: automotive-ai
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: frontend
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge:       1
+      maxUnavailable: 0
+  template:
+    metadata:
+      labels:
+        app: frontend
+    spec:
+      topologySpreadConstraints:
+        - maxSkew:            1
+          topologyKey:        kubernetes.io/hostname
+          whenUnsatisfiable:  DoNotSchedule
+          labelSelector:
+            matchLabels:
+              app: frontend
+
+      containers:
+        - name: frontend
+          image: ghcr.io/your-org/automotive-ai-frontend:latest
+          imagePullPolicy: Always
+          ports:
+            - name:          http
+              containerPort: 3200
+              protocol:      TCP
+
+          env:
+            - name:  NODE_ENV
+              value: "production"
+            - name:  NEXT_TELEMETRY_DISABLED
+              value: "1"
+            - name:  PORT
+              value: "3200"
+            - name:  NEXT_PUBLIC_API_URL
+              valueFrom:
+                configMapKeyRef:
+                  name: frontend-config
+                  key:  NEXT_PUBLIC_API_URL
+            - name:  NEXT_PUBLIC_WS_URL
+              valueFrom:
+                configMapKeyRef:
+                  name: frontend-config
+                  key:  NEXT_PUBLIC_WS_URL
+
+          resources:
+            requests:
+              cpu:    "100m"
+              memory: "256Mi"
+            limits:
+              cpu:    "500m"
+              memory: "512Mi"
+
+          livenessProbe:
+            httpGet:
+              path: /api/health
+              port: 3200
+            initialDelaySeconds: 20
+            periodSeconds:       30
+            timeoutSeconds:      5
+            failureThreshold:    3
+
+          readinessProbe:
+            httpGet:
+              path: /api/health
+              port: 3200
+            initialDelaySeconds: 10
+            periodSeconds:       10
+            timeoutSeconds:      5
+            failureThreshold:    3
+
+          lifecycle:
+            preStop:
+              exec:
+                command: ["/bin/sh", "-c", "sleep 5"]
+
+      terminationGracePeriodSeconds: 30
+
+---
+# =============================================================================
+# Frontend – ConfigMap
+# =============================================================================
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: frontend-config
+  namespace: automotive-ai
+  labels:
+    app: frontend
+data:
+  NEXT_PUBLIC_API_URL: "https://automotive-ai.example.com"
+  NEXT_PUBLIC_WS_URL:  "wss://automotive-ai.example.com"
+
+---
+# =============================================================================
+# Frontend – Service (ClusterIP)
+# =============================================================================
+apiVersion: v1
+kind: Service
+metadata:
+  name: frontend
+  namespace: automotive-ai
+  labels:
+    app: frontend
+spec:
+  type:     ClusterIP
+  selector:
+    app: frontend
+  ports:
+    - name:       http
+      port:       3200
+      targetPort: http
+      protocol:   TCP
+
+---
+# =============================================================================
+# Frontend – HorizontalPodAutoscaler
+# =============================================================================
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: frontend-hpa
+  namespace: automotive-ai
+  labels:
+    app: frontend
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind:       Deployment
+    name:       frontend
+  minReplicas: 2
+  maxReplicas: 6
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type:               Utilization
+          averageUtilization: 70
+  behavior:
+    scaleDown:
+      stabilizationWindowSeconds: 300

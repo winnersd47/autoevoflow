@@ -1,0 +1,42 @@
+{
+  "id": "m-maserati-maserati-bora",
+  "slug": "maserati-bora",
+  "name": "Bora",
+  "fullName": "Maserati Bora",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "endYear": 1978,
+  "isActive": false,
+  "description": "The Maserati Bora (1971–1978) was Maserati's first mid-engine production car, designed by Giorgetto Giugiaro. It used a 4.7-litre V8 mounted amidships and featured a sophisticated Citroën hydraulic system. The Bora was Maserati's direct answer to the Lamborghini Miura.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "maserati", "classic", "heritage"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-bora-1",
+      "slug": "maserati-bora-gen1",
+      "modelId": "m-maserati-maserati-bora",
+      "brandId": "brand-maserati",
+      "codeName": "AM117",
+      "generationNumber": 1,
+      "startYear": 1971,
+      "endYear": 1978,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The Maserati Bora (1971–1978) was Maserati's first mid-engine production car, designed by Giorgetto Giugiaro. It used a 4.7-litre V8 mounted amidships and featured a sophisticated Citroën hydraulic system. The Bora was Maserati's direct answer to the Lamborghini Miura.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

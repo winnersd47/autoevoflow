@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-camry-trd",
+  "slug": "toyota-camry-trd",
+  "name": "Camry TRD",
+  "fullName": "Toyota Camry TRD",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Camry TRD — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_camry_trd/images/1920x1080/2020_toyota_camry_trd_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2020_toyota_camry_trd/images/1920x1080/2020_toyota_camry_trd_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-camry-trd-2020-0",
+      "slug": "toyota-camry-trd-2020-0",
+      "modelId": "m-toyota-camry-trd",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Camry TRD | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_camry_trd/images/1920x1080/2020_toyota_camry_trd_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2020_toyota_camry_trd/images/1920x1080/2020_toyota_camry_trd_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-camry-trd-2020-0",
+          "generationId": "gen-toyota-camry-trd-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2020_toyota_camry_trd/images/1920x1080/2020_toyota_camry_trd_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_camry_trd/images/1920x1080/2020_toyota_camry_trd_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Camry TRD | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

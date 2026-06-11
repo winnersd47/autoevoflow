@@ -1,0 +1,72 @@
+{
+  "id": "m-audi-audi-q5-phev-us-spec-2021my",
+  "slug": "audi-audi-q5-phev-us-spec-2021my",
+  "name": "Audi Q5 PHEV (US-Spec) | 2021MY",
+  "fullName": "Audi Audi Q5 PHEV (US-Spec) | 2021MY",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi Audi Q5 PHEV (US-Spec) | 2021MY — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q5_phev_us/images/1920x1080/2021_audi_q5_phev_us_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_q5_phev_us/images/1920x1080/2021_audi_q5_phev_us_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-audi-q5-phev-us-spec-2021my-2020-0",
+      "slug": "audi-audi-q5-phev-us-spec-2021my-2020-0",
+      "modelId": "m-audi-audi-q5-phev-us-spec-2021my",
+      "brandId": "brand-audi",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Audi Q5 PHEV (US-Spec) | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q5_phev_us/images/1920x1080/2021_audi_q5_phev_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_q5_phev_us/images/1920x1080/2021_audi_q5_phev_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-audi-audi-q5-phev-us-spec-2021my-2020-0",
+          "generationId": "gen-audi-audi-q5-phev-us-spec-2021my-2020-0",
+          "url": "https://images.caricos.com/a/audi/2021_audi_q5_phev_us/images/1920x1080/2021_audi_q5_phev_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q5_phev_us/images/1920x1080/2021_audi_q5_phev_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Audi Q5 PHEV (US-Spec) | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

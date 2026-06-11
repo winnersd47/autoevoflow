@@ -1,0 +1,578 @@
+{
+  "id": "m-ford-m",
+  "slug": "ford-m",
+  "name": "M",
+  "fullName": "Ford M",
+  "brandId": "brand-ford",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford M — sedan, produced since 2020.",
+  "generationCount": 65,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_mach-e/images/1920x1080/2025_ford_mustang_mach-e_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_mach-e/images/1920x1080/2025_ford_mustang_mach-e_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-m-2020-0",
+      "slug": "ford-m-2020-0",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang Mach-E | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_mach-e/images/1920x1080/2025_ford_mustang_mach-e_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_mach-e/images/1920x1080/2025_ford_mustang_mach-e_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-0",
+          "generationId": "gen-ford-m-2020-0",
+          "url": "https://images.caricos.com/f/ford/2025_ford_mustang_mach-e/images/1920x1080/2025_ford_mustang_mach-e_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_mach-e/images/1920x1080/2025_ford_mustang_mach-e_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang Mach-E | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-1",
+      "slug": "ford-m-2020-1",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang GTD Spirit of America | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_gtd_spirit_of_america/images/1920x1080/2025_ford_mustang_gtd_spirit_of_america_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_gtd_spirit_of_america/images/1920x1080/2025_ford_mustang_gtd_spirit_of_america_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-1",
+          "generationId": "gen-ford-m-2020-1",
+          "url": "https://images.caricos.com/f/ford/2025_ford_mustang_gtd_spirit_of_america/images/1920x1080/2025_ford_mustang_gtd_spirit_of_america_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_gtd_spirit_of_america/images/1920x1080/2025_ford_mustang_gtd_spirit_of_america_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang GTD Spirit of America | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-2",
+      "slug": "ford-m-2020-2",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang GTD | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_gtd/images/1920x1080/2025_ford_mustang_gtd_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_gtd/images/1920x1080/2025_ford_mustang_gtd_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-2",
+          "generationId": "gen-ford-m-2020-2",
+          "url": "https://images.caricos.com/f/ford/2025_ford_mustang_gtd/images/1920x1080/2025_ford_mustang_gtd_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_gtd/images/1920x1080/2025_ford_mustang_gtd_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang GTD | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-3",
+      "slug": "ford-m-2020-3",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang 60th Anniversary Package | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_60th_anniversary_package/images/1920x1080/2025_ford_mustang_60th_anniversary_package_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_60th_anniversary_package/images/1920x1080/2025_ford_mustang_60th_anniversary_package_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-3",
+          "generationId": "gen-ford-m-2020-3",
+          "url": "https://images.caricos.com/f/ford/2025_ford_mustang_60th_anniversary_package/images/1920x1080/2025_ford_mustang_60th_anniversary_package_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_60th_anniversary_package/images/1920x1080/2025_ford_mustang_60th_anniversary_package_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang 60th Anniversary Package | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-4",
+      "slug": "ford-m-2020-4",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang 60th Anniversary | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_60th_anniversary/images/1920x1080/2025_ford_mustang_60th_anniversary_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_60th_anniversary/images/1920x1080/2025_ford_mustang_60th_anniversary_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-4",
+          "generationId": "gen-ford-m-2020-4",
+          "url": "https://images.caricos.com/f/ford/2025_ford_mustang_60th_anniversary/images/1920x1080/2025_ford_mustang_60th_anniversary_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2025_ford_mustang_60th_anniversary/images/1920x1080/2025_ford_mustang_60th_anniversary_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang 60th Anniversary | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-5",
+      "slug": "ford-m-2020-5",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang Matte Clear Film | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_matte_clear_film/images/1920x1080/2024_ford_mustang_matte_clear_film_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_matte_clear_film/images/1920x1080/2024_ford_mustang_matte_clear_film_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-5",
+          "generationId": "gen-ford-m-2020-5",
+          "url": "https://images.caricos.com/f/ford/2024_ford_mustang_matte_clear_film/images/1920x1080/2024_ford_mustang_matte_clear_film_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_matte_clear_film/images/1920x1080/2024_ford_mustang_matte_clear_film_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang Matte Clear Film | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-6",
+      "slug": "ford-m-2020-6",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang Mach-E Rally | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_mach-e_rally/images/1920x1080/2024_ford_mustang_mach-e_rally_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_mach-e_rally/images/1920x1080/2024_ford_mustang_mach-e_rally_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-6",
+          "generationId": "gen-ford-m-2020-6",
+          "url": "https://images.caricos.com/f/ford/2024_ford_mustang_mach-e_rally/images/1920x1080/2024_ford_mustang_mach-e_rally_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_mach-e_rally/images/1920x1080/2024_ford_mustang_mach-e_rally_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang Mach-E Rally | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-7",
+      "slug": "ford-m-2020-7",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang Mach-E Bronze | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_mach-e_bronze/images/1920x1080/2024_ford_mustang_mach-e_bronze_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_mach-e_bronze/images/1920x1080/2024_ford_mustang_mach-e_bronze_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-7",
+          "generationId": "gen-ford-m-2020-7",
+          "url": "https://images.caricos.com/f/ford/2024_ford_mustang_mach-e_bronze/images/1920x1080/2024_ford_mustang_mach-e_bronze_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_mach-e_bronze/images/1920x1080/2024_ford_mustang_mach-e_bronze_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang Mach-E Bronze | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-8",
+      "slug": "ford-m-2020-8",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 9,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang GT4 | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_gt4/images/1920x1080/2024_ford_mustang_gt4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_gt4/images/1920x1080/2024_ford_mustang_gt4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-8",
+          "generationId": "gen-ford-m-2020-8",
+          "url": "https://images.caricos.com/f/ford/2024_ford_mustang_gt4/images/1920x1080/2024_ford_mustang_gt4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_gt4/images/1920x1080/2024_ford_mustang_gt4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang GT4 | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-9",
+      "slug": "ford-m-2020-9",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 10,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang GT3 | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_gt3/images/1920x1080/2024_ford_mustang_gt3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_gt3/images/1920x1080/2024_ford_mustang_gt3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-9",
+          "generationId": "gen-ford-m-2020-9",
+          "url": "https://images.caricos.com/f/ford/2024_ford_mustang_gt3/images/1920x1080/2024_ford_mustang_gt3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_gt3/images/1920x1080/2024_ford_mustang_gt3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang GT3 | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-10",
+      "slug": "ford-m-2020-10",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 11,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang Dark Horse R | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_dark_horse_r/images/1920x1080/2024_ford_mustang_dark_horse_r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_dark_horse_r/images/1920x1080/2024_ford_mustang_dark_horse_r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-10",
+          "generationId": "gen-ford-m-2020-10",
+          "url": "https://images.caricos.com/f/ford/2024_ford_mustang_dark_horse_r/images/1920x1080/2024_ford_mustang_dark_horse_r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_dark_horse_r/images/1920x1080/2024_ford_mustang_dark_horse_r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang Dark Horse R | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-m-2020-11",
+      "slug": "ford-m-2020-11",
+      "modelId": "m-ford-m",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 12,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mustang Dark Horse | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_dark_horse/images/1920x1080/2024_ford_mustang_dark_horse_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_dark_horse/images/1920x1080/2024_ford_mustang_dark_horse_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-m-2020-11",
+          "generationId": "gen-ford-m-2020-11",
+          "url": "https://images.caricos.com/f/ford/2024_ford_mustang_dark_horse/images/1920x1080/2024_ford_mustang_dark_horse_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2024_ford_mustang_dark_horse/images/1920x1080/2024_ford_mustang_dark_horse_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mustang Dark Horse | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

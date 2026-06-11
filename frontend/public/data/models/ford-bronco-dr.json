@@ -1,0 +1,72 @@
+{
+  "id": "m-ford-bronco-dr",
+  "slug": "ford-bronco-dr",
+  "name": "Bronco DR",
+  "fullName": "Ford Bronco DR",
+  "brandId": "brand-ford",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford Bronco DR — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2022_ford_bronco_dr/images/1920x1080/2022_ford_bronco_dr_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2022_ford_bronco_dr/images/1920x1080/2022_ford_bronco_dr_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-bronco-dr-2020-0",
+      "slug": "ford-bronco-dr-2020-0",
+      "modelId": "m-ford-bronco-dr",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Bronco DR | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2022_ford_bronco_dr/images/1920x1080/2022_ford_bronco_dr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2022_ford_bronco_dr/images/1920x1080/2022_ford_bronco_dr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-bronco-dr-2020-0",
+          "generationId": "gen-ford-bronco-dr-2020-0",
+          "url": "https://images.caricos.com/f/ford/2022_ford_bronco_dr/images/1920x1080/2022_ford_bronco_dr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2022_ford_bronco_dr/images/1920x1080/2022_ford_bronco_dr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Bronco DR | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

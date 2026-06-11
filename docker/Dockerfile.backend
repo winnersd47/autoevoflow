@@ -1,0 +1,108 @@
+# =============================================================================
+# Backend – Multi-stage Python Dockerfile
+# Stage 1 (builder): install all build-time dependencies and Python packages
+# Stage 2 (development): builder packages + source mount, hot-reload ready
+# Stage 3 (production): minimal runtime image, non-root user, no build tools
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# Stage 1: builder – compile native extensions and install dependencies
+# ---------------------------------------------------------------------------
+FROM python:3.11-slim AS builder
+
+# Prevent .pyc files and enable unbuffered stdout/stderr for Docker logs
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1
+
+# Build-time OS packages required to compile psycopg2, cryptography, etc.
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    gcc \
+    g++ \
+    libpq-dev \
+    libssl-dev \
+    libffi-dev \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /build
+
+# Copy only requirements first for layer caching – the install layer is
+# invalidated only when requirements change, not on every code edit.
+COPY backend/requirements.txt ./requirements.txt
+COPY backend/requirements-dev.txt ./requirements-dev.txt
+
+# Install production requirements into a dedicated prefix for clean copying
+RUN pip install --prefix=/install -r requirements.txt
+
+# ---------------------------------------------------------------------------
+# Stage 2: development – source code mounted at runtime for hot-reload
+# ---------------------------------------------------------------------------
+FROM python:3.11-slim AS development
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PYTHONPATH=/app
+
+# Runtime OS packages (minimal; no compilers)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libpq5 \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy installed Python packages from builder
+COPY --from=builder /install /usr/local
+
+WORKDIR /app
+
+# In dev the source directory is bind-mounted; we only pre-install packages.
+# Install dev extras (pytest, ruff, mypy …) directly in dev image.
+COPY backend/requirements-dev.txt /tmp/requirements-dev.txt
+RUN pip install --no-cache-dir -r /tmp/requirements-dev.txt
+
+EXPOSE 8000
+
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+
+# ---------------------------------------------------------------------------
+# Stage 3: production – immutable, non-root, no source mounts
+# ---------------------------------------------------------------------------
+FROM python:3.11-slim AS production
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PYTHONPATH=/app
+
+# Only the absolute runtime OS deps
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libpq5 \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create non-root user before copying files so ownership is set once
+RUN groupadd --gid 1001 appgroup && \
+    useradd --uid 1001 --gid appgroup --shell /bin/bash --create-home appuser
+
+# Copy Python packages from builder stage
+COPY --from=builder /install /usr/local
+
+WORKDIR /app
+
+# Copy application source (exclude dev files via .dockerignore)
+COPY --chown=appuser:appgroup backend/app ./app
+
+# Switch to non-root user for security
+USER appuser
+
+EXPOSE 8000
+
+# Use 4 workers in production; adjust WEB_CONCURRENCY env var to override
+CMD ["uvicorn", "app.main:app", \
+     "--host", "0.0.0.0", \
+     "--port", "8000", \
+     "--workers", "4", \
+     "--worker-class", "uvicorn.workers.UvicornWorker", \
+     "--access-log", \
+     "--proxy-headers"]

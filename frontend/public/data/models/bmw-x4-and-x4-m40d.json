@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-x4-and-x4-m40d",
+  "slug": "bmw-x4-and-x4-m40d",
+  "name": "X4 and X4 M40d",
+  "fullName": "BMW X4 and X4 M40d",
+  "brandId": "brand-bmw",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW X4 and X4 M40d — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_x4/images/1920x1080/2019_bmw_x4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_x4/images/1920x1080/2019_bmw_x4_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-x4-and-x4-m40d-2020-0",
+      "slug": "bmw-x4-and-x4-m40d-2020-0",
+      "modelId": "m-bmw-x4-and-x4-m40d",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X4 and X4 M40d | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_x4/images/1920x1080/2019_bmw_x4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_x4/images/1920x1080/2019_bmw_x4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x4-and-x4-m40d-2020-0",
+          "generationId": "gen-bmw-x4-and-x4-m40d-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2019_bmw_x4/images/1920x1080/2019_bmw_x4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_x4/images/1920x1080/2019_bmw_x4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW X4 and X4 M40d | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

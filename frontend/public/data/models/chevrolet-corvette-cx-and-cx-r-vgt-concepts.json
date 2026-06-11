@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-corvette-cx-and-cx-r-vgt-concepts",
+  "slug": "chevrolet-corvette-cx-and-cx-r-vgt-concepts",
+  "name": "Corvette CX and CX.R VGT Concepts",
+  "fullName": "Chevrolet Corvette CX and CX.R VGT Concepts",
+  "brandId": "brand-chevrolet",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Corvette CX and CX.R VGT Concepts — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts/images/1920x1080/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts/images/1920x1080/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-corvette-cx-and-cx-r-vgt-concepts-2020-0",
+      "slug": "chevrolet-corvette-cx-and-cx-r-vgt-concepts-2020-0",
+      "modelId": "m-chevrolet-corvette-cx-and-cx-r-vgt-concepts",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Corvette CX and CX.R VGT Concepts | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts/images/1920x1080/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts/images/1920x1080/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-corvette-cx-and-cx-r-vgt-concepts-2020-0",
+          "generationId": "gen-chevrolet-corvette-cx-and-cx-r-vgt-concepts-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts/images/1920x1080/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts/images/1920x1080/2025_chevrolet_corvette_cx_and_cx.r_vgt_concepts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Corvette CX and CX.R VGT Concepts | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

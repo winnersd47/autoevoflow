@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-ft-4x-concept",
+  "slug": "toyota-ft-4x-concept",
+  "name": "FT-4X Concept",
+  "fullName": "Toyota FT-4X Concept",
+  "brandId": "brand-toyota",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota FT-4X Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_ft-4x_concept/images/1920x1080/2017_toyota_ft-4x_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2017_toyota_ft-4x_concept/images/1920x1080/2017_toyota_ft-4x_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-ft-4x-concept-2020-0",
+      "slug": "toyota-ft-4x-concept-2020-0",
+      "modelId": "m-toyota-ft-4x-concept",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota FT-4X Concept | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_ft-4x_concept/images/1920x1080/2017_toyota_ft-4x_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2017_toyota_ft-4x_concept/images/1920x1080/2017_toyota_ft-4x_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-ft-4x-concept-2020-0",
+          "generationId": "gen-toyota-ft-4x-concept-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2017_toyota_ft-4x_concept/images/1920x1080/2017_toyota_ft-4x_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_ft-4x_concept/images/1920x1080/2017_toyota_ft-4x_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota FT-4X Concept | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

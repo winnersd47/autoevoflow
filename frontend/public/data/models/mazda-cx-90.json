@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-cx-90",
+  "slug": "mazda-cx-90",
+  "name": "CX-90",
+  "fullName": "Mazda CX-90",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "Mazda CX-90 — sedan, produced since 2024.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2024_mazda_cx-90/images/1920x1080/2024_mazda_cx-90_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2024_mazda_cx-90/images/1920x1080/2024_mazda_cx-90_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-cx-90-2024-0",
+      "slug": "mazda-cx-90-2024-0",
+      "modelId": "m-mazda-cx-90",
+      "brandId": "brand-mazda",
+      "codeName": "2024",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2024 Mazda CX-90",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2024_mazda_cx-90/images/1920x1080/2024_mazda_cx-90_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2024_mazda_cx-90/images/1920x1080/2024_mazda_cx-90_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-cx-90-2024-0",
+          "generationId": "gen-mazda-cx-90-2024-0",
+          "url": "https://images.caricos.com/m/mazda/2024_mazda_cx-90/images/1920x1080/2024_mazda_cx-90_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2024_mazda_cx-90/images/1920x1080/2024_mazda_cx-90_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "2024 Mazda CX-90",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

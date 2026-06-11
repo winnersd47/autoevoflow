@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-camaro-hot-wheels-50th-anniversary-edition",
+  "slug": "chevrolet-camaro-hot-wheels-50th-anniversary-edition",
+  "name": "Camaro Hot Wheels 50th Anniversary Edition",
+  "fullName": "Chevrolet Camaro Hot Wheels 50th Anniversary Edition",
+  "brandId": "brand-chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Camaro Hot Wheels 50th Anniversary Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition/images/1920x1080/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition/images/1920x1080/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-camaro-hot-wheels-50th-anniversary-edition-2020-0",
+      "slug": "chevrolet-camaro-hot-wheels-50th-anniversary-edition-2020-0",
+      "modelId": "m-chevrolet-camaro-hot-wheels-50th-anniversary-edition",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Camaro Hot Wheels 50th Anniversary Edition | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition/images/1920x1080/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition/images/1920x1080/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-camaro-hot-wheels-50th-anniversary-edition-2020-0",
+          "generationId": "gen-chevrolet-camaro-hot-wheels-50th-anniversary-edition-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition/images/1920x1080/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition/images/1920x1080/2018_chevrolet_camaro_hot_wheels_50th_anniversary_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Camaro Hot Wheels 50th Anniversary Edition | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

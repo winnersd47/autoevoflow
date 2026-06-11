@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-corolla-touring-sports",
+  "slug": "toyota-corolla-touring-sports",
+  "name": "Corolla Touring Sports (",
+  "fullName": "Toyota Corolla Touring Sports (",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Corolla Touring Sports ( — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_touring_sports_eu/images/1920x1080/2019_toyota_corolla_touring_sports_eu_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_touring_sports_eu/images/1920x1080/2019_toyota_corolla_touring_sports_eu_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-corolla-touring-sports-2020-0",
+      "slug": "toyota-corolla-touring-sports-2020-0",
+      "modelId": "m-toyota-corolla-touring-sports",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Corolla Touring Sports (EU-Spec) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_touring_sports_eu/images/1920x1080/2019_toyota_corolla_touring_sports_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_touring_sports_eu/images/1920x1080/2019_toyota_corolla_touring_sports_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-corolla-touring-sports-2020-0",
+          "generationId": "gen-toyota-corolla-touring-sports-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2019_toyota_corolla_touring_sports_eu/images/1920x1080/2019_toyota_corolla_touring_sports_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_touring_sports_eu/images/1920x1080/2019_toyota_corolla_touring_sports_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Corolla Touring Sports (EU-Spec) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

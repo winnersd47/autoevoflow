@@ -1,0 +1,578 @@
+{
+  "id": "m-mercedes-merce",
+  "slug": "mercedes-merce",
+  "name": "Merce",
+  "fullName": "Mercedes-Benz Merce",
+  "brandId": "brand-mercedes",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "endYear": null,
+  "isActive": true,
+  "description": "Mercedes-Benz Merce — sedan, produced since 1970.",
+  "generationCount": 513,
+  "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2027_mercedes-benz_s-class/images/1920x1080/2027_mercedes-benz_s-class_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2027_mercedes-benz_s-class/images/1920x1080/2027_mercedes-benz_s-class_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mercedes"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mercedes-merce-2027-0",
+      "slug": "mercedes-merce-2027-0",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2027",
+      "generationNumber": 1,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2027 Mercedes-Benz S-Class",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2027_mercedes-benz_s-class/images/1920x1080/2027_mercedes-benz_s-class_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2027_mercedes-benz_s-class/images/1920x1080/2027_mercedes-benz_s-class_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2027-0",
+          "generationId": "gen-mercedes-merce-2027-0",
+          "url": "https://images.caricos.com/m/mercedes-benz/2027_mercedes-benz_s-class/images/1920x1080/2027_mercedes-benz_s-class_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2027_mercedes-benz_s-class/images/1920x1080/2027_mercedes-benz_s-class_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "2027 Mercedes-Benz S-Class",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2026-1",
+      "slug": "mercedes-merce-2026-1",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2026",
+      "generationNumber": 2,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 Mercedes-Maybach SL 680 Monogram Series",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-maybach_sl_680_monogram_series/images/1920x1080/2026_mercedes-maybach_sl_680_monogram_series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-maybach_sl_680_monogram_series/images/1920x1080/2026_mercedes-maybach_sl_680_monogram_series_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2026-1",
+          "generationId": "gen-mercedes-merce-2026-1",
+          "url": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-maybach_sl_680_monogram_series/images/1920x1080/2026_mercedes-maybach_sl_680_monogram_series_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-maybach_sl_680_monogram_series/images/1920x1080/2026_mercedes-maybach_sl_680_monogram_series_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 Mercedes-Maybach SL 680 Monogram Series",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2026-2",
+      "slug": "mercedes-merce-2026-2",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2026",
+      "generationNumber": 3,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 Mercedes-Benz CLA Hybrid",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-benz_cla_hybrid/images/1920x1080/2026_mercedes-benz_cla_hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-benz_cla_hybrid/images/1920x1080/2026_mercedes-benz_cla_hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2026-2",
+          "generationId": "gen-mercedes-merce-2026-2",
+          "url": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-benz_cla_hybrid/images/1920x1080/2026_mercedes-benz_cla_hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-benz_cla_hybrid/images/1920x1080/2026_mercedes-benz_cla_hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 Mercedes-Benz CLA Hybrid",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2026-3",
+      "slug": "mercedes-merce-2026-3",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2026",
+      "generationNumber": 4,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 Mercedes-Benz CLA",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-benz_cla/images/1920x1080/2026_mercedes-benz_cla_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-benz_cla/images/1920x1080/2026_mercedes-benz_cla_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2026-3",
+          "generationId": "gen-mercedes-merce-2026-3",
+          "url": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-benz_cla/images/1920x1080/2026_mercedes-benz_cla_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-benz_cla/images/1920x1080/2026_mercedes-benz_cla_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 Mercedes-Benz CLA",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2026-4",
+      "slug": "mercedes-merce-2026-4",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2026",
+      "generationNumber": 5,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 Mercedes-AMG GLE 53 HYBRID Coupe",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-amg_gle_53_hybrid_coupe/images/1920x1080/2026_mercedes-amg_gle_53_hybrid_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-amg_gle_53_hybrid_coupe/images/1920x1080/2026_mercedes-amg_gle_53_hybrid_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2026-4",
+          "generationId": "gen-mercedes-merce-2026-4",
+          "url": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-amg_gle_53_hybrid_coupe/images/1920x1080/2026_mercedes-amg_gle_53_hybrid_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2026_mercedes-amg_gle_53_hybrid_coupe/images/1920x1080/2026_mercedes-amg_gle_53_hybrid_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 Mercedes-AMG GLE 53 HYBRID Coupe",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2025-5",
+      "slug": "mercedes-merce-2025-5",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2025",
+      "generationNumber": 6,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Mercedes-Benz Vision Iconic",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_vision_iconic/images/1920x1080/2025_mercedes-benz_vision_iconic_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_vision_iconic/images/1920x1080/2025_mercedes-benz_vision_iconic_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2025-5",
+          "generationId": "gen-mercedes-merce-2025-5",
+          "url": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_vision_iconic/images/1920x1080/2025_mercedes-benz_vision_iconic_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_vision_iconic/images/1920x1080/2025_mercedes-benz_vision_iconic_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Mercedes-Benz Vision Iconic",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2025-6",
+      "slug": "mercedes-merce-2025-6",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2025",
+      "generationNumber": 7,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Mercedes-Benz G 580 with EQ Technology",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_g_580_with_eq_technology/images/1920x1080/2025_mercedes-benz_g_580_with_eq_technology_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_g_580_with_eq_technology/images/1920x1080/2025_mercedes-benz_g_580_with_eq_technology_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2025-6",
+          "generationId": "gen-mercedes-merce-2025-6",
+          "url": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_g_580_with_eq_technology/images/1920x1080/2025_mercedes-benz_g_580_with_eq_technology_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_g_580_with_eq_technology/images/1920x1080/2025_mercedes-benz_g_580_with_eq_technology_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Mercedes-Benz G 580 with EQ Technology",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2025-7",
+      "slug": "mercedes-merce-2025-7",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2025",
+      "generationNumber": 8,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Mercedes-Benz G 550",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_g_550/images/1920x1080/2025_mercedes-benz_g_550_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_g_550/images/1920x1080/2025_mercedes-benz_g_550_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2025-7",
+          "generationId": "gen-mercedes-merce-2025-7",
+          "url": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_g_550/images/1920x1080/2025_mercedes-benz_g_550_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_g_550/images/1920x1080/2025_mercedes-benz_g_550_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Mercedes-Benz G 550",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2025-8",
+      "slug": "mercedes-merce-2025-8",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2025",
+      "generationNumber": 9,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Mercedes-Benz AMG GT XX Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_amg_gt_xx_concept/images/1920x1080/2025_mercedes-benz_amg_gt_xx_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_amg_gt_xx_concept/images/1920x1080/2025_mercedes-benz_amg_gt_xx_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2025-8",
+          "generationId": "gen-mercedes-merce-2025-8",
+          "url": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_amg_gt_xx_concept/images/1920x1080/2025_mercedes-benz_amg_gt_xx_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-benz_amg_gt_xx_concept/images/1920x1080/2025_mercedes-benz_amg_gt_xx_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Mercedes-Benz AMG GT XX Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2025-9",
+      "slug": "mercedes-merce-2025-9",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2025",
+      "generationNumber": 10,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Mercedes-AMG SL 63 MANUFAKTUR Golden Coast",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_sl_63_manufaktur_golden_coast/images/1920x1080/2025_mercedes-amg_sl_63_manufaktur_golden_coast_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_sl_63_manufaktur_golden_coast/images/1920x1080/2025_mercedes-amg_sl_63_manufaktur_golden_coast_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2025-9",
+          "generationId": "gen-mercedes-merce-2025-9",
+          "url": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_sl_63_manufaktur_golden_coast/images/1920x1080/2025_mercedes-amg_sl_63_manufaktur_golden_coast_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_sl_63_manufaktur_golden_coast/images/1920x1080/2025_mercedes-amg_sl_63_manufaktur_golden_coast_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Mercedes-AMG SL 63 MANUFAKTUR Golden Coast",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2025-10",
+      "slug": "mercedes-merce-2025-10",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2025",
+      "generationNumber": 11,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Mercedes-AMG GT 63 S E PERFORMANCE 4-Door Coupe",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_gt_63_s_e_performance_4-door_coupe/images/1920x1080/2025_mercedes-amg_gt_63_s_e_performance_4-door_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_gt_63_s_e_performance_4-door_coupe/images/1920x1080/2025_mercedes-amg_gt_63_s_e_performance_4-door_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2025-10",
+          "generationId": "gen-mercedes-merce-2025-10",
+          "url": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_gt_63_s_e_performance_4-door_coupe/images/1920x1080/2025_mercedes-amg_gt_63_s_e_performance_4-door_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_gt_63_s_e_performance_4-door_coupe/images/1920x1080/2025_mercedes-amg_gt_63_s_e_performance_4-door_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Mercedes-AMG GT 63 S E PERFORMANCE 4-Door Coupe",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mercedes-merce-2025-11",
+      "slug": "mercedes-merce-2025-11",
+      "modelId": "m-mercedes-merce",
+      "brandId": "brand-mercedes",
+      "codeName": "2025",
+      "generationNumber": 12,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Mercedes-AMG GT 63 PRO Motorsport Collectors Edition",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_gt_63_pro_motorsport_collectors_edition/images/1920x1080/2025_mercedes-amg_gt_63_pro_motorsport_collectors_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_gt_63_pro_motorsport_collectors_edition/images/1920x1080/2025_mercedes-amg_gt_63_pro_motorsport_collectors_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-merce-2025-11",
+          "generationId": "gen-mercedes-merce-2025-11",
+          "url": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_gt_63_pro_motorsport_collectors_edition/images/1920x1080/2025_mercedes-amg_gt_63_pro_motorsport_collectors_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2025_mercedes-amg_gt_63_pro_motorsport_collectors_edition/images/1920x1080/2025_mercedes-amg_gt_63_pro_motorsport_collectors_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Mercedes-AMG GT 63 PRO Motorsport Collectors Edition",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

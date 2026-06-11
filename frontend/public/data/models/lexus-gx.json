@@ -1,0 +1,58 @@
+{
+  "id": "m-lexus-gx",
+  "slug": "lexus-gx",
+  "name": "GX",
+  "fullName": "Lexus GX",
+  "brandId": "brand-lexus",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lexus GX — suv, produced since 2024.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "suv",
+    "lexus"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lexus-gx-2024-0",
+      "slug": "lexus-gx-2024-0",
+      "modelId": "m-lexus-gx",
+      "brandId": "brand-lexus",
+      "codeName": "2024",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2024 GX",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

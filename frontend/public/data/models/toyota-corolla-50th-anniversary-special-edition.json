@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-corolla-50th-anniversary-special-edition",
+  "slug": "toyota-corolla-50th-anniversary-special-edition",
+  "name": "Corolla 50th Anniversary Special Edition",
+  "fullName": "Toyota Corolla 50th Anniversary Special Edition",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Corolla 50th Anniversary Special Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_corolla_50th/images/1920x1080/2017_toyota_corolla_50th_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2017_toyota_corolla_50th/images/1920x1080/2017_toyota_corolla_50th_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-corolla-50th-anniversary-special-edition-2020-0",
+      "slug": "toyota-corolla-50th-anniversary-special-edition-2020-0",
+      "modelId": "m-toyota-corolla-50th-anniversary-special-edition",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Corolla 50th Anniversary Special Edition | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_corolla_50th/images/1920x1080/2017_toyota_corolla_50th_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2017_toyota_corolla_50th/images/1920x1080/2017_toyota_corolla_50th_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-corolla-50th-anniversary-special-edition-2020-0",
+          "generationId": "gen-toyota-corolla-50th-anniversary-special-edition-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2017_toyota_corolla_50th/images/1920x1080/2017_toyota_corolla_50th_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_corolla_50th/images/1920x1080/2017_toyota_corolla_50th_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Corolla 50th Anniversary Special Edition | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

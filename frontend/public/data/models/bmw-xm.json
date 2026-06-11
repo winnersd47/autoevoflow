@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-xm",
+  "slug": "bmw-xm",
+  "name": "XM",
+  "fullName": "BMW XM",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW XM — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2023_bmw_xm/images/1920x1080/2023_bmw_xm_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2023_bmw_xm/images/1920x1080/2023_bmw_xm_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-xm-2020-0",
+      "slug": "bmw-xm-2020-0",
+      "modelId": "m-bmw-xm",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW XM | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2023_bmw_xm/images/1920x1080/2023_bmw_xm_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2023_bmw_xm/images/1920x1080/2023_bmw_xm_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-xm-2020-0",
+          "generationId": "gen-bmw-xm-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2023_bmw_xm/images/1920x1080/2023_bmw_xm_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2023_bmw_xm/images/1920x1080/2023_bmw_xm_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW XM | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

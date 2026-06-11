@@ -1,0 +1,118 @@
+{
+  "id": "m-toyota-yaris",
+  "slug": "toyota-yaris",
+  "name": "Yaris",
+  "fullName": "Toyota Yaris",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Yaris — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_yaris/images/1920x1080/2020_toyota_yaris_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2020_toyota_yaris/images/1920x1080/2020_toyota_yaris_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-yaris-2020-0",
+      "slug": "toyota-yaris-2020-0",
+      "modelId": "m-toyota-yaris",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Yaris | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_yaris/images/1920x1080/2020_toyota_yaris_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2020_toyota_yaris/images/1920x1080/2020_toyota_yaris_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-yaris-2020-0",
+          "generationId": "gen-toyota-yaris-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2020_toyota_yaris/images/1920x1080/2020_toyota_yaris_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_yaris/images/1920x1080/2020_toyota_yaris_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Yaris | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-yaris-2020-1",
+      "slug": "toyota-yaris-2020-1",
+      "modelId": "m-toyota-yaris",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Yaris | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_yaris/images/1920x1080/2015_toyota_yaris_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2015_toyota_yaris/images/1920x1080/2015_toyota_yaris_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-yaris-2020-1",
+          "generationId": "gen-toyota-yaris-2020-1",
+          "url": "https://images.caricos.com/t/toyota/2015_toyota_yaris/images/1920x1080/2015_toyota_yaris_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_yaris/images/1920x1080/2015_toyota_yaris_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Yaris | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

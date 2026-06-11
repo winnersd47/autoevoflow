@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-aygo",
+  "slug": "toyota-aygo",
+  "name": "AYGO",
+  "fullName": "Toyota AYGO",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota AYGO — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_aygo/images/1920x1080/2015_toyota_aygo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2015_toyota_aygo/images/1920x1080/2015_toyota_aygo_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-aygo-2020-0",
+      "slug": "toyota-aygo-2020-0",
+      "modelId": "m-toyota-aygo",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota AYGO | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_aygo/images/1920x1080/2015_toyota_aygo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2015_toyota_aygo/images/1920x1080/2015_toyota_aygo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-aygo-2020-0",
+          "generationId": "gen-toyota-aygo-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2015_toyota_aygo/images/1920x1080/2015_toyota_aygo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_aygo/images/1920x1080/2015_toyota_aygo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota AYGO | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

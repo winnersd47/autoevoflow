@@ -1,0 +1,72 @@
+{
+  "id": "m-nissan-kicks-concept",
+  "slug": "nissan-kicks-concept",
+  "name": "Kicks Concept",
+  "fullName": "Nissan Kicks Concept",
+  "brandId": "brand-nissan",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Kicks Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_kicks_concept/images/1920x1080/2014_nissan_kicks_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2014_nissan_kicks_concept/images/1920x1080/2014_nissan_kicks_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-kicks-concept-2020-0",
+      "slug": "nissan-kicks-concept-2020-0",
+      "modelId": "m-nissan-kicks-concept",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Kicks Concept | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_kicks_concept/images/1920x1080/2014_nissan_kicks_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2014_nissan_kicks_concept/images/1920x1080/2014_nissan_kicks_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-kicks-concept-2020-0",
+          "generationId": "gen-nissan-kicks-concept-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2014_nissan_kicks_concept/images/1920x1080/2014_nissan_kicks_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_kicks_concept/images/1920x1080/2014_nissan_kicks_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Kicks Concept | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

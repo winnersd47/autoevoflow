@@ -1,0 +1,302 @@
+{
+  "id": "m-honda-hr-v",
+  "slug": "honda-hr-v",
+  "name": "HR-V",
+  "fullName": "Honda HR-V",
+  "brandId": "brand-honda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda HR-V — sedan, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2023_honda_hr-v/images/1920x1080/2023_honda_hr-v_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2023_honda_hr-v/images/1920x1080/2023_honda_hr-v_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-hr-v-2020-0",
+      "slug": "honda-hr-v-2020-0",
+      "modelId": "m-honda-hr-v",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda HR-V (US-Spec) | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2023_honda_hr-v_us/images/1920x1080/2023_honda_hr-v_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2023_honda_hr-v_us/images/1920x1080/2023_honda_hr-v_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-hr-v-2020-0",
+          "generationId": "gen-honda-hr-v-2020-0",
+          "url": "https://images.caricos.com/h/honda/2023_honda_hr-v_us/images/1920x1080/2023_honda_hr-v_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2023_honda_hr-v_us/images/1920x1080/2023_honda_hr-v_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda HR-V (US-Spec) | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-hr-v-2020-1",
+      "slug": "honda-hr-v-2020-1",
+      "modelId": "m-honda-hr-v",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda HR-V (Euro-Spec) | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_hr-v_euro/images/1920x1080/2016_honda_hr-v_euro_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2016_honda_hr-v_euro/images/1920x1080/2016_honda_hr-v_euro_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-hr-v-2020-1",
+          "generationId": "gen-honda-hr-v-2020-1",
+          "url": "https://images.caricos.com/h/honda/2016_honda_hr-v_euro/images/1920x1080/2016_honda_hr-v_euro_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_hr-v_euro/images/1920x1080/2016_honda_hr-v_euro_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda HR-V (Euro-Spec) | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-hr-v-2020-0",
+      "slug": "honda-hr-v-2020-0",
+      "modelId": "m-honda-hr-v",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda HR-V | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2023_honda_hr-v/images/1920x1080/2023_honda_hr-v_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2023_honda_hr-v/images/1920x1080/2023_honda_hr-v_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-hr-v-2020-0",
+          "generationId": "gen-honda-hr-v-2020-0",
+          "url": "https://images.caricos.com/h/honda/2023_honda_hr-v/images/1920x1080/2023_honda_hr-v_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2023_honda_hr-v/images/1920x1080/2023_honda_hr-v_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda HR-V | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-hr-v-2020-1",
+      "slug": "honda-hr-v-2020-1",
+      "modelId": "m-honda-hr-v",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda HR-V | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2019_honda_hr-v/images/1920x1080/2019_honda_hr-v_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2019_honda_hr-v/images/1920x1080/2019_honda_hr-v_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-hr-v-2020-1",
+          "generationId": "gen-honda-hr-v-2020-1",
+          "url": "https://images.caricos.com/h/honda/2019_honda_hr-v/images/1920x1080/2019_honda_hr-v_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2019_honda_hr-v/images/1920x1080/2019_honda_hr-v_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda HR-V | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-hr-v-2020-2",
+      "slug": "honda-hr-v-2020-2",
+      "modelId": "m-honda-hr-v",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda HR-V | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_hr-v/images/1920x1080/2016_honda_hr-v_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2016_honda_hr-v/images/1920x1080/2016_honda_hr-v_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-hr-v-2020-2",
+          "generationId": "gen-honda-hr-v-2020-2",
+          "url": "https://images.caricos.com/h/honda/2016_honda_hr-v/images/1920x1080/2016_honda_hr-v_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_hr-v/images/1920x1080/2016_honda_hr-v_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda HR-V | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-hr-v-2020-3",
+      "slug": "honda-hr-v-2020-3",
+      "modelId": "m-honda-hr-v",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda HR-V | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2015_honda_hr-v/images/1920x1080/2015_honda_hr-v_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2015_honda_hr-v/images/1920x1080/2015_honda_hr-v_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-hr-v-2020-3",
+          "generationId": "gen-honda-hr-v-2020-3",
+          "url": "https://images.caricos.com/h/honda/2015_honda_hr-v/images/1920x1080/2015_honda_hr-v_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2015_honda_hr-v/images/1920x1080/2015_honda_hr-v_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda HR-V | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

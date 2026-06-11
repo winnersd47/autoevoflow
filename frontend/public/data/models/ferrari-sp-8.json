@@ -1,0 +1,72 @@
+{
+  "id": "m-ferrari-sp-8",
+  "slug": "ferrari-sp-8",
+  "name": "SP-8",
+  "fullName": "Ferrari SP-8",
+  "brandId": "brand-ferrari",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ferrari SP-8 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_sp-8/images/1920x1080/2024_ferrari_sp-8_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_sp-8/images/1920x1080/2024_ferrari_sp-8_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ferrari"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ferrari-sp-8-2020-0",
+      "slug": "ferrari-sp-8-2020-0",
+      "modelId": "m-ferrari-sp-8",
+      "brandId": "brand-ferrari",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ferrari SP-8 | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_sp-8/images/1920x1080/2024_ferrari_sp-8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_sp-8/images/1920x1080/2024_ferrari_sp-8_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ferrari-sp-8-2020-0",
+          "generationId": "gen-ferrari-sp-8-2020-0",
+          "url": "https://images.caricos.com/f/ferrari/2024_ferrari_sp-8/images/1920x1080/2024_ferrari_sp-8_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_sp-8/images/1920x1080/2024_ferrari_sp-8_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ferrari SP-8 | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

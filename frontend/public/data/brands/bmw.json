@@ -1,0 +1,819 @@
+{
+  "id": "brand-bmw",
+  "slug": "bmw",
+  "name": "BMW",
+  "fullName": "Bayerische Motoren Werke AG",
+  "country": "Germany",
+  "countryCode": "DE",
+  "foundingYear": 1916,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "https://images.caricos.com/b/bmw/2023_bmw_m3/images/1920x1080/2023_bmw_m3_1_1920x1080.jpg",
+  "description": "Bayerische Motoren Werke AG — founded in Munich in 1916 as an aircraft engine manufacturer — became an automobile company only in 1928, but spent the next five decades perfecting a single idea: that a car should extend the driver's will, not insulate them from the road. The 'Freude am Fahren' (Joy of Driving) philosophy, born with the 1966 Neue Klasse compact and crystallised in the 1975 E21 3 Series, is not a marketing slogan — it is a precise engineering brief that specifies 50:50 weight distribution, rear-wheel drive, and a longitudinally mounted engine balanced over the front axle.\n\nFrom the first M5 in 1984 to the E39 that Motor Trend called 'the greatest car in the world' in 1998, BMW's M GmbH division has consistently demonstrated that luxury and performance are not opposed but identical — that the car which handles best is also the most satisfying to live with. The M3, in four generations from the E30 to the G80, has defined what a sports sedan should be for four decades.\n\nThe brand's current challenge is the most philosophically complex in its history: preserving driving pleasure in an electric age. The i4 and i5, built on the same CLAR platform as their combustion siblings, represent BMW's answer — that the feedback loop between driver and machine can be engineered through software and chassis tuning as effectively as through a naturally aspirated straight-six. Whether that is true will define BMW's next chapter.",
+  "parentCompany": "BMW Group",
+  "headquarters": "Munich, Germany",
+  "modelCount": 357,
+  "generationCount": 458,
+  "tags": [
+    "german",
+    "luxury",
+    "performance",
+    "rear-wheel-drive",
+    "m-performance",
+    "freude-am-fahren",
+    "electric"
+  ],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "dna": {
+    "id": "dna-bmw",
+    "brandId": "brand-bmw",
+    "overallScore": 91,
+    "dimensions": [
+      {
+        "key": "driving_dynamics",
+        "label": "Driving Dynamics",
+        "score": 97,
+        "description": "BMW's core identity: 50:50 weight distribution, rear-wheel drive, and a steering feel that communicates road surface to the driver's hands. No other volume manufacturer has maintained this commitment across entry-level hatchbacks and flagship sedans simultaneously.",
+        "trend": "declining"
+      },
+      {
+        "key": "m_performance",
+        "label": "M Performance Heritage",
+        "score": 96,
+        "description": "M GmbH has produced defining sports cars in every segment: M3 (compact), M5 (executive), M8 (grand tourer). The E39 M5 with 400 hp V8 was the benchmark super-saloon of its era; the G80 M3 with S58 engine reaches that benchmark from a turbocharged 3.0-litre six.",
+        "trend": "stable"
+      },
+      {
+        "key": "engineering_precision",
+        "label": "Engineering Precision",
+        "score": 94,
+        "description": "BMW's straight-six engines — the M30, S38, S54, N52, B58, S58 — form a continuous lineage of mechanical refinement. The CLAR modular platform underpins vehicles from 1 Series to 7 Series and shares architecture with the i4 and i5 electric variants.",
+        "trend": "stable"
+      },
+      {
+        "key": "design_language",
+        "label": "Design Coherence",
+        "score": 79,
+        "description": "BMW's design language — the Hofmeister Kink C-pillar, the short overhangs, the forward-leaning stance — has been coherent for 50 years. The controversial expanded kidney grille on M3/M4 and iX has divided opinion, representing the brand's most polarising design move since the E65 7 Series.",
+        "trend": "declining"
+      },
+      {
+        "key": "innovation",
+        "label": "Technology & Innovation",
+        "score": 88,
+        "description": "BMW pioneered iDrive in 2001 (controversial) and then refined it into the benchmark infotainment system. The i3 in 2013 was a genuine technological statement — carbon fibre passenger cell, dedicated BEV platform — that predated most competitors' electric programmes by years.",
+        "trend": "rising"
+      },
+      {
+        "key": "premium_position",
+        "label": "Premium Positioning",
+        "score": 86,
+        "description": "BMW occupies the premium performance segment — above Toyota/VW mass market, below Rolls-Royce/Bentley ultra-luxury. The brand's 357-model range from 1 Series hatchback to 7 Series PHEV covers this territory comprehensively, though breadth risks diluting the performance core.",
+        "trend": "stable"
+      }
+    ],
+    "dominantStyle": "Precision Performance",
+    "colorPalette": [
+      "#1c69d4",
+      "#ffffff",
+      "#000000",
+      "#a0a0a0"
+    ],
+    "keyElements": [
+      "kidney grille",
+      "Hofmeister Kink",
+      "50:50 balance",
+      "straight-six",
+      "M badge",
+      "short overhangs"
+    ],
+    "influencedBy": [
+      "motorsport engineering",
+      "Neue Klasse 1966",
+      "M GmbH racing programme"
+    ],
+    "hasInfluenced": [
+      "Mercedes-Benz AMG strategy",
+      "Audi RS programme",
+      "sports sedan segment definition"
+    ],
+    "temporalEvolution": [
+      {
+        "year": 1966,
+        "score": 72,
+        "milestone": "Neue Klasse — birth of the sports sedan formula",
+        "dimensionScores": {
+          "Driving Dynamics": 82,
+          "M Performance Heritage": 40,
+          "Engineering Precision": 75,
+          "Design Coherence": 80,
+          "Technology & Innovation": 65,
+          "Premium Positioning": 60
+        }
+      },
+      {
+        "year": 1975,
+        "score": 82,
+        "milestone": "E21 3 Series — Freude am Fahren established",
+        "dimensionScores": {
+          "Driving Dynamics": 90,
+          "M Performance Heritage": 55,
+          "Engineering Precision": 82,
+          "Design Coherence": 88,
+          "Technology & Innovation": 70,
+          "Premium Positioning": 72
+        }
+      },
+      {
+        "year": 1986,
+        "score": 90,
+        "milestone": "E30 M3 DTM — motorsport DNA on road",
+        "dimensionScores": {
+          "Driving Dynamics": 97,
+          "M Performance Heritage": 95,
+          "Engineering Precision": 88,
+          "Design Coherence": 90,
+          "Technology & Innovation": 76,
+          "Premium Positioning": 80
+        }
+      },
+      {
+        "year": 1994,
+        "score": 93,
+        "milestone": "E36 M3 / E38 7 Series — breadth of range",
+        "dimensionScores": {
+          "Driving Dynamics": 96,
+          "M Performance Heritage": 93,
+          "Engineering Precision": 92,
+          "Design Coherence": 92,
+          "Technology & Innovation": 82,
+          "Premium Positioning": 87
+        }
+      },
+      {
+        "year": 1998,
+        "score": 95,
+        "milestone": "E39 M5 — world's fastest production sedan",
+        "dimensionScores": {
+          "Driving Dynamics": 99,
+          "M Performance Heritage": 99,
+          "Engineering Precision": 96,
+          "Design Coherence": 94,
+          "Technology & Innovation": 85,
+          "Premium Positioning": 90
+        }
+      },
+      {
+        "year": 2002,
+        "score": 85,
+        "milestone": "E65 7 Series iDrive — controversial, ahead of time",
+        "dimensionScores": {
+          "Driving Dynamics": 91,
+          "M Performance Heritage": 90,
+          "Engineering Precision": 88,
+          "Design Coherence": 72,
+          "Technology & Innovation": 92,
+          "Premium Positioning": 84
+        }
+      },
+      {
+        "year": 2013,
+        "score": 91,
+        "milestone": "i3 / i8 — electric vision, carbon fibre pioneer",
+        "dimensionScores": {
+          "Driving Dynamics": 93,
+          "M Performance Heritage": 92,
+          "Engineering Precision": 93,
+          "Design Coherence": 85,
+          "Technology & Innovation": 97,
+          "Premium Positioning": 88
+        }
+      },
+      {
+        "year": 2020,
+        "score": 89,
+        "milestone": "G80 M3 / S58 engine — performance peak, grille controversy",
+        "dimensionScores": {
+          "Driving Dynamics": 97,
+          "M Performance Heritage": 97,
+          "Engineering Precision": 97,
+          "Design Coherence": 70,
+          "Technology & Innovation": 90,
+          "Premium Positioning": 88
+        }
+      },
+      {
+        "year": 2024,
+        "score": 88,
+        "milestone": "Neue Klasse EV architecture — redefining the formula",
+        "dimensionScores": {
+          "Driving Dynamics": 90,
+          "M Performance Heritage": 94,
+          "Engineering Precision": 95,
+          "Design Coherence": 76,
+          "Technology & Innovation": 96,
+          "Premium Positioning": 87
+        }
+      }
+    ],
+    "createdAt": "2026-01-15T10:00:00Z",
+    "updatedAt": "2026-01-15T10:00:00Z"
+  },
+  "analysis": {
+    "id": "analysis-bmw-brand",
+    "entityType": "brand",
+    "entityId": "brand-bmw",
+    "analysisType": "design_evolution",
+    "provider": "claude-3-5",
+    "headline": "The Freude Paradox: BMW's Struggle to Preserve Driving Pleasure in the Electric Age",
+    "summary": "BMW built the most coherent performance brand in volume manufacturing — 50:50 balance, rear-wheel drive, M GmbH — and now faces its deepest philosophical test: whether 'Freude am Fahren' can survive electrification. The answer will be found not in horsepower figures but in whether the i4 and i5 can deliver the same driver-machine feedback loop that made the E39 M5 a landmark.",
+    "fullText": "BMW's competitive advantage has always been architectural rather than additive. While Mercedes-Benz pursued refinement through isolation — softer mounts, more sound deadening, hydraulic assistance that filtered out road feedback — BMW pursued it through precision. The 1966 Neue Klasse compact, with its semi-trailing arm rear suspension and front MacPherson struts, established a handling balance that was simply absent from the German competitors of its era. What engineers at BMW discovered, and what the Freude am Fahren slogan would later codify, is that a car which accurately transmits information to the driver is not merely more enjoyable — it is objectively safer, because the driver can react to what the car is telling them. This was not a boutique philosophy; it was the founding logic of a mass-market engineering programme.\n\nThe M GmbH programme, established in 1972 to run BMW's Formula 2 and touring car operations, changed the industry's definition of what a performance street car could be. The M1 of 1978 — BMW's only purpose-built mid-engine supercar, designed by Giorgetto Giugiaro and developed partly with Lamborghini — was a halo product that established M GmbH's technical credibility. But it was the E30 M3 of 1986 that demonstrated the real argument: that a homologation special built to win the DTM touring car championship could also be a practical, daily-usable sports car. The E30 M3's four-cylinder engine, bespoke body panels, and recalibrated suspension turned an ordinary 3 Series into one of the most celebrated driver's cars of the twentieth century. The subsequent M3 generations — E36, E46, E92, G80 — have each redefined the sports sedan benchmark for their era, and each has been criticised by purists for the next generation being too large, too powerful, or too technologically complex. This is a tradition as old as the car itself.\n\nThe iDrive controversy of 2001 is the most instructive episode in BMW's technology history, because it illustrates the difference between being wrong and being right too early. The E65 7 Series was the first production car to replace physical switches with a single rotary controller and screen, consolidating what had been 270 individual controls into one interface. The automotive press was nearly unanimous in condemning it. Road & Track called it 'a navigational nightmare'; Car and Driver counted 700 menu items. BMW's mistake was not the concept — every premium car now uses a version of this architecture — but the execution: inadequate haptic feedback, excessive menu depth, and a learning curve that alienated existing customers. The 2008 third-generation iDrive addressed the underlying issues without abandoning the concept. BMW was right; it simply needed eight years to be right correctly.\n\nThe BMW i3 of 2013 represents the most technically radical production car BMW has built since the M1. Its Life Drive architecture separated the vehicle into two modules: an aluminium chassis containing the battery and drivetrain, and a carbon fibre reinforced plastic passenger cell that was stronger and lighter than equivalent steel. The CFRP body — manufactured in Moses Lake, Washington, using hydroelectric power — was BMW's answer to the weight penalty of the battery pack. The car was genuinely strange to drive: the regenerative braking was so strong that one-pedal driving was natural from the first kilometre, and the absence of a conventional gearbox produced a linear power delivery that felt more like an aircraft than an automobile. BMW chose not to scale CFRP to its broader range because the manufacturing cost was prohibitive at volume, but the engineering knowledge accumulated in developing the i3 informed every subsequent BMW chassis programme, including the CLAR platform that now underpins the 3, 4, 5, 6, 7, and 8 Series families simultaneously.\n\nThe enlarged kidney grille introduced on the G20 M3/M4 in 2020 and the iX in 2021 has become the most divisive single design decision in BMW's recent history, generating a volume of public commentary that recalls the original Bangle-era E65 controversy of 2001. The engineering rationale for the iX's grille is real: a large front aperture is required for the thermal management of a high-voltage battery system, and BMW chose to make a virtue of the necessity by scaling up the brand's most recognisable design element. The decision to apply the same oversized grille to the combustion M3 was more purely aesthetic, and it is here that the brand identity argument becomes genuinely complex. BMW's design team has stated publicly that they believe the enlarged kidney grille will, in time, be recognised as a correct evolution of the brand's visual language — just as the Hofmeister Kink C-pillar treatment, first seen in 1961, became an immediately recognisable signature rather than a peculiarity. Whether that confidence is justified will be determined by what BMW's customers decide over the next decade.",
+    "insights": [
+      {
+        "id": "insight-bmw-1",
+        "category": "The 50:50 Formula",
+        "text": "BMW's insistence on 50:50 weight distribution is not aesthetic preference but engineering logic: equal tyre loading at all four corners means no wheel is asked to simultaneously steer, brake, and drive at its limit. This formula, maintained from the 1966 Neue Klasse through the 2023 G80 M3, is what gives BMW its distinctive steering feel and why the brand's handling advantage is measurable on a test track, not just felt subjectively.",
+        "confidence": 0.97,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-bmw-2",
+        "category": "M GmbH — The Performance Subsidiary",
+        "text": "BMW Motorsport GmbH (later BMW M GmbH) was founded in 1972 to run BMW's racing programme. Its road car division began with the M1 in 1978 — BMW's only purpose-built mid-engine supercar — and evolved through the M3 and M5 into a complete performance range. The critical insight is that M cars are not tuned versions of standard cars: they receive different engines (S54, S65, S58), different bodies, and different chassis geometry, making them genuinely distinct products.",
+        "confidence": 0.96,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-bmw-3",
+        "category": "iDrive — Right Idea, Wrong Decade",
+        "text": "The E65 7 Series iDrive of 2001 was arguably the most important interface innovation in automotive history — consolidating dozens of controls into a single rotary controller and screen. It was universally criticised at launch as overcomplicated. Twenty years later, every premium car uses a version of this architecture. BMW's mistake was not the concept but the execution: 700 menu items, no haptic feedback, and a learning curve that alienated buyers. The 2008 revision fixed what mattered.",
+        "confidence": 0.93,
+        "importance": "high"
+      },
+      {
+        "id": "insight-bmw-4",
+        "category": "The i3 — Carbon Fibre Gamble",
+        "text": "The 2013 BMW i3 was the most technically radical production car BMW had built since the M1. Its carbon fibre reinforced plastic passenger cell (CFRP), dedicated BEV platform, and Life Drive modular architecture predated Tesla's Model 3 platform by four years. BMW chose not to scale CFRP to other models — the cost was too high — but the learning informed every subsequent BMW chassis decision. The i3 was less a commercial success than a technical laboratory that bought BMW a decade of knowledge.",
+        "confidence": 0.92,
+        "importance": "high"
+      },
+      {
+        "id": "insight-bmw-5",
+        "category": "The Grille Question",
+        "text": "The enlarged kidney grille on the G20 M3/M4 (2020) and iX (2021) has become the most discussed design decision in BMW's recent history. The engineering rationale is real — the iX requires a large front aperture for thermal management of its battery system — but applying the same design language to the combustion M3 has divided the brand's audience. BMW's design team is betting that the grille, like the Hofmeister Kink in 1961, will become a signature element that future generations regard as obviously correct.",
+        "confidence": 0.88,
+        "importance": "high"
+      }
+    ],
+    "confidenceScore": 0.93,
+    "processingTimeMs": 4200,
+    "createdAt": "2026-01-15T10:00:00Z",
+    "isCached": true
+  },
+  "models": [
+    {
+      "id": "m-bmw-3-series",
+      "slug": "bmw-3-series",
+      "name": "3 Series",
+      "fullName": "BMW 3 Series",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW 3 Series — sedan, produced since 2020.",
+      "generationCount": 5,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_3_series/images/1920x1080/2025_bmw_3_series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_3_series/images/1920x1080/2025_bmw_3_series_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-m3",
+      "slug": "bmw-m3",
+      "name": "M3",
+      "fullName": "BMW M3",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW M3 — sedan, produced since 2020.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m3/images/1920x1080/2025_bmw_m3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_m3/images/1920x1080/2025_bmw_m3_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-5-series",
+      "slug": "bmw-5-series",
+      "name": "5 Series",
+      "fullName": "BMW 5 Series",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2017,
+      "endYear": 2017,
+      "isActive": false,
+      "description": "BMW 5 Series — sedan, produced since 2017.",
+      "generationCount": 5,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2017_bmw_5-series/images/1920x1080/2017_bmw_5-series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2017_bmw_5-series/images/1920x1080/2017_bmw_5-series_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-m5",
+      "slug": "bmw-m5",
+      "name": "M5",
+      "fullName": "BMW M5",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2025,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW M5 — sedan, produced since 2025.",
+      "generationCount": 8,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5/images/1920x1080/2025_bmw_m5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5/images/1920x1080/2025_bmw_m5_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-7-series",
+      "slug": "bmw-7-series",
+      "name": "7 Series",
+      "fullName": "BMW 7 Series",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW 7 Series — sedan, produced since 2020.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2020_bmw_7-series/images/1920x1080/2020_bmw_7-series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2020_bmw_7-series/images/1920x1080/2020_bmw_7-series_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-x5",
+      "slug": "bmw-x5",
+      "name": "X5",
+      "fullName": "BMW X5",
+      "brandId": "brand-bmw",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW X5 — suv, produced since 2020.",
+      "generationCount": 4,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_x5/images/1920x1080/2019_bmw_x5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_x5/images/1920x1080/2019_bmw_x5_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-x3",
+      "slug": "bmw-x3",
+      "name": "X3",
+      "fullName": "BMW X3",
+      "brandId": "brand-bmw",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW X3 — suv, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2015_bmw_x3_us/images/1920x1080/2015_bmw_x3_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2015_bmw_x3_us/images/1920x1080/2015_bmw_x3_us_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-4-series-gran-coup",
+      "slug": "bmw-4-series-gran-coup",
+      "name": "4 Series",
+      "fullName": "BMW 4 Series",
+      "brandId": "brand-bmw",
+      "bodyType": "coupe",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW 4 Series — coupe, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_4-series_gran_coupe/images/1920x1080/2022_bmw_4-series_gran_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2022_bmw_4-series_gran_coupe/images/1920x1080/2022_bmw_4-series_gran_coupe_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-m4",
+      "slug": "bmw-m4",
+      "name": "M4",
+      "fullName": "BMW M4",
+      "brandId": "brand-bmw",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW M4 — coupe, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2018_bmw_m4/images/1920x1080/2018_bmw_m4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2018_bmw_m4/images/1920x1080/2018_bmw_m4_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-z4",
+      "slug": "bmw-z4",
+      "name": "Z4",
+      "fullName": "BMW Z4",
+      "brandId": "brand-bmw",
+      "bodyType": "convertible",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW Z4 — convertible, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_z4_uk/images/1920x1080/2019_bmw_z4_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_z4_uk/images/1920x1080/2019_bmw_z4_uk_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-8-series",
+      "slug": "bmw-8-series",
+      "name": "8 Series",
+      "fullName": "BMW 8 Series",
+      "brandId": "brand-bmw",
+      "bodyType": "coupe",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW 8 Series — coupe, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_8-series/images/1920x1080/2019_bmw_8-series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_8-series/images/1920x1080/2019_bmw_8-series_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-i4",
+      "slug": "bmw-i4",
+      "name": "i4",
+      "fullName": "BMW i4",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW i4 — sedan, produced since 2020.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_i4/images/1920x1080/2025_bmw_i4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_i4/images/1920x1080/2025_bmw_i4_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-ix",
+      "slug": "bmw-ix",
+      "name": "iX",
+      "fullName": "BMW iX",
+      "brandId": "brand-bmw",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2026,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW iX — suv, produced since 2026.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2026_bmw_ix/images/1920x1080/2026_bmw_ix_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2026_bmw_ix/images/1920x1080/2026_bmw_ix_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-i7",
+      "slug": "bmw-i7",
+      "name": "i7",
+      "fullName": "BMW i7",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW i7 — sedan, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2023_bmw_i7/images/1920x1080/2023_bmw_i7_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2023_bmw_i7/images/1920x1080/2023_bmw_i7_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-i5",
+      "slug": "bmw-i5",
+      "name": "i5",
+      "fullName": "BMW i5",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW i5 — sedan, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2024_bmw_i5/images/1920x1080/2024_bmw_i5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2024_bmw_i5/images/1920x1080/2024_bmw_i5_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-1-series",
+      "slug": "bmw-1-series",
+      "name": "1 Series",
+      "fullName": "BMW 1 Series",
+      "brandId": "brand-bmw",
+      "bodyType": "hatchback",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW 1 Series — hatchback, produced since 2020.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2020_bmw_1-series/images/1920x1080/2020_bmw_1-series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2020_bmw_1-series/images/1920x1080/2020_bmw_1-series_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-2-series-coup",
+      "slug": "bmw-2-series-coup",
+      "name": "2 Series Coupe",
+      "fullName": "BMW 2 Series Coupe",
+      "brandId": "brand-bmw",
+      "bodyType": "coupe",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW 2 Series Coupe — coupe, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_2_series_coupe_uk/images/1920x1080/2022_bmw_2_series_coupe_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2022_bmw_2_series_coupe_uk/images/1920x1080/2022_bmw_2_series_coupe_uk_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-m2",
+      "slug": "bmw-m2",
+      "name": "M2",
+      "fullName": "BMW M2",
+      "brandId": "brand-bmw",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW M2 — coupe, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2023_bmw_m2_uk-spec/images/1920x1080/2023_bmw_m2_uk-spec_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2023_bmw_m2_uk-spec/images/1920x1080/2023_bmw_m2_uk-spec_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-x6",
+      "slug": "bmw-x6",
+      "name": "X6",
+      "fullName": "BMW X6",
+      "brandId": "brand-bmw",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW X6 — suv, produced since 2020.",
+      "generationCount": 4,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2020_bmw_x6/images/1920x1080/2020_bmw_x6_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2020_bmw_x6/images/1920x1080/2020_bmw_x6_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-x7",
+      "slug": "bmw-x7",
+      "name": "X7",
+      "fullName": "BMW X7",
+      "brandId": "brand-bmw",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW X7 — suv, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_x7_uk/images/1920x1080/2019_bmw_x7_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_x7_uk/images/1920x1080/2019_bmw_x7_uk_1_1920x1080.jpg"
+    },
+    {
+      "id": "m-bmw-6-series",
+      "slug": "bmw-6-series",
+      "name": "6-Series",
+      "fullName": "BMW 6 Series",
+      "brandId": "brand-bmw",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "BMW 6 Series — gran tourer coupe lineage from E24 (1976) through F13 (2018), succeeded by the 8 Series.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2018_bmw_6-series/images/1920x1080/2018_bmw_6-series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2018_bmw_6-series/images/1920x1080/2018_bmw_6-series_1_1920x1080.jpg",
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "latestCars": [
+    {
+      "id": "ncs-bmw-2027-m2_with_m_xdrive",
+      "name": "BMW M2 with M xDrive",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/BMW-M2_with_M_xDrive-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-m2_with_m_xdrive/",
+      "description": "The combination of the M xDrive all-wheel-drive system and Active M Differential gives the new BMW M2 with M xDrive further improved sprinting power.",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-bmw-2027-m3_cs_handschalter",
+      "name": "BMW M3 CS Handschalter",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/BMW-M3_CS_Handschalter-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-m3_cs_handschalter/",
+      "description": "The chassis technology in the BMW M3 CS Handschalter has been tuned in consideration of the drivetrain's unique performance characteristics and the vehicle's weight distribution.",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-bmw-2027-ix3_long_wheelbase",
+      "name": "BMW iX3 Long Wheelbase",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/BMW-iX3_Long_Wheelbase-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-ix3_long_wheelbase/",
+      "description": "The BMW Group is intensifying final testing for the BMW iX3 Long Wheelbase in China, putting the first Neue Klasse model developed specifically for Chinese...",
+      "scrapedAt": "2026-06-10T03:06:57.329Z"
+    },
+    {
+      "id": "ncs-bmw-2026-vision_alpina_concept",
+      "name": "BMW Vision Alpina Concept",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/BMW-Vision_Alpina_Concept-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2026-vision_alpina_concept/",
+      "description": "Vision BMW ALPINA is a respectful interpretation of the brand's heritage, shaped by the most contemporary creative instincts. At 5,200 mm in length, its presence is substantial...",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-bmw-2025-speedtop_concept",
+      "name": "BMW Speedtop Concept",
+      "year": 2025,
+      "imageUrl": "https://www.netcarshow.com/BMW-Speedtop_Concept-2025-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2025-speedtop_concept/",
+      "description": "BMW Concept Speedtop shares its eye-catching form language with the BMW Skytop and will be offered to collectors and connoisseurs in a strictly limited small series.",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-bmw-2024-skytop_concept",
+      "name": "BMW Skytop Concept",
+      "year": 2024,
+      "imageUrl": "https://www.netcarshow.com/BMW-Skytop_Concept-2024-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2024-skytop_concept/",
+      "description": "The clean exterior of the BMW Concept Skytop is designed to inspire a desire to travel. Its taut, muscular surfaces are defined by a few precise lines...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-bmw-2024-vision_neue_klasse_x_concept",
+      "name": "BMW Vision Neue Klasse X Concept",
+      "year": 2024,
+      "imageUrl": "https://www.netcarshow.com/BMW-Vision_Neue_Klasse_X_Concept-2024-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2024-vision_neue_klasse_x_concept/",
+      "description": "BMW Vision Neue Klasse X brings the aesthetics, technology, sustainability, and philosophy of the Neue Klasse to the Sports Activity Vehicles sector.",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-bmw-2023-touring_coupe_concept",
+      "name": "BMW Touring Coupe Concept",
+      "year": 2023,
+      "imageUrl": "https://www.netcarshow.com/BMW-Touring_Coupe_Concept-2023-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2023-touring_coupe_concept/",
+      "description": "The design highlight of the BMW Concept Touring Coupe is its sculpted rear end. Created from the flowing contours of the roof, which merge seamlessly with the rear side...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-bmw-2023-vision_neue_klasse_concept",
+      "name": "BMW Vision Neue Klasse Concept",
+      "year": 2023,
+      "imageUrl": "https://www.netcarshow.com/BMW-Vision_Neue_Klasse_Concept-2023-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2023-vision_neue_klasse_concept/",
+      "description": "Analogue operating controls have been reduced to a minimum in the BMW Vision Neue Klasse. Human-car interaction takes place through the BMW Panoramic Vision, the Central Display...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-bmw-2021-i_vision_circular_concept",
+      "name": "BMW i Vision Circular Concept",
+      "year": 2021,
+      "imageUrl": "https://www.netcarshow.com/BMW-i_Vision_Circular_Concept-2021-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2021-i_vision_circular_concept/",
+      "description": "The overriding design aim for the BMW i Vision Circular was to create a vehicle that is optimised for closed materials cycles and achieves 100% use of recycled...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-bmw-2021-xm_concept",
+      "name": "BMW XM Concept",
+      "year": 2021,
+      "imageUrl": "https://www.netcarshow.com/BMW-XM_Concept-2021-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2021-xm_concept/",
+      "description": "The bold exterior styling of the Concept XM reflects the car's exceptional performance attributes: dynamism, agility and precision, plus an all-electric range...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-bmw-2020-i4_concept",
+      "name": "BMW i4 Concept",
+      "year": 2020,
+      "imageUrl": "https://www.netcarshow.com/BMW-i4_Concept-2020-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2020-i4_concept/",
+      "description": "The front-end treatment of the BMW Concept i4 presents the familiar BMW icons in a new look, lending a visually powerful face to the electric age at BMW.",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-bmw-2019-vision_m_next_concept",
+      "name": "BMW Vision M Next Concept",
+      "year": 2019,
+      "imageUrl": "https://www.netcarshow.com/BMW-Vision_M_Next_Concept-2019-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2019-vision_m_next_concept/",
+      "description": "The actual driving experience in the BMW Vision M NEXT is every bit as captivating as its exterior looks. The Power PHEV drive system in offers the choice...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-bmw-2019-4_concept",
+      "name": "BMW 4 Concept",
+      "year": 2019,
+      "imageUrl": "https://www.netcarshow.com/BMW-4_Concept-2019-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2019-4_concept/",
+      "description": "BMW Concept 4 displays BMW's signature proportions at their most modern form yet. The stretched bonnet, long wheelbase, flowing roofline and short overhangs...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-bmw-2017-z4_concept",
+      "name": "BMW Z4 Concept",
+      "year": 2017,
+      "imageUrl": "https://www.netcarshow.com/BMW-Z4_Concept-2017-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2017-z4_concept/",
+      "description": "The BMW Concept Z4 adopts classical roadster design cues, such as a long wheelbase, a low-slung, stretched silhouette and a compact rear end...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-bmw-2016-2002_hommage_concept",
+      "name": "BMW 2002 Hommage Concept",
+      "year": 2016,
+      "imageUrl": "https://www.netcarshow.com/BMW-2002_Hommage_Concept-2016-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2016-2002_hommage_concept/",
+      "description": "The BMW Group has created a very special car for the 2016 Concorso d'Eleganza Villa d'Este to pay tribute to one of the most significant models in its...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-bmw-2015-3.0_csl_hommage_concept",
+      "name": "BMW 3.0 CSL Hommage Concept",
+      "year": 2015,
+      "imageUrl": "https://www.netcarshow.com/BMW-3.0_CSL_Hommage_Concept-2015-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2015-3.0_csl_hommage_concept/",
+      "description": "Amid the audacious design studies and automotive beauties from a bygone era gathered at the 2015 Concorso d'Eleganza Villa d'Este, the BMW Group presented...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-bmw-2014-vision_future_luxury_concept",
+      "name": "BMW Vision Future Luxury Concept",
+      "year": 2014,
+      "imageUrl": "https://www.netcarshow.com/BMW-Vision_Future_Luxury_Concept-2014-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2014-vision_future_luxury_concept/",
+      "description": "The BMW Vision Future Luxury furnishes a long-term outlook on the perception of modern luxury for the BMW brand. It stands for a forward-looking fusion of...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-bmw-2012-zagato_coupe_concept",
+      "name": "BMW Zagato Coupe Concept",
+      "year": 2012,
+      "imageUrl": "https://www.netcarshow.com/BMW-Zagato_Coupe_Concept-2012-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2012-zagato_coupe_concept/",
+      "description": "The 2012 Concorso d'Eleganza Villa d'Este will once again host a spectacular world premiere and, in so doing, build on its tradition as a gathering of the...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-bmw-2011-328_hommage_concept",
+      "name": "BMW 328 Hommage Concept",
+      "year": 2011,
+      "imageUrl": "https://www.netcarshow.com/BMW-328_Hommage_Concept-2011-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2011-328_hommage_concept/",
+      "description": "The  BMW 328  is considered the most successful and best-looking sports car of the 1930s. The BMW 328's success was the result of its design parameters -...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    }
+  ]
+}

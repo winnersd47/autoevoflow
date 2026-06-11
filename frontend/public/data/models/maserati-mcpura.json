@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-mcpura",
+  "slug": "maserati-mcpura",
+  "name": "MCPura",
+  "fullName": "Maserati MCPura",
+  "brandId": "brand-maserati",
+  "bodyType": "concept",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "endYear": null,
+  "isActive": true,
+  "description": "Maserati MCPura — concept, produced since 2026.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2026_maserati_mcpura/images/1920x1080/2026_maserati_mcpura_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2026_maserati_mcpura/images/1920x1080/2026_maserati_mcpura_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-mcpura-2026-0",
+      "slug": "maserati-mcpura-2026-0",
+      "modelId": "m-maserati-mcpura",
+      "brandId": "brand-maserati",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 Maserati MCPura",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2026_maserati_mcpura/images/1920x1080/2026_maserati_mcpura_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2026_maserati_mcpura/images/1920x1080/2026_maserati_mcpura_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-mcpura-2026-0",
+          "generationId": "gen-maserati-mcpura-2026-0",
+          "url": "https://images.caricos.com/m/maserati/2026_maserati_mcpura/images/1920x1080/2026_maserati_mcpura_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2026_maserati_mcpura/images/1920x1080/2026_maserati_mcpura_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 Maserati MCPura",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

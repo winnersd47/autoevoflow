@@ -1,0 +1,72 @@
+{
+  "id": "m-ferrari-296-challenge",
+  "slug": "ferrari-296-challenge",
+  "name": "296 Challenge",
+  "fullName": "Ferrari 296 Challenge",
+  "brandId": "brand-ferrari",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ferrari 296 Challenge — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_296_challenge/images/1920x1080/2024_ferrari_296_challenge_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_296_challenge/images/1920x1080/2024_ferrari_296_challenge_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ferrari"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ferrari-296-challenge-2020-0",
+      "slug": "ferrari-296-challenge-2020-0",
+      "modelId": "m-ferrari-296-challenge",
+      "brandId": "brand-ferrari",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ferrari 296 Challenge | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_296_challenge/images/1920x1080/2024_ferrari_296_challenge_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_296_challenge/images/1920x1080/2024_ferrari_296_challenge_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ferrari-296-challenge-2020-0",
+          "generationId": "gen-ferrari-296-challenge-2020-0",
+          "url": "https://images.caricos.com/f/ferrari/2024_ferrari_296_challenge/images/1920x1080/2024_ferrari_296_challenge_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_296_challenge/images/1920x1080/2024_ferrari_296_challenge_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ferrari 296 Challenge | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-dodge-challenger-rallye-redline",
+  "slug": "dodge-challenger-rallye-redline",
+  "name": "Challenger Rallye Redline",
+  "fullName": "Dodge Challenger Rallye Redline",
+  "brandId": "brand-dodge",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Dodge Challenger Rallye Redline — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/d/dodge/2012_dodge_challenger_rallye_redline/images/1920x1080/2012_dodge_challenger_rallye_redline_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/d/dodge/2012_dodge_challenger_rallye_redline/images/1920x1080/2012_dodge_challenger_rallye_redline_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "dodge"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-dodge-challenger-rallye-redline-2020-0",
+      "slug": "dodge-challenger-rallye-redline-2020-0",
+      "modelId": "m-dodge-challenger-rallye-redline",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Challenger Rallye Redline | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2012_dodge_challenger_rallye_redline/images/1920x1080/2012_dodge_challenger_rallye_redline_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2012_dodge_challenger_rallye_redline/images/1920x1080/2012_dodge_challenger_rallye_redline_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-challenger-rallye-redline-2020-0",
+          "generationId": "gen-dodge-challenger-rallye-redline-2020-0",
+          "url": "https://images.caricos.com/d/dodge/2012_dodge_challenger_rallye_redline/images/1920x1080/2012_dodge_challenger_rallye_redline_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2012_dodge_challenger_rallye_redline/images/1920x1080/2012_dodge_challenger_rallye_redline_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Challenger Rallye Redline | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

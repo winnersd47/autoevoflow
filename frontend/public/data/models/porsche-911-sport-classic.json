@@ -1,0 +1,118 @@
+{
+  "id": "m-porsche-911-sport-classic",
+  "slug": "porsche-911-sport-classic",
+  "name": "911 Sport Classic",
+  "fullName": "Porsche 911 Sport Classic",
+  "brandId": "brand-porsche",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche 911 Sport Classic — suv, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_sport_classic/images/1920x1080/2023_porsche_911_sport_classic_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_sport_classic/images/1920x1080/2023_porsche_911_sport_classic_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-911-sport-classic-2020-0",
+      "slug": "porsche-911-sport-classic-2020-0",
+      "modelId": "m-porsche-911-sport-classic",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 Sport Classic | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_sport_classic/images/1920x1080/2023_porsche_911_sport_classic_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_sport_classic/images/1920x1080/2023_porsche_911_sport_classic_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-sport-classic-2020-0",
+          "generationId": "gen-porsche-911-sport-classic-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2023_porsche_911_sport_classic/images/1920x1080/2023_porsche_911_sport_classic_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_sport_classic/images/1920x1080/2023_porsche_911_sport_classic_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 911 Sport Classic | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-sport-classic-2020-1",
+      "slug": "porsche-911-sport-classic-2020-1",
+      "modelId": "m-porsche-911-sport-classic",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 Sport Classic | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2010_porsche_911_sport_classic/images/1920x1080/2010_porsche_911_sport_classic_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2010_porsche_911_sport_classic/images/1920x1080/2010_porsche_911_sport_classic_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-sport-classic-2020-1",
+          "generationId": "gen-porsche-911-sport-classic-2020-1",
+          "url": "https://images.caricos.com/p/porsche/2010_porsche_911_sport_classic/images/1920x1080/2010_porsche_911_sport_classic_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2010_porsche_911_sport_classic/images/1920x1080/2010_porsche_911_sport_classic_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 911 Sport Classic | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

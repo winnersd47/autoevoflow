@@ -1,0 +1,72 @@
+{
+  "id": "m-jaguar-f-type-2-0t",
+  "slug": "jaguar-f-type-2-0t",
+  "name": "F-TYPE 2.0T",
+  "fullName": "Jaguar F-TYPE 2.0T",
+  "brandId": "brand-jaguar",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Jaguar F-TYPE 2.0T — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_f-type_i4/images/1920x1080/2018_jaguar_f-type_i4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_f-type_i4/images/1920x1080/2018_jaguar_f-type_i4_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "jaguar"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-jaguar-f-type-2-0t-2020-0",
+      "slug": "jaguar-f-type-2-0t-2020-0",
+      "modelId": "m-jaguar-f-type-2-0t",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar F-TYPE 2.0T | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_f-type_i4/images/1920x1080/2018_jaguar_f-type_i4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_f-type_i4/images/1920x1080/2018_jaguar_f-type_i4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-f-type-2-0t-2020-0",
+          "generationId": "gen-jaguar-f-type-2-0t-2020-0",
+          "url": "https://images.caricos.com/j/jaguar/2018_jaguar_f-type_i4/images/1920x1080/2018_jaguar_f-type_i4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_f-type_i4/images/1920x1080/2018_jaguar_f-type_i4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar F-TYPE 2.0T | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "id": "m-toyota-rav4",
+  "slug": "toyota-rav4",
+  "name": "RAV4",
+  "fullName": "Toyota RAV4",
+  "brandId": "brand-toyota",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota RAV4 — suv, produced since 2026.",
+  "generationCount": 6,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2026_toyota_rav4/images/1920x1080/2026_toyota_rav4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2026_toyota_rav4/images/1920x1080/2026_toyota_rav4_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-rav4-2026-0",
+      "slug": "toyota-rav4-2026-0",
+      "modelId": "m-toyota-rav4",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 RAV4",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-rav4-2026-1",
+      "slug": "toyota-rav4-2026-1",
+      "modelId": "m-toyota-rav4",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 2,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota RAV4 | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2026_toyota_rav4/images/1920x1080/2026_toyota_rav4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2026_toyota_rav4/images/1920x1080/2026_toyota_rav4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-rav4-2026-1",
+          "generationId": "gen-toyota-rav4-2026-1",
+          "url": "https://images.caricos.com/t/toyota/2026_toyota_rav4/images/1920x1080/2026_toyota_rav4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2026_toyota_rav4/images/1920x1080/2026_toyota_rav4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota RAV4 | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-rav4-2026-2",
+      "slug": "toyota-rav4-2026-2",
+      "modelId": "m-toyota-rav4",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 3,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota RAV4 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_rav4/images/1920x1080/2022_toyota_rav4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2022_toyota_rav4/images/1920x1080/2022_toyota_rav4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-rav4-2026-2",
+          "generationId": "gen-toyota-rav4-2026-2",
+          "url": "https://images.caricos.com/t/toyota/2022_toyota_rav4/images/1920x1080/2022_toyota_rav4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_rav4/images/1920x1080/2022_toyota_rav4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota RAV4 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-rav4-2026-3",
+      "slug": "toyota-rav4-2026-3",
+      "modelId": "m-toyota-rav4",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 4,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota RAV4 | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_rav4/images/1920x1080/2016_toyota_rav4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2016_toyota_rav4/images/1920x1080/2016_toyota_rav4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-rav4-2026-3",
+          "generationId": "gen-toyota-rav4-2026-3",
+          "url": "https://images.caricos.com/t/toyota/2016_toyota_rav4/images/1920x1080/2016_toyota_rav4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_rav4/images/1920x1080/2016_toyota_rav4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota RAV4 | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-rav4-2026-4",
+      "slug": "toyota-rav4-2026-4",
+      "modelId": "m-toyota-rav4",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 5,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota RAV4 European Version | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_rav4_eu-version/images/1920x1080/2013_toyota_rav4_eu-version_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2013_toyota_rav4_eu-version/images/1920x1080/2013_toyota_rav4_eu-version_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-rav4-2026-4",
+          "generationId": "gen-toyota-rav4-2026-4",
+          "url": "https://images.caricos.com/t/toyota/2013_toyota_rav4_eu-version/images/1920x1080/2013_toyota_rav4_eu-version_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_rav4_eu-version/images/1920x1080/2013_toyota_rav4_eu-version_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota RAV4 European Version | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-rav4-2026-5",
+      "slug": "toyota-rav4-2026-5",
+      "modelId": "m-toyota-rav4",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 6,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota RAV4 | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_rav4/images/1920x1080/2013_toyota_rav4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2013_toyota_rav4/images/1920x1080/2013_toyota_rav4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-rav4-2026-5",
+          "generationId": "gen-toyota-rav4-2026-5",
+          "url": "https://images.caricos.com/t/toyota/2013_toyota_rav4/images/1920x1080/2013_toyota_rav4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_rav4/images/1920x1080/2013_toyota_rav4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota RAV4 | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

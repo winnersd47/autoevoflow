@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-6e",
+  "slug": "mazda-6e",
+  "name": "6e",
+  "fullName": "Mazda 6e",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "endYear": null,
+  "isActive": true,
+  "description": "Mazda 6e — sedan, produced since 2026.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2026_mazda_6e/images/1920x1080/2026_mazda_6e_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2026_mazda_6e/images/1920x1080/2026_mazda_6e_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-6e-2026-0",
+      "slug": "mazda-6e-2026-0",
+      "modelId": "m-mazda-6e",
+      "brandId": "brand-mazda",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 Mazda 6e",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2026_mazda_6e/images/1920x1080/2026_mazda_6e_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2026_mazda_6e/images/1920x1080/2026_mazda_6e_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-6e-2026-0",
+          "generationId": "gen-mazda-6e-2026-0",
+          "url": "https://images.caricos.com/m/mazda/2026_mazda_6e/images/1920x1080/2026_mazda_6e_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2026_mazda_6e/images/1920x1080/2026_mazda_6e_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 Mazda 6e",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

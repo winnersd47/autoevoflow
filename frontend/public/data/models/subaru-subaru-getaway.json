@@ -1,0 +1,26 @@
+{
+  "id": "ncs-subaru-subaru-getaway",
+  "slug": "subaru-subaru-getaway",
+  "name": "Subaru Getaway",
+  "fullName": "2027 Subaru Getaway",
+  "brandId": "subaru",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "2027 Subaru Getaway features powerful front and rear electric motors that deliver 420 horsepower combined, propelling it from 0 to 60 mph in less than 5 seconds.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Subaru-Getaway-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Subaru-Getaway-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/subaru/2027-getaway/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.719Z",
+  "updatedAt": "2026-06-05T07:36:26.719Z"
+}

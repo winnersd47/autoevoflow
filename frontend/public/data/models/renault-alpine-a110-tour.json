@@ -1,0 +1,72 @@
+{
+  "id": "m-renault-alpine-a110-tour",
+  "slug": "renault-alpine-a110-tour",
+  "name": "Alpine A110 Tour",
+  "fullName": "Renault Alpine A110 Tour",
+  "brandId": "brand-renault",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Renault Alpine A110 Tour — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_tour_de_corse_75/images/1920x1080/2022_alpine_a110_tour_de_corse_75_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_tour_de_corse_75/images/1920x1080/2022_alpine_a110_tour_de_corse_75_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "renault"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-renault-alpine-a110-tour-2020-0",
+      "slug": "renault-alpine-a110-tour-2020-0",
+      "modelId": "m-renault-alpine-a110-tour",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Alpine A110 Tour de Corse 75 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_tour_de_corse_75/images/1920x1080/2022_alpine_a110_tour_de_corse_75_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_tour_de_corse_75/images/1920x1080/2022_alpine_a110_tour_de_corse_75_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-alpine-a110-tour-2020-0",
+          "generationId": "gen-renault-alpine-a110-tour-2020-0",
+          "url": "https://images.caricos.com/r/renault/2022_alpine_a110_tour_de_corse_75/images/1920x1080/2022_alpine_a110_tour_de_corse_75_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_tour_de_corse_75/images/1920x1080/2022_alpine_a110_tour_de_corse_75_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Alpine A110 Tour de Corse 75 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

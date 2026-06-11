@@ -1,0 +1,72 @@
+{
+  "id": "m-cadillac-lyriq-concept",
+  "slug": "cadillac-lyriq-concept",
+  "name": "LYRIQ Concept",
+  "fullName": "Cadillac LYRIQ Concept",
+  "brandId": "brand-cadillac",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Cadillac LYRIQ Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/cadillac/2020_cadillac_lyriq/images/1920x1080/2020_cadillac_lyriq_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/cadillac/2020_cadillac_lyriq/images/1920x1080/2020_cadillac_lyriq_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "cadillac"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-cadillac-lyriq-concept-2020-0",
+      "slug": "cadillac-lyriq-concept-2020-0",
+      "modelId": "m-cadillac-lyriq-concept",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac LYRIQ Concept | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2020_cadillac_lyriq/images/1920x1080/2020_cadillac_lyriq_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2020_cadillac_lyriq/images/1920x1080/2020_cadillac_lyriq_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-lyriq-concept-2020-0",
+          "generationId": "gen-cadillac-lyriq-concept-2020-0",
+          "url": "https://images.caricos.com/c/cadillac/2020_cadillac_lyriq/images/1920x1080/2020_cadillac_lyriq_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2020_cadillac_lyriq/images/1920x1080/2020_cadillac_lyriq_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac LYRIQ Concept | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

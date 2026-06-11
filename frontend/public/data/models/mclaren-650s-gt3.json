@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-650s-gt3",
+  "slug": "mclaren-650s-gt3",
+  "name": "650S GT3",
+  "fullName": "McLaren 650S GT3",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "endYear": 2015,
+  "isActive": false,
+  "description": "McLaren 650S GT3 — sedan, produced since 2015.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_gt3/images/1920x1080/2015_mclaren_650s_gt3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_gt3/images/1920x1080/2015_mclaren_650s_gt3_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-650s-gt3-2015-0",
+      "slug": "mclaren-650s-gt3-2015-0",
+      "modelId": "m-mclaren-650s-gt3",
+      "brandId": "brand-mclaren",
+      "codeName": "2015",
+      "generationNumber": 1,
+      "startYear": 2015,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2015 McLaren 650S GT3",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_gt3/images/1920x1080/2015_mclaren_650s_gt3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_gt3/images/1920x1080/2015_mclaren_650s_gt3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-650s-gt3-2015-0",
+          "generationId": "gen-mclaren-650s-gt3-2015-0",
+          "url": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_gt3/images/1920x1080/2015_mclaren_650s_gt3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_gt3/images/1920x1080/2015_mclaren_650s_gt3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2015,
+          "altText": "2015 McLaren 650S GT3",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2015"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

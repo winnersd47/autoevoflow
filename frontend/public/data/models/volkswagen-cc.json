@@ -1,0 +1,164 @@
+{
+  "id": "m-volkswagen-cc",
+  "slug": "volkswagen-cc",
+  "name": "CC",
+  "fullName": "Volkswagen CC",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen CC — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2014_vw_cc/images/1920x1080/2014_vw_cc_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2014_vw_cc/images/1920x1080/2014_vw_cc_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-cc-2020-0",
+      "slug": "volkswagen-cc-2020-0",
+      "modelId": "m-volkswagen-cc",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen CC (US-Spec) | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_cc_us/images/1920x1080/2017_volkswagen_cc_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_cc_us/images/1920x1080/2017_volkswagen_cc_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-cc-2020-0",
+          "generationId": "gen-volkswagen-cc-2020-0",
+          "url": "https://images.caricos.com/v/vw/2017_volkswagen_cc_us/images/1920x1080/2017_volkswagen_cc_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_cc_us/images/1920x1080/2017_volkswagen_cc_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen CC (US-Spec) | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-cc-2020-0",
+      "slug": "volkswagen-cc-2020-0",
+      "modelId": "m-volkswagen-cc",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen CC | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2014_vw_cc/images/1920x1080/2014_vw_cc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2014_vw_cc/images/1920x1080/2014_vw_cc_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-cc-2020-0",
+          "generationId": "gen-volkswagen-cc-2020-0",
+          "url": "https://images.caricos.com/v/vw/2014_vw_cc/images/1920x1080/2014_vw_cc_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2014_vw_cc/images/1920x1080/2014_vw_cc_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen CC | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-cc-2020-1",
+      "slug": "volkswagen-cc-2020-1",
+      "modelId": "m-volkswagen-cc",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen CC | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_cc/images/1920x1080/2013_volkswagen_cc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2013_volkswagen_cc/images/1920x1080/2013_volkswagen_cc_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-cc-2020-1",
+          "generationId": "gen-volkswagen-cc-2020-1",
+          "url": "https://images.caricos.com/v/vw/2013_volkswagen_cc/images/1920x1080/2013_volkswagen_cc_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_cc/images/1920x1080/2013_volkswagen_cc_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen CC | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "m-mazda-mazda3",
+  "slug": "mazda-mazda3",
+  "name": "Mazda3",
+  "fullName": "Mazda Mazda3",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "endYear": 2019,
+  "isActive": false,
+  "description": "Mazda Mazda3 — sedan, produced since 2014.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2019_mazda3/images/1920x1080/2019_mazda3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2019_mazda3/images/1920x1080/2019_mazda3_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mazda3-2019-0",
+      "slug": "mazda-mazda3-2019-0",
+      "modelId": "m-mazda-mazda3",
+      "brandId": "brand-mazda",
+      "codeName": "2019",
+      "generationNumber": 1,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2019 Mazda3",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2019_mazda3/images/1920x1080/2019_mazda3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2019_mazda3/images/1920x1080/2019_mazda3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mazda3-2019-0",
+          "generationId": "gen-mazda-mazda3-2019-0",
+          "url": "https://images.caricos.com/m/mazda/2019_mazda3/images/1920x1080/2019_mazda3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2019_mazda3/images/1920x1080/2019_mazda3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2019,
+          "altText": "2019 Mazda3",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mazda-mazda3-2014-1",
+      "slug": "mazda-mazda3-2014-1",
+      "modelId": "m-mazda-mazda3",
+      "brandId": "brand-mazda",
+      "codeName": "2014",
+      "generationNumber": 2,
+      "startYear": 2014,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2014 Mazda3",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2014_mazda3/images/1920x1080/2014_mazda3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2014_mazda3/images/1920x1080/2014_mazda3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mazda3-2014-1",
+          "generationId": "gen-mazda-mazda3-2014-1",
+          "url": "https://images.caricos.com/m/mazda/2014_mazda3/images/1920x1080/2014_mazda3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2014_mazda3/images/1920x1080/2014_mazda3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2014,
+          "altText": "2014 Mazda3",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2014"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

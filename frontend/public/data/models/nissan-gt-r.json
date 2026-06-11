@@ -1,0 +1,348 @@
+{
+  "id": "m-nissan-gt-r",
+  "slug": "nissan-gt-r",
+  "name": "GT-R",
+  "fullName": "Nissan GT-R",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan GT-R — sedan, produced since 2020.",
+  "generationCount": 7,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2024_nissan_gt-r/images/1920x1080/2024_nissan_gt-r_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2024_nissan_gt-r/images/1920x1080/2024_nissan_gt-r_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-gt-r-2020-0",
+      "slug": "nissan-gt-r-2020-0",
+      "modelId": "m-nissan-gt-r",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan GT-R | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2024_nissan_gt-r/images/1920x1080/2024_nissan_gt-r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2024_nissan_gt-r/images/1920x1080/2024_nissan_gt-r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-gt-r-2020-0",
+          "generationId": "gen-nissan-gt-r-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2024_nissan_gt-r/images/1920x1080/2024_nissan_gt-r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2024_nissan_gt-r/images/1920x1080/2024_nissan_gt-r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan GT-R | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-gt-r-2020-1",
+      "slug": "nissan-gt-r-2020-1",
+      "modelId": "m-nissan-gt-r",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan GT-R | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_gt-r/images/1920x1080/2019_nissan_gt-r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2019_nissan_gt-r/images/1920x1080/2019_nissan_gt-r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-gt-r-2020-1",
+          "generationId": "gen-nissan-gt-r-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2019_nissan_gt-r/images/1920x1080/2019_nissan_gt-r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_gt-r/images/1920x1080/2019_nissan_gt-r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan GT-R | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-gt-r-2020-2",
+      "slug": "nissan-gt-r-2020-2",
+      "modelId": "m-nissan-gt-r",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan GT-R | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_gt-r/images/1920x1080/2017_nissan_gt-r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_gt-r/images/1920x1080/2017_nissan_gt-r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-gt-r-2020-2",
+          "generationId": "gen-nissan-gt-r-2020-2",
+          "url": "https://images.caricos.com/n/nissan/2017_nissan_gt-r/images/1920x1080/2017_nissan_gt-r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_gt-r/images/1920x1080/2017_nissan_gt-r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan GT-R | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-gt-r-2020-3",
+      "slug": "nissan-gt-r-2020-3",
+      "modelId": "m-nissan-gt-r",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan GT-R | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_gt-r/images/1920x1080/2015_nissan_gt-r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_gt-r/images/1920x1080/2015_nissan_gt-r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-gt-r-2020-3",
+          "generationId": "gen-nissan-gt-r-2020-3",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_gt-r/images/1920x1080/2015_nissan_gt-r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_gt-r/images/1920x1080/2015_nissan_gt-r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan GT-R | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-gt-r-2020-4",
+      "slug": "nissan-gt-r-2020-4",
+      "modelId": "m-nissan-gt-r",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan GT-R | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_gt-r/images/1920x1080/2014_nissan_gt-r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2014_nissan_gt-r/images/1920x1080/2014_nissan_gt-r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-gt-r-2020-4",
+          "generationId": "gen-nissan-gt-r-2020-4",
+          "url": "https://images.caricos.com/n/nissan/2014_nissan_gt-r/images/1920x1080/2014_nissan_gt-r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_gt-r/images/1920x1080/2014_nissan_gt-r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan GT-R | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-gt-r-2020-5",
+      "slug": "nissan-gt-r-2020-5",
+      "modelId": "m-nissan-gt-r",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan GT-R | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_gt-r/images/1920x1080/2013_nissan_gt-r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2013_nissan_gt-r/images/1920x1080/2013_nissan_gt-r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-gt-r-2020-5",
+          "generationId": "gen-nissan-gt-r-2020-5",
+          "url": "https://images.caricos.com/n/nissan/2013_nissan_gt-r/images/1920x1080/2013_nissan_gt-r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_gt-r/images/1920x1080/2013_nissan_gt-r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan GT-R | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-gt-r-2020-6",
+      "slug": "nissan-gt-r-2020-6",
+      "modelId": "m-nissan-gt-r",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan GT-R | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2010_nissan_gtr/images/1920x1080/2010_nissan_gtr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2010_nissan_gtr/images/1920x1080/2010_nissan_gtr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-gt-r-2020-6",
+          "generationId": "gen-nissan-gt-r-2020-6",
+          "url": "https://images.caricos.com/n/nissan/2010_nissan_gtr/images/1920x1080/2010_nissan_gtr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2010_nissan_gtr/images/1920x1080/2010_nissan_gtr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan GT-R | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

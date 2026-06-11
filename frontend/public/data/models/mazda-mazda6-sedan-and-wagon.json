@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-mazda6-sedan-and-wagon",
+  "slug": "mazda-mazda6-sedan-and-wagon",
+  "name": "Mazda6 Sedan and Wagon",
+  "fullName": "Mazda Mazda6 Sedan and Wagon",
+  "brandId": "brand-mazda",
+  "bodyType": "wagon",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "endYear": 2018,
+  "isActive": false,
+  "description": "Mazda Mazda6 Sedan and Wagon — wagon, produced since 2018.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2018_mazda6/images/1920x1080/2018_mazda6_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2018_mazda6/images/1920x1080/2018_mazda6_1_1920x1080.jpg",
+  "tags": [
+    "wagon",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mazda6-sedan-and-wagon-2018-0",
+      "slug": "mazda-mazda6-sedan-and-wagon-2018-0",
+      "modelId": "m-mazda-mazda6-sedan-and-wagon",
+      "brandId": "brand-mazda",
+      "codeName": "2018",
+      "generationNumber": 1,
+      "startYear": 2018,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "wagon"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2018 Mazda6 Sedan and Wagon",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2018_mazda6/images/1920x1080/2018_mazda6_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2018_mazda6/images/1920x1080/2018_mazda6_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mazda6-sedan-and-wagon-2018-0",
+          "generationId": "gen-mazda-mazda6-sedan-and-wagon-2018-0",
+          "url": "https://images.caricos.com/m/mazda/2018_mazda6/images/1920x1080/2018_mazda6_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2018_mazda6/images/1920x1080/2018_mazda6_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2018,
+          "altText": "2018 Mazda6 Sedan and Wagon",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "wagon",
+        "2018"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

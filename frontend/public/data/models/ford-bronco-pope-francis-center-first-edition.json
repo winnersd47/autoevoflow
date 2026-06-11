@@ -1,0 +1,72 @@
+{
+  "id": "m-ford-bronco-pope-francis-center-first-edition",
+  "slug": "ford-bronco-pope-francis-center-first-edition",
+  "name": "Bronco Pope Francis Center First Edition",
+  "fullName": "Ford Bronco Pope Francis Center First Edition",
+  "brandId": "brand-ford",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford Bronco Pope Francis Center First Edition — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_bronco_pope_francis_center_first_edition/images/1920x1080/2021_ford_bronco_pope_francis_center_first_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2021_ford_bronco_pope_francis_center_first_edition/images/1920x1080/2021_ford_bronco_pope_francis_center_first_edition_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-bronco-pope-francis-center-first-edition-2020-0",
+      "slug": "ford-bronco-pope-francis-center-first-edition-2020-0",
+      "modelId": "m-ford-bronco-pope-francis-center-first-edition",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Bronco Pope Francis Center First Edition | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_bronco_pope_francis_center_first_edition/images/1920x1080/2021_ford_bronco_pope_francis_center_first_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2021_ford_bronco_pope_francis_center_first_edition/images/1920x1080/2021_ford_bronco_pope_francis_center_first_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-bronco-pope-francis-center-first-edition-2020-0",
+          "generationId": "gen-ford-bronco-pope-francis-center-first-edition-2020-0",
+          "url": "https://images.caricos.com/f/ford/2021_ford_bronco_pope_francis_center_first_edition/images/1920x1080/2021_ford_bronco_pope_francis_center_first_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_bronco_pope_francis_center_first_edition/images/1920x1080/2021_ford_bronco_pope_francis_center_first_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Bronco Pope Francis Center First Edition | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

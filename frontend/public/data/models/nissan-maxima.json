@@ -1,0 +1,164 @@
+{
+  "id": "m-nissan-maxima",
+  "slug": "nissan-maxima",
+  "name": "Maxima",
+  "fullName": "Nissan Maxima",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Maxima — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_maxima/images/1920x1080/2019_nissan_maxima_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2019_nissan_maxima/images/1920x1080/2019_nissan_maxima_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-maxima-2020-0",
+      "slug": "nissan-maxima-2020-0",
+      "modelId": "m-nissan-maxima",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Maxima | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_maxima/images/1920x1080/2019_nissan_maxima_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2019_nissan_maxima/images/1920x1080/2019_nissan_maxima_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-maxima-2020-0",
+          "generationId": "gen-nissan-maxima-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2019_nissan_maxima/images/1920x1080/2019_nissan_maxima_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_maxima/images/1920x1080/2019_nissan_maxima_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Maxima | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-maxima-2020-1",
+      "slug": "nissan-maxima-2020-1",
+      "modelId": "m-nissan-maxima",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Maxima | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_maxima/images/1920x1080/2016_nissan_maxima_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2016_nissan_maxima/images/1920x1080/2016_nissan_maxima_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-maxima-2020-1",
+          "generationId": "gen-nissan-maxima-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2016_nissan_maxima/images/1920x1080/2016_nissan_maxima_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_maxima/images/1920x1080/2016_nissan_maxima_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Maxima | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-maxima-2020-2",
+      "slug": "nissan-maxima-2020-2",
+      "modelId": "m-nissan-maxima",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Maxima | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2012_nissan_maxima/images/1920x1080/2012_nissan_maxima_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2012_nissan_maxima/images/1920x1080/2012_nissan_maxima_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-maxima-2020-2",
+          "generationId": "gen-nissan-maxima-2020-2",
+          "url": "https://images.caricos.com/n/nissan/2012_nissan_maxima/images/1920x1080/2012_nissan_maxima_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2012_nissan_maxima/images/1920x1080/2012_nissan_maxima_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Maxima | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

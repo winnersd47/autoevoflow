@@ -1,0 +1,104 @@
+{
+  "id": "m-porsche-cayenne-s-electric",
+  "slug": "porsche-cayenne-s-electric",
+  "name": "Cayenne S Electric",
+  "fullName": "Porsche Cayenne S Electric",
+  "brandId": "brand-porsche",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Cayenne S Electric — suv, produced since 2026.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2026_porsche_cayenne_s_electric/images/1920x1080/2026_porsche_cayenne_s_electric_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2026_porsche_cayenne_s_electric/images/1920x1080/2026_porsche_cayenne_s_electric_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-cayenne-s-electric-2026-0",
+      "slug": "porsche-cayenne-s-electric-2026-0",
+      "modelId": "m-porsche-cayenne-s-electric",
+      "brandId": "brand-porsche",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 Cayenne S Electric",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-cayenne-s-electric-2026-1",
+      "slug": "porsche-cayenne-s-electric-2026-1",
+      "modelId": "m-porsche-cayenne-s-electric",
+      "brandId": "brand-porsche",
+      "codeName": "2026",
+      "generationNumber": 2,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne S Electric | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2026_porsche_cayenne_s_electric/images/1920x1080/2026_porsche_cayenne_s_electric_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2026_porsche_cayenne_s_electric/images/1920x1080/2026_porsche_cayenne_s_electric_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-s-electric-2026-1",
+          "generationId": "gen-porsche-cayenne-s-electric-2026-1",
+          "url": "https://images.caricos.com/p/porsche/2026_porsche_cayenne_s_electric/images/1920x1080/2026_porsche_cayenne_s_electric_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2026_porsche_cayenne_s_electric/images/1920x1080/2026_porsche_cayenne_s_electric_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Porsche Cayenne S Electric | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

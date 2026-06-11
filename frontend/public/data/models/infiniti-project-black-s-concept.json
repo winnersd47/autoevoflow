@@ -1,0 +1,72 @@
+{
+  "id": "m-infiniti-project-black-s-concept",
+  "slug": "infiniti-project-black-s-concept",
+  "name": "Project Black S Concept",
+  "fullName": "Infiniti Project Black S Concept",
+  "brandId": "brand-infiniti",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti Project Black S Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_project_black_s/images/1920x1080/2017_infiniti_project_black_s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_project_black_s/images/1920x1080/2017_infiniti_project_black_s_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-project-black-s-concept-2020-0",
+      "slug": "infiniti-project-black-s-concept-2020-0",
+      "modelId": "m-infiniti-project-black-s-concept",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Project Black S Concept | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_project_black_s/images/1920x1080/2017_infiniti_project_black_s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_project_black_s/images/1920x1080/2017_infiniti_project_black_s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-project-black-s-concept-2020-0",
+          "generationId": "gen-infiniti-project-black-s-concept-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2017_infiniti_project_black_s/images/1920x1080/2017_infiniti_project_black_s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_project_black_s/images/1920x1080/2017_infiniti_project_black_s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Project Black S Concept | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

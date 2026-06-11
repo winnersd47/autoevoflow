@@ -1,0 +1,54 @@
+{
+  "id": "m-porsche-carrera-gt",
+  "slug": "porsche-carrera-gt",
+  "name": "Carrera GT",
+  "fullName": "Porsche Carrera GT",
+  "brandId": "brand-porsche",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "endYear": 2006,
+  "isActive": false,
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "description": "The Porsche Carrera GT (2003–2006) was Porsche's mid-engine V10 hypercar, built on a carbon fibre monocoque with a 5.7-litre naturally aspirated V10 producing 612 hp. Just 1,270 were produced. Its titanium gearknob, wooden clutch disc, and complete absence of electronic driver aids made it the most demanding — and most revered — driver's car of its decade.",
+  "tags": [
+    "coupe",
+    "porsche",
+    "v10",
+    "hypercar",
+    "carbon"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-carrera-gt-1",
+      "slug": "porsche-carrera-gt-gen1",
+      "modelId": "m-porsche-carrera-gt",
+      "brandId": "brand-porsche",
+      "codeName": "980",
+      "generationNumber": 1,
+      "startYear": 2003,
+      "endYear": 2006,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Carrera GT 2003-2006",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

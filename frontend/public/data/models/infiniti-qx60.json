@@ -1,0 +1,302 @@
+{
+  "id": "m-infiniti-qx60",
+  "slug": "infiniti-qx60",
+  "name": "QX60",
+  "fullName": "Infiniti QX60",
+  "brandId": "brand-infiniti",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti QX60 — sedan, produced since 2020.",
+  "generationCount": 6,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2026_infiniti_qx60/images/1920x1080/2026_infiniti_qx60_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2026_infiniti_qx60/images/1920x1080/2026_infiniti_qx60_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-qx60-2020-0",
+      "slug": "infiniti-qx60-2020-0",
+      "modelId": "m-infiniti-qx60",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX60 | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2026_infiniti_qx60/images/1920x1080/2026_infiniti_qx60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2026_infiniti_qx60/images/1920x1080/2026_infiniti_qx60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx60-2020-0",
+          "generationId": "gen-infiniti-qx60-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2026_infiniti_qx60/images/1920x1080/2026_infiniti_qx60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2026_infiniti_qx60/images/1920x1080/2026_infiniti_qx60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX60 | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx60-2020-1",
+      "slug": "infiniti-qx60-2020-1",
+      "modelId": "m-infiniti-qx60",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX60 | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2024_infiniti_qx60/images/1920x1080/2024_infiniti_qx60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2024_infiniti_qx60/images/1920x1080/2024_infiniti_qx60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx60-2020-1",
+          "generationId": "gen-infiniti-qx60-2020-1",
+          "url": "https://images.caricos.com/i/infiniti/2024_infiniti_qx60/images/1920x1080/2024_infiniti_qx60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2024_infiniti_qx60/images/1920x1080/2024_infiniti_qx60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX60 | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx60-2020-2",
+      "slug": "infiniti-qx60-2020-2",
+      "modelId": "m-infiniti-qx60",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX60 | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2023_infiniti_qx60/images/1920x1080/2023_infiniti_qx60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2023_infiniti_qx60/images/1920x1080/2023_infiniti_qx60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx60-2020-2",
+          "generationId": "gen-infiniti-qx60-2020-2",
+          "url": "https://images.caricos.com/i/infiniti/2023_infiniti_qx60/images/1920x1080/2023_infiniti_qx60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2023_infiniti_qx60/images/1920x1080/2023_infiniti_qx60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX60 | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx60-2020-3",
+      "slug": "infiniti-qx60-2020-3",
+      "modelId": "m-infiniti-qx60",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX60 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2022_infiniti_qx60/images/1920x1080/2022_infiniti_qx60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2022_infiniti_qx60/images/1920x1080/2022_infiniti_qx60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx60-2020-3",
+          "generationId": "gen-infiniti-qx60-2020-3",
+          "url": "https://images.caricos.com/i/infiniti/2022_infiniti_qx60/images/1920x1080/2022_infiniti_qx60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2022_infiniti_qx60/images/1920x1080/2022_infiniti_qx60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX60 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx60-2020-4",
+      "slug": "infiniti-qx60-2020-4",
+      "modelId": "m-infiniti-qx60",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX60 | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2019_infiniti_qx60/images/1920x1080/2019_infiniti_qx60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2019_infiniti_qx60/images/1920x1080/2019_infiniti_qx60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx60-2020-4",
+          "generationId": "gen-infiniti-qx60-2020-4",
+          "url": "https://images.caricos.com/i/infiniti/2019_infiniti_qx60/images/1920x1080/2019_infiniti_qx60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2019_infiniti_qx60/images/1920x1080/2019_infiniti_qx60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX60 | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx60-2020-5",
+      "slug": "infiniti-qx60-2020-5",
+      "modelId": "m-infiniti-qx60",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX60 | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2016_infiniti_qx60/images/1920x1080/2016_infiniti_qx60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2016_infiniti_qx60/images/1920x1080/2016_infiniti_qx60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx60-2020-5",
+          "generationId": "gen-infiniti-qx60-2020-5",
+          "url": "https://images.caricos.com/i/infiniti/2016_infiniti_qx60/images/1920x1080/2016_infiniti_qx60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2016_infiniti_qx60/images/1920x1080/2016_infiniti_qx60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX60 | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

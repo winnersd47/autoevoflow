@@ -1,0 +1,54 @@
+{
+  "id": "m-lamborghini-urus",
+  "slug": "lamborghini-urus",
+  "name": "Urus",
+  "fullName": "Lamborghini Urus",
+  "brandId": "brand-lamborghini",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Lamborghini Urus (2018–present) is the world's first Super Sport Utility Vehicle — 650 hp, 305 km/h, and five seats. Built on the Volkswagen Group MLB Evo platform shared with the Porsche Cayenne and Audi Q7, the Urus doubled Lamborghini's annual production volume upon launch and transformed the company's financial profile.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_urus/images/1920x1080/2021_lamborghini_urus_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_urus/images/1920x1080/2021_lamborghini_urus_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "lamborghini",
+    "v8",
+    "mlb-evo",
+    "urus"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-urus-1",
+      "slug": "lamborghini-urus-gen1",
+      "modelId": "m-lamborghini-urus",
+      "brandId": "brand-lamborghini",
+      "codeName": "L539",
+      "generationNumber": 1,
+      "startYear": 2018,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Lamborghini Urus (2018–present) is the world's first Super Sport Utility Vehicle — 650 hp, 305 km/h, and five seats. Built on the Volkswagen Group MLB Evo platform shared with the Porsche Cayenne and Audi Q7, the Urus doubled Lamborghini's annual production volume upon launch and transformed the company's financial profile.",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_urus/images/1920x1080/2021_lamborghini_urus_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_urus/images/1920x1080/2021_lamborghini_urus_1_1920x1080.jpg",
+      "images": []
+    }
+  ]
+}

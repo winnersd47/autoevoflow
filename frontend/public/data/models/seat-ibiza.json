@@ -1,0 +1,51 @@
+{
+  "id": "m-seat-ibiza",
+  "slug": "seat-ibiza",
+  "name": "Ibiza",
+  "fullName": "Seat Ibiza",
+  "brandId": "brand-seat",
+  "bodyType": "hatchback",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "endYear": null,
+  "isActive": true,
+  "description": "The SEAT Ibiza (1984-present) is Spain's best-known car export. Five generations on VW Group platforms have made it the most successful Spanish car in history.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "hatchback",
+    "seat"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-seat-ibiza-1",
+      "slug": "seat-ibiza-gen1",
+      "modelId": "m-seat-ibiza",
+      "brandId": "brand-seat",
+      "codeName": "Ibiza",
+      "generationNumber": 1,
+      "startYear": 1984,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The SEAT Ibiza (1984-present) is Spain's best-known car export. Five generations on VW Group platforms have made it the most successful Spanish car in history.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

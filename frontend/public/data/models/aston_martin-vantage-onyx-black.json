@@ -1,0 +1,72 @@
+{
+  "id": "m-aston_martin-vantage-onyx-black",
+  "slug": "aston_martin-vantage-onyx-black",
+  "name": "Vantage (Onyx Black)",
+  "fullName": "Aston Martin Vantage (Onyx Black)",
+  "brandId": "brand-aston_martin",
+  "bodyType": "van",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Aston Martin Vantage (Onyx Black) — van, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2019_aston_martin_vantage_onyx_black/images/1920x1080/2019_aston_martin_vantage_onyx_black_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/aston_martin/2019_aston_martin_vantage_onyx_black/images/1920x1080/2019_aston_martin_vantage_onyx_black_1_1920x1080.jpg",
+  "tags": [
+    "van",
+    "aston-martin"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-aston_martin-vantage-onyx-black-2020-0",
+      "slug": "aston_martin-vantage-onyx-black-2020-0",
+      "modelId": "m-aston_martin-vantage-onyx-black",
+      "brandId": "brand-aston_martin",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "van"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Aston Martin Vantage (Onyx Black) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2019_aston_martin_vantage_onyx_black/images/1920x1080/2019_aston_martin_vantage_onyx_black_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/aston_martin/2019_aston_martin_vantage_onyx_black/images/1920x1080/2019_aston_martin_vantage_onyx_black_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-aston_martin-vantage-onyx-black-2020-0",
+          "generationId": "gen-aston_martin-vantage-onyx-black-2020-0",
+          "url": "https://images.caricos.com/a/aston_martin/2019_aston_martin_vantage_onyx_black/images/1920x1080/2019_aston_martin_vantage_onyx_black_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2019_aston_martin_vantage_onyx_black/images/1920x1080/2019_aston_martin_vantage_onyx_black_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Aston Martin Vantage (Onyx Black) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "van",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

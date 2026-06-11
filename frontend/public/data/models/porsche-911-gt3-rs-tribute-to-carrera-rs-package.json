@@ -1,0 +1,118 @@
+{
+  "id": "m-porsche-911-gt3-rs-tribute-to-carrera-rs-package",
+  "slug": "porsche-911-gt3-rs-tribute-to-carrera-rs-package",
+  "name": "911 GT3 RS Tribute to Carrera RS Package",
+  "fullName": "Porsche 911 GT3 RS Tribute to Carrera RS Package",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche 911 GT3 RS Tribute to Carrera RS Package — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-911-gt3-rs-tribute-to-carrera-rs-package-2020-0",
+      "slug": "porsche-911-gt3-rs-tribute-to-carrera-rs-package-2020-0",
+      "modelId": "m-porsche-911-gt3-rs-tribute-to-carrera-rs-package",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 GT3 RS Tribute to Carrera RS Package (US-Spec) | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_us/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_us/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-gt3-rs-tribute-to-carrera-rs-package-2020-0",
+          "generationId": "gen-porsche-911-gt3-rs-tribute-to-carrera-rs-package-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_us/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_us/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 911 GT3 RS Tribute to Carrera RS Package (US-Spec) | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-gt3-rs-tribute-to-carrera-rs-package-2020-0",
+      "slug": "porsche-911-gt3-rs-tribute-to-carrera-rs-package-2020-0",
+      "modelId": "m-porsche-911-gt3-rs-tribute-to-carrera-rs-package",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 GT3 RS Tribute to Carrera RS Package | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-gt3-rs-tribute-to-carrera-rs-package-2020-0",
+          "generationId": "gen-porsche-911-gt3-rs-tribute-to-carrera-rs-package-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7/images/1920x1080/2023_porsche_911_gt3_rs_50-years-of-carrera-rs-2.7_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 911 GT3 RS Tribute to Carrera RS Package | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

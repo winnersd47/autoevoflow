@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-speedtop-concept",
+  "slug": "bmw-bmw-speedtop-concept",
+  "name": "BMW Speedtop Concept",
+  "fullName": "2025 BMW Speedtop Concept",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "BMW Concept Speedtop shares its eye-catching form language with the BMW Skytop and will be offered to collectors and connoisseurs in a strictly limited small series.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-Speedtop_Concept-2025-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-Speedtop_Concept-2025-thb.jpg",
+  "tags": [
+    "new",
+    "2025"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2025-speedtop_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.739Z",
+  "updatedAt": "2026-06-05T07:36:26.739Z"
+}

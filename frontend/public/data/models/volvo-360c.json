@@ -1,0 +1,72 @@
+{
+  "id": "m-volvo-360c",
+  "slug": "volvo-360c",
+  "name": "360c",
+  "fullName": "Volvo 360c",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo 360c — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2018_volvo_360c_autonomous_concept/images/1920x1080/2018_volvo_360c_autonomous_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2018_volvo_360c_autonomous_concept/images/1920x1080/2018_volvo_360c_autonomous_concept_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-360c-2020-0",
+      "slug": "volvo-360c-2020-0",
+      "modelId": "m-volvo-360c",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo 360c Autonomous Concept | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2018_volvo_360c_autonomous_concept/images/1920x1080/2018_volvo_360c_autonomous_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2018_volvo_360c_autonomous_concept/images/1920x1080/2018_volvo_360c_autonomous_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-360c-2020-0",
+          "generationId": "gen-volvo-360c-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2018_volvo_360c_autonomous_concept/images/1920x1080/2018_volvo_360c_autonomous_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2018_volvo_360c_autonomous_concept/images/1920x1080/2018_volvo_360c_autonomous_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo 360c Autonomous Concept | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

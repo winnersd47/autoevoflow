@@ -1,0 +1,210 @@
+{
+  "id": "m-maserati-ghibli",
+  "slug": "maserati-ghibli",
+  "name": "Ghibli",
+  "fullName": "Maserati Ghibli",
+  "brandId": "brand-maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "endYear": 2021,
+  "isActive": false,
+  "description": "Maserati Ghibli — sedan, produced since 2014.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_ghibli/images/1920x1080/2021_maserati_ghibli_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_ghibli/images/1920x1080/2021_maserati_ghibli_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-ghibli-2021-0",
+      "slug": "maserati-ghibli-2021-0",
+      "modelId": "m-maserati-ghibli",
+      "brandId": "brand-maserati",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 Maserati Ghibli",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_ghibli/images/1920x1080/2021_maserati_ghibli_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_ghibli/images/1920x1080/2021_maserati_ghibli_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-ghibli-2021-0",
+          "generationId": "gen-maserati-ghibli-2021-0",
+          "url": "https://images.caricos.com/m/maserati/2021_maserati_ghibli/images/1920x1080/2021_maserati_ghibli_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_ghibli/images/1920x1080/2021_maserati_ghibli_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "2021 Maserati Ghibli",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-ghibli-2019-1",
+      "slug": "maserati-ghibli-2019-1",
+      "modelId": "m-maserati-ghibli",
+      "brandId": "brand-maserati",
+      "codeName": "2019",
+      "generationNumber": 2,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2019 Maserati Ghibli",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2019_maserati_ghibli/images/1920x1080/2019_maserati_ghibli_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2019_maserati_ghibli/images/1920x1080/2019_maserati_ghibli_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-ghibli-2019-1",
+          "generationId": "gen-maserati-ghibli-2019-1",
+          "url": "https://images.caricos.com/m/maserati/2019_maserati_ghibli/images/1920x1080/2019_maserati_ghibli_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2019_maserati_ghibli/images/1920x1080/2019_maserati_ghibli_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2019,
+          "altText": "2019 Maserati Ghibli",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-ghibli-2017-2",
+      "slug": "maserati-ghibli-2017-2",
+      "modelId": "m-maserati-ghibli",
+      "brandId": "brand-maserati",
+      "codeName": "2017",
+      "generationNumber": 3,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 Maserati Ghibli",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2017_maserati_ghibli/images/1920x1080/2017_maserati_ghibli_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2017_maserati_ghibli/images/1920x1080/2017_maserati_ghibli_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-ghibli-2017-2",
+          "generationId": "gen-maserati-ghibli-2017-2",
+          "url": "https://images.caricos.com/m/maserati/2017_maserati_ghibli/images/1920x1080/2017_maserati_ghibli_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2017_maserati_ghibli/images/1920x1080/2017_maserati_ghibli_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 Maserati Ghibli",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-ghibli-2014-3",
+      "slug": "maserati-ghibli-2014-3",
+      "modelId": "m-maserati-ghibli",
+      "brandId": "brand-maserati",
+      "codeName": "2014",
+      "generationNumber": 4,
+      "startYear": 2014,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2014 Maserati Ghibli",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_ghibli/images/1920x1080/2014_maserati_ghibli_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserati_ghibli/images/1920x1080/2014_maserati_ghibli_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-ghibli-2014-3",
+          "generationId": "gen-maserati-ghibli-2014-3",
+          "url": "https://images.caricos.com/m/maserati/2014_maserati_ghibli/images/1920x1080/2014_maserati_ghibli_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_ghibli/images/1920x1080/2014_maserati_ghibli_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2014,
+          "altText": "2014 Maserati Ghibli",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2014"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

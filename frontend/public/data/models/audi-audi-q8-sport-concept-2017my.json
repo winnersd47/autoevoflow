@@ -1,0 +1,72 @@
+{
+  "id": "m-audi-audi-q8-sport-concept-2017my",
+  "slug": "audi-audi-q8-sport-concept-2017my",
+  "name": "Audi Q8 Sport Concept | 2017MY",
+  "fullName": "Audi Audi Q8 Sport Concept | 2017MY",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi Audi Q8 Sport Concept | 2017MY — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2017_audi_q8_sport_concept/images/1920x1080/2017_audi_q8_sport_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2017_audi_q8_sport_concept/images/1920x1080/2017_audi_q8_sport_concept_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-audi-q8-sport-concept-2017my-2020-0",
+      "slug": "audi-audi-q8-sport-concept-2017my-2020-0",
+      "modelId": "m-audi-audi-q8-sport-concept-2017my",
+      "brandId": "brand-audi",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Audi Q8 Sport Concept | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2017_audi_q8_sport_concept/images/1920x1080/2017_audi_q8_sport_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2017_audi_q8_sport_concept/images/1920x1080/2017_audi_q8_sport_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-audi-audi-q8-sport-concept-2017my-2020-0",
+          "generationId": "gen-audi-audi-q8-sport-concept-2017my-2020-0",
+          "url": "https://images.caricos.com/a/audi/2017_audi_q8_sport_concept/images/1920x1080/2017_audi_q8_sport_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/audi/2017_audi_q8_sport_concept/images/1920x1080/2017_audi_q8_sport_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Audi Q8 Sport Concept | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

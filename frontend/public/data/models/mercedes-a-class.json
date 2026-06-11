@@ -1,0 +1,51 @@
+{
+  "id": "m-mercedes-a-class",
+  "slug": "mercedes-a-class",
+  "name": "A-Class",
+  "fullName": "Mercedes A-Class",
+  "brandId": "brand-mercedes",
+  "bodyType": "hatchback",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Mercedes-Benz A-Class (1997-present) brought the three-pointed star to the compact hatchback segment. Its W168 sandwich floor was revolutionary; the W177 became the best-selling premium compact globally.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "hatchback",
+    "mercedes"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mercedes-a-class-1",
+      "slug": "mercedes-a-class-gen1",
+      "modelId": "m-mercedes-a-class",
+      "brandId": "brand-mercedes",
+      "codeName": "A-Class",
+      "generationNumber": 1,
+      "startYear": 1997,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Mercedes-Benz A-Class (1997-present) brought the three-pointed star to the compact hatchback segment. Its W168 sandwich floor was revolutionary; the W177 became the best-selling premium compact globally.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

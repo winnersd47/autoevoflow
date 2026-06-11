@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-quattroporte-s-and-s-q4",
+  "slug": "maserati-quattroporte-s-and-s-q4",
+  "name": "Quattroporte S and S Q4",
+  "fullName": "Maserati Quattroporte S and S Q4",
+  "brandId": "brand-maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "endYear": 2014,
+  "isActive": false,
+  "description": "Maserati Quattroporte S and S Q4 — sedan, produced since 2014.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserat_quattroporte_s_and_s_q4/images/1920x1080/2014_maserat_quattroporte_s_and_s_q4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserat_quattroporte_s_and_s_q4/images/1920x1080/2014_maserat_quattroporte_s_and_s_q4_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-quattroporte-s-and-s-q4-2014-0",
+      "slug": "maserati-quattroporte-s-and-s-q4-2014-0",
+      "modelId": "m-maserati-quattroporte-s-and-s-q4",
+      "brandId": "brand-maserati",
+      "codeName": "2014",
+      "generationNumber": 1,
+      "startYear": 2014,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2014 Maserati Quattroporte S and S Q4",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserat_quattroporte_s_and_s_q4/images/1920x1080/2014_maserat_quattroporte_s_and_s_q4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserat_quattroporte_s_and_s_q4/images/1920x1080/2014_maserat_quattroporte_s_and_s_q4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-quattroporte-s-and-s-q4-2014-0",
+          "generationId": "gen-maserati-quattroporte-s-and-s-q4-2014-0",
+          "url": "https://images.caricos.com/m/maserati/2014_maserat_quattroporte_s_and_s_q4/images/1920x1080/2014_maserat_quattroporte_s_and_s_q4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserat_quattroporte_s_and_s_q4/images/1920x1080/2014_maserat_quattroporte_s_and_s_q4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2014,
+          "altText": "2014 Maserati Quattroporte S and S Q4",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2014"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

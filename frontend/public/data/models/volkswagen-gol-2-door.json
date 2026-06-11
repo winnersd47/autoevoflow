@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-gol-2-door",
+  "slug": "volkswagen-gol-2-door",
+  "name": "Gol 2-Door",
+  "fullName": "Volkswagen Gol 2-Door",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Gol 2-Door — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_gol_2-door/images/1920x1080/2013_volkswagen_gol_2-door_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2013_volkswagen_gol_2-door/images/1920x1080/2013_volkswagen_gol_2-door_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-gol-2-door-2020-0",
+      "slug": "volkswagen-gol-2-door-2020-0",
+      "modelId": "m-volkswagen-gol-2-door",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Gol 2-Door | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_gol_2-door/images/1920x1080/2013_volkswagen_gol_2-door_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2013_volkswagen_gol_2-door/images/1920x1080/2013_volkswagen_gol_2-door_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-gol-2-door-2020-0",
+          "generationId": "gen-volkswagen-gol-2-door-2020-0",
+          "url": "https://images.caricos.com/v/vw/2013_volkswagen_gol_2-door/images/1920x1080/2013_volkswagen_gol_2-door_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_gol_2-door/images/1920x1080/2013_volkswagen_gol_2-door_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Gol 2-Door | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

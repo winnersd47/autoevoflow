@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-vision-gran-turismo-concept",
+  "slug": "porsche-vision-gran-turismo-concept",
+  "name": "Vision Gran Turismo Concept",
+  "fullName": "Porsche Vision Gran Turismo Concept",
+  "brandId": "brand-porsche",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Vision Gran Turismo Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2021_porsche_vision_gran_turismo_concept/images/1920x1080/2021_porsche_vision_gran_turismo_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2021_porsche_vision_gran_turismo_concept/images/1920x1080/2021_porsche_vision_gran_turismo_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-vision-gran-turismo-concept-2020-0",
+      "slug": "porsche-vision-gran-turismo-concept-2020-0",
+      "modelId": "m-porsche-vision-gran-turismo-concept",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Vision Gran Turismo Concept | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2021_porsche_vision_gran_turismo_concept/images/1920x1080/2021_porsche_vision_gran_turismo_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2021_porsche_vision_gran_turismo_concept/images/1920x1080/2021_porsche_vision_gran_turismo_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-vision-gran-turismo-concept-2020-0",
+          "generationId": "gen-porsche-vision-gran-turismo-concept-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2021_porsche_vision_gran_turismo_concept/images/1920x1080/2021_porsche_vision_gran_turismo_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2021_porsche_vision_gran_turismo_concept/images/1920x1080/2021_porsche_vision_gran_turismo_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Vision Gran Turismo Concept | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-kai-concept",
+  "slug": "mazda-kai-concept",
+  "name": "KAI Concept",
+  "fullName": "Mazda KAI Concept",
+  "brandId": "brand-mazda",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "endYear": 2017,
+  "isActive": false,
+  "description": "Mazda KAI Concept — concept, produced since 2017.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_kai_concept/images/1920x1080/2017_mazda_kai_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2017_mazda_kai_concept/images/1920x1080/2017_mazda_kai_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-kai-concept-2017-0",
+      "slug": "mazda-kai-concept-2017-0",
+      "modelId": "m-mazda-kai-concept",
+      "brandId": "brand-mazda",
+      "codeName": "2017",
+      "generationNumber": 1,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 Mazda KAI Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_kai_concept/images/1920x1080/2017_mazda_kai_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2017_mazda_kai_concept/images/1920x1080/2017_mazda_kai_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-kai-concept-2017-0",
+          "generationId": "gen-mazda-kai-concept-2017-0",
+          "url": "https://images.caricos.com/m/mazda/2017_mazda_kai_concept/images/1920x1080/2017_mazda_kai_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_kai_concept/images/1920x1080/2017_mazda_kai_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 Mazda KAI Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

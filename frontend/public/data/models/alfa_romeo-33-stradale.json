@@ -1,0 +1,72 @@
+{
+  "id": "m-alfa_romeo-33-stradale",
+  "slug": "alfa_romeo-33-stradale",
+  "name": "33 Stradale",
+  "fullName": "Alfa Romeo 33 Stradale",
+  "brandId": "brand-alfa_romeo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Alfa Romeo 33 Stradale — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2024_alfa_romeo_33_stradale/images/1920x1080/2024_alfa_romeo_33_stradale_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2024_alfa_romeo_33_stradale/images/1920x1080/2024_alfa_romeo_33_stradale_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "alfa-romeo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-alfa_romeo-33-stradale-2020-0",
+      "slug": "alfa_romeo-33-stradale-2020-0",
+      "modelId": "m-alfa_romeo-33-stradale",
+      "brandId": "brand-alfa_romeo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Alfa Romeo 33 Stradale | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2024_alfa_romeo_33_stradale/images/1920x1080/2024_alfa_romeo_33_stradale_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2024_alfa_romeo_33_stradale/images/1920x1080/2024_alfa_romeo_33_stradale_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-alfa_romeo-33-stradale-2020-0",
+          "generationId": "gen-alfa_romeo-33-stradale-2020-0",
+          "url": "https://images.caricos.com/a/alfa_romeo/2024_alfa_romeo_33_stradale/images/1920x1080/2024_alfa_romeo_33_stradale_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2024_alfa_romeo_33_stradale/images/1920x1080/2024_alfa_romeo_33_stradale_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Alfa Romeo 33 Stradale | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

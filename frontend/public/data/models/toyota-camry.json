@@ -1,0 +1,288 @@
+{
+  "id": "m-toyota-camry",
+  "slug": "toyota-camry",
+  "name": "Camry",
+  "fullName": "Toyota Camry",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Camry — sedan, produced since 2025.",
+  "generationCount": 6,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_camry/images/1920x1080/2025_toyota_camry_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2025_toyota_camry/images/1920x1080/2025_toyota_camry_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-camry-2025-0",
+      "slug": "toyota-camry-2025-0",
+      "modelId": "m-toyota-camry",
+      "brandId": "brand-toyota",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Camry",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-camry-2025-1",
+      "slug": "toyota-camry-2025-1",
+      "modelId": "m-toyota-camry",
+      "brandId": "brand-toyota",
+      "codeName": "2025",
+      "generationNumber": 2,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Camry | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_camry/images/1920x1080/2025_toyota_camry_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2025_toyota_camry/images/1920x1080/2025_toyota_camry_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-camry-2025-1",
+          "generationId": "gen-toyota-camry-2025-1",
+          "url": "https://images.caricos.com/t/toyota/2025_toyota_camry/images/1920x1080/2025_toyota_camry_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_camry/images/1920x1080/2025_toyota_camry_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "Toyota Camry | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-camry-2025-2",
+      "slug": "toyota-camry-2025-2",
+      "modelId": "m-toyota-camry",
+      "brandId": "brand-toyota",
+      "codeName": "2025",
+      "generationNumber": 3,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Camry | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_camry/images/1920x1080/2023_toyota_camry_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2023_toyota_camry/images/1920x1080/2023_toyota_camry_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-camry-2025-2",
+          "generationId": "gen-toyota-camry-2025-2",
+          "url": "https://images.caricos.com/t/toyota/2023_toyota_camry/images/1920x1080/2023_toyota_camry_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_camry/images/1920x1080/2023_toyota_camry_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "Toyota Camry | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-camry-2025-3",
+      "slug": "toyota-camry-2025-3",
+      "modelId": "m-toyota-camry",
+      "brandId": "brand-toyota",
+      "codeName": "2025",
+      "generationNumber": 4,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Camry | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2018_toyota_camry/images/1920x1080/2018_toyota_camry_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2018_toyota_camry/images/1920x1080/2018_toyota_camry_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-camry-2025-3",
+          "generationId": "gen-toyota-camry-2025-3",
+          "url": "https://images.caricos.com/t/toyota/2018_toyota_camry/images/1920x1080/2018_toyota_camry_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2018_toyota_camry/images/1920x1080/2018_toyota_camry_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "Toyota Camry | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-camry-2025-4",
+      "slug": "toyota-camry-2025-4",
+      "modelId": "m-toyota-camry",
+      "brandId": "brand-toyota",
+      "codeName": "2025",
+      "generationNumber": 5,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Camry | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_camry/images/1920x1080/2015_toyota_camry_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2015_toyota_camry/images/1920x1080/2015_toyota_camry_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-camry-2025-4",
+          "generationId": "gen-toyota-camry-2025-4",
+          "url": "https://images.caricos.com/t/toyota/2015_toyota_camry/images/1920x1080/2015_toyota_camry_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_camry/images/1920x1080/2015_toyota_camry_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "Toyota Camry | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-camry-2025-5",
+      "slug": "toyota-camry-2025-5",
+      "modelId": "m-toyota-camry",
+      "brandId": "brand-toyota",
+      "codeName": "2025",
+      "generationNumber": 6,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Camry | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2012_toyota_camry/images/1920x1080/2012_toyota_camry_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2012_toyota_camry/images/1920x1080/2012_toyota_camry_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-camry-2025-5",
+          "generationId": "gen-toyota-camry-2025-5",
+          "url": "https://images.caricos.com/t/toyota/2012_toyota_camry/images/1920x1080/2012_toyota_camry_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2012_toyota_camry/images/1920x1080/2012_toyota_camry_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "Toyota Camry | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

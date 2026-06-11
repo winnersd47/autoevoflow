@@ -1,0 +1,54 @@
+{
+  "id": "m-lamborghini-espada",
+  "slug": "lamborghini-espada",
+  "name": "Espada",
+  "fullName": "Lamborghini Espada",
+  "brandId": "brand-lamborghini",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "endYear": 1978,
+  "isActive": false,
+  "description": "The Lamborghini Espada (1968–1978) was a full four-seater grand touring coupe powered by a V12 engine — an improbable combination that Bertone's Marcello Gandini made dramatic. 1,217 were built across three series, making it the best-selling Lamborghini of its era.",
+  "generationCount": 3,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "coupe",
+    "lamborghini",
+    "v12",
+    "2plus2",
+    "bertone"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-espada-1",
+      "slug": "lamborghini-espada-gen1",
+      "modelId": "m-lamborghini-espada",
+      "brandId": "brand-lamborghini",
+      "codeName": "Espada",
+      "generationNumber": 1,
+      "startYear": 1968,
+      "endYear": 1978,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Lamborghini Espada (1968–1978) was a full four-seater grand touring coupe powered by a V12 engine — an improbable combination that Bertone's Marcello Gandini made dramatic. 1,217 were built across three series, making it the best-selling Lamborghini of its era.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "m-audi-q7",
+  "slug": "audi-q7",
+  "name": "Q7",
+  "fullName": "Audi Q7",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi Q7 — suv, produced since 2025.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "suv",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-q7-2025-0",
+      "slug": "audi-q7-2025-0",
+      "modelId": "m-audi-q7",
+      "brandId": "brand-audi",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Q7",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

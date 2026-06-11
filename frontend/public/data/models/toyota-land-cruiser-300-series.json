@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-land-cruiser-300-series",
+  "slug": "toyota-land-cruiser-300-series",
+  "name": "Land Cruiser 300 Series",
+  "fullName": "Toyota Land Cruiser 300 Series",
+  "brandId": "brand-toyota",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Land Cruiser 300 Series — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_land_cruiser/images/1920x1080/2022_toyota_land_cruiser_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2022_toyota_land_cruiser/images/1920x1080/2022_toyota_land_cruiser_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-land-cruiser-300-series-2020-0",
+      "slug": "toyota-land-cruiser-300-series-2020-0",
+      "modelId": "m-toyota-land-cruiser-300-series",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Land Cruiser 300 Series | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_land_cruiser/images/1920x1080/2022_toyota_land_cruiser_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2022_toyota_land_cruiser/images/1920x1080/2022_toyota_land_cruiser_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-land-cruiser-300-series-2020-0",
+          "generationId": "gen-toyota-land-cruiser-300-series-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2022_toyota_land_cruiser/images/1920x1080/2022_toyota_land_cruiser_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_land_cruiser/images/1920x1080/2022_toyota_land_cruiser_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Land Cruiser 300 Series | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

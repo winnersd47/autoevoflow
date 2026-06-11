@@ -1,0 +1,42 @@
+{
+  "id": "m-maserati-maserati-mc12",
+  "slug": "maserati-mc12",
+  "name": "MC12",
+  "fullName": "Maserati MC12",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "endYear": 2005,
+  "isActive": false,
+  "description": "The Maserati MC12 (2004–2005) was a homologation special for GT racing built on the Ferrari Enzo platform. Just 50 road cars were produced alongside the racing versions, making it one of the rarest Maseratis ever. With a 6.0-litre Ferrari V12 producing 630 hp, it was also the fastest Maserati road car until the MC20.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "maserati", "classic", "heritage"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-mc12-1",
+      "slug": "maserati-mc12-gen1",
+      "modelId": "m-maserati-maserati-mc12",
+      "brandId": "brand-maserati",
+      "codeName": "MC12",
+      "generationNumber": 1,
+      "startYear": 2004,
+      "endYear": 2005,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The Maserati MC12 (2004–2005) was a homologation special for GT racing built on the Ferrari Enzo platform. Just 50 road cars were produced alongside the racing versions, making it one of the rarest Maseratis ever. With a 6.0-litre Ferrari V12 producing 630 hp, it was also the fastest Maserati road car until the MC20.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

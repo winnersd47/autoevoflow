@@ -1,0 +1,54 @@
+{
+  "id": "m-lamborghini-diablo",
+  "slug": "lamborghini-diablo",
+  "name": "Diablo",
+  "fullName": "Lamborghini Diablo",
+  "brandId": "brand-lamborghini",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "endYear": 2001,
+  "isActive": false,
+  "description": "The Lamborghini Diablo (1990–2001) was the first Lamborghini to exceed 320 km/h. Under Chrysler ownership it gained four-wheel drive with the VT variant (1993). 2,884 were built across four major variants before the Murciélago replaced it under new Audi ownership.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/lamborghini_diablo/images/1920x1080/lamborghini_diablo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/lamborghini_diablo/images/1920x1080/lamborghini_diablo_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "lamborghini",
+    "v12",
+    "320kmh",
+    "chrysler"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-diablo-1",
+      "slug": "lamborghini-diablo-gen1",
+      "modelId": "m-lamborghini-diablo",
+      "brandId": "brand-lamborghini",
+      "codeName": "Diablo",
+      "generationNumber": 1,
+      "startYear": 1990,
+      "endYear": 2001,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Lamborghini Diablo (1990–2001) was the first Lamborghini to exceed 320 km/h. Under Chrysler ownership it gained four-wheel drive with the VT variant (1993). 2,884 were built across four major variants before the Murciélago replaced it under new Audi ownership.",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/lamborghini_diablo/images/1920x1080/lamborghini_diablo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/lamborghini_diablo/images/1920x1080/lamborghini_diablo_1_1920x1080.jpg",
+      "images": []
+    }
+  ]
+}

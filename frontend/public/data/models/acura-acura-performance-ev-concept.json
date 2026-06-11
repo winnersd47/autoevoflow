@@ -1,0 +1,26 @@
+{
+  "id": "ncs-acura-acura-performance-ev-concept",
+  "slug": "acura-acura-performance-ev-concept",
+  "name": "Acura Performance EV Concept",
+  "fullName": "2024 Acura Performance EV Concept",
+  "brandId": "acura",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Acura Performance EV Concept showcases the Performance brand's vision for its all-electric vehicles of the future, with a vented hood that stretches forward from the A-pillars...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Acura-Performance_EV_Concept-2024-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Acura-Performance_EV_Concept-2024-thb.jpg",
+  "tags": [
+    "new",
+    "2024"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/acura/2024-performance_ev_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.747Z",
+  "updatedAt": "2026-06-05T07:36:26.747Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-pagani-zonda-cinque",
+  "slug": "pagani-zonda-cinque",
+  "name": "Zonda Cinque",
+  "fullName": "Pagani Zonda Cinque",
+  "brandId": "brand-pagani",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Pagani Zonda Cinque — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/pagani/2009_pagani_cinque/images/1920x1080/2009_pagani_cinque_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/pagani/2009_pagani_cinque/images/1920x1080/2009_pagani_cinque_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "pagani"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-pagani-zonda-cinque-2020-0",
+      "slug": "pagani-zonda-cinque-2020-0",
+      "modelId": "m-pagani-zonda-cinque",
+      "brandId": "brand-pagani",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Pagani Zonda Cinque | 2009MY",
+      "thumbnailUrl": "https://images.caricos.com/p/pagani/2009_pagani_cinque/images/1920x1080/2009_pagani_cinque_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/pagani/2009_pagani_cinque/images/1920x1080/2009_pagani_cinque_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-pagani-zonda-cinque-2020-0",
+          "generationId": "gen-pagani-zonda-cinque-2020-0",
+          "url": "https://images.caricos.com/p/pagani/2009_pagani_cinque/images/1920x1080/2009_pagani_cinque_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/pagani/2009_pagani_cinque/images/1920x1080/2009_pagani_cinque_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Pagani Zonda Cinque | 2009MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

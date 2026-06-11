@@ -1,0 +1,72 @@
+{
+  "id": "m-jaguar-f-type-r-coupe",
+  "slug": "jaguar-f-type-r-coupe",
+  "name": "F-Type R Coupe",
+  "fullName": "Jaguar F-Type R Coupe",
+  "brandId": "brand-jaguar",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Jaguar F-Type R Coupe — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/j/jaguar/2015_jaguar_f-type_r_coupe/images/1920x1080/2015_jaguar_f-type_r_coupe_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/j/jaguar/2015_jaguar_f-type_r_coupe/images/1920x1080/2015_jaguar_f-type_r_coupe_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "jaguar"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-jaguar-f-type-r-coupe-2020-0",
+      "slug": "jaguar-f-type-r-coupe-2020-0",
+      "modelId": "m-jaguar-f-type-r-coupe",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar F-Type R Coupe | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2015_jaguar_f-type_r_coupe/images/1920x1080/2015_jaguar_f-type_r_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2015_jaguar_f-type_r_coupe/images/1920x1080/2015_jaguar_f-type_r_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-f-type-r-coupe-2020-0",
+          "generationId": "gen-jaguar-f-type-r-coupe-2020-0",
+          "url": "https://images.caricos.com/j/jaguar/2015_jaguar_f-type_r_coupe/images/1920x1080/2015_jaguar_f-type_r_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2015_jaguar_f-type_r_coupe/images/1920x1080/2015_jaguar_f-type_r_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar F-Type R Coupe | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

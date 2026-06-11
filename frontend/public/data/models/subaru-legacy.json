@@ -1,0 +1,118 @@
+{
+  "id": "m-subaru-legacy",
+  "slug": "subaru-legacy",
+  "name": "Legacy",
+  "fullName": "Subaru Legacy",
+  "brandId": "brand-subaru",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Subaru Legacy — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/s/subaru/2023_subaru_legacy/images/1920x1080/2023_subaru_legacy_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/s/subaru/2023_subaru_legacy/images/1920x1080/2023_subaru_legacy_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "subaru"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-subaru-legacy-2020-0",
+      "slug": "subaru-legacy-2020-0",
+      "modelId": "m-subaru-legacy",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru Legacy | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2023_subaru_legacy/images/1920x1080/2023_subaru_legacy_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2023_subaru_legacy/images/1920x1080/2023_subaru_legacy_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-legacy-2020-0",
+          "generationId": "gen-subaru-legacy-2020-0",
+          "url": "https://images.caricos.com/s/subaru/2023_subaru_legacy/images/1920x1080/2023_subaru_legacy_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2023_subaru_legacy/images/1920x1080/2023_subaru_legacy_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru Legacy | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-subaru-legacy-2020-1",
+      "slug": "subaru-legacy-2020-1",
+      "modelId": "m-subaru-legacy",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru Legacy | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2015_subaru_legacy/images/1920x1080/2015_subaru_legacy_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2015_subaru_legacy/images/1920x1080/2015_subaru_legacy_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-legacy-2020-1",
+          "generationId": "gen-subaru-legacy-2020-1",
+          "url": "https://images.caricos.com/s/subaru/2015_subaru_legacy/images/1920x1080/2015_subaru_legacy_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2015_subaru_legacy/images/1920x1080/2015_subaru_legacy_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru Legacy | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

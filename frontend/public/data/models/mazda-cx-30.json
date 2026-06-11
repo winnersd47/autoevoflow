@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-cx-30",
+  "slug": "mazda-cx-30",
+  "name": "CX-30",
+  "fullName": "Mazda CX-30",
+  "brandId": "brand-mazda",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": 2020,
+  "isActive": false,
+  "description": "Mazda CX-30 — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2020_mazda_cx-30/images/1920x1080/2020_mazda_cx-30_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2020_mazda_cx-30/images/1920x1080/2020_mazda_cx-30_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-cx-30-2020-0",
+      "slug": "mazda-cx-30-2020-0",
+      "modelId": "m-mazda-cx-30",
+      "brandId": "brand-mazda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2020 Mazda CX-30",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2020_mazda_cx-30/images/1920x1080/2020_mazda_cx-30_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2020_mazda_cx-30/images/1920x1080/2020_mazda_cx-30_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-cx-30-2020-0",
+          "generationId": "gen-mazda-cx-30-2020-0",
+          "url": "https://images.caricos.com/m/mazda/2020_mazda_cx-30/images/1920x1080/2020_mazda_cx-30_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2020_mazda_cx-30/images/1920x1080/2020_mazda_cx-30_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "2020 Mazda CX-30",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

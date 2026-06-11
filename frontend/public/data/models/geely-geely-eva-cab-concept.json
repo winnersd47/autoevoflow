@@ -1,0 +1,26 @@
+{
+  "id": "ncs-geely-geely-eva-cab-concept",
+  "slug": "geely-geely-eva-cab-concept",
+  "name": "Geely Eva Cab Concept",
+  "fullName": "2026 Geely Eva Cab Concept",
+  "brandId": "geely",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Eva Cab, China's First Purpose-built Autonomous Robotaxi Prototype, is deeply rooted in cutting-edge technology, Chinese culture, and user needs, aiming to...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Geely-Eva_Cab_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Geely-Eva_Cab_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/geely/2026-eva_cab_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.722Z",
+  "updatedAt": "2026-06-05T07:36:26.722Z"
+}

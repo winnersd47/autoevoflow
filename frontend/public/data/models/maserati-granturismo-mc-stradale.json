@@ -1,0 +1,118 @@
+{
+  "id": "m-maserati-granturismo-mc-stradale",
+  "slug": "maserati-granturismo-mc-stradale",
+  "name": "GranTurismo MC Stradale",
+  "fullName": "Maserati GranTurismo MC Stradale",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "endYear": 2014,
+  "isActive": false,
+  "description": "Maserati GranTurismo MC Stradale — coupe, produced since 2012.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_granturismo_mc_stradale/images/1920x1080/2014_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserati_granturismo_mc_stradale/images/1920x1080/2014_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-granturismo-mc-stradale-2014-0",
+      "slug": "maserati-granturismo-mc-stradale-2014-0",
+      "modelId": "m-maserati-granturismo-mc-stradale",
+      "brandId": "brand-maserati",
+      "codeName": "2014",
+      "generationNumber": 1,
+      "startYear": 2014,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2014 Maserati GranTurismo MC Stradale",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_granturismo_mc_stradale/images/1920x1080/2014_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserati_granturismo_mc_stradale/images/1920x1080/2014_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-granturismo-mc-stradale-2014-0",
+          "generationId": "gen-maserati-granturismo-mc-stradale-2014-0",
+          "url": "https://images.caricos.com/m/maserati/2014_maserati_granturismo_mc_stradale/images/1920x1080/2014_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_granturismo_mc_stradale/images/1920x1080/2014_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2014,
+          "altText": "2014 Maserati GranTurismo MC Stradale",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2014"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-granturismo-mc-stradale-2012-1",
+      "slug": "maserati-granturismo-mc-stradale-2012-1",
+      "modelId": "m-maserati-granturismo-mc-stradale",
+      "brandId": "brand-maserati",
+      "codeName": "2012",
+      "generationNumber": 2,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2012 Maserati GranTurismo MC Stradale",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_mc_stradale/images/1920x1080/2012_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_mc_stradale/images/1920x1080/2012_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-granturismo-mc-stradale-2012-1",
+          "generationId": "gen-maserati-granturismo-mc-stradale-2012-1",
+          "url": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_mc_stradale/images/1920x1080/2012_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_mc_stradale/images/1920x1080/2012_maserati_granturismo_mc_stradale_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "2012 Maserati GranTurismo MC Stradale",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

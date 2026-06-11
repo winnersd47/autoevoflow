@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-mazda3-sedan",
+  "slug": "mazda-mazda3-sedan",
+  "name": "Mazda3 Sedan",
+  "fullName": "Mazda Mazda3 Sedan",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "endYear": 2014,
+  "isActive": false,
+  "description": "Mazda Mazda3 Sedan — sedan, produced since 2014.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2014_mazda3_sedan/images/1920x1080/2014_mazda3_sedan_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2014_mazda3_sedan/images/1920x1080/2014_mazda3_sedan_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mazda3-sedan-2014-0",
+      "slug": "mazda-mazda3-sedan-2014-0",
+      "modelId": "m-mazda-mazda3-sedan",
+      "brandId": "brand-mazda",
+      "codeName": "2014",
+      "generationNumber": 1,
+      "startYear": 2014,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2014 Mazda3 Sedan",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2014_mazda3_sedan/images/1920x1080/2014_mazda3_sedan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2014_mazda3_sedan/images/1920x1080/2014_mazda3_sedan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mazda3-sedan-2014-0",
+          "generationId": "gen-mazda-mazda3-sedan-2014-0",
+          "url": "https://images.caricos.com/m/mazda/2014_mazda3_sedan/images/1920x1080/2014_mazda3_sedan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2014_mazda3_sedan/images/1920x1080/2014_mazda3_sedan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2014,
+          "altText": "2014 Mazda3 Sedan",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2014"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

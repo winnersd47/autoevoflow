@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-silverado-hd-zr2",
+  "slug": "chevrolet-silverado-hd-zr2",
+  "name": "Silverado HD ZR2",
+  "fullName": "Chevrolet Silverado HD ZR2",
+  "brandId": "brand-chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Silverado HD ZR2 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd_zr2/images/1920x1080/2024_chevrolet_silverado_hd_zr2_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd_zr2/images/1920x1080/2024_chevrolet_silverado_hd_zr2_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-silverado-hd-zr2-2020-0",
+      "slug": "chevrolet-silverado-hd-zr2-2020-0",
+      "modelId": "m-chevrolet-silverado-hd-zr2",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Silverado HD ZR2 | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd_zr2/images/1920x1080/2024_chevrolet_silverado_hd_zr2_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd_zr2/images/1920x1080/2024_chevrolet_silverado_hd_zr2_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-silverado-hd-zr2-2020-0",
+          "generationId": "gen-chevrolet-silverado-hd-zr2-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd_zr2/images/1920x1080/2024_chevrolet_silverado_hd_zr2_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd_zr2/images/1920x1080/2024_chevrolet_silverado_hd_zr2_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Silverado HD ZR2 | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

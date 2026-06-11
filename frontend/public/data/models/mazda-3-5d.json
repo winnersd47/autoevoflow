@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-3-5d",
+  "slug": "mazda-3-5d",
+  "name": "3 5D",
+  "fullName": "Mazda 3 5D",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "endYear": 2015,
+  "isActive": false,
+  "description": "Mazda 3 5D — sedan, produced since 2015.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2015_mazda3/images/1920x1080/2015_mazda3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2015_mazda3/images/1920x1080/2015_mazda3_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-3-5d-2015-0",
+      "slug": "mazda-3-5d-2015-0",
+      "modelId": "m-mazda-3-5d",
+      "brandId": "brand-mazda",
+      "codeName": "2015",
+      "generationNumber": 1,
+      "startYear": 2015,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2015 Mazda 3 5D",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2015_mazda3/images/1920x1080/2015_mazda3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2015_mazda3/images/1920x1080/2015_mazda3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-3-5d-2015-0",
+          "generationId": "gen-mazda-3-5d-2015-0",
+          "url": "https://images.caricos.com/m/mazda/2015_mazda3/images/1920x1080/2015_mazda3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2015_mazda3/images/1920x1080/2015_mazda3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2015,
+          "altText": "2015 Mazda 3 5D",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2015"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

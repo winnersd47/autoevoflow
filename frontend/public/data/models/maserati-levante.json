@@ -1,0 +1,164 @@
+{
+  "id": "m-maserati-levante",
+  "slug": "maserati-levante",
+  "name": "Levante",
+  "fullName": "Maserati Levante",
+  "brandId": "brand-maserati",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "endYear": 2021,
+  "isActive": true,
+  "description": "Maserati Levante — suv, produced since 2017.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante/images/1920x1080/2021_maserati_levante_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante/images/1920x1080/2021_maserati_levante_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-levante-2021-0",
+      "slug": "maserati-levante-2021-0",
+      "modelId": "m-maserati-levante",
+      "brandId": "brand-maserati",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 Maserati Levante",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante/images/1920x1080/2021_maserati_levante_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante/images/1920x1080/2021_maserati_levante_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-levante-2021-0",
+          "generationId": "gen-maserati-levante-2021-0",
+          "url": "https://images.caricos.com/m/maserati/2021_maserati_levante/images/1920x1080/2021_maserati_levante_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante/images/1920x1080/2021_maserati_levante_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "2021 Maserati Levante",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-levante-2019-1",
+      "slug": "maserati-levante-2019-1",
+      "modelId": "m-maserati-levante",
+      "brandId": "brand-maserati",
+      "codeName": "2019",
+      "generationNumber": 2,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2019 Maserati Levante",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2019_maserati_levante/images/1920x1080/2019_maserati_levante_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2019_maserati_levante/images/1920x1080/2019_maserati_levante_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-levante-2019-1",
+          "generationId": "gen-maserati-levante-2019-1",
+          "url": "https://images.caricos.com/m/maserati/2019_maserati_levante/images/1920x1080/2019_maserati_levante_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2019_maserati_levante/images/1920x1080/2019_maserati_levante_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2019,
+          "altText": "2019 Maserati Levante",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-levante-2017-2",
+      "slug": "maserati-levante-2017-2",
+      "modelId": "m-maserati-levante",
+      "brandId": "brand-maserati",
+      "codeName": "2017",
+      "generationNumber": 3,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 Maserati Levante",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2017_maserati_levante/images/1920x1080/2017_maserati_levante_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2017_maserati_levante/images/1920x1080/2017_maserati_levante_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-levante-2017-2",
+          "generationId": "gen-maserati-levante-2017-2",
+          "url": "https://images.caricos.com/m/maserati/2017_maserati_levante/images/1920x1080/2017_maserati_levante_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2017_maserati_levante/images/1920x1080/2017_maserati_levante_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 Maserati Levante",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

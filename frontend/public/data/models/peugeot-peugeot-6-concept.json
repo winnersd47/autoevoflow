@@ -1,0 +1,26 @@
+{
+  "id": "ncs-peugeot-peugeot-6-concept",
+  "slug": "peugeot-peugeot-6-concept",
+  "name": "Peugeot 6 Concept",
+  "fullName": "2026 Peugeot 6 Concept",
+  "brandId": "peugeot",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Peugeot Concept 6 expresses the vision of a bold new generation of large sedans. Its feline silhouette merges the elegance of a sedan with the dynamism of...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Peugeot-6_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Peugeot-6_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/peugeot/2026-6_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.728Z",
+  "updatedAt": "2026-06-05T07:36:26.728Z"
+}

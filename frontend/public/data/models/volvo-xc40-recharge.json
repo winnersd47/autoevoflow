@@ -1,0 +1,118 @@
+{
+  "id": "m-volvo-xc40-recharge",
+  "slug": "volvo-xc40-recharge",
+  "name": "XC40 Recharge",
+  "fullName": "Volvo XC40 Recharge",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo XC40 Recharge — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2023_volvo_xc40_recharge/images/1920x1080/2023_volvo_xc40_recharge_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2023_volvo_xc40_recharge/images/1920x1080/2023_volvo_xc40_recharge_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-xc40-recharge-2020-0",
+      "slug": "volvo-xc40-recharge-2020-0",
+      "modelId": "m-volvo-xc40-recharge",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo XC40 Recharge | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2023_volvo_xc40_recharge/images/1920x1080/2023_volvo_xc40_recharge_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2023_volvo_xc40_recharge/images/1920x1080/2023_volvo_xc40_recharge_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-xc40-recharge-2020-0",
+          "generationId": "gen-volvo-xc40-recharge-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2023_volvo_xc40_recharge/images/1920x1080/2023_volvo_xc40_recharge_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2023_volvo_xc40_recharge/images/1920x1080/2023_volvo_xc40_recharge_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo XC40 Recharge | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-xc40-recharge-2020-1",
+      "slug": "volvo-xc40-recharge-2020-1",
+      "modelId": "m-volvo-xc40-recharge",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo XC40 Recharge | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2020_volvo_xc40_recharge/images/1920x1080/2020_volvo_xc40_recharge_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2020_volvo_xc40_recharge/images/1920x1080/2020_volvo_xc40_recharge_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-xc40-recharge-2020-1",
+          "generationId": "gen-volvo-xc40-recharge-2020-1",
+          "url": "https://images.caricos.com/v/volvo/2020_volvo_xc40_recharge/images/1920x1080/2020_volvo_xc40_recharge_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2020_volvo_xc40_recharge/images/1920x1080/2020_volvo_xc40_recharge_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo XC40 Recharge | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

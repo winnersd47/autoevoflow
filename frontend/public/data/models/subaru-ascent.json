@@ -1,0 +1,118 @@
+{
+  "id": "m-subaru-ascent",
+  "slug": "subaru-ascent",
+  "name": "Ascent",
+  "fullName": "Subaru Ascent",
+  "brandId": "brand-subaru",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Subaru Ascent — suv, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/s/subaru/2023_subaru_ascent/images/1920x1080/2023_subaru_ascent_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/s/subaru/2023_subaru_ascent/images/1920x1080/2023_subaru_ascent_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "subaru"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-subaru-ascent-2020-0",
+      "slug": "subaru-ascent-2020-0",
+      "modelId": "m-subaru-ascent",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru Ascent | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2023_subaru_ascent/images/1920x1080/2023_subaru_ascent_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2023_subaru_ascent/images/1920x1080/2023_subaru_ascent_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-ascent-2020-0",
+          "generationId": "gen-subaru-ascent-2020-0",
+          "url": "https://images.caricos.com/s/subaru/2023_subaru_ascent/images/1920x1080/2023_subaru_ascent_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2023_subaru_ascent/images/1920x1080/2023_subaru_ascent_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru Ascent | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-subaru-ascent-2020-1",
+      "slug": "subaru-ascent-2020-1",
+      "modelId": "m-subaru-ascent",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru Ascent | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2019_subaru_ascent/images/1920x1080/2019_subaru_ascent_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2019_subaru_ascent/images/1920x1080/2019_subaru_ascent_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-ascent-2020-1",
+          "generationId": "gen-subaru-ascent-2020-1",
+          "url": "https://images.caricos.com/s/subaru/2019_subaru_ascent/images/1920x1080/2019_subaru_ascent_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2019_subaru_ascent/images/1920x1080/2019_subaru_ascent_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru Ascent | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

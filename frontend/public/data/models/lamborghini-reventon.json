@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-reventon",
+  "slug": "lamborghini-reventon",
+  "name": "Reventon",
+  "fullName": "Lamborghini Reventon",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Reventon — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2008_lamborghini_reventon/images/1920x1080/2008_lamborghini_reventon_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2008_lamborghini_reventon/images/1920x1080/2008_lamborghini_reventon_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-reventon-2020-0",
+      "slug": "lamborghini-reventon-2020-0",
+      "modelId": "m-lamborghini-reventon",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Reventon | 2008MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2008_lamborghini_reventon/images/1920x1080/2008_lamborghini_reventon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2008_lamborghini_reventon/images/1920x1080/2008_lamborghini_reventon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-reventon-2020-0",
+          "generationId": "gen-lamborghini-reventon-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2008_lamborghini_reventon/images/1920x1080/2008_lamborghini_reventon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2008_lamborghini_reventon/images/1920x1080/2008_lamborghini_reventon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Reventon | 2008MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-levante-f-tributo-special-edition",
+  "slug": "maserati-levante-f-tributo-special-edition",
+  "name": "Levante F Tributo Special Edition",
+  "fullName": "Maserati Levante F Tributo Special Edition",
+  "brandId": "brand-maserati",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": 2021,
+  "isActive": false,
+  "description": "Maserati Levante F Tributo Special Edition — suv, produced since 2021.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante_f_tributo/images/1920x1080/2021_maserati_levante_f_tributo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante_f_tributo/images/1920x1080/2021_maserati_levante_f_tributo_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-levante-f-tributo-special-edition-2021-0",
+      "slug": "maserati-levante-f-tributo-special-edition-2021-0",
+      "modelId": "m-maserati-levante-f-tributo-special-edition",
+      "brandId": "brand-maserati",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 Maserati Levante F Tributo Special Edition",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante_f_tributo/images/1920x1080/2021_maserati_levante_f_tributo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante_f_tributo/images/1920x1080/2021_maserati_levante_f_tributo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-levante-f-tributo-special-edition-2021-0",
+          "generationId": "gen-maserati-levante-f-tributo-special-edition-2021-0",
+          "url": "https://images.caricos.com/m/maserati/2021_maserati_levante_f_tributo/images/1920x1080/2021_maserati_levante_f_tributo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante_f_tributo/images/1920x1080/2021_maserati_levante_f_tributo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "2021 Maserati Levante F Tributo Special Edition",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

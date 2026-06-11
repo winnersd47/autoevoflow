@@ -1,0 +1,118 @@
+{
+  "id": "m-mazda-mazda2",
+  "slug": "mazda-mazda2",
+  "name": "Mazda2",
+  "fullName": "Mazda Mazda2",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "endYear": 2020,
+  "isActive": false,
+  "description": "Mazda Mazda2 — sedan, produced since 2016.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2020_mazda2/images/1920x1080/2020_mazda2_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2020_mazda2/images/1920x1080/2020_mazda2_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mazda2-2020-0",
+      "slug": "mazda-mazda2-2020-0",
+      "modelId": "m-mazda-mazda2",
+      "brandId": "brand-mazda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2020 Mazda2",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2020_mazda2/images/1920x1080/2020_mazda2_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2020_mazda2/images/1920x1080/2020_mazda2_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mazda2-2020-0",
+          "generationId": "gen-mazda-mazda2-2020-0",
+          "url": "https://images.caricos.com/m/mazda/2020_mazda2/images/1920x1080/2020_mazda2_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2020_mazda2/images/1920x1080/2020_mazda2_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "2020 Mazda2",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mazda-mazda2-2016-1",
+      "slug": "mazda-mazda2-2016-1",
+      "modelId": "m-mazda-mazda2",
+      "brandId": "brand-mazda",
+      "codeName": "2016",
+      "generationNumber": 2,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 Mazda2",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda2/images/1920x1080/2016_mazda2_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda2/images/1920x1080/2016_mazda2_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mazda2-2016-1",
+          "generationId": "gen-mazda-mazda2-2016-1",
+          "url": "https://images.caricos.com/m/mazda/2016_mazda2/images/1920x1080/2016_mazda2_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda2/images/1920x1080/2016_mazda2_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 Mazda2",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

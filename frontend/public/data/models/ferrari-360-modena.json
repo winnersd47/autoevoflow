@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-360-modena",
+  "slug": "ferrari-360-modena",
+  "name": "360 Modena",
+  "fullName": "Ferrari 360 Modena",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "endYear": 2004,
+  "isActive": false,
+  "description": "The Ferrari 360 Modena (1999–2004) was Ferrari's first all-aluminium space frame production car. Its 400 hp 3.6-litre V8 and F1 paddle-shift gearbox set the template for the modern Ferrari driving experience.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "mid-engine", "v8", "aluminium"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

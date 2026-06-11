@@ -1,0 +1,42 @@
+{
+  "id": "m-maserati-maserati-quattroporte-v",
+  "slug": "maserati-quattroporte-v",
+  "name": "Quattroporte V",
+  "fullName": "Maserati Quattroporte V",
+  "brandId": "brand-maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "endYear": 2012,
+  "isActive": false,
+  "description": "The fifth-generation Quattroporte (2003–2012), designed by Pininfarina and engineered with Ferrari's assistance, was a landmark in luxury performance saloons. Its Ferrari-derived 4.2-litre V8 and longitudinal gearbox mounted at the rear axle gave perfect 50:50 weight distribution. It re-established Maserati as a genuine Ferrari alternative.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["sedan", "maserati", "classic", "heritage"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-quattroporte-v-1",
+      "slug": "maserati-quattroporte-v-gen1",
+      "modelId": "m-maserati-maserati-quattroporte-v",
+      "brandId": "brand-maserati",
+      "codeName": "M139",
+      "generationNumber": 1,
+      "startYear": 2003,
+      "endYear": 2012,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["sedan"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The fifth-generation Quattroporte (2003–2012), designed by Pininfarina and engineered with Ferrari's assistance, was a landmark in luxury performance saloons. Its Ferrari-derived 4.2-litre V8 and longitudinal gearbox mounted at the rear axle gave perfect 50:50 weight distribution. It re-established Maserati as a genuine Ferrari alternative.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

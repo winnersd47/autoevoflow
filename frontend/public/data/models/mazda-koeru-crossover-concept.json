@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-koeru-crossover-concept",
+  "slug": "mazda-koeru-crossover-concept",
+  "name": "Koeru Crossover Concept",
+  "fullName": "Mazda Koeru Crossover Concept",
+  "brandId": "brand-mazda",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "endYear": 2015,
+  "isActive": false,
+  "description": "Mazda Koeru Crossover Concept — concept, produced since 2015.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2015_mazda_koeru/images/1920x1080/2015_mazda_koeru_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2015_mazda_koeru/images/1920x1080/2015_mazda_koeru_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-koeru-crossover-concept-2015-0",
+      "slug": "mazda-koeru-crossover-concept-2015-0",
+      "modelId": "m-mazda-koeru-crossover-concept",
+      "brandId": "brand-mazda",
+      "codeName": "2015",
+      "generationNumber": 1,
+      "startYear": 2015,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2015 Mazda Koeru Crossover Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2015_mazda_koeru/images/1920x1080/2015_mazda_koeru_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2015_mazda_koeru/images/1920x1080/2015_mazda_koeru_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-koeru-crossover-concept-2015-0",
+          "generationId": "gen-mazda-koeru-crossover-concept-2015-0",
+          "url": "https://images.caricos.com/m/mazda/2015_mazda_koeru/images/1920x1080/2015_mazda_koeru_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2015_mazda_koeru/images/1920x1080/2015_mazda_koeru_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2015,
+          "altText": "2015 Mazda Koeru Crossover Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2015"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

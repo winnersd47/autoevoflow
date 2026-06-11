@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-touareg-gold-edition",
+  "slug": "volkswagen-touareg-gold-edition",
+  "name": "Touareg Gold Edition",
+  "fullName": "Volkswagen Touareg Gold Edition",
+  "brandId": "brand-volkswagen",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Touareg Gold Edition — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2011_volkswagen_touareg_gold_edition/images/1920x1080/2011_volkswagen_touareg_gold_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2011_volkswagen_touareg_gold_edition/images/1920x1080/2011_volkswagen_touareg_gold_edition_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-touareg-gold-edition-2020-0",
+      "slug": "volkswagen-touareg-gold-edition-2020-0",
+      "modelId": "m-volkswagen-touareg-gold-edition",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Touareg Gold Edition | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2011_volkswagen_touareg_gold_edition/images/1920x1080/2011_volkswagen_touareg_gold_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2011_volkswagen_touareg_gold_edition/images/1920x1080/2011_volkswagen_touareg_gold_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-touareg-gold-edition-2020-0",
+          "generationId": "gen-volkswagen-touareg-gold-edition-2020-0",
+          "url": "https://images.caricos.com/v/vw/2011_volkswagen_touareg_gold_edition/images/1920x1080/2011_volkswagen_touareg_gold_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2011_volkswagen_touareg_gold_edition/images/1920x1080/2011_volkswagen_touareg_gold_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Touareg Gold Edition | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

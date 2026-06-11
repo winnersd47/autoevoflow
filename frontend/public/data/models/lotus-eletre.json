@@ -1,0 +1,130 @@
+{
+  "id": "m-lotus-eletre",
+  "slug": "lotus-eletre",
+  "name": "Eletre",
+  "fullName": "Lotus Eletre",
+  "brandId": "brand-lotus",
+  "brand": {
+    "id": "brand-lotus",
+    "slug": "lotus",
+    "name": "Lotus",
+    "fullName": "Lotus Cars",
+    "country": "UK",
+    "countryCode": "GB",
+    "foundingYear": 1948,
+    "logoUrl": "",
+    "description": "British sports car manufacturer founded by Colin Chapman",
+    "headquarters": "Hethel, Norfolk, UK",
+    "modelCount": 7,
+    "generationCount": 17,
+    "tags": ["sports", "lightweight", "british"],
+    "aiAnalysisAvailable": true,
+    "createdAt": "2026-01-01T00:00:00Z",
+    "updatedAt": "2026-01-01T00:00:00Z"
+  },
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Lotus Eletre is the brand's first electric SUV and the first model built on the new LEPA (Lotus Electric Premium Architecture). Despite weighing over 2,200 kg, the Eletre R+ produces 905 hp from dual electric motors and accelerates to 100 km/h in 2.95 seconds. Lotus applies its aerodynamic and chassis expertise to a segment where active aero — including a deployable rear spoiler and active underbody — differentiates the car from conventional luxury SUVs.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lotus/2023_lotus_eletre_r/images/1920x1080/2023_lotus_eletre_r_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lotus/2023_lotus_eletre_r/images/1920x1080/2023_lotus_eletre_r_1_1920x1080.jpg",
+  "tags": ["ev", "suv", "electric", "active-aero", "hypersuv"],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+
+  "generations": [
+    {
+      "id": "gen-eletre-1",
+      "slug": "lotus-eletre-gen1",
+      "modelId": "m-lotus-eletre",
+      "brandId": "brand-lotus",
+      "codeName": "Eletre S / R / R+",
+      "generationNumber": 1,
+      "startYear": 2023,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["suv"],
+      "engineTypes": ["BEV"],
+      "markets": ["global"],
+      "specs": {
+        "horsepower": 905,
+        "torque": 985,
+        "topSpeed": 265,
+        "acceleration0to100": 2.95,
+        "electricRange": 490,
+        "batteryCapacity": 112,
+        "weight": 2280,
+        "length": 5103,
+        "width": 2135,
+        "height": 1630,
+        "wheelbase": 3019,
+        "seatingCapacity": 5,
+        "drivetrain": "AWD",
+        "engineType": "BEV",
+        "transmissionType": "single-speed"
+      },
+      "description": "The Eletre is Lotus's boldest departure and its most commercially important vehicle. Three variants — S (603 hp), R (905 hp), and R+ (905 hp with track package) — span a wide performance range within the same body. The active aerodynamic system includes a deployable rear spoiler, active front grille louvers that open to cool the battery at high load and close for aerodynamic efficiency at cruising speeds, and flush pop-up door handles. The underbody features a Lotus-developed active diffuser — a road car application of F1 underfloor aerodynamics. The 800V electrical architecture enables 350 kW rapid charging, adding approximately 150 km of range in 10 minutes. Interior quality is the highest of any Lotus, with sustainable leather alternatives, a 15.1-inch central touchscreen, and a driver-focused cockpit that echoes the Elise's philosophy within a five-seat SUV.",
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/2023_lotus_eletre_r/images/1920x1080/2023_lotus_eletre_r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/2023_lotus_eletre_r/images/1920x1080/2023_lotus_eletre_r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-eletre-1",
+          "generationId": "gen-eletre-1",
+          "url": "https://images.caricos.com/l/lotus/2023_lotus_eletre_r/images/1920x1080/2023_lotus_eletre_r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lotus/2023_lotus_eletre_r/images/1920x1080/2023_lotus_eletre_r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2023,
+          "altText": "2023 Lotus Eletre R",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "designerName": "Lotus Design Team (Ben Payne)",
+      "platformCode": "LEPA",
+      "tags": ["lepa-platform", "800v", "active-aero", "hypersuv", "905hp"],
+      "aiAnalysisAvailable": true,
+      "evolutionSummary": "The Eletre proves that Lotus's core values — aerodynamic intelligence, chassis precision, driver engagement — translate to an electric SUV. The body may be 5.1 metres long, but the philosophy is recognisably Lotus.",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+
+  "analysis": {
+    "id": "analysis-eletre",
+    "entityType": "model",
+    "entityId": "m-lotus-eletre",
+    "analysisType": "design_evolution",
+    "provider": "claude-3-5",
+    "headline": "The Eletre: Can Chapman's Philosophy Survive in a 2,280 kg SUV?",
+    "summary": "The Lotus Eletre is the most philosophically challenging car the brand has ever built — a 2,280 kg electric SUV from a manufacturer defined by the elimination of weight. Yet the engineering approach is unmistakably Lotus: every aerodynamic surface is functional, every chassis system is optimised for driver engagement, and the result is genuinely different from any rival.",
+    "fullText": "The question Lotus faced with the Eletre was not whether they could build a luxury electric SUV — dozens of companies can do that — but whether they could build one that would be recognisably Lotus.\n\nThe answer, after 12 months of living with production cars, appears to be: largely, yes.\n\nThe active aerodynamic package is the clearest expression of Lotus DNA. The pop-out door handles that retract flush at speed, the active front grille louvers, the deployable rear spoiler, and the active underbody diffuser all serve measurable functional purposes — each one reduces drag or increases downforce depending on driving conditions. This is not styling for its own sake; it is what a Lotus engineer does when given the opportunity.\n\nThe chassis tuning is the second expression of heritage. Engineers from Hethel were responsible for the final suspension calibration, and the Eletre's body control — for 2,280 kg — is astonishing. The active suspension manages body roll and pitch in ways that disguise the weight. At circuit speeds (yes, the Eletre has been driven on track), it communicates grip levels through the steering with clarity unusual in any SUV.\n\nWhere the Eletre does not feel like a Lotus is in its overall character: it is a composed, refined, fast luxury SUV first and a Lotus second. That is probably the right prioritisation for its commercial brief. The 905 hp R+ is the most Lotus-like: its Sport mode sharpens the steering, firms the suspension, and makes the throttle response immediate enough to remind you who built it.\n\nCollins Chapman would not have chosen to build an electric SUV. But he would have respected the aerodynamic thoroughness.",
+    "insights": [
+      {
+        "id": "insight-eletre-1",
+        "category": "Aerodynamic Innovation",
+        "text": "The Eletre is the first production SUV to feature an active underfloor aerodynamic system. The technology, derived directly from Formula One underbody aerodynamics research, reduces drag at highway speeds by managing boundary layer separation at the rear diffuser — a problem conventional SUVs accept as unavoidable.",
+        "confidence": 0.91,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-eletre-2",
+        "category": "Platform Architecture",
+        "text": "The LEPA (Lotus Electric Premium Architecture) is designed for multiple model derivatives including the Lotus Emeya electric GT. Its 800V electrical system is among the most advanced in the industry, enabling charging rates that compress the 'range anxiety' window to under 15 minutes for 200+ km of range.",
+        "confidence": 0.93,
+        "importance": "high"
+      }
+    ],
+    "confidenceScore": 0.88,
+    "processingTimeMs": 3100,
+    "createdAt": "2026-01-15T10:00:00Z",
+    "isCached": true
+  }
+}

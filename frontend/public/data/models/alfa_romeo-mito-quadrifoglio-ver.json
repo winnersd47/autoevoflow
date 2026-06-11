@@ -1,0 +1,72 @@
+{
+  "id": "m-alfa_romeo-mito-quadrifoglio-ver",
+  "slug": "alfa_romeo-mito-quadrifoglio-ver",
+  "name": "MiTo Quadrifoglio Ver",
+  "fullName": "Alfa Romeo MiTo Quadrifoglio Ver",
+  "brandId": "brand-alfa_romeo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Alfa Romeo MiTo Quadrifoglio Ver — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2014_alfa_romeo_mito_quadrifoglio_verde/images/1920x1080/2014_alfa_romeo_mito_quadrifoglio_verde_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2014_alfa_romeo_mito_quadrifoglio_verde/images/1920x1080/2014_alfa_romeo_mito_quadrifoglio_verde_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "alfa-romeo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-alfa_romeo-mito-quadrifoglio-ver-2020-0",
+      "slug": "alfa_romeo-mito-quadrifoglio-ver-2020-0",
+      "modelId": "m-alfa_romeo-mito-quadrifoglio-ver",
+      "brandId": "brand-alfa_romeo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Alfa Romeo MiTo Quadrifoglio Verde | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2014_alfa_romeo_mito_quadrifoglio_verde/images/1920x1080/2014_alfa_romeo_mito_quadrifoglio_verde_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2014_alfa_romeo_mito_quadrifoglio_verde/images/1920x1080/2014_alfa_romeo_mito_quadrifoglio_verde_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-alfa_romeo-mito-quadrifoglio-ver-2020-0",
+          "generationId": "gen-alfa_romeo-mito-quadrifoglio-ver-2020-0",
+          "url": "https://images.caricos.com/a/alfa_romeo/2014_alfa_romeo_mito_quadrifoglio_verde/images/1920x1080/2014_alfa_romeo_mito_quadrifoglio_verde_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2014_alfa_romeo_mito_quadrifoglio_verde/images/1920x1080/2014_alfa_romeo_mito_quadrifoglio_verde_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Alfa Romeo MiTo Quadrifoglio Verde | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

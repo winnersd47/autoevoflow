@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-grancabrio-mc",
+  "slug": "maserati-grancabrio-mc",
+  "name": "GranCabrio MC",
+  "fullName": "Maserati GranCabrio MC",
+  "brandId": "brand-maserati",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "endYear": 2013,
+  "isActive": false,
+  "description": "Maserati GranCabrio MC — convertible, produced since 2013.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_mc/images/1920x1080/2013_maserati_grancabrio_mc_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_mc/images/1920x1080/2013_maserati_grancabrio_mc_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-grancabrio-mc-2013-0",
+      "slug": "maserati-grancabrio-mc-2013-0",
+      "modelId": "m-maserati-grancabrio-mc",
+      "brandId": "brand-maserati",
+      "codeName": "2013",
+      "generationNumber": 1,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2013 Maserati GranCabrio MC",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_mc/images/1920x1080/2013_maserati_grancabrio_mc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_mc/images/1920x1080/2013_maserati_grancabrio_mc_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-grancabrio-mc-2013-0",
+          "generationId": "gen-maserati-grancabrio-mc-2013-0",
+          "url": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_mc/images/1920x1080/2013_maserati_grancabrio_mc_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_mc/images/1920x1080/2013_maserati_grancabrio_mc_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2013,
+          "altText": "2013 Maserati GranCabrio MC",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2013"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

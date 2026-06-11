@@ -1,0 +1,118 @@
+{
+  "id": "m-bentley-bentayga-v8",
+  "slug": "bentley-bentayga-v8",
+  "name": "Bentayga V8",
+  "fullName": "Bentley Bentayga V8",
+  "brandId": "brand-bentley",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bentley Bentayga V8 — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/b/bentley/2020_bentley_bentayga_v8_design_series/images/1920x1080/2020_bentley_bentayga_v8_design_series_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bentley/2020_bentley_bentayga_v8_design_series/images/1920x1080/2020_bentley_bentayga_v8_design_series_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bentley"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bentley-bentayga-v8-2020-0",
+      "slug": "bentley-bentayga-v8-2020-0",
+      "modelId": "m-bentley-bentayga-v8",
+      "brandId": "brand-bentley",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bentley Bentayga V8 Design Series | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bentley/2020_bentley_bentayga_v8_design_series/images/1920x1080/2020_bentley_bentayga_v8_design_series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bentley/2020_bentley_bentayga_v8_design_series/images/1920x1080/2020_bentley_bentayga_v8_design_series_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bentley-bentayga-v8-2020-0",
+          "generationId": "gen-bentley-bentayga-v8-2020-0",
+          "url": "https://images.caricos.com/b/bentley/2020_bentley_bentayga_v8_design_series/images/1920x1080/2020_bentley_bentayga_v8_design_series_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bentley/2020_bentley_bentayga_v8_design_series/images/1920x1080/2020_bentley_bentayga_v8_design_series_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bentley Bentayga V8 Design Series | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bentley-bentayga-v8-2020-1",
+      "slug": "bentley-bentayga-v8-2020-1",
+      "modelId": "m-bentley-bentayga-v8",
+      "brandId": "brand-bentley",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bentley Bentayga V8 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bentley/2018_bentley_bentayga_v8/images/1920x1080/2018_bentley_bentayga_v8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bentley/2018_bentley_bentayga_v8/images/1920x1080/2018_bentley_bentayga_v8_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bentley-bentayga-v8-2020-1",
+          "generationId": "gen-bentley-bentayga-v8-2020-1",
+          "url": "https://images.caricos.com/b/bentley/2018_bentley_bentayga_v8/images/1920x1080/2018_bentley_bentayga_v8_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bentley/2018_bentley_bentayga_v8/images/1920x1080/2018_bentley_bentayga_v8_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bentley Bentayga V8 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

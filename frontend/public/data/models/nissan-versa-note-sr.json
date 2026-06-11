@@ -1,0 +1,72 @@
+{
+  "id": "m-nissan-versa-note-sr",
+  "slug": "nissan-versa-note-sr",
+  "name": "Versa Note SR",
+  "fullName": "Nissan Versa Note SR",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Versa Note SR — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_versa_note_sr/images/1920x1080/2015_nissan_versa_note_sr_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_versa_note_sr/images/1920x1080/2015_nissan_versa_note_sr_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-versa-note-sr-2020-0",
+      "slug": "nissan-versa-note-sr-2020-0",
+      "modelId": "m-nissan-versa-note-sr",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Versa Note SR | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_versa_note_sr/images/1920x1080/2015_nissan_versa_note_sr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_versa_note_sr/images/1920x1080/2015_nissan_versa_note_sr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-versa-note-sr-2020-0",
+          "generationId": "gen-nissan-versa-note-sr-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_versa_note_sr/images/1920x1080/2015_nissan_versa_note_sr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_versa_note_sr/images/1920x1080/2015_nissan_versa_note_sr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Versa Note SR | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

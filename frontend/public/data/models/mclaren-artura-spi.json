@@ -1,0 +1,118 @@
+{
+  "id": "m-mclaren-artura-spi",
+  "slug": "mclaren-artura-spi",
+  "name": "Artura Spi",
+  "fullName": "McLaren Artura Spi",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "McLaren Artura Spi — sedan, produced since 2025.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_artura_spider_mcl39_championship_edition/images/1920x1080/2026_mclaren_artura_spider_mcl39_championship_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_artura_spider_mcl39_championship_edition/images/1920x1080/2026_mclaren_artura_spider_mcl39_championship_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-artura-spi-2026-0",
+      "slug": "mclaren-artura-spi-2026-0",
+      "modelId": "m-mclaren-artura-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 McLaren Artura Spider MCL39 Championship Edition",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_artura_spider_mcl39_championship_edition/images/1920x1080/2026_mclaren_artura_spider_mcl39_championship_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_artura_spider_mcl39_championship_edition/images/1920x1080/2026_mclaren_artura_spider_mcl39_championship_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-artura-spi-2026-0",
+          "generationId": "gen-mclaren-artura-spi-2026-0",
+          "url": "https://images.caricos.com/m/mclaren/2026_mclaren_artura_spider_mcl39_championship_edition/images/1920x1080/2026_mclaren_artura_spider_mcl39_championship_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_artura_spider_mcl39_championship_edition/images/1920x1080/2026_mclaren_artura_spider_mcl39_championship_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 McLaren Artura Spider MCL39 Championship Edition",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mclaren-artura-spi-2025-1",
+      "slug": "mclaren-artura-spi-2025-1",
+      "modelId": "m-mclaren-artura-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2025",
+      "generationNumber": 2,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 McLaren Artura Spider",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2025_mclaren_artura_spider/images/1920x1080/2025_mclaren_artura_spider_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2025_mclaren_artura_spider/images/1920x1080/2025_mclaren_artura_spider_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-artura-spi-2025-1",
+          "generationId": "gen-mclaren-artura-spi-2025-1",
+          "url": "https://images.caricos.com/m/mclaren/2025_mclaren_artura_spider/images/1920x1080/2025_mclaren_artura_spider_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2025_mclaren_artura_spider/images/1920x1080/2025_mclaren_artura_spider_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 McLaren Artura Spider",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

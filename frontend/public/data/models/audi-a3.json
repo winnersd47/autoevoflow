@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-a3",
+  "slug": "audi-a3",
+  "name": "A3",
+  "fullName": "Audi A3",
+  "brandId": "brand-audi",
+  "bodyType": "hatchback",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi A3 (1996–present) brought Audi's premium values to the compact hatchback segment. Based on the Volkswagen Group MQB platform, it shares architecture with the VW Golf while delivering a distinctly premium experience through its virtual cockpit, quattro AWD option, and refined NVH characteristics.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_a3/images/1920x1080/2021_audi_a3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_a3/images/1920x1080/2021_audi_a3_1_1920x1080.jpg",
+  "tags": ["hatchback", "audi", "quattro", "luxury", "compact", "mqb"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-a3-8l",
+      "slug": "audi-a3-8l",
+      "modelId": "m-audi-a3",
+      "brandId": "brand-audi",
+      "codeName": "8L",
+      "generationNumber": 1,
+      "startYear": 1996,
+      "endYear": 2003,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["hatchback"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The 8L A3 (1996–2003) launched the A3 nameplate on the PQ34 platform, offering a premium alternative to the VW Golf Mk3.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_a3/images/1920x1080/2021_audi_a3_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

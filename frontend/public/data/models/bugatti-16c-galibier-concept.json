@@ -1,0 +1,72 @@
+{
+  "id": "m-bugatti-16c-galibier-concept",
+  "slug": "bugatti-16c-galibier-concept",
+  "name": "16C Galibier Concept",
+  "fullName": "Bugatti 16C Galibier Concept",
+  "brandId": "brand-bugatti",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bugatti 16C Galibier Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bugatti/2009_bugatti_16c_galibier_concept/images/1920x1080/2009_bugatti_16c_galibier_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bugatti/2009_bugatti_16c_galibier_concept/images/1920x1080/2009_bugatti_16c_galibier_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "bugatti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bugatti-16c-galibier-concept-2020-0",
+      "slug": "bugatti-16c-galibier-concept-2020-0",
+      "modelId": "m-bugatti-16c-galibier-concept",
+      "brandId": "brand-bugatti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bugatti 16C Galibier Concept | 2009MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bugatti/2009_bugatti_16c_galibier_concept/images/1920x1080/2009_bugatti_16c_galibier_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bugatti/2009_bugatti_16c_galibier_concept/images/1920x1080/2009_bugatti_16c_galibier_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bugatti-16c-galibier-concept-2020-0",
+          "generationId": "gen-bugatti-16c-galibier-concept-2020-0",
+          "url": "https://images.caricos.com/b/bugatti/2009_bugatti_16c_galibier_concept/images/1920x1080/2009_bugatti_16c_galibier_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bugatti/2009_bugatti_16c_galibier_concept/images/1920x1080/2009_bugatti_16c_galibier_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bugatti 16C Galibier Concept | 2009MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

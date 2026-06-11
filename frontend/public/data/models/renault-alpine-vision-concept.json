@@ -1,0 +1,72 @@
+{
+  "id": "m-renault-alpine-vision-concept",
+  "slug": "renault-alpine-vision-concept",
+  "name": "Alpine Vision Concept",
+  "fullName": "Renault Alpine Vision Concept",
+  "brandId": "brand-renault",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Renault Alpine Vision Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/r/renault/2016_alpine_vision/images/1920x1080/2016_alpine_vision_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/r/renault/2016_alpine_vision/images/1920x1080/2016_alpine_vision_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "renault"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-renault-alpine-vision-concept-2020-0",
+      "slug": "renault-alpine-vision-concept-2020-0",
+      "modelId": "m-renault-alpine-vision-concept",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Alpine Vision Concept | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2016_alpine_vision/images/1920x1080/2016_alpine_vision_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2016_alpine_vision/images/1920x1080/2016_alpine_vision_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-alpine-vision-concept-2020-0",
+          "generationId": "gen-renault-alpine-vision-concept-2020-0",
+          "url": "https://images.caricos.com/r/renault/2016_alpine_vision/images/1920x1080/2016_alpine_vision_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2016_alpine_vision/images/1920x1080/2016_alpine_vision_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Alpine Vision Concept | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

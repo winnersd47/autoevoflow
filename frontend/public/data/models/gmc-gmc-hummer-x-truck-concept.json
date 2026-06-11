@@ -1,0 +1,26 @@
+{
+  "id": "ncs-gmc-gmc-hummer-x-truck-concept",
+  "slug": "gmc-gmc-hummer-x-truck-concept",
+  "name": "GMC Hummer X Truck Concept",
+  "fullName": "2026 GMC Hummer X Truck Concept",
+  "brandId": "gmc",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Hummer X was designed for what the team calls the &quot;builder maker&quot; - someone who doesn't just drive a vehicle; they build it, modify it, and share it with a community that gets it.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/GMC-Hummer_X_Truck_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/GMC-Hummer_X_Truck_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/gmc/2026-hummer_x_truck_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.732Z",
+  "updatedAt": "2026-06-05T07:36:26.732Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-bentley-mulliner-batur-convertible-breslow",
+  "slug": "bentley-mulliner-batur-convertible-breslow",
+  "name": "Mulliner Batur Convertible Breslow",
+  "fullName": "Bentley Mulliner Batur Convertible Breslow",
+  "brandId": "brand-bentley",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bentley Mulliner Batur Convertible Breslow — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bentley/2026_bentley_mulliner_batur_convertible_breslow/images/1920x1080/2026_bentley_mulliner_batur_convertible_breslow_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bentley/2026_bentley_mulliner_batur_convertible_breslow/images/1920x1080/2026_bentley_mulliner_batur_convertible_breslow_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "bentley"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bentley-mulliner-batur-convertible-breslow-2020-0",
+      "slug": "bentley-mulliner-batur-convertible-breslow-2020-0",
+      "modelId": "m-bentley-mulliner-batur-convertible-breslow",
+      "brandId": "brand-bentley",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bentley Mulliner Batur Convertible Breslow | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bentley/2026_bentley_mulliner_batur_convertible_breslow/images/1920x1080/2026_bentley_mulliner_batur_convertible_breslow_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bentley/2026_bentley_mulliner_batur_convertible_breslow/images/1920x1080/2026_bentley_mulliner_batur_convertible_breslow_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bentley-mulliner-batur-convertible-breslow-2020-0",
+          "generationId": "gen-bentley-mulliner-batur-convertible-breslow-2020-0",
+          "url": "https://images.caricos.com/b/bentley/2026_bentley_mulliner_batur_convertible_breslow/images/1920x1080/2026_bentley_mulliner_batur_convertible_breslow_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bentley/2026_bentley_mulliner_batur_convertible_breslow/images/1920x1080/2026_bentley_mulliner_batur_convertible_breslow_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bentley Mulliner Batur Convertible Breslow | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

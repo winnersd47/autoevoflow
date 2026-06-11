@@ -1,0 +1,72 @@
+{
+  "id": "m-rolls_royce-102ex-phantom-experimental-electric",
+  "slug": "rolls_royce-102ex-phantom-experimental-electric",
+  "name": "102ex Phantom Experimental Electric",
+  "fullName": "Rolls-Royce 102ex Phantom Experimental Electric",
+  "brandId": "brand-rolls_royce",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Rolls-Royce 102ex Phantom Experimental Electric — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_102ex_concept/images/1920x1080/2011_rolls-royce_102ex_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_102ex_concept/images/1920x1080/2011_rolls-royce_102ex_concept_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "rolls-royce"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-rolls_royce-102ex-phantom-experimental-electric-2020-0",
+      "slug": "rolls_royce-102ex-phantom-experimental-electric-2020-0",
+      "modelId": "m-rolls_royce-102ex-phantom-experimental-electric",
+      "brandId": "brand-rolls_royce",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Rolls-Royce 102ex Phantom Experimental Electric | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_102ex_concept/images/1920x1080/2011_rolls-royce_102ex_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_102ex_concept/images/1920x1080/2011_rolls-royce_102ex_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-rolls_royce-102ex-phantom-experimental-electric-2020-0",
+          "generationId": "gen-rolls_royce-102ex-phantom-experimental-electric-2020-0",
+          "url": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_102ex_concept/images/1920x1080/2011_rolls-royce_102ex_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_102ex_concept/images/1920x1080/2011_rolls-royce_102ex_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Rolls-Royce 102ex Phantom Experimental Electric | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-skytop-concept",
+  "slug": "bmw-bmw-skytop-concept",
+  "name": "BMW Skytop Concept",
+  "fullName": "2024 BMW Skytop Concept",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "The clean exterior of the BMW Concept Skytop is designed to inspire a desire to travel. Its taut, muscular surfaces are defined by a few precise lines...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-Skytop_Concept-2024-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-Skytop_Concept-2024-thb.jpg",
+  "tags": [
+    "new",
+    "2024"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2024-skytop_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.748Z",
+  "updatedAt": "2026-06-05T07:36:26.748Z"
+}

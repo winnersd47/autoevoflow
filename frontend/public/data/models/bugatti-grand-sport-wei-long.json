@@ -1,0 +1,72 @@
+{
+  "id": "m-bugatti-grand-sport-wei-long",
+  "slug": "bugatti-grand-sport-wei-long",
+  "name": "Grand Sport Wei Long",
+  "fullName": "Bugatti Grand Sport Wei Long",
+  "brandId": "brand-bugatti",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bugatti Grand Sport Wei Long — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bugatti/2012_bugatti_grand_sport_wei_long/images/1920x1080/2012_bugatti_grand_sport_wei_long_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bugatti/2012_bugatti_grand_sport_wei_long/images/1920x1080/2012_bugatti_grand_sport_wei_long_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bugatti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bugatti-grand-sport-wei-long-2020-0",
+      "slug": "bugatti-grand-sport-wei-long-2020-0",
+      "modelId": "m-bugatti-grand-sport-wei-long",
+      "brandId": "brand-bugatti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bugatti Grand Sport Wei Long | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bugatti/2012_bugatti_grand_sport_wei_long/images/1920x1080/2012_bugatti_grand_sport_wei_long_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bugatti/2012_bugatti_grand_sport_wei_long/images/1920x1080/2012_bugatti_grand_sport_wei_long_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bugatti-grand-sport-wei-long-2020-0",
+          "generationId": "gen-bugatti-grand-sport-wei-long-2020-0",
+          "url": "https://images.caricos.com/b/bugatti/2012_bugatti_grand_sport_wei_long/images/1920x1080/2012_bugatti_grand_sport_wei_long_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bugatti/2012_bugatti_grand_sport_wei_long/images/1920x1080/2012_bugatti_grand_sport_wei_long_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bugatti Grand Sport Wei Long | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

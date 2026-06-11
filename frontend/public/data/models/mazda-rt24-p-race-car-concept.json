@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-rt24-p-race-car-concept",
+  "slug": "mazda-rt24-p-race-car-concept",
+  "name": "RT24-P Race Car Concept",
+  "fullName": "Mazda RT24-P Race Car Concept",
+  "brandId": "brand-mazda",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "endYear": 2016,
+  "isActive": false,
+  "description": "Mazda RT24-P Race Car Concept — concept, produced since 2016.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_rt24-p_race_car_concept/images/1920x1080/2016_mazda_rt24-p_race_car_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda_rt24-p_race_car_concept/images/1920x1080/2016_mazda_rt24-p_race_car_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-rt24-p-race-car-concept-2016-0",
+      "slug": "mazda-rt24-p-race-car-concept-2016-0",
+      "modelId": "m-mazda-rt24-p-race-car-concept",
+      "brandId": "brand-mazda",
+      "codeName": "2016",
+      "generationNumber": 1,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 Mazda RT24-P Race Car Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_rt24-p_race_car_concept/images/1920x1080/2016_mazda_rt24-p_race_car_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda_rt24-p_race_car_concept/images/1920x1080/2016_mazda_rt24-p_race_car_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-rt24-p-race-car-concept-2016-0",
+          "generationId": "gen-mazda-rt24-p-race-car-concept-2016-0",
+          "url": "https://images.caricos.com/m/mazda/2016_mazda_rt24-p_race_car_concept/images/1920x1080/2016_mazda_rt24-p_race_car_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_rt24-p_race_car_concept/images/1920x1080/2016_mazda_rt24-p_race_car_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 Mazda RT24-P Race Car Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

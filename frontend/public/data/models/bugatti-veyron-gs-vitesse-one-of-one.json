@@ -1,0 +1,72 @@
+{
+  "id": "m-bugatti-veyron-gs-vitesse-one-of-one",
+  "slug": "bugatti-veyron-gs-vitesse-one-of-one",
+  "name": "Veyron GS Vitesse One of One",
+  "fullName": "Bugatti Veyron GS Vitesse One of One",
+  "brandId": "brand-bugatti",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bugatti Veyron GS Vitesse One of One — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bugatti/2014_bugatti_veyron_grand_sport_vitesse_one_of_one/images/1920x1080/2014_bugatti_veyron_grand_sport_vitesse_one_of_one_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bugatti/2014_bugatti_veyron_grand_sport_vitesse_one_of_one/images/1920x1080/2014_bugatti_veyron_grand_sport_vitesse_one_of_one_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bugatti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bugatti-veyron-gs-vitesse-one-of-one-2020-0",
+      "slug": "bugatti-veyron-gs-vitesse-one-of-one-2020-0",
+      "modelId": "m-bugatti-veyron-gs-vitesse-one-of-one",
+      "brandId": "brand-bugatti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bugatti Veyron GS Vitesse One of One | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bugatti/2014_bugatti_veyron_grand_sport_vitesse_one_of_one/images/1920x1080/2014_bugatti_veyron_grand_sport_vitesse_one_of_one_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bugatti/2014_bugatti_veyron_grand_sport_vitesse_one_of_one/images/1920x1080/2014_bugatti_veyron_grand_sport_vitesse_one_of_one_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bugatti-veyron-gs-vitesse-one-of-one-2020-0",
+          "generationId": "gen-bugatti-veyron-gs-vitesse-one-of-one-2020-0",
+          "url": "https://images.caricos.com/b/bugatti/2014_bugatti_veyron_grand_sport_vitesse_one_of_one/images/1920x1080/2014_bugatti_veyron_grand_sport_vitesse_one_of_one_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bugatti/2014_bugatti_veyron_grand_sport_vitesse_one_of_one/images/1920x1080/2014_bugatti_veyron_grand_sport_vitesse_one_of_one_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bugatti Veyron GS Vitesse One of One | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

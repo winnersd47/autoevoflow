@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-granturismo-folgore",
+  "slug": "maserati-granturismo-folgore",
+  "name": "GranTurismo Folgore",
+  "fullName": "Maserati GranTurismo Folgore",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "endYear": null,
+  "isActive": true,
+  "description": "Maserati GranTurismo Folgore — coupe, produced since 2023.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_folgore/images/1920x1080/2023_maserati_granturismo_folgore_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_folgore/images/1920x1080/2023_maserati_granturismo_folgore_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-granturismo-folgore-2023-0",
+      "slug": "maserati-granturismo-folgore-2023-0",
+      "modelId": "m-maserati-granturismo-folgore",
+      "brandId": "brand-maserati",
+      "codeName": "2023",
+      "generationNumber": 1,
+      "startYear": 2023,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2023 Maserati GranTurismo Folgore",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_folgore/images/1920x1080/2023_maserati_granturismo_folgore_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_folgore/images/1920x1080/2023_maserati_granturismo_folgore_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-granturismo-folgore-2023-0",
+          "generationId": "gen-maserati-granturismo-folgore-2023-0",
+          "url": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_folgore/images/1920x1080/2023_maserati_granturismo_folgore_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_folgore/images/1920x1080/2023_maserati_granturismo_folgore_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2023,
+          "altText": "2023 Maserati GranTurismo Folgore",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2023"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "m-nissan-370z-heritage-edition",
+  "slug": "nissan-370z-heritage-edition",
+  "name": "370Z Heritage Edition",
+  "fullName": "Nissan 370Z Heritage Edition",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan 370Z Heritage Edition — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_370z_heritage_edition/images/1920x1080/2019_nissan_370z_heritage_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2019_nissan_370z_heritage_edition/images/1920x1080/2019_nissan_370z_heritage_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-370z-heritage-edition-2020-0",
+      "slug": "nissan-370z-heritage-edition-2020-0",
+      "modelId": "m-nissan-370z-heritage-edition",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan 370Z Heritage Edition | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_370z_heritage_edition/images/1920x1080/2019_nissan_370z_heritage_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2019_nissan_370z_heritage_edition/images/1920x1080/2019_nissan_370z_heritage_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-370z-heritage-edition-2020-0",
+          "generationId": "gen-nissan-370z-heritage-edition-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2019_nissan_370z_heritage_edition/images/1920x1080/2019_nissan_370z_heritage_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_370z_heritage_edition/images/1920x1080/2019_nissan_370z_heritage_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan 370Z Heritage Edition | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-370z-heritage-edition-2020-1",
+      "slug": "nissan-370z-heritage-edition-2020-1",
+      "modelId": "m-nissan-370z-heritage-edition",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan 370Z Heritage Edition | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_370z_heritage_edition/images/1920x1080/2018_nissan_370z_heritage_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2018_nissan_370z_heritage_edition/images/1920x1080/2018_nissan_370z_heritage_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-370z-heritage-edition-2020-1",
+          "generationId": "gen-nissan-370z-heritage-edition-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2018_nissan_370z_heritage_edition/images/1920x1080/2018_nissan_370z_heritage_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_370z_heritage_edition/images/1920x1080/2018_nissan_370z_heritage_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan 370Z Heritage Edition | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

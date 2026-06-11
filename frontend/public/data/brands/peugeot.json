@@ -1,0 +1,124 @@
+{
+  "id": "brand-peugeot",
+  "slug": "peugeot",
+  "name": "Peugeot",
+  "fullName": "Stellantis",
+  "country": "France",
+  "countryCode": "FR",
+  "foundingYear": 1882,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "",
+  "description": "Peugeot is a France automobile manufacturer founded in 1882.",
+  "parentCompany": "Stellantis",
+  "headquarters": "Paris, France",
+  "modelCount": 1,
+  "generationCount": 12,
+  "tags": [
+    "france",
+    "automotive"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "models": [
+    {
+      "id": "m-peugeot-p",
+      "slug": "peugeot-p",
+      "name": "P",
+      "fullName": "Peugeot P",
+      "brandId": "brand-peugeot",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2008,
+      "endYear": 2008,
+      "isActive": false,
+      "description": "Peugeot P — sedan, produced since 2008.",
+      "generationCount": 73,
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "peugeot"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "latestCars": [
+    {
+      "id": "ncs-peugeot-2026-6_concept",
+      "name": "Peugeot 6 Concept",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Peugeot-6_Concept-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/peugeot/2026-6_concept/",
+      "description": "Peugeot Concept 6 expresses the vision of a bold new generation of large sedans. Its feline silhouette merges the elegance of a sedan with the dynamism of...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-peugeot-2018-e-legend_concept",
+      "name": "Peugeot e-Legend Concept",
+      "year": 2018,
+      "imageUrl": "https://www.netcarshow.com/Peugeot-e-Legend_Concept-2018-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/peugeot/2018-e-legend_concept/",
+      "description": "Peugeot e-Legend Concept magnifies the DNA of the brand by combining its heritage with the most advanced technologies in the automotive world. Peugeot proves...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-peugeot-2017-instinct_concept",
+      "name": "Peugeot Instinct Concept",
+      "year": 2017,
+      "imageUrl": "https://www.netcarshow.com/Peugeot-Instinct_Concept-2017-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/peugeot/2017-instinct_concept/",
+      "description": "Peugeot Instinct Concept operates in total harmony with the full range of connected devices to create a brand-new approach to mobility. The vehicle integrates...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-peugeot-2015-fractal_concept",
+      "name": "Peugeot Fractal Concept",
+      "year": 2015,
+      "imageUrl": "https://www.netcarshow.com/Peugeot-Fractal_Concept-2015-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/peugeot/2015-fractal_concept/",
+      "description": "Peugeot Fractal is an electric urban coup&eacute; revealing a prospective design for the Peugeot i Cockpit&reg; that explores the sense of hearing in...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-peugeot-2006-207_spider_concept",
+      "name": "Peugeot 207 Spider Concept",
+      "year": 2006,
+      "imageUrl": "https://www.netcarshow.com/Peugeot-207_Spider_Concept-2006-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/peugeot/2006-207_spider_concept/",
+      "description": "The Spider 207, which received its world premi&egrave;re in Paris, is developed from the 20Cup concept car but features a more conventional 4-wheel...",
+      "scrapedAt": "2026-06-05T07:31:49.540Z"
+    },
+    {
+      "id": "ncs-peugeot-2006-908_rc_concept",
+      "name": "Peugeot 908 RC Concept",
+      "year": 2006,
+      "imageUrl": "https://www.netcarshow.com/Peugeot-908_RC_Concept-2006-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/peugeot/2006-908_rc_concept/",
+      "description": "The raison d'etre of a concept car is to explore new ideas and to test the ideas in an attempt to create the ultimate solution. Know-how and passion,...",
+      "scrapedAt": "2026-06-05T07:31:49.540Z"
+    },
+    {
+      "id": "ncs-peugeot-2004-907_concept",
+      "name": "Peugeot 907 Concept",
+      "year": 2004,
+      "imageUrl": "https://www.netcarshow.com/Peugeot-907_Concept-2004-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/peugeot/2004-907_concept/",
+      "description": "The new Peugeot 907 is a concept car from Peugeot. The body is built from carbon fiber. The car was never really meant to go into production, but just to...",
+      "scrapedAt": "2026-06-05T07:31:49.540Z"
+    },
+    {
+      "id": "ncs-peugeot-2000-607_feline_concept",
+      "name": "Peugeot 607 Feline Concept",
+      "year": 2000,
+      "imageUrl": "https://www.netcarshow.com/Peugeot-607_Feline_Concept-2000-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/peugeot/2000-607_feline_concept/",
+      "description": "",
+      "scrapedAt": "2026-06-05T07:31:49.540Z"
+    }
+  ]
+}

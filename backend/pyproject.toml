@@ -1,0 +1,153 @@
+[tool.ruff]
+# Target Python 3.11+
+target-version = "py311"
+line-length = 100
+exclude = [
+    ".git",
+    ".venv",
+    "venv",
+    "__pycache__",
+    "alembic/versions",
+    "dist",
+    "build",
+]
+
+[tool.ruff.lint]
+select = [
+    "E",      # pycodestyle errors
+    "W",      # pycodestyle warnings
+    "F",      # pyflakes
+    "I",      # isort
+    "B",      # flake8-bugbear
+    "C4",     # flake8-comprehensions
+    "UP",     # pyupgrade
+    "N",      # pep8-naming
+    "SIM",    # flake8-simplify
+    "TID",    # flake8-tidy-imports
+    "RUF",    # ruff-specific rules
+    "ASYNC",  # flake8-async
+    "S",      # bandit security checks
+    "T20",    # flake8-print (no print statements)
+]
+ignore = [
+    "E501",   # line too long — handled by formatter
+    "B008",   # do not perform function calls in argument defaults (FastAPI Depends)
+    "S101",   # use of assert — allowed in tests
+    "S104",   # binding to all interfaces
+    "N802",   # function name should be lowercase (SQLAlchemy comparisons)
+    "N803",   # argument name should be lowercase
+    "UP007",  # use X | Y for union types — keep Optional for compatibility
+    "RUF012", # mutable class attributes — dataclasses use field()
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**/*.py" = ["S101", "T20", "S106"]
+"alembic/**/*.py" = ["E402", "F401"]
+"app/workers/**/*.py" = ["S603", "S607"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["app"]
+combine-as-imports = true
+force-wrap-aliases = true
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "lf"
+skip-magic-trailing-comma = false
+
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+ignore_missing_imports = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_return_any = true
+warn_unreachable = true
+show_error_codes = true
+pretty = true
+# Exclude generated files
+exclude = [
+    "alembic/",
+    "tests/",
+    ".venv/",
+]
+
+[[tool.mypy.overrides]]
+# Third-party libraries without stubs
+module = [
+    "neo4j.*",
+    "redis.*",
+    "celery.*",
+    "open_clip.*",
+    "faiss.*",
+    "authlib.*",
+    "sentry_sdk.*",
+    "structlog.*",
+    "passlib.*",
+    "jose.*",
+    "pgvector.*",
+    "PIL.*",
+    "anthropic.*",
+    "prometheus_client.*",
+    "transformers.*",
+    "torch.*",
+    "boto3.*",
+    "botocore.*",
+    "httpx.*",
+]
+ignore_missing_imports = true
+ignore_errors = true
+
+
+[tool.pytest.ini_options]
+# pytest configuration
+asyncio_mode = "auto"
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = [
+    "-v",
+    "--strict-markers",
+    "--strict-config",
+    "--tb=short",
+    "--color=yes",
+]
+markers = [
+    "unit: Unit tests (no external dependencies)",
+    "integration: Integration tests (requires DB/Redis/Neo4j)",
+    "slow: Slow tests (ML model loading, large datasets)",
+    "e2e: End-to-end API tests",
+]
+filterwarnings = [
+    "error",
+    "ignore::DeprecationWarning",
+    "ignore::PendingDeprecationWarning",
+    "ignore::UserWarning",
+]
+
+[tool.coverage.run]
+source = ["app"]
+omit = [
+    "*/tests/*",
+    "alembic/*",
+    "*/migrations/*",
+]
+branch = true
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "if TYPE_CHECKING:",
+    "raise NotImplementedError",
+    "@abstractmethod",
+]
+show_missing = true
+fail_under = 70

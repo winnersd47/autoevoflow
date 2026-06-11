@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-levante-quattroporte-and-ghibli-edizione-nobile",
+  "slug": "maserati-levante-quattroporte-and-ghibli-edizione-nobile",
+  "name": "Levante, Quattroporte and Ghibli Edizione Nobile",
+  "fullName": "Maserati Levante, Quattroporte and Ghibli Edizione Nobile",
+  "brandId": "brand-maserati",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "endYear": 2019,
+  "isActive": false,
+  "description": "Maserati Levante, Quattroporte and Ghibli Edizione Nobile — suv, produced since 2019.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2019_maserati_edizione_nobile/images/1920x1080/2019_maserati_edizione_nobile_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2019_maserati_edizione_nobile/images/1920x1080/2019_maserati_edizione_nobile_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-levante-quattroporte-and-ghibli-edizione-nobile-2019-0",
+      "slug": "maserati-levante-quattroporte-and-ghibli-edizione-nobile-2019-0",
+      "modelId": "m-maserati-levante-quattroporte-and-ghibli-edizione-nobile",
+      "brandId": "brand-maserati",
+      "codeName": "2019",
+      "generationNumber": 1,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2019 Maserati Levante, Quattroporte and Ghibli Edizione Nobile",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2019_maserati_edizione_nobile/images/1920x1080/2019_maserati_edizione_nobile_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2019_maserati_edizione_nobile/images/1920x1080/2019_maserati_edizione_nobile_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-levante-quattroporte-and-ghibli-edizione-nobile-2019-0",
+          "generationId": "gen-maserati-levante-quattroporte-and-ghibli-edizione-nobile-2019-0",
+          "url": "https://images.caricos.com/m/maserati/2019_maserati_edizione_nobile/images/1920x1080/2019_maserati_edizione_nobile_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2019_maserati_edizione_nobile/images/1920x1080/2019_maserati_edizione_nobile_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2019,
+          "altText": "2019 Maserati Levante, Quattroporte and Ghibli Edizione Nobile",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

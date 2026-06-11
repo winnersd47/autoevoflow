@@ -1,0 +1,51 @@
+{
+  "id": "m-vw-passat",
+  "slug": "vw-passat",
+  "name": "Passat",
+  "fullName": "Volkswagen Passat",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Volkswagen Passat (1973-present) is the Group executive car, sharing its B1 platform with the Audi 80 and evolving across eight generations into the European family estate benchmark.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-vw-passat-1",
+      "slug": "vw-passat-gen1",
+      "modelId": "m-vw-passat",
+      "brandId": "brand-volkswagen",
+      "codeName": "Passat",
+      "generationNumber": 1,
+      "startYear": 1973,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Volkswagen Passat (1973-present) is the Group executive car, sharing its B1 platform with the Audi 80 and evolving across eight generations into the European family estate benchmark.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

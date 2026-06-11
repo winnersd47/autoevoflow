@@ -1,0 +1,196 @@
+{
+  "id": "m-bmw-ix3",
+  "slug": "bmw-ix3",
+  "name": "iX3",
+  "fullName": "BMW iX3",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW iX3 — sedan, produced since 2027.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2027_bmw_ix3/images/1920x1080/2027_bmw_ix3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2027_bmw_ix3/images/1920x1080/2027_bmw_ix3_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-ix3-2027-0",
+      "slug": "bmw-ix3-2027-0",
+      "modelId": "m-bmw-ix3",
+      "brandId": "brand-bmw",
+      "codeName": "2027",
+      "generationNumber": 1,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2027 iX3",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-ix3-2027-1",
+      "slug": "bmw-ix3-2027-1",
+      "modelId": "m-bmw-ix3",
+      "brandId": "brand-bmw",
+      "codeName": "2027",
+      "generationNumber": 2,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW iX3 | 2027MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2027_bmw_ix3/images/1920x1080/2027_bmw_ix3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2027_bmw_ix3/images/1920x1080/2027_bmw_ix3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-ix3-2027-1",
+          "generationId": "gen-bmw-ix3-2027-1",
+          "url": "https://images.caricos.com/b/bmw/2027_bmw_ix3/images/1920x1080/2027_bmw_ix3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2027_bmw_ix3/images/1920x1080/2027_bmw_ix3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "BMW iX3 | 2027MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-ix3-2027-2",
+      "slug": "bmw-ix3-2027-2",
+      "modelId": "m-bmw-ix3",
+      "brandId": "brand-bmw",
+      "codeName": "2027",
+      "generationNumber": 3,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW iX3 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_ix3/images/1920x1080/2022_bmw_ix3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2022_bmw_ix3/images/1920x1080/2022_bmw_ix3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-ix3-2027-2",
+          "generationId": "gen-bmw-ix3-2027-2",
+          "url": "https://images.caricos.com/b/bmw/2022_bmw_ix3/images/1920x1080/2022_bmw_ix3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_ix3/images/1920x1080/2022_bmw_ix3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "BMW iX3 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-ix3-2027-3",
+      "slug": "bmw-ix3-2027-3",
+      "modelId": "m-bmw-ix3",
+      "brandId": "brand-bmw",
+      "codeName": "2027",
+      "generationNumber": 4,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW iX3 | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_ix3/images/1920x1080/2021_bmw_ix3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2021_bmw_ix3/images/1920x1080/2021_bmw_ix3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-ix3-2027-3",
+          "generationId": "gen-bmw-ix3-2027-3",
+          "url": "https://images.caricos.com/b/bmw/2021_bmw_ix3/images/1920x1080/2021_bmw_ix3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_ix3/images/1920x1080/2021_bmw_ix3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "BMW iX3 | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "m-lotus-europa",
+  "slug": "lotus-europa",
+  "name": "Europa",
+  "fullName": "Lotus Europa",
+  "brandId": "brand-lotus",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1966,
+  "endYear": 1975,
+  "isActive": false,
+  "description": "The Lotus Europa (1966-1975) was Lotus's mid-engine production car — so radical it was mistaken for a racing car on public roads. Its combination of mid-engine layout and minimal weight directly inspired the Esprit.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "coupe",
+    "lotus"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lotus-europa-1",
+      "slug": "lotus-europa-gen1",
+      "modelId": "m-lotus-europa",
+      "brandId": "brand-lotus",
+      "codeName": "Europa",
+      "generationNumber": 1,
+      "startYear": 1966,
+      "endYear": 1975,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Lotus Europa (1966-1975) was Lotus's mid-engine production car — so radical it was mistaken for a racing car on public roads. Its combination of mid-engine layout and minimal weight directly inspired the Esprit.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

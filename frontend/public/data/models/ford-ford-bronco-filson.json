@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ford-ford-bronco-filson",
+  "slug": "ford-ford-bronco-filson",
+  "name": "Ford Bronco Filson",
+  "fullName": "2027 Ford Bronco Filson",
+  "brandId": "ford",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Bronco Filson is the newest member of the Bronco lineup - designed with Built Wild extreme durability and the heirloom-quality craftsmanship of a Filson...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ford-Bronco_Filson-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ford-Bronco_Filson-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ford/2027-bronco_filson/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.710Z",
+  "updatedAt": "2026-06-05T07:36:26.710Z"
+}

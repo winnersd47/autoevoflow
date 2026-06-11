@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-q8",
+  "slug": "audi-q8",
+  "name": "Q8",
+  "fullName": "Audi Q8",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi Q8 (2018–present) is Audi's flagship SUV coupe, competing with the BMW X6 and Mercedes GLE Coupe. Its 48V mild hybrid system and optional plug-in hybrid variants represent Audi's transitional electrification strategy.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_q8/images/1920x1080/2022_audi_q8_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_q8/images/1920x1080/2022_audi_q8_1_1920x1080.jpg",
+  "tags": ["suv", "audi", "flagship", "luxury", "quattro", "mild-hybrid"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-q8-f8",
+      "slug": "audi-q8-f8",
+      "modelId": "m-audi-q8",
+      "brandId": "brand-audi",
+      "codeName": "F8",
+      "generationNumber": 1,
+      "startYear": 2018,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["suv"],
+      "engineTypes": ["ICE", "MHEV"],
+      "markets": ["global"],
+      "description": "The Q8 F8 (2018–present) is Audi's flagship SUV coupe on the MLB Evo platform, featuring 48V mild hybrid technology and a distinctive fastback roofline.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_q8/images/1920x1080/2022_audi_q8_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

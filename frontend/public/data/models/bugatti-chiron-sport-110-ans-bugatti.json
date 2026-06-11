@@ -1,0 +1,72 @@
+{
+  "id": "m-bugatti-chiron-sport-110-ans-bugatti",
+  "slug": "bugatti-chiron-sport-110-ans-bugatti",
+  "name": "Chiron Sport 110 ans Bugatti",
+  "fullName": "Bugatti Chiron Sport 110 ans Bugatti",
+  "brandId": "brand-bugatti",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bugatti Chiron Sport 110 ans Bugatti — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bugatti/2019_bugatti_chiron_sport_110_ans_bugatti/images/1920x1080/2019_bugatti_chiron_sport_110_ans_bugatti_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bugatti/2019_bugatti_chiron_sport_110_ans_bugatti/images/1920x1080/2019_bugatti_chiron_sport_110_ans_bugatti_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bugatti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bugatti-chiron-sport-110-ans-bugatti-2020-0",
+      "slug": "bugatti-chiron-sport-110-ans-bugatti-2020-0",
+      "modelId": "m-bugatti-chiron-sport-110-ans-bugatti",
+      "brandId": "brand-bugatti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bugatti Chiron Sport 110 ans Bugatti | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bugatti/2019_bugatti_chiron_sport_110_ans_bugatti/images/1920x1080/2019_bugatti_chiron_sport_110_ans_bugatti_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bugatti/2019_bugatti_chiron_sport_110_ans_bugatti/images/1920x1080/2019_bugatti_chiron_sport_110_ans_bugatti_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bugatti-chiron-sport-110-ans-bugatti-2020-0",
+          "generationId": "gen-bugatti-chiron-sport-110-ans-bugatti-2020-0",
+          "url": "https://images.caricos.com/b/bugatti/2019_bugatti_chiron_sport_110_ans_bugatti/images/1920x1080/2019_bugatti_chiron_sport_110_ans_bugatti_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bugatti/2019_bugatti_chiron_sport_110_ans_bugatti/images/1920x1080/2019_bugatti_chiron_sport_110_ans_bugatti_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bugatti Chiron Sport 110 ans Bugatti | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "m-maserati-maserati-3200-gt",
+  "slug": "maserati-3200-gt",
+  "name": "3200 GT",
+  "fullName": "Maserati 3200 GT",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "endYear": 2002,
+  "isActive": false,
+  "description": "The Maserati 3200 GT (1998–2002) was the first Maserati developed under Ferrari ownership. Styled by Giugiaro with distinctive boomerang tail-lights, it used a twin-turbocharged 3.2-litre V8 producing 370 hp. The 3200 GT signalled Maserati's commercial revival and laid the platform for the Quattroporte V.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "maserati", "classic", "heritage"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-3200-gt-1",
+      "slug": "maserati-3200-gt-gen1",
+      "modelId": "m-maserati-maserati-3200-gt",
+      "brandId": "brand-maserati",
+      "codeName": "M136",
+      "generationNumber": 1,
+      "startYear": 1998,
+      "endYear": 2002,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The Maserati 3200 GT (1998–2002) was the first Maserati developed under Ferrari ownership. Styled by Giugiaro with distinctive boomerang tail-lights, it used a twin-turbocharged 3.2-litre V8 producing 370 hp. The 3200 GT signalled Maserati's commercial revival and laid the platform for the Quattroporte V.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

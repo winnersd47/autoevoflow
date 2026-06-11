@@ -1,0 +1,394 @@
+{
+  "id": "m-lamborghini-ur",
+  "slug": "lamborghini-ur",
+  "name": "Ur",
+  "fullName": "Lamborghini Ur",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Ur — sedan, produced since 2020.",
+  "generationCount": 8,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_urus_se/images/1920x1080/2025_lamborghini_urus_se_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_urus_se/images/1920x1080/2025_lamborghini_urus_se_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-ur-2020-0",
+      "slug": "lamborghini-ur-2020-0",
+      "modelId": "m-lamborghini-ur",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Urus SE | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_urus_se/images/1920x1080/2025_lamborghini_urus_se_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_urus_se/images/1920x1080/2025_lamborghini_urus_se_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-ur-2020-0",
+          "generationId": "gen-lamborghini-ur-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2025_lamborghini_urus_se/images/1920x1080/2025_lamborghini_urus_se_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_urus_se/images/1920x1080/2025_lamborghini_urus_se_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Urus SE | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lamborghini-ur-2020-1",
+      "slug": "lamborghini-ur-2020-1",
+      "modelId": "m-lamborghini-ur",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Urus S | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_s/images/1920x1080/2023_lamborghini_urus_s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_s/images/1920x1080/2023_lamborghini_urus_s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-ur-2020-1",
+          "generationId": "gen-lamborghini-ur-2020-1",
+          "url": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_s/images/1920x1080/2023_lamborghini_urus_s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_s/images/1920x1080/2023_lamborghini_urus_s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Urus S | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lamborghini-ur-2020-2",
+      "slug": "lamborghini-ur-2020-2",
+      "modelId": "m-lamborghini-ur",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Urus Performante Polizia | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante_polizia/images/1920x1080/2023_lamborghini_urus_performante_polizia_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante_polizia/images/1920x1080/2023_lamborghini_urus_performante_polizia_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-ur-2020-2",
+          "generationId": "gen-lamborghini-ur-2020-2",
+          "url": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante_polizia/images/1920x1080/2023_lamborghini_urus_performante_polizia_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante_polizia/images/1920x1080/2023_lamborghini_urus_performante_polizia_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Urus Performante Polizia | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lamborghini-ur-2020-3",
+      "slug": "lamborghini-ur-2020-3",
+      "modelId": "m-lamborghini-ur",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Urus Performante Essenza SCV12 | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante_essenza_scv12/images/1920x1080/2023_lamborghini_urus_performante_essenza_scv12_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante_essenza_scv12/images/1920x1080/2023_lamborghini_urus_performante_essenza_scv12_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-ur-2020-3",
+          "generationId": "gen-lamborghini-ur-2020-3",
+          "url": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante_essenza_scv12/images/1920x1080/2023_lamborghini_urus_performante_essenza_scv12_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante_essenza_scv12/images/1920x1080/2023_lamborghini_urus_performante_essenza_scv12_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Urus Performante Essenza SCV12 | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lamborghini-ur-2020-4",
+      "slug": "lamborghini-ur-2020-4",
+      "modelId": "m-lamborghini-ur",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Urus Performante | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante/images/1920x1080/2023_lamborghini_urus_performante_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante/images/1920x1080/2023_lamborghini_urus_performante_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-ur-2020-4",
+          "generationId": "gen-lamborghini-ur-2020-4",
+          "url": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante/images/1920x1080/2023_lamborghini_urus_performante_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2023_lamborghini_urus_performante/images/1920x1080/2023_lamborghini_urus_performante_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Urus Performante | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lamborghini-ur-2020-5",
+      "slug": "lamborghini-ur-2020-5",
+      "modelId": "m-lamborghini-ur",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Urus | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2019_lamborghini_urus/images/1920x1080/2019_lamborghini_urus_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2019_lamborghini_urus/images/1920x1080/2019_lamborghini_urus_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-ur-2020-5",
+          "generationId": "gen-lamborghini-ur-2020-5",
+          "url": "https://images.caricos.com/l/lamborghini/2019_lamborghini_urus/images/1920x1080/2019_lamborghini_urus_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2019_lamborghini_urus/images/1920x1080/2019_lamborghini_urus_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Urus | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lamborghini-ur-2020-6",
+      "slug": "lamborghini-ur-2020-6",
+      "modelId": "m-lamborghini-ur",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Urus ST-X Concept | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2018_lamborghini_urus_st-x/images/1920x1080/2018_lamborghini_urus_st-x_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2018_lamborghini_urus_st-x/images/1920x1080/2018_lamborghini_urus_st-x_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-ur-2020-6",
+          "generationId": "gen-lamborghini-ur-2020-6",
+          "url": "https://images.caricos.com/l/lamborghini/2018_lamborghini_urus_st-x/images/1920x1080/2018_lamborghini_urus_st-x_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2018_lamborghini_urus_st-x/images/1920x1080/2018_lamborghini_urus_st-x_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Urus ST-X Concept | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lamborghini-ur-2020-7",
+      "slug": "lamborghini-ur-2020-7",
+      "modelId": "m-lamborghini-ur",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Urus SUV Concept | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2012_lamborghini_urus_concept/images/1920x1080/2012_lamborghini_urus_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2012_lamborghini_urus_concept/images/1920x1080/2012_lamborghini_urus_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-ur-2020-7",
+          "generationId": "gen-lamborghini-ur-2020-7",
+          "url": "https://images.caricos.com/l/lamborghini/2012_lamborghini_urus_concept/images/1920x1080/2012_lamborghini_urus_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2012_lamborghini_urus_concept/images/1920x1080/2012_lamborghini_urus_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Urus SUV Concept | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

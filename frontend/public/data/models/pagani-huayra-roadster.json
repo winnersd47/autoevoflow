@@ -1,0 +1,72 @@
+{
+  "id": "m-pagani-huayra-roadster",
+  "slug": "pagani-huayra-roadster",
+  "name": "Huayra Roadster",
+  "fullName": "Pagani Huayra Roadster",
+  "brandId": "brand-pagani",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Pagani Huayra Roadster — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/pagani/2017_pagani_huayra_roadster/images/1920x1080/2017_pagani_huayra_roadster_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/pagani/2017_pagani_huayra_roadster/images/1920x1080/2017_pagani_huayra_roadster_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "pagani"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-pagani-huayra-roadster-2020-0",
+      "slug": "pagani-huayra-roadster-2020-0",
+      "modelId": "m-pagani-huayra-roadster",
+      "brandId": "brand-pagani",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Pagani Huayra Roadster | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/p/pagani/2017_pagani_huayra_roadster/images/1920x1080/2017_pagani_huayra_roadster_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/pagani/2017_pagani_huayra_roadster/images/1920x1080/2017_pagani_huayra_roadster_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-pagani-huayra-roadster-2020-0",
+          "generationId": "gen-pagani-huayra-roadster-2020-0",
+          "url": "https://images.caricos.com/p/pagani/2017_pagani_huayra_roadster/images/1920x1080/2017_pagani_huayra_roadster_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/pagani/2017_pagani_huayra_roadster/images/1920x1080/2017_pagani_huayra_roadster_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Pagani Huayra Roadster | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Orbitron:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── CSS Custom Properties ──────────────────────────────── */
+/* Primary: Saffron Fire — Lamborghini Arancio Midas / McLaren Papaya /      */
+/* Brembo caliper amber / BMW M Performance Orange. Warm near-black bg.      */
+:root {
+  --bg-primary:  #09080A;
+  --bg-surface:  #0E0C0E;
+  --bg-elevated: #141214;
+  --bg-card:     #191619;
+  --accent-warm: #1E1A1E;
+
+  --color-primary:      #F97316;               /* Saffron Fire              */
+  --color-primary-dark: #C2410C;               /* Ember Red (active states) */
+  --color-primary-glow: rgba(249, 115, 22, 0.38);
+  --color-gold:         #ffd700;
+  --color-gold-glow:    rgba(255, 215, 0, 0.4);
+
+  --border-subtle:  rgba(255, 255, 255, 0.05);
+  --border-default: rgba(255, 255, 255, 0.08);
+  --border-bright:  rgba(255, 255, 255, 0.15);
+  --border-primary: rgba(249, 115, 22, 0.28);
+
+  --text-primary:   #F5F0EB;    /* warm white */
+  --text-secondary: #8C8480;    /* warm grey  */
+  --text-muted:     #4A4340;    /* dark warm  */
+
+  --radius-sm: 0.375rem;
+  --radius-md: 0.625rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+
+  --shadow-glow:  0 0 20px rgba(249,115,22,0.40), 0 0 60px rgba(249,115,22,0.15);
+  --shadow-card:  0 8px 32px rgba(0,0,0,0.55), inset 0 1px 0 rgba(255,255,255,0.055);
+  --shadow-hover: 0 16px 48px rgba(0,0,0,0.70), 0 0 24px rgba(249,115,22,0.22);
+
+  --transition-fast:   150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base:   250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow:   400ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --transition-spring: 500ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* ─── Base Reset & Typography ────────────────────────────── */
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Inter', system-ui, sans-serif;
+    min-height: 100dvh;
+    overflow-x: hidden;
+  }
+
+  /* Animated background gradient */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 50% at 20% -10%, rgba(0, 212, 255, 0.06) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 40% at 80% 110%, rgba(26, 26, 46, 0.8) 0%, transparent 60%),
+      radial-gradient(ellipse 40% 30% at 50% 50%, rgba(255, 215, 0, 0.02) 0%, transparent 60%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* Grid overlay */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0, 212, 255, 0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0, 212, 255, 0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  #__next, main {
+    position: relative;
+    z-index: 1;
+  }
+
+  ::selection {
+    background-color: rgba(0, 212, 255, 0.3);
+    color: #ffffff;
+  }
+
+  ::-moz-selection {
+    background-color: rgba(0, 212, 255, 0.3);
+    color: #ffffff;
+  }
+}
+
+/* ─── Custom Scrollbar ───────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-surface);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 212, 255, 0.3);
+  border-radius: 3px;
+  transition: background var(--transition-base);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 212, 255, 0.6);
+}
+
+::-webkit-scrollbar-corner {
+  background: var(--bg-surface);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 212, 255, 0.3) var(--bg-surface);
+}
+
+/* ─── Glassmorphism Utilities ────────────────────────────── */
+@layer components {
+  .glass {
+    background: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    border: 1px solid var(--border-default);
+    box-shadow: var(--shadow-card);
+  }
+
+  .glass-sm {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid var(--border-subtle);
+  }
+
+  .glass-strong {
+    background: rgba(10, 10, 20, 0.85);
+    backdrop-filter: blur(24px) saturate(200%);
+    -webkit-backdrop-filter: blur(24px) saturate(200%);
+    border: 1px solid var(--border-bright);
+  }
+
+  .glass-primary {
+    background: rgba(249, 115, 22, 0.07);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(249, 115, 22, 0.22);
+  }
+
+  /* ─── Glow Effects ───────────────────────────────────────── */
+  .glow-primary {
+    box-shadow: var(--shadow-glow);
+  }
+
+  .glow-gold {
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.4), 0 0 60px rgba(255, 215, 0, 0.12);
+  }
+
+  .glow-text-primary {
+    text-shadow: 0 0 20px rgba(249, 115, 22, 0.65), 0 0 40px rgba(249, 115, 22, 0.30);
+  }
+
+  .glow-text-gold {
+    text-shadow: 0 0 20px rgba(255, 215, 0, 0.6), 0 0 40px rgba(255, 215, 0, 0.3);
+  }
+
+  /* ─── Card Styles ────────────────────────────────────────── */
+  .card-base {
+    @apply glass rounded-xl transition-all duration-300;
+  }
+
+  .card-hover {
+    @apply card-base hover:border-primary/30 hover:shadow-card-hover hover:-translate-y-1;
+  }
+
+  .card-interactive {
+    @apply card-hover cursor-pointer active:scale-[0.98];
+  }
+
+  /* ─── Button Base ────────────────────────────────────────── */
+  .btn-primary {
+    @apply relative inline-flex items-center justify-center gap-2 px-6 py-3 rounded-lg
+           font-semibold text-sm text-background bg-primary transition-all duration-200
+           hover:bg-primary-light hover:shadow-glow-primary hover:-translate-y-0.5
+           active:translate-y-0 active:scale-[0.98]
+           disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none;
+  }
+
+  .btn-secondary {
+    @apply relative inline-flex items-center justify-center gap-2 px-6 py-3 rounded-lg
+           font-semibold text-sm text-primary bg-primary/10 border border-primary/30
+           transition-all duration-200 hover:bg-primary/20 hover:border-primary/50
+           hover:shadow-glow-sm hover:-translate-y-0.5 active:translate-y-0;
+  }
+
+  .btn-ghost {
+    @apply relative inline-flex items-center justify-center gap-2 px-4 py-2 rounded-lg
+           font-medium text-sm text-text-secondary border border-transparent
+           transition-all duration-200 hover:text-text-primary hover:border-border
+           hover:bg-white/5;
+  }
+
+  /* ─── Badge Styles ───────────────────────────────────────── */
+  .badge-primary {
+    @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-2xs font-semibold
+           uppercase tracking-wider text-primary bg-primary/15 border border-primary/30;
+  }
+
+  .badge-gold {
+    @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-2xs font-semibold
+           uppercase tracking-wider text-gold bg-gold/15 border border-gold/30;
+  }
+
+  .badge-surface {
+    @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-2xs font-medium
+           text-text-secondary bg-white/5 border border-border;
+  }
+
+  /* ─── Input Styles ───────────────────────────────────────── */
+  .input-base {
+    @apply w-full bg-surface-elevated border border-border rounded-lg px-4 py-3 text-sm
+           text-text-primary placeholder-text-muted outline-none transition-all duration-200
+           focus:border-primary/50 focus:shadow-glow-sm focus:bg-accent;
+  }
+
+  /* ─── Section Styles ─────────────────────────────────────── */
+  .section-heading {
+    @apply font-display font-bold text-text-primary tracking-tight;
+  }
+
+  .section-label {
+    @apply text-2xs font-semibold uppercase tracking-[0.2em] text-primary;
+  }
+
+  /* ─── Gradient Text ──────────────────────────────────────── */
+  .gradient-text-primary {
+    @apply bg-gradient-to-r from-primary via-primary-light to-primary bg-clip-text text-transparent;
+    background-size: 200% auto;
+    animation: gradient-shift 4s ease infinite;
+  }
+
+  .gradient-text-gold {
+    @apply bg-gradient-to-r from-gold via-gold-light to-gold bg-clip-text text-transparent;
+    background-size: 200% auto;
+  }
+
+  /* ─── Loading States ─────────────────────────────────────── */
+  .skeleton {
+    @apply relative overflow-hidden bg-white/5 rounded;
+  }
+
+  .skeleton::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.05), transparent);
+    animation: shimmer 2s linear infinite;
+  }
+
+  /* ─── Divider ────────────────────────────────────────────── */
+  .divider {
+    @apply w-full h-px bg-gradient-to-r from-transparent via-border-bright to-transparent;
+  }
+
+  .divider-primary {
+    @apply w-full h-px;
+    background: linear-gradient(90deg, transparent, rgba(0, 212, 255, 0.4), transparent);
+  }
+
+  /* ─── Scan Line Effect ───────────────────────────────────── */
+  .scan-effect {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .scan-effect::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--color-primary), transparent);
+    opacity: 0.5;
+    animation: scan-line 3s linear infinite;
+  }
+
+  /* ─── Animated Border ────────────────────────────────────── */
+  .border-animated {
+    position: relative;
+  }
+
+  .border-animated::before {
+    content: '';
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    background: linear-gradient(45deg, var(--color-primary), transparent, var(--color-gold), transparent, var(--color-primary));
+    background-size: 300% 300%;
+    animation: gradient-shift 4s ease infinite;
+    z-index: -1;
+    opacity: 0;
+    transition: opacity var(--transition-base);
+  }
+
+  .border-animated:hover::before {
+    opacity: 1;
+  }
+
+  /* ─── Number Counter ─────────────────────────────────────── */
+  .counter-display {
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: 'tnum';
+  }
+}
+
+/* ─── Utility Overrides ──────────────────────────────────── */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+
+  .perspective-2000 {
+    perspective: 2000px;
+  }
+
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+
+  .writing-vertical {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+  }
+}
+
+/* ─── Cytoscape Container ────────────────────────────────── */
+.cy-container {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+}
+
+.cy-container canvas {
+  border-radius: inherit;
+}
+
+/* ─── D3 Styles ──────────────────────────────────────────── */
+.d3-tooltip {
+  position: absolute;
+  background: rgba(10, 10, 20, 0.95);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  border-radius: 0.75rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.75rem;
+  color: var(--text-primary);
+  pointer-events: none;
+  z-index: 1000;
+  box-shadow: var(--shadow-card);
+  max-width: 220px;
+  transition: opacity 150ms ease;
+}
+
+.d3-link {
+  fill: none;
+  stroke-width: 1.5;
+  opacity: 0.7;
+}
+
+.d3-node circle {
+  transition: r 200ms ease;
+}
+
+/* ─── Three.js Canvas ────────────────────────────────────── */
+canvas.three-scene {
+  display: block;
+  outline: none;
+}
+
+/* ─── React Query Loading Indicator ─────────────────────── */
+.rq-loading-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-gold));
+  z-index: 9999;
+  animation: rq-progress 1.5s ease-in-out infinite;
+}
+
+@keyframes rq-progress {
+  0% { width: 0%; opacity: 1; }
+  50% { width: 70%; opacity: 1; }
+  100% { width: 100%; opacity: 0; }
+}
+
+/* ─── Print Styles ───────────────────────────────────────── */
+@media print {
+  body {
+    background: white;
+    color: black;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+}

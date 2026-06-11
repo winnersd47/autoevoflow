@@ -1,0 +1,98 @@
+{
+  "id": "brand-tesla",
+  "slug": "tesla",
+  "name": "Tesla",
+  "fullName": "Tesla",
+  "country": "USA",
+  "countryCode": "US",
+  "foundingYear": 2003,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "",
+  "description": "Tesla is a USA automobile manufacturer founded in 2003.",
+  "parentCompany": null,
+  "headquarters": "Austin, USA",
+  "modelCount": 3,
+  "generationCount": 10,
+  "tags": [
+    "usa",
+    "automotive"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "models": [
+    {
+      "id": "m-tesla-mo",
+      "slug": "tesla-mo",
+      "name": "Mo",
+      "fullName": "Tesla Mo",
+      "brandId": "brand-tesla",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Tesla Mo — sedan, produced since 2020.",
+      "generationCount": 7,
+      "thumbnailUrl": "https://images.caricos.com/t/tesla/2025_tesla_model_y/images/1920x1080/2025_tesla_model_y_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/tesla/2025_tesla_model_y/images/1920x1080/2025_tesla_model_y_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "tesla"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-tesla-cybertruck",
+      "slug": "tesla-cybertruck",
+      "name": "Cybertruck",
+      "fullName": "Tesla Cybertruck",
+      "brandId": "brand-tesla",
+      "bodyType": "pickup",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Tesla Cybertruck — pickup, produced since 2020.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/t/tesla/2025_tesla_cybertruck/images/1920x1080/2025_tesla_cybertruck_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/tesla/2025_tesla_cybertruck/images/1920x1080/2025_tesla_cybertruck_1_1920x1080.jpg",
+      "tags": [
+        "pickup",
+        "tesla"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-tesla-roadster",
+      "slug": "tesla-roadster",
+      "name": "Roadster",
+      "fullName": "Tesla Roadster",
+      "brandId": "brand-tesla",
+      "bodyType": "convertible",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Tesla Roadster — convertible, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/t/tesla/2020_tesla_roadster/images/1920x1080/2020_tesla_roadster_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/tesla/2020_tesla_roadster/images/1920x1080/2020_tesla_roadster_1_1920x1080.jpg",
+      "tags": [
+        "convertible",
+        "tesla"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

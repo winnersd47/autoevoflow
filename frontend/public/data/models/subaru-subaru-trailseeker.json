@@ -1,0 +1,26 @@
+{
+  "id": "ncs-subaru-subaru-trailseeker",
+  "slug": "subaru-subaru-trailseeker",
+  "name": "Subaru Trailseeker",
+  "fullName": "2026 Subaru Trailseeker",
+  "brandId": "subaru",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "With 375 horsepower, the 2026 Subaru Trailseeker launches from 0 to 60 mph in 4.4 seconds, making it the quickest production Subaru model sold in the U.S. yet.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Subaru-Trailseeker-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Subaru-Trailseeker-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/subaru/2026-trailseeker/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.735Z",
+  "updatedAt": "2026-06-05T07:36:26.735Z"
+}

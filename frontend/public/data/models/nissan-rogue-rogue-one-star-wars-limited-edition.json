@@ -1,0 +1,72 @@
+{
+  "id": "m-nissan-rogue-rogue-one-star-wars-limited-edition",
+  "slug": "nissan-rogue-rogue-one-star-wars-limited-edition",
+  "name": "Rogue: Rogue One Star Wars Limited Edition",
+  "fullName": "Nissan Rogue: Rogue One Star Wars Limited Edition",
+  "brandId": "brand-nissan",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Rogue: Rogue One Star Wars Limited Edition — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_rogue_star_wars/images/1920x1080/2017_nissan_rogue_star_wars_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_rogue_star_wars/images/1920x1080/2017_nissan_rogue_star_wars_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-rogue-rogue-one-star-wars-limited-edition-2020-0",
+      "slug": "nissan-rogue-rogue-one-star-wars-limited-edition-2020-0",
+      "modelId": "m-nissan-rogue-rogue-one-star-wars-limited-edition",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Rogue: Rogue One Star Wars Limited Edition | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_rogue_star_wars/images/1920x1080/2017_nissan_rogue_star_wars_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_rogue_star_wars/images/1920x1080/2017_nissan_rogue_star_wars_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-rogue-rogue-one-star-wars-limited-edition-2020-0",
+          "generationId": "gen-nissan-rogue-rogue-one-star-wars-limited-edition-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2017_nissan_rogue_star_wars/images/1920x1080/2017_nissan_rogue_star_wars_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_rogue_star_wars/images/1920x1080/2017_nissan_rogue_star_wars_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Rogue: Rogue One Star Wars Limited Edition | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

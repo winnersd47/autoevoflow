@@ -1,0 +1,26 @@
+{
+  "id": "ncs-chrysler-chrysler-halcyon-concept",
+  "slug": "chrysler-chrysler-halcyon-concept",
+  "name": "Chrysler Halcyon Concept",
+  "fullName": "2024 Chrysler Halcyon Concept",
+  "brandId": "chrysler",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Chrysler Halcyon Concept, designed on the STLA Large platform, offers an aerodynamic, streamlined and uncompromising vision of the Chrysler brand's future exterior character.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Chrysler-Halcyon_Concept-2024-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Chrysler-Halcyon_Concept-2024-thb.jpg",
+  "tags": [
+    "new",
+    "2024"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/chrysler/2024-halcyon_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.749Z",
+  "updatedAt": "2026-06-05T07:36:26.749Z"
+}

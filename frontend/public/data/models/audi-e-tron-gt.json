@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-e-tron-gt",
+  "slug": "audi-e-tron-gt",
+  "name": "e-tron GT",
+  "fullName": "Audi e-tron GT",
+  "brandId": "brand-audi",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi e-tron GT (2021–present) is Audi's electric Gran Turismo, sharing the J1 platform with the Porsche Taycan. With up to 646 hp in RS spec and a 0–100 time of 3.3 seconds, it represents the high-performance flagship of Audi's electric range.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron_gt/images/1920x1080/2022_audi_e-tron_gt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron_gt/images/1920x1080/2022_audi_e-tron_gt_1_1920x1080.jpg",
+  "tags": ["coupe", "audi", "electric", "bev", "gran-turismo", "rs", "performance"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-e-tron-gt-f8t",
+      "slug": "audi-e-tron-gt-f8t",
+      "modelId": "m-audi-e-tron-gt",
+      "brandId": "brand-audi",
+      "codeName": "F8T",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe"],
+      "engineTypes": ["BEV"],
+      "markets": ["global"],
+      "description": "The e-tron GT F8T (2021–present) shares the Porsche Taycan J1 platform, delivering up to 646 hp in RS e-tron GT specification with e-quattro AWD.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron_gt/images/1920x1080/2022_audi_e-tron_gt_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

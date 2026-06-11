@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-quattroporte-ermenegildo-zegna-limited-edition",
+  "slug": "maserati-quattroporte-ermenegildo-zegna-limited-edition",
+  "name": "Quattroporte Ermenegildo Zegna Limited Edition",
+  "fullName": "Maserati Quattroporte Ermenegildo Zegna Limited Edition",
+  "brandId": "brand-maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "endYear": 2013,
+  "isActive": false,
+  "description": "Maserati Quattroporte Ermenegildo Zegna Limited Edition — sedan, produced since 2013.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_quattroporte_ermenegildo_zegna/images/1920x1080/2013_maserati_quattroporte_ermenegildo_zegna_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2013_maserati_quattroporte_ermenegildo_zegna/images/1920x1080/2013_maserati_quattroporte_ermenegildo_zegna_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-quattroporte-ermenegildo-zegna-limited-edition-2013-0",
+      "slug": "maserati-quattroporte-ermenegildo-zegna-limited-edition-2013-0",
+      "modelId": "m-maserati-quattroporte-ermenegildo-zegna-limited-edition",
+      "brandId": "brand-maserati",
+      "codeName": "2013",
+      "generationNumber": 1,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2013 Maserati Quattroporte Ermenegildo Zegna Limited Edition",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_quattroporte_ermenegildo_zegna/images/1920x1080/2013_maserati_quattroporte_ermenegildo_zegna_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2013_maserati_quattroporte_ermenegildo_zegna/images/1920x1080/2013_maserati_quattroporte_ermenegildo_zegna_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-quattroporte-ermenegildo-zegna-limited-edition-2013-0",
+          "generationId": "gen-maserati-quattroporte-ermenegildo-zegna-limited-edition-2013-0",
+          "url": "https://images.caricos.com/m/maserati/2013_maserati_quattroporte_ermenegildo_zegna/images/1920x1080/2013_maserati_quattroporte_ermenegildo_zegna_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_quattroporte_ermenegildo_zegna/images/1920x1080/2013_maserati_quattroporte_ermenegildo_zegna_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2013,
+          "altText": "2013 Maserati Quattroporte Ermenegildo Zegna Limited Edition",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2013"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

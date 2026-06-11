@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-gts",
+  "slug": "mclaren-gts",
+  "name": "GTS",
+  "fullName": "McLaren GTS",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "McLaren GTS — sedan, produced since 2024.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2024_mclaren_gts/images/1920x1080/2024_mclaren_gts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2024_mclaren_gts/images/1920x1080/2024_mclaren_gts_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-gts-2024-0",
+      "slug": "mclaren-gts-2024-0",
+      "modelId": "m-mclaren-gts",
+      "brandId": "brand-mclaren",
+      "codeName": "2024",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2024 McLaren GTS",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2024_mclaren_gts/images/1920x1080/2024_mclaren_gts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2024_mclaren_gts/images/1920x1080/2024_mclaren_gts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-gts-2024-0",
+          "generationId": "gen-mclaren-gts-2024-0",
+          "url": "https://images.caricos.com/m/mclaren/2024_mclaren_gts/images/1920x1080/2024_mclaren_gts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2024_mclaren_gts/images/1920x1080/2024_mclaren_gts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "2024 McLaren GTS",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

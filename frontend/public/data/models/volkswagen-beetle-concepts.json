@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-beetle-concepts",
+  "slug": "volkswagen-beetle-concepts",
+  "name": "Beetle Concepts",
+  "fullName": "Volkswagen Beetle Concepts",
+  "brandId": "brand-volkswagen",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Beetle Concepts — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_beetle_concepts/images/1920x1080/2015_volkswagen_beetle_concepts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2015_volkswagen_beetle_concepts/images/1920x1080/2015_volkswagen_beetle_concepts_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-beetle-concepts-2020-0",
+      "slug": "volkswagen-beetle-concepts-2020-0",
+      "modelId": "m-volkswagen-beetle-concepts",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Beetle Concepts | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_beetle_concepts/images/1920x1080/2015_volkswagen_beetle_concepts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2015_volkswagen_beetle_concepts/images/1920x1080/2015_volkswagen_beetle_concepts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-beetle-concepts-2020-0",
+          "generationId": "gen-volkswagen-beetle-concepts-2020-0",
+          "url": "https://images.caricos.com/v/vw/2015_volkswagen_beetle_concepts/images/1920x1080/2015_volkswagen_beetle_concepts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_beetle_concepts/images/1920x1080/2015_volkswagen_beetle_concepts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Beetle Concepts | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-mx-5-sport-graphite-limited-edition",
+  "slug": "mazda-mx-5-sport-graphite-limited-edition",
+  "name": "MX-5 Sport Graphite Limited Edition",
+  "fullName": "Mazda MX-5 Sport Graphite Limited Edition",
+  "brandId": "brand-mazda",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "endYear": 2013,
+  "isActive": false,
+  "description": "Mazda MX-5 Sport Graphite Limited Edition — suv, produced since 2013.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2013_mazda_mx-5_sport_graphite/images/1920x1080/2013_mazda_mx-5_sport_graphite_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2013_mazda_mx-5_sport_graphite/images/1920x1080/2013_mazda_mx-5_sport_graphite_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mx-5-sport-graphite-limited-edition-2013-0",
+      "slug": "mazda-mx-5-sport-graphite-limited-edition-2013-0",
+      "modelId": "m-mazda-mx-5-sport-graphite-limited-edition",
+      "brandId": "brand-mazda",
+      "codeName": "2013",
+      "generationNumber": 1,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2013 Mazda MX-5 Sport Graphite Limited Edition",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2013_mazda_mx-5_sport_graphite/images/1920x1080/2013_mazda_mx-5_sport_graphite_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2013_mazda_mx-5_sport_graphite/images/1920x1080/2013_mazda_mx-5_sport_graphite_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mx-5-sport-graphite-limited-edition-2013-0",
+          "generationId": "gen-mazda-mx-5-sport-graphite-limited-edition-2013-0",
+          "url": "https://images.caricos.com/m/mazda/2013_mazda_mx-5_sport_graphite/images/1920x1080/2013_mazda_mx-5_sport_graphite_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2013_mazda_mx-5_sport_graphite/images/1920x1080/2013_mazda_mx-5_sport_graphite_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2013,
+          "altText": "2013 Mazda MX-5 Sport Graphite Limited Edition",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2013"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

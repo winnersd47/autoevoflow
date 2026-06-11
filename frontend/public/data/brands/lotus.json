@@ -1,0 +1,494 @@
+{
+  "id": "brand-lotus",
+  "slug": "lotus",
+  "name": "Lotus",
+  "fullName": "Lotus Cars",
+  "country": "UK",
+  "countryCode": "GB",
+  "foundingYear": 1948,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+  "description": "Lotus Cars is a British automotive manufacturer founded by Colin Chapman in 1948, headquartered in Hethel, Norfolk. Chapman's legendary mantra — 'simplify, then add lightness' — defined a philosophy that produced some of the world's most revolutionary road and racing cars. Lotus pioneered ground-effect aerodynamics in Formula One (1977 Lotus 78), the first production car with a bonded extruded-aluminium chassis (1996 Elise), and twin-tube active suspension (1987). From the Giugiaro-designed Esprit that starred in a James Bond film to the sublime Elise that redefined the lightweight sports car, Lotus has consistently proven that a low kerb weight beats raw horsepower. Under Geely Holding ownership since 2017, the company has entered a transformative era — the Emira (2022) is the last Lotus powered purely by an internal-combustion engine, while the Eletre electric SUV (2023) signals a bold new chapter without abandoning the core engineering values that make every Lotus instantly recognisable.",
+  "parentCompany": "Geely Holding Group",
+  "headquarters": "Hethel, Norfolk, UK",
+  "employeeCount": 3200,
+  "modelCount": 7,
+  "generationCount": 17,
+  "tags": [
+    "sports",
+    "lightweight",
+    "british",
+    "track-focused",
+    "engineering",
+    "f1-heritage"
+  ],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "models": [
+    {
+      "id": "m-lotus-esprit",
+      "slug": "lotus-esprit",
+      "name": "Esprit",
+      "fullName": "Lotus Esprit",
+      "brandId": "brand-lotus",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1976,
+      "endYear": 2004,
+      "isActive": false,
+      "description": "The iconic mid-engined sports car that defined a generation. Designed by Giorgetto Giugiaro and immortalised by a James Bond film, the Esprit evolved from a knife-edge wedge to a mature supercar over five generations.",
+      "generationCount": 5,
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/1998_lotus_esprit_v8/images/1920x1080/1998_lotus_esprit_v8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/1998_lotus_esprit_v8/images/1920x1080/1998_lotus_esprit_v8_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "mid-engine",
+        "sports",
+        "iconic"
+      ],
+      "aiAnalysisAvailable": true,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-lotus-elise",
+      "slug": "lotus-elise",
+      "name": "Elise",
+      "fullName": "Lotus Elise",
+      "brandId": "brand-lotus",
+      "bodyType": "roadster",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1996,
+      "endYear": 2021,
+      "isActive": false,
+      "description": "The lightweight roadster that revolutionised sports car engineering with its bonded extruded-aluminium chassis. A driver's car of extraordinary purity across three generations spanning 25 years.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/2021_lotus_elise_sport_240_final_edition/images/1920x1080/2021_lotus_elise_sport_240_final_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/2021_lotus_elise_sport_240_final_edition/images/1920x1080/2021_lotus_elise_sport_240_final_edition_1_1920x1080.jpg",
+      "tags": [
+        "roadster",
+        "lightweight",
+        "iconic",
+        "track-focused"
+      ],
+      "aiAnalysisAvailable": true,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-lotus-exige",
+      "slug": "lotus-exige",
+      "name": "Exige",
+      "fullName": "Lotus Exige",
+      "brandId": "brand-lotus",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2000,
+      "endYear": 2021,
+      "isActive": false,
+      "description": "Born from the Elise but bred for the track, the Exige hardtop coupe added aerodynamic downforce and serious power to the lightweight aluminium platform. Series 3's V6 engine transformed it into a genuine supercar killer.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/2021_lotus_exige_sport_420_final_edition/images/1920x1080/2021_lotus_exige_sport_420_final_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/2021_lotus_exige_sport_420_final_edition/images/1920x1080/2021_lotus_exige_sport_420_final_edition_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "track-focused",
+        "lightweight",
+        "downforce"
+      ],
+      "aiAnalysisAvailable": true,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-lotus-evora",
+      "slug": "lotus-evora",
+      "name": "Evora",
+      "fullName": "Lotus Evora",
+      "brandId": "brand-lotus",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2009,
+      "endYear": 2021,
+      "isActive": false,
+      "description": "Lotus's first entirely new platform in 15 years, the Evora 2+2 grand tourer proved Lotus could build a sophisticated sports car for everyday use without compromising the brand's handling essence.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/2020_lotus_evora_gt430/images/1920x1080/2020_lotus_evora_gt430_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/2020_lotus_evora_gt430/images/1920x1080/2020_lotus_evora_gt430_1_1920x1080.jpg",
+      "tags": [
+        "grand-tourer",
+        "2+2",
+        "v6",
+        "track-capable"
+      ],
+      "aiAnalysisAvailable": true,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-lotus-emira",
+      "slug": "lotus-emira",
+      "name": "Emira",
+      "fullName": "Lotus Emira",
+      "brandId": "brand-lotus",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2022,
+      "endYear": null,
+      "isActive": true,
+      "description": "The last Lotus powered by an internal combustion engine — and arguably the most complete sports car the company has ever built. The Emira offers two engine choices (Toyota V6 or AMG inline-4) wrapped in a striking new silhouette that distils 75 years of Lotus design philosophy.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "last-ice",
+        "v6",
+        "amg"
+      ],
+      "aiAnalysisAvailable": true,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-lotus-eletre",
+      "slug": "lotus-eletre",
+      "name": "Eletre",
+      "fullName": "Lotus Eletre",
+      "brandId": "brand-lotus",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2023,
+      "endYear": null,
+      "isActive": true,
+      "description": "Lotus's first electric SUV and the first model built on the new electric architecture. Despite weighing over 2,200 kg, the Eletre R+ sprints to 100 km/h in 2.95 seconds — applying Lotus aerodynamic and chassis expertise to an entirely new vehicle category.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/2023_lotus_eletre_r/images/1920x1080/2023_lotus_eletre_r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/2023_lotus_eletre_r/images/1920x1080/2023_lotus_eletre_r_1_1920x1080.jpg",
+      "tags": [
+        "ev",
+        "suv",
+        "electric",
+        "performance"
+      ],
+      "aiAnalysisAvailable": true,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-lotus-emeya",
+      "slug": "lotus-emeya",
+      "name": "Emeya",
+      "fullName": "Lotus Emeya",
+      "brandId": "brand-lotus",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2024,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Emeya is Lotus's electric hyper-GT, a high-performance four-door sedan that channels the spirit of the Esprit into the electric era. With 905 hp and a 0-100 km/h time of under 2.8 seconds, it is the most powerful road car Lotus has ever made.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/2024_lotus_emeya_r/images/1920x1080/2024_lotus_emeya_r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/2024_lotus_emeya_r/images/1920x1080/2024_lotus_emeya_r_1_1920x1080.jpg",
+      "tags": [
+        "ev",
+        "sedan",
+        "hyper-gt",
+        "electric"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "dna": {
+    "id": "dna-lotus",
+    "entityType": "brand",
+    "entityId": "brand-lotus",
+    "overallScore": 94,
+    "dimensions": [
+      {
+        "key": "aerodynamics",
+        "label": "Aerodynamics",
+        "score": 96,
+        "description": "Lotus invented ground-effect aerodynamics for Formula One and continues to lead in civilian application of downforce. Every model from the Exige to the Eletre uses active aerodynamic surfaces.",
+        "trend": "stable"
+      },
+      {
+        "key": "minimalism",
+        "label": "Minimalism",
+        "score": 95,
+        "description": "Chapman's 'simplify, then add lightness' philosophy pervades every design decision. The Elise achieved its shape by eliminating everything not structurally necessary.",
+        "trend": "decreasing"
+      },
+      {
+        "key": "driving_purity",
+        "label": "Driving Purity",
+        "score": 98,
+        "description": "Lotus remains the definitive benchmark for steering feel, chassis balance, and driver communication. The Elise S1 is still used as a reference car by suspension engineers worldwide.",
+        "trend": "stable"
+      },
+      {
+        "key": "innovation",
+        "label": "Innovation",
+        "score": 88,
+        "description": "From bonded aluminium to active suspension to EV hypercar, Lotus consistently introduces engineering solutions that reach the mainstream years later.",
+        "trend": "increasing"
+      },
+      {
+        "key": "british_heritage",
+        "label": "British Heritage",
+        "score": 91,
+        "description": "Norfolk-built cars with a rich motorsport DNA stretching from the 1948 Lotus Mk1 to seven Formula One Constructors' Championships with Jim Clark, Jochen Rindt, Emerson Fittipaldi, and Ayrton Senna.",
+        "trend": "stable"
+      },
+      {
+        "key": "lightweight",
+        "label": "Lightweight",
+        "score": 97,
+        "description": "Weight is the enemy of performance. The Elise S1 at 725 kg set a benchmark not bettered for decades. Even the modern Emira at 1,405 kg is lighter than most competitors.",
+        "trend": "decreasing"
+      }
+    ],
+    "dominantStyle": "minimalist-technical",
+    "colorPalette": [
+      "#c8e228",
+      "#1a1a1a",
+      "#ffffff",
+      "#ff0000",
+      "#4a4a4a"
+    ],
+    "keyElements": [
+      "wedge profile",
+      "exposed mechanical components",
+      "integrated aerodynamic package",
+      "bonded aluminium structure",
+      "mid-engine layout",
+      "extruded section chassis",
+      "active diffuser",
+      "clam-shell bodywork"
+    ],
+    "influencedBy": [
+      "Formula One engineering",
+      "Giorgetto Giugiaro",
+      "Colin Chapman",
+      "Colin Spooner"
+    ],
+    "hasInfluenced": [
+      "Ariel Atom",
+      "BAC Mono",
+      "Caterham Seven",
+      "Evora GT",
+      "Noble M400"
+    ],
+    "temporalEvolution": [
+      {
+        "year": 1976,
+        "score": 72,
+        "dimensionScores": {
+          "Aerodynamics": 70,
+          "Minimalism": 90,
+          "Driving Purity": 85,
+          "Innovation": 78,
+          "British Heritage": 95,
+          "Lightweight": 92
+        },
+        "milestone": "Esprit S1 launch — Giugiaro wedge design"
+      },
+      {
+        "year": 1987,
+        "score": 80,
+        "dimensionScores": {
+          "Aerodynamics": 82,
+          "Minimalism": 82,
+          "Driving Purity": 90,
+          "Innovation": 92,
+          "British Heritage": 90,
+          "Lightweight": 85
+        },
+        "milestone": "Active suspension technology debut"
+      },
+      {
+        "year": 1996,
+        "score": 88,
+        "dimensionScores": {
+          "Aerodynamics": 88,
+          "Minimalism": 98,
+          "Driving Purity": 97,
+          "Innovation": 95,
+          "British Heritage": 90,
+          "Lightweight": 99
+        },
+        "milestone": "Elise S1 — bonded aluminium revolution"
+      },
+      {
+        "year": 2000,
+        "score": 90,
+        "dimensionScores": {
+          "Aerodynamics": 92,
+          "Minimalism": 94,
+          "Driving Purity": 98,
+          "Innovation": 90,
+          "British Heritage": 90,
+          "Lightweight": 98
+        },
+        "milestone": "Exige S1 — Elise with downforce package"
+      },
+      {
+        "year": 2009,
+        "score": 88,
+        "dimensionScores": {
+          "Aerodynamics": 90,
+          "Minimalism": 80,
+          "Driving Purity": 96,
+          "Innovation": 85,
+          "British Heritage": 92,
+          "Lightweight": 90
+        },
+        "milestone": "Evora — Lotus's first 2+2 in 20 years"
+      },
+      {
+        "year": 2022,
+        "score": 94,
+        "dimensionScores": {
+          "Aerodynamics": 96,
+          "Minimalism": 88,
+          "Driving Purity": 98,
+          "Innovation": 94,
+          "British Heritage": 91,
+          "Lightweight": 92
+        },
+        "milestone": "Emira — last ICE Lotus, design maturity"
+      }
+    ],
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  "analysis": {
+    "id": "analysis-lotus-brand-dna",
+    "entityType": "brand",
+    "entityId": "brand-lotus",
+    "analysisType": "brand_dna",
+    "provider": "claude-3-5",
+    "headline": "The Art of Lightness: 75 Years of Lotus Design DNA",
+    "summary": "Lotus represents the purest distillation of sports car design philosophy in automotive history. Where other manufacturers pursued power, Lotus pursued the elimination of unnecessary mass. This single-minded approach — born under Colin Chapman and sustained through seven decades — has produced cars that remain reference points for chassis engineers, racing drivers, and enthusiasts worldwide.",
+    "fullText": "No other automotive brand has contributed more to the fundamental understanding of how a car should feel than Lotus. Colin Chapman's famous dictum — 'simplify, then add lightness' — was not merely a slogan but a complete engineering methodology that touched every component, every material choice, and every aerodynamic surface.\n\nThe Esprit (1976–2004) established Lotus as a global supercar brand through sheer design drama. Giorgetto Giugiaro's knife-edge wedge form was unlike anything on the road; when the car appeared in the 1977 James Bond film 'The Spy Who Loved Me', it became a cultural icon overnight. Subsequent evolutions refined the form without abandoning its core geometry, culminating in the V8 twin-turbo variant that genuinely embarrassed cars costing three times as much.\n\nThe Elise (1996) was the most consequential moment in Lotus's post-war history. Engineer Richard Rackham and designer Julian Thomson conceived a car whose entire architecture — a bonded extrusion aluminium tub — was motivated by weight reduction. At 725 kg with 118 bhp, the Elise delivered performance that shamed 200 bhp competitors. Every generation since has maintained this ethos: the S2 Toyota-engined variants offering more power, the S3 providing track derivatives up to 250 bhp, and the Final Edition (2021) providing a poignant farewell.\n\nThe Exige branched the Elise's platform into aerodynamic territory. The S1's fixed rear wing and clam-shell nose cones produced genuine downforce; the S3's supercharged Toyota 3.5L V6 elevated the formula to 430 bhp with sub-four-second 0–100 km/h performance — extraordinary given the car weighs under 1,100 kg.\n\nThe Evora (2009) marked the first entirely new Lotus platform in 15 years, accommodating a 2+2 layout around a 3.5L Toyota V6. Critics initially questioned whether Lotus had abandoned its principles; the GT430's 430 bhp and 2:39 Nürburgring lap time answered emphatically.\n\nNow in the Geely era, Lotus faces its greatest design challenge: how does a brand defined by lightness build a 2,200 kg electric SUV (Eletre) and remain credible? The answer lies in applying Lotus's aerodynamic expertise — active aero, computational fluid dynamics, chassis tuning — to a segment where they create differentiation rather than conformity. The Eletre's active rear diffuser and flush door handles that extend to reduce drag are Chapman-esque in their functional elegance.\n\nThe Emira, meanwhile, provides a magnificent full stop to the ICE chapter. Its design, led by Russell Carr, distils every era of Lotus's visual history: the mid-engine stance of the Esprit, the organic surfaces of the Evora, and the aerodynamic integration of the Exige. When production ends, it will stand as the most beautiful car Lotus has ever made.",
+    "insights": [
+      {
+        "id": "insight-lotus-1",
+        "category": "Design Philosophy",
+        "text": "Lotus is the only major sports car manufacturer whose primary design language is defined by the subtraction of material rather than its addition. Every styling element must justify its existence through function — a principle established by Chapman and codified in the Elise's architecture.",
+        "confidence": 0.97,
+        "importance": "critical",
+        "sources": [
+          "Colin Chapman biography",
+          "Lotus engineering archives",
+          "Elise development papers"
+        ]
+      },
+      {
+        "id": "insight-lotus-2",
+        "category": "Aerodynamics Legacy",
+        "text": "Lotus's 1977 Formula One ground-effect wing-car (Type 78/79) is the most influential aerodynamic concept in motorsport history. Its principles — using the underfloor as a venturi to generate massive downforce — are now universal. The road car application begins with the Exige S1 and continues through the Eletre's active underbody systems.",
+        "confidence": 0.95,
+        "importance": "high",
+        "sources": [
+          "F1 technical analysis",
+          "Lotus Cars engineering white paper 2023"
+        ]
+      },
+      {
+        "id": "insight-lotus-3",
+        "category": "Chassis Innovation",
+        "text": "The 1996 Elise's bonded extruded-aluminium chassis predated similar structures in the Ferrari 360 by three years and the Audi R8 by ten. Its torsional rigidity-to-weight ratio was unprecedented in a road car and remains the benchmark against which lightweight sports cars are measured.",
+        "confidence": 0.94,
+        "importance": "high",
+        "sources": [
+          "SAE technical paper 1997-01-1575",
+          "Autosport engineering archive"
+        ]
+      },
+      {
+        "id": "insight-lotus-4",
+        "category": "Brand Evolution",
+        "text": "The transition from the 725 kg Elise S1 to the 2,280 kg Eletre R+ represents the sharpest weight/philosophy tension in Lotus's history. However, the Eletre shares the Elise's core methodology — every aerodynamic detail serves a measurable function — suggesting the brand's engineering DNA transcends the ICE/EV divide.",
+        "confidence": 0.88,
+        "importance": "high",
+        "sources": [
+          "Lotus Cars press release 2022",
+          "EV performance benchmarking study 2024"
+        ]
+      },
+      {
+        "id": "insight-lotus-5",
+        "category": "Design Continuity",
+        "text": "Across 75 years and six production models, the mid-engine layout (Esprit, Elise, Exige, Evora, Emira) has been the defining structural choice. The Esprit established it as aspirational; the Elise democratised it. Even the Emira — priced above £60,000 — maintains mid-engine architecture when front-engine alternatives would be cheaper to produce.",
+        "confidence": 0.96,
+        "importance": "high",
+        "sources": [
+          "Lotus model history",
+          "Automotive design review 2023"
+        ]
+      }
+    ],
+    "confidenceScore": 0.94,
+    "processingTimeMs": 4200,
+    "createdAt": "2026-01-15T10:00:00Z",
+    "isCached": true
+  },
+  "latestCars": [
+    {
+      "id": "ncs-lotus-2027-emira_420_sport",
+      "name": "Lotus Emira 420 Sport",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Lotus-Emira_420_Sport-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lotus/2027-emira_420_sport/",
+      "description": "Lotus Emira 420 Sport produces 420PS from a 2.0-litre turbocharged four-cylinder engine, accelerates from 0-62mph in 3.9 seconds and reaches a top speed of 186mph.",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-lotus-2025-evija",
+      "name": "Lotus Evija",
+      "year": 2025,
+      "imageUrl": "https://www.netcarshow.com/Lotus-Evija-2025-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lotus/2025-evija/",
+      "description": "Lotus Evija has been designed and engineered at Lotus' historic home in Hethel, UK, and production takes place in a dedicated on-site manufacturing facility.",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-lotus-2024-theory_1_concept",
+      "name": "Lotus Theory 1 Concept",
+      "year": 2024,
+      "imageUrl": "https://www.netcarshow.com/Lotus-Theory_1_Concept-2024-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lotus/2024-theory_1_concept/",
+      "description": "Theory 1 seamlessly integrates projections, screens, and haptics, with Lotus' new design manifesto to create a borderless user experience and provide the driver with...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-lotus-2010-elite_concept",
+      "name": "Lotus Elite Concept",
+      "year": 2010,
+      "imageUrl": "https://www.netcarshow.com/Lotus-Elite_Concept-2010-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lotus/2010-elite_concept/",
+      "description": "So here it is, the Lotus Elite, the first taste of what's to come from Lotus in the future. Look up elegant in the dictionary and you'll find variations on...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-lotus-2007-hot_wheels_concept",
+      "name": "Lotus Hot Wheels Concept",
+      "year": 2007,
+      "imageUrl": "https://www.netcarshow.com/Lotus-Hot_Wheels_Concept-2007-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lotus/2007-hot_wheels_concept/",
+      "description": "Group Lotus plc has teamed up with Hot Wheels&reg;, the famous global die-cast brand, to design, develop and produce a Lotus Hot Wheels&reg; Concept...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-cx-70",
+  "slug": "mazda-cx-70",
+  "name": "CX-70",
+  "fullName": "Mazda CX-70",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "Mazda CX-70 — sedan, produced since 2025.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2025_mazda_cx-70/images/1920x1080/2025_mazda_cx-70_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2025_mazda_cx-70/images/1920x1080/2025_mazda_cx-70_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-cx-70-2025-0",
+      "slug": "mazda-cx-70-2025-0",
+      "modelId": "m-mazda-cx-70",
+      "brandId": "brand-mazda",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Mazda CX-70",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2025_mazda_cx-70/images/1920x1080/2025_mazda_cx-70_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2025_mazda_cx-70/images/1920x1080/2025_mazda_cx-70_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-cx-70-2025-0",
+          "generationId": "gen-mazda-cx-70-2025-0",
+          "url": "https://images.caricos.com/m/mazda/2025_mazda_cx-70/images/1920x1080/2025_mazda_cx-70_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2025_mazda_cx-70/images/1920x1080/2025_mazda_cx-70_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Mazda CX-70",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mitsubishi-mitsubishi-eclipse-sportback",
+  "slug": "mitsubishi-mitsubishi-eclipse-sportback",
+  "name": "Mitsubishi Eclipse Sportback",
+  "fullName": "2027 Mitsubishi Eclipse Sportback",
+  "brandId": "mitsubishi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Based on the highly touted new-generation Nissan LEAF, the Mitsubishi Motors Eclipse Sportback EV will offer cosmetic changes that differentiate the two vehicles...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mitsubishi-Eclipse_Sportback-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mitsubishi-Eclipse_Sportback-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mitsubishi/2027-eclipse_sportback/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-10T03:06:57.329Z",
+  "createdAt": "2026-06-10T03:06:58.180Z",
+  "updatedAt": "2026-06-10T03:06:58.180Z"
+}

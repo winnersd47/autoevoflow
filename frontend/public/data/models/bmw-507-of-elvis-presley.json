@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-507-of-elvis-presley",
+  "slug": "bmw-507-of-elvis-presley",
+  "name": "507 of Elvis Presley",
+  "fullName": "BMW 507 of Elvis Presley",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW 507 of Elvis Presley — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/1958_bmw_507_elvis/images/1920x1080/1958_bmw_507_elvis_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/1958_bmw_507_elvis/images/1920x1080/1958_bmw_507_elvis_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-507-of-elvis-presley-2020-0",
+      "slug": "bmw-507-of-elvis-presley-2020-0",
+      "modelId": "m-bmw-507-of-elvis-presley",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW 507 of Elvis Presley | 1958MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/1958_bmw_507_elvis/images/1920x1080/1958_bmw_507_elvis_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/1958_bmw_507_elvis/images/1920x1080/1958_bmw_507_elvis_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-507-of-elvis-presley-2020-0",
+          "generationId": "gen-bmw-507-of-elvis-presley-2020-0",
+          "url": "https://images.caricos.com/b/bmw/1958_bmw_507_elvis/images/1920x1080/1958_bmw_507_elvis_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/1958_bmw_507_elvis/images/1920x1080/1958_bmw_507_elvis_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW 507 of Elvis Presley | 1958MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

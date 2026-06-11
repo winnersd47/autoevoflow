@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-x2-m-mesh-edition",
+  "slug": "bmw-x2-m-mesh-edition",
+  "name": "X2 M Mesh Edition",
+  "fullName": "BMW X2 M Mesh Edition",
+  "brandId": "brand-bmw",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW X2 M Mesh Edition — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_x2_edition_m_mesh/images/1920x1080/2021_bmw_x2_edition_m_mesh_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2021_bmw_x2_edition_m_mesh/images/1920x1080/2021_bmw_x2_edition_m_mesh_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-x2-m-mesh-edition-2020-0",
+      "slug": "bmw-x2-m-mesh-edition-2020-0",
+      "modelId": "m-bmw-x2-m-mesh-edition",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X2 M Mesh Edition | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_x2_edition_m_mesh/images/1920x1080/2021_bmw_x2_edition_m_mesh_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2021_bmw_x2_edition_m_mesh/images/1920x1080/2021_bmw_x2_edition_m_mesh_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x2-m-mesh-edition-2020-0",
+          "generationId": "gen-bmw-x2-m-mesh-edition-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2021_bmw_x2_edition_m_mesh/images/1920x1080/2021_bmw_x2_edition_m_mesh_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_x2_edition_m_mesh/images/1920x1080/2021_bmw_x2_edition_m_mesh_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW X2 M Mesh Edition | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

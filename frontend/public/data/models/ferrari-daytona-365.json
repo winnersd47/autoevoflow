@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-daytona-365",
+  "slug": "ferrari-daytona-365",
+  "name": "365 GTB/4 Daytona",
+  "fullName": "Ferrari 365 GTB/4 Daytona",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "endYear": 1973,
+  "isActive": false,
+  "description": "The Ferrari 365 GTB/4 Daytona (1968–1973), designed by Pininfarina's Leonardo Fioravanti, was Ferrari's definitive front-engine GT response to the Lamborghini Miura. Its 352 hp 4.4-litre V12 made it the fastest production car of its era at 280 km/h.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "v12", "front-engine", "gt", "classic", "pininfarina"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

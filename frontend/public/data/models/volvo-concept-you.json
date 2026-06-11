@@ -1,0 +1,72 @@
+{
+  "id": "m-volvo-concept-you",
+  "slug": "volvo-concept-you",
+  "name": "Concept You",
+  "fullName": "Volvo Concept You",
+  "brandId": "brand-volvo",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo Concept You — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2011_volvo_concept_you/images/1920x1080/2011_volvo_concept_you_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2011_volvo_concept_you/images/1920x1080/2011_volvo_concept_you_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-concept-you-2020-0",
+      "slug": "volvo-concept-you-2020-0",
+      "modelId": "m-volvo-concept-you",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo Concept You | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2011_volvo_concept_you/images/1920x1080/2011_volvo_concept_you_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2011_volvo_concept_you/images/1920x1080/2011_volvo_concept_you_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-concept-you-2020-0",
+          "generationId": "gen-volvo-concept-you-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2011_volvo_concept_you/images/1920x1080/2011_volvo_concept_you_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2011_volvo_concept_you/images/1920x1080/2011_volvo_concept_you_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo Concept You | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

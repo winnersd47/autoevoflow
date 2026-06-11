@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-alfieri-concept",
+  "slug": "maserati-alfieri-concept",
+  "name": "Alfieri Concept",
+  "fullName": "Maserati Alfieri Concept",
+  "brandId": "brand-maserati",
+  "bodyType": "concept",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "endYear": 2014,
+  "isActive": false,
+  "description": "Maserati Alfieri Concept — concept, produced since 2014.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_alfieri_concept/images/1920x1080/2014_maserati_alfieri_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserati_alfieri_concept/images/1920x1080/2014_maserati_alfieri_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-alfieri-concept-2014-0",
+      "slug": "maserati-alfieri-concept-2014-0",
+      "modelId": "m-maserati-alfieri-concept",
+      "brandId": "brand-maserati",
+      "codeName": "2014",
+      "generationNumber": 1,
+      "startYear": 2014,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2014 Maserati Alfieri Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_alfieri_concept/images/1920x1080/2014_maserati_alfieri_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserati_alfieri_concept/images/1920x1080/2014_maserati_alfieri_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-alfieri-concept-2014-0",
+          "generationId": "gen-maserati-alfieri-concept-2014-0",
+          "url": "https://images.caricos.com/m/maserati/2014_maserati_alfieri_concept/images/1920x1080/2014_maserati_alfieri_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_alfieri_concept/images/1920x1080/2014_maserati_alfieri_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2014,
+          "altText": "2014 Maserati Alfieri Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2014"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-nissan-bla",
+  "slug": "nissan-bla",
+  "name": "Bla",
+  "fullName": "Nissan Bla",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Bla — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_bladeglider_concept/images/1920x1080/2013_nissan_bladeglider_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2013_nissan_bladeglider_concept/images/1920x1080/2013_nissan_bladeglider_concept_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-bla-2020-0",
+      "slug": "nissan-bla-2020-0",
+      "modelId": "m-nissan-bla",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan BladeGlider Concept | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_bladeglider_concept/images/1920x1080/2013_nissan_bladeglider_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2013_nissan_bladeglider_concept/images/1920x1080/2013_nissan_bladeglider_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-bla-2020-0",
+          "generationId": "gen-nissan-bla-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2013_nissan_bladeglider_concept/images/1920x1080/2013_nissan_bladeglider_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_bladeglider_concept/images/1920x1080/2013_nissan_bladeglider_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan BladeGlider Concept | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

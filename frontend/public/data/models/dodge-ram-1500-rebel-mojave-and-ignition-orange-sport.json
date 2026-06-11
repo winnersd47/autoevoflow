@@ -1,0 +1,72 @@
+{
+  "id": "m-dodge-ram-1500-rebel-mojave-and-ignition-orange-sport",
+  "slug": "dodge-ram-1500-rebel-mojave-and-ignition-orange-sport",
+  "name": "Ram 1500 Rebel Mojave and Ignition Orange Sport",
+  "fullName": "Dodge Ram 1500 Rebel Mojave and Ignition Orange Sport",
+  "brandId": "brand-dodge",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Dodge Ram 1500 Rebel Mojave and Ignition Orange Sport — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/d/dodge/2017_ram_rebel_mojave/images/1920x1080/2017_ram_rebel_mojave_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/d/dodge/2017_ram_rebel_mojave/images/1920x1080/2017_ram_rebel_mojave_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "dodge"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-dodge-ram-1500-rebel-mojave-and-ignition-orange-sport-2020-0",
+      "slug": "dodge-ram-1500-rebel-mojave-and-ignition-orange-sport-2020-0",
+      "modelId": "m-dodge-ram-1500-rebel-mojave-and-ignition-orange-sport",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ram 1500 Rebel Mojave and Ignition Orange Sport | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2017_ram_rebel_mojave/images/1920x1080/2017_ram_rebel_mojave_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2017_ram_rebel_mojave/images/1920x1080/2017_ram_rebel_mojave_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-ram-1500-rebel-mojave-and-ignition-orange-sport-2020-0",
+          "generationId": "gen-dodge-ram-1500-rebel-mojave-and-ignition-orange-sport-2020-0",
+          "url": "https://images.caricos.com/d/dodge/2017_ram_rebel_mojave/images/1920x1080/2017_ram_rebel_mojave_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2017_ram_rebel_mojave/images/1920x1080/2017_ram_rebel_mojave_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ram 1500 Rebel Mojave and Ignition Orange Sport | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

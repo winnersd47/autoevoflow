@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-tahoe-police-pursuit-vehicle-ppv",
+  "slug": "chevrolet-tahoe-police-pursuit-vehicle-ppv",
+  "name": "Tahoe Police Pursuit Vehicle (PPV)",
+  "fullName": "Chevrolet Tahoe Police Pursuit Vehicle (PPV)",
+  "brandId": "brand-chevrolet",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Tahoe Police Pursuit Vehicle (PPV) — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_tahoe_ppv/images/1920x1080/2018_chevrolet_tahoe_ppv_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_tahoe_ppv/images/1920x1080/2018_chevrolet_tahoe_ppv_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-tahoe-police-pursuit-vehicle-ppv-2020-0",
+      "slug": "chevrolet-tahoe-police-pursuit-vehicle-ppv-2020-0",
+      "modelId": "m-chevrolet-tahoe-police-pursuit-vehicle-ppv",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Tahoe Police Pursuit Vehicle (PPV) | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_tahoe_ppv/images/1920x1080/2018_chevrolet_tahoe_ppv_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_tahoe_ppv/images/1920x1080/2018_chevrolet_tahoe_ppv_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-tahoe-police-pursuit-vehicle-ppv-2020-0",
+          "generationId": "gen-chevrolet-tahoe-police-pursuit-vehicle-ppv-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2018_chevrolet_tahoe_ppv/images/1920x1080/2018_chevrolet_tahoe_ppv_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_tahoe_ppv/images/1920x1080/2018_chevrolet_tahoe_ppv_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Tahoe Police Pursuit Vehicle (PPV) | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

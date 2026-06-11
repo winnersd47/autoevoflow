@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-w1",
+  "slug": "mclaren-w1",
+  "name": "W1",
+  "fullName": "McLaren W1",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "endYear": null,
+  "isActive": true,
+  "description": "McLaren W1 — sedan, produced since 2026.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_w1/images/1920x1080/2026_mclaren_w1_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_w1/images/1920x1080/2026_mclaren_w1_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-w1-2026-0",
+      "slug": "mclaren-w1-2026-0",
+      "modelId": "m-mclaren-w1",
+      "brandId": "brand-mclaren",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 McLaren W1",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_w1/images/1920x1080/2026_mclaren_w1_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_w1/images/1920x1080/2026_mclaren_w1_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-w1-2026-0",
+          "generationId": "gen-mclaren-w1-2026-0",
+          "url": "https://images.caricos.com/m/mclaren/2026_mclaren_w1/images/1920x1080/2026_mclaren_w1_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2026_mclaren_w1/images/1920x1080/2026_mclaren_w1_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 McLaren W1",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

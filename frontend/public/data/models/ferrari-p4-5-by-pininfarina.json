@@ -1,0 +1,72 @@
+{
+  "id": "m-ferrari-p4-5-by-pininfarina",
+  "slug": "ferrari-p4-5-by-pininfarina",
+  "name": "P4/5 by Pininfarina",
+  "fullName": "Ferrari P4/5 by Pininfarina",
+  "brandId": "brand-ferrari",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ferrari P4/5 by Pininfarina — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ferrari/2006_ferrari_p4-5/images/1920x1080/2006_ferrari_p4-5_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ferrari/2006_ferrari_p4-5/images/1920x1080/2006_ferrari_p4-5_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ferrari"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ferrari-p4-5-by-pininfarina-2020-0",
+      "slug": "ferrari-p4-5-by-pininfarina-2020-0",
+      "modelId": "m-ferrari-p4-5-by-pininfarina",
+      "brandId": "brand-ferrari",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ferrari P4/5 by Pininfarina | 2006MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2006_ferrari_p4-5/images/1920x1080/2006_ferrari_p4-5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2006_ferrari_p4-5/images/1920x1080/2006_ferrari_p4-5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ferrari-p4-5-by-pininfarina-2020-0",
+          "generationId": "gen-ferrari-p4-5-by-pininfarina-2020-0",
+          "url": "https://images.caricos.com/f/ferrari/2006_ferrari_p4-5/images/1920x1080/2006_ferrari_p4-5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ferrari/2006_ferrari_p4-5/images/1920x1080/2006_ferrari_p4-5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ferrari P4/5 by Pininfarina | 2006MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

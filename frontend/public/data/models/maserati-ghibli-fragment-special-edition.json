@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-ghibli-fragment-special-edition",
+  "slug": "maserati-ghibli-fragment-special-edition",
+  "name": "Ghibli Fragment Special Edition",
+  "fullName": "Maserati Ghibli Fragment Special Edition",
+  "brandId": "brand-maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "endYear": 2022,
+  "isActive": false,
+  "description": "Maserati Ghibli Fragment Special Edition — sedan, produced since 2022.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2022_maserati_ghibli_fragment_special_edition/images/1920x1080/2022_maserati_ghibli_fragment_special_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2022_maserati_ghibli_fragment_special_edition/images/1920x1080/2022_maserati_ghibli_fragment_special_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-ghibli-fragment-special-edition-2022-0",
+      "slug": "maserati-ghibli-fragment-special-edition-2022-0",
+      "modelId": "m-maserati-ghibli-fragment-special-edition",
+      "brandId": "brand-maserati",
+      "codeName": "2022",
+      "generationNumber": 1,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2022 Maserati Ghibli Fragment Special Edition",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2022_maserati_ghibli_fragment_special_edition/images/1920x1080/2022_maserati_ghibli_fragment_special_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2022_maserati_ghibli_fragment_special_edition/images/1920x1080/2022_maserati_ghibli_fragment_special_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-ghibli-fragment-special-edition-2022-0",
+          "generationId": "gen-maserati-ghibli-fragment-special-edition-2022-0",
+          "url": "https://images.caricos.com/m/maserati/2022_maserati_ghibli_fragment_special_edition/images/1920x1080/2022_maserati_ghibli_fragment_special_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2022_maserati_ghibli_fragment_special_edition/images/1920x1080/2022_maserati_ghibli_fragment_special_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2022,
+          "altText": "2022 Maserati Ghibli Fragment Special Edition",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

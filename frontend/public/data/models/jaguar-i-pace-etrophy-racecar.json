@@ -1,0 +1,72 @@
+{
+  "id": "m-jaguar-i-pace-etrophy-racecar",
+  "slug": "jaguar-i-pace-etrophy-racecar",
+  "name": "I-PACE eTROPHY Racecar",
+  "fullName": "Jaguar I-PACE eTROPHY Racecar",
+  "brandId": "brand-jaguar",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Jaguar I-PACE eTROPHY Racecar — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_i-pace_etrophy_racecar/images/1920x1080/2018_jaguar_i-pace_etrophy_racecar_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_i-pace_etrophy_racecar/images/1920x1080/2018_jaguar_i-pace_etrophy_racecar_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "jaguar"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-jaguar-i-pace-etrophy-racecar-2020-0",
+      "slug": "jaguar-i-pace-etrophy-racecar-2020-0",
+      "modelId": "m-jaguar-i-pace-etrophy-racecar",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar I-PACE eTROPHY Racecar | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_i-pace_etrophy_racecar/images/1920x1080/2018_jaguar_i-pace_etrophy_racecar_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_i-pace_etrophy_racecar/images/1920x1080/2018_jaguar_i-pace_etrophy_racecar_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-i-pace-etrophy-racecar-2020-0",
+          "generationId": "gen-jaguar-i-pace-etrophy-racecar-2020-0",
+          "url": "https://images.caricos.com/j/jaguar/2018_jaguar_i-pace_etrophy_racecar/images/1920x1080/2018_jaguar_i-pace_etrophy_racecar_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_i-pace_etrophy_racecar/images/1920x1080/2018_jaguar_i-pace_etrophy_racecar_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar I-PACE eTROPHY Racecar | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

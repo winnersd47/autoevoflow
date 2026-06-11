@@ -1,0 +1,104 @@
+{
+  "id": "m-porsche-911-gt3-touring",
+  "slug": "porsche-911-gt3-touring",
+  "name": "911 GT3 Touring",
+  "fullName": "Porsche 911 GT3 Touring",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche 911 GT3 Touring — sedan, produced since 2025.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3_touring/images/1920x1080/2025_porsche_911_gt3_touring_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3_touring/images/1920x1080/2025_porsche_911_gt3_touring_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-911-gt3-touring-2025-0",
+      "slug": "porsche-911-gt3-touring-2025-0",
+      "modelId": "m-porsche-911-gt3-touring",
+      "brandId": "brand-porsche",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 911 GT3 Touring",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-gt3-touring-2025-1",
+      "slug": "porsche-911-gt3-touring-2025-1",
+      "modelId": "m-porsche-911-gt3-touring",
+      "brandId": "brand-porsche",
+      "codeName": "2025",
+      "generationNumber": 2,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 GT3 Touring | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3_touring/images/1920x1080/2025_porsche_911_gt3_touring_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3_touring/images/1920x1080/2025_porsche_911_gt3_touring_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-gt3-touring-2025-1",
+          "generationId": "gen-porsche-911-gt3-touring-2025-1",
+          "url": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3_touring/images/1920x1080/2025_porsche_911_gt3_touring_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3_touring/images/1920x1080/2025_porsche_911_gt3_touring_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "Porsche 911 GT3 Touring | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

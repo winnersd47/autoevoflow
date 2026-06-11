@@ -1,0 +1,118 @@
+{
+  "id": "m-lincoln-mkc",
+  "slug": "lincoln-mkc",
+  "name": "MKC",
+  "fullName": "Lincoln MKC",
+  "brandId": "brand-lincoln",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lincoln MKC — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_mkc/images/1920x1080/2019_lincoln_mkc_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_mkc/images/1920x1080/2019_lincoln_mkc_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lincoln"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lincoln-mkc-2020-0",
+      "slug": "lincoln-mkc-2020-0",
+      "modelId": "m-lincoln-mkc",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln MKC | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_mkc/images/1920x1080/2019_lincoln_mkc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_mkc/images/1920x1080/2019_lincoln_mkc_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-mkc-2020-0",
+          "generationId": "gen-lincoln-mkc-2020-0",
+          "url": "https://images.caricos.com/l/lincoln/2019_lincoln_mkc/images/1920x1080/2019_lincoln_mkc_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_mkc/images/1920x1080/2019_lincoln_mkc_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln MKC | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lincoln-mkc-2020-1",
+      "slug": "lincoln-mkc-2020-1",
+      "modelId": "m-lincoln-mkc",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln MKC | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2015_lincoln_mkc/images/1920x1080/2015_lincoln_mkc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2015_lincoln_mkc/images/1920x1080/2015_lincoln_mkc_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-mkc-2020-1",
+          "generationId": "gen-lincoln-mkc-2020-1",
+          "url": "https://images.caricos.com/l/lincoln/2015_lincoln_mkc/images/1920x1080/2015_lincoln_mkc_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2015_lincoln_mkc/images/1920x1080/2015_lincoln_mkc_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln MKC | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

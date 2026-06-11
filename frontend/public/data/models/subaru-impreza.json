@@ -1,0 +1,164 @@
+{
+  "id": "m-subaru-impreza",
+  "slug": "subaru-impreza",
+  "name": "Impreza",
+  "fullName": "Subaru Impreza",
+  "brandId": "brand-subaru",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Subaru Impreza — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/s/subaru/2024_subaru_impreza/images/1920x1080/2024_subaru_impreza_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/s/subaru/2024_subaru_impreza/images/1920x1080/2024_subaru_impreza_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "subaru"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-subaru-impreza-2020-0",
+      "slug": "subaru-impreza-2020-0",
+      "modelId": "m-subaru-impreza",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru Impreza | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2024_subaru_impreza/images/1920x1080/2024_subaru_impreza_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2024_subaru_impreza/images/1920x1080/2024_subaru_impreza_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-impreza-2020-0",
+          "generationId": "gen-subaru-impreza-2020-0",
+          "url": "https://images.caricos.com/s/subaru/2024_subaru_impreza/images/1920x1080/2024_subaru_impreza_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2024_subaru_impreza/images/1920x1080/2024_subaru_impreza_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru Impreza | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-subaru-impreza-2020-1",
+      "slug": "subaru-impreza-2020-1",
+      "modelId": "m-subaru-impreza",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru Impreza | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2017_subaru_impreza/images/1920x1080/2017_subaru_impreza_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2017_subaru_impreza/images/1920x1080/2017_subaru_impreza_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-impreza-2020-1",
+          "generationId": "gen-subaru-impreza-2020-1",
+          "url": "https://images.caricos.com/s/subaru/2017_subaru_impreza/images/1920x1080/2017_subaru_impreza_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2017_subaru_impreza/images/1920x1080/2017_subaru_impreza_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru Impreza | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-subaru-impreza-2020-2",
+      "slug": "subaru-impreza-2020-2",
+      "modelId": "m-subaru-impreza",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru Impreza | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2015_subaru_impreza/images/1920x1080/2015_subaru_impreza_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2015_subaru_impreza/images/1920x1080/2015_subaru_impreza_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-impreza-2020-2",
+          "generationId": "gen-subaru-impreza-2020-2",
+          "url": "https://images.caricos.com/s/subaru/2015_subaru_impreza/images/1920x1080/2015_subaru_impreza_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2015_subaru_impreza/images/1920x1080/2015_subaru_impreza_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru Impreza | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

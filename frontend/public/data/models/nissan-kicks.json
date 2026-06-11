@@ -1,0 +1,164 @@
+{
+  "id": "m-nissan-kicks",
+  "slug": "nissan-kicks",
+  "name": "Kicks",
+  "fullName": "Nissan Kicks",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Kicks — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2025_nissan_kicks/images/1920x1080/2025_nissan_kicks_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2025_nissan_kicks/images/1920x1080/2025_nissan_kicks_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-kicks-2020-0",
+      "slug": "nissan-kicks-2020-0",
+      "modelId": "m-nissan-kicks",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Kicks | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2025_nissan_kicks/images/1920x1080/2025_nissan_kicks_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2025_nissan_kicks/images/1920x1080/2025_nissan_kicks_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-kicks-2020-0",
+          "generationId": "gen-nissan-kicks-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2025_nissan_kicks/images/1920x1080/2025_nissan_kicks_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2025_nissan_kicks/images/1920x1080/2025_nissan_kicks_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Kicks | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-kicks-2020-1",
+      "slug": "nissan-kicks-2020-1",
+      "modelId": "m-nissan-kicks",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Kicks | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2021_nissan_kicks/images/1920x1080/2021_nissan_kicks_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2021_nissan_kicks/images/1920x1080/2021_nissan_kicks_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-kicks-2020-1",
+          "generationId": "gen-nissan-kicks-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2021_nissan_kicks/images/1920x1080/2021_nissan_kicks_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2021_nissan_kicks/images/1920x1080/2021_nissan_kicks_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Kicks | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-kicks-2020-2",
+      "slug": "nissan-kicks-2020-2",
+      "modelId": "m-nissan-kicks",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Kicks | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_kicks/images/1920x1080/2018_nissan_kicks_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2018_nissan_kicks/images/1920x1080/2018_nissan_kicks_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-kicks-2020-2",
+          "generationId": "gen-nissan-kicks-2020-2",
+          "url": "https://images.caricos.com/n/nissan/2018_nissan_kicks/images/1920x1080/2018_nissan_kicks_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_kicks/images/1920x1080/2018_nissan_kicks_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Kicks | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

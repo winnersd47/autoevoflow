@@ -1,0 +1,58 @@
+{
+  "id": "m-audi-a6",
+  "slug": "audi-a6",
+  "name": "A6",
+  "fullName": "Audi A6",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "endYear": 2019,
+  "isActive": false,
+  "description": "Audi A6 — sedan, produced since 2019.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-a6-2019-0",
+      "slug": "audi-a6-2019-0",
+      "modelId": "m-audi-a6",
+      "brandId": "brand-audi",
+      "codeName": "2019",
+      "generationNumber": 1,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2019 A6",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

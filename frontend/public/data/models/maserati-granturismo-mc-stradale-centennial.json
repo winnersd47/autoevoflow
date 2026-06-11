@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-granturismo-mc-stradale-centennial",
+  "slug": "maserati-granturismo-mc-stradale-centennial",
+  "name": "GranTurismo MC Stradale Centennial",
+  "fullName": "Maserati GranTurismo MC Stradale Centennial",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "endYear": 2015,
+  "isActive": false,
+  "description": "Maserati GranTurismo MC Stradale Centennial — coupe, produced since 2015.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2015_maserati_granturismo_mc_stradale_centennial/images/1920x1080/2015_maserati_granturismo_mc_stradale_centennial_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2015_maserati_granturismo_mc_stradale_centennial/images/1920x1080/2015_maserati_granturismo_mc_stradale_centennial_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-granturismo-mc-stradale-centennial-2015-0",
+      "slug": "maserati-granturismo-mc-stradale-centennial-2015-0",
+      "modelId": "m-maserati-granturismo-mc-stradale-centennial",
+      "brandId": "brand-maserati",
+      "codeName": "2015",
+      "generationNumber": 1,
+      "startYear": 2015,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2015 Maserati GranTurismo MC Stradale Centennial",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2015_maserati_granturismo_mc_stradale_centennial/images/1920x1080/2015_maserati_granturismo_mc_stradale_centennial_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2015_maserati_granturismo_mc_stradale_centennial/images/1920x1080/2015_maserati_granturismo_mc_stradale_centennial_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-granturismo-mc-stradale-centennial-2015-0",
+          "generationId": "gen-maserati-granturismo-mc-stradale-centennial-2015-0",
+          "url": "https://images.caricos.com/m/maserati/2015_maserati_granturismo_mc_stradale_centennial/images/1920x1080/2015_maserati_granturismo_mc_stradale_centennial_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2015_maserati_granturismo_mc_stradale_centennial/images/1920x1080/2015_maserati_granturismo_mc_stradale_centennial_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2015,
+          "altText": "2015 Maserati GranTurismo MC Stradale Centennial",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2015"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

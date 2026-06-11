@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-golf-gti-cabriolet",
+  "slug": "volkswagen-golf-gti-cabriolet",
+  "name": "Golf GTI Cabriolet",
+  "fullName": "Volkswagen Golf GTI Cabriolet",
+  "brandId": "brand-volkswagen",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Golf GTI Cabriolet — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_golf_gti_cabriolet/images/1920x1080/2013_volkswagen_golf_gti_cabriolet_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2013_volkswagen_golf_gti_cabriolet/images/1920x1080/2013_volkswagen_golf_gti_cabriolet_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-golf-gti-cabriolet-2020-0",
+      "slug": "volkswagen-golf-gti-cabriolet-2020-0",
+      "modelId": "m-volkswagen-golf-gti-cabriolet",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Golf GTI Cabriolet | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_golf_gti_cabriolet/images/1920x1080/2013_volkswagen_golf_gti_cabriolet_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2013_volkswagen_golf_gti_cabriolet/images/1920x1080/2013_volkswagen_golf_gti_cabriolet_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-golf-gti-cabriolet-2020-0",
+          "generationId": "gen-volkswagen-golf-gti-cabriolet-2020-0",
+          "url": "https://images.caricos.com/v/vw/2013_volkswagen_golf_gti_cabriolet/images/1920x1080/2013_volkswagen_golf_gti_cabriolet_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_golf_gti_cabriolet/images/1920x1080/2013_volkswagen_golf_gti_cabriolet_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Golf GTI Cabriolet | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

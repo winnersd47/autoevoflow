@@ -1,0 +1,72 @@
+{
+  "id": "m-ford-puma-st",
+  "slug": "ford-puma-st",
+  "name": "Puma ST",
+  "fullName": "Ford Puma ST",
+  "brandId": "brand-ford",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford Puma ST — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_puma_st/images/1920x1080/2021_ford_puma_st_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2021_ford_puma_st/images/1920x1080/2021_ford_puma_st_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-puma-st-2020-0",
+      "slug": "ford-puma-st-2020-0",
+      "modelId": "m-ford-puma-st",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Puma ST | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_puma_st/images/1920x1080/2021_ford_puma_st_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2021_ford_puma_st/images/1920x1080/2021_ford_puma_st_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-puma-st-2020-0",
+          "generationId": "gen-ford-puma-st-2020-0",
+          "url": "https://images.caricos.com/f/ford/2021_ford_puma_st/images/1920x1080/2021_ford_puma_st_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2021_ford_puma_st/images/1920x1080/2021_ford_puma_st_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Puma ST | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

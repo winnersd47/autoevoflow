@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-q3",
+  "slug": "audi-q3",
+  "name": "Q3",
+  "fullName": "Audi Q3",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi Q3 (2011–present) is Audi's entry-level SUV, positioned below the Q5 and built on the MQB platform shared with the VW Tiguan.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q3/images/1920x1080/2021_audi_q3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_q3/images/1920x1080/2021_audi_q3_1_1920x1080.jpg",
+  "tags": ["suv", "audi", "quattro", "luxury", "mqb", "compact"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-q3-f3",
+      "slug": "audi-q3-f3",
+      "modelId": "m-audi-q3",
+      "brandId": "brand-audi",
+      "codeName": "F3",
+      "generationNumber": 1,
+      "startYear": 2011,
+      "endYear": 2018,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["suv"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The first-generation Q3 (2011–2018) entered the compact premium SUV segment on the PQ35 platform, with quattro AWD optional across the range.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q3/images/1920x1080/2021_audi_q3_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

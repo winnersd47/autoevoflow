@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-boxster-and-boxster-s",
+  "slug": "porsche-boxster-and-boxster-s",
+  "name": "Boxster and Boxster S",
+  "fullName": "Porsche Boxster and Boxster S",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Boxster and Boxster S — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2013_porsche_boxster_and_boxster_s/images/1920x1080/2013_porsche_boxster_and_boxster_s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2013_porsche_boxster_and_boxster_s/images/1920x1080/2013_porsche_boxster_and_boxster_s_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-boxster-and-boxster-s-2020-0",
+      "slug": "porsche-boxster-and-boxster-s-2020-0",
+      "modelId": "m-porsche-boxster-and-boxster-s",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Boxster and Boxster S | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2013_porsche_boxster_and_boxster_s/images/1920x1080/2013_porsche_boxster_and_boxster_s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2013_porsche_boxster_and_boxster_s/images/1920x1080/2013_porsche_boxster_and_boxster_s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-boxster-and-boxster-s-2020-0",
+          "generationId": "gen-porsche-boxster-and-boxster-s-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2013_porsche_boxster_and_boxster_s/images/1920x1080/2013_porsche_boxster_and_boxster_s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2013_porsche_boxster_and_boxster_s/images/1920x1080/2013_porsche_boxster_and_boxster_s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Boxster and Boxster S | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

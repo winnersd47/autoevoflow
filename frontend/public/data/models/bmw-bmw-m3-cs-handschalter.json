@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-m3-cs-handschalter",
+  "slug": "bmw-bmw-m3-cs-handschalter",
+  "name": "BMW M3 CS Handschalter",
+  "fullName": "2027 BMW M3 CS Handschalter",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The chassis technology in the BMW M3 CS Handschalter has been tuned in consideration of the drivetrain's unique performance characteristics and the vehicle's weight distribution.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-M3_CS_Handschalter-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-M3_CS_Handschalter-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-m3_cs_handschalter/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.719Z",
+  "updatedAt": "2026-06-05T07:36:26.719Z"
+}

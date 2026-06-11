@@ -1,0 +1,26 @@
+{
+  "id": "ncs-hyundai-hyundai-boulder-concept",
+  "slug": "hyundai-hyundai-boulder-concept",
+  "name": "Hyundai Boulder Concept",
+  "fullName": "2026 Hyundai Boulder Concept",
+  "brandId": "hyundai",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Hyundai Boulder Concept's off-road design focus not only conveys an imposing presence; it also enhances its off-road terrain credentials, enabling aggressive approach...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Hyundai-Boulder_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Hyundai-Boulder_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/hyundai/2026-boulder_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.725Z",
+  "updatedAt": "2026-06-05T07:36:26.725Z"
+}

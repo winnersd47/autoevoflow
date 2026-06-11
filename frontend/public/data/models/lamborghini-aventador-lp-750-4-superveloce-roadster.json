@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-aventador-lp-750-4-superveloce-roadster",
+  "slug": "lamborghini-aventador-lp-750-4-superveloce-roadster",
+  "name": "Aventador LP 750-4 Superveloce Roadster",
+  "fullName": "Lamborghini Aventador LP 750-4 Superveloce Roadster",
+  "brandId": "brand-lamborghini",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Aventador LP 750-4 Superveloce Roadster — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2016_lamborghini_aventador_lp750-4_superveloce_roadster/images/1920x1080/2016_lamborghini_aventador_lp750-4_superveloce_roadster_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2016_lamborghini_aventador_lp750-4_superveloce_roadster/images/1920x1080/2016_lamborghini_aventador_lp750-4_superveloce_roadster_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-aventador-lp-750-4-superveloce-roadster-2020-0",
+      "slug": "lamborghini-aventador-lp-750-4-superveloce-roadster-2020-0",
+      "modelId": "m-lamborghini-aventador-lp-750-4-superveloce-roadster",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Aventador LP 750-4 Superveloce Roadster | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2016_lamborghini_aventador_lp750-4_superveloce_roadster/images/1920x1080/2016_lamborghini_aventador_lp750-4_superveloce_roadster_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2016_lamborghini_aventador_lp750-4_superveloce_roadster/images/1920x1080/2016_lamborghini_aventador_lp750-4_superveloce_roadster_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-aventador-lp-750-4-superveloce-roadster-2020-0",
+          "generationId": "gen-lamborghini-aventador-lp-750-4-superveloce-roadster-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2016_lamborghini_aventador_lp750-4_superveloce_roadster/images/1920x1080/2016_lamborghini_aventador_lp750-4_superveloce_roadster_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2016_lamborghini_aventador_lp750-4_superveloce_roadster/images/1920x1080/2016_lamborghini_aventador_lp750-4_superveloce_roadster_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Aventador LP 750-4 Superveloce Roadster | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

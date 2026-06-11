@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-silverado-c",
+  "slug": "chevrolet-silverado-c",
+  "name": "Silverado C",
+  "fullName": "Chevrolet Silverado C",
+  "brandId": "brand-chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Silverado C — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_custom_sport_hd/images/1920x1080/2015_chevrolet_silverado_custom_sport_hd_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_custom_sport_hd/images/1920x1080/2015_chevrolet_silverado_custom_sport_hd_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-silverado-c-2020-0",
+      "slug": "chevrolet-silverado-c-2020-0",
+      "modelId": "m-chevrolet-silverado-c",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Silverado Custom Sport HD | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_custom_sport_hd/images/1920x1080/2015_chevrolet_silverado_custom_sport_hd_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_custom_sport_hd/images/1920x1080/2015_chevrolet_silverado_custom_sport_hd_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-silverado-c-2020-0",
+          "generationId": "gen-chevrolet-silverado-c-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_custom_sport_hd/images/1920x1080/2015_chevrolet_silverado_custom_sport_hd_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_custom_sport_hd/images/1920x1080/2015_chevrolet_silverado_custom_sport_hd_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Silverado Custom Sport HD | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

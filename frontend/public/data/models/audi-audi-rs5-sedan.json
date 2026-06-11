@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-rs5-sedan",
+  "slug": "audi-audi-rs5-sedan",
+  "name": "Audi RS5 Sedan",
+  "fullName": "2027 Audi RS5 Sedan",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With a long wheelbase, large wheels, and low body, the Audi RS5 always looks ready to pounce. The Saloon with its coupe-like silhouette is a symbiosis of design and...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-RS5_Sedan-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-RS5_Sedan-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-rs5_sedan/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.714Z",
+  "updatedAt": "2026-06-05T07:36:26.714Z"
+}

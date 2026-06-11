@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-r8",
+  "slug": "audi-r8",
+  "name": "R8",
+  "fullName": "Audi R8",
+  "brandId": "brand-audi",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "endYear": 2024,
+  "isActive": false,
+  "description": "The Audi R8 (2006–2024) was Audi's mid-engine supercar and the only road car to share architecture with a Lamborghini (the R8 and Gallardo share the same aluminium spaceframe). Its 5.2-litre naturally aspirated V10 in the final R8 V10 Plus remains one of the finest engines ever fitted to a road car.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_r8/images/1920x1080/2020_audi_r8_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2020_audi_r8/images/1920x1080/2020_audi_r8_1_1920x1080.jpg",
+  "tags": ["coupe", "audi", "supercar", "v10", "mid-engine", "quattro"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-r8-typ42",
+      "slug": "audi-r8-typ42",
+      "modelId": "m-audi-r8",
+      "brandId": "brand-audi",
+      "codeName": "Typ 42",
+      "generationNumber": 1,
+      "startYear": 2006,
+      "endYear": 2015,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe", "spyder"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The Typ 42 R8 (2006–2015) was the first-generation supercar sharing its aluminium spaceframe with the Lamborghini Gallardo. Available with V8 and V10 engines.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_r8/images/1920x1080/2020_audi_r8_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

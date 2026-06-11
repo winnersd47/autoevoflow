@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-vision-alpina-concept",
+  "slug": "bmw-bmw-vision-alpina-concept",
+  "name": "BMW Vision Alpina Concept",
+  "fullName": "2026 BMW Vision Alpina Concept",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Vision BMW ALPINA is a respectful interpretation of the brand's heritage, shaped by the most contemporary creative instincts. At 5,200 mm in length, its presence is substantial...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-Vision_Alpina_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-Vision_Alpina_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2026-vision_alpina_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.736Z",
+  "updatedAt": "2026-06-05T07:36:26.736Z"
+}

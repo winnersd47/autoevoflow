@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-passat-gte-estate",
+  "slug": "volkswagen-passat-gte-estate",
+  "name": "Passat GTE Estate (",
+  "fullName": "Volkswagen Passat GTE Estate (",
+  "brandId": "brand-volkswagen",
+  "bodyType": "wagon",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Passat GTE Estate ( — wagon, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat_gte_estate_uk/images/1920x1080/2020_volkswagen_passat_gte_estate_uk_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat_gte_estate_uk/images/1920x1080/2020_volkswagen_passat_gte_estate_uk_1_1920x1080.jpg",
+  "tags": [
+    "wagon",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-passat-gte-estate-2020-0",
+      "slug": "volkswagen-passat-gte-estate-2020-0",
+      "modelId": "m-volkswagen-passat-gte-estate",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "wagon"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat GTE Estate (UK-Spec) | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat_gte_estate_uk/images/1920x1080/2020_volkswagen_passat_gte_estate_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat_gte_estate_uk/images/1920x1080/2020_volkswagen_passat_gte_estate_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-gte-estate-2020-0",
+          "generationId": "gen-volkswagen-passat-gte-estate-2020-0",
+          "url": "https://images.caricos.com/v/vw/2020_volkswagen_passat_gte_estate_uk/images/1920x1080/2020_volkswagen_passat_gte_estate_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat_gte_estate_uk/images/1920x1080/2020_volkswagen_passat_gte_estate_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Passat GTE Estate (UK-Spec) | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "wagon",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

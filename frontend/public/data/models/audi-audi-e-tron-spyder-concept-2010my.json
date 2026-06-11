@@ -1,0 +1,72 @@
+{
+  "id": "m-audi-audi-e-tron-spyder-concept-2010my",
+  "slug": "audi-audi-e-tron-spyder-concept-2010my",
+  "name": "Audi e-tron Spyder Concept | 2010MY",
+  "fullName": "Audi Audi e-tron Spyder Concept | 2010MY",
+  "brandId": "brand-audi",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi Audi e-tron Spyder Concept | 2010MY — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2010_audi_e-tron_spyder/images/1920x1080/2010_audi_e-tron_spyder_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2010_audi_e-tron_spyder/images/1920x1080/2010_audi_e-tron_spyder_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-audi-e-tron-spyder-concept-2010my-2020-0",
+      "slug": "audi-audi-e-tron-spyder-concept-2010my-2020-0",
+      "modelId": "m-audi-audi-e-tron-spyder-concept-2010my",
+      "brandId": "brand-audi",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Audi e-tron Spyder Concept | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2010_audi_e-tron_spyder/images/1920x1080/2010_audi_e-tron_spyder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2010_audi_e-tron_spyder/images/1920x1080/2010_audi_e-tron_spyder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-audi-audi-e-tron-spyder-concept-2010my-2020-0",
+          "generationId": "gen-audi-audi-e-tron-spyder-concept-2010my-2020-0",
+          "url": "https://images.caricos.com/a/audi/2010_audi_e-tron_spyder/images/1920x1080/2010_audi_e-tron_spyder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/audi/2010_audi_e-tron_spyder/images/1920x1080/2010_audi_e-tron_spyder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Audi e-tron Spyder Concept | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

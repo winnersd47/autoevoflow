@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-a4",
+  "slug": "audi-a4",
+  "name": "A4",
+  "fullName": "Audi A4",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi A4 traces its lineage to the 1972 Audi 80, the compact sedan that established Audi's position in the premium segment. Through six generations — from the B5 (1994) to the current B10 — the A4 has defined Audi's core proposition: understated luxury, quattro AWD capability, and a driving experience that emphasises composure over excitement.",
+  "generationCount": 6,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_a4/images/1920x1080/2020_audi_a4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2020_audi_a4/images/1920x1080/2020_audi_a4_1_1920x1080.jpg",
+  "tags": ["sedan", "audi", "quattro", "luxury", "compact"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-a4-b5",
+      "slug": "audi-a4-b5",
+      "modelId": "m-audi-a4",
+      "brandId": "brand-audi",
+      "codeName": "B5",
+      "generationNumber": 1,
+      "startYear": 1994,
+      "endYear": 2001,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["sedan", "avant"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The B5 A4 (1994–2001) introduced the A4 nameplate, replacing the 80. Built on the PL45 platform, it shared architecture with the B5 Passat.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_a4/images/1920x1080/2020_audi_a4_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

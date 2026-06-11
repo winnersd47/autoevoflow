@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-xl-sport-concept",
+  "slug": "volkswagen-xl-sport-concept",
+  "name": "XL Sport Concept",
+  "fullName": "Volkswagen XL Sport Concept",
+  "brandId": "brand-volkswagen",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen XL Sport Concept — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_xl_sport_concept/images/1920x1080/2014_volkswagen_xl_sport_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_xl_sport_concept/images/1920x1080/2014_volkswagen_xl_sport_concept_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-xl-sport-concept-2020-0",
+      "slug": "volkswagen-xl-sport-concept-2020-0",
+      "modelId": "m-volkswagen-xl-sport-concept",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen XL Sport Concept | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_xl_sport_concept/images/1920x1080/2014_volkswagen_xl_sport_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_xl_sport_concept/images/1920x1080/2014_volkswagen_xl_sport_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-xl-sport-concept-2020-0",
+          "generationId": "gen-volkswagen-xl-sport-concept-2020-0",
+          "url": "https://images.caricos.com/v/vw/2014_volkswagen_xl_sport_concept/images/1920x1080/2014_volkswagen_xl_sport_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_xl_sport_concept/images/1920x1080/2014_volkswagen_xl_sport_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen XL Sport Concept | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

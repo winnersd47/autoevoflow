@@ -1,0 +1,1006 @@
+{
+  "id": "brand-audi",
+  "slug": "audi",
+  "name": "Audi",
+  "fullName": "Audi AG",
+  "country": "Germany",
+  "countryCode": "DE",
+  "foundingYear": 1909,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "https://images.caricos.com/a/audi/2022_audi_rs_e-tron_gt/images/1920x1080/2022_audi_rs_e-tron_gt_1_1920x1080.jpg",
+  "description": "Audi AG — Vorsprung durch Technik (Advancement Through Technology) — traces its origins to August Horch, who founded both Horch and then Audi (the Latin translation of his name) in the first decade of the twentieth century. The 1969 merger of Auto Union's successor companies into the Volkswagen Group created the modern Audi, and the brand spent the 1970s rediscovering a competitive edge. The 1980 Quattro changed everything.\n\nThe Ur-Quattro's permanent four-wheel drive system, applied to a turbocharged coupe for the first time in a passenger car, won the World Rally Championship and permanently altered how engineers thought about performance. Every Audi since has been defined by Quattro — not just the drivetrain but the philosophy: traction over drama, systematic advantage over emotional theatre, engineering evidence over marketing assertion. The RS models, developed by quattro GmbH, represent this philosophy in its most concentrated form: the RS4 Avant as the definitive fast estate, the R8 as the supercar that shares its bones with a Lamborghini.\n\nAudi's current challenge is translating Vorsprung through technology into a credible electric proposition. The e-tron GT, sharing the Porsche Taycan J1 platform, and the Q8 e-tron SUV show that the quattro AWD identity translates naturally to electric motors. The harder question is whether Virtual Cockpit and progressive design language — the tools that distinguished Audi from BMW and Mercedes in the 2010s — remain sufficiently differentiated in a world where Tesla software updates define the competition.",
+  "parentCompany": "Volkswagen Group",
+  "headquarters": "Ingolstadt, Germany",
+  "modelCount": 85,
+  "generationCount": 120,
+  "tags": [
+    "german",
+    "luxury",
+    "quattro",
+    "awd",
+    "tdi",
+    "rs",
+    "progressive",
+    "electric"
+  ],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "dna": {
+    "id": "dna-audi",
+    "brandId": "brand-audi",
+    "entityType": "brand",
+    "entityId": "brand-audi",
+    "overallScore": 90,
+    "dominantStyle": "Progressive Luxury GT",
+    "colorPalette": [
+      "#bb0a21",
+      "#ffffff",
+      "#999999",
+      "#1a1a1a"
+    ],
+    "keyElements": [
+      "quattro AWD system",
+      "single-frame grille",
+      "virtual cockpit",
+      "aluminium space frame",
+      "RS performance models",
+      "TDI diesel engineering"
+    ],
+    "influencedBy": [
+      "Audi Space Frame aluminium architecture",
+      "Volkswagen Group platform sharing",
+      "World Rally Championship heritage"
+    ],
+    "hasInfluenced": [
+      "performance AWD on road cars",
+      "premium digital cockpit interfaces",
+      "fast estate segment definition"
+    ],
+    "dimensions": [
+      {
+        "key": "quattro_awd",
+        "label": "Quattro AWD System",
+        "score": 98,
+        "description": "Permanent AWD invented for performance road cars, now e-quattro for EVs — the single defining technical identity of the brand across all eras",
+        "trend": "stable"
+      },
+      {
+        "key": "rs_performance",
+        "label": "RS Performance Heritage",
+        "score": 91,
+        "description": "RS2 through RS e-tron GT, developed by quattro GmbH — the fast estate and RS saloon formula that defined the super-saloon segment",
+        "trend": "stable"
+      },
+      {
+        "key": "tdi_engineering",
+        "label": "TDI Diesel Engineering",
+        "score": 88,
+        "description": "Invented the performance diesel, Le Mans R10/R18 victories, global TDI adoption — now declining sharply post-Dieselgate 2015",
+        "trend": "decreasing"
+      },
+      {
+        "key": "progressive_design",
+        "label": "Progressive Design",
+        "score": 87,
+        "description": "Virtual cockpit, clean interior surfaces, single-frame grille — understated Bauhaus-influenced design versus BMW's aggression and Mercedes's heritage",
+        "trend": "stable"
+      },
+      {
+        "key": "aluminium_tech",
+        "label": "Aluminium Space Frame",
+        "score": 89,
+        "description": "A8 ASF pioneered mass-production aluminium architecture, TT AHSS, R8 aluminium spaceframe shared with Lamborghini — lightweight construction leadership",
+        "trend": "stable"
+      },
+      {
+        "key": "electric_transition",
+        "label": "Electric Transition",
+        "score": 85,
+        "description": "e-tron GT on Taycan J1 platform, Q8 e-tron, PPEI platform for future products — electric quattro identity translating credibly from ICE",
+        "trend": "increasing"
+      }
+    ],
+    "temporalEvolution": [
+      {
+        "year": 1980,
+        "score": 78,
+        "milestone": "Ur-Quattro — permanent AWD in a road car; WRC programme begins",
+        "dimensionScores": {
+          "Quattro AWD System": 95,
+          "RS Performance Heritage": 50,
+          "TDI Diesel Engineering": 40,
+          "Progressive Design": 60,
+          "Aluminium Space Frame": 30,
+          "Electric Transition": 0
+        }
+      },
+      {
+        "year": 1984,
+        "score": 82,
+        "milestone": "WRC title with Stig Blomqvist; quattro identity fully established",
+        "dimensionScores": {
+          "Quattro AWD System": 98,
+          "RS Performance Heritage": 60,
+          "TDI Diesel Engineering": 45,
+          "Progressive Design": 62,
+          "Aluminium Space Frame": 32,
+          "Electric Transition": 0
+        }
+      },
+      {
+        "year": 1994,
+        "score": 85,
+        "milestone": "A8 D2 — aluminium space frame; A4 B5 establishes modern compact premium",
+        "dimensionScores": {
+          "Quattro AWD System": 96,
+          "RS Performance Heritage": 65,
+          "TDI Diesel Engineering": 75,
+          "Progressive Design": 72,
+          "Aluminium Space Frame": 90,
+          "Electric Transition": 0
+        }
+      },
+      {
+        "year": 1998,
+        "score": 87,
+        "milestone": "TT 8N icon; RS4 B5 biturbo — fast estate formula launched",
+        "dimensionScores": {
+          "Quattro AWD System": 97,
+          "RS Performance Heritage": 88,
+          "TDI Diesel Engineering": 82,
+          "Progressive Design": 85,
+          "Aluminium Space Frame": 88,
+          "Electric Transition": 0
+        }
+      },
+      {
+        "year": 2006,
+        "score": 90,
+        "milestone": "R8 Typ 42 — Lamborghini-platform supercar; Le Mans diesel R10 victory",
+        "dimensionScores": {
+          "Quattro AWD System": 97,
+          "RS Performance Heritage": 90,
+          "TDI Diesel Engineering": 94,
+          "Progressive Design": 86,
+          "Aluminium Space Frame": 92,
+          "Electric Transition": 5
+        }
+      },
+      {
+        "year": 2011,
+        "score": 92,
+        "milestone": "Virtual Cockpit concept; Q3/Q5/Q7 SUV family complete; TDI Le Mans peak",
+        "dimensionScores": {
+          "Quattro AWD System": 97,
+          "RS Performance Heritage": 91,
+          "TDI Diesel Engineering": 96,
+          "Progressive Design": 90,
+          "Aluminium Space Frame": 91,
+          "Electric Transition": 10
+        }
+      },
+      {
+        "year": 2015,
+        "score": 86,
+        "milestone": "Dieselgate — TDI credibility collapses; e-tron EV strategy announced",
+        "dimensionScores": {
+          "Quattro AWD System": 97,
+          "RS Performance Heritage": 91,
+          "TDI Diesel Engineering": 55,
+          "Progressive Design": 91,
+          "Aluminium Space Frame": 90,
+          "Electric Transition": 35
+        }
+      },
+      {
+        "year": 2024,
+        "score": 90,
+        "milestone": "e-tron GT RS — electric performance flagship; Q8 e-tron; R8 final edition",
+        "dimensionScores": {
+          "Quattro AWD System": 98,
+          "RS Performance Heritage": 91,
+          "TDI Diesel Engineering": 45,
+          "Progressive Design": 87,
+          "Aluminium Space Frame": 89,
+          "Electric Transition": 85
+        }
+      }
+    ]
+  },
+  "analysis": {
+    "id": "analysis-audi-brand",
+    "entityType": "brand",
+    "entityId": "brand-audi",
+    "analysisType": "design_evolution",
+    "provider": "claude-3-5",
+    "headline": "Vorsprung Through Transition: Audi's Quattro Identity in the Electric Era",
+    "summary": "Audi's identity has been shaped by a single technical decision made in 1980: put permanent four-wheel drive in a turbocharged performance coupe. Every Audi since — from the A4 Avant to the RS e-tron GT — is a descendant of that decision. The brand now navigates its most complex transition: translating the quattro AWD philosophy into electric motors while preserving the engineering-first identity that differentiates it from BMW's driver-focus and Mercedes's heritage.",
+    "fullText": "The 1980 Ur-Quattro was not the first four-wheel-drive road car, but it was the first to make AWD a performance argument rather than a utility one. Audi's engineering team, led by Ferdinand Piëch, took a system developed for a military vehicle and applied it to a turbocharged 2.1-litre five-cylinder coupe. The result won two World Rally Championships, demonstrated that AWD improved handling rather than compromising it, and permanently reframed the question of what a performance car should do. Every subsequent Audi — from the A4 Avant to the R8 V10 — has been defined by the quattro philosophy: systematic traction advantage as the primary performance tool.\n\nThe RS programme, developed by quattro GmbH, represents the most concentrated expression of this philosophy. The RS4 B5's 380 hp twin-turbocharged V6 biturbo was the first super-saloon that could match a Porsche 911 in wet conditions — not because it was more powerful, but because quattro AWD made that power usable. The RS Avant formula — extreme performance in an estate body — became Audi's signature contribution to automotive culture, producing cars that could carry children to school and then lap a circuit faster than dedicated sports cars. The RS6 C8's 630 hp V8 biturbo represents the formula in its most extreme form: more practical car than the R8, more performance than almost any rival.\n\nThe TDI diesel chapter is the most complicated in Audi's history. Between 1989 and 2015, Audi built the world's most credible performance diesel portfolio — R10 and R18 Le Mans victories, RS-spec diesels producing 326 hp, and a TDI market share that defined European motoring. The Dieselgate emissions scandal of 2015 ended this era not just commercially but philosophically: the TDI identity that Audi had spent 25 years building was revealed to have been sustained partly through systematic deception. The fallout damaged the brand's core proposition — engineering evidence over marketing assertion — at precisely the moment that evidence mattered most.\n\nThe Virtual Cockpit, introduced across the range from 2014, was Audi's most successful interface leadership moment. A fully digital 12.3-inch instrument cluster replaced conventional dials with configurable displays — navigation maps, performance data, or traditional-style instruments at the driver's discretion. Combined with the MMI infotainment architecture, it established Audi as the interior technology leader ahead of BMW and Mercedes, a position that was meaningful until Tesla's over-the-air software updates redefined what 'digital' meant in an automotive context. The question Audi now faces is whether Virtual Cockpit remains a differentiator or has become a commodity.\n\nThe e-tron GT, arriving in 2021 on the Porsche Taycan J1 platform, is the most significant product decision Audi has made since the Ur-Quattro. Sharing a platform with Porsche was commercially pragmatic and technically sound — the J1 is the most developed electric performance platform in existence — but it creates an identity question that goes beyond badge engineering. The RS e-tron GT with 646 hp and e-quattro AWD is demonstrably faster than the RS6, more refined than the R8, and more technologically sophisticated than anything Audi has previously built. Whether customers experience it as a true Audi — not merely a Taycan in different clothes — will determine whether the quattro philosophy survives electrification intact.",
+    "insights": [
+      {
+        "id": "insight-audi-1",
+        "category": "Quattro — AWD as Brand Identity",
+        "text": "The Ur-Quattro's 1980 decision to apply permanent AWD to a performance coupe became the single most durable brand identity element in Audi's history. Unlike Ferrari's V8 sound or BMW's rear-wheel drive purity, quattro was a systems advantage — technically replicable by competitors but philosophically owned by Audi for over four decades. The transition to e-quattro for electric vehicles preserves the drivetrain identity while removing the mechanical architecture that made it distinctive.",
+        "confidence": 0.97,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-audi-2",
+        "category": "The RS Avant Formula",
+        "text": "The RS4 Avant invented a segment — the high-performance estate — that Audi has owned more completely than any other brand has owned any other segment. The formula (extreme engine, quattro AWD, practical body) has been repeated across RS4, RS6, RS5 Sportback, and RS e-tron GT with consistent critical and commercial success. The RS6 C8's 630 hp in a family estate remains the definitive expression of Audi's engineering-first philosophy applied to a practical vehicle.",
+        "confidence": 0.94,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-audi-3",
+        "category": "TDI: From Le Mans to Dieselgate",
+        "text": "Audi's TDI programme from 1989 to 2015 was the most successful performance diesel strategy in automotive history: five consecutive Le Mans victories with diesel power, a complete premium diesel lineup, and market share that defined European motoring. The Dieselgate scandal destroyed this legacy not merely commercially but philosophically — it revealed that Audi's engineering credibility, its primary differentiator from BMW and Mercedes, had been partly fabricated. The recovery has been incomplete.",
+        "confidence": 0.93,
+        "importance": "high"
+      },
+      {
+        "id": "insight-audi-4",
+        "category": "Virtual Cockpit vs Tesla Software",
+        "text": "The Virtual Cockpit digital instrument cluster, introduced in 2014, established Audi as the interior technology leader in the premium segment — a genuinely meaningful advantage over BMW's iDrive and Mercedes's COMAND systems. The advantage lasted approximately four years before Tesla's touchscreen-and-OTA-updates paradigm made traditional premium interior technology feel incremental. Audi's challenge is that its interface advantage was built on bespoke hardware; Tesla's is built on software that improves weekly.",
+        "confidence": 0.89,
+        "importance": "high"
+      },
+      {
+        "id": "insight-audi-5",
+        "category": "e-tron GT: Sharing Porsche's Platform",
+        "text": "The decision to build the e-tron GT on the Porsche Taycan J1 platform was strategically rational — amortising development costs across the Volkswagen Group's two performance brands — but creates a differentiation challenge more acute than any previous Audi-Porsche platform sharing. The mechanical identity of the quattro system was always distinctive; the electrical identity of a J1-based EV is shared with a Taycan at an architectural level that badge engineering cannot easily obscure.",
+        "confidence": 0.91,
+        "importance": "high"
+      }
+    ],
+    "confidenceScore": 0.92,
+    "processingTimeMs": 4800,
+    "isCached": true
+  },
+  "models": [
+    {
+      "id": "m-audi-a4",
+      "slug": "audi-a4",
+      "name": "A4",
+      "fullName": "Audi A4",
+      "brandId": "brand-audi",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1994,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi A4 traces its lineage to the 1972 Audi 80, the compact sedan that established Audi's position in the premium segment. Through six generations — from the B5 (1994) to the current B10 — the A4 has defined Audi's core proposition: understated luxury, quattro AWD capability, and a driving experience that emphasises composure over excitement.",
+      "generationCount": 6,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_a4/images/1920x1080/2020_audi_a4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2020_audi_a4/images/1920x1080/2020_audi_a4_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "audi",
+        "quattro",
+        "luxury",
+        "compact"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-a3",
+      "slug": "audi-a3",
+      "name": "A3",
+      "fullName": "Audi A3",
+      "brandId": "brand-audi",
+      "bodyType": "hatchback",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1996,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi A3 (1996–present) brought Audi's premium values to the compact hatchback segment. Based on the Volkswagen Group MQB platform, it shares architecture with the VW Golf while delivering a distinctly premium experience through its virtual cockpit, quattro AWD option, and refined NVH characteristics.",
+      "generationCount": 4,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_a3/images/1920x1080/2021_audi_a3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_a3/images/1920x1080/2021_audi_a3_1_1920x1080.jpg",
+      "tags": [
+        "hatchback",
+        "audi",
+        "quattro",
+        "luxury",
+        "compact",
+        "mqb"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-a6",
+      "slug": "audi-a6",
+      "name": "A6",
+      "fullName": "Audi A6",
+      "brandId": "brand-audi",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1994,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi A6 (1994–present) is Audi's executive saloon, positioned between the A4 and A8. Five generations from the C4 to the C8 have maintained the A6's core brief: business-class interior quality, quattro AWD availability, and efficient turbocharged engines including TDI diesels.",
+      "generationCount": 5,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_a6/images/1920x1080/2022_audi_a6_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_a6/images/1920x1080/2022_audi_a6_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "audi",
+        "executive",
+        "luxury",
+        "quattro"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-a5-sedan",
+      "slug": "audi-a5-sedan",
+      "name": "A5 Sedan",
+      "fullName": "Audi A5 Sedan",
+      "brandId": "brand-audi",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2026,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi A5 Sedan (2026–present) is the successor to the A4, rebranded to align with Audi's odd-number/even-number naming convention. It continues the compact premium sedan formula on the MLB Evo platform.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "sedan",
+        "audi",
+        "quattro",
+        "luxury"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-a8",
+      "slug": "audi-a8",
+      "name": "A8",
+      "fullName": "Audi A8",
+      "brandId": "brand-audi",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1994,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi A8 (1994–present) is Audi's flagship saloon and the world's first mass-production aluminium space frame car. The D2 A8 (1994) pioneered the all-aluminium Audi Space Frame (ASF) structure, setting new benchmarks for lightweight construction. The current D5 A8 features Level 3 autonomy and 48V mild hybrid architecture.",
+      "generationCount": 4,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_a8/images/1920x1080/2022_audi_a8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_a8/images/1920x1080/2022_audi_a8_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "audi",
+        "flagship",
+        "luxury",
+        "aluminium",
+        "quattro",
+        "autonomous"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-tt",
+      "slug": "audi-tt",
+      "name": "TT",
+      "fullName": "Audi TT",
+      "brandId": "brand-audi",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1998,
+      "endYear": 2023,
+      "isActive": false,
+      "description": "The Audi TT (1998–2023) was Audi's sports coupe — a design-led car that prioritised visual drama over outright performance. Its distinctive rounded form, designed by Freeman Thomas, made it an icon of late 1990s design. The TT was discontinued in 2023, replaced by the electric Q8 e-tron platform strategy.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2019_audi_tt/images/1920x1080/2019_audi_tt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2019_audi_tt/images/1920x1080/2019_audi_tt_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "audi",
+        "sports",
+        "design-icon",
+        "quattro"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-r8",
+      "slug": "audi-r8",
+      "name": "R8",
+      "fullName": "Audi R8",
+      "brandId": "brand-audi",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2006,
+      "endYear": 2024,
+      "isActive": false,
+      "description": "The Audi R8 (2006–2024) was Audi's mid-engine supercar and the only road car to share architecture with a Lamborghini (the R8 and Gallardo share the same aluminium spaceframe). Its 5.2-litre naturally aspirated V10 in the final R8 V10 Plus remains one of the finest engines ever fitted to a road car.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_r8/images/1920x1080/2020_audi_r8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2020_audi_r8/images/1920x1080/2020_audi_r8_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "audi",
+        "supercar",
+        "v10",
+        "mid-engine",
+        "quattro"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-quattro",
+      "slug": "audi-quattro",
+      "name": "Quattro",
+      "fullName": "Audi Quattro",
+      "brandId": "brand-audi",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1980,
+      "endYear": 1991,
+      "isActive": false,
+      "description": "The Audi Quattro (1980–1991) — the Ur-Quattro — is the car that invented performance AWD for road cars and revolutionised rallying. Its permanent four-wheel drive system, derived from a military vehicle project, won the World Rally Championship in 1982 and 1984 with Hannu Mikkola and Stig Blomqvist, and permanently changed how performance cars handle.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "coupe",
+        "audi",
+        "quattro",
+        "rally",
+        "wrc",
+        "classic",
+        "heritage",
+        "awd"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-rs4",
+      "slug": "audi-rs4",
+      "name": "RS4",
+      "fullName": "Audi RS4",
+      "brandId": "brand-audi",
+      "bodyType": "sedan",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1999,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi RS4 is the most powerful version of the A4, produced in collaboration with quattro GmbH. From the twin-turbocharged 2.7-litre biturbo V6 of the B5 (1999) — which produced 380 hp and set the standard for the super-saloon segment — to the current B9 with a naturally aspirated 4.0-litre V8, each RS4 has represented the definitive German sports estate.",
+      "generationCount": 4,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_rs4/images/1920x1080/2020_audi_rs4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2020_audi_rs4/images/1920x1080/2020_audi_rs4_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "avant",
+        "audi",
+        "rs",
+        "quattro",
+        "sports",
+        "performance"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-q5",
+      "slug": "audi-q5",
+      "name": "Q5",
+      "fullName": "Audi Q5",
+      "brandId": "brand-audi",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2008,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi Q5 (2008–present) is Audi's best-selling SUV globally, combining quattro AWD with premium interior appointments and efficient turbocharged engines. Its MLB platform is shared with the Porsche Macan and Cayenne.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q5/images/1920x1080/2021_audi_q5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_q5/images/1920x1080/2021_audi_q5_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "audi",
+        "quattro",
+        "luxury",
+        "mlb"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-q3",
+      "slug": "audi-q3",
+      "name": "Q3",
+      "fullName": "Audi Q3",
+      "brandId": "brand-audi",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2011,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi Q3 (2011–present) is Audi's entry-level SUV, positioned below the Q5 and built on the MQB platform shared with the VW Tiguan.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q3/images/1920x1080/2021_audi_q3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_q3/images/1920x1080/2021_audi_q3_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "audi",
+        "quattro",
+        "luxury",
+        "mqb",
+        "compact"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-q7",
+      "slug": "audi-q7",
+      "name": "Q7",
+      "fullName": "Audi Q7",
+      "brandId": "brand-audi",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2005,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi Q7 (2005–present) is Audi's large seven-seat SUV, built on the MLB Evo platform shared with the Porsche Cayenne and Bentley Bentayga. It established Audi's presence in the flagship SUV segment.",
+      "generationCount": 2,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "suv",
+        "audi",
+        "flagship",
+        "luxury",
+        "quattro",
+        "seven-seat"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-q8",
+      "slug": "audi-q8",
+      "name": "Q8",
+      "fullName": "Audi Q8",
+      "brandId": "brand-audi",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2018,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi Q8 (2018–present) is Audi's flagship SUV coupe, competing with the BMW X6 and Mercedes GLE Coupe. Its 48V mild hybrid system and optional plug-in hybrid variants represent Audi's transitional electrification strategy.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_q8/images/1920x1080/2022_audi_q8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_q8/images/1920x1080/2022_audi_q8_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "audi",
+        "flagship",
+        "luxury",
+        "quattro",
+        "mild-hybrid"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-e-tron",
+      "slug": "audi-e-tron",
+      "name": "e-tron",
+      "fullName": "Audi e-tron",
+      "brandId": "brand-audi",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2018,
+      "endYear": 2023,
+      "isActive": false,
+      "description": "The Audi e-tron (2018–2023) was Audi's first production battery-electric vehicle, an SUV built on the Volkswagen Group MLB Evo platform. It established Audi's electric identity before being renamed the Q8 e-tron.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron/images/1920x1080/2022_audi_e-tron_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron/images/1920x1080/2022_audi_e-tron_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "audi",
+        "electric",
+        "bev",
+        "quattro",
+        "mlb"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-e-tron-gt",
+      "slug": "audi-e-tron-gt",
+      "name": "e-tron GT",
+      "fullName": "Audi e-tron GT",
+      "brandId": "brand-audi",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2021,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi e-tron GT (2021–present) is Audi's electric Gran Turismo, sharing the J1 platform with the Porsche Taycan. With up to 646 hp in RS spec and a 0–100 time of 3.3 seconds, it represents the high-performance flagship of Audi's electric range.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron_gt/images/1920x1080/2022_audi_e-tron_gt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron_gt/images/1920x1080/2022_audi_e-tron_gt_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "audi",
+        "electric",
+        "bev",
+        "gran-turismo",
+        "rs",
+        "performance"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-a5-avant",
+      "slug": "audi-a5-avant",
+      "name": "A5 Avant",
+      "fullName": "Audi A5 Avant",
+      "brandId": "brand-audi",
+      "bodyType": "estate",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2025,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi A5 Avant (2025–present) is the estate variant of the A5, successor to the A4 Avant. It continues the Avant tradition of combining quattro AWD with a practical estate body, now on the MLB Evo platform.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "estate",
+        "avant",
+        "audi",
+        "quattro",
+        "luxury"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-rs5",
+      "slug": "audi-rs5",
+      "name": "RS5",
+      "fullName": "Audi RS5",
+      "brandId": "brand-audi",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2010,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi RS5 is the high-performance coupe variant of the A5, produced by quattro GmbH. Its naturally aspirated 4.2-litre V8 in the first generation was considered one of the finest engines Audi has produced.",
+      "generationCount": 2,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "coupe",
+        "audi",
+        "rs",
+        "quattro",
+        "sports",
+        "performance"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-q8-e-tron",
+      "slug": "audi-q8-e-tron",
+      "name": "Q8 e-tron",
+      "fullName": "Audi Q8 e-tron",
+      "brandId": "brand-audi",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2023,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi Q8 e-tron (2023–present) is the renamed continuation of the e-tron, Audi's flagship electric SUV. The rebrand brought improved range, enhanced charging capability, and alignment with Audi's Q-family naming.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "suv",
+        "audi",
+        "electric",
+        "bev",
+        "flagship",
+        "quattro"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-rs6-avant",
+      "slug": "audi-rs6-avant",
+      "name": "RS6 Avant",
+      "fullName": "Audi RS6 Avant",
+      "brandId": "brand-audi",
+      "bodyType": "estate",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2002,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi RS6 Avant is the definitive expression of Audi's fast estate formula — combining a 630 hp twin-turbocharged V8 with quattro AWD and a practical estate body. The C8 generation is widely considered the benchmark for the super-estate segment.",
+      "generationCount": 4,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_rs6_avant/images/1920x1080/2020_audi_rs6_avant_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2020_audi_rs6_avant/images/1920x1080/2020_audi_rs6_avant_1_1920x1080.jpg",
+      "tags": [
+        "estate",
+        "avant",
+        "audi",
+        "rs",
+        "quattro",
+        "sports",
+        "performance",
+        "v8"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-audi-s4",
+      "slug": "audi-s4",
+      "name": "S4",
+      "fullName": "Audi S4",
+      "brandId": "brand-audi",
+      "bodyType": "sedan",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1991,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Audi S4 is the performance variant of the A4, positioned below the RS4 in the S-model hierarchy. The B5 S4's twin-turbo 2.7-litre V6 biturbo shared its engine with the RS4 and became a cult classic among enthusiasts.",
+      "generationCount": 6,
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_s4/images/1920x1080/2020_audi_s4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2020_audi_s4/images/1920x1080/2020_audi_s4_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "audi",
+        "s-model",
+        "quattro",
+        "sports",
+        "performance"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "latestCars": [
+    {
+      "id": "ncs-audi-2028-nuvolari",
+      "name": "Audi Nuvolari",
+      "year": 2028,
+      "imageUrl": "https://www.netcarshow.com/Audi-Nuvolari-2028-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2028-nuvolari/",
+      "description": "Audi Nuvolari is powered by a hybrid high-performance powertrain with a maximum system output of 736 kW (1,001 PS). It combines a 4.0-liter V8 biturbo engine...",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-audi-2027-rs5_sedan",
+      "name": "Audi RS5 Sedan",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Audi-RS5_Sedan-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2027-rs5_sedan/",
+      "description": "With a long wheelbase, large wheels, and low body, the Audi RS5 always looks ready to pounce. The Saloon with its coupe-like silhouette is a symbiosis of design and...",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-audi-2027-sq7",
+      "name": "Audi SQ7",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Audi-SQ7-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2027-sq7/",
+      "description": "Audi SQ7 extends the Q7's performance credentials, replacing the V6 power for a revised 4.0-liter twin turbo V8 generating 591 horsepower and 590 lb-ft of torque.",
+      "scrapedAt": "2026-06-10T03:06:57.329Z"
+    },
+    {
+      "id": "ncs-audi-2027-q7",
+      "name": "Audi Q7",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Audi-Q7-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2027-q7/",
+      "description": "The third-generation Audi Q7 retains its muscular design. Audi's trademark four rings - along with the hood - sit noticeably higher, making the SUV's front end appear larger.",
+      "scrapedAt": "2026-06-10T03:06:57.329Z"
+    },
+    {
+      "id": "carscoops-2026-06-audi-unveils-new-nuvolari-supercar-as-extreme-r8-suc",
+      "name": "Audi Unveils New Nuvolari Supercar As Extreme R8 Successor With Lambo Power",
+      "year": 2026,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Audi-Nuvolari-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/06/audi-unveils-new-nuvolari-supercar-as-extreme-r8-successor/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Audi-Nuvolari-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px",
+      "scrapedAt": "2026-06-05T07:31:48.650Z"
+    },
+    {
+      "id": "carscoops-2026-06-audi-nuvolari-hits-spied",
+      "name": "Audi Nuvolari Hits The Ring After Celebrating Surprise Debut",
+      "year": 2026,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Audi-Nuvolari-Spied-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/06/audi-nuvolari-hits-spied/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Audi-Nuvolari-Spied-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom",
+      "scrapedAt": "2026-06-10T03:06:56.956Z"
+    },
+    {
+      "id": "ncs-audi-2025-c_concept",
+      "name": "Audi C Concept",
+      "year": 2025,
+      "imageUrl": "https://www.netcarshow.com/Audi-C_Concept-2025-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2025-c_concept/",
+      "description": "Inspired by the Auto Union Type C (1936) and the third-generation Audi A6 (2004), it has a clear, upright form that conveys presence and identity.",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-audi-2023-activesphere_concept",
+      "name": "Audi Activesphere Concept",
+      "year": 2023,
+      "imageUrl": "https://www.netcarshow.com/Audi-Activesphere_Concept-2023-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2023-activesphere_concept/",
+      "description": "Audi Activesphere's ground clearance is also variable; ideal for off-road use, it can be increased by 40 millimeters from the basic height of 208 millimeters, or lowered...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-audi-2022-a6_avant_e-tron_concept",
+      "name": "Audi A6 Avant e-tron Concept",
+      "year": 2022,
+      "imageUrl": "https://www.netcarshow.com/Audi-A6_Avant_e-tron_Concept-2022-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2022-a6_avant_e-tron_concept/",
+      "description": "Looking at the front, it is immediately apparent that the Audi A6 e-tron concept is an electric-powered representative of the brand with the four rings.",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-audi-2021-a6_e-tron_concept",
+      "name": "Audi A6 e-tron Concept",
+      "year": 2021,
+      "imageUrl": "https://www.netcarshow.com/Audi-A6_e-tron_Concept-2021-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2021-a6_e-tron_concept/",
+      "description": "Audi A6 e-tron concept is clearly a representative of the luxury class - 4.96 meters in length, 1.96 meters in width, and 1.44 meters in height, the same as the current...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-audi-2021-skysphere_concept",
+      "name": "Audi Skysphere Concept",
+      "year": 2021,
+      "imageUrl": "https://www.netcarshow.com/Audi-Skysphere_Concept-2021-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2021-skysphere_concept/",
+      "description": "Audi Skysphere Concept was designed for two different driving experiences: a grand touring experience and a sports experience. This makes use of a spectacular...",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-audi-2019-ai-trail_quattro_concept",
+      "name": "Audi AI-TRAIL quattro Concept",
+      "year": 2019,
+      "imageUrl": "https://www.netcarshow.com/Audi-AI-TRAIL_quattro_Concept-2019-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2019-ai-trail_quattro_concept/",
+      "description": "With an exterior length of 4.15 meters (13.5 ft) and a width of 2.15 meters (7.05 ft), the brawny Audi AI:TRAIL's potential away from paved roads is immediately apparent.",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-audi-2018-pb18_e-tron_concept",
+      "name": "Audi PB18 e-tron Concept",
+      "year": 2018,
+      "imageUrl": "https://www.netcarshow.com/Audi-PB18_e-tron_Concept-2018-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2018-pb18_e-tron_concept/",
+      "description": "The Audi PB18 e-tron package follows the traditional architecture of a mid-engine sports car with a cab that is positioned far forward. The car's center...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-audi-2017-aicon_concept",
+      "name": "Audi Aicon Concept",
+      "year": 2017,
+      "imageUrl": "https://www.netcarshow.com/Audi-Aicon_Concept-2017-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2017-aicon_concept/",
+      "description": "One look is all it takes: In contrast to a robot taxi, which is reduced to pure functionality, the autonomous Audi Aicon Concept vehicle pulls out all the stops.",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-audi-2014-prologue_concept",
+      "name": "Audi Prologue Concept",
+      "year": 2014,
+      "imageUrl": "https://www.netcarshow.com/Audi-Prologue_Concept-2014-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2014-prologue_concept/",
+      "description": "Audi is launching into a new design era: At the 2014 Los Angeles Auto Show, Marc Lichte, Head of Design, presented the Audi prologue concept car. Lichte is...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-audi-2013-nanuk_quattro_concept",
+      "name": "Audi Nanuk quattro Concept",
+      "year": 2013,
+      "imageUrl": "https://www.netcarshow.com/Audi-Nanuk_quattro_Concept-2013-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2013-nanuk_quattro_concept/",
+      "description": "Sportiness in a new form - Audi is showing the Audi nanuk quattro concept show car at the 2013 IAA in Frankfurt am Main. Its crossover concept combines the...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-audi-2012-crosslane_coupe_concept",
+      "name": "Audi Crosslane Coupe Concept",
+      "year": 2012,
+      "imageUrl": "https://www.netcarshow.com/Audi-Crosslane_Coupe_Concept-2012-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2012-crosslane_coupe_concept/",
+      "description": "Audi provides a glimpse of the future shape of design, along with automotive and drive concepts, through its Audi crosslane coup&eacute; concept car. This...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-audi-2010-quattro_concept",
+      "name": "Audi quattro Concept",
+      "year": 2010,
+      "imageUrl": "https://www.netcarshow.com/Audi-quattro_Concept-2010-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2010-quattro_concept/",
+      "description": "In celebration of the 30th anniversary of the debut of the quattro, Audi is presenting a show car at the 2010 Paris Motor Show that moves a futuristic...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-audi-2009-e-tron_concept",
+      "name": "Audi e-tron Concept",
+      "year": 2009,
+      "imageUrl": "https://www.netcarshow.com/Audi-e-tron_Concept-2009-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2009-e-tron_concept/",
+      "description": "Audi presents the highlight of the IAA 2009: the Audi e-tron Concept, a high-performance sports car with a purely electric drive system. Four motors - two...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-audi-2005-shooting_brake_concept",
+      "name": "Audi Shooting Brake Concept",
+      "year": 2005,
+      "imageUrl": "https://www.netcarshow.com/Audi-Shooting_Brake_Concept-2005-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/audi/2005-shooting_brake_concept/",
+      "description": "Audi is unveiling a new highlight in the sporty compact segment at the 2005 Tokyo Motor Show: the Shooting Brake Concept is a study vehicle offering a...",
+      "scrapedAt": "2026-06-05T07:31:49.540Z"
+    }
+  ]
+}

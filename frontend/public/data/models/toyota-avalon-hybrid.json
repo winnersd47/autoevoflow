@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-avalon-hybrid",
+  "slug": "toyota-avalon-hybrid",
+  "name": "Avalon Hybrid",
+  "fullName": "Toyota Avalon Hybrid",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Avalon Hybrid — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_avalon_hybrid/images/1920x1080/2013_toyota_avalon_hybrid_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2013_toyota_avalon_hybrid/images/1920x1080/2013_toyota_avalon_hybrid_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-avalon-hybrid-2020-0",
+      "slug": "toyota-avalon-hybrid-2020-0",
+      "modelId": "m-toyota-avalon-hybrid",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Avalon Hybrid | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_avalon_hybrid/images/1920x1080/2013_toyota_avalon_hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2013_toyota_avalon_hybrid/images/1920x1080/2013_toyota_avalon_hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-avalon-hybrid-2020-0",
+          "generationId": "gen-toyota-avalon-hybrid-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2013_toyota_avalon_hybrid/images/1920x1080/2013_toyota_avalon_hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_avalon_hybrid/images/1920x1080/2013_toyota_avalon_hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Avalon Hybrid | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

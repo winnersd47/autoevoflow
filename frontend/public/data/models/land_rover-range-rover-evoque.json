@@ -1,0 +1,256 @@
+{
+  "id": "m-land_rover-range-rover-evoque",
+  "slug": "land_rover-range-rover-evoque",
+  "name": "Range Rover Evoque",
+  "fullName": "Land Rover Range Rover Evoque",
+  "brandId": "brand-land_rover",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Land Rover Range Rover Evoque — suv, produced since 2020.",
+  "generationCount": 5,
+  "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_evoque/images/1920x1080/2024_range_rover_evoque_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_evoque/images/1920x1080/2024_range_rover_evoque_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "land-rover"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-land_rover-range-rover-evoque-2020-0",
+      "slug": "land_rover-range-rover-evoque-2020-0",
+      "modelId": "m-land_rover-range-rover-evoque",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Evoque | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_evoque/images/1920x1080/2024_range_rover_evoque_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_evoque/images/1920x1080/2024_range_rover_evoque_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-evoque-2020-0",
+          "generationId": "gen-land_rover-range-rover-evoque-2020-0",
+          "url": "https://images.caricos.com/l/land_rover/2024_range_rover_evoque/images/1920x1080/2024_range_rover_evoque_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_evoque/images/1920x1080/2024_range_rover_evoque_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Evoque | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-evoque-2020-1",
+      "slug": "land_rover-range-rover-evoque-2020-1",
+      "modelId": "m-land_rover-range-rover-evoque",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Evoque | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2020_range_rover_evoque/images/1920x1080/2020_range_rover_evoque_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2020_range_rover_evoque/images/1920x1080/2020_range_rover_evoque_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-evoque-2020-1",
+          "generationId": "gen-land_rover-range-rover-evoque-2020-1",
+          "url": "https://images.caricos.com/l/land_rover/2020_range_rover_evoque/images/1920x1080/2020_range_rover_evoque_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2020_range_rover_evoque/images/1920x1080/2020_range_rover_evoque_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Evoque | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-evoque-2020-2",
+      "slug": "land_rover-range-rover-evoque-2020-2",
+      "modelId": "m-land_rover-range-rover-evoque",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Evoque | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2016_range_rover_evoque/images/1920x1080/2016_range_rover_evoque_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2016_range_rover_evoque/images/1920x1080/2016_range_rover_evoque_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-evoque-2020-2",
+          "generationId": "gen-land_rover-range-rover-evoque-2020-2",
+          "url": "https://images.caricos.com/l/land_rover/2016_range_rover_evoque/images/1920x1080/2016_range_rover_evoque_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2016_range_rover_evoque/images/1920x1080/2016_range_rover_evoque_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Evoque | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-evoque-2020-3",
+      "slug": "land_rover-range-rover-evoque-2020-3",
+      "modelId": "m-land_rover-range-rover-evoque",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Evoque Autobiography | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2015_range_rover_evoque_autobiography/images/1920x1080/2015_range_rover_evoque_autobiography_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2015_range_rover_evoque_autobiography/images/1920x1080/2015_range_rover_evoque_autobiography_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-evoque-2020-3",
+          "generationId": "gen-land_rover-range-rover-evoque-2020-3",
+          "url": "https://images.caricos.com/l/land_rover/2015_range_rover_evoque_autobiography/images/1920x1080/2015_range_rover_evoque_autobiography_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2015_range_rover_evoque_autobiography/images/1920x1080/2015_range_rover_evoque_autobiography_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Evoque Autobiography | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-evoque-2020-4",
+      "slug": "land_rover-range-rover-evoque-2020-4",
+      "modelId": "m-land_rover-range-rover-evoque",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Evoque | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_evoque/images/1920x1080/2011_land_rover_range_rover_evoque_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_evoque/images/1920x1080/2011_land_rover_range_rover_evoque_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-evoque-2020-4",
+          "generationId": "gen-land_rover-range-rover-evoque-2020-4",
+          "url": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_evoque/images/1920x1080/2011_land_rover_range_rover_evoque_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2011_land_rover_range_rover_evoque/images/1920x1080/2011_land_rover_range_rover_evoque_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Evoque | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

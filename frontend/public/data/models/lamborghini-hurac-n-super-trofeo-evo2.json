@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-hurac-n-super-trofeo-evo2",
+  "slug": "lamborghini-hurac-n-super-trofeo-evo2",
+  "name": "Huracán Super Trofeo EVO2",
+  "fullName": "Lamborghini Huracán Super Trofeo EVO2",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Huracán Super Trofeo EVO2 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2022_lamborghini_huracan_super_trofeo_evo2/images/1920x1080/2022_lamborghini_huracan_super_trofeo_evo2_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2022_lamborghini_huracan_super_trofeo_evo2/images/1920x1080/2022_lamborghini_huracan_super_trofeo_evo2_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-hurac-n-super-trofeo-evo2-2020-0",
+      "slug": "lamborghini-hurac-n-super-trofeo-evo2-2020-0",
+      "modelId": "m-lamborghini-hurac-n-super-trofeo-evo2",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Huracán Super Trofeo EVO2 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2022_lamborghini_huracan_super_trofeo_evo2/images/1920x1080/2022_lamborghini_huracan_super_trofeo_evo2_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2022_lamborghini_huracan_super_trofeo_evo2/images/1920x1080/2022_lamborghini_huracan_super_trofeo_evo2_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-hurac-n-super-trofeo-evo2-2020-0",
+          "generationId": "gen-lamborghini-hurac-n-super-trofeo-evo2-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2022_lamborghini_huracan_super_trofeo_evo2/images/1920x1080/2022_lamborghini_huracan_super_trofeo_evo2_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2022_lamborghini_huracan_super_trofeo_evo2/images/1920x1080/2022_lamborghini_huracan_super_trofeo_evo2_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Huracán Super Trofeo EVO2 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

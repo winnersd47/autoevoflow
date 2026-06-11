@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-asterion-lpi-910-4-concept",
+  "slug": "lamborghini-asterion-lpi-910-4-concept",
+  "name": "Asterion LPI 910-4 Concept",
+  "fullName": "Lamborghini Asterion LPI 910-4 Concept",
+  "brandId": "brand-lamborghini",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Asterion LPI 910-4 Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2014_lamborghini_asterion_lpi_910-4_concept/images/1920x1080/2014_lamborghini_asterion_lpi_910-4_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2014_lamborghini_asterion_lpi_910-4_concept/images/1920x1080/2014_lamborghini_asterion_lpi_910-4_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-asterion-lpi-910-4-concept-2020-0",
+      "slug": "lamborghini-asterion-lpi-910-4-concept-2020-0",
+      "modelId": "m-lamborghini-asterion-lpi-910-4-concept",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Asterion LPI 910-4 Concept | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2014_lamborghini_asterion_lpi_910-4_concept/images/1920x1080/2014_lamborghini_asterion_lpi_910-4_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2014_lamborghini_asterion_lpi_910-4_concept/images/1920x1080/2014_lamborghini_asterion_lpi_910-4_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-asterion-lpi-910-4-concept-2020-0",
+          "generationId": "gen-lamborghini-asterion-lpi-910-4-concept-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2014_lamborghini_asterion_lpi_910-4_concept/images/1920x1080/2014_lamborghini_asterion_lpi_910-4_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2014_lamborghini_asterion_lpi_910-4_concept/images/1920x1080/2014_lamborghini_asterion_lpi_910-4_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Asterion LPI 910-4 Concept | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

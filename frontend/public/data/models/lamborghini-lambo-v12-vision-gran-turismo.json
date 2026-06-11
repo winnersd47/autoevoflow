@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-lambo-v12-vision-gran-turismo",
+  "slug": "lamborghini-lambo-v12-vision-gran-turismo",
+  "name": "Lambo V12 Vision Gran Turismo",
+  "fullName": "Lamborghini Lambo V12 Vision Gran Turismo",
+  "brandId": "brand-lamborghini",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Lambo V12 Vision Gran Turismo — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2019_lamborghini_v12_vision_gran_turismo/images/1920x1080/2019_lamborghini_v12_vision_gran_turismo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2019_lamborghini_v12_vision_gran_turismo/images/1920x1080/2019_lamborghini_v12_vision_gran_turismo_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-lambo-v12-vision-gran-turismo-2020-0",
+      "slug": "lamborghini-lambo-v12-vision-gran-turismo-2020-0",
+      "modelId": "m-lamborghini-lambo-v12-vision-gran-turismo",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Lambo V12 Vision Gran Turismo | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2019_lamborghini_v12_vision_gran_turismo/images/1920x1080/2019_lamborghini_v12_vision_gran_turismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2019_lamborghini_v12_vision_gran_turismo/images/1920x1080/2019_lamborghini_v12_vision_gran_turismo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-lambo-v12-vision-gran-turismo-2020-0",
+          "generationId": "gen-lamborghini-lambo-v12-vision-gran-turismo-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2019_lamborghini_v12_vision_gran_turismo/images/1920x1080/2019_lamborghini_v12_vision_gran_turismo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2019_lamborghini_v12_vision_gran_turismo/images/1920x1080/2019_lamborghini_v12_vision_gran_turismo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Lambo V12 Vision Gran Turismo | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

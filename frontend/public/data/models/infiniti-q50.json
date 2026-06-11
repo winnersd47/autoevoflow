@@ -1,0 +1,256 @@
+{
+  "id": "m-infiniti-q50",
+  "slug": "infiniti-q50",
+  "name": "Q50",
+  "fullName": "Infiniti Q50",
+  "brandId": "brand-infiniti",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti Q50 — sedan, produced since 2020.",
+  "generationCount": 5,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2021_infiniti_q50/images/1920x1080/2021_infiniti_q50_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2021_infiniti_q50/images/1920x1080/2021_infiniti_q50_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-q50-2020-0",
+      "slug": "infiniti-q50-2020-0",
+      "modelId": "m-infiniti-q50",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Q50 | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2021_infiniti_q50/images/1920x1080/2021_infiniti_q50_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2021_infiniti_q50/images/1920x1080/2021_infiniti_q50_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-q50-2020-0",
+          "generationId": "gen-infiniti-q50-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2021_infiniti_q50/images/1920x1080/2021_infiniti_q50_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2021_infiniti_q50/images/1920x1080/2021_infiniti_q50_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Q50 | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-q50-2020-1",
+      "slug": "infiniti-q50-2020-1",
+      "modelId": "m-infiniti-q50",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Q50 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2018_infiniti_q50/images/1920x1080/2018_infiniti_q50_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2018_infiniti_q50/images/1920x1080/2018_infiniti_q50_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-q50-2020-1",
+          "generationId": "gen-infiniti-q50-2020-1",
+          "url": "https://images.caricos.com/i/infiniti/2018_infiniti_q50/images/1920x1080/2018_infiniti_q50_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2018_infiniti_q50/images/1920x1080/2018_infiniti_q50_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Q50 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-q50-2020-2",
+      "slug": "infiniti-q50-2020-2",
+      "modelId": "m-infiniti-q50",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Q50 | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_q50/images/1920x1080/2017_infiniti_q50_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_q50/images/1920x1080/2017_infiniti_q50_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-q50-2020-2",
+          "generationId": "gen-infiniti-q50-2020-2",
+          "url": "https://images.caricos.com/i/infiniti/2017_infiniti_q50/images/1920x1080/2017_infiniti_q50_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2017_infiniti_q50/images/1920x1080/2017_infiniti_q50_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Q50 | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-q50-2020-3",
+      "slug": "infiniti-q50-2020-3",
+      "modelId": "m-infiniti-q50",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Q50 | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2016_infiniti_q50/images/1920x1080/2016_infiniti_q50_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2016_infiniti_q50/images/1920x1080/2016_infiniti_q50_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-q50-2020-3",
+          "generationId": "gen-infiniti-q50-2020-3",
+          "url": "https://images.caricos.com/i/infiniti/2016_infiniti_q50/images/1920x1080/2016_infiniti_q50_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2016_infiniti_q50/images/1920x1080/2016_infiniti_q50_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Q50 | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-q50-2020-4",
+      "slug": "infiniti-q50-2020-4",
+      "modelId": "m-infiniti-q50",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Q50 | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2014_infiniti_q50/images/1920x1080/2014_infiniti_q50_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2014_infiniti_q50/images/1920x1080/2014_infiniti_q50_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-q50-2020-4",
+          "generationId": "gen-infiniti-q50-2020-4",
+          "url": "https://images.caricos.com/i/infiniti/2014_infiniti_q50/images/1920x1080/2014_infiniti_q50_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2014_infiniti_q50/images/1920x1080/2014_infiniti_q50_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Q50 | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

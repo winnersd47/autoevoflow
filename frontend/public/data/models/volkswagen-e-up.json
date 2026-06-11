@@ -1,0 +1,164 @@
+{
+  "id": "m-volkswagen-e-up",
+  "slug": "volkswagen-e-up",
+  "name": "e-up!",
+  "fullName": "Volkswagen e-up!",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen e-up! — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_e-up/images/1920x1080/2014_volkswagen_e-up_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_e-up/images/1920x1080/2014_volkswagen_e-up_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-e-up-2020-0",
+      "slug": "volkswagen-e-up-2020-0",
+      "modelId": "m-volkswagen-e-up",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen e-UP! | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2020_volkswagen_e-up/images/1920x1080/2020_volkswagen_e-up_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2020_volkswagen_e-up/images/1920x1080/2020_volkswagen_e-up_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-e-up-2020-0",
+          "generationId": "gen-volkswagen-e-up-2020-0",
+          "url": "https://images.caricos.com/v/vw/2020_volkswagen_e-up/images/1920x1080/2020_volkswagen_e-up_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2020_volkswagen_e-up/images/1920x1080/2020_volkswagen_e-up_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen e-UP! | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-e-up-2020-1",
+      "slug": "volkswagen-e-up-2020-1",
+      "modelId": "m-volkswagen-e-up",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen e-UP! | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_e-up/images/1920x1080/2017_volkswagen_e-up_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_e-up/images/1920x1080/2017_volkswagen_e-up_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-e-up-2020-1",
+          "generationId": "gen-volkswagen-e-up-2020-1",
+          "url": "https://images.caricos.com/v/vw/2017_volkswagen_e-up/images/1920x1080/2017_volkswagen_e-up_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_e-up/images/1920x1080/2017_volkswagen_e-up_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen e-UP! | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-e-up-2020-0",
+      "slug": "volkswagen-e-up-2020-0",
+      "modelId": "m-volkswagen-e-up",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen e-up! | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_e-up/images/1920x1080/2014_volkswagen_e-up_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_e-up/images/1920x1080/2014_volkswagen_e-up_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-e-up-2020-0",
+          "generationId": "gen-volkswagen-e-up-2020-0",
+          "url": "https://images.caricos.com/v/vw/2014_volkswagen_e-up/images/1920x1080/2014_volkswagen_e-up_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_e-up/images/1920x1080/2014_volkswagen_e-up_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen e-up! | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

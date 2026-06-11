@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-grancabrio-fendi",
+  "slug": "maserati-grancabrio-fendi",
+  "name": "GranCabrio Fendi",
+  "fullName": "Maserati GranCabrio Fendi",
+  "brandId": "brand-maserati",
+  "bodyType": "convertible",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "endYear": 2012,
+  "isActive": false,
+  "description": "Maserati GranCabrio Fendi — convertible, produced since 2012.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_fendi/images/1920x1080/2012_maserati_grancabrio_fendi_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_fendi/images/1920x1080/2012_maserati_grancabrio_fendi_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-grancabrio-fendi-2012-0",
+      "slug": "maserati-grancabrio-fendi-2012-0",
+      "modelId": "m-maserati-grancabrio-fendi",
+      "brandId": "brand-maserati",
+      "codeName": "2012",
+      "generationNumber": 1,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2012 Maserati GranCabrio Fendi",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_fendi/images/1920x1080/2012_maserati_grancabrio_fendi_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_fendi/images/1920x1080/2012_maserati_grancabrio_fendi_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-grancabrio-fendi-2012-0",
+          "generationId": "gen-maserati-grancabrio-fendi-2012-0",
+          "url": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_fendi/images/1920x1080/2012_maserati_grancabrio_fendi_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_fendi/images/1920x1080/2012_maserati_grancabrio_fendi_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "2012 Maserati GranCabrio Fendi",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

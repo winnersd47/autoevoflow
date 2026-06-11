@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-speedtail",
+  "slug": "mclaren-speedtail",
+  "name": "Speedtail",
+  "fullName": "McLaren Speedtail",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "endYear": 2019,
+  "isActive": false,
+  "description": "McLaren Speedtail — sedan, produced since 2019.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2019_mclaren_speedtail/images/1920x1080/2019_mclaren_speedtail_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2019_mclaren_speedtail/images/1920x1080/2019_mclaren_speedtail_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-speedtail-2019-0",
+      "slug": "mclaren-speedtail-2019-0",
+      "modelId": "m-mclaren-speedtail",
+      "brandId": "brand-mclaren",
+      "codeName": "2019",
+      "generationNumber": 1,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2019 McLaren Speedtail",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2019_mclaren_speedtail/images/1920x1080/2019_mclaren_speedtail_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2019_mclaren_speedtail/images/1920x1080/2019_mclaren_speedtail_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-speedtail-2019-0",
+          "generationId": "gen-mclaren-speedtail-2019-0",
+          "url": "https://images.caricos.com/m/mclaren/2019_mclaren_speedtail/images/1920x1080/2019_mclaren_speedtail_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2019_mclaren_speedtail/images/1920x1080/2019_mclaren_speedtail_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2019,
+          "altText": "2019 McLaren Speedtail",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-x3-m-and-bmw-x4-m-with-m-performance-parts",
+  "slug": "bmw-x3-m-and-bmw-x4-m-with-m-performance-parts",
+  "name": "X3 M and BMW X4 M with M Performance Parts",
+  "fullName": "BMW X3 M and BMW X4 M with M Performance Parts",
+  "brandId": "brand-bmw",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW X3 M and BMW X4 M with M Performance Parts — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2020_bmw_x3_m_and_x4_m_porformance_parts/images/1920x1080/2020_bmw_x3_m_and_x4_m_porformance_parts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2020_bmw_x3_m_and_x4_m_porformance_parts/images/1920x1080/2020_bmw_x3_m_and_x4_m_porformance_parts_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-x3-m-and-bmw-x4-m-with-m-performance-parts-2020-0",
+      "slug": "bmw-x3-m-and-bmw-x4-m-with-m-performance-parts-2020-0",
+      "modelId": "m-bmw-x3-m-and-bmw-x4-m-with-m-performance-parts",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X3 M and BMW X4 M with M Performance Parts | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2020_bmw_x3_m_and_x4_m_porformance_parts/images/1920x1080/2020_bmw_x3_m_and_x4_m_porformance_parts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2020_bmw_x3_m_and_x4_m_porformance_parts/images/1920x1080/2020_bmw_x3_m_and_x4_m_porformance_parts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x3-m-and-bmw-x4-m-with-m-performance-parts-2020-0",
+          "generationId": "gen-bmw-x3-m-and-bmw-x4-m-with-m-performance-parts-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2020_bmw_x3_m_and_x4_m_porformance_parts/images/1920x1080/2020_bmw_x3_m_and_x4_m_porformance_parts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2020_bmw_x3_m_and_x4_m_porformance_parts/images/1920x1080/2020_bmw_x3_m_and_x4_m_porformance_parts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW X3 M and BMW X4 M with M Performance Parts | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

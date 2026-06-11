@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-ghibli-ermenegildo-zegna-edition-concept",
+  "slug": "maserati-ghibli-ermenegildo-zegna-edition-concept",
+  "name": "Ghibli Ermenegildo Zegna Edition Concept",
+  "fullName": "Maserati Ghibli Ermenegildo Zegna Edition Concept",
+  "brandId": "brand-maserati",
+  "bodyType": "concept",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "endYear": 2014,
+  "isActive": false,
+  "description": "Maserati Ghibli Ermenegildo Zegna Edition Concept — concept, produced since 2014.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_ghibli_ermenegildo_zegna_edition_concept/images/1920x1080/2014_maserati_ghibli_ermenegildo_zegna_edition_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserati_ghibli_ermenegildo_zegna_edition_concept/images/1920x1080/2014_maserati_ghibli_ermenegildo_zegna_edition_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-ghibli-ermenegildo-zegna-edition-concept-2014-0",
+      "slug": "maserati-ghibli-ermenegildo-zegna-edition-concept-2014-0",
+      "modelId": "m-maserati-ghibli-ermenegildo-zegna-edition-concept",
+      "brandId": "brand-maserati",
+      "codeName": "2014",
+      "generationNumber": 1,
+      "startYear": 2014,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2014 Maserati Ghibli Ermenegildo Zegna Edition Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_ghibli_ermenegildo_zegna_edition_concept/images/1920x1080/2014_maserati_ghibli_ermenegildo_zegna_edition_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserati_ghibli_ermenegildo_zegna_edition_concept/images/1920x1080/2014_maserati_ghibli_ermenegildo_zegna_edition_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-ghibli-ermenegildo-zegna-edition-concept-2014-0",
+          "generationId": "gen-maserati-ghibli-ermenegildo-zegna-edition-concept-2014-0",
+          "url": "https://images.caricos.com/m/maserati/2014_maserati_ghibli_ermenegildo_zegna_edition_concept/images/1920x1080/2014_maserati_ghibli_ermenegildo_zegna_edition_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_ghibli_ermenegildo_zegna_edition_concept/images/1920x1080/2014_maserati_ghibli_ermenegildo_zegna_edition_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2014,
+          "altText": "2014 Maserati Ghibli Ermenegildo Zegna Edition Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2014"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

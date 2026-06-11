@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-p1-prost",
+  "slug": "mclaren-p1-prost",
+  "name": "P1 Prost",
+  "fullName": "McLaren P1 Prost",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "endYear": 2015,
+  "isActive": false,
+  "description": "McLaren P1 Prost — sedan, produced since 2015.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_p1_prost/images/1920x1080/2015_mclaren_p1_prost_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_p1_prost/images/1920x1080/2015_mclaren_p1_prost_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-p1-prost-2015-0",
+      "slug": "mclaren-p1-prost-2015-0",
+      "modelId": "m-mclaren-p1-prost",
+      "brandId": "brand-mclaren",
+      "codeName": "2015",
+      "generationNumber": 1,
+      "startYear": 2015,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2015 McLaren P1 Prost",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_p1_prost/images/1920x1080/2015_mclaren_p1_prost_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_p1_prost/images/1920x1080/2015_mclaren_p1_prost_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-p1-prost-2015-0",
+          "generationId": "gen-mclaren-p1-prost-2015-0",
+          "url": "https://images.caricos.com/m/mclaren/2015_mclaren_p1_prost/images/1920x1080/2015_mclaren_p1_prost_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_p1_prost/images/1920x1080/2015_mclaren_p1_prost_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2015,
+          "altText": "2015 McLaren P1 Prost",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2015"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-honda-clarity-electric",
+  "slug": "honda-clarity-electric",
+  "name": "Clarity Electric",
+  "fullName": "Honda Clarity Electric",
+  "brandId": "brand-honda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda Clarity Electric — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2018_honda_clarity_electric/images/1920x1080/2018_honda_clarity_electric_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2018_honda_clarity_electric/images/1920x1080/2018_honda_clarity_electric_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-clarity-electric-2020-0",
+      "slug": "honda-clarity-electric-2020-0",
+      "modelId": "m-honda-clarity-electric",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Clarity Electric | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2018_honda_clarity_electric/images/1920x1080/2018_honda_clarity_electric_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2018_honda_clarity_electric/images/1920x1080/2018_honda_clarity_electric_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-clarity-electric-2020-0",
+          "generationId": "gen-honda-clarity-electric-2020-0",
+          "url": "https://images.caricos.com/h/honda/2018_honda_clarity_electric/images/1920x1080/2018_honda_clarity_electric_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2018_honda_clarity_electric/images/1920x1080/2018_honda_clarity_electric_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Clarity Electric | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-subaru-wrx-sti",
+  "slug": "subaru-wrx-sti",
+  "name": "WRX STI",
+  "fullName": "Subaru WRX STI",
+  "brandId": "brand-subaru",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Subaru WRX STI — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/s/subaru/2015_subaru_wrx_sti/images/1920x1080/2015_subaru_wrx_sti_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/s/subaru/2015_subaru_wrx_sti/images/1920x1080/2015_subaru_wrx_sti_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "subaru"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-subaru-wrx-sti-2020-0",
+      "slug": "subaru-wrx-sti-2020-0",
+      "modelId": "m-subaru-wrx-sti",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru WRX STI | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2015_subaru_wrx_sti/images/1920x1080/2015_subaru_wrx_sti_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2015_subaru_wrx_sti/images/1920x1080/2015_subaru_wrx_sti_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-wrx-sti-2020-0",
+          "generationId": "gen-subaru-wrx-sti-2020-0",
+          "url": "https://images.caricos.com/s/subaru/2015_subaru_wrx_sti/images/1920x1080/2015_subaru_wrx_sti_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2015_subaru_wrx_sti/images/1920x1080/2015_subaru_wrx_sti_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru WRX STI | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

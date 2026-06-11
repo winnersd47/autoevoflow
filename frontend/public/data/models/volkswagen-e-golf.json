@@ -1,0 +1,164 @@
+{
+  "id": "m-volkswagen-e-golf",
+  "slug": "volkswagen-e-golf",
+  "name": "e-Golf",
+  "fullName": "Volkswagen e-Golf",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen e-Golf — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_e-golf/images/1920x1080/2017_volkswagen_e-golf_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_e-golf/images/1920x1080/2017_volkswagen_e-golf_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-e-golf-2020-0",
+      "slug": "volkswagen-e-golf-2020-0",
+      "modelId": "m-volkswagen-e-golf",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen e-Golf | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_e-golf/images/1920x1080/2017_volkswagen_e-golf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_e-golf/images/1920x1080/2017_volkswagen_e-golf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-e-golf-2020-0",
+          "generationId": "gen-volkswagen-e-golf-2020-0",
+          "url": "https://images.caricos.com/v/vw/2017_volkswagen_e-golf/images/1920x1080/2017_volkswagen_e-golf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_e-golf/images/1920x1080/2017_volkswagen_e-golf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen e-Golf | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-e-golf-2020-1",
+      "slug": "volkswagen-e-golf-2020-1",
+      "modelId": "m-volkswagen-e-golf",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen e-Golf | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_e-golf/images/1920x1080/2016_volkswagen_e-golf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2016_volkswagen_e-golf/images/1920x1080/2016_volkswagen_e-golf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-e-golf-2020-1",
+          "generationId": "gen-volkswagen-e-golf-2020-1",
+          "url": "https://images.caricos.com/v/vw/2016_volkswagen_e-golf/images/1920x1080/2016_volkswagen_e-golf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_e-golf/images/1920x1080/2016_volkswagen_e-golf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen e-Golf | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-e-golf-2020-2",
+      "slug": "volkswagen-e-golf-2020-2",
+      "modelId": "m-volkswagen-e-golf",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen e-Golf | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_e-golf/images/1920x1080/2015_volkswagen_e-golf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2015_volkswagen_e-golf/images/1920x1080/2015_volkswagen_e-golf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-e-golf-2020-2",
+          "generationId": "gen-volkswagen-e-golf-2020-2",
+          "url": "https://images.caricos.com/v/vw/2015_volkswagen_e-golf/images/1920x1080/2015_volkswagen_e-golf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_e-golf/images/1920x1080/2015_volkswagen_e-golf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen e-Golf | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

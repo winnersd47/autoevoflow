@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-650s-coupe-mso-concept",
+  "slug": "mclaren-650s-coupe-mso-concept",
+  "name": "650S Coupe MSO Concept",
+  "fullName": "McLaren 650S Coupe MSO Concept",
+  "brandId": "brand-mclaren",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "endYear": 2014,
+  "isActive": false,
+  "description": "McLaren 650S Coupe MSO Concept — coupe, produced since 2014.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2014_mclaren_650s_mso_concept/images/1920x1080/2014_mclaren_650s_mso_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2014_mclaren_650s_mso_concept/images/1920x1080/2014_mclaren_650s_mso_concept_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-650s-coupe-mso-concept-2014-0",
+      "slug": "mclaren-650s-coupe-mso-concept-2014-0",
+      "modelId": "m-mclaren-650s-coupe-mso-concept",
+      "brandId": "brand-mclaren",
+      "codeName": "2014",
+      "generationNumber": 1,
+      "startYear": 2014,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2014 McLaren 650S Coupe MSO Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2014_mclaren_650s_mso_concept/images/1920x1080/2014_mclaren_650s_mso_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2014_mclaren_650s_mso_concept/images/1920x1080/2014_mclaren_650s_mso_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-650s-coupe-mso-concept-2014-0",
+          "generationId": "gen-mclaren-650s-coupe-mso-concept-2014-0",
+          "url": "https://images.caricos.com/m/mclaren/2014_mclaren_650s_mso_concept/images/1920x1080/2014_mclaren_650s_mso_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2014_mclaren_650s_mso_concept/images/1920x1080/2014_mclaren_650s_mso_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2014,
+          "altText": "2014 McLaren 650S Coupe MSO Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2014"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-z4-final-edition",
+  "slug": "bmw-z4-final-edition",
+  "name": "Z4 Final Edition",
+  "fullName": "BMW Z4 Final Edition",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW Z4 Final Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2026_bmw_z4_final_edition/images/1920x1080/2026_bmw_z4_final_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2026_bmw_z4_final_edition/images/1920x1080/2026_bmw_z4_final_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-z4-final-edition-2020-0",
+      "slug": "bmw-z4-final-edition-2020-0",
+      "modelId": "m-bmw-z4-final-edition",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW Z4 Final Edition | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2026_bmw_z4_final_edition/images/1920x1080/2026_bmw_z4_final_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2026_bmw_z4_final_edition/images/1920x1080/2026_bmw_z4_final_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-z4-final-edition-2020-0",
+          "generationId": "gen-bmw-z4-final-edition-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2026_bmw_z4_final_edition/images/1920x1080/2026_bmw_z4_final_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2026_bmw_z4_final_edition/images/1920x1080/2026_bmw_z4_final_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW Z4 Final Edition | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

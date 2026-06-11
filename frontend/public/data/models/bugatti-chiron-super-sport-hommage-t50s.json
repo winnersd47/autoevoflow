@@ -1,0 +1,72 @@
+{
+  "id": "m-bugatti-chiron-super-sport-hommage-t50s",
+  "slug": "bugatti-chiron-super-sport-hommage-t50s",
+  "name": "Chiron Super Sport Hommage T50S",
+  "fullName": "Bugatti Chiron Super Sport Hommage T50S",
+  "brandId": "brand-bugatti",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bugatti Chiron Super Sport Hommage T50S — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bugatti/2024_bugatti_chiron_super_sport_hommage_t50s/images/1920x1080/2024_bugatti_chiron_super_sport_hommage_t50s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bugatti/2024_bugatti_chiron_super_sport_hommage_t50s/images/1920x1080/2024_bugatti_chiron_super_sport_hommage_t50s_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bugatti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bugatti-chiron-super-sport-hommage-t50s-2020-0",
+      "slug": "bugatti-chiron-super-sport-hommage-t50s-2020-0",
+      "modelId": "m-bugatti-chiron-super-sport-hommage-t50s",
+      "brandId": "brand-bugatti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bugatti Chiron Super Sport Hommage T50S | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bugatti/2024_bugatti_chiron_super_sport_hommage_t50s/images/1920x1080/2024_bugatti_chiron_super_sport_hommage_t50s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bugatti/2024_bugatti_chiron_super_sport_hommage_t50s/images/1920x1080/2024_bugatti_chiron_super_sport_hommage_t50s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bugatti-chiron-super-sport-hommage-t50s-2020-0",
+          "generationId": "gen-bugatti-chiron-super-sport-hommage-t50s-2020-0",
+          "url": "https://images.caricos.com/b/bugatti/2024_bugatti_chiron_super_sport_hommage_t50s/images/1920x1080/2024_bugatti_chiron_super_sport_hommage_t50s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bugatti/2024_bugatti_chiron_super_sport_hommage_t50s/images/1920x1080/2024_bugatti_chiron_super_sport_hommage_t50s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bugatti Chiron Super Sport Hommage T50S | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

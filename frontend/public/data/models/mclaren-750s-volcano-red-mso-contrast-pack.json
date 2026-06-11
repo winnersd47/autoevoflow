@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-750s-volcano-red-mso-contrast-pack",
+  "slug": "mclaren-750s-volcano-red-mso-contrast-pack",
+  "name": "750S Volcano Red MSO Contrast Pack",
+  "fullName": "McLaren 750S Volcano Red MSO Contrast Pack",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "McLaren 750S Volcano Red MSO Contrast Pack — sedan, produced since 2025.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2025_mclaren_750s_volcano_red_mso_contrast_pack/images/1920x1080/2025_mclaren_750s_volcano_red_mso_contrast_pack_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2025_mclaren_750s_volcano_red_mso_contrast_pack/images/1920x1080/2025_mclaren_750s_volcano_red_mso_contrast_pack_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-750s-volcano-red-mso-contrast-pack-2025-0",
+      "slug": "mclaren-750s-volcano-red-mso-contrast-pack-2025-0",
+      "modelId": "m-mclaren-750s-volcano-red-mso-contrast-pack",
+      "brandId": "brand-mclaren",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 McLaren 750S Volcano Red MSO Contrast Pack",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2025_mclaren_750s_volcano_red_mso_contrast_pack/images/1920x1080/2025_mclaren_750s_volcano_red_mso_contrast_pack_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2025_mclaren_750s_volcano_red_mso_contrast_pack/images/1920x1080/2025_mclaren_750s_volcano_red_mso_contrast_pack_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-750s-volcano-red-mso-contrast-pack-2025-0",
+          "generationId": "gen-mclaren-750s-volcano-red-mso-contrast-pack-2025-0",
+          "url": "https://images.caricos.com/m/mclaren/2025_mclaren_750s_volcano_red_mso_contrast_pack/images/1920x1080/2025_mclaren_750s_volcano_red_mso_contrast_pack_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2025_mclaren_750s_volcano_red_mso_contrast_pack/images/1920x1080/2025_mclaren_750s_volcano_red_mso_contrast_pack_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 McLaren 750S Volcano Red MSO Contrast Pack",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

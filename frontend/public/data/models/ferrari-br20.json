@@ -1,0 +1,72 @@
+{
+  "id": "m-ferrari-br20",
+  "slug": "ferrari-br20",
+  "name": "BR20",
+  "fullName": "Ferrari BR20",
+  "brandId": "brand-ferrari",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ferrari BR20 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ferrari/2021_ferrari_br20/images/1920x1080/2021_ferrari_br20_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ferrari/2021_ferrari_br20/images/1920x1080/2021_ferrari_br20_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ferrari"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ferrari-br20-2020-0",
+      "slug": "ferrari-br20-2020-0",
+      "modelId": "m-ferrari-br20",
+      "brandId": "brand-ferrari",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ferrari BR20 | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2021_ferrari_br20/images/1920x1080/2021_ferrari_br20_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2021_ferrari_br20/images/1920x1080/2021_ferrari_br20_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ferrari-br20-2020-0",
+          "generationId": "gen-ferrari-br20-2020-0",
+          "url": "https://images.caricos.com/f/ferrari/2021_ferrari_br20/images/1920x1080/2021_ferrari_br20_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ferrari/2021_ferrari_br20/images/1920x1080/2021_ferrari_br20_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ferrari BR20 | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

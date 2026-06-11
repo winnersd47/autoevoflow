@@ -1,0 +1,72 @@
+{
+  "id": "m-aston_martin-dbx707-formula-1-official-fia-medical-car",
+  "slug": "aston_martin-dbx707-formula-1-official-fia-medical-car",
+  "name": "DBX707 Formula 1 Official FIA Medical Car",
+  "fullName": "Aston Martin DBX707 Formula 1 Official FIA Medical Car",
+  "brandId": "brand-aston_martin",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Aston Martin DBX707 Formula 1 Official FIA Medical Car — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2023_aston_martin_dbx707_f1_med_car/images/1920x1080/2023_aston_martin_dbx707_f1_med_car_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/aston_martin/2023_aston_martin_dbx707_f1_med_car/images/1920x1080/2023_aston_martin_dbx707_f1_med_car_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "aston-martin"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-aston_martin-dbx707-formula-1-official-fia-medical-car-2020-0",
+      "slug": "aston_martin-dbx707-formula-1-official-fia-medical-car-2020-0",
+      "modelId": "m-aston_martin-dbx707-formula-1-official-fia-medical-car",
+      "brandId": "brand-aston_martin",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Aston Martin DBX707 Formula 1 Official FIA Medical Car | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2023_aston_martin_dbx707_f1_med_car/images/1920x1080/2023_aston_martin_dbx707_f1_med_car_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/aston_martin/2023_aston_martin_dbx707_f1_med_car/images/1920x1080/2023_aston_martin_dbx707_f1_med_car_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-aston_martin-dbx707-formula-1-official-fia-medical-car-2020-0",
+          "generationId": "gen-aston_martin-dbx707-formula-1-official-fia-medical-car-2020-0",
+          "url": "https://images.caricos.com/a/aston_martin/2023_aston_martin_dbx707_f1_med_car/images/1920x1080/2023_aston_martin_dbx707_f1_med_car_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2023_aston_martin_dbx707_f1_med_car/images/1920x1080/2023_aston_martin_dbx707_f1_med_car_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Aston Martin DBX707 Formula 1 Official FIA Medical Car | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

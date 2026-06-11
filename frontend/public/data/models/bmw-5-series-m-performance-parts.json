@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-5-series-m-performance-parts",
+  "slug": "bmw-5-series-m-performance-parts",
+  "name": "5 Series M Performance Parts",
+  "fullName": "BMW 5 Series M Performance Parts",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW 5 Series M Performance Parts — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_5-series_m_performance_parts/images/1920x1080/2021_bmw_5-series_m_performance_parts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2021_bmw_5-series_m_performance_parts/images/1920x1080/2021_bmw_5-series_m_performance_parts_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-5-series-m-performance-parts-2020-0",
+      "slug": "bmw-5-series-m-performance-parts-2020-0",
+      "modelId": "m-bmw-5-series-m-performance-parts",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW 5 Series M Performance Parts | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_5-series_m_performance_parts/images/1920x1080/2021_bmw_5-series_m_performance_parts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2021_bmw_5-series_m_performance_parts/images/1920x1080/2021_bmw_5-series_m_performance_parts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-5-series-m-performance-parts-2020-0",
+          "generationId": "gen-bmw-5-series-m-performance-parts-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2021_bmw_5-series_m_performance_parts/images/1920x1080/2021_bmw_5-series_m_performance_parts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_5-series_m_performance_parts/images/1920x1080/2021_bmw_5-series_m_performance_parts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW 5 Series M Performance Parts | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "id": "m-nissan-370z-nismo",
+  "slug": "nissan-370z-nismo",
+  "name": "370Z Nismo",
+  "fullName": "Nissan 370Z Nismo",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan 370Z Nismo — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_370z_nismo/images/1920x1080/2015_nissan_370z_nismo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_370z_nismo/images/1920x1080/2015_nissan_370z_nismo_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-370z-nismo-2020-0",
+      "slug": "nissan-370z-nismo-2020-0",
+      "modelId": "m-nissan-370z-nismo",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan 370Z NISMO | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_370z_nismo/images/1920x1080/2016_nissan_370z_nismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2016_nissan_370z_nismo/images/1920x1080/2016_nissan_370z_nismo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-370z-nismo-2020-0",
+          "generationId": "gen-nissan-370z-nismo-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2016_nissan_370z_nismo/images/1920x1080/2016_nissan_370z_nismo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_370z_nismo/images/1920x1080/2016_nissan_370z_nismo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan 370Z NISMO | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-370z-nismo-2020-1",
+      "slug": "nissan-370z-nismo-2020-1",
+      "modelId": "m-nissan-370z-nismo",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan 370Z NISMO | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_370z_nismo/images/1920x1080/2014_nissan_370z_nismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2014_nissan_370z_nismo/images/1920x1080/2014_nissan_370z_nismo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-370z-nismo-2020-1",
+          "generationId": "gen-nissan-370z-nismo-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2014_nissan_370z_nismo/images/1920x1080/2014_nissan_370z_nismo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_370z_nismo/images/1920x1080/2014_nissan_370z_nismo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan 370Z NISMO | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-370z-nismo-2020-0",
+      "slug": "nissan-370z-nismo-2020-0",
+      "modelId": "m-nissan-370z-nismo",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan 370Z Nismo | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_370z_nismo/images/1920x1080/2015_nissan_370z_nismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_370z_nismo/images/1920x1080/2015_nissan_370z_nismo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-370z-nismo-2020-0",
+          "generationId": "gen-nissan-370z-nismo-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_370z_nismo/images/1920x1080/2015_nissan_370z_nismo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_370z_nismo/images/1920x1080/2015_nissan_370z_nismo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan 370Z Nismo | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-370z-nismo-2020-1",
+      "slug": "nissan-370z-nismo-2020-1",
+      "modelId": "m-nissan-370z-nismo",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan 370Z Nismo | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2010_nissan_370z_nismo/images/1920x1080/2010_nissan_370z_nismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2010_nissan_370z_nismo/images/1920x1080/2010_nissan_370z_nismo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-370z-nismo-2020-1",
+          "generationId": "gen-nissan-370z-nismo-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2010_nissan_370z_nismo/images/1920x1080/2010_nissan_370z_nismo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2010_nissan_370z_nismo/images/1920x1080/2010_nissan_370z_nismo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan 370Z Nismo | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

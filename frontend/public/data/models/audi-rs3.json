@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-rs3",
+  "slug": "audi-rs3",
+  "name": "RS3",
+  "fullName": "Audi RS3",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi RS3 (2011–present) is the most extreme version of the A3, featuring a 2.5-litre five-cylinder turbocharged engine — the most powerful five-cylinder in production. The 8P/8V/8Y generations produced 340–400 hp with a distinctive five-cylinder howl that has become the RS3's sonic signature.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-rs3-1",
+      "slug": "audi-rs3-gen1",
+      "modelId": "m-audi-rs3",
+      "brandId": "brand-audi",
+      "codeName": "8P/8V/8Y",
+      "generationNumber": 1,
+      "startYear": 2011,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi RS3 (2011–present) is the most extreme version of the A3, featuring a 2.5-litre five-cylinder turbocharged engine — the most powerful five-cylinder in production. The 8P/8V/8Y generations produced 340–400 hp with a distinctive five-cylinder howl that has become the RS3's sonic signature.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

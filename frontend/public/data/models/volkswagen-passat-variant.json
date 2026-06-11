@@ -1,0 +1,150 @@
+{
+  "id": "m-volkswagen-passat-variant",
+  "slug": "volkswagen-passat-variant",
+  "name": "Passat Variant",
+  "fullName": "Volkswagen Passat Variant",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Passat Variant — sedan, produced since 2024.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2024_volkswagen_passat_variant/images/1920x1080/2024_volkswagen_passat_variant_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2024_volkswagen_passat_variant/images/1920x1080/2024_volkswagen_passat_variant_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-passat-variant-2024-0",
+      "slug": "volkswagen-passat-variant-2024-0",
+      "modelId": "m-volkswagen-passat-variant",
+      "brandId": "brand-volkswagen",
+      "codeName": "2024",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2024 Passat Variant",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-passat-variant-2024-1",
+      "slug": "volkswagen-passat-variant-2024-1",
+      "modelId": "m-volkswagen-passat-variant",
+      "brandId": "brand-volkswagen",
+      "codeName": "2024",
+      "generationNumber": 2,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat Variant | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2024_volkswagen_passat_variant/images/1920x1080/2024_volkswagen_passat_variant_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2024_volkswagen_passat_variant/images/1920x1080/2024_volkswagen_passat_variant_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-variant-2024-1",
+          "generationId": "gen-volkswagen-passat-variant-2024-1",
+          "url": "https://images.caricos.com/v/vw/2024_volkswagen_passat_variant/images/1920x1080/2024_volkswagen_passat_variant_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2024_volkswagen_passat_variant/images/1920x1080/2024_volkswagen_passat_variant_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "Volkswagen Passat Variant | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-passat-variant-2024-2",
+      "slug": "volkswagen-passat-variant-2024-2",
+      "modelId": "m-volkswagen-passat-variant",
+      "brandId": "brand-volkswagen",
+      "codeName": "2024",
+      "generationNumber": 3,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat Variant | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_passat_variant/images/1920x1080/2015_volkswagen_passat_variant_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2015_volkswagen_passat_variant/images/1920x1080/2015_volkswagen_passat_variant_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-variant-2024-2",
+          "generationId": "gen-volkswagen-passat-variant-2024-2",
+          "url": "https://images.caricos.com/v/vw/2015_volkswagen_passat_variant/images/1920x1080/2015_volkswagen_passat_variant_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_passat_variant/images/1920x1080/2015_volkswagen_passat_variant_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "Volkswagen Passat Variant | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

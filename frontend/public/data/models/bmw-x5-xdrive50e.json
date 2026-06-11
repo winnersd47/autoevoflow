@@ -1,0 +1,104 @@
+{
+  "id": "m-bmw-x5-xdrive50e",
+  "slug": "bmw-x5-xdrive50e",
+  "name": "X5 xDrive50e",
+  "fullName": "BMW X5 xDrive50e",
+  "brandId": "brand-bmw",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW X5 xDrive50e — suv, produced since 2024.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2024_bmw_x5_xdrive50e/images/1920x1080/2024_bmw_x5_xdrive50e_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2024_bmw_x5_xdrive50e/images/1920x1080/2024_bmw_x5_xdrive50e_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-x5-xdrive50e-2024-0",
+      "slug": "bmw-x5-xdrive50e-2024-0",
+      "modelId": "m-bmw-x5-xdrive50e",
+      "brandId": "brand-bmw",
+      "codeName": "2024",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2024 X5 xDrive50e",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-x5-xdrive50e-2024-1",
+      "slug": "bmw-x5-xdrive50e-2024-1",
+      "modelId": "m-bmw-x5-xdrive50e",
+      "brandId": "brand-bmw",
+      "codeName": "2024",
+      "generationNumber": 2,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X5 xDrive50e | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2024_bmw_x5_xdrive50e/images/1920x1080/2024_bmw_x5_xdrive50e_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2024_bmw_x5_xdrive50e/images/1920x1080/2024_bmw_x5_xdrive50e_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x5-xdrive50e-2024-1",
+          "generationId": "gen-bmw-x5-xdrive50e-2024-1",
+          "url": "https://images.caricos.com/b/bmw/2024_bmw_x5_xdrive50e/images/1920x1080/2024_bmw_x5_xdrive50e_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2024_bmw_x5_xdrive50e/images/1920x1080/2024_bmw_x5_xdrive50e_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "BMW X5 xDrive50e | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

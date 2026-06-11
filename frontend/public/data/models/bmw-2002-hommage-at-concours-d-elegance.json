@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-2002-hommage-at-concours-d-elegance",
+  "slug": "bmw-2002-hommage-at-concours-d-elegance",
+  "name": "2002 Hommage at Concours d’Elegance",
+  "fullName": "BMW 2002 Hommage at Concours d’Elegance",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "endYear": 2002,
+  "isActive": false,
+  "description": "BMW 2002 Hommage at Concours d’Elegance — sedan, produced since 2002.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_2002_hommage_concours_d_elegance/images/1920x1080/2016_bmw_2002_hommage_concours_d_elegance_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2016_bmw_2002_hommage_concours_d_elegance/images/1920x1080/2016_bmw_2002_hommage_concours_d_elegance_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-2002-hommage-at-concours-d-elegance-2002-0",
+      "slug": "bmw-2002-hommage-at-concours-d-elegance-2002-0",
+      "modelId": "m-bmw-2002-hommage-at-concours-d-elegance",
+      "brandId": "brand-bmw",
+      "codeName": "2002",
+      "generationNumber": 1,
+      "startYear": 2002,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW 2002 Hommage at Concours d’Elegance | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_2002_hommage_concours_d_elegance/images/1920x1080/2016_bmw_2002_hommage_concours_d_elegance_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2016_bmw_2002_hommage_concours_d_elegance/images/1920x1080/2016_bmw_2002_hommage_concours_d_elegance_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-2002-hommage-at-concours-d-elegance-2002-0",
+          "generationId": "gen-bmw-2002-hommage-at-concours-d-elegance-2002-0",
+          "url": "https://images.caricos.com/b/bmw/2016_bmw_2002_hommage_concours_d_elegance/images/1920x1080/2016_bmw_2002_hommage_concours_d_elegance_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_2002_hommage_concours_d_elegance/images/1920x1080/2016_bmw_2002_hommage_concours_d_elegance_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2002,
+          "altText": "BMW 2002 Hommage at Concours d’Elegance | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2002"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

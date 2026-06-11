@@ -1,0 +1,72 @@
+{
+  "id": "m-nissan-zeod-rc",
+  "slug": "nissan-zeod-rc",
+  "name": "ZEOD RC",
+  "fullName": "Nissan ZEOD RC",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan ZEOD RC — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_zeod_rc/images/1920x1080/2014_nissan_zeod_rc_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2014_nissan_zeod_rc/images/1920x1080/2014_nissan_zeod_rc_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-zeod-rc-2020-0",
+      "slug": "nissan-zeod-rc-2020-0",
+      "modelId": "m-nissan-zeod-rc",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan ZEOD RC | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_zeod_rc/images/1920x1080/2014_nissan_zeod_rc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2014_nissan_zeod_rc/images/1920x1080/2014_nissan_zeod_rc_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-zeod-rc-2020-0",
+          "generationId": "gen-nissan-zeod-rc-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2014_nissan_zeod_rc/images/1920x1080/2014_nissan_zeod_rc_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_zeod_rc/images/1920x1080/2014_nissan_zeod_rc_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan ZEOD RC | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

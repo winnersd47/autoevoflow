@@ -1,0 +1,210 @@
+{
+  "id": "m-lincoln-navigator",
+  "slug": "lincoln-navigator",
+  "name": "Navigator",
+  "fullName": "Lincoln Navigator",
+  "brandId": "brand-lincoln",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lincoln Navigator — suv, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/l/lincoln/2025_lincoln_navigator/images/1920x1080/2025_lincoln_navigator_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lincoln/2025_lincoln_navigator/images/1920x1080/2025_lincoln_navigator_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "lincoln"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lincoln-navigator-2020-0",
+      "slug": "lincoln-navigator-2020-0",
+      "modelId": "m-lincoln-navigator",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln Navigator | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2025_lincoln_navigator/images/1920x1080/2025_lincoln_navigator_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2025_lincoln_navigator/images/1920x1080/2025_lincoln_navigator_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-navigator-2020-0",
+          "generationId": "gen-lincoln-navigator-2020-0",
+          "url": "https://images.caricos.com/l/lincoln/2025_lincoln_navigator/images/1920x1080/2025_lincoln_navigator_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2025_lincoln_navigator/images/1920x1080/2025_lincoln_navigator_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln Navigator | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lincoln-navigator-2020-1",
+      "slug": "lincoln-navigator-2020-1",
+      "modelId": "m-lincoln-navigator",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln Navigator | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2022_lincoln_navigator/images/1920x1080/2022_lincoln_navigator_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2022_lincoln_navigator/images/1920x1080/2022_lincoln_navigator_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-navigator-2020-1",
+          "generationId": "gen-lincoln-navigator-2020-1",
+          "url": "https://images.caricos.com/l/lincoln/2022_lincoln_navigator/images/1920x1080/2022_lincoln_navigator_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2022_lincoln_navigator/images/1920x1080/2022_lincoln_navigator_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln Navigator | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lincoln-navigator-2020-2",
+      "slug": "lincoln-navigator-2020-2",
+      "modelId": "m-lincoln-navigator",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln Navigator | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2018_lincoln_navigator/images/1920x1080/2018_lincoln_navigator_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2018_lincoln_navigator/images/1920x1080/2018_lincoln_navigator_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-navigator-2020-2",
+          "generationId": "gen-lincoln-navigator-2020-2",
+          "url": "https://images.caricos.com/l/lincoln/2018_lincoln_navigator/images/1920x1080/2018_lincoln_navigator_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2018_lincoln_navigator/images/1920x1080/2018_lincoln_navigator_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln Navigator | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lincoln-navigator-2020-3",
+      "slug": "lincoln-navigator-2020-3",
+      "modelId": "m-lincoln-navigator",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln Navigator | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2015_lincoln_navigator/images/1920x1080/2015_lincoln_navigator_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2015_lincoln_navigator/images/1920x1080/2015_lincoln_navigator_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-navigator-2020-3",
+          "generationId": "gen-lincoln-navigator-2020-3",
+          "url": "https://images.caricos.com/l/lincoln/2015_lincoln_navigator/images/1920x1080/2015_lincoln_navigator_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2015_lincoln_navigator/images/1920x1080/2015_lincoln_navigator_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln Navigator | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

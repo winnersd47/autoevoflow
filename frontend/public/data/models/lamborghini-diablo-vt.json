@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-diablo-vt",
+  "slug": "lamborghini-diablo-vt",
+  "name": "Diablo VT",
+  "fullName": "Lamborghini Diablo VT",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Diablo VT — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1993_lamborghini_diablo_vt/images/1920x1080/1993_lamborghini_diablo_vt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/1993_lamborghini_diablo_vt/images/1920x1080/1993_lamborghini_diablo_vt_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-diablo-vt-2020-0",
+      "slug": "lamborghini-diablo-vt-2020-0",
+      "modelId": "m-lamborghini-diablo-vt",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Diablo VT | 1993MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1993_lamborghini_diablo_vt/images/1920x1080/1993_lamborghini_diablo_vt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/1993_lamborghini_diablo_vt/images/1920x1080/1993_lamborghini_diablo_vt_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-diablo-vt-2020-0",
+          "generationId": "gen-lamborghini-diablo-vt-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/1993_lamborghini_diablo_vt/images/1920x1080/1993_lamborghini_diablo_vt_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1993_lamborghini_diablo_vt/images/1920x1080/1993_lamborghini_diablo_vt_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Diablo VT | 1993MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

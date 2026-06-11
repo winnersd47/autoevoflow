@@ -1,0 +1,72 @@
+{
+  "id": "m-aston_martin-db11-v8",
+  "slug": "aston_martin-db11-v8",
+  "name": "DB11 V8",
+  "fullName": "Aston Martin DB11 V8",
+  "brandId": "brand-aston_martin",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Aston Martin DB11 V8 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2018_aston_martin_db11_v8/images/1920x1080/2018_aston_martin_db11_v8_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/aston_martin/2018_aston_martin_db11_v8/images/1920x1080/2018_aston_martin_db11_v8_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "aston-martin"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-aston_martin-db11-v8-2020-0",
+      "slug": "aston_martin-db11-v8-2020-0",
+      "modelId": "m-aston_martin-db11-v8",
+      "brandId": "brand-aston_martin",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Aston Martin DB11 V8 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2018_aston_martin_db11_v8/images/1920x1080/2018_aston_martin_db11_v8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/aston_martin/2018_aston_martin_db11_v8/images/1920x1080/2018_aston_martin_db11_v8_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-aston_martin-db11-v8-2020-0",
+          "generationId": "gen-aston_martin-db11-v8-2020-0",
+          "url": "https://images.caricos.com/a/aston_martin/2018_aston_martin_db11_v8/images/1920x1080/2018_aston_martin_db11_v8_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/aston_martin/2018_aston_martin_db11_v8/images/1920x1080/2018_aston_martin_db11_v8_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Aston Martin DB11 V8 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

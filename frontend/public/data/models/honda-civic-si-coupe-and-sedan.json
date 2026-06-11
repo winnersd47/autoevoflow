@@ -1,0 +1,72 @@
+{
+  "id": "m-honda-civic-si-coupe-and-sedan",
+  "slug": "honda-civic-si-coupe-and-sedan",
+  "name": "Civic Si Coupe and Sedan",
+  "fullName": "Honda Civic Si Coupe and Sedan",
+  "brandId": "brand-honda",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda Civic Si Coupe and Sedan — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_si/images/1920x1080/2020_honda_civic_si_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2020_honda_civic_si/images/1920x1080/2020_honda_civic_si_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-civic-si-coupe-and-sedan-2020-0",
+      "slug": "honda-civic-si-coupe-and-sedan-2020-0",
+      "modelId": "m-honda-civic-si-coupe-and-sedan",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Si Coupe and Sedan | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_si/images/1920x1080/2020_honda_civic_si_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2020_honda_civic_si/images/1920x1080/2020_honda_civic_si_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-si-coupe-and-sedan-2020-0",
+          "generationId": "gen-honda-civic-si-coupe-and-sedan-2020-0",
+          "url": "https://images.caricos.com/h/honda/2020_honda_civic_si/images/1920x1080/2020_honda_civic_si_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_si/images/1920x1080/2020_honda_civic_si_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Si Coupe and Sedan | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "m-skoda-octavia",
+  "slug": "skoda-octavia",
+  "name": "Octavia",
+  "fullName": "Skoda Octavia",
+  "brandId": "brand-skoda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Skoda Octavia (1996-present) consistently delivers more space than any VW Group equivalent at a lower price. It is the best-selling car in several Central European markets.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "skoda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-skoda-octavia-1",
+      "slug": "skoda-octavia-gen1",
+      "modelId": "m-skoda-octavia",
+      "brandId": "brand-skoda",
+      "codeName": "Octavia",
+      "generationNumber": 1,
+      "startYear": 1996,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Skoda Octavia (1996-present) consistently delivers more space than any VW Group equivalent at a lower price. It is the best-selling car in several Central European markets.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

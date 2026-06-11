@@ -1,0 +1,394 @@
+{
+  "id": "m-nissan-leaf",
+  "slug": "nissan-leaf",
+  "name": "Leaf",
+  "fullName": "Nissan Leaf",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Leaf — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2011_nissan_leaf/images/1920x1080/2011_nissan_leaf_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2011_nissan_leaf/images/1920x1080/2011_nissan_leaf_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-leaf-2020-0",
+      "slug": "nissan-leaf-2020-0",
+      "modelId": "m-nissan-leaf",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan LEAF | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2026_nissan_leaf/images/1920x1080/2026_nissan_leaf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2026_nissan_leaf/images/1920x1080/2026_nissan_leaf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-leaf-2020-0",
+          "generationId": "gen-nissan-leaf-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2026_nissan_leaf/images/1920x1080/2026_nissan_leaf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2026_nissan_leaf/images/1920x1080/2026_nissan_leaf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan LEAF | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-leaf-2020-1",
+      "slug": "nissan-leaf-2020-1",
+      "modelId": "m-nissan-leaf",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan LEAF | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2021_nissan_leaf/images/1920x1080/2021_nissan_leaf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2021_nissan_leaf/images/1920x1080/2021_nissan_leaf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-leaf-2020-1",
+          "generationId": "gen-nissan-leaf-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2021_nissan_leaf/images/1920x1080/2021_nissan_leaf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2021_nissan_leaf/images/1920x1080/2021_nissan_leaf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan LEAF | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-leaf-2020-2",
+      "slug": "nissan-leaf-2020-2",
+      "modelId": "m-nissan-leaf",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan LEAF | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_leaf/images/1920x1080/2018_nissan_leaf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2018_nissan_leaf/images/1920x1080/2018_nissan_leaf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-leaf-2020-2",
+          "generationId": "gen-nissan-leaf-2020-2",
+          "url": "https://images.caricos.com/n/nissan/2018_nissan_leaf/images/1920x1080/2018_nissan_leaf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2018_nissan_leaf/images/1920x1080/2018_nissan_leaf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan LEAF | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-leaf-2020-3",
+      "slug": "nissan-leaf-2020-3",
+      "modelId": "m-nissan-leaf",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan LEAF | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_leaf/images/1920x1080/2016_nissan_leaf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2016_nissan_leaf/images/1920x1080/2016_nissan_leaf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-leaf-2020-3",
+          "generationId": "gen-nissan-leaf-2020-3",
+          "url": "https://images.caricos.com/n/nissan/2016_nissan_leaf/images/1920x1080/2016_nissan_leaf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2016_nissan_leaf/images/1920x1080/2016_nissan_leaf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan LEAF | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-leaf-2020-4",
+      "slug": "nissan-leaf-2020-4",
+      "modelId": "m-nissan-leaf",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan LEAF | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_leaf/images/1920x1080/2015_nissan_leaf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_leaf/images/1920x1080/2015_nissan_leaf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-leaf-2020-4",
+          "generationId": "gen-nissan-leaf-2020-4",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_leaf/images/1920x1080/2015_nissan_leaf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_leaf/images/1920x1080/2015_nissan_leaf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan LEAF | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-leaf-2020-5",
+      "slug": "nissan-leaf-2020-5",
+      "modelId": "m-nissan-leaf",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan LEAF | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_leaf/images/1920x1080/2013_nissan_leaf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2013_nissan_leaf/images/1920x1080/2013_nissan_leaf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-leaf-2020-5",
+          "generationId": "gen-nissan-leaf-2020-5",
+          "url": "https://images.caricos.com/n/nissan/2013_nissan_leaf/images/1920x1080/2013_nissan_leaf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_leaf/images/1920x1080/2013_nissan_leaf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan LEAF | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-leaf-2020-0",
+      "slug": "nissan-leaf-2020-0",
+      "modelId": "m-nissan-leaf",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Leaf (Euro-Spec) | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2022_nissan_leaf_eu/images/1920x1080/2022_nissan_leaf_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2022_nissan_leaf_eu/images/1920x1080/2022_nissan_leaf_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-leaf-2020-0",
+          "generationId": "gen-nissan-leaf-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2022_nissan_leaf_eu/images/1920x1080/2022_nissan_leaf_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2022_nissan_leaf_eu/images/1920x1080/2022_nissan_leaf_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Leaf (Euro-Spec) | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-leaf-2020-0",
+      "slug": "nissan-leaf-2020-0",
+      "modelId": "m-nissan-leaf",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Leaf | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2011_nissan_leaf/images/1920x1080/2011_nissan_leaf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2011_nissan_leaf/images/1920x1080/2011_nissan_leaf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-leaf-2020-0",
+          "generationId": "gen-nissan-leaf-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2011_nissan_leaf/images/1920x1080/2011_nissan_leaf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2011_nissan_leaf/images/1920x1080/2011_nissan_leaf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Leaf | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

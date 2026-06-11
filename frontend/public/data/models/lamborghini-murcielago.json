@@ -1,0 +1,54 @@
+{
+  "id": "m-lamborghini-murcielago",
+  "slug": "lamborghini-murcielago",
+  "name": "Murciélago",
+  "fullName": "Lamborghini Murciélago",
+  "brandId": "brand-lamborghini",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "endYear": 2010,
+  "isActive": false,
+  "description": "The Lamborghini Murciélago (2001–2010) was the first Lamborghini developed under Audi/Volkswagen Group ownership. The quality improvement was immediately evident. Its 6.5-litre V12 in LP 670-4 SuperVeloce form produced 670 hp — the most powerful Lamborghini road car to that date.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/lamborghini_murcielago/images/1920x1080/lamborghini_murcielago_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/lamborghini_murcielago/images/1920x1080/lamborghini_murcielago_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "lamborghini",
+    "v12",
+    "audi",
+    "superveloce"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-murcielago-1",
+      "slug": "lamborghini-murcielago-gen1",
+      "modelId": "m-lamborghini-murcielago",
+      "brandId": "brand-lamborghini",
+      "codeName": "Murciélago",
+      "generationNumber": 1,
+      "startYear": 2001,
+      "endYear": 2010,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Lamborghini Murciélago (2001–2010) was the first Lamborghini developed under Audi/Volkswagen Group ownership. The quality improvement was immediately evident. Its 6.5-litre V12 in LP 670-4 SuperVeloce form produced 670 hp — the most powerful Lamborghini road car to that date.",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/lamborghini_murcielago/images/1920x1080/lamborghini_murcielago_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/lamborghini_murcielago/images/1920x1080/lamborghini_murcielago_1_1920x1080.jpg",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "m-lexus-tz",
+  "slug": "lexus-tz",
+  "name": "TZ",
+  "fullName": "Lexus TZ",
+  "brandId": "brand-lexus",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lexus TZ — sedan, produced since 2027.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "lexus"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lexus-tz-2027-0",
+      "slug": "lexus-tz-2027-0",
+      "modelId": "m-lexus-tz",
+      "brandId": "brand-lexus",
+      "codeName": "2027",
+      "generationNumber": 1,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2027 TZ",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

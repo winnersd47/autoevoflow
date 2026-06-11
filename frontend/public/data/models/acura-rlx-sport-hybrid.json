@@ -1,0 +1,72 @@
+{
+  "id": "m-acura-rlx-sport-hybrid",
+  "slug": "acura-rlx-sport-hybrid",
+  "name": "RLX Sport Hybrid",
+  "fullName": "Acura RLX Sport Hybrid",
+  "brandId": "brand-acura",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Acura RLX Sport Hybrid — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/acura/2014_acura_rlx_hybrid/images/1920x1080/2014_acura_rlx_hybrid_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/acura/2014_acura_rlx_hybrid/images/1920x1080/2014_acura_rlx_hybrid_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "acura"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-acura-rlx-sport-hybrid-2020-0",
+      "slug": "acura-rlx-sport-hybrid-2020-0",
+      "modelId": "m-acura-rlx-sport-hybrid",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura RLX Sport Hybrid | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2014_acura_rlx_hybrid/images/1920x1080/2014_acura_rlx_hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2014_acura_rlx_hybrid/images/1920x1080/2014_acura_rlx_hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-rlx-sport-hybrid-2020-0",
+          "generationId": "gen-acura-rlx-sport-hybrid-2020-0",
+          "url": "https://images.caricos.com/a/acura/2014_acura_rlx_hybrid/images/1920x1080/2014_acura_rlx_hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2014_acura_rlx_hybrid/images/1920x1080/2014_acura_rlx_hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura RLX Sport Hybrid | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

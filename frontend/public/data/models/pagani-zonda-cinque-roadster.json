@@ -1,0 +1,72 @@
+{
+  "id": "m-pagani-zonda-cinque-roadster",
+  "slug": "pagani-zonda-cinque-roadster",
+  "name": "Zonda Cinque Roadster",
+  "fullName": "Pagani Zonda Cinque Roadster",
+  "brandId": "brand-pagani",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Pagani Zonda Cinque Roadster — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/pagani/2010_pagani_zonda_cinque_roadster/images/1920x1080/2010_pagani_zonda_cinque_roadster_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/pagani/2010_pagani_zonda_cinque_roadster/images/1920x1080/2010_pagani_zonda_cinque_roadster_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "pagani"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-pagani-zonda-cinque-roadster-2020-0",
+      "slug": "pagani-zonda-cinque-roadster-2020-0",
+      "modelId": "m-pagani-zonda-cinque-roadster",
+      "brandId": "brand-pagani",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Pagani Zonda Cinque Roadster | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/p/pagani/2010_pagani_zonda_cinque_roadster/images/1920x1080/2010_pagani_zonda_cinque_roadster_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/pagani/2010_pagani_zonda_cinque_roadster/images/1920x1080/2010_pagani_zonda_cinque_roadster_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-pagani-zonda-cinque-roadster-2020-0",
+          "generationId": "gen-pagani-zonda-cinque-roadster-2020-0",
+          "url": "https://images.caricos.com/p/pagani/2010_pagani_zonda_cinque_roadster/images/1920x1080/2010_pagani_zonda_cinque_roadster_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/pagani/2010_pagani_zonda_cinque_roadster/images/1920x1080/2010_pagani_zonda_cinque_roadster_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Pagani Zonda Cinque Roadster | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

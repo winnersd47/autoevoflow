@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-quattroporte-sport-gt-s",
+  "slug": "maserati-quattroporte-sport-gt-s",
+  "name": "Quattroporte Sport GT S",
+  "fullName": "Maserati Quattroporte Sport GT S",
+  "brandId": "brand-maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "endYear": 2010,
+  "isActive": false,
+  "description": "Maserati Quattroporte Sport GT S — sedan, produced since 2010.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2010_maserati_quattroporte_sport_gt_s/images/1920x1080/2010_maserati_quattroporte_sport_gt_s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2010_maserati_quattroporte_sport_gt_s/images/1920x1080/2010_maserati_quattroporte_sport_gt_s_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-quattroporte-sport-gt-s-2010-0",
+      "slug": "maserati-quattroporte-sport-gt-s-2010-0",
+      "modelId": "m-maserati-quattroporte-sport-gt-s",
+      "brandId": "brand-maserati",
+      "codeName": "2010",
+      "generationNumber": 1,
+      "startYear": 2010,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2010 Maserati Quattroporte Sport GT S",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2010_maserati_quattroporte_sport_gt_s/images/1920x1080/2010_maserati_quattroporte_sport_gt_s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2010_maserati_quattroporte_sport_gt_s/images/1920x1080/2010_maserati_quattroporte_sport_gt_s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-quattroporte-sport-gt-s-2010-0",
+          "generationId": "gen-maserati-quattroporte-sport-gt-s-2010-0",
+          "url": "https://images.caricos.com/m/maserati/2010_maserati_quattroporte_sport_gt_s/images/1920x1080/2010_maserati_quattroporte_sport_gt_s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2010_maserati_quattroporte_sport_gt_s/images/1920x1080/2010_maserati_quattroporte_sport_gt_s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2010,
+          "altText": "2010 Maserati Quattroporte Sport GT S",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2010"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

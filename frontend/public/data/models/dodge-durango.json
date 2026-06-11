@@ -1,0 +1,164 @@
+{
+  "id": "m-dodge-durango",
+  "slug": "dodge-durango",
+  "name": "Durango",
+  "fullName": "Dodge Durango",
+  "brandId": "brand-dodge",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Dodge Durango — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/d/dodge/2025_dodge_durango/images/1920x1080/2025_dodge_durango_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/d/dodge/2025_dodge_durango/images/1920x1080/2025_dodge_durango_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "dodge"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-dodge-durango-2020-0",
+      "slug": "dodge-durango-2020-0",
+      "modelId": "m-dodge-durango",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Durango | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2025_dodge_durango/images/1920x1080/2025_dodge_durango_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2025_dodge_durango/images/1920x1080/2025_dodge_durango_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-durango-2020-0",
+          "generationId": "gen-dodge-durango-2020-0",
+          "url": "https://images.caricos.com/d/dodge/2025_dodge_durango/images/1920x1080/2025_dodge_durango_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2025_dodge_durango/images/1920x1080/2025_dodge_durango_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Durango | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-dodge-durango-2020-1",
+      "slug": "dodge-durango-2020-1",
+      "modelId": "m-dodge-durango",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Durango | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2014_dodge_durango/images/1920x1080/2014_dodge_durango_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2014_dodge_durango/images/1920x1080/2014_dodge_durango_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-durango-2020-1",
+          "generationId": "gen-dodge-durango-2020-1",
+          "url": "https://images.caricos.com/d/dodge/2014_dodge_durango/images/1920x1080/2014_dodge_durango_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2014_dodge_durango/images/1920x1080/2014_dodge_durango_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Durango | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-dodge-durango-2020-2",
+      "slug": "dodge-durango-2020-2",
+      "modelId": "m-dodge-durango",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Durango | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2012_dodge_durango/images/1920x1080/2012_dodge_durango_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2012_dodge_durango/images/1920x1080/2012_dodge_durango_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-durango-2020-2",
+          "generationId": "gen-dodge-durango-2020-2",
+          "url": "https://images.caricos.com/d/dodge/2012_dodge_durango/images/1920x1080/2012_dodge_durango_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2012_dodge_durango/images/1920x1080/2012_dodge_durango_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Durango | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-panamera-4-e-hybrid-sport-turismo-platinum-edition",
+  "slug": "porsche-panamera-4-e-hybrid-sport-turismo-platinum-edition",
+  "name": "Panamera 4 E-Hybrid Sport Turismo Platinum Edition (",
+  "fullName": "Porsche Panamera 4 E-Hybrid Sport Turismo Platinum Edition (",
+  "brandId": "brand-porsche",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Panamera 4 E-Hybrid Sport Turismo Platinum Edition ( — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2022_porsche_panamera_platinum_edition_uk/images/1920x1080/2022_porsche_panamera_platinum_edition_uk_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2022_porsche_panamera_platinum_edition_uk/images/1920x1080/2022_porsche_panamera_platinum_edition_uk_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-panamera-4-e-hybrid-sport-turismo-platinum-edition-2020-0",
+      "slug": "porsche-panamera-4-e-hybrid-sport-turismo-platinum-edition-2020-0",
+      "modelId": "m-porsche-panamera-4-e-hybrid-sport-turismo-platinum-edition",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Panamera 4 E-Hybrid Sport Turismo Platinum Edition (UK-Spec) | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2022_porsche_panamera_platinum_edition_uk/images/1920x1080/2022_porsche_panamera_platinum_edition_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2022_porsche_panamera_platinum_edition_uk/images/1920x1080/2022_porsche_panamera_platinum_edition_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-panamera-4-e-hybrid-sport-turismo-platinum-edition-2020-0",
+          "generationId": "gen-porsche-panamera-4-e-hybrid-sport-turismo-platinum-edition-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2022_porsche_panamera_platinum_edition_uk/images/1920x1080/2022_porsche_panamera_platinum_edition_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2022_porsche_panamera_platinum_edition_uk/images/1920x1080/2022_porsche_panamera_platinum_edition_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Panamera 4 E-Hybrid Sport Turismo Platinum Edition (UK-Spec) | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

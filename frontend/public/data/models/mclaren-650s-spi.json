@@ -1,0 +1,118 @@
+{
+  "id": "m-mclaren-650s-spi",
+  "slug": "mclaren-650s-spi",
+  "name": "650S Spi",
+  "fullName": "McLaren 650S Spi",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "endYear": 2016,
+  "isActive": false,
+  "description": "McLaren 650S Spi — sedan, produced since 2015.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_650s_spider_mso/images/1920x1080/2016_mclaren_650s_spider_mso_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_650s_spider_mso/images/1920x1080/2016_mclaren_650s_spider_mso_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-650s-spi-2016-0",
+      "slug": "mclaren-650s-spi-2016-0",
+      "modelId": "m-mclaren-650s-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2016",
+      "generationNumber": 1,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 McLaren 650S Spider Al Sahara 79 by MSO",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_650s_spider_mso/images/1920x1080/2016_mclaren_650s_spider_mso_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_650s_spider_mso/images/1920x1080/2016_mclaren_650s_spider_mso_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-650s-spi-2016-0",
+          "generationId": "gen-mclaren-650s-spi-2016-0",
+          "url": "https://images.caricos.com/m/mclaren/2016_mclaren_650s_spider_mso/images/1920x1080/2016_mclaren_650s_spider_mso_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_650s_spider_mso/images/1920x1080/2016_mclaren_650s_spider_mso_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 McLaren 650S Spider Al Sahara 79 by MSO",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mclaren-650s-spi-2015-1",
+      "slug": "mclaren-650s-spi-2015-1",
+      "modelId": "m-mclaren-650s-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2015",
+      "generationNumber": 2,
+      "startYear": 2015,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2015 McLaren 650S Spider",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_spider/images/1920x1080/2015_mclaren_650s_spider_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_spider/images/1920x1080/2015_mclaren_650s_spider_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-650s-spi-2015-1",
+          "generationId": "gen-mclaren-650s-spi-2015-1",
+          "url": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_spider/images/1920x1080/2015_mclaren_650s_spider_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2015_mclaren_650s_spider/images/1920x1080/2015_mclaren_650s_spider_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2015,
+          "altText": "2015 McLaren 650S Spider",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2015"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

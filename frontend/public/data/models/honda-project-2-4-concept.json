@@ -1,0 +1,72 @@
+{
+  "id": "m-honda-project-2-4-concept",
+  "slug": "honda-project-2-4-concept",
+  "name": "Project 2&4 Concept",
+  "fullName": "Honda Project 2&4 Concept",
+  "brandId": "brand-honda",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda Project 2&4 Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2015_honda_project_2_4/images/1920x1080/2015_honda_project_2_4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2015_honda_project_2_4/images/1920x1080/2015_honda_project_2_4_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-project-2-4-concept-2020-0",
+      "slug": "honda-project-2-4-concept-2020-0",
+      "modelId": "m-honda-project-2-4-concept",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Project 2&4 Concept | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2015_honda_project_2_4/images/1920x1080/2015_honda_project_2_4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2015_honda_project_2_4/images/1920x1080/2015_honda_project_2_4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-project-2-4-concept-2020-0",
+          "generationId": "gen-honda-project-2-4-concept-2020-0",
+          "url": "https://images.caricos.com/h/honda/2015_honda_project_2_4/images/1920x1080/2015_honda_project_2_4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2015_honda_project_2_4/images/1920x1080/2015_honda_project_2_4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Project 2&4 Concept | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

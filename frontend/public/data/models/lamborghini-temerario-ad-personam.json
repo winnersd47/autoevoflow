@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-temerario-ad-personam",
+  "slug": "lamborghini-temerario-ad-personam",
+  "name": "Temerario Ad Personam",
+  "fullName": "Lamborghini Temerario Ad Personam",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Temerario Ad Personam — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_temerario_ad_personam/images/1920x1080/2025_lamborghini_temerario_ad_personam_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_temerario_ad_personam/images/1920x1080/2025_lamborghini_temerario_ad_personam_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-temerario-ad-personam-2020-0",
+      "slug": "lamborghini-temerario-ad-personam-2020-0",
+      "modelId": "m-lamborghini-temerario-ad-personam",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Temerario Ad Personam | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_temerario_ad_personam/images/1920x1080/2025_lamborghini_temerario_ad_personam_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_temerario_ad_personam/images/1920x1080/2025_lamborghini_temerario_ad_personam_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-temerario-ad-personam-2020-0",
+          "generationId": "gen-lamborghini-temerario-ad-personam-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2025_lamborghini_temerario_ad_personam/images/1920x1080/2025_lamborghini_temerario_ad_personam_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2025_lamborghini_temerario_ad_personam/images/1920x1080/2025_lamborghini_temerario_ad_personam_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Temerario Ad Personam | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

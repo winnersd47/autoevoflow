@@ -1,0 +1,118 @@
+{
+  "id": "m-cadillac-srx",
+  "slug": "cadillac-srx",
+  "name": "SRX",
+  "fullName": "Cadillac SRX",
+  "brandId": "brand-cadillac",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Cadillac SRX — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/c/cadillac/2012_cadillac_srx/images/1920x1080/2012_cadillac_srx_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/cadillac/2012_cadillac_srx/images/1920x1080/2012_cadillac_srx_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "cadillac"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-cadillac-srx-2020-0",
+      "slug": "cadillac-srx-2020-0",
+      "modelId": "m-cadillac-srx",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac SRX | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2012_cadillac_srx/images/1920x1080/2012_cadillac_srx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2012_cadillac_srx/images/1920x1080/2012_cadillac_srx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-srx-2020-0",
+          "generationId": "gen-cadillac-srx-2020-0",
+          "url": "https://images.caricos.com/c/cadillac/2012_cadillac_srx/images/1920x1080/2012_cadillac_srx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2012_cadillac_srx/images/1920x1080/2012_cadillac_srx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac SRX | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-cadillac-srx-2020-1",
+      "slug": "cadillac-srx-2020-1",
+      "modelId": "m-cadillac-srx",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac SRX | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2010_cadillac_srx/images/1920x1080/2010_cadillac_srx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2010_cadillac_srx/images/1920x1080/2010_cadillac_srx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-srx-2020-1",
+          "generationId": "gen-cadillac-srx-2020-1",
+          "url": "https://images.caricos.com/c/cadillac/2010_cadillac_srx/images/1920x1080/2010_cadillac_srx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2010_cadillac_srx/images/1920x1080/2010_cadillac_srx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac SRX | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

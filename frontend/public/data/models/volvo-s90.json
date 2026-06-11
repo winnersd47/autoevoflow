@@ -1,0 +1,210 @@
+{
+  "id": "m-volvo-s90",
+  "slug": "volvo-s90",
+  "name": "S90 (",
+  "fullName": "Volvo S90 (",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo S90 ( — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_s90_uk/images/1920x1080/2019_volvo_s90_uk_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2019_volvo_s90_uk/images/1920x1080/2019_volvo_s90_uk_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-s90-2020-0",
+      "slug": "volvo-s90-2020-0",
+      "modelId": "m-volvo-s90",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo S90 | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2020_volvo_s90/images/1920x1080/2020_volvo_s90_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2020_volvo_s90/images/1920x1080/2020_volvo_s90_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-s90-2020-0",
+          "generationId": "gen-volvo-s90-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2020_volvo_s90/images/1920x1080/2020_volvo_s90_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2020_volvo_s90/images/1920x1080/2020_volvo_s90_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo S90 | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-s90-2020-1",
+      "slug": "volvo-s90-2020-1",
+      "modelId": "m-volvo-s90",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo S90 | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2017_volvo_s90/images/1920x1080/2017_volvo_s90_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2017_volvo_s90/images/1920x1080/2017_volvo_s90_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-s90-2020-1",
+          "generationId": "gen-volvo-s90-2020-1",
+          "url": "https://images.caricos.com/v/volvo/2017_volvo_s90/images/1920x1080/2017_volvo_s90_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2017_volvo_s90/images/1920x1080/2017_volvo_s90_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo S90 | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-s90-2020-0",
+      "slug": "volvo-s90-2020-0",
+      "modelId": "m-volvo-s90",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo S90 (UK-Spec) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_s90_uk/images/1920x1080/2019_volvo_s90_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2019_volvo_s90_uk/images/1920x1080/2019_volvo_s90_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-s90-2020-0",
+          "generationId": "gen-volvo-s90-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2019_volvo_s90_uk/images/1920x1080/2019_volvo_s90_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_s90_uk/images/1920x1080/2019_volvo_s90_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo S90 (UK-Spec) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-s90-2020-1",
+      "slug": "volvo-s90-2020-1",
+      "modelId": "m-volvo-s90",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo S90 (UK-Spec) | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2017_volvo_s90_uk/images/1920x1080/2017_volvo_s90_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2017_volvo_s90_uk/images/1920x1080/2017_volvo_s90_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-s90-2020-1",
+          "generationId": "gen-volvo-s90-2020-1",
+          "url": "https://images.caricos.com/v/volvo/2017_volvo_s90_uk/images/1920x1080/2017_volvo_s90_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2017_volvo_s90_uk/images/1920x1080/2017_volvo_s90_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo S90 (UK-Spec) | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

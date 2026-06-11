@@ -1,0 +1,104 @@
+{
+  "id": "m-bmw-vision-m-next",
+  "slug": "bmw-vision-m-next",
+  "name": "Vision M Next",
+  "fullName": "BMW Vision M Next",
+  "brandId": "brand-bmw",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "endYear": 2019,
+  "isActive": false,
+  "description": "BMW Vision M Next — concept, produced since 2019.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_vision_m_next/images/1920x1080/2019_bmw_vision_m_next_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_vision_m_next/images/1920x1080/2019_bmw_vision_m_next_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-vision-m-next-2019-0",
+      "slug": "bmw-vision-m-next-2019-0",
+      "modelId": "m-bmw-vision-m-next",
+      "brandId": "brand-bmw",
+      "codeName": "2019",
+      "generationNumber": 1,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2019 Vision M Next",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "concept",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-vision-m-next-2019-1",
+      "slug": "bmw-vision-m-next-2019-1",
+      "modelId": "m-bmw-vision-m-next",
+      "brandId": "brand-bmw",
+      "codeName": "2019",
+      "generationNumber": 2,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW Vision M Next | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_vision_m_next/images/1920x1080/2019_bmw_vision_m_next_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_vision_m_next/images/1920x1080/2019_bmw_vision_m_next_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-vision-m-next-2019-1",
+          "generationId": "gen-bmw-vision-m-next-2019-1",
+          "url": "https://images.caricos.com/b/bmw/2019_bmw_vision_m_next/images/1920x1080/2019_bmw_vision_m_next_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_vision_m_next/images/1920x1080/2019_bmw_vision_m_next_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2019,
+          "altText": "BMW Vision M Next | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

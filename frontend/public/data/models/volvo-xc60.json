@@ -1,0 +1,210 @@
+{
+  "id": "m-volvo-xc60",
+  "slug": "volvo-xc60",
+  "name": "XC60",
+  "fullName": "Volvo XC60",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo XC60 — sedan, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2026_volvo_xc60/images/1920x1080/2026_volvo_xc60_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2026_volvo_xc60/images/1920x1080/2026_volvo_xc60_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-xc60-2020-0",
+      "slug": "volvo-xc60-2020-0",
+      "modelId": "m-volvo-xc60",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo XC60 | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2026_volvo_xc60/images/1920x1080/2026_volvo_xc60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2026_volvo_xc60/images/1920x1080/2026_volvo_xc60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-xc60-2020-0",
+          "generationId": "gen-volvo-xc60-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2026_volvo_xc60/images/1920x1080/2026_volvo_xc60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2026_volvo_xc60/images/1920x1080/2026_volvo_xc60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo XC60 | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-xc60-2020-1",
+      "slug": "volvo-xc60-2020-1",
+      "modelId": "m-volvo-xc60",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo XC60 | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2020_volvo_xc60/images/1920x1080/2020_volvo_xc60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2020_volvo_xc60/images/1920x1080/2020_volvo_xc60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-xc60-2020-1",
+          "generationId": "gen-volvo-xc60-2020-1",
+          "url": "https://images.caricos.com/v/volvo/2020_volvo_xc60/images/1920x1080/2020_volvo_xc60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2020_volvo_xc60/images/1920x1080/2020_volvo_xc60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo XC60 | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-xc60-2020-2",
+      "slug": "volvo-xc60-2020-2",
+      "modelId": "m-volvo-xc60",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo XC60 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2018_volvo_xc60/images/1920x1080/2018_volvo_xc60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2018_volvo_xc60/images/1920x1080/2018_volvo_xc60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-xc60-2020-2",
+          "generationId": "gen-volvo-xc60-2020-2",
+          "url": "https://images.caricos.com/v/volvo/2018_volvo_xc60/images/1920x1080/2018_volvo_xc60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2018_volvo_xc60/images/1920x1080/2018_volvo_xc60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo XC60 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-xc60-2020-3",
+      "slug": "volvo-xc60-2020-3",
+      "modelId": "m-volvo-xc60",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo XC60 | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2014_volvo_xc60/images/1920x1080/2014_volvo_xc60_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2014_volvo_xc60/images/1920x1080/2014_volvo_xc60_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-xc60-2020-3",
+          "generationId": "gen-volvo-xc60-2020-3",
+          "url": "https://images.caricos.com/v/volvo/2014_volvo_xc60/images/1920x1080/2014_volvo_xc60_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2014_volvo_xc60/images/1920x1080/2014_volvo_xc60_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo XC60 | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

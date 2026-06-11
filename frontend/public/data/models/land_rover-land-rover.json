@@ -1,0 +1,578 @@
+{
+  "id": "m-land_rover-land-rover",
+  "slug": "land_rover-land-rover",
+  "name": "Land Rover",
+  "fullName": "Land Rover Land Rover",
+  "brandId": "brand-land_rover",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Land Rover Land Rover — sedan, produced since 2020.",
+  "generationCount": 21,
+  "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_130_outbound/images/1920x1080/2024_land_rover_defender_130_outbound_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_130_outbound/images/1920x1080/2024_land_rover_defender_130_outbound_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "land-rover"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-land_rover-land-rover-2020-0",
+      "slug": "land_rover-land-rover-2020-0",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender 130 Outbound | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_130_outbound/images/1920x1080/2024_land_rover_defender_130_outbound_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_130_outbound/images/1920x1080/2024_land_rover_defender_130_outbound_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-0",
+          "generationId": "gen-land_rover-land-rover-2020-0",
+          "url": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_130_outbound/images/1920x1080/2024_land_rover_defender_130_outbound_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_130_outbound/images/1920x1080/2024_land_rover_defender_130_outbound_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender 130 Outbound | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-1",
+      "slug": "land_rover-land-rover-2020-1",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender 110 Beach Break | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_110_beach_break/images/1920x1080/2024_land_rover_defender_110_beach_break_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_110_beach_break/images/1920x1080/2024_land_rover_defender_110_beach_break_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-1",
+          "generationId": "gen-land_rover-land-rover-2020-1",
+          "url": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_110_beach_break/images/1920x1080/2024_land_rover_defender_110_beach_break_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_land_rover_defender_110_beach_break/images/1920x1080/2024_land_rover_defender_110_beach_break_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender 110 Beach Break | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-2",
+      "slug": "land_rover-land-rover-2020-2",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender 75th Limited Edition | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2023_land_rover_defender_75th_limited_edition/images/1920x1080/2023_land_rover_defender_75th_limited_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2023_land_rover_defender_75th_limited_edition/images/1920x1080/2023_land_rover_defender_75th_limited_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-2",
+          "generationId": "gen-land_rover-land-rover-2020-2",
+          "url": "https://images.caricos.com/l/land_rover/2023_land_rover_defender_75th_limited_edition/images/1920x1080/2023_land_rover_defender_75th_limited_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2023_land_rover_defender_75th_limited_edition/images/1920x1080/2023_land_rover_defender_75th_limited_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender 75th Limited Edition | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-3",
+      "slug": "land_rover-land-rover-2020-3",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender 130 | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2023_land_rover_defender_130/images/1920x1080/2023_land_rover_defender_130_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2023_land_rover_defender_130/images/1920x1080/2023_land_rover_defender_130_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-3",
+          "generationId": "gen-land_rover-land-rover-2020-3",
+          "url": "https://images.caricos.com/l/land_rover/2023_land_rover_defender_130/images/1920x1080/2023_land_rover_defender_130_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2023_land_rover_defender_130/images/1920x1080/2023_land_rover_defender_130_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender 130 | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-4",
+      "slug": "land_rover-land-rover-2020-4",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender V8 90 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2022_land_rover_defender_v8_90/images/1920x1080/2022_land_rover_defender_v8_90_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2022_land_rover_defender_v8_90/images/1920x1080/2022_land_rover_defender_v8_90_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-4",
+          "generationId": "gen-land_rover-land-rover-2020-4",
+          "url": "https://images.caricos.com/l/land_rover/2022_land_rover_defender_v8_90/images/1920x1080/2022_land_rover_defender_v8_90_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2022_land_rover_defender_v8_90/images/1920x1080/2022_land_rover_defender_v8_90_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender V8 90 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-5",
+      "slug": "land_rover-land-rover-2020-5",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender V8 110 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2022_land_rover_defender_v8_110/images/1920x1080/2022_land_rover_defender_v8_110_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2022_land_rover_defender_v8_110/images/1920x1080/2022_land_rover_defender_v8_110_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-5",
+          "generationId": "gen-land_rover-land-rover-2020-5",
+          "url": "https://images.caricos.com/l/land_rover/2022_land_rover_defender_v8_110/images/1920x1080/2022_land_rover_defender_v8_110_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2022_land_rover_defender_v8_110/images/1920x1080/2022_land_rover_defender_v8_110_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender V8 110 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-6",
+      "slug": "land_rover-land-rover-2020-6",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender Works V8 Trophy | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_works_v8_trophy/images/1920x1080/2021_land_rover_defender_works_v8_trophy_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_works_v8_trophy/images/1920x1080/2021_land_rover_defender_works_v8_trophy_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-6",
+          "generationId": "gen-land_rover-land-rover-2020-6",
+          "url": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_works_v8_trophy/images/1920x1080/2021_land_rover_defender_works_v8_trophy_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_works_v8_trophy/images/1920x1080/2021_land_rover_defender_works_v8_trophy_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender Works V8 Trophy | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-7",
+      "slug": "land_rover-land-rover-2020-7",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender V8 Bond Edition | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_v8_bond_edition/images/1920x1080/2021_land_rover_defender_v8_bond_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_v8_bond_edition/images/1920x1080/2021_land_rover_defender_v8_bond_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-7",
+          "generationId": "gen-land_rover-land-rover-2020-7",
+          "url": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_v8_bond_edition/images/1920x1080/2021_land_rover_defender_v8_bond_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_v8_bond_edition/images/1920x1080/2021_land_rover_defender_v8_bond_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender V8 Bond Edition | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-8",
+      "slug": "land_rover-land-rover-2020-8",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 9,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender Plug-In Hybrid | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_phev/images/1920x1080/2021_land_rover_defender_phev_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_phev/images/1920x1080/2021_land_rover_defender_phev_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-8",
+          "generationId": "gen-land_rover-land-rover-2020-8",
+          "url": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_phev/images/1920x1080/2021_land_rover_defender_phev_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_phev/images/1920x1080/2021_land_rover_defender_phev_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender Plug-In Hybrid | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-9",
+      "slug": "land_rover-land-rover-2020-9",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 10,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender Hard Top | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_hard_top/images/1920x1080/2021_land_rover_defender_hard_top_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_hard_top/images/1920x1080/2021_land_rover_defender_hard_top_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-9",
+          "generationId": "gen-land_rover-land-rover-2020-9",
+          "url": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_hard_top/images/1920x1080/2021_land_rover_defender_hard_top_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_hard_top/images/1920x1080/2021_land_rover_defender_hard_top_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender Hard Top | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-10",
+      "slug": "land_rover-land-rover-2020-10",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 11,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender 90 | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_90/images/1920x1080/2021_land_rover_defender_90_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_90/images/1920x1080/2021_land_rover_defender_90_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-10",
+          "generationId": "gen-land_rover-land-rover-2020-10",
+          "url": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_90/images/1920x1080/2021_land_rover_defender_90_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_land_rover_defender_90/images/1920x1080/2021_land_rover_defender_90_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender 90 | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-land-rover-2020-11",
+      "slug": "land_rover-land-rover-2020-11",
+      "modelId": "m-land_rover-land-rover",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 12,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Defender 90 | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2020_land_rover_defender_90/images/1920x1080/2020_land_rover_defender_90_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2020_land_rover_defender_90/images/1920x1080/2020_land_rover_defender_90_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-land-rover-2020-11",
+          "generationId": "gen-land_rover-land-rover-2020-11",
+          "url": "https://images.caricos.com/l/land_rover/2020_land_rover_defender_90/images/1920x1080/2020_land_rover_defender_90_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2020_land_rover_defender_90/images/1920x1080/2020_land_rover_defender_90_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Defender 90 | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

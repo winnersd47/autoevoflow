@@ -1,0 +1,72 @@
+{
+  "id": "m-ford-bronco-60th-anniversary-package",
+  "slug": "ford-bronco-60th-anniversary-package",
+  "name": "Bronco 60th Anniversary Package",
+  "fullName": "Ford Bronco 60th Anniversary Package",
+  "brandId": "brand-ford",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford Bronco 60th Anniversary Package — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2026_bronco_60th_anniversary_package/images/1920x1080/2026_bronco_60th_anniversary_package_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2026_bronco_60th_anniversary_package/images/1920x1080/2026_bronco_60th_anniversary_package_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-bronco-60th-anniversary-package-2020-0",
+      "slug": "ford-bronco-60th-anniversary-package-2020-0",
+      "modelId": "m-ford-bronco-60th-anniversary-package",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bronco 60th Anniversary Package | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2026_bronco_60th_anniversary_package/images/1920x1080/2026_bronco_60th_anniversary_package_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2026_bronco_60th_anniversary_package/images/1920x1080/2026_bronco_60th_anniversary_package_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-bronco-60th-anniversary-package-2020-0",
+          "generationId": "gen-ford-bronco-60th-anniversary-package-2020-0",
+          "url": "https://images.caricos.com/f/ford/2026_bronco_60th_anniversary_package/images/1920x1080/2026_bronco_60th_anniversary_package_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2026_bronco_60th_anniversary_package/images/1920x1080/2026_bronco_60th_anniversary_package_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bronco 60th Anniversary Package | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

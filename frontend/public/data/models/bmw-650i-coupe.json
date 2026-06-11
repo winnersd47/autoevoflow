@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-650i-coupe",
+  "slug": "bmw-650i-coupe",
+  "name": "650i Coupe",
+  "fullName": "BMW 650i Coupe",
+  "brandId": "brand-bmw",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW 650i Coupe — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_650i_coupe/images/1920x1080/2012_bmw_650i_coupe_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2012_bmw_650i_coupe/images/1920x1080/2012_bmw_650i_coupe_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-650i-coupe-2020-0",
+      "slug": "bmw-650i-coupe-2020-0",
+      "modelId": "m-bmw-650i-coupe",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW 650i Coupe | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_650i_coupe/images/1920x1080/2012_bmw_650i_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2012_bmw_650i_coupe/images/1920x1080/2012_bmw_650i_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-650i-coupe-2020-0",
+          "generationId": "gen-bmw-650i-coupe-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2012_bmw_650i_coupe/images/1920x1080/2012_bmw_650i_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_650i_coupe/images/1920x1080/2012_bmw_650i_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW 650i Coupe | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

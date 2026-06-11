@@ -1,0 +1,72 @@
+{
+  "id": "m-subaru-viziv-7-suv-concept",
+  "slug": "subaru-viziv-7-suv-concept",
+  "name": "VIZIV-7 SUV Concept",
+  "fullName": "Subaru VIZIV-7 SUV Concept",
+  "brandId": "brand-subaru",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Subaru VIZIV-7 SUV Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/s/subaru/2016_subaru_viziv-7_suv_concept/images/1920x1080/2016_subaru_viziv-7_suv_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/s/subaru/2016_subaru_viziv-7_suv_concept/images/1920x1080/2016_subaru_viziv-7_suv_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "subaru"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-subaru-viziv-7-suv-concept-2020-0",
+      "slug": "subaru-viziv-7-suv-concept-2020-0",
+      "modelId": "m-subaru-viziv-7-suv-concept",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru VIZIV-7 SUV Concept | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2016_subaru_viziv-7_suv_concept/images/1920x1080/2016_subaru_viziv-7_suv_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2016_subaru_viziv-7_suv_concept/images/1920x1080/2016_subaru_viziv-7_suv_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-viziv-7-suv-concept-2020-0",
+          "generationId": "gen-subaru-viziv-7-suv-concept-2020-0",
+          "url": "https://images.caricos.com/s/subaru/2016_subaru_viziv-7_suv_concept/images/1920x1080/2016_subaru_viziv-7_suv_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2016_subaru_viziv-7_suv_concept/images/1920x1080/2016_subaru_viziv-7_suv_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru VIZIV-7 SUV Concept | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

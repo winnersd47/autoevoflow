@@ -1,0 +1,288 @@
+{
+  "id": "m-porsche-911-gt3",
+  "slug": "porsche-911-gt3",
+  "name": "911 GT3",
+  "fullName": "Porsche 911 GT3",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "endYear": 2022,
+  "isActive": false,
+  "description": "Porsche 911 GT3 — sedan, produced since 2022.",
+  "generationCount": 6,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3/images/1920x1080/2025_porsche_911_gt3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3/images/1920x1080/2025_porsche_911_gt3_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-911-gt3-2022-0",
+      "slug": "porsche-911-gt3-2022-0",
+      "modelId": "m-porsche-911-gt3",
+      "brandId": "brand-porsche",
+      "codeName": "2022",
+      "generationNumber": 1,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2022 911 GT3",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-gt3-2022-1",
+      "slug": "porsche-911-gt3-2022-1",
+      "modelId": "m-porsche-911-gt3",
+      "brandId": "brand-porsche",
+      "codeName": "2022",
+      "generationNumber": 2,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 GT3 | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3/images/1920x1080/2025_porsche_911_gt3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3/images/1920x1080/2025_porsche_911_gt3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-gt3-2022-1",
+          "generationId": "gen-porsche-911-gt3-2022-1",
+          "url": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3/images/1920x1080/2025_porsche_911_gt3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_gt3/images/1920x1080/2025_porsche_911_gt3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2022,
+          "altText": "Porsche 911 GT3 | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-gt3-2022-2",
+      "slug": "porsche-911-gt3-2022-2",
+      "modelId": "m-porsche-911-gt3",
+      "brandId": "brand-porsche",
+      "codeName": "2022",
+      "generationNumber": 3,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 GT3 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2022_porsche_911_gt3/images/1920x1080/2022_porsche_911_gt3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2022_porsche_911_gt3/images/1920x1080/2022_porsche_911_gt3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-gt3-2022-2",
+          "generationId": "gen-porsche-911-gt3-2022-2",
+          "url": "https://images.caricos.com/p/porsche/2022_porsche_911_gt3/images/1920x1080/2022_porsche_911_gt3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2022_porsche_911_gt3/images/1920x1080/2022_porsche_911_gt3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2022,
+          "altText": "Porsche 911 GT3 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-gt3-2022-3",
+      "slug": "porsche-911-gt3-2022-3",
+      "modelId": "m-porsche-911-gt3",
+      "brandId": "brand-porsche",
+      "codeName": "2022",
+      "generationNumber": 4,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 GT3 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2018_porsche_911_gt3/images/1920x1080/2018_porsche_911_gt3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2018_porsche_911_gt3/images/1920x1080/2018_porsche_911_gt3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-gt3-2022-3",
+          "generationId": "gen-porsche-911-gt3-2022-3",
+          "url": "https://images.caricos.com/p/porsche/2018_porsche_911_gt3/images/1920x1080/2018_porsche_911_gt3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2018_porsche_911_gt3/images/1920x1080/2018_porsche_911_gt3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2022,
+          "altText": "Porsche 911 GT3 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-gt3-2022-4",
+      "slug": "porsche-911-gt3-2022-4",
+      "modelId": "m-porsche-911-gt3",
+      "brandId": "brand-porsche",
+      "codeName": "2022",
+      "generationNumber": 5,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 GT3 | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2014_porsche_911_gt3/images/1920x1080/2014_porsche_911_gt3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2014_porsche_911_gt3/images/1920x1080/2014_porsche_911_gt3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-gt3-2022-4",
+          "generationId": "gen-porsche-911-gt3-2022-4",
+          "url": "https://images.caricos.com/p/porsche/2014_porsche_911_gt3/images/1920x1080/2014_porsche_911_gt3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2014_porsche_911_gt3/images/1920x1080/2014_porsche_911_gt3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2022,
+          "altText": "Porsche 911 GT3 | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-gt3-2022-5",
+      "slug": "porsche-911-gt3-2022-5",
+      "modelId": "m-porsche-911-gt3",
+      "brandId": "brand-porsche",
+      "codeName": "2022",
+      "generationNumber": 6,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 GT3 | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2010_porsche_911_gt3/images/1920x1080/2010_porsche_911_gt3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2010_porsche_911_gt3/images/1920x1080/2010_porsche_911_gt3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-gt3-2022-5",
+          "generationId": "gen-porsche-911-gt3-2022-5",
+          "url": "https://images.caricos.com/p/porsche/2010_porsche_911_gt3/images/1920x1080/2010_porsche_911_gt3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2010_porsche_911_gt3/images/1920x1080/2010_porsche_911_gt3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2022,
+          "altText": "Porsche 911 GT3 | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

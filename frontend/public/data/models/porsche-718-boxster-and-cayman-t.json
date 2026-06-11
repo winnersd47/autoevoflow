@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-718-boxster-and-cayman-t",
+  "slug": "porsche-718-boxster-and-cayman-t",
+  "name": "718 Boxster and Cayman T",
+  "fullName": "Porsche 718 Boxster and Cayman T",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche 718 Boxster and Cayman T — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2019_porsche_718_t/images/1920x1080/2019_porsche_718_t_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2019_porsche_718_t/images/1920x1080/2019_porsche_718_t_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-718-boxster-and-cayman-t-2020-0",
+      "slug": "porsche-718-boxster-and-cayman-t-2020-0",
+      "modelId": "m-porsche-718-boxster-and-cayman-t",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 718 Boxster and Cayman T | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2019_porsche_718_t/images/1920x1080/2019_porsche_718_t_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2019_porsche_718_t/images/1920x1080/2019_porsche_718_t_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-718-boxster-and-cayman-t-2020-0",
+          "generationId": "gen-porsche-718-boxster-and-cayman-t-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2019_porsche_718_t/images/1920x1080/2019_porsche_718_t_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2019_porsche_718_t/images/1920x1080/2019_porsche_718_t_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 718 Boxster and Cayman T | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-675lt",
+  "slug": "mclaren-675lt",
+  "name": "675LT",
+  "fullName": "McLaren 675LT",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "endYear": 2016,
+  "isActive": false,
+  "description": "McLaren 675LT — sedan, produced since 2016.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_675lt/images/1920x1080/2016_mclaren_675lt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_675lt/images/1920x1080/2016_mclaren_675lt_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-675lt-2016-0",
+      "slug": "mclaren-675lt-2016-0",
+      "modelId": "m-mclaren-675lt",
+      "brandId": "brand-mclaren",
+      "codeName": "2016",
+      "generationNumber": 1,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 McLaren 675LT",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_675lt/images/1920x1080/2016_mclaren_675lt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_675lt/images/1920x1080/2016_mclaren_675lt_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-675lt-2016-0",
+          "generationId": "gen-mclaren-675lt-2016-0",
+          "url": "https://images.caricos.com/m/mclaren/2016_mclaren_675lt/images/1920x1080/2016_mclaren_675lt_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_675lt/images/1920x1080/2016_mclaren_675lt_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 McLaren 675LT",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

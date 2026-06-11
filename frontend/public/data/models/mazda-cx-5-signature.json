@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-cx-5-signature",
+  "slug": "mazda-cx-5-signature",
+  "name": "CX-5 Signature",
+  "fullName": "Mazda CX-5 Signature",
+  "brandId": "brand-mazda",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "endYear": 2019,
+  "isActive": false,
+  "description": "Mazda CX-5 Signature — suv, produced since 2019.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2019_mazda_cx-5_signature/images/1920x1080/2019_mazda_cx-5_signature_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2019_mazda_cx-5_signature/images/1920x1080/2019_mazda_cx-5_signature_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-cx-5-signature-2019-0",
+      "slug": "mazda-cx-5-signature-2019-0",
+      "modelId": "m-mazda-cx-5-signature",
+      "brandId": "brand-mazda",
+      "codeName": "2019",
+      "generationNumber": 1,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2019 Mazda CX-5 Signature",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2019_mazda_cx-5_signature/images/1920x1080/2019_mazda_cx-5_signature_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2019_mazda_cx-5_signature/images/1920x1080/2019_mazda_cx-5_signature_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-cx-5-signature-2019-0",
+          "generationId": "gen-mazda-cx-5-signature-2019-0",
+          "url": "https://images.caricos.com/m/mazda/2019_mazda_cx-5_signature/images/1920x1080/2019_mazda_cx-5_signature_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2019_mazda_cx-5_signature/images/1920x1080/2019_mazda_cx-5_signature_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2019,
+          "altText": "2019 Mazda CX-5 Signature",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2019"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

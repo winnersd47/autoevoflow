@@ -1,0 +1,118 @@
+{
+  "id": "m-lincoln-mkz",
+  "slug": "lincoln-mkz",
+  "name": "MKZ",
+  "fullName": "Lincoln MKZ",
+  "brandId": "brand-lincoln",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lincoln MKZ — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/l/lincoln/2017_lincoln_mkz/images/1920x1080/2017_lincoln_mkz_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lincoln/2017_lincoln_mkz/images/1920x1080/2017_lincoln_mkz_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lincoln"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lincoln-mkz-2020-0",
+      "slug": "lincoln-mkz-2020-0",
+      "modelId": "m-lincoln-mkz",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln MKZ | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2017_lincoln_mkz/images/1920x1080/2017_lincoln_mkz_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2017_lincoln_mkz/images/1920x1080/2017_lincoln_mkz_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-mkz-2020-0",
+          "generationId": "gen-lincoln-mkz-2020-0",
+          "url": "https://images.caricos.com/l/lincoln/2017_lincoln_mkz/images/1920x1080/2017_lincoln_mkz_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2017_lincoln_mkz/images/1920x1080/2017_lincoln_mkz_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln MKZ | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lincoln-mkz-2020-1",
+      "slug": "lincoln-mkz-2020-1",
+      "modelId": "m-lincoln-mkz",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln MKZ | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2013_lincoln_mkz/images/1920x1080/2013_lincoln_mkz_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2013_lincoln_mkz/images/1920x1080/2013_lincoln_mkz_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-mkz-2020-1",
+          "generationId": "gen-lincoln-mkz-2020-1",
+          "url": "https://images.caricos.com/l/lincoln/2013_lincoln_mkz/images/1920x1080/2013_lincoln_mkz_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2013_lincoln_mkz/images/1920x1080/2013_lincoln_mkz_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln MKZ | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

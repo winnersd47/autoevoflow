@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-a8",
+  "slug": "audi-a8",
+  "name": "A8",
+  "fullName": "Audi A8",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi A8 (1994–present) is Audi's flagship saloon and the world's first mass-production aluminium space frame car. The D2 A8 (1994) pioneered the all-aluminium Audi Space Frame (ASF) structure, setting new benchmarks for lightweight construction. The current D5 A8 features Level 3 autonomy and 48V mild hybrid architecture.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_a8/images/1920x1080/2022_audi_a8_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_a8/images/1920x1080/2022_audi_a8_1_1920x1080.jpg",
+  "tags": ["sedan", "audi", "flagship", "luxury", "aluminium", "quattro", "autonomous"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-a8-d2",
+      "slug": "audi-a8-d2",
+      "modelId": "m-audi-a8",
+      "brandId": "brand-audi",
+      "codeName": "D2",
+      "generationNumber": 1,
+      "startYear": 1994,
+      "endYear": 2002,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["sedan"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The D2 A8 (1994–2002) introduced the all-aluminium Audi Space Frame, making it the world's first volume-production car built on an aluminium spaceframe.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_a8/images/1920x1080/2022_audi_a8_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

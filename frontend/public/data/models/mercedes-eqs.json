@@ -1,0 +1,60 @@
+{
+  "id": "m-mercedes-eqs",
+  "slug": "mercedes-eqs",
+  "name": "EQS",
+  "fullName": "Mercedes-Benz EQS",
+  "brandId": "brand-mercedes",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": null,
+  "isActive": true,
+  "description": "The EQS is Mercedes-Benz's electric flagship — the S-Class equivalent for the electric era. Its one-bow design, 107.8 kWh battery, and 107cm Hyperscreen dashboard represent the most comprehensive luxury EV available.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqs/images/1920x1080/2022_mercedes-benz_eqs_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqs/images/1920x1080/2022_mercedes-benz_eqs_1_1920x1080.jpg",
+  "tags": ["sedan", "electric", "luxury", "ev", "mercedes", "eq", "eqs"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mercedes-eqs-v297",
+      "slug": "mercedes-eqs-v297",
+      "modelId": "m-mercedes-eqs",
+      "brandId": "brand-mercedes",
+      "codeName": "V297",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["sedan", "suv"],
+      "engineTypes": ["BEV"],
+      "markets": ["global"],
+      "description": "Built on Mercedes' purpose-developed EVA2 electric platform, the EQS offers up to 770km WLTP range in EQS 450+ form. The 56-inch MBUX Hyperscreen dashboard spans the entire width of the cockpit. The AMG EQS 53 produces 761bhp in Race Start mode.",
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqs/images/1920x1080/2022_mercedes-benz_eqs_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqs/images/1920x1080/2022_mercedes-benz_eqs_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mercedes-eqs-v297",
+          "generationId": "gen-mercedes-eqs-v297",
+          "url": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqs/images/1920x1080/2022_mercedes-benz_eqs_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqs/images/1920x1080/2022_mercedes-benz_eqs_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "Mercedes-Benz EQS V297",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": ["sedan", "electric", "v297", "2021", "hyperscreen"],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

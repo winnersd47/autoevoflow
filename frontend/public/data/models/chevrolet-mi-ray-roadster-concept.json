@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-mi-ray-roadster-concept",
+  "slug": "chevrolet-mi-ray-roadster-concept",
+  "name": "Mi-ray Roadster Concept",
+  "fullName": "Chevrolet Mi-ray Roadster Concept",
+  "brandId": "brand-chevrolet",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Mi-ray Roadster Concept — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2011_chevrolet_mi-ray_roadster_concept/images/1920x1080/2011_chevrolet_mi-ray_roadster_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2011_chevrolet_mi-ray_roadster_concept/images/1920x1080/2011_chevrolet_mi-ray_roadster_concept_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-mi-ray-roadster-concept-2020-0",
+      "slug": "chevrolet-mi-ray-roadster-concept-2020-0",
+      "modelId": "m-chevrolet-mi-ray-roadster-concept",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Mi-ray Roadster Concept | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2011_chevrolet_mi-ray_roadster_concept/images/1920x1080/2011_chevrolet_mi-ray_roadster_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2011_chevrolet_mi-ray_roadster_concept/images/1920x1080/2011_chevrolet_mi-ray_roadster_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-mi-ray-roadster-concept-2020-0",
+          "generationId": "gen-chevrolet-mi-ray-roadster-concept-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2011_chevrolet_mi-ray_roadster_concept/images/1920x1080/2011_chevrolet_mi-ray_roadster_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2011_chevrolet_mi-ray_roadster_concept/images/1920x1080/2011_chevrolet_mi-ray_roadster_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Mi-ray Roadster Concept | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

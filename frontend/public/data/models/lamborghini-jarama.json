@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-jarama",
+  "slug": "lamborghini-jarama",
+  "name": "Jarama",
+  "fullName": "Lamborghini Jarama",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Jarama — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1973_lamborghini_jarama/images/1920x1080/1973_lamborghini_jarama_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/1973_lamborghini_jarama/images/1920x1080/1973_lamborghini_jarama_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-jarama-2020-0",
+      "slug": "lamborghini-jarama-2020-0",
+      "modelId": "m-lamborghini-jarama",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Jarama | 1973MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1973_lamborghini_jarama/images/1920x1080/1973_lamborghini_jarama_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/1973_lamborghini_jarama/images/1920x1080/1973_lamborghini_jarama_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-jarama-2020-0",
+          "generationId": "gen-lamborghini-jarama-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/1973_lamborghini_jarama/images/1920x1080/1973_lamborghini_jarama_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1973_lamborghini_jarama/images/1920x1080/1973_lamborghini_jarama_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Jarama | 1973MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

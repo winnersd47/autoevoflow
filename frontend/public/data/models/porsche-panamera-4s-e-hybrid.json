@@ -1,0 +1,104 @@
+{
+  "id": "m-porsche-panamera-4s-e-hybrid",
+  "slug": "porsche-panamera-4s-e-hybrid",
+  "name": "Panamera 4S E-Hybrid",
+  "fullName": "Porsche Panamera 4S E-Hybrid",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": 2021,
+  "isActive": false,
+  "description": "Porsche Panamera 4S E-Hybrid — sedan, produced since 2021.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2021_porsche_panamera_4s_e-hybrid/images/1920x1080/2021_porsche_panamera_4s_e-hybrid_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2021_porsche_panamera_4s_e-hybrid/images/1920x1080/2021_porsche_panamera_4s_e-hybrid_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-panamera-4s-e-hybrid-2021-0",
+      "slug": "porsche-panamera-4s-e-hybrid-2021-0",
+      "modelId": "m-porsche-panamera-4s-e-hybrid",
+      "brandId": "brand-porsche",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 Panamera 4S E-Hybrid",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-panamera-4s-e-hybrid-2021-1",
+      "slug": "porsche-panamera-4s-e-hybrid-2021-1",
+      "modelId": "m-porsche-panamera-4s-e-hybrid",
+      "brandId": "brand-porsche",
+      "codeName": "2021",
+      "generationNumber": 2,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Panamera 4S E-Hybrid | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2021_porsche_panamera_4s_e-hybrid/images/1920x1080/2021_porsche_panamera_4s_e-hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2021_porsche_panamera_4s_e-hybrid/images/1920x1080/2021_porsche_panamera_4s_e-hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-panamera-4s-e-hybrid-2021-1",
+          "generationId": "gen-porsche-panamera-4s-e-hybrid-2021-1",
+          "url": "https://images.caricos.com/p/porsche/2021_porsche_panamera_4s_e-hybrid/images/1920x1080/2021_porsche_panamera_4s_e-hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2021_porsche_panamera_4s_e-hybrid/images/1920x1080/2021_porsche_panamera_4s_e-hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "Porsche Panamera 4S E-Hybrid | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

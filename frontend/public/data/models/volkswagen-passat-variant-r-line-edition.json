@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-passat-variant-r-line-edition",
+  "slug": "volkswagen-passat-variant-r-line-edition",
+  "name": "Passat Variant R-Line Edition (",
+  "fullName": "Volkswagen Passat Variant R-Line Edition (",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Passat Variant R-Line Edition ( — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_passat_variant_r-line_eu/images/1920x1080/2019_volkswagen_passat_variant_r-line_eu_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_passat_variant_r-line_eu/images/1920x1080/2019_volkswagen_passat_variant_r-line_eu_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-passat-variant-r-line-edition-2020-0",
+      "slug": "volkswagen-passat-variant-r-line-edition-2020-0",
+      "modelId": "m-volkswagen-passat-variant-r-line-edition",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat Variant R-Line Edition (EU-Spec) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_passat_variant_r-line_eu/images/1920x1080/2019_volkswagen_passat_variant_r-line_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_passat_variant_r-line_eu/images/1920x1080/2019_volkswagen_passat_variant_r-line_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-variant-r-line-edition-2020-0",
+          "generationId": "gen-volkswagen-passat-variant-r-line-edition-2020-0",
+          "url": "https://images.caricos.com/v/vw/2019_volkswagen_passat_variant_r-line_eu/images/1920x1080/2019_volkswagen_passat_variant_r-line_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_passat_variant_r-line_eu/images/1920x1080/2019_volkswagen_passat_variant_r-line_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Passat Variant R-Line Edition (EU-Spec) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

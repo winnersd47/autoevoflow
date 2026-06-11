@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-570s-gt4-mso-x",
+  "slug": "mclaren-570s-gt4-mso-x",
+  "name": "570S GT4 MSO X",
+  "fullName": "McLaren 570S GT4 MSO X",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "endYear": 2018,
+  "isActive": false,
+  "description": "McLaren 570S GT4 MSO X — sedan, produced since 2018.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_gt4_mso_x/images/1920x1080/2018_mclaren_570s_gt4_mso_x_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_gt4_mso_x/images/1920x1080/2018_mclaren_570s_gt4_mso_x_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-570s-gt4-mso-x-2018-0",
+      "slug": "mclaren-570s-gt4-mso-x-2018-0",
+      "modelId": "m-mclaren-570s-gt4-mso-x",
+      "brandId": "brand-mclaren",
+      "codeName": "2018",
+      "generationNumber": 1,
+      "startYear": 2018,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2018 McLaren 570S GT4 MSO X",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_gt4_mso_x/images/1920x1080/2018_mclaren_570s_gt4_mso_x_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_gt4_mso_x/images/1920x1080/2018_mclaren_570s_gt4_mso_x_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-570s-gt4-mso-x-2018-0",
+          "generationId": "gen-mclaren-570s-gt4-mso-x-2018-0",
+          "url": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_gt4_mso_x/images/1920x1080/2018_mclaren_570s_gt4_mso_x_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_gt4_mso_x/images/1920x1080/2018_mclaren_570s_gt4_mso_x_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2018,
+          "altText": "2018 McLaren 570S GT4 MSO X",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2018"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

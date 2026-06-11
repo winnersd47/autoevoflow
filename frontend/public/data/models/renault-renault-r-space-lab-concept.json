@@ -1,0 +1,26 @@
+{
+  "id": "ncs-renault-renault-r-space-lab-concept",
+  "slug": "renault-renault-r-space-lab-concept",
+  "name": "Renault R-Space Lab Concept",
+  "fullName": "2026 Renault R-Space Lab Concept",
+  "brandId": "renault",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "A one-box vehicle, 4.5m long and 1.5m tall, Renault R-Space Lab combines flowing lines with generous interior space. The advanced openR panorama screen frees up space at the front.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Renault-R-Space_Lab_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Renault-R-Space_Lab_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/renault/2026-r-space_lab_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.729Z",
+  "updatedAt": "2026-06-05T07:36:26.729Z"
+}

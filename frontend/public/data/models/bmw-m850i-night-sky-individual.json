@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-m850i-night-sky-individual",
+  "slug": "bmw-m850i-night-sky-individual",
+  "name": "M850i Night Sky Individual",
+  "fullName": "BMW M850i Night Sky Individual",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW M850i Night Sky Individual — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_m850i_night_sky/images/1920x1080/2019_bmw_m850i_night_sky_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_m850i_night_sky/images/1920x1080/2019_bmw_m850i_night_sky_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-m850i-night-sky-individual-2020-0",
+      "slug": "bmw-m850i-night-sky-individual-2020-0",
+      "modelId": "m-bmw-m850i-night-sky-individual",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M850i Night Sky Individual | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_m850i_night_sky/images/1920x1080/2019_bmw_m850i_night_sky_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2019_bmw_m850i_night_sky/images/1920x1080/2019_bmw_m850i_night_sky_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m850i-night-sky-individual-2020-0",
+          "generationId": "gen-bmw-m850i-night-sky-individual-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2019_bmw_m850i_night_sky/images/1920x1080/2019_bmw_m850i_night_sky_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2019_bmw_m850i_night_sky/images/1920x1080/2019_bmw_m850i_night_sky_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW M850i Night Sky Individual | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

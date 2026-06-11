@@ -1,0 +1,164 @@
+{
+  "id": "m-land_rover-discovery-sport",
+  "slug": "land_rover-discovery-sport",
+  "name": "Discovery Sport",
+  "fullName": "Land Rover Discovery Sport",
+  "brandId": "brand-land_rover",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Land Rover Discovery Sport — suv, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/l/land_rover/2020_land_rover_discovery_sport/images/1920x1080/2020_land_rover_discovery_sport_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/land_rover/2020_land_rover_discovery_sport/images/1920x1080/2020_land_rover_discovery_sport_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "land-rover"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-land_rover-discovery-sport-2020-0",
+      "slug": "land_rover-discovery-sport-2020-0",
+      "modelId": "m-land_rover-discovery-sport",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Discovery Sport | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2020_land_rover_discovery_sport/images/1920x1080/2020_land_rover_discovery_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2020_land_rover_discovery_sport/images/1920x1080/2020_land_rover_discovery_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-discovery-sport-2020-0",
+          "generationId": "gen-land_rover-discovery-sport-2020-0",
+          "url": "https://images.caricos.com/l/land_rover/2020_land_rover_discovery_sport/images/1920x1080/2020_land_rover_discovery_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2020_land_rover_discovery_sport/images/1920x1080/2020_land_rover_discovery_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Discovery Sport | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-discovery-sport-2020-1",
+      "slug": "land_rover-discovery-sport-2020-1",
+      "modelId": "m-land_rover-discovery-sport",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Discovery Sport | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2016_land_rover_discovery_sport/images/1920x1080/2016_land_rover_discovery_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2016_land_rover_discovery_sport/images/1920x1080/2016_land_rover_discovery_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-discovery-sport-2020-1",
+          "generationId": "gen-land_rover-discovery-sport-2020-1",
+          "url": "https://images.caricos.com/l/land_rover/2016_land_rover_discovery_sport/images/1920x1080/2016_land_rover_discovery_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2016_land_rover_discovery_sport/images/1920x1080/2016_land_rover_discovery_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Discovery Sport | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-discovery-sport-2020-2",
+      "slug": "land_rover-discovery-sport-2020-2",
+      "modelId": "m-land_rover-discovery-sport",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Land Rover Discovery Sport | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2015_land_rover_discovery_sport/images/1920x1080/2015_land_rover_discovery_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2015_land_rover_discovery_sport/images/1920x1080/2015_land_rover_discovery_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-discovery-sport-2020-2",
+          "generationId": "gen-land_rover-discovery-sport-2020-2",
+          "url": "https://images.caricos.com/l/land_rover/2015_land_rover_discovery_sport/images/1920x1080/2015_land_rover_discovery_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2015_land_rover_discovery_sport/images/1920x1080/2015_land_rover_discovery_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Land Rover Discovery Sport | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

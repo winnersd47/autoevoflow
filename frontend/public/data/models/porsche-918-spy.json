@@ -1,0 +1,210 @@
+{
+  "id": "m-porsche-918-spy",
+  "slug": "porsche-918-spy",
+  "name": "918 Spy",
+  "fullName": "Porsche 918 Spy",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche 918 Spy — sedan, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2014_porsche_918_spyder/images/1920x1080/2014_porsche_918_spyder_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2014_porsche_918_spyder/images/1920x1080/2014_porsche_918_spyder_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-918-spy-2020-0",
+      "slug": "porsche-918-spy-2020-0",
+      "modelId": "m-porsche-918-spy",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 918 Spyder | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2014_porsche_918_spyder/images/1920x1080/2014_porsche_918_spyder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2014_porsche_918_spyder/images/1920x1080/2014_porsche_918_spyder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-918-spy-2020-0",
+          "generationId": "gen-porsche-918-spy-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2014_porsche_918_spyder/images/1920x1080/2014_porsche_918_spyder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2014_porsche_918_spyder/images/1920x1080/2014_porsche_918_spyder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 918 Spyder | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-918-spy-2020-1",
+      "slug": "porsche-918-spy-2020-1",
+      "modelId": "m-porsche-918-spy",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 918 Spyder Concept | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2013_porsche_918_spyder/images/1920x1080/2013_porsche_918_spyder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2013_porsche_918_spyder/images/1920x1080/2013_porsche_918_spyder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-918-spy-2020-1",
+          "generationId": "gen-porsche-918-spy-2020-1",
+          "url": "https://images.caricos.com/p/porsche/2013_porsche_918_spyder/images/1920x1080/2013_porsche_918_spyder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2013_porsche_918_spyder/images/1920x1080/2013_porsche_918_spyder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 918 Spyder Concept | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-918-spy-2020-2",
+      "slug": "porsche-918-spy-2020-2",
+      "modelId": "m-porsche-918-spy",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 918 Spyder Prototype | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2012_porsche_918_spyder_prototype/images/1920x1080/2012_porsche_918_spyder_prototype_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2012_porsche_918_spyder_prototype/images/1920x1080/2012_porsche_918_spyder_prototype_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-918-spy-2020-2",
+          "generationId": "gen-porsche-918-spy-2020-2",
+          "url": "https://images.caricos.com/p/porsche/2012_porsche_918_spyder_prototype/images/1920x1080/2012_porsche_918_spyder_prototype_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2012_porsche_918_spyder_prototype/images/1920x1080/2012_porsche_918_spyder_prototype_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 918 Spyder Prototype | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-918-spy-2020-3",
+      "slug": "porsche-918-spy-2020-3",
+      "modelId": "m-porsche-918-spy",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 918 Spyder Concept | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2010_porsche_918_spyder_concept/images/1920x1080/2010_porsche_918_spyder_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2010_porsche_918_spyder_concept/images/1920x1080/2010_porsche_918_spyder_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-918-spy-2020-3",
+          "generationId": "gen-porsche-918-spy-2020-3",
+          "url": "https://images.caricos.com/p/porsche/2010_porsche_918_spyder_concept/images/1920x1080/2010_porsche_918_spyder_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2010_porsche_918_spyder_concept/images/1920x1080/2010_porsche_918_spyder_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 918 Spyder Concept | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "m-mercedes-amg-c63",
+  "slug": "mercedes-amg-c63",
+  "name": "AMG C63",
+  "fullName": "Mercedes AMG C63",
+  "brandId": "brand-mercedes",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Mercedes-AMG C63 (2008-present) established AMG as a credible BMW M3 rival. Its 6.2-litre V8 in the W204 is considered the finest AMG engine ever built for its sound and response.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "mercedes"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mercedes-amg-c63-1",
+      "slug": "mercedes-amg-c63-gen1",
+      "modelId": "m-mercedes-amg-c63",
+      "brandId": "brand-mercedes",
+      "codeName": "AMG C63",
+      "generationNumber": 1,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Mercedes-AMG C63 (2008-present) established AMG as a credible BMW M3 rival. Its 6.2-litre V8 in the W204 is considered the finest AMG engine ever built for its sound and response.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "m-acura-rlx",
+  "slug": "acura-rlx",
+  "name": "RLX",
+  "fullName": "Acura RLX",
+  "brandId": "brand-acura",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Acura RLX — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/a/acura/2018_acura_rlx/images/1920x1080/2018_acura_rlx_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/acura/2018_acura_rlx/images/1920x1080/2018_acura_rlx_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "acura"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-acura-rlx-2020-0",
+      "slug": "acura-rlx-2020-0",
+      "modelId": "m-acura-rlx",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura RLX | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2018_acura_rlx/images/1920x1080/2018_acura_rlx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2018_acura_rlx/images/1920x1080/2018_acura_rlx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-rlx-2020-0",
+          "generationId": "gen-acura-rlx-2020-0",
+          "url": "https://images.caricos.com/a/acura/2018_acura_rlx/images/1920x1080/2018_acura_rlx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2018_acura_rlx/images/1920x1080/2018_acura_rlx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura RLX | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-acura-rlx-2020-1",
+      "slug": "acura-rlx-2020-1",
+      "modelId": "m-acura-rlx",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura RLX | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2014_acura_rlx/images/1920x1080/2014_acura_rlx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2014_acura_rlx/images/1920x1080/2014_acura_rlx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-rlx-2020-1",
+          "generationId": "gen-acura-rlx-2020-1",
+          "url": "https://images.caricos.com/a/acura/2014_acura_rlx/images/1920x1080/2014_acura_rlx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2014_acura_rlx/images/1920x1080/2014_acura_rlx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura RLX | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

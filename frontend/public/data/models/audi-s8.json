@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-s8",
+  "slug": "audi-s8",
+  "name": "S8",
+  "fullName": "Audi S8",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi S8 (1994–present) is the performance flagship saloon. The D2 pioneered the aluminium Space Frame in series production (1994); the D5 uses a twin-turbocharged 4.0-litre V8 with 48V mild-hybrid and active suspension. Each generation represents the apex of Audi's technology.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-s8-1",
+      "slug": "audi-s8-gen1",
+      "modelId": "m-audi-s8",
+      "brandId": "brand-audi",
+      "codeName": "D2/D3/D4/D5",
+      "generationNumber": 1,
+      "startYear": 1994,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi S8 (1994–present) is the performance flagship saloon. The D2 pioneered the aluminium Space Frame in series production (1994); the D5 uses a twin-turbocharged 4.0-litre V8 with 48V mild-hybrid and active suspension. Each generation represents the apex of Audi's technology.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

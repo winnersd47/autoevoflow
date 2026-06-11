@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-elva-gulf-theme-by-mso",
+  "slug": "mclaren-elva-gulf-theme-by-mso",
+  "name": "Elva Gulf Theme by MSO",
+  "fullName": "McLaren Elva Gulf Theme by MSO",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": 2021,
+  "isActive": false,
+  "description": "McLaren Elva Gulf Theme by MSO — sedan, produced since 2021.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_elva_gulf_theme_mso/images/1920x1080/2021_mclaren_elva_gulf_theme_mso_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_elva_gulf_theme_mso/images/1920x1080/2021_mclaren_elva_gulf_theme_mso_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-elva-gulf-theme-by-mso-2021-0",
+      "slug": "mclaren-elva-gulf-theme-by-mso-2021-0",
+      "modelId": "m-mclaren-elva-gulf-theme-by-mso",
+      "brandId": "brand-mclaren",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 McLaren Elva Gulf Theme by MSO",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_elva_gulf_theme_mso/images/1920x1080/2021_mclaren_elva_gulf_theme_mso_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_elva_gulf_theme_mso/images/1920x1080/2021_mclaren_elva_gulf_theme_mso_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-elva-gulf-theme-by-mso-2021-0",
+          "generationId": "gen-mclaren-elva-gulf-theme-by-mso-2021-0",
+          "url": "https://images.caricos.com/m/mclaren/2021_mclaren_elva_gulf_theme_mso/images/1920x1080/2021_mclaren_elva_gulf_theme_mso_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_elva_gulf_theme_mso/images/1920x1080/2021_mclaren_elva_gulf_theme_mso_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "2021 McLaren Elva Gulf Theme by MSO",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

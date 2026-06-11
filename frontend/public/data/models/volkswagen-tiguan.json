@@ -1,0 +1,550 @@
+{
+  "id": "m-volkswagen-tiguan",
+  "slug": "volkswagen-tiguan",
+  "name": "Tiguan (",
+  "fullName": "Volkswagen Tiguan (",
+  "brandId": "brand-volkswagen",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Tiguan ( — suv, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_us/images/1920x1080/2021_volkswagen_tiguan_us_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_us/images/1920x1080/2021_volkswagen_tiguan_us_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-tiguan-2025-0",
+      "slug": "volkswagen-tiguan-2025-0",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Tiguan",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2012-1",
+      "slug": "volkswagen-tiguan-2012-1",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2012",
+      "generationNumber": 2,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2012 Tiguan",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2012-2",
+      "slug": "volkswagen-tiguan-2012-2",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2012",
+      "generationNumber": 3,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2025_volkswagen_tiguan/images/1920x1080/2025_volkswagen_tiguan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2025_volkswagen_tiguan/images/1920x1080/2025_volkswagen_tiguan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2012-2",
+          "generationId": "gen-volkswagen-tiguan-2012-2",
+          "url": "https://images.caricos.com/v/vw/2025_volkswagen_tiguan/images/1920x1080/2025_volkswagen_tiguan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2025_volkswagen_tiguan/images/1920x1080/2025_volkswagen_tiguan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "Volkswagen Tiguan | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2012-3",
+      "slug": "volkswagen-tiguan-2012-3",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2012",
+      "generationNumber": 4,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2024_volkswagen_tiguan/images/1920x1080/2024_volkswagen_tiguan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2024_volkswagen_tiguan/images/1920x1080/2024_volkswagen_tiguan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2012-3",
+          "generationId": "gen-volkswagen-tiguan-2012-3",
+          "url": "https://images.caricos.com/v/vw/2024_volkswagen_tiguan/images/1920x1080/2024_volkswagen_tiguan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2024_volkswagen_tiguan/images/1920x1080/2024_volkswagen_tiguan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "Volkswagen Tiguan | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2012-4",
+      "slug": "volkswagen-tiguan-2012-4",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2012",
+      "generationNumber": 5,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_tiguan/images/1920x1080/2022_volkswagen_tiguan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2022_volkswagen_tiguan/images/1920x1080/2022_volkswagen_tiguan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2012-4",
+          "generationId": "gen-volkswagen-tiguan-2012-4",
+          "url": "https://images.caricos.com/v/vw/2022_volkswagen_tiguan/images/1920x1080/2022_volkswagen_tiguan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_tiguan/images/1920x1080/2022_volkswagen_tiguan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "Volkswagen Tiguan | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2012-5",
+      "slug": "volkswagen-tiguan-2012-5",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2012",
+      "generationNumber": 6,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan/images/1920x1080/2021_volkswagen_tiguan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan/images/1920x1080/2021_volkswagen_tiguan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2012-5",
+          "generationId": "gen-volkswagen-tiguan-2012-5",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan/images/1920x1080/2021_volkswagen_tiguan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan/images/1920x1080/2021_volkswagen_tiguan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "Volkswagen Tiguan | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2012-6",
+      "slug": "volkswagen-tiguan-2012-6",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2012",
+      "generationNumber": 7,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2018_volkswagen_tiguan/images/1920x1080/2018_volkswagen_tiguan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2018_volkswagen_tiguan/images/1920x1080/2018_volkswagen_tiguan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2012-6",
+          "generationId": "gen-volkswagen-tiguan-2012-6",
+          "url": "https://images.caricos.com/v/vw/2018_volkswagen_tiguan/images/1920x1080/2018_volkswagen_tiguan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2018_volkswagen_tiguan/images/1920x1080/2018_volkswagen_tiguan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "Volkswagen Tiguan | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2012-7",
+      "slug": "volkswagen-tiguan-2012-7",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2012",
+      "generationNumber": 8,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan/images/1920x1080/2017_volkswagen_tiguan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan/images/1920x1080/2017_volkswagen_tiguan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2012-7",
+          "generationId": "gen-volkswagen-tiguan-2012-7",
+          "url": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan/images/1920x1080/2017_volkswagen_tiguan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan/images/1920x1080/2017_volkswagen_tiguan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "Volkswagen Tiguan | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2012-8",
+      "slug": "volkswagen-tiguan-2012-8",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2012",
+      "generationNumber": 9,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2012_volkswagen_tiguan/images/1920x1080/2012_volkswagen_tiguan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2012_volkswagen_tiguan/images/1920x1080/2012_volkswagen_tiguan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2012-8",
+          "generationId": "gen-volkswagen-tiguan-2012-8",
+          "url": "https://images.caricos.com/v/vw/2012_volkswagen_tiguan/images/1920x1080/2012_volkswagen_tiguan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2012_volkswagen_tiguan/images/1920x1080/2012_volkswagen_tiguan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "Volkswagen Tiguan | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2020-0",
+      "slug": "volkswagen-tiguan-2020-0",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan (US-Spec) | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_us/images/1920x1080/2021_volkswagen_tiguan_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_us/images/1920x1080/2021_volkswagen_tiguan_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2020-0",
+          "generationId": "gen-volkswagen-tiguan-2020-0",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_us/images/1920x1080/2021_volkswagen_tiguan_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_us/images/1920x1080/2021_volkswagen_tiguan_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Tiguan (US-Spec) | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2020-1",
+      "slug": "volkswagen-tiguan-2020-1",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan (UK-Spec) | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_uk/images/1920x1080/2021_volkswagen_tiguan_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_uk/images/1920x1080/2021_volkswagen_tiguan_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2020-1",
+          "generationId": "gen-volkswagen-tiguan-2020-1",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_uk/images/1920x1080/2021_volkswagen_tiguan_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_tiguan_uk/images/1920x1080/2021_volkswagen_tiguan_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Tiguan (UK-Spec) | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-tiguan-2020-2",
+      "slug": "volkswagen-tiguan-2020-2",
+      "modelId": "m-volkswagen-tiguan",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan (UK-Spec) | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_uk/images/1920x1080/2017_volkswagen_tiguan_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_uk/images/1920x1080/2017_volkswagen_tiguan_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-2020-2",
+          "generationId": "gen-volkswagen-tiguan-2020-2",
+          "url": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_uk/images/1920x1080/2017_volkswagen_tiguan_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_uk/images/1920x1080/2017_volkswagen_tiguan_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Tiguan (UK-Spec) | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

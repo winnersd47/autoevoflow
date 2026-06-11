@@ -1,0 +1,26 @@
+{
+  "id": "ncs-subaru-subaru-uncharted",
+  "slug": "subaru-subaru-uncharted",
+  "name": "Subaru Uncharted",
+  "fullName": "2026 Subaru Uncharted",
+  "brandId": "subaru",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Subaru Uncharted Sport offers 338 horsepower from dual electric motors located on the front and rear axles and more than 285 miles of manufacturer-estimated range.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Subaru-Uncharted-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Subaru-Uncharted-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/subaru/2026-uncharted/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.735Z",
+  "updatedAt": "2026-06-05T07:36:26.735Z"
+}

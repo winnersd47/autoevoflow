@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-599-gtb",
+  "slug": "ferrari-599-gtb",
+  "name": "599 GTB Fiorano",
+  "fullName": "Ferrari 599 GTB Fiorano",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "endYear": 2012,
+  "isActive": false,
+  "description": "The Ferrari 599 GTB Fiorano (2006–2012) combined a 620 hp 6.0-litre V12 with a magnesium-aluminium chassis derived from the Enzo. The HGTE handling upgrade package made it the most capable front-engine Ferrari to that date.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "v12", "front-engine", "gt"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

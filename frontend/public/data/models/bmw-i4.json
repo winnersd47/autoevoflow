@@ -1,0 +1,118 @@
+{
+  "id": "m-bmw-i4",
+  "slug": "bmw-i4",
+  "name": "i4",
+  "fullName": "BMW i4",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW i4 — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_i4/images/1920x1080/2025_bmw_i4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_i4/images/1920x1080/2025_bmw_i4_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-i4-2020-0",
+      "slug": "bmw-i4-2020-0",
+      "modelId": "m-bmw-i4",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW i4 | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_i4/images/1920x1080/2025_bmw_i4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_i4/images/1920x1080/2025_bmw_i4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-i4-2020-0",
+          "generationId": "gen-bmw-i4-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2025_bmw_i4/images/1920x1080/2025_bmw_i4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_i4/images/1920x1080/2025_bmw_i4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW i4 | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-i4-2020-1",
+      "slug": "bmw-i4-2020-1",
+      "modelId": "m-bmw-i4",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW i4 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_i4/images/1920x1080/2022_bmw_i4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2022_bmw_i4/images/1920x1080/2022_bmw_i4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-i4-2020-1",
+          "generationId": "gen-bmw-i4-2020-1",
+          "url": "https://images.caricos.com/b/bmw/2022_bmw_i4/images/1920x1080/2022_bmw_i4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_i4/images/1920x1080/2022_bmw_i4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW i4 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

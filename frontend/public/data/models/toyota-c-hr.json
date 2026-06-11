@@ -1,0 +1,288 @@
+{
+  "id": "m-toyota-c-hr",
+  "slug": "toyota-c-hr",
+  "name": "C-HR (",
+  "fullName": "Toyota C-HR (",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota C-HR ( — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2018_toyota_c-hr_us/images/1920x1080/2018_toyota_c-hr_us_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2018_toyota_c-hr_us/images/1920x1080/2018_toyota_c-hr_us_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-c-hr-2026-0",
+      "slug": "toyota-c-hr-2026-0",
+      "modelId": "m-toyota-c-hr",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 C-HR",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-c-hr-2026-1",
+      "slug": "toyota-c-hr-2026-1",
+      "modelId": "m-toyota-c-hr",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 2,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota C-HR | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2026_toyota_c-hr/images/1920x1080/2026_toyota_c-hr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2026_toyota_c-hr/images/1920x1080/2026_toyota_c-hr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-c-hr-2026-1",
+          "generationId": "gen-toyota-c-hr-2026-1",
+          "url": "https://images.caricos.com/t/toyota/2026_toyota_c-hr/images/1920x1080/2026_toyota_c-hr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2026_toyota_c-hr/images/1920x1080/2026_toyota_c-hr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota C-HR | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-c-hr-2026-2",
+      "slug": "toyota-c-hr-2026-2",
+      "modelId": "m-toyota-c-hr",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 3,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota C-HR | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2024_toyota_c-hr/images/1920x1080/2024_toyota_c-hr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2024_toyota_c-hr/images/1920x1080/2024_toyota_c-hr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-c-hr-2026-2",
+          "generationId": "gen-toyota-c-hr-2026-2",
+          "url": "https://images.caricos.com/t/toyota/2024_toyota_c-hr/images/1920x1080/2024_toyota_c-hr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2024_toyota_c-hr/images/1920x1080/2024_toyota_c-hr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota C-HR | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-c-hr-2026-3",
+      "slug": "toyota-c-hr-2026-3",
+      "modelId": "m-toyota-c-hr",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 4,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota C-HR | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_c-hr/images/1920x1080/2021_toyota_c-hr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2021_toyota_c-hr/images/1920x1080/2021_toyota_c-hr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-c-hr-2026-3",
+          "generationId": "gen-toyota-c-hr-2026-3",
+          "url": "https://images.caricos.com/t/toyota/2021_toyota_c-hr/images/1920x1080/2021_toyota_c-hr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_c-hr/images/1920x1080/2021_toyota_c-hr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota C-HR | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-c-hr-2026-4",
+      "slug": "toyota-c-hr-2026-4",
+      "modelId": "m-toyota-c-hr",
+      "brandId": "brand-toyota",
+      "codeName": "2026",
+      "generationNumber": 5,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota C-HR | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_c-hr/images/1920x1080/2017_toyota_c-hr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2017_toyota_c-hr/images/1920x1080/2017_toyota_c-hr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-c-hr-2026-4",
+          "generationId": "gen-toyota-c-hr-2026-4",
+          "url": "https://images.caricos.com/t/toyota/2017_toyota_c-hr/images/1920x1080/2017_toyota_c-hr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_c-hr/images/1920x1080/2017_toyota_c-hr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "Toyota C-HR | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-c-hr-2020-0",
+      "slug": "toyota-c-hr-2020-0",
+      "modelId": "m-toyota-c-hr",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota C-HR (US-Spec) | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2018_toyota_c-hr_us/images/1920x1080/2018_toyota_c-hr_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2018_toyota_c-hr_us/images/1920x1080/2018_toyota_c-hr_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-c-hr-2020-0",
+          "generationId": "gen-toyota-c-hr-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2018_toyota_c-hr_us/images/1920x1080/2018_toyota_c-hr_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2018_toyota_c-hr_us/images/1920x1080/2018_toyota_c-hr_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota C-HR (US-Spec) | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-nuvolari",
+  "slug": "audi-audi-nuvolari",
+  "name": "Audi Nuvolari",
+  "fullName": "2028 Audi Nuvolari",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "Audi Nuvolari is powered by a hybrid high-performance powertrain with a maximum system output of 736 kW (1,001 PS). It combines a 4.0-liter V8 biturbo engine...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-Nuvolari-2028-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-Nuvolari-2028-thb.jpg",
+  "tags": [
+    "new",
+    "2028"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2028-nuvolari/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.706Z",
+  "updatedAt": "2026-06-05T07:36:26.708Z"
+}

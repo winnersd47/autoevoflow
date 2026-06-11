@@ -1,0 +1,164 @@
+{
+  "id": "m-honda-civic-sedan",
+  "slug": "honda-civic-sedan",
+  "name": "Civic Sedan",
+  "fullName": "Honda Civic Sedan",
+  "brandId": "brand-honda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda Civic Sedan — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_sedan/images/1920x1080/2020_honda_civic_sedan_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2020_honda_civic_sedan/images/1920x1080/2020_honda_civic_sedan_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-civic-sedan-2020-0",
+      "slug": "honda-civic-sedan-2020-0",
+      "modelId": "m-honda-civic-sedan",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Sedan | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_sedan/images/1920x1080/2020_honda_civic_sedan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2020_honda_civic_sedan/images/1920x1080/2020_honda_civic_sedan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-sedan-2020-0",
+          "generationId": "gen-honda-civic-sedan-2020-0",
+          "url": "https://images.caricos.com/h/honda/2020_honda_civic_sedan/images/1920x1080/2020_honda_civic_sedan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_sedan/images/1920x1080/2020_honda_civic_sedan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Sedan | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-civic-sedan-2020-1",
+      "slug": "honda-civic-sedan-2020-1",
+      "modelId": "m-honda-civic-sedan",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Sedan | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2019_honda_civic_sedan/images/1920x1080/2019_honda_civic_sedan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2019_honda_civic_sedan/images/1920x1080/2019_honda_civic_sedan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-sedan-2020-1",
+          "generationId": "gen-honda-civic-sedan-2020-1",
+          "url": "https://images.caricos.com/h/honda/2019_honda_civic_sedan/images/1920x1080/2019_honda_civic_sedan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2019_honda_civic_sedan/images/1920x1080/2019_honda_civic_sedan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Sedan | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-civic-sedan-2020-2",
+      "slug": "honda-civic-sedan-2020-2",
+      "modelId": "m-honda-civic-sedan",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Sedan | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_civic/images/1920x1080/2016_honda_civic_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2016_honda_civic/images/1920x1080/2016_honda_civic_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-sedan-2020-2",
+          "generationId": "gen-honda-civic-sedan-2020-2",
+          "url": "https://images.caricos.com/h/honda/2016_honda_civic/images/1920x1080/2016_honda_civic_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_civic/images/1920x1080/2016_honda_civic_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Sedan | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

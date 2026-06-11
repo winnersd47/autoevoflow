@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-grecale-folgore",
+  "slug": "maserati-grecale-folgore",
+  "name": "Grecale Folgore",
+  "fullName": "Maserati Grecale Folgore",
+  "brandId": "brand-maserati",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "Maserati Grecale Folgore — suv, produced since 2024.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2024_maserati_grecale_folgore/images/1920x1080/2024_maserati_grecale_folgore_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2024_maserati_grecale_folgore/images/1920x1080/2024_maserati_grecale_folgore_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-grecale-folgore-2024-0",
+      "slug": "maserati-grecale-folgore-2024-0",
+      "modelId": "m-maserati-grecale-folgore",
+      "brandId": "brand-maserati",
+      "codeName": "2024",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2024 Maserati Grecale Folgore",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2024_maserati_grecale_folgore/images/1920x1080/2024_maserati_grecale_folgore_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2024_maserati_grecale_folgore/images/1920x1080/2024_maserati_grecale_folgore_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-grecale-folgore-2024-0",
+          "generationId": "gen-maserati-grecale-folgore-2024-0",
+          "url": "https://images.caricos.com/m/maserati/2024_maserati_grecale_folgore/images/1920x1080/2024_maserati_grecale_folgore_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2024_maserati_grecale_folgore/images/1920x1080/2024_maserati_grecale_folgore_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "2024 Maserati Grecale Folgore",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

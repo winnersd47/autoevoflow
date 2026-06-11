@@ -1,0 +1,26 @@
+{
+  "id": "ncs-rolls-royce-rolls-royce-spectre-series-ii",
+  "slug": "rolls-royce-rolls-royce-spectre-series-ii",
+  "name": "Rolls-Royce Spectre Series II",
+  "fullName": "2027 Rolls-Royce Spectre Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Responding to the exceptional creative ambition of Spectre clients, Spectre Series II significantly expands the interior palette, offering new materials, treatments and...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Spectre_Series_II-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Spectre_Series_II-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/rolls-royce/2027-spectre_series_ii/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.713Z",
+  "updatedAt": "2026-06-05T07:36:26.713Z"
+}

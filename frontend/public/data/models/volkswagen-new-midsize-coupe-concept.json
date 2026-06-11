@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-new-midsize-coupe-concept",
+  "slug": "volkswagen-new-midsize-coupe-concept",
+  "name": "New Midsize Coupe Concept",
+  "fullName": "Volkswagen New Midsize Coupe Concept",
+  "brandId": "brand-volkswagen",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen New Midsize Coupe Concept — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_midsize_coupe_concept/images/1920x1080/2014_volkswagen_midsize_coupe_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_midsize_coupe_concept/images/1920x1080/2014_volkswagen_midsize_coupe_concept_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-new-midsize-coupe-concept-2020-0",
+      "slug": "volkswagen-new-midsize-coupe-concept-2020-0",
+      "modelId": "m-volkswagen-new-midsize-coupe-concept",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen New Midsize Coupe Concept | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_midsize_coupe_concept/images/1920x1080/2014_volkswagen_midsize_coupe_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_midsize_coupe_concept/images/1920x1080/2014_volkswagen_midsize_coupe_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-new-midsize-coupe-concept-2020-0",
+          "generationId": "gen-volkswagen-new-midsize-coupe-concept-2020-0",
+          "url": "https://images.caricos.com/v/vw/2014_volkswagen_midsize_coupe_concept/images/1920x1080/2014_volkswagen_midsize_coupe_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_midsize_coupe_concept/images/1920x1080/2014_volkswagen_midsize_coupe_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen New Midsize Coupe Concept | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

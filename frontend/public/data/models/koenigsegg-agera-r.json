@@ -1,0 +1,118 @@
+{
+  "id": "m-koenigsegg-agera-r",
+  "slug": "koenigsegg-agera-r",
+  "name": "Agera R",
+  "fullName": "Koenigsegg Agera R",
+  "brandId": "brand-koenigsegg",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Koenigsegg Agera R — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/k/koenigsegg/2013_koenigsegg_agera_r/images/1920x1080/2013_koenigsegg_agera_r_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/k/koenigsegg/2013_koenigsegg_agera_r/images/1920x1080/2013_koenigsegg_agera_r_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "koenigsegg"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-koenigsegg-agera-r-2020-0",
+      "slug": "koenigsegg-agera-r-2020-0",
+      "modelId": "m-koenigsegg-agera-r",
+      "brandId": "brand-koenigsegg",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Koenigsegg Agera R | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/k/koenigsegg/2013_koenigsegg_agera_r/images/1920x1080/2013_koenigsegg_agera_r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/k/koenigsegg/2013_koenigsegg_agera_r/images/1920x1080/2013_koenigsegg_agera_r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-koenigsegg-agera-r-2020-0",
+          "generationId": "gen-koenigsegg-agera-r-2020-0",
+          "url": "https://images.caricos.com/k/koenigsegg/2013_koenigsegg_agera_r/images/1920x1080/2013_koenigsegg_agera_r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/k/koenigsegg/2013_koenigsegg_agera_r/images/1920x1080/2013_koenigsegg_agera_r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Koenigsegg Agera R | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-koenigsegg-agera-r-2020-1",
+      "slug": "koenigsegg-agera-r-2020-1",
+      "modelId": "m-koenigsegg-agera-r",
+      "brandId": "brand-koenigsegg",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Koenigsegg Agera R | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/k/koenigsegg/2012_koenigsegg_agera_r/images/1920x1080/2012_koenigsegg_agera_r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/k/koenigsegg/2012_koenigsegg_agera_r/images/1920x1080/2012_koenigsegg_agera_r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-koenigsegg-agera-r-2020-1",
+          "generationId": "gen-koenigsegg-agera-r-2020-1",
+          "url": "https://images.caricos.com/k/koenigsegg/2012_koenigsegg_agera_r/images/1920x1080/2012_koenigsegg_agera_r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/k/koenigsegg/2012_koenigsegg_agera_r/images/1920x1080/2012_koenigsegg_agera_r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Koenigsegg Agera R | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

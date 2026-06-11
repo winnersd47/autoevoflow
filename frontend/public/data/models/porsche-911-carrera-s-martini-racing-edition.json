@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-911-carrera-s-martini-racing-edition",
+  "slug": "porsche-911-carrera-s-martini-racing-edition",
+  "name": "911 Carrera S Martini Racing Edition",
+  "fullName": "Porsche 911 Carrera S Martini Racing Edition",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche 911 Carrera S Martini Racing Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2014_porsche_911_martini_racing_edition/images/1920x1080/2014_porsche_911_martini_racing_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2014_porsche_911_martini_racing_edition/images/1920x1080/2014_porsche_911_martini_racing_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-911-carrera-s-martini-racing-edition-2020-0",
+      "slug": "porsche-911-carrera-s-martini-racing-edition-2020-0",
+      "modelId": "m-porsche-911-carrera-s-martini-racing-edition",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 Carrera S Martini Racing Edition | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2014_porsche_911_martini_racing_edition/images/1920x1080/2014_porsche_911_martini_racing_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2014_porsche_911_martini_racing_edition/images/1920x1080/2014_porsche_911_martini_racing_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-carrera-s-martini-racing-edition-2020-0",
+          "generationId": "gen-porsche-911-carrera-s-martini-racing-edition-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2014_porsche_911_martini_racing_edition/images/1920x1080/2014_porsche_911_martini_racing_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2014_porsche_911_martini_racing_edition/images/1920x1080/2014_porsche_911_martini_racing_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 911 Carrera S Martini Racing Edition | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

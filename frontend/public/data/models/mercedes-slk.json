@@ -1,0 +1,51 @@
+{
+  "id": "m-mercedes-slk",
+  "slug": "mercedes-slk",
+  "name": "SLK",
+  "fullName": "Mercedes SLK",
+  "brandId": "brand-mercedes",
+  "bodyType": "convertible",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "endYear": 2022,
+  "isActive": false,
+  "description": "The Mercedes-Benz SLK (1996-2022, renamed SLC in 2016) was a compact roadster with a folding metal hardtop — a technical novelty at launch that became the template for the segment.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "convertible",
+    "mercedes"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mercedes-slk-1",
+      "slug": "mercedes-slk-gen1",
+      "modelId": "m-mercedes-slk",
+      "brandId": "brand-mercedes",
+      "codeName": "SLK",
+      "generationNumber": 1,
+      "startYear": 1996,
+      "endYear": 2022,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Mercedes-Benz SLK (1996-2022, renamed SLC in 2016) was a compact roadster with a folding metal hardtop — a technical novelty at launch that became the template for the segment.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

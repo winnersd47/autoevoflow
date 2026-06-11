@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-equinox-ev",
+  "slug": "chevrolet-equinox-ev",
+  "name": "Equinox EV",
+  "fullName": "Chevrolet Equinox EV",
+  "brandId": "brand-chevrolet",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Equinox EV — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_equinox_ev/images/1920x1080/2024_chevrolet_equinox_ev_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_equinox_ev/images/1920x1080/2024_chevrolet_equinox_ev_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-equinox-ev-2020-0",
+      "slug": "chevrolet-equinox-ev-2020-0",
+      "modelId": "m-chevrolet-equinox-ev",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Equinox EV | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_equinox_ev/images/1920x1080/2024_chevrolet_equinox_ev_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_equinox_ev/images/1920x1080/2024_chevrolet_equinox_ev_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-equinox-ev-2020-0",
+          "generationId": "gen-chevrolet-equinox-ev-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2024_chevrolet_equinox_ev/images/1920x1080/2024_chevrolet_equinox_ev_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_equinox_ev/images/1920x1080/2024_chevrolet_equinox_ev_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Equinox EV | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

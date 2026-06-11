@@ -1,0 +1,118 @@
+{
+  "id": "m-volkswagen-golf-gti-tcr",
+  "slug": "volkswagen-golf-gti-tcr",
+  "name": "Golf GTI TCR",
+  "fullName": "Volkswagen Golf GTI TCR",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Golf GTI TCR — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_golf_gtr_tcr/images/1920x1080/2019_volkswagen_golf_gtr_tcr_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_golf_gtr_tcr/images/1920x1080/2019_volkswagen_golf_gtr_tcr_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-golf-gti-tcr-2020-0",
+      "slug": "volkswagen-golf-gti-tcr-2020-0",
+      "modelId": "m-volkswagen-golf-gti-tcr",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Golf GTI TCR | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_golf_gtr_tcr/images/1920x1080/2019_volkswagen_golf_gtr_tcr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_golf_gtr_tcr/images/1920x1080/2019_volkswagen_golf_gtr_tcr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-golf-gti-tcr-2020-0",
+          "generationId": "gen-volkswagen-golf-gti-tcr-2020-0",
+          "url": "https://images.caricos.com/v/vw/2019_volkswagen_golf_gtr_tcr/images/1920x1080/2019_volkswagen_golf_gtr_tcr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_golf_gtr_tcr/images/1920x1080/2019_volkswagen_golf_gtr_tcr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Golf GTI TCR | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-golf-gti-tcr-2020-1",
+      "slug": "volkswagen-golf-gti-tcr-2020-1",
+      "modelId": "m-volkswagen-golf-gti-tcr",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Golf GTI TCR | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_tcr/images/1920x1080/2016_volkswagen_golf_gti_tcr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_tcr/images/1920x1080/2016_volkswagen_golf_gti_tcr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-golf-gti-tcr-2020-1",
+          "generationId": "gen-volkswagen-golf-gti-tcr-2020-1",
+          "url": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_tcr/images/1920x1080/2016_volkswagen_golf_gti_tcr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_tcr/images/1920x1080/2016_volkswagen_golf_gti_tcr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Golf GTI TCR | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

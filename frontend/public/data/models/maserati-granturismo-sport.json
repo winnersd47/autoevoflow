@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-granturismo-sport",
+  "slug": "maserati-granturismo-sport",
+  "name": "GranTurismo Sport",
+  "fullName": "Maserati GranTurismo Sport",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "endYear": 2013,
+  "isActive": false,
+  "description": "Maserati GranTurismo Sport — coupe, produced since 2013.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_granturismo_sport/images/1920x1080/2013_maserati_granturismo_sport_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2013_maserati_granturismo_sport/images/1920x1080/2013_maserati_granturismo_sport_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-granturismo-sport-2013-0",
+      "slug": "maserati-granturismo-sport-2013-0",
+      "modelId": "m-maserati-granturismo-sport",
+      "brandId": "brand-maserati",
+      "codeName": "2013",
+      "generationNumber": 1,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2013 Maserati GranTurismo Sport",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_granturismo_sport/images/1920x1080/2013_maserati_granturismo_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2013_maserati_granturismo_sport/images/1920x1080/2013_maserati_granturismo_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-granturismo-sport-2013-0",
+          "generationId": "gen-maserati-granturismo-sport-2013-0",
+          "url": "https://images.caricos.com/m/maserati/2013_maserati_granturismo_sport/images/1920x1080/2013_maserati_granturismo_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_granturismo_sport/images/1920x1080/2013_maserati_granturismo_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2013,
+          "altText": "2013 Maserati GranTurismo Sport",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2013"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

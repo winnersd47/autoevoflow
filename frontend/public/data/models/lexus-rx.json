@@ -1,0 +1,58 @@
+{
+  "id": "m-lexus-rx",
+  "slug": "lexus-rx",
+  "name": "RX",
+  "fullName": "Lexus RX",
+  "brandId": "brand-lexus",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lexus RX — suv, produced since 2023.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "suv",
+    "lexus"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lexus-rx-2023-0",
+      "slug": "lexus-rx-2023-0",
+      "modelId": "m-lexus-rx",
+      "brandId": "brand-lexus",
+      "codeName": "2023",
+      "generationNumber": 1,
+      "startYear": 2023,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2023 RX",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2023"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "m-toyota-corolla-hatchback",
+  "slug": "toyota-corolla-hatchback",
+  "name": "Corolla Hatchback (",
+  "fullName": "Toyota Corolla Hatchback (",
+  "brandId": "brand-toyota",
+  "bodyType": "hatchback",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Corolla Hatchback ( — hatchback, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback_eu/images/1920x1080/2019_toyota_corolla_hatchback_eu_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback_eu/images/1920x1080/2019_toyota_corolla_hatchback_eu_1_1920x1080.jpg",
+  "tags": [
+    "hatchback",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-corolla-hatchback-2020-0",
+      "slug": "toyota-corolla-hatchback-2020-0",
+      "modelId": "m-toyota-corolla-hatchback",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Corolla Hatchback | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_corolla_hatchback/images/1920x1080/2023_toyota_corolla_hatchback_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2023_toyota_corolla_hatchback/images/1920x1080/2023_toyota_corolla_hatchback_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-corolla-hatchback-2020-0",
+          "generationId": "gen-toyota-corolla-hatchback-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2023_toyota_corolla_hatchback/images/1920x1080/2023_toyota_corolla_hatchback_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_corolla_hatchback/images/1920x1080/2023_toyota_corolla_hatchback_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Corolla Hatchback | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "hatchback",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-corolla-hatchback-2020-1",
+      "slug": "toyota-corolla-hatchback-2020-1",
+      "modelId": "m-toyota-corolla-hatchback",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Corolla Hatchback | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback/images/1920x1080/2019_toyota_corolla_hatchback_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback/images/1920x1080/2019_toyota_corolla_hatchback_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-corolla-hatchback-2020-1",
+          "generationId": "gen-toyota-corolla-hatchback-2020-1",
+          "url": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback/images/1920x1080/2019_toyota_corolla_hatchback_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback/images/1920x1080/2019_toyota_corolla_hatchback_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Corolla Hatchback | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "hatchback",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-corolla-hatchback-2020-0",
+      "slug": "toyota-corolla-hatchback-2020-0",
+      "modelId": "m-toyota-corolla-hatchback",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Corolla Hatchback (EU-Spec) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback_eu/images/1920x1080/2019_toyota_corolla_hatchback_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback_eu/images/1920x1080/2019_toyota_corolla_hatchback_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-corolla-hatchback-2020-0",
+          "generationId": "gen-toyota-corolla-hatchback-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback_eu/images/1920x1080/2019_toyota_corolla_hatchback_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2019_toyota_corolla_hatchback_eu/images/1920x1080/2019_toyota_corolla_hatchback_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Corolla Hatchback (EU-Spec) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "hatchback",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-400-gt-2-2",
+  "slug": "lamborghini-400-gt-2-2",
+  "name": "400 GT 2+2",
+  "fullName": "Lamborghini 400 GT 2+2",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini 400 GT 2+2 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1966_lamborghini_400_gt/images/1920x1080/1966_lamborghini_400_gt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/1966_lamborghini_400_gt/images/1920x1080/1966_lamborghini_400_gt_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-400-gt-2-2-2020-0",
+      "slug": "lamborghini-400-gt-2-2-2020-0",
+      "modelId": "m-lamborghini-400-gt-2-2",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini 400 GT 2+2 | 1966MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1966_lamborghini_400_gt/images/1920x1080/1966_lamborghini_400_gt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/1966_lamborghini_400_gt/images/1920x1080/1966_lamborghini_400_gt_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-400-gt-2-2-2020-0",
+          "generationId": "gen-lamborghini-400-gt-2-2-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/1966_lamborghini_400_gt/images/1920x1080/1966_lamborghini_400_gt_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/1966_lamborghini_400_gt/images/1920x1080/1966_lamborghini_400_gt_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini 400 GT 2+2 | 1966MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

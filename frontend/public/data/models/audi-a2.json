@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-a2",
+  "slug": "audi-a2",
+  "name": "A2",
+  "fullName": "Audi A2",
+  "brandId": "brand-audi",
+  "bodyType": "hatchback",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "endYear": 2005,
+  "isActive": false,
+  "description": "The Audi A2 (1999–2005) was a revolutionary aluminium space-frame subcompact — the first volume-production aluminium car — predating Audi's ASF strategy by a decade. Its Lite construction saved 40% weight versus steel equivalent. Discontinued due to high production costs despite critical acclaim.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "hatchback",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-a2-1",
+      "slug": "audi-a2-gen1",
+      "modelId": "m-audi-a2",
+      "brandId": "brand-audi",
+      "codeName": "8Z",
+      "generationNumber": 1,
+      "startYear": 1999,
+      "endYear": 2005,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi A2 (1999–2005) was a revolutionary aluminium space-frame subcompact — the first volume-production aluminium car — predating Audi's ASF strategy by a decade. Its Lite construction saved 40% weight versus steel equivalent. Discontinued due to high production costs despite critical acclaim.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-subaru-wrx-concept",
+  "slug": "subaru-wrx-concept",
+  "name": "WRX Concept",
+  "fullName": "Subaru WRX Concept",
+  "brandId": "brand-subaru",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Subaru WRX Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/s/subaru/2013_subaru_wrx_concept/images/1920x1080/2013_subaru_wrx_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/s/subaru/2013_subaru_wrx_concept/images/1920x1080/2013_subaru_wrx_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "subaru"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-subaru-wrx-concept-2020-0",
+      "slug": "subaru-wrx-concept-2020-0",
+      "modelId": "m-subaru-wrx-concept",
+      "brandId": "brand-subaru",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Subaru WRX Concept | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/s/subaru/2013_subaru_wrx_concept/images/1920x1080/2013_subaru_wrx_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/s/subaru/2013_subaru_wrx_concept/images/1920x1080/2013_subaru_wrx_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-subaru-wrx-concept-2020-0",
+          "generationId": "gen-subaru-wrx-concept-2020-0",
+          "url": "https://images.caricos.com/s/subaru/2013_subaru_wrx_concept/images/1920x1080/2013_subaru_wrx_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/s/subaru/2013_subaru_wrx_concept/images/1920x1080/2013_subaru_wrx_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Subaru WRX Concept | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

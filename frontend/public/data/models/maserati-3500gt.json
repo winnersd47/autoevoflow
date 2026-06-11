@@ -1,0 +1,42 @@
+{
+  "id": "m-maserati-maserati-3500gt",
+  "slug": "maserati-3500gt",
+  "name": "3500 GT",
+  "fullName": "Maserati 3500 GT",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1957,
+  "endYear": 1964,
+  "isActive": false,
+  "description": "The Maserati 3500 GT (1957–1964) was Maserati's first mass-production grand tourer. Designed by Touring of Milan with a twin-cam inline-six engine, it established Maserati's identity as a builder of elegant, fast, long-distance coupes for discerning owners.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "maserati", "classic", "heritage"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-3500gt-1",
+      "slug": "maserati-3500gt-gen1",
+      "modelId": "m-maserati-maserati-3500gt",
+      "brandId": "brand-maserati",
+      "codeName": "AM101",
+      "generationNumber": 1,
+      "startYear": 1957,
+      "endYear": 1964,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The Maserati 3500 GT (1957–1964) was Maserati's first mass-production grand tourer. Designed by Touring of Milan with a twin-cam inline-six engine, it established Maserati's identity as a builder of elegant, fast, long-distance coupes for discerning owners.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-infiniti-ipl-g-convertible",
+  "slug": "infiniti-ipl-g-convertible",
+  "name": "IPL G Convertible",
+  "fullName": "Infiniti IPL G Convertible",
+  "brandId": "brand-infiniti",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti IPL G Convertible — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2013_infiniti_ipl_g_convertible/images/1920x1080/2013_infiniti_ipl_g_convertible_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2013_infiniti_ipl_g_convertible/images/1920x1080/2013_infiniti_ipl_g_convertible_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-ipl-g-convertible-2020-0",
+      "slug": "infiniti-ipl-g-convertible-2020-0",
+      "modelId": "m-infiniti-ipl-g-convertible",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti IPL G Convertible | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2013_infiniti_ipl_g_convertible/images/1920x1080/2013_infiniti_ipl_g_convertible_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2013_infiniti_ipl_g_convertible/images/1920x1080/2013_infiniti_ipl_g_convertible_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-ipl-g-convertible-2020-0",
+          "generationId": "gen-infiniti-ipl-g-convertible-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2013_infiniti_ipl_g_convertible/images/1920x1080/2013_infiniti_ipl_g_convertible_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2013_infiniti_ipl_g_convertible/images/1920x1080/2013_infiniti_ipl_g_convertible_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti IPL G Convertible | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

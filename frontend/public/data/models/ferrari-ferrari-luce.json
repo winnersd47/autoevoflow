@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ferrari-ferrari-luce",
+  "slug": "ferrari-ferrari-luce",
+  "name": "Ferrari Luce",
+  "fullName": "2027 Ferrari Luce",
+  "brandId": "ferrari",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Ferrari Luce is the first electric Ferrari from the Maranello marque. Its design was approached in an unconventional way, intended to underline its uniqueness...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-Luce-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-Luce-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ferrari/2027-luce/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.715Z",
+  "updatedAt": "2026-06-05T07:36:26.715Z"
+}

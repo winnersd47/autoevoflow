@@ -1,0 +1,72 @@
+{
+  "id": "m-infiniti-fx35",
+  "slug": "infiniti-fx35",
+  "name": "FX35",
+  "fullName": "Infiniti FX35",
+  "brandId": "brand-infiniti",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti FX35 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2012_infiniti_fx35/images/1920x1080/2012_infiniti_fx35_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2012_infiniti_fx35/images/1920x1080/2012_infiniti_fx35_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-fx35-2020-0",
+      "slug": "infiniti-fx35-2020-0",
+      "modelId": "m-infiniti-fx35",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti FX35 | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2012_infiniti_fx35/images/1920x1080/2012_infiniti_fx35_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2012_infiniti_fx35/images/1920x1080/2012_infiniti_fx35_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-fx35-2020-0",
+          "generationId": "gen-infiniti-fx35-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2012_infiniti_fx35/images/1920x1080/2012_infiniti_fx35_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2012_infiniti_fx35/images/1920x1080/2012_infiniti_fx35_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti FX35 | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

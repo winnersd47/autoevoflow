@@ -1,0 +1,72 @@
+{
+  "id": "m-volvo-s60-cross-country",
+  "slug": "volvo-s60-cross-country",
+  "name": "S60 Cross Country",
+  "fullName": "Volvo S60 Cross Country",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo S60 Cross Country — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2016_volvo_s60_cross_country/images/1920x1080/2016_volvo_s60_cross_country_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2016_volvo_s60_cross_country/images/1920x1080/2016_volvo_s60_cross_country_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-s60-cross-country-2020-0",
+      "slug": "volvo-s60-cross-country-2020-0",
+      "modelId": "m-volvo-s60-cross-country",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo S60 Cross Country | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2016_volvo_s60_cross_country/images/1920x1080/2016_volvo_s60_cross_country_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2016_volvo_s60_cross_country/images/1920x1080/2016_volvo_s60_cross_country_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-s60-cross-country-2020-0",
+          "generationId": "gen-volvo-s60-cross-country-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2016_volvo_s60_cross_country/images/1920x1080/2016_volvo_s60_cross_country_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2016_volvo_s60_cross_country/images/1920x1080/2016_volvo_s60_cross_country_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo S60 Cross Country | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

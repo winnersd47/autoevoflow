@@ -1,0 +1,210 @@
+{
+  "id": "m-porsche-cayenne-e-hybrid",
+  "slug": "porsche-cayenne-e-hybrid",
+  "name": "Cayenne E-Hybrid (",
+  "fullName": "Porsche Cayenne E-Hybrid (",
+  "brandId": "brand-porsche",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Cayenne E-Hybrid ( — suv, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_uk/images/1920x1080/2020_porsche_cayenne_e-hybrid_uk_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_uk/images/1920x1080/2020_porsche_cayenne_e-hybrid_uk_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-cayenne-e-hybrid-2020-0",
+      "slug": "porsche-cayenne-e-hybrid-2020-0",
+      "modelId": "m-porsche-cayenne-e-hybrid",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne E-Hybrid | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2024_porsche_cayenne_e-hybrid/images/1920x1080/2024_porsche_cayenne_e-hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2024_porsche_cayenne_e-hybrid/images/1920x1080/2024_porsche_cayenne_e-hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-e-hybrid-2020-0",
+          "generationId": "gen-porsche-cayenne-e-hybrid-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2024_porsche_cayenne_e-hybrid/images/1920x1080/2024_porsche_cayenne_e-hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2024_porsche_cayenne_e-hybrid/images/1920x1080/2024_porsche_cayenne_e-hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne E-Hybrid | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-cayenne-e-hybrid-2020-1",
+      "slug": "porsche-cayenne-e-hybrid-2020-1",
+      "modelId": "m-porsche-cayenne-e-hybrid",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne E-Hybrid | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2019_porsche_cayenne_e-hybrid/images/1920x1080/2019_porsche_cayenne_e-hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2019_porsche_cayenne_e-hybrid/images/1920x1080/2019_porsche_cayenne_e-hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-e-hybrid-2020-1",
+          "generationId": "gen-porsche-cayenne-e-hybrid-2020-1",
+          "url": "https://images.caricos.com/p/porsche/2019_porsche_cayenne_e-hybrid/images/1920x1080/2019_porsche_cayenne_e-hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2019_porsche_cayenne_e-hybrid/images/1920x1080/2019_porsche_cayenne_e-hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne E-Hybrid | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-cayenne-e-hybrid-2020-0",
+      "slug": "porsche-cayenne-e-hybrid-2020-0",
+      "modelId": "m-porsche-cayenne-e-hybrid",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne E-Hybrid (UK-Spec) | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_uk/images/1920x1080/2020_porsche_cayenne_e-hybrid_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_uk/images/1920x1080/2020_porsche_cayenne_e-hybrid_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-e-hybrid-2020-0",
+          "generationId": "gen-porsche-cayenne-e-hybrid-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_uk/images/1920x1080/2020_porsche_cayenne_e-hybrid_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_uk/images/1920x1080/2020_porsche_cayenne_e-hybrid_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne E-Hybrid (UK-Spec) | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-cayenne-e-hybrid-2020-1",
+      "slug": "porsche-cayenne-e-hybrid-2020-1",
+      "modelId": "m-porsche-cayenne-e-hybrid",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne E-Hybrid (US-Spec) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_us/images/1920x1080/2020_porsche_cayenne_e-hybrid_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_us/images/1920x1080/2020_porsche_cayenne_e-hybrid_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-e-hybrid-2020-1",
+          "generationId": "gen-porsche-cayenne-e-hybrid-2020-1",
+          "url": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_us/images/1920x1080/2020_porsche_cayenne_e-hybrid_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2020_porsche_cayenne_e-hybrid_us/images/1920x1080/2020_porsche_cayenne_e-hybrid_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne E-Hybrid (US-Spec) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

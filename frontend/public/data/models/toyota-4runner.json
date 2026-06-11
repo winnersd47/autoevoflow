@@ -1,0 +1,164 @@
+{
+  "id": "m-toyota-4runner",
+  "slug": "toyota-4runner",
+  "name": "4Runner",
+  "fullName": "Toyota 4Runner",
+  "brandId": "brand-toyota",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota 4Runner — suv, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_4runner/images/1920x1080/2025_toyota_4runner_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2025_toyota_4runner/images/1920x1080/2025_toyota_4runner_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-4runner-2020-0",
+      "slug": "toyota-4runner-2020-0",
+      "modelId": "m-toyota-4runner",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota 4Runner | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_4runner/images/1920x1080/2025_toyota_4runner_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2025_toyota_4runner/images/1920x1080/2025_toyota_4runner_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-4runner-2020-0",
+          "generationId": "gen-toyota-4runner-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2025_toyota_4runner/images/1920x1080/2025_toyota_4runner_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_4runner/images/1920x1080/2025_toyota_4runner_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota 4Runner | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-4runner-2020-1",
+      "slug": "toyota-4runner-2020-1",
+      "modelId": "m-toyota-4runner",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota 4Runner | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_4runner/images/1920x1080/2020_toyota_4runner_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2020_toyota_4runner/images/1920x1080/2020_toyota_4runner_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-4runner-2020-1",
+          "generationId": "gen-toyota-4runner-2020-1",
+          "url": "https://images.caricos.com/t/toyota/2020_toyota_4runner/images/1920x1080/2020_toyota_4runner_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_4runner/images/1920x1080/2020_toyota_4runner_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota 4Runner | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-4runner-2020-2",
+      "slug": "toyota-4runner-2020-2",
+      "modelId": "m-toyota-4runner",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota 4Runner | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2014_toyota_4runner/images/1920x1080/2014_toyota_4runner_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2014_toyota_4runner/images/1920x1080/2014_toyota_4runner_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-4runner-2020-2",
+          "generationId": "gen-toyota-4runner-2020-2",
+          "url": "https://images.caricos.com/t/toyota/2014_toyota_4runner/images/1920x1080/2014_toyota_4runner_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2014_toyota_4runner/images/1920x1080/2014_toyota_4runner_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota 4Runner | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

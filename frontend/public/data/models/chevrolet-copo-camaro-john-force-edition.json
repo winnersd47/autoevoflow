@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-copo-camaro-john-force-edition",
+  "slug": "chevrolet-copo-camaro-john-force-edition",
+  "name": "COPO Camaro John Force Edition",
+  "fullName": "Chevrolet COPO Camaro John Force Edition",
+  "brandId": "brand-chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet COPO Camaro John Force Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_copo_camaro_john_force_edition/images/1920x1080/2020_chevrolet_copo_camaro_john_force_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_copo_camaro_john_force_edition/images/1920x1080/2020_chevrolet_copo_camaro_john_force_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-copo-camaro-john-force-edition-2020-0",
+      "slug": "chevrolet-copo-camaro-john-force-edition-2020-0",
+      "modelId": "m-chevrolet-copo-camaro-john-force-edition",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet COPO Camaro John Force Edition | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_copo_camaro_john_force_edition/images/1920x1080/2020_chevrolet_copo_camaro_john_force_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_copo_camaro_john_force_edition/images/1920x1080/2020_chevrolet_copo_camaro_john_force_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-copo-camaro-john-force-edition-2020-0",
+          "generationId": "gen-chevrolet-copo-camaro-john-force-edition-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2020_chevrolet_copo_camaro_john_force_edition/images/1920x1080/2020_chevrolet_copo_camaro_john_force_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_copo_camaro_john_force_edition/images/1920x1080/2020_chevrolet_copo_camaro_john_force_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet COPO Camaro John Force Edition | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

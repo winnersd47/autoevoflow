@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-mso-carbon-series-lt-limited-edition-based-on-675lt-spi",
+  "slug": "mclaren-mso-carbon-series-lt-limited-edition-based-on-675lt-spi",
+  "name": "MSO Carbon Series LT Limited Edition based on 675LT Spi",
+  "fullName": "McLaren MSO Carbon Series LT Limited Edition based on 675LT Spi",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "endYear": 2017,
+  "isActive": false,
+  "description": "McLaren MSO Carbon Series LT Limited Edition based on 675LT Spi — sedan, produced since 2017.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_mso_carbon_series_lt/images/1920x1080/2017_mclaren_mso_carbon_series_lt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_mso_carbon_series_lt/images/1920x1080/2017_mclaren_mso_carbon_series_lt_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-mso-carbon-series-lt-limited-edition-based-on-675lt-spi-2017-0",
+      "slug": "mclaren-mso-carbon-series-lt-limited-edition-based-on-675lt-spi-2017-0",
+      "modelId": "m-mclaren-mso-carbon-series-lt-limited-edition-based-on-675lt-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2017",
+      "generationNumber": 1,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 McLaren MSO Carbon Series LT Limited Edition based on 675LT Spider",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_mso_carbon_series_lt/images/1920x1080/2017_mclaren_mso_carbon_series_lt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_mso_carbon_series_lt/images/1920x1080/2017_mclaren_mso_carbon_series_lt_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-mso-carbon-series-lt-limited-edition-based-on-675lt-spi-2017-0",
+          "generationId": "gen-mclaren-mso-carbon-series-lt-limited-edition-based-on-675lt-spi-2017-0",
+          "url": "https://images.caricos.com/m/mclaren/2017_mclaren_mso_carbon_series_lt/images/1920x1080/2017_mclaren_mso_carbon_series_lt_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_mso_carbon_series_lt/images/1920x1080/2017_mclaren_mso_carbon_series_lt_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 McLaren MSO Carbon Series LT Limited Edition based on 675LT Spider",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

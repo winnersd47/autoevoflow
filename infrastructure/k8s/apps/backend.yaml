@@ -1,0 +1,273 @@
+---
+# =============================================================================
+# Backend – ConfigMap
+# =============================================================================
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: backend-config
+  namespace: automotive-ai
+  labels:
+    app: backend
+    app.kubernetes.io/name: backend
+    app.kubernetes.io/part-of: automotive-ai
+data:
+  APP_ENV:          "production"
+  DEBUG:            "false"
+  PORT:             "8000"
+  WORKERS:          "4"
+  ML_INFERENCE_URL: "http://ml-inference:8001"
+  # Postgres
+  POSTGRES_HOST:    "postgres"
+  POSTGRES_PORT:    "5432"
+  POSTGRES_DB:      "automotive_ai"
+  # Neo4j
+  NEO4J_URL:        "bolt://neo4j:7687"
+  NEO4J_USER:       "neo4j"
+  # Redis
+  REDIS_HOST:       "redis"
+  REDIS_PORT:       "6379"
+  # MinIO
+  MINIO_ENDPOINT:   "minio:9000"
+  MINIO_SECURE:     "true"
+  # CORS
+  CORS_ORIGINS:     "https://automotive-ai.example.com"
+  ALLOWED_HOSTS:    "automotive-ai.example.com"
+  # Observability
+  LOG_LEVEL:        "INFO"
+  METRICS_ENABLED:  "true"
+
+---
+# =============================================================================
+# Backend – Deployment
+# =============================================================================
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend
+  namespace: automotive-ai
+  labels:
+    app: backend
+    app.kubernetes.io/name: backend
+    app.kubernetes.io/version: "1.0.0"
+    app.kubernetes.io/part-of: automotive-ai
+  annotations:
+    # Trigger rolling restart when ConfigMap changes (via Reloader or CI)
+    configmap.reloader.stakater.com/reload: "backend-config"
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: backend
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge:       1
+      maxUnavailable: 0   # Zero-downtime rolling update
+  template:
+    metadata:
+      labels:
+        app: backend
+        app.kubernetes.io/name: backend
+      annotations:
+        prometheus.io/scrape: "true"
+        prometheus.io/port:   "8000"
+        prometheus.io/path:   "/metrics"
+    spec:
+      serviceAccountName: backend-sa
+
+      # Spread pods across nodes for HA
+      topologySpreadConstraints:
+        - maxSkew:            1
+          topologyKey:        kubernetes.io/hostname
+          whenUnsatisfiable:  DoNotSchedule
+          labelSelector:
+            matchLabels:
+              app: backend
+
+      containers:
+        - name: backend
+          image: ghcr.io/your-org/automotive-ai-backend:latest
+          imagePullPolicy: Always
+          ports:
+            - name: http
+              containerPort: 8000
+              protocol: TCP
+
+          # Environment from ConfigMap
+          envFrom:
+            - configMapRef:
+                name: backend-config
+
+          # Sensitive values from Secret
+          env:
+            - name: DATABASE_URL
+              valueFrom:
+                secretKeyRef:
+                  name: backend-secrets
+                  key: DATABASE_URL
+            - name: NEO4J_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: backend-secrets
+                  key: NEO4J_PASSWORD
+            - name: REDIS_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: backend-secrets
+                  key: REDIS_PASSWORD
+            - name: MINIO_ACCESS_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: backend-secrets
+                  key: MINIO_ACCESS_KEY
+            - name: MINIO_SECRET_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: backend-secrets
+                  key: MINIO_SECRET_KEY
+            - name: SECRET_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: backend-secrets
+                  key: SECRET_KEY
+
+          resources:
+            requests:
+              cpu:    "250m"
+              memory: "512Mi"
+            limits:
+              cpu:    "1000m"
+              memory: "1Gi"
+
+          # Liveness probe – restart container if app deadlocks
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 30
+            periodSeconds:       20
+            timeoutSeconds:      5
+            failureThreshold:    3
+
+          # Readiness probe – stop traffic if app is not ready (e.g., DB migration)
+          readinessProbe:
+            httpGet:
+              path: /health/ready
+              port: 8000
+            initialDelaySeconds: 15
+            periodSeconds:       10
+            timeoutSeconds:      5
+            failureThreshold:    3
+
+          # Startup probe – give extra time during initial load
+          startupProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds:       5
+            failureThreshold:    12   # 60s total
+
+          lifecycle:
+            preStop:
+              exec:
+                # Graceful drain: allow in-flight requests to complete
+                command: ["/bin/sh", "-c", "sleep 5"]
+
+      terminationGracePeriodSeconds: 60
+
+      # Only schedule on nodes that aren't GPU-only nodes
+      affinity:
+        nodeAffinity:
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 1
+              preference:
+                matchExpressions:
+                  - key:      node-type
+                    operator: NotIn
+                    values:   ["gpu"]
+
+---
+# =============================================================================
+# Backend – ServiceAccount (least-privilege)
+# =============================================================================
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: backend-sa
+  namespace: automotive-ai
+  labels:
+    app: backend
+
+---
+# =============================================================================
+# Backend – Service (ClusterIP)
+# =============================================================================
+apiVersion: v1
+kind: Service
+metadata:
+  name: backend
+  namespace: automotive-ai
+  labels:
+    app: backend
+    app.kubernetes.io/name: backend
+  annotations:
+    # Allow Prometheus to discover this service
+    prometheus.io/scrape: "true"
+    prometheus.io/port:   "8000"
+spec:
+  type:     ClusterIP
+  selector:
+    app: backend
+  ports:
+    - name:       http
+      port:       8000
+      targetPort: http
+      protocol:   TCP
+
+---
+# =============================================================================
+# Backend – HorizontalPodAutoscaler
+# Scales between 2 and 10 replicas; triggers at 70% CPU or 80% memory.
+# =============================================================================
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: backend-hpa
+  namespace: automotive-ai
+  labels:
+    app: backend
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind:       Deployment
+    name:       backend
+  minReplicas: 2
+  maxReplicas: 10
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type:               Utilization
+          averageUtilization: 70
+    - type: Resource
+      resource:
+        name: memory
+        target:
+          type:               Utilization
+          averageUtilization: 80
+  behavior:
+    scaleUp:
+      stabilizationWindowSeconds: 60
+      policies:
+        - type:          Pods
+          value:         2
+          periodSeconds: 60
+    scaleDown:
+      stabilizationWindowSeconds: 300   # 5 min cooldown to prevent flapping
+      policies:
+        - type:          Pods
+          value:         1
+          periodSeconds: 120

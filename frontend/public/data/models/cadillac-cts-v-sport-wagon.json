@@ -1,0 +1,72 @@
+{
+  "id": "m-cadillac-cts-v-sport-wagon",
+  "slug": "cadillac-cts-v-sport-wagon",
+  "name": "CTS-V Sport Wagon",
+  "fullName": "Cadillac CTS-V Sport Wagon",
+  "brandId": "brand-cadillac",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Cadillac CTS-V Sport Wagon — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_sport_wagon/images/1920x1080/2011_cadillac_cts-v_sport_wagon_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_sport_wagon/images/1920x1080/2011_cadillac_cts-v_sport_wagon_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "cadillac"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-cadillac-cts-v-sport-wagon-2020-0",
+      "slug": "cadillac-cts-v-sport-wagon-2020-0",
+      "modelId": "m-cadillac-cts-v-sport-wagon",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac CTS-V Sport Wagon | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_sport_wagon/images/1920x1080/2011_cadillac_cts-v_sport_wagon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_sport_wagon/images/1920x1080/2011_cadillac_cts-v_sport_wagon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-cts-v-sport-wagon-2020-0",
+          "generationId": "gen-cadillac-cts-v-sport-wagon-2020-0",
+          "url": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_sport_wagon/images/1920x1080/2011_cadillac_cts-v_sport_wagon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_sport_wagon/images/1920x1080/2011_cadillac_cts-v_sport_wagon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac CTS-V Sport Wagon | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

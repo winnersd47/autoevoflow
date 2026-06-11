@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-rs6",
+  "slug": "audi-rs6",
+  "name": "RS6 Avant",
+  "fullName": "Audi RS6 Avant",
+  "brandId": "brand-audi",
+  "bodyType": "wagon",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi RS6 Avant (2002–present) is the definitive performance estate and one of the most influential fast cars in history. The C5's twin-turbocharged 4.2-litre V8 (450 hp), the C7's 4.0-litre V8 (560 hp), and the C8's 4.0-litre V8 hybrid (600 hp) form a lineage of barely restrained family cars that can outrun supercars. The RS6 Avant defined the genre.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "wagon",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-rs6-1",
+      "slug": "audi-rs6-gen1",
+      "modelId": "m-audi-rs6",
+      "brandId": "brand-audi",
+      "codeName": "C5/C7/C8",
+      "generationNumber": 1,
+      "startYear": 2002,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "wagon"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi RS6 Avant (2002–present) is the definitive performance estate and one of the most influential fast cars in history. The C5's twin-turbocharged 4.2-litre V8 (450 hp), the C7's 4.0-litre V8 (560 hp), and the C8's 4.0-litre V8 hybrid (600 hp) form a lineage of barely restrained family cars that can outrun supercars. The RS6 Avant defined the genre.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

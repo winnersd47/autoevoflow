@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-vw-buggy-up-cross-up-gt-up-e-up-and-up-azzurra",
+  "slug": "volkswagen-vw-buggy-up-cross-up-gt-up-e-up-and-up-azzurra",
+  "name": "VW buggy UP!, cross UP!, GT UP!, e-up!, and UP! Azzurra",
+  "fullName": "Volkswagen VW buggy UP!, cross UP!, GT UP!, e-up!, and UP! Azzurra",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen VW buggy UP!, cross UP!, GT UP!, e-up!, and UP! Azzurra — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2011_volkswagen_up_concepts/images/1920x1080/2011_volkswagen_up_concepts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2011_volkswagen_up_concepts/images/1920x1080/2011_volkswagen_up_concepts_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-vw-buggy-up-cross-up-gt-up-e-up-and-up-azzurra-2020-0",
+      "slug": "volkswagen-vw-buggy-up-cross-up-gt-up-e-up-and-up-azzurra-2020-0",
+      "modelId": "m-volkswagen-vw-buggy-up-cross-up-gt-up-e-up-and-up-azzurra",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "VW buggy UP!, cross UP!, GT UP!, e-up!, and UP! Azzurra | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2011_volkswagen_up_concepts/images/1920x1080/2011_volkswagen_up_concepts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2011_volkswagen_up_concepts/images/1920x1080/2011_volkswagen_up_concepts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-vw-buggy-up-cross-up-gt-up-e-up-and-up-azzurra-2020-0",
+          "generationId": "gen-volkswagen-vw-buggy-up-cross-up-gt-up-e-up-and-up-azzurra-2020-0",
+          "url": "https://images.caricos.com/v/vw/2011_volkswagen_up_concepts/images/1920x1080/2011_volkswagen_up_concepts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2011_volkswagen_up_concepts/images/1920x1080/2011_volkswagen_up_concepts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "VW buggy UP!, cross UP!, GT UP!, e-up!, and UP! Azzurra | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

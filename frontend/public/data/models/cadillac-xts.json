@@ -1,0 +1,164 @@
+{
+  "id": "m-cadillac-xts",
+  "slug": "cadillac-xts",
+  "name": "XTS",
+  "fullName": "Cadillac XTS",
+  "brandId": "brand-cadillac",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Cadillac XTS — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/c/cadillac/2018_cadillac_xts/images/1920x1080/2018_cadillac_xts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/cadillac/2018_cadillac_xts/images/1920x1080/2018_cadillac_xts_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "cadillac"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-cadillac-xts-2020-0",
+      "slug": "cadillac-xts-2020-0",
+      "modelId": "m-cadillac-xts",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac XTS | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2018_cadillac_xts/images/1920x1080/2018_cadillac_xts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2018_cadillac_xts/images/1920x1080/2018_cadillac_xts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-xts-2020-0",
+          "generationId": "gen-cadillac-xts-2020-0",
+          "url": "https://images.caricos.com/c/cadillac/2018_cadillac_xts/images/1920x1080/2018_cadillac_xts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2018_cadillac_xts/images/1920x1080/2018_cadillac_xts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac XTS | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-cadillac-xts-2020-1",
+      "slug": "cadillac-xts-2020-1",
+      "modelId": "m-cadillac-xts",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac XTS | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2015_cadillac_xts/images/1920x1080/2015_cadillac_xts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2015_cadillac_xts/images/1920x1080/2015_cadillac_xts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-xts-2020-1",
+          "generationId": "gen-cadillac-xts-2020-1",
+          "url": "https://images.caricos.com/c/cadillac/2015_cadillac_xts/images/1920x1080/2015_cadillac_xts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2015_cadillac_xts/images/1920x1080/2015_cadillac_xts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac XTS | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-cadillac-xts-2020-2",
+      "slug": "cadillac-xts-2020-2",
+      "modelId": "m-cadillac-xts",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac XTS | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2013_cadillac_xts/images/1920x1080/2013_cadillac_xts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2013_cadillac_xts/images/1920x1080/2013_cadillac_xts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-xts-2020-2",
+          "generationId": "gen-cadillac-xts-2020-2",
+          "url": "https://images.caricos.com/c/cadillac/2013_cadillac_xts/images/1920x1080/2013_cadillac_xts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2013_cadillac_xts/images/1920x1080/2013_cadillac_xts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac XTS | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-jeep-jeep-avenger",
+  "slug": "jeep-jeep-avenger",
+  "name": "Jeep Avenger",
+  "fullName": "2027 Jeep Avenger",
+  "brandId": "jeep",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Jeep Avenger, designed and manufactured in Europe, evolves along the same lines that inspired the original model: design to function, practicality combined with high quality...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Jeep-Avenger-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Jeep-Avenger-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/jeep/2027-avenger/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.721Z",
+  "updatedAt": "2026-06-05T07:36:26.721Z"
+}

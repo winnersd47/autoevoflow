@@ -1,0 +1,164 @@
+{
+  "id": "m-cadillac-xt5",
+  "slug": "cadillac-xt5",
+  "name": "XT5 (",
+  "fullName": "Cadillac XT5 (",
+  "brandId": "brand-cadillac",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Cadillac XT5 ( — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5_eu/images/1920x1080/2017_cadillac_xt5_eu_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5_eu/images/1920x1080/2017_cadillac_xt5_eu_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "cadillac"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-cadillac-xt5-2020-0",
+      "slug": "cadillac-xt5-2020-0",
+      "modelId": "m-cadillac-xt5",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac XT5 | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2020_cadillac_xt5/images/1920x1080/2020_cadillac_xt5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2020_cadillac_xt5/images/1920x1080/2020_cadillac_xt5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-xt5-2020-0",
+          "generationId": "gen-cadillac-xt5-2020-0",
+          "url": "https://images.caricos.com/c/cadillac/2020_cadillac_xt5/images/1920x1080/2020_cadillac_xt5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2020_cadillac_xt5/images/1920x1080/2020_cadillac_xt5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac XT5 | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-cadillac-xt5-2020-1",
+      "slug": "cadillac-xt5-2020-1",
+      "modelId": "m-cadillac-xt5",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac XT5 | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5/images/1920x1080/2017_cadillac_xt5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5/images/1920x1080/2017_cadillac_xt5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-xt5-2020-1",
+          "generationId": "gen-cadillac-xt5-2020-1",
+          "url": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5/images/1920x1080/2017_cadillac_xt5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5/images/1920x1080/2017_cadillac_xt5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac XT5 | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-cadillac-xt5-2020-0",
+      "slug": "cadillac-xt5-2020-0",
+      "modelId": "m-cadillac-xt5",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac XT5 (Euro-Spec) | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5_eu/images/1920x1080/2017_cadillac_xt5_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5_eu/images/1920x1080/2017_cadillac_xt5_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-xt5-2020-0",
+          "generationId": "gen-cadillac-xt5-2020-0",
+          "url": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5_eu/images/1920x1080/2017_cadillac_xt5_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2017_cadillac_xt5_eu/images/1920x1080/2017_cadillac_xt5_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac XT5 (Euro-Spec) | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

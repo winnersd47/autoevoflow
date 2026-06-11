@@ -1,0 +1,72 @@
+{
+  "id": "m-volvo-xc90-t8-plug-in-hybrid",
+  "slug": "volvo-xc90-t8-plug-in-hybrid",
+  "name": "XC90 T8 Plug-in-Hybrid",
+  "fullName": "Volvo XC90 T8 Plug-in-Hybrid",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo XC90 T8 Plug-in-Hybrid — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2016_volvo_xc90_t8/images/1920x1080/2016_volvo_xc90_t8_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2016_volvo_xc90_t8/images/1920x1080/2016_volvo_xc90_t8_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-xc90-t8-plug-in-hybrid-2020-0",
+      "slug": "volvo-xc90-t8-plug-in-hybrid-2020-0",
+      "modelId": "m-volvo-xc90-t8-plug-in-hybrid",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo XC90 T8 Plug-in-Hybrid | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2016_volvo_xc90_t8/images/1920x1080/2016_volvo_xc90_t8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2016_volvo_xc90_t8/images/1920x1080/2016_volvo_xc90_t8_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-xc90-t8-plug-in-hybrid-2020-0",
+          "generationId": "gen-volvo-xc90-t8-plug-in-hybrid-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2016_volvo_xc90_t8/images/1920x1080/2016_volvo_xc90_t8_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2016_volvo_xc90_t8/images/1920x1080/2016_volvo_xc90_t8_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo XC90 T8 Plug-in-Hybrid | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-audi-audi-rs-6-avant-performance-us-spec-2024my",
+  "slug": "audi-audi-rs-6-avant-performance-us-spec-2024my",
+  "name": "Audi RS 6 Avant Performance (US-Spec) | 2024MY",
+  "fullName": "Audi Audi RS 6 Avant Performance (US-Spec) | 2024MY",
+  "brandId": "brand-audi",
+  "bodyType": "van",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi Audi RS 6 Avant Performance (US-Spec) | 2024MY — van, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2024_audi_rs_6_avant_performance/images/1920x1080/2024_audi_rs_6_avant_performance_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2024_audi_rs_6_avant_performance/images/1920x1080/2024_audi_rs_6_avant_performance_1_1920x1080.jpg",
+  "tags": [
+    "van",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-audi-rs-6-avant-performance-us-spec-2024my-2020-0",
+      "slug": "audi-audi-rs-6-avant-performance-us-spec-2024my-2020-0",
+      "modelId": "m-audi-audi-rs-6-avant-performance-us-spec-2024my",
+      "brandId": "brand-audi",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "van"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Audi RS 6 Avant Performance (US-Spec) | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2024_audi_rs_6_avant_performance/images/1920x1080/2024_audi_rs_6_avant_performance_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2024_audi_rs_6_avant_performance/images/1920x1080/2024_audi_rs_6_avant_performance_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-audi-audi-rs-6-avant-performance-us-spec-2024my-2020-0",
+          "generationId": "gen-audi-audi-rs-6-avant-performance-us-spec-2024my-2020-0",
+          "url": "https://images.caricos.com/a/audi/2024_audi_rs_6_avant_performance/images/1920x1080/2024_audi_rs_6_avant_performance_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/audi/2024_audi_rs_6_avant_performance/images/1920x1080/2024_audi_rs_6_avant_performance_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Audi RS 6 Avant Performance (US-Spec) | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "van",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "m-dodge-challenger-srt",
+  "slug": "dodge-challenger-srt",
+  "name": "Challenger SRT",
+  "fullName": "Dodge Challenger SRT",
+  "brandId": "brand-dodge",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Dodge Challenger SRT — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/d/dodge/2023_dodge_challenger_srt_demon_170/images/1920x1080/2023_dodge_challenger_srt_demon_170_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/d/dodge/2023_dodge_challenger_srt_demon_170/images/1920x1080/2023_dodge_challenger_srt_demon_170_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "dodge"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-dodge-challenger-srt-2020-0",
+      "slug": "dodge-challenger-srt-2020-0",
+      "modelId": "m-dodge-challenger-srt",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Challenger SRT Demon 170 | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2023_dodge_challenger_srt_demon_170/images/1920x1080/2023_dodge_challenger_srt_demon_170_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2023_dodge_challenger_srt_demon_170/images/1920x1080/2023_dodge_challenger_srt_demon_170_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-challenger-srt-2020-0",
+          "generationId": "gen-dodge-challenger-srt-2020-0",
+          "url": "https://images.caricos.com/d/dodge/2023_dodge_challenger_srt_demon_170/images/1920x1080/2023_dodge_challenger_srt_demon_170_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2023_dodge_challenger_srt_demon_170/images/1920x1080/2023_dodge_challenger_srt_demon_170_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Challenger SRT Demon 170 | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-dodge-challenger-srt-2020-1",
+      "slug": "dodge-challenger-srt-2020-1",
+      "modelId": "m-dodge-challenger-srt",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Challenger SRT Demon | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2018_dodge_challenger_srt_demon/images/1920x1080/2018_dodge_challenger_srt_demon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2018_dodge_challenger_srt_demon/images/1920x1080/2018_dodge_challenger_srt_demon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-challenger-srt-2020-1",
+          "generationId": "gen-dodge-challenger-srt-2020-1",
+          "url": "https://images.caricos.com/d/dodge/2018_dodge_challenger_srt_demon/images/1920x1080/2018_dodge_challenger_srt_demon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2018_dodge_challenger_srt_demon/images/1920x1080/2018_dodge_challenger_srt_demon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Challenger SRT Demon | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

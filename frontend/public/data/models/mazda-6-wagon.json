@@ -1,0 +1,118 @@
+{
+  "id": "m-mazda-6-wagon",
+  "slug": "mazda-6-wagon",
+  "name": "6 Wagon",
+  "fullName": "Mazda 6 Wagon",
+  "brandId": "brand-mazda",
+  "bodyType": "wagon",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "endYear": 2017,
+  "isActive": false,
+  "description": "Mazda 6 Wagon — wagon, produced since 2013.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_6_wagon/images/1920x1080/2017_mazda_6_wagon_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2017_mazda_6_wagon/images/1920x1080/2017_mazda_6_wagon_1_1920x1080.jpg",
+  "tags": [
+    "wagon",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-6-wagon-2017-0",
+      "slug": "mazda-6-wagon-2017-0",
+      "modelId": "m-mazda-6-wagon",
+      "brandId": "brand-mazda",
+      "codeName": "2017",
+      "generationNumber": 1,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "wagon"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 Mazda 6 Wagon",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_6_wagon/images/1920x1080/2017_mazda_6_wagon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2017_mazda_6_wagon/images/1920x1080/2017_mazda_6_wagon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-6-wagon-2017-0",
+          "generationId": "gen-mazda-6-wagon-2017-0",
+          "url": "https://images.caricos.com/m/mazda/2017_mazda_6_wagon/images/1920x1080/2017_mazda_6_wagon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_6_wagon/images/1920x1080/2017_mazda_6_wagon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 Mazda 6 Wagon",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "wagon",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mazda-6-wagon-2013-1",
+      "slug": "mazda-6-wagon-2013-1",
+      "modelId": "m-mazda-6-wagon",
+      "brandId": "brand-mazda",
+      "codeName": "2013",
+      "generationNumber": 2,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "wagon"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2013 Mazda 6 Wagon",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2013_mazda_mazda6_wagon/images/1920x1080/2013_mazda_mazda6_wagon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2013_mazda_mazda6_wagon/images/1920x1080/2013_mazda_mazda6_wagon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-6-wagon-2013-1",
+          "generationId": "gen-mazda-6-wagon-2013-1",
+          "url": "https://images.caricos.com/m/mazda/2013_mazda_mazda6_wagon/images/1920x1080/2013_mazda_mazda6_wagon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2013_mazda_mazda6_wagon/images/1920x1080/2013_mazda_mazda6_wagon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2013,
+          "altText": "2013 Mazda 6 Wagon",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "wagon",
+        "2013"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

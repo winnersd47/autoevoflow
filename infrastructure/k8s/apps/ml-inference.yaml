@@ -1,0 +1,210 @@
+---
+# =============================================================================
+# ML Inference – ConfigMap
+# =============================================================================
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ml-inference-config
+  namespace: automotive-ai
+  labels:
+    app: ml-inference
+    app.kubernetes.io/name: ml-inference
+    app.kubernetes.io/part-of: automotive-ai
+data:
+  CLIP_MODEL:        "ViT-L-14"
+  CLIP_PRETRAINED:   "openai"
+  DINO_MODEL:        "facebook/dinov2-large"
+  BATCH_SIZE:        "16"
+  DEVICE:            "cuda"
+  PORT:              "8001"
+  WORKERS:           "1"
+  LOG_LEVEL:         "INFO"
+  MODELS_DIR:        "/models"
+  EMBEDDING_DIM:     "1536"
+  MAX_IMAGE_SIZE:    "1024"
+  ENABLE_HALF_PREC:  "true"
+
+---
+# =============================================================================
+# ML Inference – PersistentVolumeClaim (downloaded model weights)
+# =============================================================================
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ml-models-pvc
+  namespace: automotive-ai
+  labels:
+    app: ml-inference
+    app.kubernetes.io/name: ml-inference
+    app.kubernetes.io/part-of: automotive-ai
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 50Gi
+  storageClassName: standard
+
+---
+# =============================================================================
+# ML Inference – Deployment
+# 1 replica: GPU nodes are expensive; scale manually or via KEDA.
+# =============================================================================
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ml-inference
+  namespace: automotive-ai
+  labels:
+    app: ml-inference
+    app.kubernetes.io/name: ml-inference
+    app.kubernetes.io/version: "1.0.0"
+    app.kubernetes.io/part-of: automotive-ai
+  annotations:
+    configmap.reloader.stakater.com/reload: "ml-inference-config"
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ml-inference
+  strategy:
+    # Recreate because GPU is exclusive – no surge possible
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: ml-inference
+        app.kubernetes.io/name: ml-inference
+      annotations:
+        prometheus.io/scrape: "true"
+        prometheus.io/port:   "8001"
+        prometheus.io/path:   "/metrics"
+    spec:
+      serviceAccountName: ml-inference-sa
+
+      # Schedule only on nodes with an Nvidia GPU
+      nodeSelector:
+        accelerator: nvidia-gpu
+
+      tolerations:
+        - key:      "nvidia.com/gpu"
+          operator: "Exists"
+          effect:   "NoSchedule"
+
+      containers:
+        - name: ml-inference
+          image: ghcr.io/org/automotive-ai/ml-inference:latest
+          imagePullPolicy: Always
+          ports:
+            - name: http
+              containerPort: 8001
+              protocol: TCP
+
+          # All non-secret config
+          envFrom:
+            - configMapRef:
+                name: ml-inference-config
+
+          # Sensitive API keys from Secret
+          env:
+            - name: OPENAI_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: automotive-ai-secrets
+                  key: OPENAI_API_KEY
+            - name: ANTHROPIC_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: automotive-ai-secrets
+                  key: ANTHROPIC_API_KEY
+
+          resources:
+            requests:
+              cpu:    "2"
+              memory: "8Gi"
+            limits:
+              nvidia.com/gpu: "1"
+              cpu:    "4"
+              memory: "16Gi"
+
+          # Model loading takes time – be generous with initial delays
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 8001
+            initialDelaySeconds: 60
+            periodSeconds:       30
+            timeoutSeconds:      10
+            failureThreshold:    3
+
+          # /ready returns 200 only after models are fully loaded into VRAM
+          readinessProbe:
+            httpGet:
+              path: /ready
+              port: 8001
+            initialDelaySeconds: 90
+            periodSeconds:       15
+            timeoutSeconds:      10
+            failureThreshold:    5
+
+          startupProbe:
+            httpGet:
+              path: /health
+              port: 8001
+            initialDelaySeconds: 30
+            periodSeconds:       10
+            failureThreshold:    18   # Up to 3 minutes for model download
+
+          volumeMounts:
+            - name: models
+              mountPath: /models
+
+          lifecycle:
+            preStop:
+              exec:
+                command: ["/bin/sh", "-c", "sleep 10"]
+
+      volumes:
+        - name: models
+          persistentVolumeClaim:
+            claimName: ml-models-pvc
+
+      terminationGracePeriodSeconds: 120
+
+---
+# =============================================================================
+# ML Inference – ServiceAccount
+# =============================================================================
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: ml-inference-sa
+  namespace: automotive-ai
+  labels:
+    app: ml-inference
+
+---
+# =============================================================================
+# ML Inference – Service (ClusterIP)
+# =============================================================================
+apiVersion: v1
+kind: Service
+metadata:
+  name: ml-inference
+  namespace: automotive-ai
+  labels:
+    app: ml-inference
+    app.kubernetes.io/name: ml-inference
+  annotations:
+    prometheus.io/scrape: "true"
+    prometheus.io/port:   "8001"
+spec:
+  type: ClusterIP
+  selector:
+    app: ml-inference
+  ports:
+    - name:       http
+      port:       8001
+      targetPort: http
+      protocol:   TCP

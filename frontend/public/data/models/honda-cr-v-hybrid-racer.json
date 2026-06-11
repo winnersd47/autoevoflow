@@ -1,0 +1,72 @@
+{
+  "id": "m-honda-cr-v-hybrid-racer",
+  "slug": "honda-cr-v-hybrid-racer",
+  "name": "CR-V Hybrid Racer",
+  "fullName": "Honda CR-V Hybrid Racer",
+  "brandId": "brand-honda",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda CR-V Hybrid Racer — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2023_honda_cr-v_hybrid_racer/images/1920x1080/2023_honda_cr-v_hybrid_racer_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2023_honda_cr-v_hybrid_racer/images/1920x1080/2023_honda_cr-v_hybrid_racer_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-cr-v-hybrid-racer-2020-0",
+      "slug": "honda-cr-v-hybrid-racer-2020-0",
+      "modelId": "m-honda-cr-v-hybrid-racer",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda CR-V Hybrid Racer | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2023_honda_cr-v_hybrid_racer/images/1920x1080/2023_honda_cr-v_hybrid_racer_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2023_honda_cr-v_hybrid_racer/images/1920x1080/2023_honda_cr-v_hybrid_racer_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-cr-v-hybrid-racer-2020-0",
+          "generationId": "gen-honda-cr-v-hybrid-racer-2020-0",
+          "url": "https://images.caricos.com/h/honda/2023_honda_cr-v_hybrid_racer/images/1920x1080/2023_honda_cr-v_hybrid_racer_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2023_honda_cr-v_hybrid_racer/images/1920x1080/2023_honda_cr-v_hybrid_racer_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda CR-V Hybrid Racer | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

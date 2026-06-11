@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-rs4",
+  "slug": "audi-rs4",
+  "name": "RS4",
+  "fullName": "Audi RS4",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi RS4 is the most powerful version of the A4, produced in collaboration with quattro GmbH. From the twin-turbocharged 2.7-litre biturbo V6 of the B5 (1999) — which produced 380 hp and set the standard for the super-saloon segment — to the current B9 with a naturally aspirated 4.0-litre V8, each RS4 has represented the definitive German sports estate.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_rs4/images/1920x1080/2020_audi_rs4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2020_audi_rs4/images/1920x1080/2020_audi_rs4_1_1920x1080.jpg",
+  "tags": ["sedan", "avant", "audi", "rs", "quattro", "sports", "performance"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-rs4-b5",
+      "slug": "audi-rs4-b5",
+      "modelId": "m-audi-rs4",
+      "brandId": "brand-audi",
+      "codeName": "B5 RS4",
+      "generationNumber": 1,
+      "startYear": 1999,
+      "endYear": 2001,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["avant"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The B5 RS4 (1999–2001) introduced the RS4 nameplate with a 380 hp twin-turbo 2.7-litre V6 biturbo, quattro AWD, and avant-only bodystyle.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2020_audi_rs4/images/1920x1080/2020_audi_rs4_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

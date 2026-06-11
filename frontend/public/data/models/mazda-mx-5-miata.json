@@ -1,0 +1,118 @@
+{
+  "id": "m-mazda-mx-5-miata",
+  "slug": "mazda-mx-5-miata",
+  "name": "MX-5 Miata",
+  "fullName": "Mazda MX-5 Miata",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "endYear": 2016,
+  "isActive": false,
+  "description": "Mazda MX-5 Miata — sedan, produced since 2016.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_mx-5/images/1920x1080/2016_mazda_mx-5_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda_mx-5/images/1920x1080/2016_mazda_mx-5_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mx-5-miata-2016-0",
+      "slug": "mazda-mx-5-miata-2016-0",
+      "modelId": "m-mazda-mx-5-miata",
+      "brandId": "brand-mazda",
+      "codeName": "2016",
+      "generationNumber": 1,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 Mazda MX-5 Miata (Euro-Spec)",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_mx-5_eu/images/1920x1080/2016_mazda_mx-5_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda_mx-5_eu/images/1920x1080/2016_mazda_mx-5_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mx-5-miata-2016-0",
+          "generationId": "gen-mazda-mx-5-miata-2016-0",
+          "url": "https://images.caricos.com/m/mazda/2016_mazda_mx-5_eu/images/1920x1080/2016_mazda_mx-5_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_mx-5_eu/images/1920x1080/2016_mazda_mx-5_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 Mazda MX-5 Miata (Euro-Spec)",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mazda-mx-5-miata-2016-0",
+      "slug": "mazda-mx-5-miata-2016-0",
+      "modelId": "m-mazda-mx-5-miata",
+      "brandId": "brand-mazda",
+      "codeName": "2016",
+      "generationNumber": 1,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 Mazda MX-5 Miata",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_mx-5/images/1920x1080/2016_mazda_mx-5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda_mx-5/images/1920x1080/2016_mazda_mx-5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mx-5-miata-2016-0",
+          "generationId": "gen-mazda-mx-5-miata-2016-0",
+          "url": "https://images.caricos.com/m/mazda/2016_mazda_mx-5/images/1920x1080/2016_mazda_mx-5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_mx-5/images/1920x1080/2016_mazda_mx-5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 Mazda MX-5 Miata",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "m-vw-new-beetle",
+  "slug": "vw-new-beetle",
+  "name": "New Beetle",
+  "fullName": "Volkswagen New Beetle",
+  "brandId": "brand-volkswagen",
+  "bodyType": "hatchback",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "endYear": 2011,
+  "isActive": false,
+  "description": "The New Beetle (1997-2011) was Volkswagen's retro revival, built on the Golf platform. The opposite of everything the original stood for technically, and enormously commercially successful.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "hatchback",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-vw-new-beetle-1",
+      "slug": "vw-new-beetle-gen1",
+      "modelId": "m-vw-new-beetle",
+      "brandId": "brand-volkswagen",
+      "codeName": "New Beetle",
+      "generationNumber": 1,
+      "startYear": 1997,
+      "endYear": 2011,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The New Beetle (1997-2011) was Volkswagen's retro revival, built on the Golf platform. The opposite of everything the original stood for technically, and enormously commercially successful.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

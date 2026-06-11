@@ -1,0 +1,118 @@
+{
+  "id": "m-volvo-v90-and-v90-cross-country",
+  "slug": "volvo-v90-and-v90-cross-country",
+  "name": "V90 and V90 Cross Country (",
+  "fullName": "Volvo V90 and V90 Cross Country (",
+  "brandId": "brand-volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo V90 and V90 Cross Country ( — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_v90_uk/images/1920x1080/2019_volvo_v90_uk_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2019_volvo_v90_uk/images/1920x1080/2019_volvo_v90_uk_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-v90-and-v90-cross-country-2020-0",
+      "slug": "volvo-v90-and-v90-cross-country-2020-0",
+      "modelId": "m-volvo-v90-and-v90-cross-country",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo V90 and V90 Cross Country | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2020_volvo_v90/images/1920x1080/2020_volvo_v90_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2020_volvo_v90/images/1920x1080/2020_volvo_v90_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-v90-and-v90-cross-country-2020-0",
+          "generationId": "gen-volvo-v90-and-v90-cross-country-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2020_volvo_v90/images/1920x1080/2020_volvo_v90_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2020_volvo_v90/images/1920x1080/2020_volvo_v90_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo V90 and V90 Cross Country | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volvo-v90-and-v90-cross-country-2020-0",
+      "slug": "volvo-v90-and-v90-cross-country-2020-0",
+      "modelId": "m-volvo-v90-and-v90-cross-country",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo V90 and V90 Cross Country (UK-Spec) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_v90_uk/images/1920x1080/2019_volvo_v90_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2019_volvo_v90_uk/images/1920x1080/2019_volvo_v90_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-v90-and-v90-cross-country-2020-0",
+          "generationId": "gen-volvo-v90-and-v90-cross-country-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2019_volvo_v90_uk/images/1920x1080/2019_volvo_v90_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2019_volvo_v90_uk/images/1920x1080/2019_volvo_v90_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo V90 and V90 Cross Country (UK-Spec) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

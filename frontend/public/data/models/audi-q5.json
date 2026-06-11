@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-q5",
+  "slug": "audi-q5",
+  "name": "Q5",
+  "fullName": "Audi Q5",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi Q5 (2008–present) is Audi's best-selling SUV globally, combining quattro AWD with premium interior appointments and efficient turbocharged engines. Its MLB platform is shared with the Porsche Macan and Cayenne.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q5/images/1920x1080/2021_audi_q5_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_q5/images/1920x1080/2021_audi_q5_1_1920x1080.jpg",
+  "tags": ["suv", "audi", "quattro", "luxury", "mlb"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-q5-fy",
+      "slug": "audi-q5-fy",
+      "modelId": "m-audi-q5",
+      "brandId": "brand-audi",
+      "codeName": "FY",
+      "generationNumber": 1,
+      "startYear": 2008,
+      "endYear": 2017,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["suv"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The first-generation Q5 (2008–2017) established Audi's mid-size SUV on the PQ46 platform, offering quattro AWD and a range of diesel and petrol engines.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_q5/images/1920x1080/2021_audi_q5_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

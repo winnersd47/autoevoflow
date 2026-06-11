@@ -1,0 +1,302 @@
+{
+  "id": "m-volkswagen-passat",
+  "slug": "volkswagen-passat",
+  "name": "Passat",
+  "fullName": "Volkswagen Passat",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Passat — sedan, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat/images/1920x1080/2020_volkswagen_passat_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat/images/1920x1080/2020_volkswagen_passat_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-passat-2020-0",
+      "slug": "volkswagen-passat-2020-0",
+      "modelId": "m-volkswagen-passat",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat (US-Spec) | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_passat_us/images/1920x1080/2021_volkswagen_passat_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_passat_us/images/1920x1080/2021_volkswagen_passat_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-2020-0",
+          "generationId": "gen-volkswagen-passat-2020-0",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_passat_us/images/1920x1080/2021_volkswagen_passat_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_passat_us/images/1920x1080/2021_volkswagen_passat_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Passat (US-Spec) | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-passat-2020-1",
+      "slug": "volkswagen-passat-2020-1",
+      "modelId": "m-volkswagen-passat",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat (US-Spec) | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_passat_us/images/1920x1080/2016_volkswagen_passat_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2016_volkswagen_passat_us/images/1920x1080/2016_volkswagen_passat_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-2020-1",
+          "generationId": "gen-volkswagen-passat-2020-1",
+          "url": "https://images.caricos.com/v/vw/2016_volkswagen_passat_us/images/1920x1080/2016_volkswagen_passat_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_passat_us/images/1920x1080/2016_volkswagen_passat_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Passat (US-Spec) | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-passat-2020-0",
+      "slug": "volkswagen-passat-2020-0",
+      "modelId": "m-volkswagen-passat",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat/images/1920x1080/2020_volkswagen_passat_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat/images/1920x1080/2020_volkswagen_passat_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-2020-0",
+          "generationId": "gen-volkswagen-passat-2020-0",
+          "url": "https://images.caricos.com/v/vw/2020_volkswagen_passat/images/1920x1080/2020_volkswagen_passat_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2020_volkswagen_passat/images/1920x1080/2020_volkswagen_passat_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Passat | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-passat-2020-1",
+      "slug": "volkswagen-passat-2020-1",
+      "modelId": "m-volkswagen-passat",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_passat/images/1920x1080/2015_volkswagen_passat_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2015_volkswagen_passat/images/1920x1080/2015_volkswagen_passat_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-2020-1",
+          "generationId": "gen-volkswagen-passat-2020-1",
+          "url": "https://images.caricos.com/v/vw/2015_volkswagen_passat/images/1920x1080/2015_volkswagen_passat_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2015_volkswagen_passat/images/1920x1080/2015_volkswagen_passat_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Passat | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-passat-2020-2",
+      "slug": "volkswagen-passat-2020-2",
+      "modelId": "m-volkswagen-passat",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat US-Version | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2014_vw_passat_us/images/1920x1080/2014_vw_passat_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2014_vw_passat_us/images/1920x1080/2014_vw_passat_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-2020-2",
+          "generationId": "gen-volkswagen-passat-2020-2",
+          "url": "https://images.caricos.com/v/vw/2014_vw_passat_us/images/1920x1080/2014_vw_passat_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2014_vw_passat_us/images/1920x1080/2014_vw_passat_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Passat US-Version | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-passat-2020-3",
+      "slug": "volkswagen-passat-2020-3",
+      "modelId": "m-volkswagen-passat",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Passat US-Version | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2012_volkswagen_passat_us-version/images/1920x1080/2012_volkswagen_passat_us-version_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2012_volkswagen_passat_us-version/images/1920x1080/2012_volkswagen_passat_us-version_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-passat-2020-3",
+          "generationId": "gen-volkswagen-passat-2020-3",
+          "url": "https://images.caricos.com/v/vw/2012_volkswagen_passat_us-version/images/1920x1080/2012_volkswagen_passat_us-version_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2012_volkswagen_passat_us-version/images/1920x1080/2012_volkswagen_passat_us-version_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Passat US-Version | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

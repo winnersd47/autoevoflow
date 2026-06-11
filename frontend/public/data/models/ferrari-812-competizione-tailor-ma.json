@@ -1,0 +1,72 @@
+{
+  "id": "m-ferrari-812-competizione-tailor-ma",
+  "slug": "ferrari-812-competizione-tailor-ma",
+  "name": "812 Competizione Tailor Ma",
+  "fullName": "Ferrari 812 Competizione Tailor Ma",
+  "brandId": "brand-ferrari",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ferrari 812 Competizione Tailor Ma — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_812_competizione_tailor_made/images/1920x1080/2024_ferrari_812_competizione_tailor_made_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_812_competizione_tailor_made/images/1920x1080/2024_ferrari_812_competizione_tailor_made_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ferrari"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ferrari-812-competizione-tailor-ma-2020-0",
+      "slug": "ferrari-812-competizione-tailor-ma-2020-0",
+      "modelId": "m-ferrari-812-competizione-tailor-ma",
+      "brandId": "brand-ferrari",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ferrari 812 Competizione Tailor Made | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_812_competizione_tailor_made/images/1920x1080/2024_ferrari_812_competizione_tailor_made_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_812_competizione_tailor_made/images/1920x1080/2024_ferrari_812_competizione_tailor_made_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ferrari-812-competizione-tailor-ma-2020-0",
+          "generationId": "gen-ferrari-812-competizione-tailor-ma-2020-0",
+          "url": "https://images.caricos.com/f/ferrari/2024_ferrari_812_competizione_tailor_made/images/1920x1080/2024_ferrari_812_competizione_tailor_made_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ferrari/2024_ferrari_812_competizione_tailor_made/images/1920x1080/2024_ferrari_812_competizione_tailor_made_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ferrari 812 Competizione Tailor Made | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

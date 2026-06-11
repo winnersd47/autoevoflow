@@ -1,0 +1,72 @@
+{
+  "id": "m-audi-audi-tt-coupe-2011my",
+  "slug": "audi-audi-tt-coupe-2011my",
+  "name": "Audi TT Coupe | 2011MY",
+  "fullName": "Audi Audi TT Coupe | 2011MY",
+  "brandId": "brand-audi",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi Audi TT Coupe | 2011MY — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2011_audi_tt_coupe/images/1920x1080/2011_audi_tt_coupe_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2011_audi_tt_coupe/images/1920x1080/2011_audi_tt_coupe_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-audi-tt-coupe-2011my-2020-0",
+      "slug": "audi-audi-tt-coupe-2011my-2020-0",
+      "modelId": "m-audi-audi-tt-coupe-2011my",
+      "brandId": "brand-audi",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Audi TT Coupe | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2011_audi_tt_coupe/images/1920x1080/2011_audi_tt_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2011_audi_tt_coupe/images/1920x1080/2011_audi_tt_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-audi-audi-tt-coupe-2011my-2020-0",
+          "generationId": "gen-audi-audi-tt-coupe-2011my-2020-0",
+          "url": "https://images.caricos.com/a/audi/2011_audi_tt_coupe/images/1920x1080/2011_audi_tt_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/audi/2011_audi_tt_coupe/images/1920x1080/2011_audi_tt_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Audi TT Coupe | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-sol",
+  "slug": "mclaren-sol",
+  "name": "Sol",
+  "fullName": "McLaren Sol",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "endYear": null,
+  "isActive": true,
+  "description": "McLaren Sol — sedan, produced since 2023.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2023_mclaren_solus_gt/images/1920x1080/2023_mclaren_solus_gt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2023_mclaren_solus_gt/images/1920x1080/2023_mclaren_solus_gt_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-sol-2023-0",
+      "slug": "mclaren-sol-2023-0",
+      "modelId": "m-mclaren-sol",
+      "brandId": "brand-mclaren",
+      "codeName": "2023",
+      "generationNumber": 1,
+      "startYear": 2023,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2023 McLaren Solus GT",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2023_mclaren_solus_gt/images/1920x1080/2023_mclaren_solus_gt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2023_mclaren_solus_gt/images/1920x1080/2023_mclaren_solus_gt_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-sol-2023-0",
+          "generationId": "gen-mclaren-sol-2023-0",
+          "url": "https://images.caricos.com/m/mclaren/2023_mclaren_solus_gt/images/1920x1080/2023_mclaren_solus_gt_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2023_mclaren_solus_gt/images/1920x1080/2023_mclaren_solus_gt_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2023,
+          "altText": "2023 McLaren Solus GT",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2023"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

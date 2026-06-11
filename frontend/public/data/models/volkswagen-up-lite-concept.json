@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-up-lite-concept",
+  "slug": "volkswagen-up-lite-concept",
+  "name": "Up! Lite Concept",
+  "fullName": "Volkswagen Up! Lite Concept",
+  "brandId": "brand-volkswagen",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Up! Lite Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2009_volkswagen_up_lite/images/1920x1080/2009_volkswagen_up_lite_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2009_volkswagen_up_lite/images/1920x1080/2009_volkswagen_up_lite_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-up-lite-concept-2020-0",
+      "slug": "volkswagen-up-lite-concept-2020-0",
+      "modelId": "m-volkswagen-up-lite-concept",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Up! Lite Concept | 2009MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2009_volkswagen_up_lite/images/1920x1080/2009_volkswagen_up_lite_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2009_volkswagen_up_lite/images/1920x1080/2009_volkswagen_up_lite_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-up-lite-concept-2020-0",
+          "generationId": "gen-volkswagen-up-lite-concept-2020-0",
+          "url": "https://images.caricos.com/v/vw/2009_volkswagen_up_lite/images/1920x1080/2009_volkswagen_up_lite_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2009_volkswagen_up_lite/images/1920x1080/2009_volkswagen_up_lite_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Up! Lite Concept | 2009MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-q2",
+  "slug": "audi-q2",
+  "name": "Q2",
+  "fullName": "Audi Q2",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi Q2 (2016–present) is the entry-level compact crossover, sitting below the Q3. Built on the MQB-A platform, it offers quattro AWD and the SQ2 performance variant with a 300 hp 2.0-litre TFSI — the most powerful production Audi in its segment.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "suv",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-q2-1",
+      "slug": "audi-q2-gen1",
+      "modelId": "m-audi-q2",
+      "brandId": "brand-audi",
+      "codeName": "GA",
+      "generationNumber": 1,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi Q2 (2016–present) is the entry-level compact crossover, sitting below the Q3. Built on the MQB-A platform, it offers quattro AWD and the SQ2 performance variant with a 300 hp 2.0-litre TFSI — the most powerful production Audi in its segment.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

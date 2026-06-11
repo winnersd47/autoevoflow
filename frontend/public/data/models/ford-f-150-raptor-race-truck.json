@@ -1,0 +1,72 @@
+{
+  "id": "m-ford-f-150-raptor-race-truck",
+  "slug": "ford-f-150-raptor-race-truck",
+  "name": "F-150 Raptor Race Truck",
+  "fullName": "Ford F-150 Raptor Race Truck",
+  "brandId": "brand-ford",
+  "bodyType": "pickup",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford F-150 Raptor Race Truck — pickup, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_f-150_raptor_race_truck/images/1920x1080/2017_ford_f-150_raptor_race_truck_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2017_ford_f-150_raptor_race_truck/images/1920x1080/2017_ford_f-150_raptor_race_truck_1_1920x1080.jpg",
+  "tags": [
+    "pickup",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-f-150-raptor-race-truck-2020-0",
+      "slug": "ford-f-150-raptor-race-truck-2020-0",
+      "modelId": "m-ford-f-150-raptor-race-truck",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "pickup"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford F-150 Raptor Race Truck | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_f-150_raptor_race_truck/images/1920x1080/2017_ford_f-150_raptor_race_truck_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2017_ford_f-150_raptor_race_truck/images/1920x1080/2017_ford_f-150_raptor_race_truck_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-150-raptor-race-truck-2020-0",
+          "generationId": "gen-ford-f-150-raptor-race-truck-2020-0",
+          "url": "https://images.caricos.com/f/ford/2017_ford_f-150_raptor_race_truck/images/1920x1080/2017_ford_f-150_raptor_race_truck_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_f-150_raptor_race_truck/images/1920x1080/2017_ford_f-150_raptor_race_truck_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford F-150 Raptor Race Truck | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "pickup",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

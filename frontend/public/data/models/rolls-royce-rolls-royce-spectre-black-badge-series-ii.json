@@ -1,0 +1,26 @@
+{
+  "id": "ncs-rolls-royce-rolls-royce-spectre-black-badge-series-ii",
+  "slug": "rolls-royce-rolls-royce-spectre-black-badge-series-ii",
+  "name": "Rolls-Royce Spectre Black Badge Series II",
+  "fullName": "2027 Rolls-Royce Spectre Black Badge Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "For Black Badge Spectre Series II, a suite of new design enhancements further dramatise the marque's alter ego, amplifying its intense and uncompromising character.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Spectre_Black_Badge_Series_II-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Spectre_Black_Badge_Series_II-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/rolls-royce/2027-spectre_black_badge_series_ii/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.713Z",
+  "updatedAt": "2026-06-05T07:36:26.713Z"
+}

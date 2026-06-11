@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-panamera-sport-turismo",
+  "slug": "porsche-panamera-sport-turismo",
+  "name": "Panamera Sport Turismo",
+  "fullName": "Porsche Panamera Sport Turismo",
+  "brandId": "brand-porsche",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Panamera Sport Turismo — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2018_porsche_panamera_sport_turismo/images/1920x1080/2018_porsche_panamera_sport_turismo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2018_porsche_panamera_sport_turismo/images/1920x1080/2018_porsche_panamera_sport_turismo_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-panamera-sport-turismo-2020-0",
+      "slug": "porsche-panamera-sport-turismo-2020-0",
+      "modelId": "m-porsche-panamera-sport-turismo",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Panamera Sport Turismo | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2018_porsche_panamera_sport_turismo/images/1920x1080/2018_porsche_panamera_sport_turismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2018_porsche_panamera_sport_turismo/images/1920x1080/2018_porsche_panamera_sport_turismo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-panamera-sport-turismo-2020-0",
+          "generationId": "gen-porsche-panamera-sport-turismo-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2018_porsche_panamera_sport_turismo/images/1920x1080/2018_porsche_panamera_sport_turismo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2018_porsche_panamera_sport_turismo/images/1920x1080/2018_porsche_panamera_sport_turismo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Panamera Sport Turismo | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

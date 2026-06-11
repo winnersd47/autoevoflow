@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-rs-q3",
+  "slug": "audi-rs-q3",
+  "name": "RS Q3",
+  "fullName": "Audi RS Q3",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi RS Q3 (2013–present) is the performance variant of the Q3, using the 2.5-litre five-cylinder turbocharged engine from the RS3. It is the definitive compact performance crossover, with 340–400 hp and quattro AWD in an elevated SUV body.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "suv",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-rs-q3-1",
+      "slug": "audi-rs-q3-gen1",
+      "modelId": "m-audi-rs-q3",
+      "brandId": "brand-audi",
+      "codeName": "F3 RS",
+      "generationNumber": 1,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi RS Q3 (2013–present) is the performance variant of the Q3, using the 2.5-litre five-cylinder turbocharged engine from the RS3. It is the definitive compact performance crossover, with 340–400 hp and quattro AWD in an elevated SUV body.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

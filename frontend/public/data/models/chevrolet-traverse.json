@@ -1,0 +1,164 @@
+{
+  "id": "m-chevrolet-traverse",
+  "slug": "chevrolet-traverse",
+  "name": "Traverse",
+  "fullName": "Chevrolet Traverse",
+  "brandId": "brand-chevrolet",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Traverse — suv, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_traverse/images/1920x1080/2024_chevrolet_traverse_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_traverse/images/1920x1080/2024_chevrolet_traverse_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-traverse-2020-0",
+      "slug": "chevrolet-traverse-2020-0",
+      "modelId": "m-chevrolet-traverse",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Traverse | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_traverse/images/1920x1080/2024_chevrolet_traverse_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_traverse/images/1920x1080/2024_chevrolet_traverse_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-traverse-2020-0",
+          "generationId": "gen-chevrolet-traverse-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2024_chevrolet_traverse/images/1920x1080/2024_chevrolet_traverse_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_traverse/images/1920x1080/2024_chevrolet_traverse_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Traverse | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-traverse-2020-1",
+      "slug": "chevrolet-traverse-2020-1",
+      "modelId": "m-chevrolet-traverse",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Traverse | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_traverse/images/1920x1080/2018_chevrolet_traverse_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_traverse/images/1920x1080/2018_chevrolet_traverse_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-traverse-2020-1",
+          "generationId": "gen-chevrolet-traverse-2020-1",
+          "url": "https://images.caricos.com/c/chevrolet/2018_chevrolet_traverse/images/1920x1080/2018_chevrolet_traverse_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2018_chevrolet_traverse/images/1920x1080/2018_chevrolet_traverse_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Traverse | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-traverse-2020-2",
+      "slug": "chevrolet-traverse-2020-2",
+      "modelId": "m-chevrolet-traverse",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Traverse | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2013_chevrolet_traverse/images/1920x1080/2013_chevrolet_traverse_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2013_chevrolet_traverse/images/1920x1080/2013_chevrolet_traverse_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-traverse-2020-2",
+          "generationId": "gen-chevrolet-traverse-2020-2",
+          "url": "https://images.caricos.com/c/chevrolet/2013_chevrolet_traverse/images/1920x1080/2013_chevrolet_traverse_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2013_chevrolet_traverse/images/1920x1080/2013_chevrolet_traverse_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Traverse | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

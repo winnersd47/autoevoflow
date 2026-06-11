@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-q7",
+  "slug": "audi-audi-q7",
+  "name": "Audi Q7",
+  "fullName": "2027 Audi Q7",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The third-generation Audi Q7 retains its muscular design. Audi's trademark four rings - along with the hood - sit noticeably higher, making the SUV's front end appear larger.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-Q7-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-Q7-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-q7/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-10T03:06:57.329Z",
+  "createdAt": "2026-06-10T03:06:58.182Z",
+  "updatedAt": "2026-06-10T03:06:58.182Z"
+}

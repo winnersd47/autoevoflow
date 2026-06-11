@@ -1,0 +1,164 @@
+{
+  "id": "m-bmw-6-series-coupe",
+  "slug": "bmw-6-series-coupe",
+  "name": "6-series Coupe",
+  "fullName": "BMW 6-series Coupe",
+  "brandId": "brand-bmw",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW 6-series Coupe — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2008_bmw_6-series_coupe/images/1920x1080/2008_bmw_6-series_coupe_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2008_bmw_6-series_coupe/images/1920x1080/2008_bmw_6-series_coupe_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-6-series-coupe-2020-0",
+      "slug": "bmw-6-series-coupe-2020-0",
+      "modelId": "m-bmw-6-series-coupe",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW 6-Series Coupe | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2015_bmw_6-series/images/1920x1080/2015_bmw_6-series_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2015_bmw_6-series/images/1920x1080/2015_bmw_6-series_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-6-series-coupe-2020-0",
+          "generationId": "gen-bmw-6-series-coupe-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2015_bmw_6-series/images/1920x1080/2015_bmw_6-series_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2015_bmw_6-series/images/1920x1080/2015_bmw_6-series_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW 6-Series Coupe | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-6-series-coupe-2020-1",
+      "slug": "bmw-6-series-coupe-2020-1",
+      "modelId": "m-bmw-6-series-coupe",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW 6-Series Coupe | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_6-series_coupe/images/1920x1080/2012_bmw_6-series_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2012_bmw_6-series_coupe/images/1920x1080/2012_bmw_6-series_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-6-series-coupe-2020-1",
+          "generationId": "gen-bmw-6-series-coupe-2020-1",
+          "url": "https://images.caricos.com/b/bmw/2012_bmw_6-series_coupe/images/1920x1080/2012_bmw_6-series_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_6-series_coupe/images/1920x1080/2012_bmw_6-series_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW 6-Series Coupe | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-6-series-coupe-2020-0",
+      "slug": "bmw-6-series-coupe-2020-0",
+      "modelId": "m-bmw-6-series-coupe",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW 6-series Coupe | 2008MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2008_bmw_6-series_coupe/images/1920x1080/2008_bmw_6-series_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2008_bmw_6-series_coupe/images/1920x1080/2008_bmw_6-series_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-6-series-coupe-2020-0",
+          "generationId": "gen-bmw-6-series-coupe-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2008_bmw_6-series_coupe/images/1920x1080/2008_bmw_6-series_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2008_bmw_6-series_coupe/images/1920x1080/2008_bmw_6-series_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW 6-series Coupe | 2008MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

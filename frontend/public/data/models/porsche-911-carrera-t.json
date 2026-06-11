@@ -1,0 +1,164 @@
+{
+  "id": "m-porsche-911-carrera-t",
+  "slug": "porsche-911-carrera-t",
+  "name": "911 Carrera T",
+  "fullName": "Porsche 911 Carrera T",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche 911 Carrera T — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_carrera_t/images/1920x1080/2025_porsche_911_carrera_t_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_carrera_t/images/1920x1080/2025_porsche_911_carrera_t_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-911-carrera-t-2020-0",
+      "slug": "porsche-911-carrera-t-2020-0",
+      "modelId": "m-porsche-911-carrera-t",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 Carrera T | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_carrera_t/images/1920x1080/2025_porsche_911_carrera_t_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_carrera_t/images/1920x1080/2025_porsche_911_carrera_t_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-carrera-t-2020-0",
+          "generationId": "gen-porsche-911-carrera-t-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2025_porsche_911_carrera_t/images/1920x1080/2025_porsche_911_carrera_t_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_911_carrera_t/images/1920x1080/2025_porsche_911_carrera_t_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 911 Carrera T | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-carrera-t-2020-1",
+      "slug": "porsche-911-carrera-t-2020-1",
+      "modelId": "m-porsche-911-carrera-t",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 Carrera T | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_carrera_t/images/1920x1080/2023_porsche_911_carrera_t_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_carrera_t/images/1920x1080/2023_porsche_911_carrera_t_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-carrera-t-2020-1",
+          "generationId": "gen-porsche-911-carrera-t-2020-1",
+          "url": "https://images.caricos.com/p/porsche/2023_porsche_911_carrera_t/images/1920x1080/2023_porsche_911_carrera_t_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2023_porsche_911_carrera_t/images/1920x1080/2023_porsche_911_carrera_t_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 911 Carrera T | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-911-carrera-t-2020-2",
+      "slug": "porsche-911-carrera-t-2020-2",
+      "modelId": "m-porsche-911-carrera-t",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 911 Carrera T | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2018_porsche_911_carrera_t/images/1920x1080/2018_porsche_911_carrera_t_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2018_porsche_911_carrera_t/images/1920x1080/2018_porsche_911_carrera_t_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-911-carrera-t-2020-2",
+          "generationId": "gen-porsche-911-carrera-t-2020-2",
+          "url": "https://images.caricos.com/p/porsche/2018_porsche_911_carrera_t/images/1920x1080/2018_porsche_911_carrera_t_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2018_porsche_911_carrera_t/images/1920x1080/2018_porsche_911_carrera_t_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 911 Carrera T | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

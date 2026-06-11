@@ -1,0 +1,26 @@
+{
+  "id": "ncs-porsche-porsche-macan-gts-us",
+  "slug": "porsche-porsche-macan-gts-us",
+  "name": "Porsche Macan GTS [US]",
+  "fullName": "2026 Porsche Macan GTS [US]",
+  "brandId": "porsche",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Porsche Macan GTS stands out visually with unique styling elements. The front, side and rear of the car are highlighted by accents painted in black...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-Macan_GTS_US-Version-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-Macan_GTS_US-Version-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/porsche/2026-macan_gts_us-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-10T03:06:57.329Z",
+  "createdAt": "2026-06-10T03:06:58.189Z",
+  "updatedAt": "2026-06-10T03:06:58.189Z"
+}

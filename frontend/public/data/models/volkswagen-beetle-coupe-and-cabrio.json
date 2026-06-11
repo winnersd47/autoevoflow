@@ -1,0 +1,104 @@
+{
+  "id": "m-volkswagen-beetle-coupe-and-cabrio",
+  "slug": "volkswagen-beetle-coupe-and-cabrio",
+  "name": "Beetle Coupe and Cabrio",
+  "fullName": "Volkswagen Beetle Coupe and Cabrio",
+  "brandId": "brand-volkswagen",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "endYear": 2017,
+  "isActive": false,
+  "description": "Volkswagen Beetle Coupe and Cabrio — coupe, produced since 2017.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_beetle/images/1920x1080/2017_volkswagen_beetle_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_beetle/images/1920x1080/2017_volkswagen_beetle_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-beetle-coupe-and-cabrio-2017-0",
+      "slug": "volkswagen-beetle-coupe-and-cabrio-2017-0",
+      "modelId": "m-volkswagen-beetle-coupe-and-cabrio",
+      "brandId": "brand-volkswagen",
+      "codeName": "2017",
+      "generationNumber": 1,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 Beetle Coupe and Cabrio",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "coupe",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-beetle-coupe-and-cabrio-2017-1",
+      "slug": "volkswagen-beetle-coupe-and-cabrio-2017-1",
+      "modelId": "m-volkswagen-beetle-coupe-and-cabrio",
+      "brandId": "brand-volkswagen",
+      "codeName": "2017",
+      "generationNumber": 2,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Beetle Coupe and Cabrio | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_beetle/images/1920x1080/2017_volkswagen_beetle_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_beetle/images/1920x1080/2017_volkswagen_beetle_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-beetle-coupe-and-cabrio-2017-1",
+          "generationId": "gen-volkswagen-beetle-coupe-and-cabrio-2017-1",
+          "url": "https://images.caricos.com/v/vw/2017_volkswagen_beetle/images/1920x1080/2017_volkswagen_beetle_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_beetle/images/1920x1080/2017_volkswagen_beetle_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "Volkswagen Beetle Coupe and Cabrio | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

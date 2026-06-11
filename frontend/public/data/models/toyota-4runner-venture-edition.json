@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-4runner-venture-edition",
+  "slug": "toyota-4runner-venture-edition",
+  "name": "4Runner Venture Edition",
+  "fullName": "Toyota 4Runner Venture Edition",
+  "brandId": "brand-toyota",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota 4Runner Venture Edition — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_4runner_venture_edition/images/1920x1080/2020_toyota_4runner_venture_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2020_toyota_4runner_venture_edition/images/1920x1080/2020_toyota_4runner_venture_edition_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-4runner-venture-edition-2020-0",
+      "slug": "toyota-4runner-venture-edition-2020-0",
+      "modelId": "m-toyota-4runner-venture-edition",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota 4Runner Venture Edition | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_4runner_venture_edition/images/1920x1080/2020_toyota_4runner_venture_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2020_toyota_4runner_venture_edition/images/1920x1080/2020_toyota_4runner_venture_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-4runner-venture-edition-2020-0",
+          "generationId": "gen-toyota-4runner-venture-edition-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2020_toyota_4runner_venture_edition/images/1920x1080/2020_toyota_4runner_venture_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2020_toyota_4runner_venture_edition/images/1920x1080/2020_toyota_4runner_venture_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota 4Runner Venture Edition | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "m-chevrolet-corvette-zr1",
+  "slug": "chevrolet-corvette-zr1",
+  "name": "Corvette ZR1",
+  "fullName": "Chevrolet Corvette ZR1",
+  "brandId": "brand-chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Corvette ZR1 — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_zr1/images/1920x1080/2025_chevrolet_corvette_zr1_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_zr1/images/1920x1080/2025_chevrolet_corvette_zr1_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-corvette-zr1-2020-0",
+      "slug": "chevrolet-corvette-zr1-2020-0",
+      "modelId": "m-chevrolet-corvette-zr1",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Corvette ZR1 | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_zr1/images/1920x1080/2025_chevrolet_corvette_zr1_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_zr1/images/1920x1080/2025_chevrolet_corvette_zr1_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-corvette-zr1-2020-0",
+          "generationId": "gen-chevrolet-corvette-zr1-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_zr1/images/1920x1080/2025_chevrolet_corvette_zr1_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2025_chevrolet_corvette_zr1/images/1920x1080/2025_chevrolet_corvette_zr1_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Corvette ZR1 | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-corvette-zr1-2020-1",
+      "slug": "chevrolet-corvette-zr1-2020-1",
+      "modelId": "m-chevrolet-corvette-zr1",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Corvette ZR1 | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2019_chevrolet_corvette_zr1/images/1920x1080/2019_chevrolet_corvette_zr1_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2019_chevrolet_corvette_zr1/images/1920x1080/2019_chevrolet_corvette_zr1_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-corvette-zr1-2020-1",
+          "generationId": "gen-chevrolet-corvette-zr1-2020-1",
+          "url": "https://images.caricos.com/c/chevrolet/2019_chevrolet_corvette_zr1/images/1920x1080/2019_chevrolet_corvette_zr1_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2019_chevrolet_corvette_zr1/images/1920x1080/2019_chevrolet_corvette_zr1_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Corvette ZR1 | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

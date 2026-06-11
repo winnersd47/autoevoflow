@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-vw-gti-supersport-vision-gran-turismo-concept",
+  "slug": "volkswagen-vw-gti-supersport-vision-gran-turismo-concept",
+  "name": "VW GTI Supersport Vision Gran Turismo Concept",
+  "fullName": "Volkswagen VW GTI Supersport Vision Gran Turismo Concept",
+  "brandId": "brand-volkswagen",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen VW GTI Supersport Vision Gran Turismo Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2015_vw_gti_supersport_vision_gran_turismo/images/1920x1080/2015_vw_gti_supersport_vision_gran_turismo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2015_vw_gti_supersport_vision_gran_turismo/images/1920x1080/2015_vw_gti_supersport_vision_gran_turismo_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-vw-gti-supersport-vision-gran-turismo-concept-2020-0",
+      "slug": "volkswagen-vw-gti-supersport-vision-gran-turismo-concept-2020-0",
+      "modelId": "m-volkswagen-vw-gti-supersport-vision-gran-turismo-concept",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "VW GTI Supersport Vision Gran Turismo Concept | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2015_vw_gti_supersport_vision_gran_turismo/images/1920x1080/2015_vw_gti_supersport_vision_gran_turismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2015_vw_gti_supersport_vision_gran_turismo/images/1920x1080/2015_vw_gti_supersport_vision_gran_turismo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-vw-gti-supersport-vision-gran-turismo-concept-2020-0",
+          "generationId": "gen-volkswagen-vw-gti-supersport-vision-gran-turismo-concept-2020-0",
+          "url": "https://images.caricos.com/v/vw/2015_vw_gti_supersport_vision_gran_turismo/images/1920x1080/2015_vw_gti_supersport_vision_gran_turismo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2015_vw_gti_supersport_vision_gran_turismo/images/1920x1080/2015_vw_gti_supersport_vision_gran_turismo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "VW GTI Supersport Vision Gran Turismo Concept | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ram-ram-1500-rumble-bee-srt",
+  "slug": "ram-ram-1500-rumble-bee-srt",
+  "name": "Ram 1500 Rumble Bee SRT",
+  "fullName": "2027 Ram 1500 Rumble Bee SRT",
+  "brandId": "ram",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Ram 1500 Rumble Bee SRT follows the awe-inspiring power edict of SRT with the high-performance, 6.2-liter supercharged HEMI V-8 engine, code name Hellcat.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ram-1500_Rumble_Bee_SRT-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ram-1500_Rumble_Bee_SRT-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ram/2027-1500_rumble_bee_srt/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.715Z",
+  "updatedAt": "2026-06-05T07:36:26.715Z"
+}

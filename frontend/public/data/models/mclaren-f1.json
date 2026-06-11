@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-f1",
+  "slug": "mclaren-f1",
+  "name": "F1",
+  "fullName": "McLaren F1",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "endYear": 1998,
+  "isActive": false,
+  "description": "McLaren F1 — sedan, produced since 1998.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/1998_mclaren_f1/images/1920x1080/1998_mclaren_f1_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/1998_mclaren_f1/images/1920x1080/1998_mclaren_f1_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-f1-1998-0",
+      "slug": "mclaren-f1-1998-0",
+      "modelId": "m-mclaren-f1",
+      "brandId": "brand-mclaren",
+      "codeName": "1998",
+      "generationNumber": 1,
+      "startYear": 1998,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "1998 McLaren F1",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/1998_mclaren_f1/images/1920x1080/1998_mclaren_f1_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/1998_mclaren_f1/images/1920x1080/1998_mclaren_f1_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-f1-1998-0",
+          "generationId": "gen-mclaren-f1-1998-0",
+          "url": "https://images.caricos.com/m/mclaren/1998_mclaren_f1/images/1920x1080/1998_mclaren_f1_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/1998_mclaren_f1/images/1920x1080/1998_mclaren_f1_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 1998,
+          "altText": "1998 McLaren F1",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "1998"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

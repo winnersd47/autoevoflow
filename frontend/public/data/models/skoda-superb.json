@@ -1,0 +1,51 @@
+{
+  "id": "m-skoda-superb",
+  "slug": "skoda-superb",
+  "name": "Superb",
+  "fullName": "Skoda Superb",
+  "brandId": "brand-skoda",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Skoda Superb (2001-present) shares its platform with the VW Passat and Audi A4 while delivering more rear passenger space than either. The name revives a pre-war Skoda model.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "skoda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-skoda-superb-1",
+      "slug": "skoda-superb-gen1",
+      "modelId": "m-skoda-superb",
+      "brandId": "brand-skoda",
+      "codeName": "Superb",
+      "generationNumber": 1,
+      "startYear": 2001,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Skoda Superb (2001-present) shares its platform with the VW Passat and Audi A4 while delivering more rear passenger space than either. The name revives a pre-war Skoda model.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

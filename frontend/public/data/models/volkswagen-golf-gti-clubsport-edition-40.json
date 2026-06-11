@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-golf-gti-clubsport-edition-40",
+  "slug": "volkswagen-golf-gti-clubsport-edition-40",
+  "name": "Golf GTI Clubsport Edition 40",
+  "fullName": "Volkswagen Golf GTI Clubsport Edition 40",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Golf GTI Clubsport Edition 40 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_clubsport_edition_40/images/1920x1080/2016_volkswagen_golf_gti_clubsport_edition_40_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_clubsport_edition_40/images/1920x1080/2016_volkswagen_golf_gti_clubsport_edition_40_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-golf-gti-clubsport-edition-40-2020-0",
+      "slug": "volkswagen-golf-gti-clubsport-edition-40-2020-0",
+      "modelId": "m-volkswagen-golf-gti-clubsport-edition-40",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Golf GTI Clubsport Edition 40 | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_clubsport_edition_40/images/1920x1080/2016_volkswagen_golf_gti_clubsport_edition_40_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_clubsport_edition_40/images/1920x1080/2016_volkswagen_golf_gti_clubsport_edition_40_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-golf-gti-clubsport-edition-40-2020-0",
+          "generationId": "gen-volkswagen-golf-gti-clubsport-edition-40-2020-0",
+          "url": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_clubsport_edition_40/images/1920x1080/2016_volkswagen_golf_gti_clubsport_edition_40_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_golf_gti_clubsport_edition_40/images/1920x1080/2016_volkswagen_golf_gti_clubsport_edition_40_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Golf GTI Clubsport Edition 40 | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

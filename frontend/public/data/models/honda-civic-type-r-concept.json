@@ -1,0 +1,118 @@
+{
+  "id": "m-honda-civic-type-r-concept",
+  "slug": "honda-civic-type-r-concept",
+  "name": "Civic Type R Concept",
+  "fullName": "Honda Civic Type R Concept",
+  "brandId": "brand-honda",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda Civic Type R Concept — concept, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_civic_type_r_concept/images/1920x1080/2016_honda_civic_type_r_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2016_honda_civic_type_r_concept/images/1920x1080/2016_honda_civic_type_r_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-civic-type-r-concept-2020-0",
+      "slug": "honda-civic-type-r-concept-2020-0",
+      "modelId": "m-honda-civic-type-r-concept",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Type R Concept | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_civic_type_r_concept/images/1920x1080/2016_honda_civic_type_r_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2016_honda_civic_type_r_concept/images/1920x1080/2016_honda_civic_type_r_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-type-r-concept-2020-0",
+          "generationId": "gen-honda-civic-type-r-concept-2020-0",
+          "url": "https://images.caricos.com/h/honda/2016_honda_civic_type_r_concept/images/1920x1080/2016_honda_civic_type_r_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_civic_type_r_concept/images/1920x1080/2016_honda_civic_type_r_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Type R Concept | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-civic-type-r-concept-2020-1",
+      "slug": "honda-civic-type-r-concept-2020-1",
+      "modelId": "m-honda-civic-type-r-concept",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Type R Concept | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2014_honda_civic_type_r_concept/images/1920x1080/2014_honda_civic_type_r_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2014_honda_civic_type_r_concept/images/1920x1080/2014_honda_civic_type_r_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-type-r-concept-2020-1",
+          "generationId": "gen-honda-civic-type-r-concept-2020-1",
+          "url": "https://images.caricos.com/h/honda/2014_honda_civic_type_r_concept/images/1920x1080/2014_honda_civic_type_r_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2014_honda_civic_type_r_concept/images/1920x1080/2014_honda_civic_type_r_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Type R Concept | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

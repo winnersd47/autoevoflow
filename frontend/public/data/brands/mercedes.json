@@ -1,0 +1,970 @@
+{
+  "id": "brand-mercedes",
+  "slug": "mercedes",
+  "name": "Mercedes-Benz",
+  "fullName": "Mercedes-Benz AG",
+  "country": "Germany",
+  "countryCode": "DE",
+  "foundingYear": 1926,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_s-class/images/1920x1080/2021_mercedes-benz_s-class_1_1920x1080.jpg",
+  "description": "Mercedes-Benz AG, the automotive marque founded by the 1926 merger of Benz & Cie and Daimler-Motoren-Gesellschaft, carries a lineage stretching to Karl Benz's 1886 Patent-Motorwagen — the first true automobile. The three-pointed star represents mastery of land, sea, and air; it has evolved from a symbol of technological ambition into the world's most recognised luxury automotive emblem. For nearly a century, 'Das Beste oder Nichts' (The Best or Nothing) has been not a marketing claim but an engineering mandate.\n\nThe S-Class is the brand's defining achievement and its most influential product. Every major automotive safety innovation of the last 50 years — ABS (1978), airbags (1981), Electronic Stability Program (1995), PRE-SAFE (2002), autonomous emergency braking (2013) — appeared first in the S-Class, then became industry standard. The S-Class is less a car than a rolling technology brief, and its customer list (heads of state, CEOs, royalty) makes it the world's most scrutinised commercial vehicle.\n\nMercedes-Benz is navigating its deepest transformation since the original merger: the transition from combustion to electric under the EQ brand. The EQS, on a purpose-built EVA2 platform with 107cm Hyperscreen dashboard, represents the brand's answer to Tesla Model S — not on price but on the proposition that the highest luxury is seamlessness. Whether the three-pointed star's emotional resonance translates to the silent, instantaneous world of electric drive will define the brand's next century.",
+  "parentCompany": "Mercedes-Benz Group AG",
+  "headquarters": "Stuttgart, Germany",
+  "modelCount": 280,
+  "generationCount": 340,
+  "tags": [
+    "german",
+    "luxury",
+    "safety",
+    "amg",
+    "innovation",
+    "three-pointed-star",
+    "electric"
+  ],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "dna": {
+    "id": "dna-mercedes",
+    "brandId": "brand-mercedes",
+    "entityType": "brand",
+    "entityId": "brand-mercedes",
+    "overallScore": 92,
+    "dominantStyle": "Luxury Technology",
+    "colorPalette": [
+      "#c0c0c0",
+      "#000000",
+      "#1a1a1a",
+      "#888888"
+    ],
+    "keyElements": [
+      "three-pointed star",
+      "chrome trim",
+      "S-Class proportions",
+      "MBUX",
+      "AMG badge",
+      "Hyperscreen"
+    ],
+    "influencedBy": [
+      "Rolls-Royce pre-war elegance",
+      "aircraft engineering discipline",
+      "racing through AMG"
+    ],
+    "hasInfluenced": [
+      "luxury sedan segment standards",
+      "automotive safety legislation",
+      "infotainment industry"
+    ],
+    "dimensions": [
+      {
+        "key": "luxury-prestige",
+        "label": "Luxury & Prestige",
+        "score": 97,
+        "description": "The three-pointed star is the world's most recognised luxury automotive emblem. The S-Class customer list includes heads of state and royalty across every continent. The Maybach sub-brand extends the prestige proposition beyond what the standard range can achieve, occupying territory previously reserved for Rolls-Royce and Bentley.",
+        "trend": "stable"
+      },
+      {
+        "key": "safety-innovation",
+        "label": "Safety Innovation",
+        "score": 98,
+        "description": "No manufacturer has contributed more to automotive safety than Mercedes-Benz. ABS (1978), the driver's airbag (1981), the seatbelt pretensioner (1981), Electronic Stability Program (1995), PRE-SAFE anticipatory restraints (2002), autonomous emergency braking (2013), and Level 3 Drive Pilot autonomous driving (2022) all debuted in a Mercedes before becoming industry standard. Safety is not a department at Mercedes — it is an identity.",
+        "trend": "stable"
+      },
+      {
+        "key": "engineering-excellence",
+        "label": "Engineering Excellence",
+        "score": 95,
+        "description": "From the OM diesel engine family that powered half the world's taxis to the hand-assembled AMG V8s, Mercedes engineering is characterised by over-engineering rather than cost optimisation. The M157 5.5-litre biturbo V8 and the current M177 4.0-litre twin-turbo are benchmarks for refinement and durability in performance applications.",
+        "trend": "stable"
+      },
+      {
+        "key": "amg-performance",
+        "label": "AMG Performance Heritage",
+        "score": 89,
+        "description": "Hans Werner Aufrecht and Erhard Melcher founded AMG in 1967 as an independent engine tuning shop. Their 6.8-litre AMG engine won the 1971 Spa 24 Hours on its debut — the racing press dubbed it the 'Red Sow.' Mercedes acquired AMG in 1999 and transformed it into the performance division. Today AMG develops the SL, the GT sports car, and the most extreme variants of every model line.",
+        "trend": "increasing"
+      },
+      {
+        "key": "design-language",
+        "label": "Design Language",
+        "score": 88,
+        "description": "Mercedes design has historically meant three-pointed star grilles, upright proportions, and chrome accents that signal status without excess. The Sensual Purity design language introduced for the EQ era — swooping one-bow silhouettes and minimal exterior detailing — has divided opinion. The EQS's aerodynamic teardrop shape sacrifices traditional Mercedes visual cues for a 0.20 Cd drag coefficient.",
+        "trend": "decreasing"
+      },
+      {
+        "key": "technology-leadership",
+        "label": "Technology Leadership",
+        "score": 91,
+        "description": "MBUX (Mercedes-Benz User Experience), introduced in 2018, was the most significant infotainment advancement of its decade — natural language processing, AI learning, and seamless integration across all screens. The EQS Hyperscreen stretches 141cm across the dashboard. Drive Pilot Level 3 autonomy, legally approved for use on German autobahns at up to 60km/h, makes Mercedes the first manufacturer to offer genuinely autonomous driving in production cars.",
+        "trend": "increasing"
+      }
+    ],
+    "temporalEvolution": [
+      {
+        "year": 1954,
+        "score": 69,
+        "milestone": "300 SL Gullwing era — first direct fuel injection production car",
+        "dimensionScores": {
+          "Luxury & Prestige": 82,
+          "Safety Innovation": 60,
+          "Engineering Excellence": 90,
+          "AMG Performance Heritage": 0,
+          "Design Language": 95,
+          "Technology Leadership": 88
+        }
+      },
+      {
+        "year": 1968,
+        "score": 73,
+        "milestone": "AMG founded; W108 S-Class era",
+        "dimensionScores": {
+          "Luxury & Prestige": 85,
+          "Safety Innovation": 70,
+          "Engineering Excellence": 88,
+          "AMG Performance Heritage": 30,
+          "Design Language": 88,
+          "Technology Leadership": 78
+        }
+      },
+      {
+        "year": 1979,
+        "score": 80,
+        "milestone": "W126 S-Class introduced; ABS offered on W116",
+        "dimensionScores": {
+          "Luxury & Prestige": 90,
+          "Safety Innovation": 82,
+          "Engineering Excellence": 90,
+          "AMG Performance Heritage": 45,
+          "Design Language": 90,
+          "Technology Leadership": 80
+        }
+      },
+      {
+        "year": 1984,
+        "score": 84,
+        "milestone": "W124 E-Class — widely regarded as finest car ever built; airbag standard",
+        "dimensionScores": {
+          "Luxury & Prestige": 92,
+          "Safety Innovation": 88,
+          "Engineering Excellence": 95,
+          "AMG Performance Heritage": 55,
+          "Design Language": 93,
+          "Technology Leadership": 82
+        }
+      },
+      {
+        "year": 1995,
+        "score": 87,
+        "milestone": "ESP (Electronic Stability Program) debuts on S-Class",
+        "dimensionScores": {
+          "Luxury & Prestige": 94,
+          "Safety Innovation": 95,
+          "Engineering Excellence": 93,
+          "AMG Performance Heritage": 65,
+          "Design Language": 88,
+          "Technology Leadership": 85
+        }
+      },
+      {
+        "year": 2002,
+        "score": 89,
+        "milestone": "PRE-SAFE debuts; AMG fully integrated; E55 AMG peak",
+        "dimensionScores": {
+          "Luxury & Prestige": 95,
+          "Safety Innovation": 97,
+          "Engineering Excellence": 90,
+          "AMG Performance Heritage": 78,
+          "Design Language": 85,
+          "Technology Leadership": 87
+        }
+      },
+      {
+        "year": 2013,
+        "score": 91,
+        "milestone": "W222 S-Class with Magic Body Control; autonomous emergency braking",
+        "dimensionScores": {
+          "Luxury & Prestige": 96,
+          "Safety Innovation": 97,
+          "Engineering Excellence": 93,
+          "AMG Performance Heritage": 85,
+          "Design Language": 87,
+          "Technology Leadership": 88
+        }
+      },
+      {
+        "year": 2024,
+        "score": 93,
+        "milestone": "EQS EVA2 platform; Drive Pilot Level 3; MBUX Hyperscreen",
+        "dimensionScores": {
+          "Luxury & Prestige": 97,
+          "Safety Innovation": 98,
+          "Engineering Excellence": 95,
+          "AMG Performance Heritage": 89,
+          "Design Language": 88,
+          "Technology Leadership": 91
+        }
+      }
+    ],
+    "createdAt": "2026-01-15T10:00:00Z",
+    "updatedAt": "2026-01-15T10:00:00Z"
+  },
+  "models": [
+    {
+      "id": "m-mercedes-e-class",
+      "slug": "mercedes-e-class",
+      "name": "E-Class",
+      "fullName": "Mercedes-Benz E-Class",
+      "brandId": "brand-mercedes",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1984,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Mercedes-Benz E-Class is the brand's core executive sedan, produced since 1984 across seven generations. From the W124 that set the benchmark for build quality to the W213 with MBUX, the E-Class represents Mercedes at its most resolved.",
+      "generationCount": 7,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_e-class/images/1920x1080/2021_mercedes-benz_e-class_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_e-class/images/1920x1080/2021_mercedes-benz_e-class_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "luxury",
+        "executive",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-s-class",
+      "slug": "mercedes-s-class",
+      "name": "S-Class",
+      "fullName": "Mercedes-Benz S-Class",
+      "brandId": "brand-mercedes",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1972,
+      "endYear": null,
+      "isActive": true,
+      "description": "The S-Class is Mercedes-Benz's flagship sedan and the world's technology laboratory on wheels. Every safety innovation, comfort technology, and powertrain advance appears first in the S-Class before filtering to the rest of the industry.",
+      "generationCount": 7,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_s-class/images/1920x1080/2021_mercedes-benz_s-class_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_s-class/images/1920x1080/2021_mercedes-benz_s-class_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "luxury",
+        "flagship",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-c-class",
+      "slug": "mercedes-c-class",
+      "name": "C-Class",
+      "fullName": "Mercedes-Benz C-Class",
+      "brandId": "brand-mercedes",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1982,
+      "endYear": null,
+      "isActive": true,
+      "description": "The C-Class traces its lineage to the 1982 190E W201. Now in its sixth generation, it remains Mercedes' best-selling model globally.",
+      "generationCount": 6,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_c-class/images/1920x1080/2021_mercedes-benz_c-class_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_c-class/images/1920x1080/2021_mercedes-benz_c-class_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "luxury",
+        "compact",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-sl",
+      "slug": "mercedes-sl",
+      "name": "SL",
+      "fullName": "Mercedes-Benz SL",
+      "brandId": "brand-mercedes",
+      "bodyType": "convertible",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1954,
+      "endYear": null,
+      "isActive": true,
+      "description": "The SL — Sport Leicht — is the oldest continuously produced Mercedes nameplate. From the legendary 300 SL Gullwing to the AMG-developed R232, it represents the pinnacle of German open-top grand touring.",
+      "generationCount": 6,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_sl/images/1920x1080/2022_mercedes-benz_sl_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_sl/images/1920x1080/2022_mercedes-benz_sl_1_1920x1080.jpg",
+      "tags": [
+        "convertible",
+        "roadster",
+        "sports",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-g-class",
+      "slug": "mercedes-g-class",
+      "name": "G-Class",
+      "fullName": "Mercedes-Benz G-Class",
+      "brandId": "brand-mercedes",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1979,
+      "endYear": null,
+      "isActive": true,
+      "description": "The G-Class began as a military vehicle in 1979 and became one of the most desirable luxury SUVs in the world. Its boxy silhouette has barely changed in 45 years.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_g-class/images/1920x1080/2021_mercedes-benz_g-class_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_g-class/images/1920x1080/2021_mercedes-benz_g-class_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "offroad",
+        "luxury",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-gle",
+      "slug": "mercedes-gle",
+      "name": "GLE",
+      "fullName": "Mercedes-Benz GLE",
+      "brandId": "brand-mercedes",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1997,
+      "endYear": null,
+      "isActive": true,
+      "description": "The GLE (formerly ML) was Mercedes' first SUV and one of the first luxury SUVs on the American market. It pioneered the luxury SUV segment alongside the BMW X5.",
+      "generationCount": 4,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2019_mercedes-benz_gle/images/1920x1080/2019_mercedes-benz_gle_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2019_mercedes-benz_gle/images/1920x1080/2019_mercedes-benz_gle_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "luxury",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-amg-gt",
+      "slug": "mercedes-amg-gt",
+      "name": "AMG GT",
+      "fullName": "Mercedes-AMG GT",
+      "brandId": "brand-mercedes",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2014,
+      "endYear": null,
+      "isActive": true,
+      "description": "The AMG GT is Mercedes-AMG's first purpose-built sports car, developed entirely by the performance subsidiary in Affalterbach. Its front-mid V8 and transaxle gearbox represent AMG's most complete sports car expression.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2023_mercedes-benz_amg_gt/images/1920x1080/2023_mercedes-benz_amg_gt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2023_mercedes-benz_amg_gt/images/1920x1080/2023_mercedes-benz_amg_gt_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "sports",
+        "amg",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-eqs",
+      "slug": "mercedes-eqs",
+      "name": "EQS",
+      "fullName": "Mercedes-Benz EQS",
+      "brandId": "brand-mercedes",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2021,
+      "endYear": null,
+      "isActive": true,
+      "description": "The EQS is Mercedes-Benz's electric flagship built on the purpose-developed EVA2 platform. Its 107cm Hyperscreen dashboard and up to 770km WLTP range redefine what an electric luxury car can offer.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqs/images/1920x1080/2022_mercedes-benz_eqs_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqs/images/1920x1080/2022_mercedes-benz_eqs_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "electric",
+        "luxury",
+        "mercedes",
+        "eq"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-cls",
+      "slug": "mercedes-cls",
+      "name": "CLS",
+      "fullName": "Mercedes-Benz CLS",
+      "brandId": "brand-mercedes",
+      "bodyType": "coupe",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2004,
+      "endYear": null,
+      "isActive": true,
+      "description": "The CLS invented the four-door coupe segment in 2004. Its swooping roofline and fastback silhouette proved that practicality and dramatic styling were not mutually exclusive, inspiring an entire category of competitors.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_cls/images/1920x1080/2021_mercedes-benz_cls_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_cls/images/1920x1080/2021_mercedes-benz_cls_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "luxury",
+        "four-door",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-a-class",
+      "slug": "mercedes-a-class",
+      "name": "A-Class",
+      "fullName": "Mercedes-Benz A-Class",
+      "brandId": "brand-mercedes",
+      "bodyType": "hatchback",
+      "segment": "compact",
+      "primaryMarket": "global",
+      "startYear": 1997,
+      "endYear": null,
+      "isActive": true,
+      "description": "The A-Class is Mercedes' entry-level hatchback and the most attainable expression of the three-pointed star. The fourth generation brought MBUX and a design confidence that elevated the compact segment.",
+      "generationCount": 4,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2019_mercedes-benz_a-class/images/1920x1080/2019_mercedes-benz_a-class_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2019_mercedes-benz_a-class/images/1920x1080/2019_mercedes-benz_a-class_1_1920x1080.jpg",
+      "tags": [
+        "hatchback",
+        "compact",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-glc",
+      "slug": "mercedes-glc",
+      "name": "GLC",
+      "fullName": "Mercedes-Benz GLC",
+      "brandId": "brand-mercedes",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2015,
+      "endYear": null,
+      "isActive": true,
+      "description": "The GLC is Mercedes' best-selling SUV globally — the C-Class-sized SUV that combines everyday practicality with luxury appointments. The AMG GLC63 S PHEV makes it the most powerful compact luxury SUV on sale.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2023_mercedes-benz_glc/images/1920x1080/2023_mercedes-benz_glc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2023_mercedes-benz_glc/images/1920x1080/2023_mercedes-benz_glc_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "luxury",
+        "compact",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-gls",
+      "slug": "mercedes-gls",
+      "name": "GLS",
+      "fullName": "Mercedes-Benz GLS",
+      "brandId": "brand-mercedes",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2006,
+      "endYear": null,
+      "isActive": true,
+      "description": "The GLS is Mercedes' full-size luxury SUV — the 'S-Class of SUVs.' Three rows of seating, air suspension, and MBUX technology combine to create the definitive large luxury SUV.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2020_mercedes-benz_gls/images/1920x1080/2020_mercedes-benz_gls_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2020_mercedes-benz_gls/images/1920x1080/2020_mercedes-benz_gls_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "luxury",
+        "full-size",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-maybach-s",
+      "slug": "mercedes-maybach-s",
+      "name": "Maybach S-Class",
+      "fullName": "Mercedes-Maybach S-Class",
+      "brandId": "brand-mercedes",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2014,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Mercedes-Maybach S-Class extends the S-Class platform into ultra-luxury territory, competing directly with Rolls-Royce Ghost and Bentley Flying Spur. A longer wheelbase and bespoke interior appointments make it the most opulent production Mercedes.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-maybach_s-class/images/1920x1080/2021_mercedes-maybach_s-class_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-maybach_s-class/images/1920x1080/2021_mercedes-maybach_s-class_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "luxury",
+        "ultra-luxury",
+        "maybach",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-amg-c63",
+      "slug": "mercedes-amg-c63",
+      "name": "AMG C63",
+      "fullName": "Mercedes-AMG C63",
+      "brandId": "brand-mercedes",
+      "bodyType": "sedan",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2007,
+      "endYear": null,
+      "isActive": true,
+      "description": "The AMG C63 is the performance benchmark of the compact executive segment. The W204-based C63 with its 6.2-litre naturally aspirated V8 is considered one of the greatest AMG engines; the W206 C63 S E Performance controversially replaces it with a PHEV four-cylinder producing 671bhp.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-amg_c_63_s/images/1920x1080/2021_mercedes-amg_c_63_s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-amg_c_63_s/images/1920x1080/2021_mercedes-amg_c_63_s_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "sports",
+        "amg",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-glb",
+      "slug": "mercedes-glb",
+      "name": "GLB",
+      "fullName": "Mercedes-Benz GLB",
+      "brandId": "brand-mercedes",
+      "bodyType": "suv",
+      "segment": "compact",
+      "primaryMarket": "global",
+      "startYear": 2019,
+      "endYear": null,
+      "isActive": true,
+      "description": "The GLB is a compact luxury SUV with optional seven-seat configuration — Mercedes' most practical compact offering. Its upright design and versatility make it the family-oriented alternative to the GLC.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2020_mercedes-benz_glb/images/1920x1080/2020_mercedes-benz_glb_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2020_mercedes-benz_glb/images/1920x1080/2020_mercedes-benz_glb_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "compact",
+        "seven-seat",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-eqe",
+      "slug": "mercedes-eqe",
+      "name": "EQE",
+      "fullName": "Mercedes-Benz EQE",
+      "brandId": "brand-mercedes",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2022,
+      "endYear": null,
+      "isActive": true,
+      "description": "The EQE is the E-Class equivalent of the electric EQ range, sharing the EVA2 platform with the EQS. It offers up to 660km WLTP range and optional Hyperscreen dashboard in a more attainable package than the EQS flagship.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqe/images/1920x1080/2022_mercedes-benz_eqe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2022_mercedes-benz_eqe/images/1920x1080/2022_mercedes-benz_eqe_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "electric",
+        "luxury",
+        "mercedes",
+        "eq"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-cla",
+      "slug": "mercedes-cla",
+      "name": "CLA",
+      "fullName": "Mercedes-Benz CLA",
+      "brandId": "brand-mercedes",
+      "bodyType": "coupe",
+      "segment": "compact",
+      "primaryMarket": "global",
+      "startYear": 2013,
+      "endYear": null,
+      "isActive": true,
+      "description": "The CLA is the compact four-door coupe that brought CLS-style swooping lines to the A-Class platform. Its distinctive fastback silhouette and accessible price point make it one of Mercedes' most style-driven offerings.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2020_mercedes-benz_cla/images/1920x1080/2020_mercedes-benz_cla_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2020_mercedes-benz_cla/images/1920x1080/2020_mercedes-benz_cla_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "compact",
+        "four-door",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-gle-coupe",
+      "slug": "mercedes-gle-coupe",
+      "name": "GLE Coupe",
+      "fullName": "Mercedes-Benz GLE Coupe",
+      "brandId": "brand-mercedes",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2015,
+      "endYear": null,
+      "isActive": true,
+      "description": "The GLE Coupe pioneered the luxury SUV coupe segment in 2015, blending a fastback roofline with SUV ride height and all-wheel-drive capability. The AMG GLE63 S variant produces 612bhp.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_gle_coupe/images/1920x1080/2021_mercedes-benz_gle_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2021_mercedes-benz_gle_coupe/images/1920x1080/2021_mercedes-benz_gle_coupe_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "coupe",
+        "luxury",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-amg-one",
+      "slug": "mercedes-amg-one",
+      "name": "AMG ONE",
+      "fullName": "Mercedes-AMG ONE",
+      "brandId": "brand-mercedes",
+      "bodyType": "hypercar",
+      "segment": "hypercar",
+      "primaryMarket": "global",
+      "startYear": 2022,
+      "endYear": 2023,
+      "isActive": false,
+      "description": "The AMG ONE transplants Lewis Hamilton's 2015 Formula One engine — a 1.6-litre V6 hybrid with 4 electric motors — into a road-legal hypercar producing 1063bhp. Its 9,000rpm ceiling and active aerodynamics make it the most extreme street-legal Mercedes ever made.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2023_mercedes-amg_one/images/1920x1080/2023_mercedes-amg_one_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2023_mercedes-amg_one/images/1920x1080/2023_mercedes-amg_one_1_1920x1080.jpg",
+      "tags": [
+        "hypercar",
+        "f1",
+        "hybrid",
+        "amg",
+        "mercedes"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-mercedes-eqc",
+      "slug": "mercedes-eqc",
+      "name": "EQC",
+      "fullName": "Mercedes-Benz EQC",
+      "brandId": "brand-mercedes",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2019,
+      "endYear": null,
+      "isActive": true,
+      "description": "The EQC was Mercedes' first dedicated electric SUV, built on a modified GLC platform as a stepping stone to the purpose-built EVA2 architecture. It established the EQ brand and proved Mercedes' entry-level EV viability.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/mercedes-benz/2020_mercedes-benz_eqc/images/1920x1080/2020_mercedes-benz_eqc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mercedes-benz/2020_mercedes-benz_eqc/images/1920x1080/2020_mercedes-benz_eqc_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "electric",
+        "mercedes",
+        "eq"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "analysis": {
+    "id": "analysis-mercedes-brand",
+    "entityType": "brand",
+    "entityId": "brand-mercedes",
+    "analysisType": "design_evolution",
+    "provider": "claude-3-5",
+    "headline": "The Best or Nothing: Mercedes-Benz and the Weight of Technological Supremacy",
+    "summary": "Mercedes-Benz has occupied a unique position in automotive history: not merely a luxury car maker, but the brand that has most consistently translated technological leadership into safety standards the entire industry has been compelled to adopt. Its challenge today is carrying that legacy into an electric era where the emotional triggers of the three-pointed star must find new expression.",
+    "fullText": "The S-Class is not a car. It is a technology programme that happens to be road-legal. Every decade since 1972, the S-Class has introduced at least one safety or comfort innovation that the automotive industry as a whole adopted within a decade. Anti-lock brakes in 1978. The driver's airbag in 1981. Electronic Stability Program in 1995. PRE-SAFE anticipatory restraints in 2002. Autonomous emergency braking in 2013. Level 3 Drive Pilot in 2022. No other manufacturer — not BMW, not Volvo, not Toyota — has contributed a comparable list. When regulators mandate a new safety standard, they are in most cases formalising something Mercedes invented and the S-Class proved. This is not engineering excellence as differentiation; it is engineering excellence as public service.\n\nAMG's story is one of the most remarkable transformations in automotive history. Hans Werner Aufrecht and Erhard Melcher tuned a 6.8-litre engine in a rented shed in 1967, entered a 300SEL at the Spa 24 Hours in 1971, and won outright. The 'Red Sow,' as the press called it, established AMG's reputation. For two decades AMG operated as an independent tuner, building cars more extreme than Stuttgart would sanction. Mercedes acquired them in 1999 and what followed was not the dilution of AMG's identity but its amplification. The C63's naturally aspirated 6.2-litre V8, the E63's biturbo perfection, the GT Black Series with 630bhp and downforce figures from motorsport — AMG became not a tuning badge but a genuinely separate performance philosophy within the corporation.\n\nMercedes' safety innovation legacy carries a particular moral weight that no marketing department needs to articulate. When a child survives a motorway accident because their car's autonomous emergency braking activated in time, the technology chain likely traces back to a Mercedes engineering lab. ABS, the airbag, ESP — three technologies that the WHO credits with saving hundreds of thousands of lives per year globally — all debuted in S-Class sedans before becoming universal requirements. This is not incidental to the brand's prestige; it is the foundation of it. The three-pointed star means Das Beste oder Nichts not as aspiration but as engineering obligation.\n\nThe EQ strategy is Mercedes' most consequential bet since the original merger. The EQS, launched in 2021 on the bespoke EVA2 platform, makes a compelling luxury argument: 770km range, a 56-inch Hyperscreen that redefines the concept of a dashboard, and a 0.20 Cd aerodynamic coefficient that is the best of any production car. But the Sensual Purity design language — with its organic teardrop silhouette and absence of traditional Mercedes visual signals — has created genuine dissonance among existing customers. The S-Class buyer who has purchased the three-pointed star for 30 years expects certain proportional cues. The EQS provides none of them. Whether this is a deliberate generational pivot or a miscalculation will take a decade to determine.\n\nMaintaining coherent brand identity across 280 models is Mercedes-Benz's structural challenge. From the A-Class compact hatchback at €35,000 to the Maybach S680 at €250,000, the same three-pointed star must convey consistent values while addressing fundamentally different customers. AMG, Maybach, and the EQ sub-brand each serve to segment the range, but the risk of dilution is real. BMW has managed this tension through driving dynamics as the universal denominator. Mercedes' equivalent is the safety and technology narrative — a proposition that translates upward more easily than it scales downward.",
+    "insights": [
+      {
+        "id": "insight-s-class-lab",
+        "category": "The S-Class as Technology Laboratory",
+        "text": "Every major automotive safety standard of the past 50 years — ABS, airbags, ESP, PRE-SAFE, autonomous emergency braking, Level 3 autonomy — debuted in an S-Class. No other single model line has contributed more to global road safety.",
+        "confidence": 0.95,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-amg-evolution",
+        "category": "AMG: From Tuning Shop to Performance Brand",
+        "text": "AMG's 1967 origin as a two-man engine shop and its 1971 Spa 24 Hours victory with the 'Red Sow' is the automotive equivalent of a garage startup disrupting an industry. Mercedes' 1999 acquisition transformed that independent spirit into institutional performance credibility.",
+        "confidence": 0.92,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-safety-legacy",
+        "category": "Safety Innovation as Brand Identity",
+        "text": "Mercedes is the only luxury automotive brand whose identity is substantially defined by safety technology rather than driving dynamics or styling. ABS, the airbag, and ESP — three WHO-recognised lifesaving technologies — trace directly to S-Class engineering programmes. This creates an emotional bond that no marketing campaign can manufacture.",
+        "confidence": 0.96,
+        "importance": "high"
+      },
+      {
+        "id": "insight-mbux-battleground",
+        "category": "MBUX vs Apple CarPlay: The Infotainment War",
+        "text": "When Mercedes launched MBUX in 2018 with natural language processing and AI learning, it represented the most sophisticated in-car software of its era. The subsequent industry shift toward Apple CarPlay and Android Auto integration has challenged whether proprietary infotainment can survive when customers expect smartphone mirroring. Mercedes has hedged by supporting both — a pragmatic but strategically ambiguous position.",
+        "confidence": 0.88,
+        "importance": "high"
+      },
+      {
+        "id": "insight-eq-platform",
+        "category": "EVA2 vs Tesla: The Premium Electric Platform War",
+        "text": "The EQS's EVA2 platform is purpose-built for electric architecture in a way that no competitor's ICE-adapted platform can match in terms of space efficiency and ride refinement. However, Tesla's software update cadence and over-the-air feature additions expose the traditional automotive model's weakness: Mercedes builds a definitive product; Tesla builds a perpetually evolving one.",
+        "confidence": 0.9,
+        "importance": "high"
+      }
+    ],
+    "confidenceScore": 0.93,
+    "processingTimeMs": 4100,
+    "createdAt": "2026-01-15T10:00:00Z",
+    "isCached": true
+  },
+  "latestCars": [
+    {
+      "id": "ncs-mercedes-benz-2027-amg_gt_4-door",
+      "name": "Mercedes-Benz AMG GT 4-Door",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_4-Door-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-amg_gt_4-door/",
+      "description": "Mercedes-AMG continues its impressive tradition of high-performance drivetrains and is ushering in a new level of performance in the Mercedes-AMG GT 4-Door Coupe.",
+      "scrapedAt": "2026-06-10T19:39:03.186Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2023-cla-class_concept",
+      "name": "Mercedes-Benz CLA-Class Concept",
+      "year": 2023,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-CLA-Class_Concept-2023-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2023-cla-class_concept/",
+      "description": "The dynamic front end of the Concept CLA Class is characterised by the shark-nose design and the distinctive seamless &quot;grille&quot; panel. It forms a cohesive part of...",
+      "scrapedAt": "2026-06-10T19:39:03.775Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2023-vision_one-eleven_concept",
+      "name": "Mercedes-Benz Vision One-Eleven Concept",
+      "year": 2023,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_One-Eleven_Concept-2023-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2023-vision_one-eleven_concept/",
+      "description": "The body of the Mercedes-Benz Vision One-Eleven centres on skilful execution of the One-Bow design. From the low-slung front end to the muscular hind quarters...",
+      "scrapedAt": "2026-06-10T19:39:03.775Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2022-vision_amg_concept",
+      "name": "Mercedes-Benz Vision AMG Concept",
+      "year": 2022,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_AMG_Concept-2022-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2022-vision_amg_concept/",
+      "description": "As the visual focal point, the grille emphasises the futuristic look of the Vision AMG with its illuminated bars and three-dimensional exterior contour.",
+      "scrapedAt": "2026-06-10T19:39:03.775Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2021-eqg_concept",
+      "name": "Mercedes-Benz EQG Concept",
+      "year": 2021,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-EQG_Concept-2021-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2021-eqg_concept/",
+      "description": "Concept EQG is clearly a &quot;G&quot; not only in terms of design, but also because of its inner values, making it an uncompromising off-roader. Its body is also...",
+      "scrapedAt": "2026-06-10T19:39:03.775Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2020-vision_avtr_concept",
+      "name": "Mercedes-Benz Vision Avtr Concept",
+      "year": 2020,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Avtr_Concept-2020-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2020-vision_avtr_concept/",
+      "description": "A bionic, nature-inspired formal language characterizes the appearance of the Vision Avtr. This sensual, innovative design with the EQ-typical &quot;seamless&quot;...",
+      "scrapedAt": "2026-06-10T19:39:03.775Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2019-vision_simplex_concept",
+      "name": "Mercedes-Benz Vision Simplex Concept",
+      "year": 2019,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Simplex_Concept-2019-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2019-vision_simplex_concept/",
+      "description": "Vision Mercedes Simplex reinterprets the historic Simplex as a two-seater with freestanding wheels, an alternative drive, exciting User Interface and a thrilling design.",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2019-vision_eqs_concept",
+      "name": "Mercedes-Benz Vision EQS Concept",
+      "year": 2019,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_EQS_Concept-2019-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2019-vision_eqs_concept/",
+      "description": "A combined output of over 350 kW gives the Vision EQS the performance of a super-sports car. With a compact high-performance power unit at each axle...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2018-vision_maybach_ultimate_luxury_concept",
+      "name": "Mercedes-Benz Vision Maybach Ultimate Luxury Concept",
+      "year": 2018,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Maybach_Ultimate_Luxury_Concept-2018-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2018-vision_maybach_ultimate_luxury_concept/",
+      "description": "Unlike a conventional saloon, the Vision Mercedes-Maybach Ultimate Luxury offers a significantly higher, SUV-typical seating position and therefore a sublime...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2017-vision_maybach_6_cabriolet_concept",
+      "name": "Mercedes-Benz Vision Maybach 6 Cabriolet Concept",
+      "year": 2017,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Maybach_6_Cabriolet_Concept-2017-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2017-vision_maybach_6_cabriolet_concept/",
+      "description": "The Vision Mercedes-Maybach 6 Cabriolet is designed to anticipate the needs of its passengers and to provide the required information and solutions in real time.",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2016-vision_maybach_6_concept",
+      "name": "Mercedes-Benz Vision Maybach 6 Concept",
+      "year": 2016,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Maybach_6_Concept-2016-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2016-vision_maybach_6_concept/",
+      "description": "Every August classic car fans from around the world converge on Pebble Beach in California for a very special beauty contest. This gathering of magnificent...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2015-f015_luxury_in_motion_concept",
+      "name": "Mercedes-Benz F015 Luxury in Motion Concept",
+      "year": 2015,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-F015_Luxury_in_Motion_Concept-2015-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2015-f015_luxury_in_motion_concept/",
+      "description": "With the S500 INTELLIGENT DRIVE and the Future Truck 2025, Mercedes-Benz has already made the vision of autonomous driving become reality. The new research...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2015-iaa_concept",
+      "name": "Mercedes-Benz IAA Concept",
+      "year": 2015,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-IAA_Concept-2015-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2015-iaa_concept/",
+      "description": "The Mercedes-Benz &quot;Concept IAA&quot; (Intelligent Aerodynamic Automobile) is two cars in one: an aerodynamics world champion with a Cd value of 0.19...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2012-ener-g-force_concept",
+      "name": "Mercedes-Benz Ener-G-Force Concept",
+      "year": 2012,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Ener-G-Force_Concept-2012-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2012-ener-g-force_concept/",
+      "description": "Is it possible that the  Mercedes-Benz G-Class  will still be around in 2025? A cool design study from Mercedes-Benz demonstrates how the genes of the...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2011-silver_arrow_concept",
+      "name": "Mercedes-Benz Silver Arrow Concept",
+      "year": 2011,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Silver_Arrow_Concept-2011-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2011-silver_arrow_concept/",
+      "description": "For the 2011 Los Angeles Design Challenge, which was seeking to find the most spectacular new film car for Hollywood, the designers from the Mercedes-Benz...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2010-biome_concept",
+      "name": "Mercedes-Benz Biome Concept",
+      "year": 2010,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Biome_Concept-2010-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2010-biome_concept/",
+      "description": "At the 2010 Los Angeles Design Challenge, the designers from the Mercedes-Benz Advanced Design Studios in Carlsbad, California, surprised everyone with a...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2009-f-cell_roadster_concept",
+      "name": "Mercedes-Benz F-Cell Roadster Concept",
+      "year": 2009,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-F-Cell_Roadster_Concept-2009-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2009-f-cell_roadster_concept/",
+      "description": "In a hitherto unique Mercedes-Benz F-Cell Roadster project bridging various fields of profession, the trainees of Daimler AG at the Sindelfingen...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2005-f_600_hygenius_concept",
+      "name": "Mercedes-Benz F 600 Hygenius Concept",
+      "year": 2005,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-F_600_Hygenius_Concept-2005-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2005-f_600_hygenius_concept/",
+      "description": "The new Mercedes-Benz F 600 Hygenius Concept is the latest in the series of research vehicles from Mercedes-Benz that point the way forwards for the...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2001-f_400_carving_concept",
+      "name": "Mercedes-Benz F 400 Carving Concept",
+      "year": 2001,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-F_400_Carving_Concept-2001-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2001-f_400_carving_concept/",
+      "description": "DaimlerChrysler has exhibited a special concept study at the 2001 Tokyo Motor Show: the Mercedes-Benz F 400 Carving Concept is a research vehicle packed...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2000-vision_sla_concept",
+      "name": "Mercedes-Benz Vision SLA Concept",
+      "year": 2000,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_SLA_Concept-2000-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2000-vision_sla_concept/",
+      "description": "Vision SLA is the name of a new roadster study with which Mercedes-Benz aims to bring the driving sensation of its traditional SL models to the compact car...",
+      "scrapedAt": "2026-06-10T19:39:03.776Z"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "m-porsche-718-gts-4-0",
+  "slug": "porsche-718-gts-4-0",
+  "name": "718 GTS 4.0",
+  "fullName": "Porsche 718 GTS 4.0",
+  "brandId": "brand-porsche",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": 2020,
+  "isActive": false,
+  "description": "Porsche 718 GTS 4.0 — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2020_porsche_718_gts_4.0/images/1920x1080/2020_porsche_718_gts_4.0_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2020_porsche_718_gts_4.0/images/1920x1080/2020_porsche_718_gts_4.0_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-718-gts-4-0-2020-0",
+      "slug": "porsche-718-gts-4-0-2020-0",
+      "modelId": "m-porsche-718-gts-4-0",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2020 718 GTS 4.0",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-718-gts-4-0-2020-1",
+      "slug": "porsche-718-gts-4-0-2020-1",
+      "modelId": "m-porsche-718-gts-4-0",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche 718 GTS 4.0 | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2020_porsche_718_gts_4.0/images/1920x1080/2020_porsche_718_gts_4.0_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2020_porsche_718_gts_4.0/images/1920x1080/2020_porsche_718_gts_4.0_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-718-gts-4-0-2020-1",
+          "generationId": "gen-porsche-718-gts-4-0-2020-1",
+          "url": "https://images.caricos.com/p/porsche/2020_porsche_718_gts_4.0/images/1920x1080/2020_porsche_718_gts_4.0_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2020_porsche_718_gts_4.0/images/1920x1080/2020_porsche_718_gts_4.0_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche 718 GTS 4.0 | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

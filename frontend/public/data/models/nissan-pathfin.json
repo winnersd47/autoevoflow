@@ -1,0 +1,486 @@
+{
+  "id": "m-nissan-pathfin",
+  "slug": "nissan-pathfin",
+  "name": "Pathfin",
+  "fullName": "Nissan Pathfin",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Pathfin — sedan, produced since 2020.",
+  "generationCount": 10,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2023_nissan_pathfinder_rock_creek/images/1920x1080/2023_nissan_pathfinder_rock_creek_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2023_nissan_pathfinder_rock_creek/images/1920x1080/2023_nissan_pathfinder_rock_creek_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-pathfin-2020-0",
+      "slug": "nissan-pathfin-2020-0",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder Rock Creek | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2023_nissan_pathfinder_rock_creek/images/1920x1080/2023_nissan_pathfinder_rock_creek_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2023_nissan_pathfinder_rock_creek/images/1920x1080/2023_nissan_pathfinder_rock_creek_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-0",
+          "generationId": "gen-nissan-pathfin-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2023_nissan_pathfinder_rock_creek/images/1920x1080/2023_nissan_pathfinder_rock_creek_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2023_nissan_pathfinder_rock_creek/images/1920x1080/2023_nissan_pathfinder_rock_creek_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder Rock Creek | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-1",
+      "slug": "nissan-pathfin-2020-1",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2022_nissan_pathfinder/images/1920x1080/2022_nissan_pathfinder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2022_nissan_pathfinder/images/1920x1080/2022_nissan_pathfinder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-1",
+          "generationId": "gen-nissan-pathfin-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2022_nissan_pathfinder/images/1920x1080/2022_nissan_pathfinder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2022_nissan_pathfinder/images/1920x1080/2022_nissan_pathfinder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-2",
+      "slug": "nissan-pathfin-2020-2",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2020_nissan_pathfinder/images/1920x1080/2020_nissan_pathfinder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2020_nissan_pathfinder/images/1920x1080/2020_nissan_pathfinder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-2",
+          "generationId": "gen-nissan-pathfin-2020-2",
+          "url": "https://images.caricos.com/n/nissan/2020_nissan_pathfinder/images/1920x1080/2020_nissan_pathfinder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2020_nissan_pathfinder/images/1920x1080/2020_nissan_pathfinder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-3",
+      "slug": "nissan-pathfin-2020-3",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder Rock Creek Edition | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nisan_pathfinder_rock_creek/images/1920x1080/2019_nisan_pathfinder_rock_creek_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2019_nisan_pathfinder_rock_creek/images/1920x1080/2019_nisan_pathfinder_rock_creek_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-3",
+          "generationId": "gen-nissan-pathfin-2020-3",
+          "url": "https://images.caricos.com/n/nissan/2019_nisan_pathfinder_rock_creek/images/1920x1080/2019_nisan_pathfinder_rock_creek_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nisan_pathfinder_rock_creek/images/1920x1080/2019_nisan_pathfinder_rock_creek_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder Rock Creek Edition | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-4",
+      "slug": "nissan-pathfin-2020-4",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_pathfinder/images/1920x1080/2019_nissan_pathfinder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2019_nissan_pathfinder/images/1920x1080/2019_nissan_pathfinder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-4",
+          "generationId": "gen-nissan-pathfin-2020-4",
+          "url": "https://images.caricos.com/n/nissan/2019_nissan_pathfinder/images/1920x1080/2019_nissan_pathfinder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2019_nissan_pathfinder/images/1920x1080/2019_nissan_pathfinder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-5",
+      "slug": "nissan-pathfin-2020-5",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_pathfinder/images/1920x1080/2017_nissan_pathfinder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_pathfinder/images/1920x1080/2017_nissan_pathfinder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-5",
+          "generationId": "gen-nissan-pathfin-2020-5",
+          "url": "https://images.caricos.com/n/nissan/2017_nissan_pathfinder/images/1920x1080/2017_nissan_pathfinder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_pathfinder/images/1920x1080/2017_nissan_pathfinder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-6",
+      "slug": "nissan-pathfin-2020-6",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_pathfinder/images/1920x1080/2015_nissan_pathfinder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_pathfinder/images/1920x1080/2015_nissan_pathfinder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-6",
+          "generationId": "gen-nissan-pathfin-2020-6",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_pathfinder/images/1920x1080/2015_nissan_pathfinder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_pathfinder/images/1920x1080/2015_nissan_pathfinder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-7",
+      "slug": "nissan-pathfin-2020-7",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder Hybrid | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_pathfinder_hybrid/images/1920x1080/2014_nissan_pathfinder_hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2014_nissan_pathfinder_hybrid/images/1920x1080/2014_nissan_pathfinder_hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-7",
+          "generationId": "gen-nissan-pathfin-2020-7",
+          "url": "https://images.caricos.com/n/nissan/2014_nissan_pathfinder_hybrid/images/1920x1080/2014_nissan_pathfinder_hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_pathfinder_hybrid/images/1920x1080/2014_nissan_pathfinder_hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder Hybrid | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-8",
+      "slug": "nissan-pathfin-2020-8",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 9,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_pathfinder/images/1920x1080/2013_nissan_pathfinder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2013_nissan_pathfinder/images/1920x1080/2013_nissan_pathfinder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-8",
+          "generationId": "gen-nissan-pathfin-2020-8",
+          "url": "https://images.caricos.com/n/nissan/2013_nissan_pathfinder/images/1920x1080/2013_nissan_pathfinder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_pathfinder/images/1920x1080/2013_nissan_pathfinder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-pathfin-2020-9",
+      "slug": "nissan-pathfin-2020-9",
+      "modelId": "m-nissan-pathfin",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 10,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Pathfinder Concept | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2012_nissan_pathfinder/images/1920x1080/2012_nissan_pathfinder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2012_nissan_pathfinder/images/1920x1080/2012_nissan_pathfinder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-pathfin-2020-9",
+          "generationId": "gen-nissan-pathfin-2020-9",
+          "url": "https://images.caricos.com/n/nissan/2012_nissan_pathfinder/images/1920x1080/2012_nissan_pathfinder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2012_nissan_pathfinder/images/1920x1080/2012_nissan_pathfinder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Pathfinder Concept | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

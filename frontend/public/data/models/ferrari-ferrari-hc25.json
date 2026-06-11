@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ferrari-ferrari-hc25",
+  "slug": "ferrari-ferrari-hc25",
+  "name": "Ferrari HC25",
+  "fullName": "2026 Ferrari HC25",
+  "brandId": "ferrari",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Ferrari HC25 is characterised by a strong graphic identity: the dual-volume structure creates an interplay in which the front and rear appear as two distinct bodies...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-HC25-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-HC25-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ferrari/2026-hc25/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.737Z",
+  "updatedAt": "2026-06-05T07:36:26.737Z"
+}

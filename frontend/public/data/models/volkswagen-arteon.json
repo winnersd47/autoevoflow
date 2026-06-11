@@ -1,0 +1,302 @@
+{
+  "id": "m-volkswagen-arteon",
+  "slug": "volkswagen-arteon",
+  "name": "Arteon (",
+  "fullName": "Volkswagen Arteon (",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Arteon ( — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_us/images/1920x1080/2021_volkswagen_arteon_us_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_us/images/1920x1080/2021_volkswagen_arteon_us_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-arteon-2020-0",
+      "slug": "volkswagen-arteon-2020-0",
+      "modelId": "m-volkswagen-arteon",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Arteon | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_arteon/images/1920x1080/2022_volkswagen_arteon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2022_volkswagen_arteon/images/1920x1080/2022_volkswagen_arteon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-arteon-2020-0",
+          "generationId": "gen-volkswagen-arteon-2020-0",
+          "url": "https://images.caricos.com/v/vw/2022_volkswagen_arteon/images/1920x1080/2022_volkswagen_arteon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_arteon/images/1920x1080/2022_volkswagen_arteon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Arteon | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-arteon-2020-1",
+      "slug": "volkswagen-arteon-2020-1",
+      "modelId": "m-volkswagen-arteon",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Arteon | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon/images/1920x1080/2021_volkswagen_arteon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon/images/1920x1080/2021_volkswagen_arteon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-arteon-2020-1",
+          "generationId": "gen-volkswagen-arteon-2020-1",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_arteon/images/1920x1080/2021_volkswagen_arteon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon/images/1920x1080/2021_volkswagen_arteon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Arteon | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-arteon-2020-2",
+      "slug": "volkswagen-arteon-2020-2",
+      "modelId": "m-volkswagen-arteon",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Arteon | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2018_volkswagen_arteon/images/1920x1080/2018_volkswagen_arteon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2018_volkswagen_arteon/images/1920x1080/2018_volkswagen_arteon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-arteon-2020-2",
+          "generationId": "gen-volkswagen-arteon-2020-2",
+          "url": "https://images.caricos.com/v/vw/2018_volkswagen_arteon/images/1920x1080/2018_volkswagen_arteon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2018_volkswagen_arteon/images/1920x1080/2018_volkswagen_arteon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Arteon | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-arteon-2020-0",
+      "slug": "volkswagen-arteon-2020-0",
+      "modelId": "m-volkswagen-arteon",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Arteon (US-Spec) | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_us/images/1920x1080/2021_volkswagen_arteon_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_us/images/1920x1080/2021_volkswagen_arteon_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-arteon-2020-0",
+          "generationId": "gen-volkswagen-arteon-2020-0",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_us/images/1920x1080/2021_volkswagen_arteon_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_us/images/1920x1080/2021_volkswagen_arteon_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Arteon (US-Spec) | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-arteon-2020-1",
+      "slug": "volkswagen-arteon-2020-1",
+      "modelId": "m-volkswagen-arteon",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Arteon (UK-Spec) | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_uk/images/1920x1080/2021_volkswagen_arteon_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_uk/images/1920x1080/2021_volkswagen_arteon_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-arteon-2020-1",
+          "generationId": "gen-volkswagen-arteon-2020-1",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_uk/images/1920x1080/2021_volkswagen_arteon_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_uk/images/1920x1080/2021_volkswagen_arteon_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Arteon (UK-Spec) | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-arteon-2020-2",
+      "slug": "volkswagen-arteon-2020-2",
+      "modelId": "m-volkswagen-arteon",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Arteon (US-Spec) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_arteon/images/1920x1080/2019_volkswagen_arteon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_arteon/images/1920x1080/2019_volkswagen_arteon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-arteon-2020-2",
+          "generationId": "gen-volkswagen-arteon-2020-2",
+          "url": "https://images.caricos.com/v/vw/2019_volkswagen_arteon/images/1920x1080/2019_volkswagen_arteon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_arteon/images/1920x1080/2019_volkswagen_arteon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Arteon (US-Spec) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

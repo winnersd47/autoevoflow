@@ -1,0 +1,578 @@
+{
+  "id": "m-peugeot-p",
+  "slug": "peugeot-p",
+  "name": "P",
+  "fullName": "Peugeot P",
+  "brandId": "brand-peugeot",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "endYear": 2008,
+  "isActive": false,
+  "description": "Peugeot P — sedan, produced since 2008.",
+  "generationCount": 73,
+  "thumbnailUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "peugeot"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-peugeot-p-2008-0",
+      "slug": "peugeot-p-2008-0",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 1,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot e-2008 | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-0",
+          "generationId": "gen-peugeot-p-2008-0",
+          "url": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot e-2008 | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-1",
+      "slug": "peugeot-p-2008-1",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 2,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot e-2008 EV | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2020_peugeot_e-2008/images/1920x1080/2020_peugeot_e-2008_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2020_peugeot_e-2008/images/1920x1080/2020_peugeot_e-2008_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-1",
+          "generationId": "gen-peugeot-p-2008-1",
+          "url": "https://images.caricos.com/p/peugeot/2020_peugeot_e-2008/images/1920x1080/2020_peugeot_e-2008_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2020_peugeot_e-2008/images/1920x1080/2020_peugeot_e-2008_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot e-2008 EV | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-2",
+      "slug": "peugeot-p-2008-2",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 3,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 2008 | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2020_peugeot_2008/images/1920x1080/2020_peugeot_2008_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2020_peugeot_2008/images/1920x1080/2020_peugeot_2008_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-2",
+          "generationId": "gen-peugeot-p-2008-2",
+          "url": "https://images.caricos.com/p/peugeot/2020_peugeot_2008/images/1920x1080/2020_peugeot_2008_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2020_peugeot_2008/images/1920x1080/2020_peugeot_2008_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 2008 | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-3",
+      "slug": "peugeot-p-2008-3",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 4,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 2008 | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2017_peugeot_2008/images/1920x1080/2017_peugeot_2008_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2017_peugeot_2008/images/1920x1080/2017_peugeot_2008_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-3",
+          "generationId": "gen-peugeot-p-2008-3",
+          "url": "https://images.caricos.com/p/peugeot/2017_peugeot_2008/images/1920x1080/2017_peugeot_2008_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2017_peugeot_2008/images/1920x1080/2017_peugeot_2008_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 2008 | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-4",
+      "slug": "peugeot-p-2008-4",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 5,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 2008 DKR | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2015_peugeot_2008_dkr/images/1920x1080/2015_peugeot_2008_dkr_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2015_peugeot_2008_dkr/images/1920x1080/2015_peugeot_2008_dkr_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-4",
+          "generationId": "gen-peugeot-p-2008-4",
+          "url": "https://images.caricos.com/p/peugeot/2015_peugeot_2008_dkr/images/1920x1080/2015_peugeot_2008_dkr_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2015_peugeot_2008_dkr/images/1920x1080/2015_peugeot_2008_dkr_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 2008 DKR | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-5",
+      "slug": "peugeot-p-2008-5",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 6,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 2008 | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2014_peugeot_2008/images/1920x1080/2014_peugeot_2008_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2014_peugeot_2008/images/1920x1080/2014_peugeot_2008_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-5",
+          "generationId": "gen-peugeot-p-2008-5",
+          "url": "https://images.caricos.com/p/peugeot/2014_peugeot_2008/images/1920x1080/2014_peugeot_2008_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2014_peugeot_2008/images/1920x1080/2014_peugeot_2008_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 2008 | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-6",
+      "slug": "peugeot-p-2008-6",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 7,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 2008 Concept | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2012_peugeot_2008_concept/images/1920x1080/2012_peugeot_2008_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2012_peugeot_2008_concept/images/1920x1080/2012_peugeot_2008_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-6",
+          "generationId": "gen-peugeot-p-2008-6",
+          "url": "https://images.caricos.com/p/peugeot/2012_peugeot_2008_concept/images/1920x1080/2012_peugeot_2008_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2012_peugeot_2008_concept/images/1920x1080/2012_peugeot_2008_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 2008 Concept | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-7",
+      "slug": "peugeot-p-2008-7",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 8,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot e-2008",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-7",
+          "generationId": "gen-peugeot-p-2008-7",
+          "url": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2024_peugeot_e-2008/images/1920x1080/2024_peugeot_e-2008_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot e-2008",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-8",
+      "slug": "peugeot-p-2008-8",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 9,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 408 | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2023_peugeot_408/images/1920x1080/2023_peugeot_408_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2023_peugeot_408/images/1920x1080/2023_peugeot_408_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-8",
+          "generationId": "gen-peugeot-p-2008-8",
+          "url": "https://images.caricos.com/p/peugeot/2023_peugeot_408/images/1920x1080/2023_peugeot_408_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2023_peugeot_408/images/1920x1080/2023_peugeot_408_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 408 | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-9",
+      "slug": "peugeot-p-2008-9",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 10,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 9X8 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2022_peugeot_9x8/images/1920x1080/2022_peugeot_9x8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2022_peugeot_9x8/images/1920x1080/2022_peugeot_9x8_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-9",
+          "generationId": "gen-peugeot-p-2008-9",
+          "url": "https://images.caricos.com/p/peugeot/2022_peugeot_9x8/images/1920x1080/2022_peugeot_9x8_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2022_peugeot_9x8/images/1920x1080/2022_peugeot_9x8_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 9X8 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-10",
+      "slug": "peugeot-p-2008-10",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 11,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 308 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2022_peugeot_308/images/1920x1080/2022_peugeot_308_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2022_peugeot_308/images/1920x1080/2022_peugeot_308_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-10",
+          "generationId": "gen-peugeot-p-2008-10",
+          "url": "https://images.caricos.com/p/peugeot/2022_peugeot_308/images/1920x1080/2022_peugeot_308_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2022_peugeot_308/images/1920x1080/2022_peugeot_308_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 308 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-peugeot-p-2008-11",
+      "slug": "peugeot-p-2008-11",
+      "modelId": "m-peugeot-p",
+      "brandId": "brand-peugeot",
+      "codeName": "2008",
+      "generationNumber": 12,
+      "startYear": 2008,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Peugeot 5008 | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/p/peugeot/2021_peugeot_5008/images/1920x1080/2021_peugeot_5008_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/peugeot/2021_peugeot_5008/images/1920x1080/2021_peugeot_5008_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-peugeot-p-2008-11",
+          "generationId": "gen-peugeot-p-2008-11",
+          "url": "https://images.caricos.com/p/peugeot/2021_peugeot_5008/images/1920x1080/2021_peugeot_5008_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/peugeot/2021_peugeot_5008/images/1920x1080/2021_peugeot_5008_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2008,
+          "altText": "Peugeot 5008 | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2008"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-gt-verdant-theme-by-mso",
+  "slug": "mclaren-gt-verdant-theme-by-mso",
+  "name": "GT Verdant Theme by MSO",
+  "fullName": "McLaren GT Verdant Theme by MSO",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": 2020,
+  "isActive": false,
+  "description": "McLaren GT Verdant Theme by MSO — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_gt_verdant_theme_mso/images/1920x1080/2020_mclaren_gt_verdant_theme_mso_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_gt_verdant_theme_mso/images/1920x1080/2020_mclaren_gt_verdant_theme_mso_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-gt-verdant-theme-by-mso-2020-0",
+      "slug": "mclaren-gt-verdant-theme-by-mso-2020-0",
+      "modelId": "m-mclaren-gt-verdant-theme-by-mso",
+      "brandId": "brand-mclaren",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2020 McLaren GT Verdant Theme by MSO",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_gt_verdant_theme_mso/images/1920x1080/2020_mclaren_gt_verdant_theme_mso_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_gt_verdant_theme_mso/images/1920x1080/2020_mclaren_gt_verdant_theme_mso_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-gt-verdant-theme-by-mso-2020-0",
+          "generationId": "gen-mclaren-gt-verdant-theme-by-mso-2020-0",
+          "url": "https://images.caricos.com/m/mclaren/2020_mclaren_gt_verdant_theme_mso/images/1920x1080/2020_mclaren_gt_verdant_theme_mso_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_gt_verdant_theme_mso/images/1920x1080/2020_mclaren_gt_verdant_theme_mso_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "2020 McLaren GT Verdant Theme by MSO",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

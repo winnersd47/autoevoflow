@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-308-gtb",
+  "slug": "ferrari-308-gtb",
+  "name": "308 GTB",
+  "fullName": "Ferrari 308 GTB",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1975,
+  "endYear": 1985,
+  "isActive": false,
+  "description": "The Ferrari 308 GTB (1975–1985) is Giugaro's masterpiece and the car that defined the mid-engine Ferrari formula for 50 years. Its 3.0-litre V8 producing 255 hp, combined with the first use of fibreglass body panels on a Ferrari GT, established the template that the 348, F355, 360, F430, 458, 488, F8, and 296 would follow.",
+  "generationCount": 2,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "mid-engine", "v8", "classic"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

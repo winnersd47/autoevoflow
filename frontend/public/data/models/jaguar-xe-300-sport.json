@@ -1,0 +1,72 @@
+{
+  "id": "m-jaguar-xe-300-sport",
+  "slug": "jaguar-xe-300-sport",
+  "name": "XE 300 SPORT",
+  "fullName": "Jaguar XE 300 SPORT",
+  "brandId": "brand-jaguar",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Jaguar XE 300 SPORT — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/j/jaguar/2019_jaguar_xe_300_sport/images/1920x1080/2019_jaguar_xe_300_sport_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/j/jaguar/2019_jaguar_xe_300_sport/images/1920x1080/2019_jaguar_xe_300_sport_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "jaguar"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-jaguar-xe-300-sport-2020-0",
+      "slug": "jaguar-xe-300-sport-2020-0",
+      "modelId": "m-jaguar-xe-300-sport",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar XE 300 SPORT | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2019_jaguar_xe_300_sport/images/1920x1080/2019_jaguar_xe_300_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2019_jaguar_xe_300_sport/images/1920x1080/2019_jaguar_xe_300_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-xe-300-sport-2020-0",
+          "generationId": "gen-jaguar-xe-300-sport-2020-0",
+          "url": "https://images.caricos.com/j/jaguar/2019_jaguar_xe_300_sport/images/1920x1080/2019_jaguar_xe_300_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2019_jaguar_xe_300_sport/images/1920x1080/2019_jaguar_xe_300_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar XE 300 SPORT | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

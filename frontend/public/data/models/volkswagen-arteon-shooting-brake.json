@@ -1,0 +1,118 @@
+{
+  "id": "m-volkswagen-arteon-shooting-brake",
+  "slug": "volkswagen-arteon-shooting-brake",
+  "name": "Arteon Shooting Brake",
+  "fullName": "Volkswagen Arteon Shooting Brake",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Arteon Shooting Brake — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb/images/1920x1080/2021_volkswagen_arteon_sb_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb/images/1920x1080/2021_volkswagen_arteon_sb_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-arteon-shooting-brake-2020-0",
+      "slug": "volkswagen-arteon-shooting-brake-2020-0",
+      "modelId": "m-volkswagen-arteon-shooting-brake",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Arteon Shooting Brake (UK-Spec) | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb_uk/images/1920x1080/2021_volkswagen_arteon_sb_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb_uk/images/1920x1080/2021_volkswagen_arteon_sb_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-arteon-shooting-brake-2020-0",
+          "generationId": "gen-volkswagen-arteon-shooting-brake-2020-0",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb_uk/images/1920x1080/2021_volkswagen_arteon_sb_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb_uk/images/1920x1080/2021_volkswagen_arteon_sb_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Arteon Shooting Brake (UK-Spec) | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-arteon-shooting-brake-2020-0",
+      "slug": "volkswagen-arteon-shooting-brake-2020-0",
+      "modelId": "m-volkswagen-arteon-shooting-brake",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Arteon Shooting Brake | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb/images/1920x1080/2021_volkswagen_arteon_sb_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb/images/1920x1080/2021_volkswagen_arteon_sb_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-arteon-shooting-brake-2020-0",
+          "generationId": "gen-volkswagen-arteon-shooting-brake-2020-0",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb/images/1920x1080/2021_volkswagen_arteon_sb_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_arteon_sb/images/1920x1080/2021_volkswagen_arteon_sb_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Arteon Shooting Brake | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

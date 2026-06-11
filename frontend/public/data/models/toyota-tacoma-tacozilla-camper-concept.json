@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-tacoma-tacozilla-camper-concept",
+  "slug": "toyota-tacoma-tacozilla-camper-concept",
+  "name": "Tacoma TacoZilla Camper Concept",
+  "fullName": "Toyota Tacoma TacoZilla Camper Concept",
+  "brandId": "brand-toyota",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Tacoma TacoZilla Camper Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_tacoma_tacozilla_camper/images/1920x1080/2021_toyota_tacoma_tacozilla_camper_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2021_toyota_tacoma_tacozilla_camper/images/1920x1080/2021_toyota_tacoma_tacozilla_camper_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-tacoma-tacozilla-camper-concept-2020-0",
+      "slug": "toyota-tacoma-tacozilla-camper-concept-2020-0",
+      "modelId": "m-toyota-tacoma-tacozilla-camper-concept",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Tacoma TacoZilla Camper Concept | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_tacoma_tacozilla_camper/images/1920x1080/2021_toyota_tacoma_tacozilla_camper_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2021_toyota_tacoma_tacozilla_camper/images/1920x1080/2021_toyota_tacoma_tacozilla_camper_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-tacoma-tacozilla-camper-concept-2020-0",
+          "generationId": "gen-toyota-tacoma-tacozilla-camper-concept-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2021_toyota_tacoma_tacozilla_camper/images/1920x1080/2021_toyota_tacoma_tacozilla_camper_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_tacoma_tacozilla_camper/images/1920x1080/2021_toyota_tacoma_tacozilla_camper_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Tacoma TacoZilla Camper Concept | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

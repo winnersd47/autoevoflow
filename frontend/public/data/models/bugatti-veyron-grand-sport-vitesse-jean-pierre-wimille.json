@@ -1,0 +1,72 @@
+{
+  "id": "m-bugatti-veyron-grand-sport-vitesse-jean-pierre-wimille",
+  "slug": "bugatti-veyron-grand-sport-vitesse-jean-pierre-wimille",
+  "name": "Veyron Grand Sport Vitesse Jean-Pierre Wimille",
+  "fullName": "Bugatti Veyron Grand Sport Vitesse Jean-Pierre Wimille",
+  "brandId": "brand-bugatti",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bugatti Veyron Grand Sport Vitesse Jean-Pierre Wimille — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bugatti/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille/images/1920x1080/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bugatti/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille/images/1920x1080/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bugatti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bugatti-veyron-grand-sport-vitesse-jean-pierre-wimille-2020-0",
+      "slug": "bugatti-veyron-grand-sport-vitesse-jean-pierre-wimille-2020-0",
+      "modelId": "m-bugatti-veyron-grand-sport-vitesse-jean-pierre-wimille",
+      "brandId": "brand-bugatti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bugatti Veyron Grand Sport Vitesse Jean-Pierre Wimille | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bugatti/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille/images/1920x1080/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bugatti/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille/images/1920x1080/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bugatti-veyron-grand-sport-vitesse-jean-pierre-wimille-2020-0",
+          "generationId": "gen-bugatti-veyron-grand-sport-vitesse-jean-pierre-wimille-2020-0",
+          "url": "https://images.caricos.com/b/bugatti/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille/images/1920x1080/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bugatti/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille/images/1920x1080/2013_bugatti_veyron_gs_vitesse_jean-pierre_wimille_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bugatti Veyron Grand Sport Vitesse Jean-Pierre Wimille | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-id-roomzz-concept",
+  "slug": "volkswagen-id-roomzz-concept",
+  "name": "ID. Roomzz Concept",
+  "fullName": "Volkswagen ID. Roomzz Concept",
+  "brandId": "brand-volkswagen",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen ID. Roomzz Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_id_roomzz/images/1920x1080/2019_volkswagen_id_roomzz_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_id_roomzz/images/1920x1080/2019_volkswagen_id_roomzz_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-id-roomzz-concept-2020-0",
+      "slug": "volkswagen-id-roomzz-concept-2020-0",
+      "modelId": "m-volkswagen-id-roomzz-concept",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen ID. Roomzz Concept | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_id_roomzz/images/1920x1080/2019_volkswagen_id_roomzz_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_id_roomzz/images/1920x1080/2019_volkswagen_id_roomzz_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-id-roomzz-concept-2020-0",
+          "generationId": "gen-volkswagen-id-roomzz-concept-2020-0",
+          "url": "https://images.caricos.com/v/vw/2019_volkswagen_id_roomzz/images/1920x1080/2019_volkswagen_id_roomzz_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_id_roomzz/images/1920x1080/2019_volkswagen_id_roomzz_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen ID. Roomzz Concept | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

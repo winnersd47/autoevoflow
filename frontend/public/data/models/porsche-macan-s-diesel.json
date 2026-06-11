@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-macan-s-diesel",
+  "slug": "porsche-macan-s-diesel",
+  "name": "Macan S Diesel (",
+  "fullName": "Porsche Macan S Diesel (",
+  "brandId": "brand-porsche",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Macan S Diesel ( — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2017_porsche_macan_s_diesel_uk/images/1920x1080/2017_porsche_macan_s_diesel_uk_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2017_porsche_macan_s_diesel_uk/images/1920x1080/2017_porsche_macan_s_diesel_uk_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-macan-s-diesel-2020-0",
+      "slug": "porsche-macan-s-diesel-2020-0",
+      "modelId": "m-porsche-macan-s-diesel",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Macan S Diesel (UK-Spec) | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2017_porsche_macan_s_diesel_uk/images/1920x1080/2017_porsche_macan_s_diesel_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2017_porsche_macan_s_diesel_uk/images/1920x1080/2017_porsche_macan_s_diesel_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-macan-s-diesel-2020-0",
+          "generationId": "gen-porsche-macan-s-diesel-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2017_porsche_macan_s_diesel_uk/images/1920x1080/2017_porsche_macan_s_diesel_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2017_porsche_macan_s_diesel_uk/images/1920x1080/2017_porsche_macan_s_diesel_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Macan S Diesel (UK-Spec) | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

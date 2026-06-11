@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-m2-with-m-xdrive",
+  "slug": "bmw-bmw-m2-with-m-xdrive",
+  "name": "BMW M2 with M xDrive",
+  "fullName": "2027 BMW M2 with M xDrive",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The combination of the M xDrive all-wheel-drive system and Active M Differential gives the new BMW M2 with M xDrive further improved sprinting power.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-M2_with_M_xDrive-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-M2_with_M_xDrive-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-m2_with_m_xdrive/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.712Z",
+  "updatedAt": "2026-06-05T07:36:26.712Z"
+}

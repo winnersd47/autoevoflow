@@ -1,0 +1,26 @@
+{
+  "id": "ncs-volkswagen-volkswagen-id-polo-gti",
+  "slug": "volkswagen-volkswagen-id-polo-gti",
+  "name": "Volkswagen ID.Polo GTI",
+  "fullName": "2027 Volkswagen ID.Polo GTI",
+  "brandId": "volkswagen",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With its clear design, GTI features and powerful front-wheel drive, the ID.Polo GTI continues the legacy of the first Golf GTI from 1976.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.Polo_GTI-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.Polo_GTI-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/volkswagen/2027-id.polo_gti/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.721Z",
+  "updatedAt": "2026-06-05T07:36:26.721Z"
+}

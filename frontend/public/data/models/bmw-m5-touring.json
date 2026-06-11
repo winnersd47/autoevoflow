@@ -1,0 +1,104 @@
+{
+  "id": "m-bmw-m5-touring",
+  "slug": "bmw-m5-touring",
+  "name": "M5 Touring",
+  "fullName": "BMW M5 Touring",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW M5 Touring — sedan, produced since 2025.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5_touring/images/1920x1080/2025_bmw_m5_touring_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5_touring/images/1920x1080/2025_bmw_m5_touring_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-m5-touring-2025-0",
+      "slug": "bmw-m5-touring-2025-0",
+      "modelId": "m-bmw-m5-touring",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 M5 Touring",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-m5-touring-2025-1",
+      "slug": "bmw-m5-touring-2025-1",
+      "modelId": "m-bmw-m5-touring",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 2,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M5 Touring | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5_touring/images/1920x1080/2025_bmw_m5_touring_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5_touring/images/1920x1080/2025_bmw_m5_touring_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m5-touring-2025-1",
+          "generationId": "gen-bmw-m5-touring-2025-1",
+          "url": "https://images.caricos.com/b/bmw/2025_bmw_m5_touring/images/1920x1080/2025_bmw_m5_touring_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5_touring/images/1920x1080/2025_bmw_m5_touring_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "BMW M5 Touring | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

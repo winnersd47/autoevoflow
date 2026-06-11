@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-570s-with-track-pack",
+  "slug": "mclaren-570s-with-track-pack",
+  "name": "570S with Track Pack",
+  "fullName": "McLaren 570S with Track Pack",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "endYear": 2017,
+  "isActive": false,
+  "description": "McLaren 570S with Track Pack — sedan, produced since 2017.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570s_track_pack/images/1920x1080/2017_mclaren_570s_track_pack_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570s_track_pack/images/1920x1080/2017_mclaren_570s_track_pack_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-570s-with-track-pack-2017-0",
+      "slug": "mclaren-570s-with-track-pack-2017-0",
+      "modelId": "m-mclaren-570s-with-track-pack",
+      "brandId": "brand-mclaren",
+      "codeName": "2017",
+      "generationNumber": 1,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 McLaren 570S with Track Pack",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570s_track_pack/images/1920x1080/2017_mclaren_570s_track_pack_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570s_track_pack/images/1920x1080/2017_mclaren_570s_track_pack_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-570s-with-track-pack-2017-0",
+          "generationId": "gen-mclaren-570s-with-track-pack-2017-0",
+          "url": "https://images.caricos.com/m/mclaren/2017_mclaren_570s_track_pack/images/1920x1080/2017_mclaren_570s_track_pack_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570s_track_pack/images/1920x1080/2017_mclaren_570s_track_pack_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 McLaren 570S with Track Pack",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

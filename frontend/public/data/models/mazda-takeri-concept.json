@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-takeri-concept",
+  "slug": "mazda-takeri-concept",
+  "name": "Takeri Concept",
+  "fullName": "Mazda Takeri Concept",
+  "brandId": "brand-mazda",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "endYear": 2011,
+  "isActive": false,
+  "description": "Mazda Takeri Concept — concept, produced since 2011.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2011_mazda_takeri_concept/images/1920x1080/2011_mazda_takeri_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2011_mazda_takeri_concept/images/1920x1080/2011_mazda_takeri_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-takeri-concept-2011-0",
+      "slug": "mazda-takeri-concept-2011-0",
+      "modelId": "m-mazda-takeri-concept",
+      "brandId": "brand-mazda",
+      "codeName": "2011",
+      "generationNumber": 1,
+      "startYear": 2011,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2011 Mazda Takeri Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2011_mazda_takeri_concept/images/1920x1080/2011_mazda_takeri_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2011_mazda_takeri_concept/images/1920x1080/2011_mazda_takeri_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-takeri-concept-2011-0",
+          "generationId": "gen-mazda-takeri-concept-2011-0",
+          "url": "https://images.caricos.com/m/mazda/2011_mazda_takeri_concept/images/1920x1080/2011_mazda_takeri_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2011_mazda_takeri_concept/images/1920x1080/2011_mazda_takeri_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2011,
+          "altText": "2011 Mazda Takeri Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2011"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

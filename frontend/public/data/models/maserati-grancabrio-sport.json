@@ -1,0 +1,118 @@
+{
+  "id": "m-maserati-grancabrio-sport",
+  "slug": "maserati-grancabrio-sport",
+  "name": "GranCabrio Sport",
+  "fullName": "Maserati GranCabrio Sport",
+  "brandId": "brand-maserati",
+  "bodyType": "convertible",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "endYear": 2013,
+  "isActive": false,
+  "description": "Maserati GranCabrio Sport — convertible, produced since 2012.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_sport/images/1920x1080/2013_maserati_grancabrio_sport_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_sport/images/1920x1080/2013_maserati_grancabrio_sport_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-grancabrio-sport-2013-0",
+      "slug": "maserati-grancabrio-sport-2013-0",
+      "modelId": "m-maserati-grancabrio-sport",
+      "brandId": "brand-maserati",
+      "codeName": "2013",
+      "generationNumber": 1,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2013 Maserati GranCabrio Sport",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_sport/images/1920x1080/2013_maserati_grancabrio_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_sport/images/1920x1080/2013_maserati_grancabrio_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-grancabrio-sport-2013-0",
+          "generationId": "gen-maserati-grancabrio-sport-2013-0",
+          "url": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_sport/images/1920x1080/2013_maserati_grancabrio_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2013_maserati_grancabrio_sport/images/1920x1080/2013_maserati_grancabrio_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2013,
+          "altText": "2013 Maserati GranCabrio Sport",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2013"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-grancabrio-sport-2012-1",
+      "slug": "maserati-grancabrio-sport-2012-1",
+      "modelId": "m-maserati-grancabrio-sport",
+      "brandId": "brand-maserati",
+      "codeName": "2012",
+      "generationNumber": 2,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2012 Maserati GranCabrio Sport",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_sport/images/1920x1080/2012_maserati_grancabrio_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_sport/images/1920x1080/2012_maserati_grancabrio_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-grancabrio-sport-2012-1",
+          "generationId": "gen-maserati-grancabrio-sport-2012-1",
+          "url": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_sport/images/1920x1080/2012_maserati_grancabrio_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_grancabrio_sport/images/1920x1080/2012_maserati_grancabrio_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "2012 Maserati GranCabrio Sport",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

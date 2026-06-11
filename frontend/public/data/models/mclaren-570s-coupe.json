@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-570s-coupe",
+  "slug": "mclaren-570s-coupe",
+  "name": "570S Coupe",
+  "fullName": "McLaren 570S Coupe",
+  "brandId": "brand-mclaren",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "endYear": 2016,
+  "isActive": false,
+  "description": "McLaren 570S Coupe — coupe, produced since 2016.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_570s_coupe/images/1920x1080/2016_mclaren_570s_coupe_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_570s_coupe/images/1920x1080/2016_mclaren_570s_coupe_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-570s-coupe-2016-0",
+      "slug": "mclaren-570s-coupe-2016-0",
+      "modelId": "m-mclaren-570s-coupe",
+      "brandId": "brand-mclaren",
+      "codeName": "2016",
+      "generationNumber": 1,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 McLaren 570S Coupe",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_570s_coupe/images/1920x1080/2016_mclaren_570s_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_570s_coupe/images/1920x1080/2016_mclaren_570s_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-570s-coupe-2016-0",
+          "generationId": "gen-mclaren-570s-coupe-2016-0",
+          "url": "https://images.caricos.com/m/mclaren/2016_mclaren_570s_coupe/images/1920x1080/2016_mclaren_570s_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2016_mclaren_570s_coupe/images/1920x1080/2016_mclaren_570s_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 McLaren 570S Coupe",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

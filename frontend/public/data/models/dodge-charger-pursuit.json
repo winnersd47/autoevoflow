@@ -1,0 +1,118 @@
+{
+  "id": "m-dodge-charger-pursuit",
+  "slug": "dodge-charger-pursuit",
+  "name": "Charger Pursuit",
+  "fullName": "Dodge Charger Pursuit",
+  "brandId": "brand-dodge",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Dodge Charger Pursuit — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/d/dodge/2015_dodge_charger_pursuit/images/1920x1080/2015_dodge_charger_pursuit_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/d/dodge/2015_dodge_charger_pursuit/images/1920x1080/2015_dodge_charger_pursuit_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "dodge"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-dodge-charger-pursuit-2020-0",
+      "slug": "dodge-charger-pursuit-2020-0",
+      "modelId": "m-dodge-charger-pursuit",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Charger Pursuit | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2015_dodge_charger_pursuit/images/1920x1080/2015_dodge_charger_pursuit_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2015_dodge_charger_pursuit/images/1920x1080/2015_dodge_charger_pursuit_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-charger-pursuit-2020-0",
+          "generationId": "gen-dodge-charger-pursuit-2020-0",
+          "url": "https://images.caricos.com/d/dodge/2015_dodge_charger_pursuit/images/1920x1080/2015_dodge_charger_pursuit_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2015_dodge_charger_pursuit/images/1920x1080/2015_dodge_charger_pursuit_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Charger Pursuit | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-dodge-charger-pursuit-2020-1",
+      "slug": "dodge-charger-pursuit-2020-1",
+      "modelId": "m-dodge-charger-pursuit",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Charger Pursuit | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2013_dodge_charger_pursuit/images/1920x1080/2013_dodge_charger_pursuit_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2013_dodge_charger_pursuit/images/1920x1080/2013_dodge_charger_pursuit_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-charger-pursuit-2020-1",
+          "generationId": "gen-dodge-charger-pursuit-2020-1",
+          "url": "https://images.caricos.com/d/dodge/2013_dodge_charger_pursuit/images/1920x1080/2013_dodge_charger_pursuit_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2013_dodge_charger_pursuit/images/1920x1080/2013_dodge_charger_pursuit_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Charger Pursuit | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

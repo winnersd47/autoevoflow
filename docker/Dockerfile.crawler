@@ -1,0 +1,81 @@
+# =============================================================================
+# Crawler – Playwright Python Dockerfile
+# Installs all Chromium/Firefox/WebKit dependencies and Playwright browsers.
+# Uses a single stage because Playwright requires many system libs that cannot
+# be trimmed without breaking browser automation.
+# =============================================================================
+
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PYTHONPATH=/app \
+    # Playwright stores browsers here; volume-mount to persist across rebuilds
+    PLAYWRIGHT_BROWSERS_PATH=/ms-playwright \
+    # Suppress Playwright install telemetry
+    PW_TEST_SCREENSHOT_NO_FONTS_READY=1
+
+# Install system dependencies required by Chromium (Playwright's default browser).
+# This list covers all deps for headless Chromium on Debian/Ubuntu slim images.
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    # Chromium base deps
+    libnss3 \
+    libnspr4 \
+    libatk1.0-0 \
+    libatk-bridge2.0-0 \
+    libcups2 \
+    libdrm2 \
+    libdbus-1-3 \
+    libxkbcommon0 \
+    libxcomposite1 \
+    libxdamage1 \
+    libxfixes3 \
+    libxrandr2 \
+    libgbm1 \
+    libpango-1.0-0 \
+    libcairo2 \
+    libasound2 \
+    libatspi2.0-0 \
+    libxshmfence1 \
+    libx11-6 \
+    libx11-xcb1 \
+    libxcb1 \
+    libxext6 \
+    # Network / encoding
+    libssl3 \
+    libglib2.0-0 \
+    fonts-liberation \
+    fonts-noto-color-emoji \
+    # Utilities
+    curl \
+    wget \
+    ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
+
+# Create non-root user for running the crawler
+RUN groupadd --gid 1001 crawler && \
+    useradd --uid 1001 --gid crawler --shell /bin/bash --create-home crawler
+
+WORKDIR /app
+
+# Install Python dependencies before copying source for layer-cache efficiency
+COPY crawler/requirements.txt ./requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Install Playwright and only the Chromium browser to keep image size manageable.
+# Use --with-deps to install OS-level deps inside the venv layer too.
+RUN playwright install chromium --with-deps && \
+    # Verify installation
+    playwright --version
+
+# Copy source code
+COPY --chown=crawler:crawler crawler/ ./
+
+# Switch to non-root user
+USER crawler
+
+EXPOSE 8080
+
+# Default entrypoint – runs the Celery-based crawler worker.
+# Override in docker-compose or CLI for one-off crawl jobs.
+CMD ["python", "-m", "app.crawler.worker"]

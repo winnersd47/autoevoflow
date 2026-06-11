@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-tiguan-wolfsburg-edition",
+  "slug": "volkswagen-tiguan-wolfsburg-edition",
+  "name": "Tiguan Wolfsburg Edition (",
+  "fullName": "Volkswagen Tiguan Wolfsburg Edition (",
+  "brandId": "brand-volkswagen",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Tiguan Wolfsburg Edition ( — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_us/images/1920x1080/2017_volkswagen_tiguan_us_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_us/images/1920x1080/2017_volkswagen_tiguan_us_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-tiguan-wolfsburg-edition-2020-0",
+      "slug": "volkswagen-tiguan-wolfsburg-edition-2020-0",
+      "modelId": "m-volkswagen-tiguan-wolfsburg-edition",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Tiguan Wolfsburg Edition (US-Spec) | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_us/images/1920x1080/2017_volkswagen_tiguan_us_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_us/images/1920x1080/2017_volkswagen_tiguan_us_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-tiguan-wolfsburg-edition-2020-0",
+          "generationId": "gen-volkswagen-tiguan-wolfsburg-edition-2020-0",
+          "url": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_us/images/1920x1080/2017_volkswagen_tiguan_us_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2017_volkswagen_tiguan_us/images/1920x1080/2017_volkswagen_tiguan_us_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Tiguan Wolfsburg Edition (US-Spec) | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

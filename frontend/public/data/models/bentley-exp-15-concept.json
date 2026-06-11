@@ -1,0 +1,72 @@
+{
+  "id": "m-bentley-exp-15-concept",
+  "slug": "bentley-exp-15-concept",
+  "name": "EXP 15 Concept",
+  "fullName": "Bentley EXP 15 Concept",
+  "brandId": "brand-bentley",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bentley EXP 15 Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bentley/2025_bentley_exp_15_concept/images/1920x1080/2025_bentley_exp_15_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bentley/2025_bentley_exp_15_concept/images/1920x1080/2025_bentley_exp_15_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "bentley"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bentley-exp-15-concept-2020-0",
+      "slug": "bentley-exp-15-concept-2020-0",
+      "modelId": "m-bentley-exp-15-concept",
+      "brandId": "brand-bentley",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bentley EXP 15 Concept | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bentley/2025_bentley_exp_15_concept/images/1920x1080/2025_bentley_exp_15_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bentley/2025_bentley_exp_15_concept/images/1920x1080/2025_bentley_exp_15_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bentley-exp-15-concept-2020-0",
+          "generationId": "gen-bentley-exp-15-concept-2020-0",
+          "url": "https://images.caricos.com/b/bentley/2025_bentley_exp_15_concept/images/1920x1080/2025_bentley_exp_15_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bentley/2025_bentley_exp_15_concept/images/1920x1080/2025_bentley_exp_15_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bentley EXP 15 Concept | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

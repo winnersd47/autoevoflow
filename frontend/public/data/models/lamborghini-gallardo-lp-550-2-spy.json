@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-gallardo-lp-550-2-spy",
+  "slug": "lamborghini-gallardo-lp-550-2-spy",
+  "name": "Gallardo LP 550-2 Spy",
+  "fullName": "Lamborghini Gallardo LP 550-2 Spy",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Gallardo LP 550-2 Spy — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2012_lamborghini_gallardo_lp_550-2_spyder/images/1920x1080/2012_lamborghini_gallardo_lp_550-2_spyder_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2012_lamborghini_gallardo_lp_550-2_spyder/images/1920x1080/2012_lamborghini_gallardo_lp_550-2_spyder_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-gallardo-lp-550-2-spy-2020-0",
+      "slug": "lamborghini-gallardo-lp-550-2-spy-2020-0",
+      "modelId": "m-lamborghini-gallardo-lp-550-2-spy",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Gallardo LP 550-2 Spyder | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2012_lamborghini_gallardo_lp_550-2_spyder/images/1920x1080/2012_lamborghini_gallardo_lp_550-2_spyder_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2012_lamborghini_gallardo_lp_550-2_spyder/images/1920x1080/2012_lamborghini_gallardo_lp_550-2_spyder_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-gallardo-lp-550-2-spy-2020-0",
+          "generationId": "gen-lamborghini-gallardo-lp-550-2-spy-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2012_lamborghini_gallardo_lp_550-2_spyder/images/1920x1080/2012_lamborghini_gallardo_lp_550-2_spyder_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2012_lamborghini_gallardo_lp_550-2_spyder/images/1920x1080/2012_lamborghini_gallardo_lp_550-2_spyder_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Gallardo LP 550-2 Spyder | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

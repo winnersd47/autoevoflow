@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-765lt-spi",
+  "slug": "mclaren-765lt-spi",
+  "name": "765LT Spi",
+  "fullName": "McLaren 765LT Spi",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "endYear": 2022,
+  "isActive": false,
+  "description": "McLaren 765LT Spi — sedan, produced since 2022.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2022_mclaren_765lt_spider/images/1920x1080/2022_mclaren_765lt_spider_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2022_mclaren_765lt_spider/images/1920x1080/2022_mclaren_765lt_spider_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-765lt-spi-2022-0",
+      "slug": "mclaren-765lt-spi-2022-0",
+      "modelId": "m-mclaren-765lt-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2022",
+      "generationNumber": 1,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2022 McLaren 765LT Spider",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2022_mclaren_765lt_spider/images/1920x1080/2022_mclaren_765lt_spider_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2022_mclaren_765lt_spider/images/1920x1080/2022_mclaren_765lt_spider_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-765lt-spi-2022-0",
+          "generationId": "gen-mclaren-765lt-spi-2022-0",
+          "url": "https://images.caricos.com/m/mclaren/2022_mclaren_765lt_spider/images/1920x1080/2022_mclaren_765lt_spider_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2022_mclaren_765lt_spider/images/1920x1080/2022_mclaren_765lt_spider_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2022,
+          "altText": "2022 McLaren 765LT Spider",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

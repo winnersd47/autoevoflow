@@ -1,0 +1,72 @@
+{
+  "id": "m-ford-f-150-raptor-r",
+  "slug": "ford-f-150-raptor-r",
+  "name": "F-150 Raptor R",
+  "fullName": "Ford F-150 Raptor R",
+  "brandId": "brand-ford",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford F-150 Raptor R — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2023_ford_f-150_raptor_r/images/1920x1080/2023_ford_f-150_raptor_r_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2023_ford_f-150_raptor_r/images/1920x1080/2023_ford_f-150_raptor_r_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-f-150-raptor-r-2020-0",
+      "slug": "ford-f-150-raptor-r-2020-0",
+      "modelId": "m-ford-f-150-raptor-r",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford F-150 Raptor R | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2023_ford_f-150_raptor_r/images/1920x1080/2023_ford_f-150_raptor_r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2023_ford_f-150_raptor_r/images/1920x1080/2023_ford_f-150_raptor_r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-f-150-raptor-r-2020-0",
+          "generationId": "gen-ford-f-150-raptor-r-2020-0",
+          "url": "https://images.caricos.com/f/ford/2023_ford_f-150_raptor_r/images/1920x1080/2023_ford_f-150_raptor_r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2023_ford_f-150_raptor_r/images/1920x1080/2023_ford_f-150_raptor_r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford F-150 Raptor R | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

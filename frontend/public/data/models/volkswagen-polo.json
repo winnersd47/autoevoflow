@@ -1,0 +1,210 @@
+{
+  "id": "m-volkswagen-polo",
+  "slug": "volkswagen-polo",
+  "name": "Polo",
+  "fullName": "Volkswagen Polo",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Polo — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_polo/images/1920x1080/2022_volkswagen_polo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2022_volkswagen_polo/images/1920x1080/2022_volkswagen_polo_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-polo-2020-0",
+      "slug": "volkswagen-polo-2020-0",
+      "modelId": "m-volkswagen-polo",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Polo (UK-Spec) | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_polo_uk/images/1920x1080/2022_volkswagen_polo_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2022_volkswagen_polo_uk/images/1920x1080/2022_volkswagen_polo_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-polo-2020-0",
+          "generationId": "gen-volkswagen-polo-2020-0",
+          "url": "https://images.caricos.com/v/vw/2022_volkswagen_polo_uk/images/1920x1080/2022_volkswagen_polo_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_polo_uk/images/1920x1080/2022_volkswagen_polo_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Polo (UK-Spec) | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-polo-2020-0",
+      "slug": "volkswagen-polo-2020-0",
+      "modelId": "m-volkswagen-polo",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Polo | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_polo/images/1920x1080/2022_volkswagen_polo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2022_volkswagen_polo/images/1920x1080/2022_volkswagen_polo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-polo-2020-0",
+          "generationId": "gen-volkswagen-polo-2020-0",
+          "url": "https://images.caricos.com/v/vw/2022_volkswagen_polo/images/1920x1080/2022_volkswagen_polo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_polo/images/1920x1080/2022_volkswagen_polo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Polo | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-polo-2020-1",
+      "slug": "volkswagen-polo-2020-1",
+      "modelId": "m-volkswagen-polo",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Polo | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2018_volkswagen_polo/images/1920x1080/2018_volkswagen_polo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2018_volkswagen_polo/images/1920x1080/2018_volkswagen_polo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-polo-2020-1",
+          "generationId": "gen-volkswagen-polo-2020-1",
+          "url": "https://images.caricos.com/v/vw/2018_volkswagen_polo/images/1920x1080/2018_volkswagen_polo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2018_volkswagen_polo/images/1920x1080/2018_volkswagen_polo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Polo | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-polo-2020-2",
+      "slug": "volkswagen-polo-2020-2",
+      "modelId": "m-volkswagen-polo",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Polo | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_polo/images/1920x1080/2014_volkswagen_polo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_polo/images/1920x1080/2014_volkswagen_polo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-polo-2020-2",
+          "generationId": "gen-volkswagen-polo-2020-2",
+          "url": "https://images.caricos.com/v/vw/2014_volkswagen_polo/images/1920x1080/2014_volkswagen_polo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_polo/images/1920x1080/2014_volkswagen_polo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Polo | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

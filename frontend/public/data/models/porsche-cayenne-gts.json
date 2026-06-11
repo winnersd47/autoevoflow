@@ -1,0 +1,210 @@
+{
+  "id": "m-porsche-cayenne-gts",
+  "slug": "porsche-cayenne-gts",
+  "name": "Cayenne GTS",
+  "fullName": "Porsche Cayenne GTS",
+  "brandId": "brand-porsche",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Cayenne GTS — suv, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_cayenne_gts/images/1920x1080/2025_porsche_cayenne_gts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2025_porsche_cayenne_gts/images/1920x1080/2025_porsche_cayenne_gts_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-cayenne-gts-2020-0",
+      "slug": "porsche-cayenne-gts-2020-0",
+      "modelId": "m-porsche-cayenne-gts",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne GTS | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_cayenne_gts/images/1920x1080/2025_porsche_cayenne_gts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2025_porsche_cayenne_gts/images/1920x1080/2025_porsche_cayenne_gts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-gts-2020-0",
+          "generationId": "gen-porsche-cayenne-gts-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2025_porsche_cayenne_gts/images/1920x1080/2025_porsche_cayenne_gts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2025_porsche_cayenne_gts/images/1920x1080/2025_porsche_cayenne_gts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne GTS | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-cayenne-gts-2020-1",
+      "slug": "porsche-cayenne-gts-2020-1",
+      "modelId": "m-porsche-cayenne-gts",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne GTS | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2021_porsche_cayenne_gts/images/1920x1080/2021_porsche_cayenne_gts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2021_porsche_cayenne_gts/images/1920x1080/2021_porsche_cayenne_gts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-gts-2020-1",
+          "generationId": "gen-porsche-cayenne-gts-2020-1",
+          "url": "https://images.caricos.com/p/porsche/2021_porsche_cayenne_gts/images/1920x1080/2021_porsche_cayenne_gts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2021_porsche_cayenne_gts/images/1920x1080/2021_porsche_cayenne_gts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne GTS | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-cayenne-gts-2020-2",
+      "slug": "porsche-cayenne-gts-2020-2",
+      "modelId": "m-porsche-cayenne-gts",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne GTS | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2015_porsche_cayenne_gts/images/1920x1080/2015_porsche_cayenne_gts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2015_porsche_cayenne_gts/images/1920x1080/2015_porsche_cayenne_gts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-gts-2020-2",
+          "generationId": "gen-porsche-cayenne-gts-2020-2",
+          "url": "https://images.caricos.com/p/porsche/2015_porsche_cayenne_gts/images/1920x1080/2015_porsche_cayenne_gts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2015_porsche_cayenne_gts/images/1920x1080/2015_porsche_cayenne_gts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne GTS | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-porsche-cayenne-gts-2020-3",
+      "slug": "porsche-cayenne-gts-2020-3",
+      "modelId": "m-porsche-cayenne-gts",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne GTS | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2013_porsche_cayenne_gts/images/1920x1080/2013_porsche_cayenne_gts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2013_porsche_cayenne_gts/images/1920x1080/2013_porsche_cayenne_gts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-gts-2020-3",
+          "generationId": "gen-porsche-cayenne-gts-2020-3",
+          "url": "https://images.caricos.com/p/porsche/2013_porsche_cayenne_gts/images/1920x1080/2013_porsche_cayenne_gts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2013_porsche_cayenne_gts/images/1920x1080/2013_porsche_cayenne_gts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne GTS | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

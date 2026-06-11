@@ -1,0 +1,164 @@
+{
+  "id": "m-bmw-x6-m",
+  "slug": "bmw-x6-m",
+  "name": "X6 M",
+  "fullName": "BMW X6 M",
+  "brandId": "brand-bmw",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW X6 M — suv, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_x6_m/images/1920x1080/2016_bmw_x6_m_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2016_bmw_x6_m/images/1920x1080/2016_bmw_x6_m_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-x6-m-2020-0",
+      "slug": "bmw-x6-m-2020-0",
+      "modelId": "m-bmw-x6-m",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X6 M | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_x6_m/images/1920x1080/2016_bmw_x6_m_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2016_bmw_x6_m/images/1920x1080/2016_bmw_x6_m_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x6-m-2020-0",
+          "generationId": "gen-bmw-x6-m-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2016_bmw_x6_m/images/1920x1080/2016_bmw_x6_m_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_x6_m/images/1920x1080/2016_bmw_x6_m_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW X6 M | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-x6-m-2020-1",
+      "slug": "bmw-x6-m-2020-1",
+      "modelId": "m-bmw-x6-m",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X6 M Design Edition | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_x6_m_design/images/1920x1080/2014_bmw_x6_m_design_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2014_bmw_x6_m_design/images/1920x1080/2014_bmw_x6_m_design_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x6-m-2020-1",
+          "generationId": "gen-bmw-x6-m-2020-1",
+          "url": "https://images.caricos.com/b/bmw/2014_bmw_x6_m_design/images/1920x1080/2014_bmw_x6_m_design_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_x6_m_design/images/1920x1080/2014_bmw_x6_m_design_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW X6 M Design Edition | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-x6-m-2020-2",
+      "slug": "bmw-x6-m-2020-2",
+      "modelId": "m-bmw-x6-m",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X6 M | 2010MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2010_bmw_x6_m/images/1920x1080/2010_bmw_x6_m_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2010_bmw_x6_m/images/1920x1080/2010_bmw_x6_m_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x6-m-2020-2",
+          "generationId": "gen-bmw-x6-m-2020-2",
+          "url": "https://images.caricos.com/b/bmw/2010_bmw_x6_m/images/1920x1080/2010_bmw_x6_m_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2010_bmw_x6_m/images/1920x1080/2010_bmw_x6_m_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW X6 M | 2010MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

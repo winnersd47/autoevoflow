@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-granturismo-s-limited-edition",
+  "slug": "maserati-granturismo-s-limited-edition",
+  "name": "GranTurismo S Limited Edition",
+  "fullName": "Maserati GranTurismo S Limited Edition",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "endYear": 2012,
+  "isActive": false,
+  "description": "Maserati GranTurismo S Limited Edition — coupe, produced since 2012.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_s_limited_edition/images/1920x1080/2012_maserati_granturismo_s_limited_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_s_limited_edition/images/1920x1080/2012_maserati_granturismo_s_limited_edition_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-granturismo-s-limited-edition-2012-0",
+      "slug": "maserati-granturismo-s-limited-edition-2012-0",
+      "modelId": "m-maserati-granturismo-s-limited-edition",
+      "brandId": "brand-maserati",
+      "codeName": "2012",
+      "generationNumber": 1,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2012 Maserati GranTurismo S Limited Edition",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_s_limited_edition/images/1920x1080/2012_maserati_granturismo_s_limited_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_s_limited_edition/images/1920x1080/2012_maserati_granturismo_s_limited_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-granturismo-s-limited-edition-2012-0",
+          "generationId": "gen-maserati-granturismo-s-limited-edition-2012-0",
+          "url": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_s_limited_edition/images/1920x1080/2012_maserati_granturismo_s_limited_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2012_maserati_granturismo_s_limited_edition/images/1920x1080/2012_maserati_granturismo_s_limited_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "2012 Maserati GranTurismo S Limited Edition",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

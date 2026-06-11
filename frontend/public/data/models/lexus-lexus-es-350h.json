@@ -1,0 +1,26 @@
+{
+  "id": "ncs-lexus-lexus-es-350h",
+  "slug": "lexus-lexus-es-350h",
+  "name": "Lexus ES 350h",
+  "fullName": "2026 Lexus ES 350h",
+  "brandId": "lexus",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "ES 350h is the first models to be powered by sixth generation Lexus hybrid technology. The self-charging hybrid system combines a 2.5-litre four-cylinder petrol engine...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-ES_350h-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-ES_350h-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/lexus/2026-es_350h/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.734Z",
+  "updatedAt": "2026-06-05T07:36:26.734Z"
+}

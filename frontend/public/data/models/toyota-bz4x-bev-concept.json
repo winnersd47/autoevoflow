@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-bz4x-bev-concept",
+  "slug": "toyota-bz4x-bev-concept",
+  "name": "bZ4X BEV Concept",
+  "fullName": "Toyota bZ4X BEV Concept",
+  "brandId": "brand-toyota",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota bZ4X BEV Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_bz4x_bev_concept/images/1920x1080/2021_toyota_bz4x_bev_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2021_toyota_bz4x_bev_concept/images/1920x1080/2021_toyota_bz4x_bev_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-bz4x-bev-concept-2020-0",
+      "slug": "toyota-bz4x-bev-concept-2020-0",
+      "modelId": "m-toyota-bz4x-bev-concept",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota bZ4X BEV Concept | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_bz4x_bev_concept/images/1920x1080/2021_toyota_bz4x_bev_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2021_toyota_bz4x_bev_concept/images/1920x1080/2021_toyota_bz4x_bev_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-bz4x-bev-concept-2020-0",
+          "generationId": "gen-toyota-bz4x-bev-concept-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2021_toyota_bz4x_bev_concept/images/1920x1080/2021_toyota_bz4x_bev_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_bz4x_bev_concept/images/1920x1080/2021_toyota_bz4x_bev_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota bZ4X BEV Concept | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

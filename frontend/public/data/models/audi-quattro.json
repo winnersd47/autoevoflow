@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-quattro",
+  "slug": "audi-quattro",
+  "name": "Quattro",
+  "fullName": "Audi Quattro",
+  "brandId": "brand-audi",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "endYear": 1991,
+  "isActive": false,
+  "description": "The Audi Quattro (1980–1991) — the Ur-Quattro — is the car that invented performance AWD for road cars and revolutionised rallying. Its permanent four-wheel drive system, derived from a military vehicle project, won the World Rally Championship in 1982 and 1984 with Hannu Mikkola and Stig Blomqvist, and permanently changed how performance cars handle.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "audi", "quattro", "rally", "wrc", "classic", "heritage", "awd"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-quattro-ur",
+      "slug": "audi-quattro-ur",
+      "modelId": "m-audi-quattro",
+      "brandId": "brand-audi",
+      "codeName": "Ur-Quattro",
+      "generationNumber": 1,
+      "startYear": 1980,
+      "endYear": 1991,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The Ur-Quattro (1980–1991) pioneered permanent four-wheel drive in a performance road car, winning the WRC in 1982 and 1984 and establishing the quattro drivetrain philosophy.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

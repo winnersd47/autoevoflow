@@ -1,0 +1,72 @@
+{
+  "id": "m-volvo-s60-polestar-concept",
+  "slug": "volvo-s60-polestar-concept",
+  "name": "S60 Polestar Concept",
+  "fullName": "Volvo S60 Polestar Concept",
+  "brandId": "brand-volvo",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volvo S60 Polestar Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/volvo/2012_volvo_s60_polestar_concept/images/1920x1080/2012_volvo_s60_polestar_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/volvo/2012_volvo_s60_polestar_concept/images/1920x1080/2012_volvo_s60_polestar_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "volvo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volvo-s60-polestar-concept-2020-0",
+      "slug": "volvo-s60-polestar-concept-2020-0",
+      "modelId": "m-volvo-s60-polestar-concept",
+      "brandId": "brand-volvo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volvo S60 Polestar Concept | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/v/volvo/2012_volvo_s60_polestar_concept/images/1920x1080/2012_volvo_s60_polestar_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/volvo/2012_volvo_s60_polestar_concept/images/1920x1080/2012_volvo_s60_polestar_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volvo-s60-polestar-concept-2020-0",
+          "generationId": "gen-volvo-s60-polestar-concept-2020-0",
+          "url": "https://images.caricos.com/v/volvo/2012_volvo_s60_polestar_concept/images/1920x1080/2012_volvo_s60_polestar_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/volvo/2012_volvo_s60_polestar_concept/images/1920x1080/2012_volvo_s60_polestar_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volvo S60 Polestar Concept | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

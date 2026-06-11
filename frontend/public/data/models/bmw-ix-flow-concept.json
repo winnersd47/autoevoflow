@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-ix-flow-concept",
+  "slug": "bmw-ix-flow-concept",
+  "name": "iX Flow Concept",
+  "fullName": "BMW iX Flow Concept",
+  "brandId": "brand-bmw",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW iX Flow Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_ix_flow_concept/images/1920x1080/2022_bmw_ix_flow_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2022_bmw_ix_flow_concept/images/1920x1080/2022_bmw_ix_flow_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-ix-flow-concept-2020-0",
+      "slug": "bmw-ix-flow-concept-2020-0",
+      "modelId": "m-bmw-ix-flow-concept",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW iX Flow Concept | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_ix_flow_concept/images/1920x1080/2022_bmw_ix_flow_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2022_bmw_ix_flow_concept/images/1920x1080/2022_bmw_ix_flow_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-ix-flow-concept-2020-0",
+          "generationId": "gen-bmw-ix-flow-concept-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2022_bmw_ix_flow_concept/images/1920x1080/2022_bmw_ix_flow_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2022_bmw_ix_flow_concept/images/1920x1080/2022_bmw_ix_flow_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW iX Flow Concept | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

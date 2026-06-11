@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-speedtop-concept",
+  "slug": "bmw-speedtop-concept",
+  "name": "Speedtop Concept",
+  "fullName": "BMW Speedtop Concept",
+  "brandId": "brand-bmw",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW Speedtop Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_speedtop_concept/images/1920x1080/2025_bmw_speedtop_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_speedtop_concept/images/1920x1080/2025_bmw_speedtop_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-speedtop-concept-2020-0",
+      "slug": "bmw-speedtop-concept-2020-0",
+      "modelId": "m-bmw-speedtop-concept",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW Speedtop Concept | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_speedtop_concept/images/1920x1080/2025_bmw_speedtop_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_speedtop_concept/images/1920x1080/2025_bmw_speedtop_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-speedtop-concept-2020-0",
+          "generationId": "gen-bmw-speedtop-concept-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2025_bmw_speedtop_concept/images/1920x1080/2025_bmw_speedtop_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_speedtop_concept/images/1920x1080/2025_bmw_speedtop_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW Speedtop Concept | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

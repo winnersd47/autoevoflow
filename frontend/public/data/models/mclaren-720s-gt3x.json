@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-720s-gt3x",
+  "slug": "mclaren-720s-gt3x",
+  "name": "720S GT3X",
+  "fullName": "McLaren 720S GT3X",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": 2021,
+  "isActive": false,
+  "description": "McLaren 720S GT3X — sedan, produced since 2021.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_720s_gt3x/images/1920x1080/2021_mclaren_720s_gt3x_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_720s_gt3x/images/1920x1080/2021_mclaren_720s_gt3x_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-720s-gt3x-2021-0",
+      "slug": "mclaren-720s-gt3x-2021-0",
+      "modelId": "m-mclaren-720s-gt3x",
+      "brandId": "brand-mclaren",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 McLaren 720S GT3X",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_720s_gt3x/images/1920x1080/2021_mclaren_720s_gt3x_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_720s_gt3x/images/1920x1080/2021_mclaren_720s_gt3x_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-720s-gt3x-2021-0",
+          "generationId": "gen-mclaren-720s-gt3x-2021-0",
+          "url": "https://images.caricos.com/m/mclaren/2021_mclaren_720s_gt3x/images/1920x1080/2021_mclaren_720s_gt3x_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_720s_gt3x/images/1920x1080/2021_mclaren_720s_gt3x_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "2021 McLaren 720S GT3X",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

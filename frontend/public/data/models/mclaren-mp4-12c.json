@@ -1,0 +1,118 @@
+{
+  "id": "m-mclaren-mp4-12c",
+  "slug": "mclaren-mp4-12c",
+  "name": "MP4-12C",
+  "fullName": "McLaren MP4-12C",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "endYear": 2013,
+  "isActive": false,
+  "description": "McLaren MP4-12C — sedan, produced since 2011.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2013_mclaren_mp4-12c/images/1920x1080/2013_mclaren_mp4-12c_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2013_mclaren_mp4-12c/images/1920x1080/2013_mclaren_mp4-12c_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-mp4-12c-2013-0",
+      "slug": "mclaren-mp4-12c-2013-0",
+      "modelId": "m-mclaren-mp4-12c",
+      "brandId": "brand-mclaren",
+      "codeName": "2013",
+      "generationNumber": 1,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2013 McLaren MP4-12C",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2013_mclaren_mp4-12c/images/1920x1080/2013_mclaren_mp4-12c_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2013_mclaren_mp4-12c/images/1920x1080/2013_mclaren_mp4-12c_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-mp4-12c-2013-0",
+          "generationId": "gen-mclaren-mp4-12c-2013-0",
+          "url": "https://images.caricos.com/m/mclaren/2013_mclaren_mp4-12c/images/1920x1080/2013_mclaren_mp4-12c_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2013_mclaren_mp4-12c/images/1920x1080/2013_mclaren_mp4-12c_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2013,
+          "altText": "2013 McLaren MP4-12C",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2013"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mclaren-mp4-12c-2011-1",
+      "slug": "mclaren-mp4-12c-2011-1",
+      "modelId": "m-mclaren-mp4-12c",
+      "brandId": "brand-mclaren",
+      "codeName": "2011",
+      "generationNumber": 2,
+      "startYear": 2011,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2011 McLaren MP4-12C",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c/images/1920x1080/2011_mclaren_mp4-12c_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c/images/1920x1080/2011_mclaren_mp4-12c_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-mp4-12c-2011-1",
+          "generationId": "gen-mclaren-mp4-12c-2011-1",
+          "url": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c/images/1920x1080/2011_mclaren_mp4-12c_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c/images/1920x1080/2011_mclaren_mp4-12c_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2011,
+          "altText": "2011 McLaren MP4-12C",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2011"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

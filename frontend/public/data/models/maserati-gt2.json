@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-gt2",
+  "slug": "maserati-gt2",
+  "name": "GT2",
+  "fullName": "Maserati GT2",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "endYear": null,
+  "isActive": false,
+  "description": "Maserati GT2 — coupe, produced since 2023.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_gt2/images/1920x1080/2023_maserati_gt2_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_gt2/images/1920x1080/2023_maserati_gt2_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-gt2-2023-0",
+      "slug": "maserati-gt2-2023-0",
+      "modelId": "m-maserati-gt2",
+      "brandId": "brand-maserati",
+      "codeName": "2023",
+      "generationNumber": 1,
+      "startYear": 2023,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2023 Maserati GT2",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_gt2/images/1920x1080/2023_maserati_gt2_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_gt2/images/1920x1080/2023_maserati_gt2_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-gt2-2023-0",
+          "generationId": "gen-maserati-gt2-2023-0",
+          "url": "https://images.caricos.com/m/maserati/2023_maserati_gt2/images/1920x1080/2023_maserati_gt2_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_gt2/images/1920x1080/2023_maserati_gt2_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2023,
+          "altText": "2023 Maserati GT2",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2023"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

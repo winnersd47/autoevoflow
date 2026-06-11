@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-quattroporte-trofeo",
+  "slug": "maserati-quattroporte-trofeo",
+  "name": "Quattroporte Trofeo",
+  "fullName": "Maserati Quattroporte Trofeo",
+  "brandId": "brand-maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": 2021,
+  "isActive": false,
+  "description": "Maserati Quattroporte Trofeo — sedan, produced since 2021.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_quattroporte_trofeo/images/1920x1080/2021_maserati_quattroporte_trofeo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_quattroporte_trofeo/images/1920x1080/2021_maserati_quattroporte_trofeo_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-quattroporte-trofeo-2021-0",
+      "slug": "maserati-quattroporte-trofeo-2021-0",
+      "modelId": "m-maserati-quattroporte-trofeo",
+      "brandId": "brand-maserati",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 Maserati Quattroporte Trofeo",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_quattroporte_trofeo/images/1920x1080/2021_maserati_quattroporte_trofeo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_quattroporte_trofeo/images/1920x1080/2021_maserati_quattroporte_trofeo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-quattroporte-trofeo-2021-0",
+          "generationId": "gen-maserati-quattroporte-trofeo-2021-0",
+          "url": "https://images.caricos.com/m/maserati/2021_maserati_quattroporte_trofeo/images/1920x1080/2021_maserati_quattroporte_trofeo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_quattroporte_trofeo/images/1920x1080/2021_maserati_quattroporte_trofeo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "2021 Maserati Quattroporte Trofeo",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "m-ferrari-512-tr",
+  "slug": "ferrari-512-tr",
+  "name": "512 TR",
+  "fullName": "Ferrari 512 TR",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "endYear": 1996,
+  "isActive": false,
+  "description": "The Ferrari 512 TR (1991-1996) was the Testarossa's modernised successor with revised suspension and improved engine. The F512M of 1994 was its final evolution before the 550 Maranello ended the flat-12 era.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "coupe",
+    "ferrari"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ferrari-512-tr-1",
+      "slug": "ferrari-512-tr-gen1",
+      "modelId": "m-ferrari-512-tr",
+      "brandId": "brand-ferrari",
+      "codeName": "512 TR",
+      "generationNumber": 1,
+      "startYear": 1991,
+      "endYear": 1996,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Ferrari 512 TR (1991-1996) was the Testarossa's modernised successor with revised suspension and improved engine. The F512M of 1994 was its final evolution before the 550 Maranello ended the flat-12 era.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

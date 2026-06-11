@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-ix3-long-wheelbase",
+  "slug": "bmw-bmw-ix3-long-wheelbase",
+  "name": "BMW iX3 Long Wheelbase",
+  "fullName": "2027 BMW iX3 Long Wheelbase",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The BMW Group is intensifying final testing for the BMW iX3 Long Wheelbase in China, putting the first Neue Klasse model developed specifically for Chinese...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-iX3_Long_Wheelbase-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX3_Long_Wheelbase-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix3_long_wheelbase/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-10T03:06:57.329Z",
+  "createdAt": "2026-06-10T03:06:58.179Z",
+  "updatedAt": "2026-06-10T03:06:58.179Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-buick-buick-electra-orbit-concept",
+  "slug": "buick-buick-electra-orbit-concept",
+  "name": "Buick Electra Orbit Concept",
+  "fullName": "2025 Buick Electra Orbit Concept",
+  "brandId": "buick",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Conceived and developed by the GM China Advanced Design Center, the Electra Orbit concept pushes proportions, materials, and cabin innovation to spark fresh inspiration.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Buick-Electra_Orbit_Concept-2025-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Buick-Electra_Orbit_Concept-2025-thb.jpg",
+  "tags": [
+    "new",
+    "2025"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/buick/2025-electra_orbit_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.742Z",
+  "updatedAt": "2026-06-05T07:36:26.742Z"
+}

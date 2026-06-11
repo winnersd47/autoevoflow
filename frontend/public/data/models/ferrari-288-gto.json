@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-288-gto",
+  "slug": "ferrari-288-gto",
+  "name": "288 GTO",
+  "fullName": "Ferrari 288 GTO",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "endYear": 1985,
+  "isActive": false,
+  "description": "The Ferrari 288 GTO (1984–1985) was built to homologate for Group B racing. Just 272 were produced. With a turbocharged 2.8-litre V8 producing 400 hp from a modified 308 body, it was Ferrari's first 300 km/h road car and the direct ancestor of the F40.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "hypercar", "group-b", "turbo", "classic"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

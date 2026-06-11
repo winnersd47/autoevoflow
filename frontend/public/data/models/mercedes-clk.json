@@ -1,0 +1,51 @@
+{
+  "id": "m-mercedes-clk",
+  "slug": "mercedes-clk",
+  "name": "CLK",
+  "fullName": "Mercedes CLK",
+  "brandId": "brand-mercedes",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "endYear": 2009,
+  "isActive": false,
+  "description": "The Mercedes-Benz CLK (1997-2009) combined E-Class engineering with C-Class dimensions to produce one of the most elegant Mercedes designs of its era. Replaced by the E-Class Coupe W207.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "coupe",
+    "mercedes"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mercedes-clk-1",
+      "slug": "mercedes-clk-gen1",
+      "modelId": "m-mercedes-clk",
+      "brandId": "brand-mercedes",
+      "codeName": "CLK",
+      "generationNumber": 1,
+      "startYear": 1997,
+      "endYear": 2009,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Mercedes-Benz CLK (1997-2009) combined E-Class engineering with C-Class dimensions to produce one of the most elegant Mercedes designs of its era. Replaced by the E-Class Coupe W207.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

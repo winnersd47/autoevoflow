@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-chevy-beast-concept",
+  "slug": "chevrolet-chevy-beast-concept",
+  "name": "Chevy Beast Concept",
+  "fullName": "Chevrolet Chevy Beast Concept",
+  "brandId": "brand-chevrolet",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Chevy Beast Concept — concept, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2021_chevy_beast_concept/images/1920x1080/2021_chevy_beast_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2021_chevy_beast_concept/images/1920x1080/2021_chevy_beast_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-chevy-beast-concept-2020-0",
+      "slug": "chevrolet-chevy-beast-concept-2020-0",
+      "modelId": "m-chevrolet-chevy-beast-concept",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevy Beast Concept | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2021_chevy_beast_concept/images/1920x1080/2021_chevy_beast_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2021_chevy_beast_concept/images/1920x1080/2021_chevy_beast_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-chevy-beast-concept-2020-0",
+          "generationId": "gen-chevrolet-chevy-beast-concept-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2021_chevy_beast_concept/images/1920x1080/2021_chevy_beast_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2021_chevy_beast_concept/images/1920x1080/2021_chevy_beast_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevy Beast Concept | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

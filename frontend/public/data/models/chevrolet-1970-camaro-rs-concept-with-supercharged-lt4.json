@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-1970-camaro-rs-concept-with-supercharged-lt4",
+  "slug": "chevrolet-1970-camaro-rs-concept-with-supercharged-lt4",
+  "name": "1970 Camaro RS Concept with Supercharged LT4",
+  "fullName": "Chevrolet 1970 Camaro RS Concept with Supercharged LT4",
+  "brandId": "brand-chevrolet",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "endYear": 1970,
+  "isActive": false,
+  "description": "Chevrolet 1970 Camaro RS Concept with Supercharged LT4 — concept, produced since 1970.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_1970_camaro_lt4_concept/images/1920x1080/2015_chevrolet_1970_camaro_lt4_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_1970_camaro_lt4_concept/images/1920x1080/2015_chevrolet_1970_camaro_lt4_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-1970-camaro-rs-concept-with-supercharged-lt4-1970-0",
+      "slug": "chevrolet-1970-camaro-rs-concept-with-supercharged-lt4-1970-0",
+      "modelId": "m-chevrolet-1970-camaro-rs-concept-with-supercharged-lt4",
+      "brandId": "brand-chevrolet",
+      "codeName": "1970",
+      "generationNumber": 1,
+      "startYear": 1970,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet 1970 Camaro RS Concept with Supercharged LT4 | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_1970_camaro_lt4_concept/images/1920x1080/2015_chevrolet_1970_camaro_lt4_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_1970_camaro_lt4_concept/images/1920x1080/2015_chevrolet_1970_camaro_lt4_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-1970-camaro-rs-concept-with-supercharged-lt4-1970-0",
+          "generationId": "gen-chevrolet-1970-camaro-rs-concept-with-supercharged-lt4-1970-0",
+          "url": "https://images.caricos.com/c/chevrolet/2015_chevrolet_1970_camaro_lt4_concept/images/1920x1080/2015_chevrolet_1970_camaro_lt4_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_1970_camaro_lt4_concept/images/1920x1080/2015_chevrolet_1970_camaro_lt4_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 1970,
+          "altText": "Chevrolet 1970 Camaro RS Concept with Supercharged LT4 | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "1970"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

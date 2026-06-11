@@ -1,0 +1,288 @@
+{
+  "id": "m-volkswagen-atlas",
+  "slug": "volkswagen-atlas",
+  "name": "Atlas",
+  "fullName": "Volkswagen Atlas",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Atlas — sedan, produced since 2027.",
+  "generationCount": 6,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2027_volkswagen_atlas/images/1920x1080/2027_volkswagen_atlas_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2027_volkswagen_atlas/images/1920x1080/2027_volkswagen_atlas_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-atlas-2027-0",
+      "slug": "volkswagen-atlas-2027-0",
+      "modelId": "m-volkswagen-atlas",
+      "brandId": "brand-volkswagen",
+      "codeName": "2027",
+      "generationNumber": 1,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2027 Atlas",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-atlas-2027-1",
+      "slug": "volkswagen-atlas-2027-1",
+      "modelId": "m-volkswagen-atlas",
+      "brandId": "brand-volkswagen",
+      "codeName": "2027",
+      "generationNumber": 2,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Atlas | 2027MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2027_volkswagen_atlas/images/1920x1080/2027_volkswagen_atlas_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2027_volkswagen_atlas/images/1920x1080/2027_volkswagen_atlas_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-atlas-2027-1",
+          "generationId": "gen-volkswagen-atlas-2027-1",
+          "url": "https://images.caricos.com/v/vw/2027_volkswagen_atlas/images/1920x1080/2027_volkswagen_atlas_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2027_volkswagen_atlas/images/1920x1080/2027_volkswagen_atlas_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "Volkswagen Atlas | 2027MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-atlas-2027-2",
+      "slug": "volkswagen-atlas-2027-2",
+      "modelId": "m-volkswagen-atlas",
+      "brandId": "brand-volkswagen",
+      "codeName": "2027",
+      "generationNumber": 3,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Atlas | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2024_volkswagen_atlas/images/1920x1080/2024_volkswagen_atlas_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2024_volkswagen_atlas/images/1920x1080/2024_volkswagen_atlas_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-atlas-2027-2",
+          "generationId": "gen-volkswagen-atlas-2027-2",
+          "url": "https://images.caricos.com/v/vw/2024_volkswagen_atlas/images/1920x1080/2024_volkswagen_atlas_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2024_volkswagen_atlas/images/1920x1080/2024_volkswagen_atlas_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "Volkswagen Atlas | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-atlas-2027-3",
+      "slug": "volkswagen-atlas-2027-3",
+      "modelId": "m-volkswagen-atlas",
+      "brandId": "brand-volkswagen",
+      "codeName": "2027",
+      "generationNumber": 4,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Atlas | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_atlas/images/1920x1080/2022_volkswagen_atlas_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2022_volkswagen_atlas/images/1920x1080/2022_volkswagen_atlas_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-atlas-2027-3",
+          "generationId": "gen-volkswagen-atlas-2027-3",
+          "url": "https://images.caricos.com/v/vw/2022_volkswagen_atlas/images/1920x1080/2022_volkswagen_atlas_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2022_volkswagen_atlas/images/1920x1080/2022_volkswagen_atlas_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "Volkswagen Atlas | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-atlas-2027-4",
+      "slug": "volkswagen-atlas-2027-4",
+      "modelId": "m-volkswagen-atlas",
+      "brandId": "brand-volkswagen",
+      "codeName": "2027",
+      "generationNumber": 5,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Atlas | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_atlas/images/1920x1080/2021_volkswagen_atlas_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2021_volkswagen_atlas/images/1920x1080/2021_volkswagen_atlas_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-atlas-2027-4",
+          "generationId": "gen-volkswagen-atlas-2027-4",
+          "url": "https://images.caricos.com/v/vw/2021_volkswagen_atlas/images/1920x1080/2021_volkswagen_atlas_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2021_volkswagen_atlas/images/1920x1080/2021_volkswagen_atlas_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "Volkswagen Atlas | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-atlas-2027-5",
+      "slug": "volkswagen-atlas-2027-5",
+      "modelId": "m-volkswagen-atlas",
+      "brandId": "brand-volkswagen",
+      "codeName": "2027",
+      "generationNumber": 6,
+      "startYear": 2027,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Atlas | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2018_volkswagen_atlas/images/1920x1080/2018_volkswagen_atlas_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2018_volkswagen_atlas/images/1920x1080/2018_volkswagen_atlas_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-atlas-2027-5",
+          "generationId": "gen-volkswagen-atlas-2027-5",
+          "url": "https://images.caricos.com/v/vw/2018_volkswagen_atlas/images/1920x1080/2018_volkswagen_atlas_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2018_volkswagen_atlas/images/1920x1080/2018_volkswagen_atlas_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2027,
+          "altText": "Volkswagen Atlas | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2027"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

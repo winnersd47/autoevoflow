@@ -1,0 +1,164 @@
+{
+  "id": "m-toyota-venza",
+  "slug": "toyota-venza",
+  "name": "Venza",
+  "fullName": "Toyota Venza",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Venza — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_venza/images/1920x1080/2023_toyota_venza_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2023_toyota_venza/images/1920x1080/2023_toyota_venza_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-venza-2020-0",
+      "slug": "toyota-venza-2020-0",
+      "modelId": "m-toyota-venza",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Venza | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_venza/images/1920x1080/2023_toyota_venza_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2023_toyota_venza/images/1920x1080/2023_toyota_venza_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-venza-2020-0",
+          "generationId": "gen-toyota-venza-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2023_toyota_venza/images/1920x1080/2023_toyota_venza_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_venza/images/1920x1080/2023_toyota_venza_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Venza | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-venza-2020-1",
+      "slug": "toyota-venza-2020-1",
+      "modelId": "m-toyota-venza",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Venza | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_venza/images/1920x1080/2021_toyota_venza_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2021_toyota_venza/images/1920x1080/2021_toyota_venza_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-venza-2020-1",
+          "generationId": "gen-toyota-venza-2020-1",
+          "url": "https://images.caricos.com/t/toyota/2021_toyota_venza/images/1920x1080/2021_toyota_venza_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2021_toyota_venza/images/1920x1080/2021_toyota_venza_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Venza | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-venza-2020-2",
+      "slug": "toyota-venza-2020-2",
+      "modelId": "m-toyota-venza",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Venza | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_venza/images/1920x1080/2013_toyota_venza_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2013_toyota_venza/images/1920x1080/2013_toyota_venza_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-venza-2020-2",
+          "generationId": "gen-toyota-venza-2020-2",
+          "url": "https://images.caricos.com/t/toyota/2013_toyota_venza/images/1920x1080/2013_toyota_venza_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_venza/images/1920x1080/2013_toyota_venza_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Venza | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

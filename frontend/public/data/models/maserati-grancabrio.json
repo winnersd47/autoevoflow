@@ -1,0 +1,164 @@
+{
+  "id": "m-maserati-grancabrio",
+  "slug": "maserati-grancabrio",
+  "name": "GranCabrio",
+  "fullName": "Maserati GranCabrio",
+  "brandId": "brand-maserati",
+  "bodyType": "convertible",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "endYear": null,
+  "isActive": true,
+  "description": "Maserati GranCabrio — convertible, produced since 2011.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio/images/1920x1080/2025_maserati_grancabrio_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio/images/1920x1080/2025_maserati_grancabrio_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-grancabrio-2025-0",
+      "slug": "maserati-grancabrio-2025-0",
+      "modelId": "m-maserati-grancabrio",
+      "brandId": "brand-maserati",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Maserati GranCabrio",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio/images/1920x1080/2025_maserati_grancabrio_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio/images/1920x1080/2025_maserati_grancabrio_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-grancabrio-2025-0",
+          "generationId": "gen-maserati-grancabrio-2025-0",
+          "url": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio/images/1920x1080/2025_maserati_grancabrio_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio/images/1920x1080/2025_maserati_grancabrio_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Maserati GranCabrio",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-grancabrio-2018-1",
+      "slug": "maserati-grancabrio-2018-1",
+      "modelId": "m-maserati-grancabrio",
+      "brandId": "brand-maserati",
+      "codeName": "2018",
+      "generationNumber": 2,
+      "startYear": 2018,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2018 Maserati GranCabrio",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2018_maserati_grancabrio/images/1920x1080/2018_maserati_grancabrio_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2018_maserati_grancabrio/images/1920x1080/2018_maserati_grancabrio_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-grancabrio-2018-1",
+          "generationId": "gen-maserati-grancabrio-2018-1",
+          "url": "https://images.caricos.com/m/maserati/2018_maserati_grancabrio/images/1920x1080/2018_maserati_grancabrio_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2018_maserati_grancabrio/images/1920x1080/2018_maserati_grancabrio_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2018,
+          "altText": "2018 Maserati GranCabrio",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2018"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-maserati-grancabrio-2011-2",
+      "slug": "maserati-grancabrio-2011-2",
+      "modelId": "m-maserati-grancabrio",
+      "brandId": "brand-maserati",
+      "codeName": "2011",
+      "generationNumber": 3,
+      "startYear": 2011,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2011 Maserati GranCabrio",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_grancabrio/images/1920x1080/2011_maserati_grancabrio_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2011_maserati_grancabrio/images/1920x1080/2011_maserati_grancabrio_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-grancabrio-2011-2",
+          "generationId": "gen-maserati-grancabrio-2011-2",
+          "url": "https://images.caricos.com/m/maserati/2011_maserati_grancabrio/images/1920x1080/2011_maserati_grancabrio_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_grancabrio/images/1920x1080/2011_maserati_grancabrio_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2011,
+          "altText": "2011 Maserati GranCabrio",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2011"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

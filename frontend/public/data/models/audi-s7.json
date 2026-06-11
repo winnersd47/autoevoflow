@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-s7",
+  "slug": "audi-s7",
+  "name": "S7",
+  "fullName": "Audi S7",
+  "brandId": "brand-audi",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi S7 Sportback (2012–present) is the performance fastback variant of the A7, pairing the dramatic four-door Gran Turismo silhouette with enhanced performance. The 4G used a 4.0-litre V8 TFSI; the 4K uses a 2.9-litre twin-turbo V6.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "coupe",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-s7-1",
+      "slug": "audi-s7-gen1",
+      "modelId": "m-audi-s7",
+      "brandId": "brand-audi",
+      "codeName": "4G/4K",
+      "generationNumber": 1,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi S7 Sportback (2012–present) is the performance fastback variant of the A7, pairing the dramatic four-door Gran Turismo silhouette with enhanced performance. The 4G used a 4.0-litre V8 TFSI; the 4K uses a 2.9-litre twin-turbo V6.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

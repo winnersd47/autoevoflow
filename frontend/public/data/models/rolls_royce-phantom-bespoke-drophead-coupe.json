@@ -1,0 +1,72 @@
+{
+  "id": "m-rolls_royce-phantom-bespoke-drophead-coupe",
+  "slug": "rolls_royce-phantom-bespoke-drophead-coupe",
+  "name": "Phantom Bespoke Drophead Coupe",
+  "fullName": "Rolls-Royce Phantom Bespoke Drophead Coupe",
+  "brandId": "brand-rolls_royce",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Rolls-Royce Phantom Bespoke Drophead Coupe — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_phantom_bespoke_drophead_coupe/images/1920x1080/2011_rolls-royce_phantom_bespoke_drophead_coupe_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_phantom_bespoke_drophead_coupe/images/1920x1080/2011_rolls-royce_phantom_bespoke_drophead_coupe_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "rolls-royce"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-rolls_royce-phantom-bespoke-drophead-coupe-2020-0",
+      "slug": "rolls_royce-phantom-bespoke-drophead-coupe-2020-0",
+      "modelId": "m-rolls_royce-phantom-bespoke-drophead-coupe",
+      "brandId": "brand-rolls_royce",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Rolls-Royce Phantom Bespoke Drophead Coupe | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_phantom_bespoke_drophead_coupe/images/1920x1080/2011_rolls-royce_phantom_bespoke_drophead_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_phantom_bespoke_drophead_coupe/images/1920x1080/2011_rolls-royce_phantom_bespoke_drophead_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-rolls_royce-phantom-bespoke-drophead-coupe-2020-0",
+          "generationId": "gen-rolls_royce-phantom-bespoke-drophead-coupe-2020-0",
+          "url": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_phantom_bespoke_drophead_coupe/images/1920x1080/2011_rolls-royce_phantom_bespoke_drophead_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2011_rolls-royce_phantom_bespoke_drophead_coupe/images/1920x1080/2011_rolls-royce_phantom_bespoke_drophead_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Rolls-Royce Phantom Bespoke Drophead Coupe | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

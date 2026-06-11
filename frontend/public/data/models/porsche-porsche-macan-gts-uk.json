@@ -1,0 +1,26 @@
+{
+  "id": "ncs-porsche-porsche-macan-gts-uk",
+  "slug": "porsche-porsche-macan-gts-uk",
+  "name": "Porsche Macan GTS [UK]",
+  "fullName": "2026 Porsche Macan GTS [UK]",
+  "brandId": "porsche",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "In the Macan GTS, it delivers 380 kW (516 PS), rising to 420 kW (571 PS) of overboost power with Launch Control, and a maximum torque of 955 Nm.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-Macan_GTS_UK-Version-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-Macan_GTS_UK-Version-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/porsche/2026-macan_gts_uk-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-10T03:06:57.329Z",
+  "createdAt": "2026-06-10T03:06:58.188Z",
+  "updatedAt": "2026-06-10T03:06:58.188Z"
+}

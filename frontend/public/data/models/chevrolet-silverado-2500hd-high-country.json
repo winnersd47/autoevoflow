@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-silverado-2500hd-high-country",
+  "slug": "chevrolet-silverado-2500hd-high-country",
+  "name": "Silverado 2500HD High Country",
+  "fullName": "Chevrolet Silverado 2500HD High Country",
+  "brandId": "brand-chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Silverado 2500HD High Country — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_high_country/images/1920x1080/2015_chevrolet_silverado_high_country_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_high_country/images/1920x1080/2015_chevrolet_silverado_high_country_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-silverado-2500hd-high-country-2020-0",
+      "slug": "chevrolet-silverado-2500hd-high-country-2020-0",
+      "modelId": "m-chevrolet-silverado-2500hd-high-country",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Silverado 2500HD High Country | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_high_country/images/1920x1080/2015_chevrolet_silverado_high_country_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_high_country/images/1920x1080/2015_chevrolet_silverado_high_country_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-silverado-2500hd-high-country-2020-0",
+          "generationId": "gen-chevrolet-silverado-2500hd-high-country-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_high_country/images/1920x1080/2015_chevrolet_silverado_high_country_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_high_country/images/1920x1080/2015_chevrolet_silverado_high_country_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Silverado 2500HD High Country | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

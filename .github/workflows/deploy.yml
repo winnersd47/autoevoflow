@@ -1,0 +1,189 @@
+name: Deploy
+
+on:
+  workflow_run:
+    workflows: ["CI"]
+    types: [completed]
+    branches: [main]
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false    # Never cancel an in-flight production deploy
+
+jobs:
+  # ============================================================================
+  # Production deployment
+  # ============================================================================
+  deploy:
+    name: Deploy to production
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    environment:
+      name: production
+      url: https://yourdomain.com
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
+
+      - name: Set up kubectl
+        uses: azure/setup-kubectl@v4
+        with:
+          version: "v1.28.0"
+
+      - name: Configure kubeconfig
+        run: |
+          mkdir -p $HOME/.kube
+          echo "${{ secrets.KUBECONFIG }}" | base64 -d > $HOME/.kube/config
+          chmod 600 $HOME/.kube/config
+
+      - name: Verify cluster connectivity
+        run: kubectl cluster-info --request-timeout=30s
+
+      - name: Set image SHA
+        id: vars
+        run: |
+          SHA=${{ github.event.workflow_run.head_sha }}
+          echo "sha=${SHA}" >> $GITHUB_OUTPUT
+          echo "Deploying SHA: ${SHA}"
+
+      # -----------------------------------------------------------------------
+      # Update ConfigMap and Secrets (idempotent)
+      # -----------------------------------------------------------------------
+      - name: Apply ConfigMap
+        run: kubectl apply -f infrastructure/k8s/configmap.yaml
+
+      # -----------------------------------------------------------------------
+      # Rolling image updates
+      # -----------------------------------------------------------------------
+      - name: Update backend image
+        run: |
+          kubectl set image deployment/backend \
+            backend=ghcr.io/${{ github.repository }}/backend:${{ steps.vars.outputs.sha }} \
+            -n automotive-ai
+
+      - name: Update frontend image
+        run: |
+          kubectl set image deployment/frontend \
+            frontend=ghcr.io/${{ github.repository }}/frontend:${{ steps.vars.outputs.sha }} \
+            -n automotive-ai
+
+      - name: Update crawler image
+        run: |
+          kubectl set image deployment/crawler \
+            crawler=ghcr.io/${{ github.repository }}/crawler:${{ steps.vars.outputs.sha }} \
+            -n automotive-ai
+        continue-on-error: true   # Crawler may not be deployed in all envs
+
+      - name: Update ml-inference image
+        run: |
+          kubectl set image deployment/ml-inference \
+            ml-inference=ghcr.io/${{ github.repository }}/ml:${{ steps.vars.outputs.sha }} \
+            -n automotive-ai
+        continue-on-error: true   # ML node may not be available in all envs
+
+      # -----------------------------------------------------------------------
+      # Wait for rollouts to complete
+      # -----------------------------------------------------------------------
+      - name: Wait – backend rollout
+        run: |
+          kubectl rollout status deployment/backend \
+            -n automotive-ai --timeout=300s
+
+      - name: Wait – frontend rollout
+        run: |
+          kubectl rollout status deployment/frontend \
+            -n automotive-ai --timeout=300s
+
+      # -----------------------------------------------------------------------
+      # Database migrations
+      # -----------------------------------------------------------------------
+      - name: Run DB migrations
+        run: |
+          kubectl exec -n automotive-ai deployment/backend \
+            -- alembic upgrade head
+
+      # -----------------------------------------------------------------------
+      # Smoke tests
+      # -----------------------------------------------------------------------
+      - name: Health check – backend
+        run: |
+          kubectl exec -n automotive-ai deployment/backend \
+            -- curl -sf http://localhost:8000/health || exit 1
+
+      - name: Health check – frontend
+        run: |
+          kubectl exec -n automotive-ai deployment/frontend \
+            -- curl -sf http://localhost:3000/ || exit 1
+
+      # -----------------------------------------------------------------------
+      # Rollback on failure
+      # -----------------------------------------------------------------------
+      - name: Rollback on failure
+        if: failure()
+        run: |
+          echo "Deployment failed – rolling back..."
+          kubectl rollout undo deployment/backend  -n automotive-ai || true
+          kubectl rollout undo deployment/frontend -n automotive-ai || true
+          echo "Rollback complete."
+
+      # -----------------------------------------------------------------------
+      # Notifications
+      # -----------------------------------------------------------------------
+      - name: Notify Slack – success
+        if: success()
+        uses: slackapi/slack-github-action@v1
+        with:
+          channel-id: ${{ secrets.SLACK_DEPLOY_CHANNEL_ID }}
+          slack-message: |
+            :rocket: *automotive-ai-platform* deployed to production
+            SHA: `${{ steps.vars.outputs.sha }}`
+            Branch: `${{ github.event.workflow_run.head_branch }}`
+            Author: ${{ github.event.workflow_run.triggering_actor.login }}
+            URL: https://yourdomain.com
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+
+      - name: Notify Slack – failure
+        if: failure()
+        uses: slackapi/slack-github-action@v1
+        with:
+          channel-id: ${{ secrets.SLACK_DEPLOY_CHANNEL_ID }}
+          slack-message: |
+            :fire: *automotive-ai-platform* deployment FAILED
+            SHA: `${{ steps.vars.outputs.sha }}`
+            Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+
+  # ============================================================================
+  # Post-deploy: tag the git commit as "released"
+  # ============================================================================
+  tag-release:
+    name: Tag release
+    needs: deploy
+    runs-on: ubuntu-latest
+    if: success()
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create release tag
+        run: |
+          DATE=$(date -u +%Y%m%d%H%M)
+          SHA_SHORT=${GITHUB_SHA::8}
+          TAG="release-${DATE}-${SHA_SHORT}"
+          git tag "$TAG"
+          git push origin "$TAG"
+          echo "Tagged as: $TAG"
+        env:
+          GITHUB_SHA: ${{ github.event.workflow_run.head_sha }}

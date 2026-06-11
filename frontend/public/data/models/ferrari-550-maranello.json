@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-550-maranello",
+  "slug": "ferrari-550-maranello",
+  "name": "550 Maranello",
+  "fullName": "Ferrari 550 Maranello",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "endYear": 2001,
+  "isActive": false,
+  "description": "The Ferrari 550 Maranello (1996–2001) returned Ferrari to the front-engine GT formula after 23 years. Its 485 hp 5.5-litre V12 and perfect 50:50 weight distribution made it the definitive modern expression of the Daytona's philosophy.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "v12", "front-engine", "gt"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-acura-nsx-type-s",
+  "slug": "acura-nsx-type-s",
+  "name": "NSX Type S",
+  "fullName": "Acura NSX Type S",
+  "brandId": "brand-acura",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Acura NSX Type S — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/acura/2022_acura_nsx_type_s/images/1920x1080/2022_acura_nsx_type_s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/acura/2022_acura_nsx_type_s/images/1920x1080/2022_acura_nsx_type_s_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "acura"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-acura-nsx-type-s-2020-0",
+      "slug": "acura-nsx-type-s-2020-0",
+      "modelId": "m-acura-nsx-type-s",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura NSX Type S | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2022_acura_nsx_type_s/images/1920x1080/2022_acura_nsx_type_s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2022_acura_nsx_type_s/images/1920x1080/2022_acura_nsx_type_s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-nsx-type-s-2020-0",
+          "generationId": "gen-acura-nsx-type-s-2020-0",
+          "url": "https://images.caricos.com/a/acura/2022_acura_nsx_type_s/images/1920x1080/2022_acura_nsx_type_s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2022_acura_nsx_type_s/images/1920x1080/2022_acura_nsx_type_s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura NSX Type S | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

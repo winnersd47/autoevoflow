@@ -1,0 +1,51 @@
+{
+  "id": "m-ferrari-mondial",
+  "slug": "ferrari-mondial",
+  "name": "Mondial",
+  "fullName": "Ferrari Mondial",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "endYear": 1993,
+  "isActive": false,
+  "description": "The Ferrari Mondial (1980-1993) was Ferrari's entry-level 2+2 mid-engine coupe designed for everyday usability. Often dismissed for its relative performance, it introduced many buyers to Ferrari ownership.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "coupe",
+    "ferrari"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ferrari-mondial-1",
+      "slug": "ferrari-mondial-gen1",
+      "modelId": "m-ferrari-mondial",
+      "brandId": "brand-ferrari",
+      "codeName": "Mondial",
+      "generationNumber": 1,
+      "startYear": 1980,
+      "endYear": 1993,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Ferrari Mondial (1980-1993) was Ferrari's entry-level 2+2 mid-engine coupe designed for everyday usability. Often dismissed for its relative performance, it introduced many buyers to Ferrari ownership.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

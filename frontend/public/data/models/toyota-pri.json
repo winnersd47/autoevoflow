@@ -1,0 +1,578 @@
+{
+  "id": "m-toyota-pri",
+  "slug": "toyota-pri",
+  "name": "Pri",
+  "fullName": "Toyota Pri",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Pri — sedan, produced since 2020.",
+  "generationCount": 15,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_prius_nightshade/images/1920x1080/2025_toyota_prius_nightshade_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2025_toyota_prius_nightshade/images/1920x1080/2025_toyota_prius_nightshade_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-pri-2020-0",
+      "slug": "toyota-pri-2020-0",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius Nightshade | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_prius_nightshade/images/1920x1080/2025_toyota_prius_nightshade_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2025_toyota_prius_nightshade/images/1920x1080/2025_toyota_prius_nightshade_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-0",
+          "generationId": "gen-toyota-pri-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2025_toyota_prius_nightshade/images/1920x1080/2025_toyota_prius_nightshade_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2025_toyota_prius_nightshade/images/1920x1080/2025_toyota_prius_nightshade_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius Nightshade | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-1",
+      "slug": "toyota-pri-2020-1",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius Prime | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_prius_prime/images/1920x1080/2023_toyota_prius_prime_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2023_toyota_prius_prime/images/1920x1080/2023_toyota_prius_prime_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-1",
+          "generationId": "gen-toyota-pri-2020-1",
+          "url": "https://images.caricos.com/t/toyota/2023_toyota_prius_prime/images/1920x1080/2023_toyota_prius_prime_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_prius_prime/images/1920x1080/2023_toyota_prius_prime_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius Prime | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-2",
+      "slug": "toyota-pri-2020-2",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_prius/images/1920x1080/2023_toyota_prius_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2023_toyota_prius/images/1920x1080/2023_toyota_prius_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-2",
+          "generationId": "gen-toyota-pri-2020-2",
+          "url": "https://images.caricos.com/t/toyota/2023_toyota_prius/images/1920x1080/2023_toyota_prius_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2023_toyota_prius/images/1920x1080/2023_toyota_prius_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-3",
+      "slug": "toyota-pri-2020-3",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius Prime | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_prius_prime/images/1920x1080/2022_toyota_prius_prime_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2022_toyota_prius_prime/images/1920x1080/2022_toyota_prius_prime_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-3",
+          "generationId": "gen-toyota-pri-2020-3",
+          "url": "https://images.caricos.com/t/toyota/2022_toyota_prius_prime/images/1920x1080/2022_toyota_prius_prime_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_prius_prime/images/1920x1080/2022_toyota_prius_prime_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius Prime | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-4",
+      "slug": "toyota-pri-2020-4",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius Nightshade Edition | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_prius_nightshade_edition/images/1920x1080/2022_toyota_prius_nightshade_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2022_toyota_prius_nightshade_edition/images/1920x1080/2022_toyota_prius_nightshade_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-4",
+          "generationId": "gen-toyota-pri-2020-4",
+          "url": "https://images.caricos.com/t/toyota/2022_toyota_prius_nightshade_edition/images/1920x1080/2022_toyota_prius_nightshade_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_prius_nightshade_edition/images/1920x1080/2022_toyota_prius_nightshade_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius Nightshade Edition | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-5",
+      "slug": "toyota-pri-2020-5",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius Prime | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_prius_prime/images/1920x1080/2017_toyota_prius_prime_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2017_toyota_prius_prime/images/1920x1080/2017_toyota_prius_prime_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-5",
+          "generationId": "gen-toyota-pri-2020-5",
+          "url": "https://images.caricos.com/t/toyota/2017_toyota_prius_prime/images/1920x1080/2017_toyota_prius_prime_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2017_toyota_prius_prime/images/1920x1080/2017_toyota_prius_prime_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius Prime | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-6",
+      "slug": "toyota-pri-2020-6",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius V | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius_v/images/1920x1080/2016_toyota_prius_v_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius_v/images/1920x1080/2016_toyota_prius_v_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-6",
+          "generationId": "gen-toyota-pri-2020-6",
+          "url": "https://images.caricos.com/t/toyota/2016_toyota_prius_v/images/1920x1080/2016_toyota_prius_v_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius_v/images/1920x1080/2016_toyota_prius_v_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius V | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-7",
+      "slug": "toyota-pri-2020-7",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius (Euro-Spec) | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius_eu/images/1920x1080/2016_toyota_prius_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius_eu/images/1920x1080/2016_toyota_prius_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-7",
+          "generationId": "gen-toyota-pri-2020-7",
+          "url": "https://images.caricos.com/t/toyota/2016_toyota_prius_eu/images/1920x1080/2016_toyota_prius_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius_eu/images/1920x1080/2016_toyota_prius_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius (Euro-Spec) | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-8",
+      "slug": "toyota-pri-2020-8",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 9,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius/images/1920x1080/2016_toyota_prius_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius/images/1920x1080/2016_toyota_prius_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-8",
+          "generationId": "gen-toyota-pri-2020-8",
+          "url": "https://images.caricos.com/t/toyota/2016_toyota_prius/images/1920x1080/2016_toyota_prius_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_prius/images/1920x1080/2016_toyota_prius_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-9",
+      "slug": "toyota-pri-2020-9",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 10,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius V | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_prius_v/images/1920x1080/2015_toyota_prius_v_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2015_toyota_prius_v/images/1920x1080/2015_toyota_prius_v_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-9",
+          "generationId": "gen-toyota-pri-2020-9",
+          "url": "https://images.caricos.com/t/toyota/2015_toyota_prius_v/images/1920x1080/2015_toyota_prius_v_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_prius_v/images/1920x1080/2015_toyota_prius_v_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius V | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-10",
+      "slug": "toyota-pri-2020-10",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 11,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius C | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_prius_c/images/1920x1080/2015_toyota_prius_c_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2015_toyota_prius_c/images/1920x1080/2015_toyota_prius_c_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-10",
+          "generationId": "gen-toyota-pri-2020-10",
+          "url": "https://images.caricos.com/t/toyota/2015_toyota_prius_c/images/1920x1080/2015_toyota_prius_c_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2015_toyota_prius_c/images/1920x1080/2015_toyota_prius_c_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius C | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-pri-2020-11",
+      "slug": "toyota-pri-2020-11",
+      "modelId": "m-toyota-pri",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 12,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Prius V | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2012_toyota_prius_v/images/1920x1080/2012_toyota_prius_v_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2012_toyota_prius_v/images/1920x1080/2012_toyota_prius_v_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-pri-2020-11",
+          "generationId": "gen-toyota-pri-2020-11",
+          "url": "https://images.caricos.com/t/toyota/2012_toyota_prius_v/images/1920x1080/2012_toyota_prius_v_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2012_toyota_prius_v/images/1920x1080/2012_toyota_prius_v_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Prius V | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

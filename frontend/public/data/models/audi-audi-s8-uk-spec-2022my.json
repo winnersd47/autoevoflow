@@ -1,0 +1,72 @@
+{
+  "id": "m-audi-audi-s8-uk-spec-2022my",
+  "slug": "audi-audi-s8-uk-spec-2022my",
+  "name": "Audi S8 (UK-Spec) | 2022MY",
+  "fullName": "Audi Audi S8 (UK-Spec) | 2022MY",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi Audi S8 (UK-Spec) | 2022MY — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_s8_uk/images/1920x1080/2022_audi_s8_uk_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_s8_uk/images/1920x1080/2022_audi_s8_uk_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-audi-s8-uk-spec-2022my-2020-0",
+      "slug": "audi-audi-s8-uk-spec-2022my-2020-0",
+      "modelId": "m-audi-audi-s8-uk-spec-2022my",
+      "brandId": "brand-audi",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Audi S8 (UK-Spec) | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_s8_uk/images/1920x1080/2022_audi_s8_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_s8_uk/images/1920x1080/2022_audi_s8_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-audi-audi-s8-uk-spec-2022my-2020-0",
+          "generationId": "gen-audi-audi-s8-uk-spec-2022my-2020-0",
+          "url": "https://images.caricos.com/a/audi/2022_audi_s8_uk/images/1920x1080/2022_audi_s8_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_s8_uk/images/1920x1080/2022_audi_s8_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Audi S8 (UK-Spec) | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

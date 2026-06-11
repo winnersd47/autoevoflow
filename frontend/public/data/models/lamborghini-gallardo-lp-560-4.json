@@ -1,0 +1,118 @@
+{
+  "id": "m-lamborghini-gallardo-lp-560-4",
+  "slug": "lamborghini-gallardo-lp-560-4",
+  "name": "Gallardo LP 560-4",
+  "fullName": "Lamborghini Gallardo LP 560-4",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Gallardo LP 560-4 — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2013_lamborghini_gallardo_lp_560-4/images/1920x1080/2013_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2013_lamborghini_gallardo_lp_560-4/images/1920x1080/2013_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-gallardo-lp-560-4-2020-0",
+      "slug": "lamborghini-gallardo-lp-560-4-2020-0",
+      "modelId": "m-lamborghini-gallardo-lp-560-4",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Gallardo LP 560-4 | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2013_lamborghini_gallardo_lp_560-4/images/1920x1080/2013_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2013_lamborghini_gallardo_lp_560-4/images/1920x1080/2013_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-gallardo-lp-560-4-2020-0",
+          "generationId": "gen-lamborghini-gallardo-lp-560-4-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2013_lamborghini_gallardo_lp_560-4/images/1920x1080/2013_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2013_lamborghini_gallardo_lp_560-4/images/1920x1080/2013_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Gallardo LP 560-4 | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lamborghini-gallardo-lp-560-4-2020-1",
+      "slug": "lamborghini-gallardo-lp-560-4-2020-1",
+      "modelId": "m-lamborghini-gallardo-lp-560-4",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Gallardo LP 560-4 | 2009MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-gallardo-lp-560-4-2020-1",
+          "generationId": "gen-lamborghini-gallardo-lp-560-4-2020-1",
+          "url": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Gallardo LP 560-4 | 2009MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

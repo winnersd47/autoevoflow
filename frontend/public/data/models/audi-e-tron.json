@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-e-tron",
+  "slug": "audi-e-tron",
+  "name": "e-tron",
+  "fullName": "Audi e-tron",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "endYear": 2023,
+  "isActive": false,
+  "description": "The Audi e-tron (2018–2023) was Audi's first production battery-electric vehicle, an SUV built on the Volkswagen Group MLB Evo platform. It established Audi's electric identity before being renamed the Q8 e-tron.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron/images/1920x1080/2022_audi_e-tron_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron/images/1920x1080/2022_audi_e-tron_1_1920x1080.jpg",
+  "tags": ["suv", "audi", "electric", "bev", "quattro", "mlb"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-e-tron-ge",
+      "slug": "audi-e-tron-ge",
+      "modelId": "m-audi-e-tron",
+      "brandId": "brand-audi",
+      "codeName": "GE",
+      "generationNumber": 1,
+      "startYear": 2018,
+      "endYear": 2023,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["suv"],
+      "engineTypes": ["BEV"],
+      "markets": ["global"],
+      "description": "The e-tron GE (2018–2023) was Audi's first all-electric production vehicle, featuring dual electric motors and e-quattro AWD, before being renamed the Q8 e-tron in 2023.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2022_audi_e-tron/images/1920x1080/2022_audi_e-tron_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

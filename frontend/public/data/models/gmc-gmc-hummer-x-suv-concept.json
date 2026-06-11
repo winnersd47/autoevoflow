@@ -1,0 +1,26 @@
+{
+  "id": "ncs-gmc-gmc-hummer-x-suv-concept",
+  "slug": "gmc-gmc-hummer-x-suv-concept",
+  "name": "GMC Hummer X SUV Concept",
+  "fullName": "2026 GMC Hummer X SUV Concept",
+  "brandId": "gmc",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Hummer X redefines what a mid-size EV can do off-road. A low center of gravity, extreme on-demand acceleration, 35-to-37-inch Goodyear tires, beadlock wheels...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/GMC-Hummer_X_SUV_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/GMC-Hummer_X_SUV_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/gmc/2026-hummer_x_suv_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.731Z",
+  "updatedAt": "2026-06-05T07:36:26.731Z"
+}

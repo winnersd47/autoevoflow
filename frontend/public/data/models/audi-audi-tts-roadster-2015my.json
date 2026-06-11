@@ -1,0 +1,72 @@
+{
+  "id": "m-audi-audi-tts-roadster-2015my",
+  "slug": "audi-audi-tts-roadster-2015my",
+  "name": "Audi TTS Roadster | 2015MY",
+  "fullName": "Audi Audi TTS Roadster | 2015MY",
+  "brandId": "brand-audi",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Audi Audi TTS Roadster | 2015MY — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2015_audi_tts_roadster/images/1920x1080/2015_audi_tts_roadster_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2015_audi_tts_roadster/images/1920x1080/2015_audi_tts_roadster_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-audi-tts-roadster-2015my-2020-0",
+      "slug": "audi-audi-tts-roadster-2015my-2020-0",
+      "modelId": "m-audi-audi-tts-roadster-2015my",
+      "brandId": "brand-audi",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Audi TTS Roadster | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2015_audi_tts_roadster/images/1920x1080/2015_audi_tts_roadster_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/audi/2015_audi_tts_roadster/images/1920x1080/2015_audi_tts_roadster_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-audi-audi-tts-roadster-2015my-2020-0",
+          "generationId": "gen-audi-audi-tts-roadster-2015my-2020-0",
+          "url": "https://images.caricos.com/a/audi/2015_audi_tts_roadster/images/1920x1080/2015_audi_tts_roadster_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/audi/2015_audi_tts_roadster/images/1920x1080/2015_audi_tts_roadster_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Audi TTS Roadster | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-toyota-tundra-1794-limited-edition",
+  "slug": "toyota-tundra-1794-limited-edition",
+  "name": "Tundra 1794 Limited Edition",
+  "fullName": "Toyota Tundra 1794 Limited Edition",
+  "brandId": "brand-toyota",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Tundra 1794 Limited Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2024_toyota_tundra_1794_limited_edition/images/1920x1080/2024_toyota_tundra_1794_limited_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2024_toyota_tundra_1794_limited_edition/images/1920x1080/2024_toyota_tundra_1794_limited_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-tundra-1794-limited-edition-2020-0",
+      "slug": "toyota-tundra-1794-limited-edition-2020-0",
+      "modelId": "m-toyota-tundra-1794-limited-edition",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Tundra 1794 Limited Edition | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2024_toyota_tundra_1794_limited_edition/images/1920x1080/2024_toyota_tundra_1794_limited_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2024_toyota_tundra_1794_limited_edition/images/1920x1080/2024_toyota_tundra_1794_limited_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-tundra-1794-limited-edition-2020-0",
+          "generationId": "gen-toyota-tundra-1794-limited-edition-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2024_toyota_tundra_1794_limited_edition/images/1920x1080/2024_toyota_tundra_1794_limited_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2024_toyota_tundra_1794_limited_edition/images/1920x1080/2024_toyota_tundra_1794_limited_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota Tundra 1794 Limited Edition | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

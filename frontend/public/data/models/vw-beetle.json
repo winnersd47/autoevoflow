@@ -1,0 +1,51 @@
+{
+  "id": "m-vw-beetle",
+  "slug": "vw-beetle",
+  "name": "Beetle",
+  "fullName": "Volkswagen Beetle",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1938,
+  "endYear": 2019,
+  "isActive": false,
+  "description": "The Volkswagen Beetle (1938-2019) is the best-selling car of a single design in history. Ferdinand Porsche's air-cooled rear-engine layout directly influenced the 356 and 911 and established the founding ethos of the Volkswagen Group.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-vw-beetle-1",
+      "slug": "vw-beetle-gen1",
+      "modelId": "m-vw-beetle",
+      "brandId": "brand-volkswagen",
+      "codeName": "Beetle",
+      "generationNumber": 1,
+      "startYear": 1938,
+      "endYear": 2019,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Volkswagen Beetle (1938-2019) is the best-selling car of a single design in history. Ferdinand Porsche's air-cooled rear-engine layout directly influenced the 356 and 911 and established the founding ethos of the Volkswagen Group.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

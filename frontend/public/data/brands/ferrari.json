@@ -1,0 +1,842 @@
+{
+  "id": "brand-ferrari",
+  "slug": "ferrari",
+  "name": "Ferrari",
+  "fullName": "Ferrari S.p.A.",
+  "country": "Italy",
+  "countryCode": "IT",
+  "foundingYear": 1947,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "https://images.caricos.com/f/ferrari/2019_ferrari_sf90_stradale/images/1920x1080/2019_ferrari_sf90_stradale_1_1920x1080.jpg",
+  "description": "Ferrari S.p.A., founded by Enzo Ferrari in Maranello in 1947, is not simply a car manufacturer — it is the most powerful emotional brand in the world. Every Ferrari is a direct descendant of the racing cars that won at Le Mans, the Mille Miglia, and across 240 Formula One Grand Prix victories. The Prancing Horse, which Enzo received from the family of WWI pilot Francesco Baracca, carries the weight of Italian engineering genius, Pininfarina beauty, and a racing philosophy that insists road cars must be mechanically honest even when they are daily transport.\n\nThe mid-engine V8 lineage — from the 1975 308 GTB to the current 296 GTB — is Ferrari's most commercially significant achievement and its most continuous design thread. Each generation received the same brief: take F1 technology, find a responsible way to use it on public roads, and make the result beautiful. The F355's high-revving V8, the 458's disappearing manual option, the 488's turbocharged response, and the 296's hybrid V6 all represent the same answer to the same question, fifty years apart.\n\nFerrari is now managing the most delicate transition in its history: from the naturally aspirated soundtrack that defined its identity for 70 years toward hybrid and electric powertrains. The SF90 Stradale with its 1,000 hp hybrid system, the 296 GTB's V6 twin-turbo hybrid, and the announced Purosangue SUV represent Ferrari's answer to a world that demands efficiency without demanding compromise. Enzo's ghost is present: he insisted the road cars must fund the racing. Today, the racing must justify the road cars.",
+  "parentCompany": "Ferrari N.V.",
+  "headquarters": "Maranello, Italy",
+  "modelCount": 65,
+  "generationCount": 82,
+  "tags": [
+    "italian",
+    "supercar",
+    "racing-heritage",
+    "v12",
+    "v8",
+    "pininfarina",
+    "maranello",
+    "prancing-horse"
+  ],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "dna": {
+    "id": "dna-ferrari",
+    "brandId": "brand-ferrari",
+    "entityType": "brand",
+    "entityId": "brand-ferrari",
+    "overallScore": 96,
+    "dominantStyle": "Racing GT",
+    "colorPalette": [
+      "#ff2800",
+      "#ffffff",
+      "#ffd700",
+      "#1a1a1a"
+    ],
+    "keyElements": [
+      "Prancing Horse",
+      "Ferrari red",
+      "naturally aspirated V8",
+      "flat-plane crankshaft",
+      "paddle shifters",
+      "carbon monocoque"
+    ],
+    "influencedBy": [
+      "Formula One engineering",
+      "Enzo Ferrari philosophy",
+      "Pininfarina design tradition"
+    ],
+    "hasInfluenced": [
+      "mid-engine sports car layout",
+      "F1-derived road car technology",
+      "Italian supercar segment"
+    ],
+    "dimensions": [
+      {
+        "key": "racing_dna",
+        "label": "Racing DNA",
+        "score": 99,
+        "description": "F1 wins, Le Mans, Mille Miglia, every road car a homologation story",
+        "trend": "stable"
+      },
+      {
+        "key": "engine_character",
+        "label": "Engine Character",
+        "score": 98,
+        "description": "Naturally aspirated V8/V12 sound, the 9,000 rpm redline, now threatened by hybridisation and forced induction",
+        "trend": "decreasing"
+      },
+      {
+        "key": "mid_engine_mastery",
+        "label": "Mid-Engine Mastery",
+        "score": 97,
+        "description": "50 years of mid-engine V8 refinement, the most continuously developed sports car layout in history",
+        "trend": "stable"
+      },
+      {
+        "key": "italian_design",
+        "label": "Italian Design",
+        "score": 95,
+        "description": "Pininfarina, Sergio Pininfarina, Leonardo Fioravanti, Flavio Manzoni; beauty as engineering requirement",
+        "trend": "stable"
+      },
+      {
+        "key": "exclusivity",
+        "label": "Exclusivity & Mystique",
+        "score": 96,
+        "description": "Waitlists, allocation, no discounts, ~14,000 cars/year, most powerful luxury brand globally",
+        "trend": "stable"
+      },
+      {
+        "key": "technology_transfer",
+        "label": "F1 Technology Transfer",
+        "score": 91,
+        "description": "Carbon fibre from racing, paddle shifters, E-Diff, manettino, SF90 hybrid from F1 kinetic energy recovery",
+        "trend": "rising"
+      }
+    ],
+    "temporalEvolution": [
+      {
+        "year": 1962,
+        "score": 88,
+        "milestone": "250 GTO — greatest Ferrari of all time; Le Mans dominance",
+        "dimensionScores": {
+          "Racing DNA": 99,
+          "Engine Character": 97,
+          "Mid-Engine Mastery": 40,
+          "Italian Design": 92,
+          "Exclusivity & Mystique": 88,
+          "F1 Technology Transfer": 60
+        }
+      },
+      {
+        "year": 1969,
+        "score": 85,
+        "milestone": "Dino 246 GT — first mid-engine road Ferrari; V6 sub-brand",
+        "dimensionScores": {
+          "Racing DNA": 90,
+          "Engine Character": 88,
+          "Mid-Engine Mastery": 72,
+          "Italian Design": 95,
+          "Exclusivity & Mystique": 82,
+          "F1 Technology Transfer": 55
+        }
+      },
+      {
+        "year": 1975,
+        "score": 90,
+        "milestone": "308 GTB — mid-engine V8 formula established",
+        "dimensionScores": {
+          "Racing DNA": 93,
+          "Engine Character": 94,
+          "Mid-Engine Mastery": 85,
+          "Italian Design": 97,
+          "Exclusivity & Mystique": 85,
+          "F1 Technology Transfer": 62
+        }
+      },
+      {
+        "year": 1984,
+        "score": 92,
+        "milestone": "288 GTO + Testarossa — twin hypercar/GT strategy begins",
+        "dimensionScores": {
+          "Racing DNA": 96,
+          "Engine Character": 96,
+          "Mid-Engine Mastery": 86,
+          "Italian Design": 96,
+          "Exclusivity & Mystique": 90,
+          "F1 Technology Transfer": 70
+        }
+      },
+      {
+        "year": 1987,
+        "score": 95,
+        "milestone": "F40 — Enzo's last car; carbon fibre, raw performance ideal",
+        "dimensionScores": {
+          "Racing DNA": 99,
+          "Engine Character": 98,
+          "Mid-Engine Mastery": 87,
+          "Italian Design": 91,
+          "Exclusivity & Mystique": 98,
+          "F1 Technology Transfer": 82
+        }
+      },
+      {
+        "year": 1999,
+        "score": 91,
+        "milestone": "360 Modena aluminium chassis; F1 paddle shifts standard",
+        "dimensionScores": {
+          "Racing DNA": 95,
+          "Engine Character": 97,
+          "Mid-Engine Mastery": 94,
+          "Italian Design": 94,
+          "Exclusivity & Mystique": 93,
+          "F1 Technology Transfer": 86
+        }
+      },
+      {
+        "year": 2009,
+        "score": 94,
+        "milestone": "458 Italia — peak naturally aspirated V8; critical acclaim",
+        "dimensionScores": {
+          "Racing DNA": 97,
+          "Engine Character": 99,
+          "Mid-Engine Mastery": 98,
+          "Italian Design": 97,
+          "Exclusivity & Mystique": 95,
+          "F1 Technology Transfer": 90
+        }
+      },
+      {
+        "year": 2019,
+        "score": 93,
+        "milestone": "SF90 Stradale — 1,000hp hybrid; F1 tech transfer peak",
+        "dimensionScores": {
+          "Racing DNA": 98,
+          "Engine Character": 91,
+          "Mid-Engine Mastery": 97,
+          "Italian Design": 95,
+          "Exclusivity & Mystique": 96,
+          "F1 Technology Transfer": 97
+        }
+      },
+      {
+        "year": 2024,
+        "score": 96,
+        "milestone": "F80 hypercar; 296 GTB hybrid V6; Purosangue SUV era",
+        "dimensionScores": {
+          "Racing DNA": 99,
+          "Engine Character": 88,
+          "Mid-Engine Mastery": 97,
+          "Italian Design": 96,
+          "Exclusivity & Mystique": 97,
+          "F1 Technology Transfer": 98
+        }
+      }
+    ]
+  },
+  "analysis": {
+    "id": "analysis-ferrari-brand",
+    "entityType": "brand",
+    "entityId": "brand-ferrari",
+    "analysisType": "design_evolution",
+    "provider": "claude-3-5",
+    "headline": "The Prancing Horse Paradox: Ferrari's Struggle to Remain Ferrari in a Turbocharged World",
+    "summary": "Ferrari's identity is built on a 50-year mid-engine V8 lineage and a hypercar tradition descended directly from Enzo Ferrari's personal vision. The brand now navigates its most complex transformation: preserving the emotional core of the naturally aspirated era while embracing hybrid powertrains that deliver more performance but a fundamentally different character.",
+    "fullText": "The mid-engine V8 lineage beginning with the 308 GTB in 1975 is the longest continuous design thread in sports car history. From fibreglass body panels and a 255 hp carburetted V8, Ferrari has evolved the same fundamental brief — mid-mounted V8, rear-wheel drive, Pininfarina-influenced coupe — through nine generations across five decades. The F355 established the high-revving character, the 360 introduced the aluminium chassis, the F430 brought the E-Diff and manettino, the 458 reached the natural aspiration apex, the 488 introduced turbos, the F8 refined them, and the 296 GTB replaced the V8 with a hybrid V6. Each step was technically defensible; cumulatively, they represent a philosophical transformation.\n\nThe F40 occupies a unique position in automotive history as the last car Enzo Ferrari personally approved before his death in August 1988. It was built not to compete with the Porsche 959 (as is often claimed) but to remind Ferrari's own engineers what the brand stood for: no compromise, no comfort, no concession to convention. The F40's twin-turbo V8, zero sound insulation, and Kevlar-carbon bodywork were a statement of principle. When contemporary journalists complained it was too demanding, Enzo reportedly said that was the point. No subsequent Ferrari has been permitted to make that argument with the same authority.\n\nThe 458 Italia, launched in 2009, is widely considered the peak of the naturally aspirated era. Its 4.5-litre flat-plane V8 revved to 9,000 rpm, produced 570 hp, and created a sound that remained the reference for everything Ferrari subsequently built. When the 488 GTB replaced it in 2015 with turbos, the gain was 100 hp and significant torque — but the loss was the linear throttle response and the acoustic signature that had defined Ferrari since the 308. The turbo era delivered more performance data; it delivered less sensory truth.\n\nThe SF90 Stradale arrived in 2019 as the hybrid answer. Three electric motors, a twin-turbo V8, and 1,000 combined horsepower. More importantly, it demonstrated that Ferrari's F1 technology transfer — kinetic energy recovery, instant electric torque fill, multi-motor architecture — could be integrated into a road car without sacrificing the Ferrari character. The SF90 is genuinely fast, genuinely involving, and genuinely Ferrari. It resolved the anxiety about electrification by proving that hybrid power, when Ferrari controls the integration, preserves the identity rather than diluting it.\n\nThe Purosangue SUV, delivered from 2023, is Ferrari's most controversial product since Enzo's death. Purosangue means 'thoroughbred' in Italian — a name that either represents supreme confidence or supreme irony, depending on one's perspective. Ferrari has limited it to 20% of annual production, insisting it will not become a volume product. The V12 engine, four-seat configuration, and raised ride height are simultaneously the most un-Ferrari and most genuinely Ferrari things the company has ever built: un-Ferrari because no previous Ferrari had four doors and an SUV profile, genuinely Ferrari because the engineering refuses to apologise for what it is.",
+    "insights": [
+      {
+        "id": "insight-ferrari-1",
+        "category": "Mid-Engine V8 Lineage",
+        "text": "The 308-to-296 lineage represents the most continuously evolved sports car formula in history — 50 years of the same brief, answered nine times with progressively greater technical sophistication. The transition from naturally aspirated V8 to turbocharged V6 hybrid marks a genuine philosophical discontinuity, not merely an engineering update.",
+        "confidence": 0.97,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-ferrari-2",
+        "category": "The F40 Philosophy",
+        "text": "The F40 established a standard of engineering honesty — no features that add weight without adding performance — that Ferrari has cited repeatedly as its spiritual reference point. The paradox is that every subsequent Ferrari has been more comfortable, more electronically assisted, and more commercially accessible than the F40 intended its successors to be.",
+        "confidence": 0.96,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-ferrari-3",
+        "category": "Turbocharging and the Sound Question",
+        "text": "The transition from the 458 to the 488 in 2015 was commercially necessary and technically superior, but acoustically it was a loss. Ferrari has invested heavily in exhaust tuning, active sound management, and intake noise engineering to recover the emotional register of the naturally aspirated era — an acknowledgement that the sound was always part of the product.",
+        "confidence": 0.92,
+        "importance": "high"
+      },
+      {
+        "id": "insight-ferrari-4",
+        "category": "SF90 Hybrid — Racing DNA Preserved",
+        "text": "The SF90 Stradale proved that hybrid integration, when designed around the Ferrari character rather than against it, can preserve and even amplify the brand's core values. The instant electric torque fill eliminates the last remaining turbocharged compromise — lag — while the combined output creates a level of performance that naturally aspirated architecture could not approach.",
+        "confidence": 0.91,
+        "importance": "high"
+      },
+      {
+        "id": "insight-ferrari-5",
+        "category": "Purosangue — SUV or Statement?",
+        "text": "The Purosangue is Ferrari's acknowledgement that the SUV segment represents unavoidable commercial reality. Ferrari's response — V12, rear-biased AWD, production cap at 20% of annual volume, Purosangue name — is a studied attempt to enter the segment on Ferrari's terms rather than the market's. Whether it succeeds depends on whether customers accept Ferrari's definition of what an SUV should be.",
+        "confidence": 0.88,
+        "importance": "high"
+      }
+    ],
+    "confidenceScore": 0.94,
+    "processingTimeMs": 4500,
+    "isCached": true
+  },
+  "models": [
+    {
+      "id": "m-ferrari-296-gtb",
+      "slug": "ferrari-296-gtb",
+      "name": "296 GTB",
+      "fullName": "Ferrari 296 GTB",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2021,
+      "endYear": null,
+      "isActive": true,
+      "description": "Ferrari's current mid-engine sports car, combining a hybrid twin-turbo V6 with 830 hp total output. The spiritual successor to the 308 lineage.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2022_ferrari_296_gtb/images/1920x1080/2022_ferrari_296_gtb_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2022_ferrari_296_gtb/images/1920x1080/2022_ferrari_296_gtb_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "hybrid",
+        "mid-engine"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-sf90-stradale",
+      "slug": "ferrari-sf90-stradale",
+      "name": "SF90 Stradale",
+      "fullName": "Ferrari SF90 Stradale",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2019,
+      "endYear": null,
+      "isActive": true,
+      "description": "Ferrari's 1,000 hp hybrid hypercar, applying F1 kinetic energy recovery technology to a road car for the first time at this level.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2020_ferrari_sf90_stradale/images/1920x1080/2020_ferrari_sf90_stradale_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2020_ferrari_sf90_stradale/images/1920x1080/2020_ferrari_sf90_stradale_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "hybrid",
+        "hypercar"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-488-gtb",
+      "slug": "ferrari-488-gtb",
+      "name": "488 GTB",
+      "fullName": "Ferrari 488 GTB",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2015,
+      "endYear": 2019,
+      "isActive": false,
+      "description": "The first turbocharged Ferrari mid-engine sports car, succeeding the 458 Italia with 660 hp from a 3.9-litre twin-turbo V8.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2016_ferrari_488_gtb/images/1920x1080/2016_ferrari_488_gtb_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2016_ferrari_488_gtb/images/1920x1080/2016_ferrari_488_gtb_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "turbo",
+        "mid-engine"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-458-italia",
+      "slug": "ferrari-458-italia",
+      "name": "458 Italia",
+      "fullName": "Ferrari 458 Italia",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2009,
+      "endYear": 2015,
+      "isActive": false,
+      "description": "Widely regarded as the peak naturally aspirated Ferrari. Its 570 hp 4.5-litre V8 at 9,000 rpm set the benchmark for the modern sports car era.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2009_ferrari_458_italia/images/1920x1080/2009_ferrari_458_italia_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2009_ferrari_458_italia/images/1920x1080/2009_ferrari_458_italia_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "naturally-aspirated",
+        "mid-engine"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-f8-tributo",
+      "slug": "ferrari-f8-tributo",
+      "name": "F8 Tributo",
+      "fullName": "Ferrari F8 Tributo",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2019,
+      "endYear": 2023,
+      "isActive": false,
+      "description": "The F8 Tributo refined the 488 turbocharged formula with improved aerodynamics and enhanced throttle response, serving as the final iteration before hybrid powertrains.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2020_ferrari_f8_tributo/images/1920x1080/2020_ferrari_f8_tributo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2020_ferrari_f8_tributo/images/1920x1080/2020_ferrari_f8_tributo_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "turbo",
+        "mid-engine"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-812-superfast",
+      "slug": "ferrari-812-superfast",
+      "name": "812 Superfast",
+      "fullName": "Ferrari 812 Superfast",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2017,
+      "endYear": 2022,
+      "isActive": false,
+      "description": "Ferrari's 800 hp front-engine V12 grand tourer, the most powerful naturally aspirated road car Ferrari has produced to date.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2018_ferrari_812_superfast/images/1920x1080/2018_ferrari_812_superfast_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2018_ferrari_812_superfast/images/1920x1080/2018_ferrari_812_superfast_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "v12",
+        "front-engine",
+        "gt"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-laferrari",
+      "slug": "ferrari-laferrari",
+      "name": "LaFerrari",
+      "fullName": "Ferrari LaFerrari",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2013,
+      "endYear": 2016,
+      "isActive": false,
+      "description": "Ferrari's first production hybrid hypercar, combining a 789 hp V12 with a 163 hp KERS system for a combined 963 hp. Only 499 were produced.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2014_laferrari/images/1920x1080/2014_laferrari_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2014_laferrari/images/1920x1080/2014_laferrari_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "hypercar",
+        "hybrid",
+        "v12"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-purosangue",
+      "slug": "ferrari-purosangue",
+      "name": "Purosangue",
+      "fullName": "Ferrari Purosangue",
+      "brandId": "brand-ferrari",
+      "bodyType": "suv",
+      "segment": "suv",
+      "primaryMarket": "global",
+      "startYear": 2022,
+      "endYear": null,
+      "isActive": true,
+      "description": "Ferrari's first SUV, powered by a naturally aspirated V12, limited to 20% of annual production as Ferrari insists on maintaining supercar identity.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2023_ferrari_purosangue/images/1920x1080/2023_ferrari_purosangue_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2023_ferrari_purosangue/images/1920x1080/2023_ferrari_purosangue_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "ferrari",
+        "v12",
+        "awd"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-roma",
+      "slug": "ferrari-roma",
+      "name": "Roma",
+      "fullName": "Ferrari Roma",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2019,
+      "endYear": null,
+      "isActive": true,
+      "description": "Ferrari Roma is the elegant front-engine GT coupe reinterpreting the carefree Roman la dolce vita of the 1950s and 1960s in a modern key.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2020_ferrari_roma/images/1920x1080/2020_ferrari_roma_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2020_ferrari_roma/images/1920x1080/2020_ferrari_roma_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "front-engine",
+        "gt"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-portofino",
+      "slug": "ferrari-portofino",
+      "name": "Portofino",
+      "fullName": "Ferrari Portofino",
+      "brandId": "brand-ferrari",
+      "bodyType": "convertible",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2017,
+      "endYear": 2023,
+      "isActive": false,
+      "description": "The Ferrari Portofino is the successor to the California T, offering a retractable hardtop convertible with a 600 hp twin-turbo V8 as Ferrari's entry GT.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2018_ferrari_portofino/images/1920x1080/2018_ferrari_portofino_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2018_ferrari_portofino/images/1920x1080/2018_ferrari_portofino_1_1920x1080.jpg",
+      "tags": [
+        "convertible",
+        "ferrari",
+        "front-engine",
+        "gt"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-california",
+      "slug": "ferrari-california",
+      "name": "California",
+      "fullName": "Ferrari California",
+      "brandId": "brand-ferrari",
+      "bodyType": "convertible",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2008,
+      "endYear": 2017,
+      "isActive": false,
+      "description": "Ferrari California introduced a new entry-level grand touring segment for Ferrari with a front-engine V8 and retractable hardtop, attracting a new customer demographic.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2009_ferrari_california/images/1920x1080/2009_ferrari_california_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2009_ferrari_california/images/1920x1080/2009_ferrari_california_1_1920x1080.jpg",
+      "tags": [
+        "convertible",
+        "ferrari",
+        "front-engine",
+        "gt"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-f12berlinetta",
+      "slug": "ferrari-f12berlinetta",
+      "name": "F12 Berlinetta",
+      "fullName": "Ferrari F12 Berlinetta",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2012,
+      "endYear": 2017,
+      "isActive": false,
+      "description": "The F12 Berlinetta combined the most powerful Ferrari road car V12 of its time (740 hp) with the most aerodynamically sophisticated front-engine GT body Ferrari had designed.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2013_ferrari_f12berlinetta/images/1920x1080/2013_ferrari_f12berlinetta_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2013_ferrari_f12berlinetta/images/1920x1080/2013_ferrari_f12berlinetta_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "v12",
+        "front-engine",
+        "gt"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-gtc4l",
+      "slug": "ferrari-gtc4l",
+      "name": "GTC4Lusso",
+      "fullName": "Ferrari GTC4Lusso",
+      "brandId": "brand-ferrari",
+      "bodyType": "fastback",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2016,
+      "endYear": 2020,
+      "isActive": false,
+      "description": "The GTC4Lusso succeeded the FF as Ferrari's four-seat shooting brake, available in V12 or V8T configurations, combining supercar performance with genuine 2+2 practicality.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2017_ferrari_gtc4lusso_t/images/1920x1080/2017_ferrari_gtc4lusso_t_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2017_ferrari_gtc4lusso_t/images/1920x1080/2017_ferrari_gtc4lusso_t_1_1920x1080.jpg",
+      "tags": [
+        "fastback",
+        "ferrari",
+        "v12",
+        "awd",
+        "4-seat"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-ff",
+      "slug": "ferrari-ff",
+      "name": "FF",
+      "fullName": "Ferrari FF",
+      "brandId": "brand-ferrari",
+      "bodyType": "fastback",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2011,
+      "endYear": 2016,
+      "isActive": false,
+      "description": "Ferrari FF (Ferrari Four) was Ferrari's first four-wheel-drive car and first shooting brake, with a V12 engine and seating for four adults.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/f/ferrari/2012_ferrari_ff/images/1920x1080/2012_ferrari_ff_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ferrari/2012_ferrari_ff/images/1920x1080/2012_ferrari_ff_1_1920x1080.jpg",
+      "tags": [
+        "fastback",
+        "ferrari",
+        "v12",
+        "awd",
+        "4-seat"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-288-gto",
+      "slug": "ferrari-288-gto",
+      "name": "288 GTO",
+      "fullName": "Ferrari 288 GTO",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1984,
+      "endYear": 1985,
+      "isActive": false,
+      "description": "Ferrari's first 300 km/h road car, built for Group B homologation with a turbocharged 2.8-litre V8. Direct ancestor of the F40.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "hypercar",
+        "group-b",
+        "turbo",
+        "classic"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-f40",
+      "slug": "ferrari-f40",
+      "name": "F40",
+      "fullName": "Ferrari F40",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1987,
+      "endYear": 1992,
+      "isActive": false,
+      "description": "Enzo Ferrari's last personal project and the purest expression of Ferrari's racing philosophy. No compromises. 1,315 produced.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "hypercar",
+        "turbo",
+        "carbon-fibre",
+        "classic"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-f50",
+      "slug": "ferrari-f50",
+      "name": "F50",
+      "fullName": "Ferrari F50",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1995,
+      "endYear": 1997,
+      "isActive": false,
+      "description": "The F50 used a detuned 1990 F1 engine mounted as a stressed chassis member. Ferrari's most direct F1-to-road-car translation. 349 produced.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "hypercar",
+        "v12",
+        "f1-derived",
+        "classic"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-enzo",
+      "slug": "ferrari-enzo",
+      "name": "Enzo",
+      "fullName": "Ferrari Enzo",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2002,
+      "endYear": 2004,
+      "isActive": false,
+      "description": "660 hp V12, F1-derived active aerodynamics and F1-Trac traction control. 399 produced. Its chassis underpinned the Maserati MC12 racing car.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "hypercar",
+        "v12",
+        "carbon-fibre"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-daytona-365",
+      "slug": "ferrari-daytona-365",
+      "name": "365 GTB/4 Daytona",
+      "fullName": "Ferrari 365 GTB/4 Daytona",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1968,
+      "endYear": 1973,
+      "isActive": false,
+      "description": "Ferrari's definitive front-engine GT of the classic era. Pininfarina design by Leonardo Fioravanti. 280 km/h top speed with a 4.4-litre V12.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "v12",
+        "front-engine",
+        "gt",
+        "classic"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-ferrari-dino-246",
+      "slug": "ferrari-dino-246",
+      "name": "Dino 246 GT",
+      "fullName": "Ferrari Dino 246 GT",
+      "brandId": "brand-ferrari",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 1969,
+      "endYear": 1974,
+      "isActive": false,
+      "description": "Ferrari's first mid-engine road car, sold under the Dino sub-brand. Its V6 and Pininfarina styling established the mid-engine sports car formula Ferrari would refine for 50 years.",
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "coupe",
+        "ferrari",
+        "dino",
+        "mid-engine",
+        "v6",
+        "classic"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "latestCars": [
+    {
+      "id": "ncs-ferrari-2027-luce",
+      "name": "Ferrari Luce",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Ferrari-Luce-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/ferrari/2027-luce/",
+      "description": "Ferrari Luce is the first electric Ferrari from the Maranello marque. Its design was approached in an unconventional way, intended to underline its uniqueness...",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-ferrari-2026-hc25",
+      "name": "Ferrari HC25",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Ferrari-HC25-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/ferrari/2026-hc25/",
+      "description": "Ferrari HC25 is characterised by a strong graphic identity: the dual-volume structure creates an interplay in which the front and rear appear as two distinct bodies...",
+      "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-ferrari-2013-sergio_concept",
+      "name": "Ferrari Sergio Concept",
+      "year": 2013,
+      "imageUrl": "https://www.netcarshow.com/Ferrari-Sergio_Concept-2013-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/ferrari/2013-sergio_concept/",
+      "description": "Pininfarina is presenting a concept car that renews the spirit and values of the extraordinary achievements obtained under the leadership of Sergio...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    }
+  ]
+}

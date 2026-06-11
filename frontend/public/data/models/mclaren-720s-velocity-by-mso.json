@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-720s-velocity-by-mso",
+  "slug": "mclaren-720s-velocity-by-mso",
+  "name": "720S Velocity by MSO",
+  "fullName": "McLaren 720S Velocity by MSO",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "endYear": 2018,
+  "isActive": false,
+  "description": "McLaren 720S Velocity by MSO — sedan, produced since 2018.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s_velocity/images/1920x1080/2018_mclaren_720s_velocity_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s_velocity/images/1920x1080/2018_mclaren_720s_velocity_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-720s-velocity-by-mso-2018-0",
+      "slug": "mclaren-720s-velocity-by-mso-2018-0",
+      "modelId": "m-mclaren-720s-velocity-by-mso",
+      "brandId": "brand-mclaren",
+      "codeName": "2018",
+      "generationNumber": 1,
+      "startYear": 2018,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2018 McLaren 720S Velocity by MSO",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s_velocity/images/1920x1080/2018_mclaren_720s_velocity_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s_velocity/images/1920x1080/2018_mclaren_720s_velocity_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-720s-velocity-by-mso-2018-0",
+          "generationId": "gen-mclaren-720s-velocity-by-mso-2018-0",
+          "url": "https://images.caricos.com/m/mclaren/2018_mclaren_720s_velocity/images/1920x1080/2018_mclaren_720s_velocity_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_720s_velocity/images/1920x1080/2018_mclaren_720s_velocity_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2018,
+          "altText": "2018 McLaren 720S Velocity by MSO",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2018"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

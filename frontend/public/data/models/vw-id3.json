@@ -1,0 +1,51 @@
+{
+  "id": "m-vw-id3",
+  "slug": "vw-id3",
+  "name": "ID.3",
+  "fullName": "Volkswagen ID.3",
+  "brandId": "brand-volkswagen",
+  "bodyType": "hatchback",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Volkswagen ID.3 (2019-present) is the first purpose-built MEB-platform electric car, intended to do for electric vehicles what the original Golf did for hatchbacks.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "hatchback",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-vw-id3-1",
+      "slug": "vw-id3-gen1",
+      "modelId": "m-vw-id3",
+      "brandId": "brand-volkswagen",
+      "codeName": "ID.3",
+      "generationNumber": 1,
+      "startYear": 2019,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Volkswagen ID.3 (2019-present) is the first purpose-built MEB-platform electric car, intended to do for electric vehicles what the original Golf did for hatchbacks.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "m-bmw-activehybrid-5",
+  "slug": "bmw-activehybrid-5",
+  "name": "ActiveHybrid 5",
+  "fullName": "BMW ActiveHybrid 5",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW ActiveHybrid 5 — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_5-series_activehybrid_5/images/1920x1080/2014_bmw_5-series_activehybrid_5_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2014_bmw_5-series_activehybrid_5/images/1920x1080/2014_bmw_5-series_activehybrid_5_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-activehybrid-5-2020-0",
+      "slug": "bmw-activehybrid-5-2020-0",
+      "modelId": "m-bmw-activehybrid-5",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW ActiveHybrid 5 | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_5-series_activehybrid_5/images/1920x1080/2014_bmw_5-series_activehybrid_5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2014_bmw_5-series_activehybrid_5/images/1920x1080/2014_bmw_5-series_activehybrid_5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-activehybrid-5-2020-0",
+          "generationId": "gen-bmw-activehybrid-5-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2014_bmw_5-series_activehybrid_5/images/1920x1080/2014_bmw_5-series_activehybrid_5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_5-series_activehybrid_5/images/1920x1080/2014_bmw_5-series_activehybrid_5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW ActiveHybrid 5 | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-activehybrid-5-2020-1",
+      "slug": "bmw-activehybrid-5-2020-1",
+      "modelId": "m-bmw-activehybrid-5",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW ActiveHybrid 5 | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2013_bmw_activehybrid_5/images/1920x1080/2013_bmw_activehybrid_5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2013_bmw_activehybrid_5/images/1920x1080/2013_bmw_activehybrid_5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-activehybrid-5-2020-1",
+          "generationId": "gen-bmw-activehybrid-5-2020-1",
+          "url": "https://images.caricos.com/b/bmw/2013_bmw_activehybrid_5/images/1920x1080/2013_bmw_activehybrid_5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2013_bmw_activehybrid_5/images/1920x1080/2013_bmw_activehybrid_5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW ActiveHybrid 5 | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-activehybrid-5-2020-2",
+      "slug": "bmw-activehybrid-5-2020-2",
+      "modelId": "m-bmw-activehybrid-5",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW ActiveHybrid 5 | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_activehybrid_5/images/1920x1080/2012_bmw_activehybrid_5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2012_bmw_activehybrid_5/images/1920x1080/2012_bmw_activehybrid_5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-activehybrid-5-2020-2",
+          "generationId": "gen-bmw-activehybrid-5-2020-2",
+          "url": "https://images.caricos.com/b/bmw/2012_bmw_activehybrid_5/images/1920x1080/2012_bmw_activehybrid_5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_activehybrid_5/images/1920x1080/2012_bmw_activehybrid_5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW ActiveHybrid 5 | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "m-lamborghini-countach",
+  "slug": "lamborghini-countach",
+  "name": "Countach",
+  "fullName": "Lamborghini Countach",
+  "brandId": "brand-lamborghini",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1974,
+  "endYear": 1990,
+  "isActive": false,
+  "description": "The Lamborghini Countach (1974–1990), designed by Marcello Gandini at Bertone, is the most influential supercar design in history. Its scissor doors, wedge body, and enormous rear wing defined the supercar silhouette for two decades. The name is a Piedmontese exclamation of astonishment.",
+  "generationCount": 5,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/lamborghini_countach/images/1920x1080/lamborghini_countach_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/lamborghini_countach/images/1920x1080/lamborghini_countach_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "lamborghini",
+    "v12",
+    "scissor-doors",
+    "gandini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-countach-1",
+      "slug": "lamborghini-countach-gen1",
+      "modelId": "m-lamborghini-countach",
+      "brandId": "brand-lamborghini",
+      "codeName": "LP400",
+      "generationNumber": 1,
+      "startYear": 1974,
+      "endYear": 1990,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Lamborghini Countach (1974–1990), designed by Marcello Gandini at Bertone, is the most influential supercar design in history. Its scissor doors, wedge body, and enormous rear wing defined the supercar silhouette for two decades. The name is a Piedmontese exclamation of astonishment.",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/lamborghini_countach/images/1920x1080/lamborghini_countach_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/lamborghini_countach/images/1920x1080/lamborghini_countach_1_1920x1080.jpg",
+      "images": []
+    }
+  ]
+}

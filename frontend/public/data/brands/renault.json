@@ -1,0 +1,259 @@
+{
+  "id": "brand-renault",
+  "slug": "renault",
+  "name": "Renault",
+  "fullName": "Renault",
+  "country": "France",
+  "countryCode": "FR",
+  "foundingYear": 1899,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "",
+  "description": "Renault is a France automobile manufacturer founded in 1899.",
+  "parentCompany": null,
+  "headquarters": "Boulogne-Billancourt, France",
+  "modelCount": 7,
+  "generationCount": 18,
+  "tags": [
+    "france",
+    "automotive"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "models": [
+    {
+      "id": "m-renault-alpine-a110-tour",
+      "slug": "renault-alpine-a110-tour",
+      "name": "Alpine A110 Tour",
+      "fullName": "Renault Alpine A110 Tour",
+      "brandId": "brand-renault",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Renault Alpine A110 Tour — sedan, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_tour_de_corse_75/images/1920x1080/2022_alpine_a110_tour_de_corse_75_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_tour_de_corse_75/images/1920x1080/2022_alpine_a110_tour_de_corse_75_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "renault"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-renault-alpine-a110-e-ternit-concept",
+      "slug": "renault-alpine-a110-e-ternit-concept",
+      "name": "Alpine A110 E-ternité Concept",
+      "fullName": "Renault Alpine A110 E-ternité Concept",
+      "brandId": "brand-renault",
+      "bodyType": "concept",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Renault Alpine A110 E-ternité Concept — concept, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_e-ternite/images/1920x1080/2022_alpine_a110_e-ternite_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2022_alpine_a110_e-ternite/images/1920x1080/2022_alpine_a110_e-ternite_1_1920x1080.jpg",
+      "tags": [
+        "concept",
+        "renault"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-renault-ren",
+      "slug": "renault-ren",
+      "name": "Ren",
+      "fullName": "Renault Ren",
+      "brandId": "brand-renault",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Renault Ren — sedan, produced since 2020.",
+      "generationCount": 53,
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_zoe/images/1920x1080/2020_renault_zoe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2020_renault_zoe/images/1920x1080/2020_renault_zoe_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "renault"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-renault-alpine-a110s",
+      "slug": "renault-alpine-a110s",
+      "name": "Alpine A110S",
+      "fullName": "Renault Alpine A110S",
+      "brandId": "brand-renault",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Renault Alpine A110S — sedan, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2020_alpine_a110s/images/1920x1080/2020_alpine_a110s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2020_alpine_a110s/images/1920x1080/2020_alpine_a110s_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "renault"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-renault-alpine-a110-sportsx-concept",
+      "slug": "renault-alpine-a110-sportsx-concept",
+      "name": "Alpine A110 SportsX Concept",
+      "fullName": "Renault Alpine A110 SportsX Concept",
+      "brandId": "brand-renault",
+      "bodyType": "concept",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Renault Alpine A110 SportsX Concept — concept, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2020_alpine_a110_sportsx/images/1920x1080/2020_alpine_a110_sportsx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2020_alpine_a110_sportsx/images/1920x1080/2020_alpine_a110_sportsx_1_1920x1080.jpg",
+      "tags": [
+        "concept",
+        "renault"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-renault-alpine-110-premi-re-edition",
+      "slug": "renault-alpine-110-premi-re-edition",
+      "name": "Alpine 110 Première Edition",
+      "fullName": "Renault Alpine 110 Première Edition",
+      "brandId": "brand-renault",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Renault Alpine 110 Première Edition — sedan, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2018_alpine_110/images/1920x1080/2018_alpine_110_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2018_alpine_110/images/1920x1080/2018_alpine_110_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "renault"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-renault-alpine-vision-concept",
+      "slug": "renault-alpine-vision-concept",
+      "name": "Alpine Vision Concept",
+      "fullName": "Renault Alpine Vision Concept",
+      "brandId": "brand-renault",
+      "bodyType": "concept",
+      "segment": "midsize",
+      "primaryMarket": "global",
+      "startYear": 2020,
+      "endYear": null,
+      "isActive": true,
+      "description": "Renault Alpine Vision Concept — concept, produced since 2020.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2016_alpine_vision/images/1920x1080/2016_alpine_vision_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2016_alpine_vision/images/1920x1080/2016_alpine_vision_1_1920x1080.jpg",
+      "tags": [
+        "concept",
+        "renault"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "latestCars": [
+    {
+      "id": "ncs-renault-2026-r-space_lab_concept",
+      "name": "Renault R-Space Lab Concept",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Renault-R-Space_Lab_Concept-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/renault/2026-r-space_lab_concept/",
+      "description": "A one-box vehicle, 4.5m long and 1.5m tall, Renault R-Space Lab combines flowing lines with generous interior space. The advanced openR panorama screen frees up space at the front.",
+      "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-renault-2026-4_e-tech_plein_sud",
+      "name": "Renault 4 E-Tech Plein Sud",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Renault-4_E-Tech_Plein_Sud-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/renault/2026-4_e-tech_plein_sud/",
+      "description": "The canvas roof Renault 4 E-Tech electric Plein Sud has an opening 92 cm long and 80 cm wide. These class-best dimensions in open-top A and B segments ensure that...",
+      "scrapedAt": "2026-06-10T03:06:57.329Z"
+    },
+    {
+      "id": "ncs-renault-2016-trezor_concept",
+      "name": "Renault Trezor Concept",
+      "year": 2016,
+      "imageUrl": "https://www.netcarshow.com/Renault-Trezor_Concept-2016-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/renault/2016-trezor_concept/",
+      "description": "At the 2016 Paris Motor Show, Renault has unveiled Trezor - an all-electric Grand Tourer concept car that blends Renault's warm, simple and sensual lines...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-renault-2014-eolab_concept",
+      "name": "Renault Eolab Concept",
+      "year": 2014,
+      "imageUrl": "https://www.netcarshow.com/Renault-Eolab_Concept-2014-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/renault/2014-eolab_concept/",
+      "description": "Renault presents EOLAB, a new prototype which explores ways to deliver ultra-low fuel consumption. It boasts NEDC combined cycle consumption of 1...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-renault-2011-captur_concept",
+      "name": "Renault Captur Concept",
+      "year": 2011,
+      "imageUrl": "https://www.netcarshow.com/Renault-Captur_Concept-2011-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/renault/2011-captur_concept/",
+      "description": "At the 2009 Frankfurt Motor Show, Renault revealed its new brand identity which puts people at the forefront of its concerns. The new and ambitious design...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-renault-2008-megane_coupe_concept",
+      "name": "Renault Megane Coupe Concept",
+      "year": 2008,
+      "imageUrl": "https://www.netcarshow.com/Renault-Megane_Coupe_Concept-2008-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/renault/2008-megane_coupe_concept/",
+      "description": "Renault has chosen the Geneva Motor Show to take the wraps off its M&eacute;gane Coup&eacute; Concept show car which foreshadows a compact production coupe...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "ncs-renault-2006-altica_concept",
+      "name": "Renault Altica Concept",
+      "year": 2006,
+      "imageUrl": "https://www.netcarshow.com/Renault-Altica_Concept-2006-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/renault/2006-altica_concept/",
+      "description": "Renault has taken the wraps off its new concept car, Altica, a sporty estate that combines flowing lines with a spacious interior. Its dynamic stance is...",
+      "scrapedAt": "2026-06-05T07:31:49.540Z"
+    }
+  ]
+}

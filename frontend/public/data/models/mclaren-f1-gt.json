@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-f1-gt",
+  "slug": "mclaren-f1-gt",
+  "name": "F1 GT",
+  "fullName": "McLaren F1 GT",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "endYear": 1997,
+  "isActive": false,
+  "description": "McLaren F1 GT — sedan, produced since 1997.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/1997_mclaren_f1_gt/images/1920x1080/1997_mclaren_f1_gt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/1997_mclaren_f1_gt/images/1920x1080/1997_mclaren_f1_gt_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-f1-gt-1997-0",
+      "slug": "mclaren-f1-gt-1997-0",
+      "modelId": "m-mclaren-f1-gt",
+      "brandId": "brand-mclaren",
+      "codeName": "1997",
+      "generationNumber": 1,
+      "startYear": 1997,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "1997 McLaren F1 GT",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/1997_mclaren_f1_gt/images/1920x1080/1997_mclaren_f1_gt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/1997_mclaren_f1_gt/images/1920x1080/1997_mclaren_f1_gt_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-f1-gt-1997-0",
+          "generationId": "gen-mclaren-f1-gt-1997-0",
+          "url": "https://images.caricos.com/m/mclaren/1997_mclaren_f1_gt/images/1920x1080/1997_mclaren_f1_gt_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/1997_mclaren_f1_gt/images/1920x1080/1997_mclaren_f1_gt_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 1997,
+          "altText": "1997 McLaren F1 GT",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "1997"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

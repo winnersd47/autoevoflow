@@ -1,0 +1,26 @@
+{
+  "id": "ncs-genesis-genesis-x-skorpio-concept",
+  "slug": "genesis-genesis-x-skorpio-concept",
+  "name": "Genesis X Skorpio Concept",
+  "fullName": "2026 Genesis X Skorpio Concept",
+  "brandId": "genesis",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Genesis X Skorpio Concept is an extreme off-road recreational vehicle that celebrates the depth and emotional range of the Genesis brand.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Genesis-X_Skorpio_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Genesis-X_Skorpio_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/genesis/2026-x_skorpio_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.723Z",
+  "updatedAt": "2026-06-05T07:36:26.723Z"
+}

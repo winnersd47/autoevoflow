@@ -1,0 +1,26 @@
+{
+  "id": "ncs-honda-honda-0-suv-concept",
+  "slug": "honda-honda-0-suv-concept",
+  "name": "Honda 0 SUV Concept",
+  "fullName": "2025 Honda 0 SUV Concept",
+  "brandId": "honda",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Alongside the wide variety of next-generation technologies, the Honda 0 SUV will apply high-precision attitude estimation and stabilization control.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Honda-0_SUV_Concept-2025-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Honda-0_SUV_Concept-2025-thb.jpg",
+  "tags": [
+    "new",
+    "2025"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/honda/2025-0_suv_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.746Z",
+  "updatedAt": "2026-06-05T07:36:26.746Z"
+}

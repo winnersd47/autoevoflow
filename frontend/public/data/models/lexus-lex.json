@@ -1,0 +1,624 @@
+{
+  "id": "m-lexus-lex",
+  "slug": "lexus-lex",
+  "name": "LEX",
+  "fullName": "Lexus LEX",
+  "brandId": "brand-lexus",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lexus LEX — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lexus/2026_lexus_ux_300h/images/1920x1080/2026_lexus_ux_300h_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lexus/2026_lexus_ux_300h/images/1920x1080/2026_lexus_ux_300h_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lexus"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lexus-lex-2020-0",
+      "slug": "lexus-lex-2020-0",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus TZ | 2027MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2027_lexus_tz/images/1920x1080/2027_lexus_tz_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2027_lexus_tz/images/1920x1080/2027_lexus_tz_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-0",
+          "generationId": "gen-lexus-lex-2020-0",
+          "url": "https://images.caricos.com/l/lexus/2027_lexus_tz/images/1920x1080/2027_lexus_tz_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2027_lexus_tz/images/1920x1080/2027_lexus_tz_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus TZ | 2027MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-1",
+      "slug": "lexus-lex-2020-1",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus IS | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2026_lexus_is/images/1920x1080/2026_lexus_is_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2026_lexus_is/images/1920x1080/2026_lexus_is_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-1",
+          "generationId": "gen-lexus-lex-2020-1",
+          "url": "https://images.caricos.com/l/lexus/2026_lexus_is/images/1920x1080/2026_lexus_is_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2026_lexus_is/images/1920x1080/2026_lexus_is_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus IS | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-2",
+      "slug": "lexus-lex-2020-2",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus ES | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2026_lexus_es/images/1920x1080/2026_lexus_es_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2026_lexus_es/images/1920x1080/2026_lexus_es_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-2",
+          "generationId": "gen-lexus-lex-2020-2",
+          "url": "https://images.caricos.com/l/lexus/2026_lexus_es/images/1920x1080/2026_lexus_es_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2026_lexus_es/images/1920x1080/2026_lexus_es_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus ES | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-3",
+      "slug": "lexus-lex-2020-3",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus TX | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_tx/images/1920x1080/2025_lexus_tx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2025_lexus_tx/images/1920x1080/2025_lexus_tx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-3",
+          "generationId": "gen-lexus-lex-2020-3",
+          "url": "https://images.caricos.com/l/lexus/2025_lexus_tx/images/1920x1080/2025_lexus_tx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_tx/images/1920x1080/2025_lexus_tx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus TX | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-4",
+      "slug": "lexus-lex-2020-4",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus Sport Concept | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_sport_concept/images/1920x1080/2025_lexus_sport_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2025_lexus_sport_concept/images/1920x1080/2025_lexus_sport_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-4",
+          "generationId": "gen-lexus-lex-2020-4",
+          "url": "https://images.caricos.com/l/lexus/2025_lexus_sport_concept/images/1920x1080/2025_lexus_sport_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_sport_concept/images/1920x1080/2025_lexus_sport_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus Sport Concept | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-5",
+      "slug": "lexus-lex-2020-5",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus RZ | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_rz/images/1920x1080/2025_lexus_rz_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2025_lexus_rz/images/1920x1080/2025_lexus_rz_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-5",
+          "generationId": "gen-lexus-lex-2020-5",
+          "url": "https://images.caricos.com/l/lexus/2025_lexus_rz/images/1920x1080/2025_lexus_rz_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_rz/images/1920x1080/2025_lexus_rz_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus RZ | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-6",
+      "slug": "lexus-lex-2020-6",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus RX 500h F SPORT Performance Black Line Special Edition | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_rx_500h_f_sport_performance_black_line_special_edition/images/1920x1080/2025_lexus_rx_500h_f_sport_performance_black_line_special_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2025_lexus_rx_500h_f_sport_performance_black_line_special_edition/images/1920x1080/2025_lexus_rx_500h_f_sport_performance_black_line_special_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-6",
+          "generationId": "gen-lexus-lex-2020-6",
+          "url": "https://images.caricos.com/l/lexus/2025_lexus_rx_500h_f_sport_performance_black_line_special_edition/images/1920x1080/2025_lexus_rx_500h_f_sport_performance_black_line_special_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_rx_500h_f_sport_performance_black_line_special_edition/images/1920x1080/2025_lexus_rx_500h_f_sport_performance_black_line_special_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus RX 500h F SPORT Performance Black Line Special Edition | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-7",
+      "slug": "lexus-lex-2020-7",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus RC F Final Edition | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_rc_f_final_edition/images/1920x1080/2025_lexus_rc_f_final_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2025_lexus_rc_f_final_edition/images/1920x1080/2025_lexus_rc_f_final_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-7",
+          "generationId": "gen-lexus-lex-2020-7",
+          "url": "https://images.caricos.com/l/lexus/2025_lexus_rc_f_final_edition/images/1920x1080/2025_lexus_rc_f_final_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_rc_f_final_edition/images/1920x1080/2025_lexus_rc_f_final_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus RC F Final Edition | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-8",
+      "slug": "lexus-lex-2020-8",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 9,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus NX Overtrail | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_nx_overtrail/images/1920x1080/2025_lexus_nx_overtrail_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2025_lexus_nx_overtrail/images/1920x1080/2025_lexus_nx_overtrail_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-8",
+          "generationId": "gen-lexus-lex-2020-8",
+          "url": "https://images.caricos.com/l/lexus/2025_lexus_nx_overtrail/images/1920x1080/2025_lexus_nx_overtrail_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_nx_overtrail/images/1920x1080/2025_lexus_nx_overtrail_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus NX Overtrail | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-9",
+      "slug": "lexus-lex-2020-9",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 10,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus LX 700h | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_lx_700h/images/1920x1080/2025_lexus_lx_700h_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2025_lexus_lx_700h/images/1920x1080/2025_lexus_lx_700h_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-9",
+          "generationId": "gen-lexus-lex-2020-9",
+          "url": "https://images.caricos.com/l/lexus/2025_lexus_lx_700h/images/1920x1080/2025_lexus_lx_700h_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_lx_700h/images/1920x1080/2025_lexus_lx_700h_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus LX 700h | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-10",
+      "slug": "lexus-lex-2020-10",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 11,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus LBX | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_lbx/images/1920x1080/2025_lexus_lbx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2025_lexus_lbx/images/1920x1080/2025_lexus_lbx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-10",
+          "generationId": "gen-lexus-lex-2020-10",
+          "url": "https://images.caricos.com/l/lexus/2025_lexus_lbx/images/1920x1080/2025_lexus_lbx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2025_lexus_lbx/images/1920x1080/2025_lexus_lbx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus LBX | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-11",
+      "slug": "lexus-lex-2020-11",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 12,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lexus TX | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2024_lexus_tx/images/1920x1080/2024_lexus_tx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2024_lexus_tx/images/1920x1080/2024_lexus_tx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-11",
+          "generationId": "gen-lexus-lex-2020-11",
+          "url": "https://images.caricos.com/l/lexus/2024_lexus_tx/images/1920x1080/2024_lexus_tx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2024_lexus_tx/images/1920x1080/2024_lexus_tx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lexus TX | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-lexus-lex-2020-0",
+      "slug": "lexus-lex-2020-0",
+      "modelId": "m-lexus-lex",
+      "brandId": "brand-lexus",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "LEXUS UX 300h | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lexus/2026_lexus_ux_300h/images/1920x1080/2026_lexus_ux_300h_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lexus/2026_lexus_ux_300h/images/1920x1080/2026_lexus_ux_300h_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lexus-lex-2020-0",
+          "generationId": "gen-lexus-lex-2020-0",
+          "url": "https://images.caricos.com/l/lexus/2026_lexus_ux_300h/images/1920x1080/2026_lexus_ux_300h_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lexus/2026_lexus_ux_300h/images/1920x1080/2026_lexus_ux_300h_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "LEXUS UX 300h | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

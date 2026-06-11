@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-mx-30",
+  "slug": "mazda-mx-30",
+  "name": "MX-30",
+  "fullName": "Mazda MX-30",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": 2021,
+  "isActive": false,
+  "description": "Mazda MX-30 — sedan, produced since 2021.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2021_mazda_mx-30/images/1920x1080/2021_mazda_mx-30_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2021_mazda_mx-30/images/1920x1080/2021_mazda_mx-30_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mx-30-2021-0",
+      "slug": "mazda-mx-30-2021-0",
+      "modelId": "m-mazda-mx-30",
+      "brandId": "brand-mazda",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 Mazda MX-30",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2021_mazda_mx-30/images/1920x1080/2021_mazda_mx-30_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2021_mazda_mx-30/images/1920x1080/2021_mazda_mx-30_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mx-30-2021-0",
+          "generationId": "gen-mazda-mx-30-2021-0",
+          "url": "https://images.caricos.com/m/mazda/2021_mazda_mx-30/images/1920x1080/2021_mazda_mx-30_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2021_mazda_mx-30/images/1920x1080/2021_mazda_mx-30_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "2021 Mazda MX-30",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

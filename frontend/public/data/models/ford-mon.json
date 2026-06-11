@@ -1,0 +1,256 @@
+{
+  "id": "m-ford-mon",
+  "slug": "ford-mon",
+  "name": "Mon",
+  "fullName": "Ford Mon",
+  "brandId": "brand-ford",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford Mon — sedan, produced since 2020.",
+  "generationCount": 5,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2023_ford_mondeo/images/1920x1080/2023_ford_mondeo_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2023_ford_mondeo/images/1920x1080/2023_ford_mondeo_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-mon-2020-0",
+      "slug": "ford-mon-2020-0",
+      "modelId": "m-ford-mon",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mondeo | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2023_ford_mondeo/images/1920x1080/2023_ford_mondeo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2023_ford_mondeo/images/1920x1080/2023_ford_mondeo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-mon-2020-0",
+          "generationId": "gen-ford-mon-2020-0",
+          "url": "https://images.caricos.com/f/ford/2023_ford_mondeo/images/1920x1080/2023_ford_mondeo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2023_ford_mondeo/images/1920x1080/2023_ford_mondeo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mondeo | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-mon-2020-1",
+      "slug": "ford-mon-2020-1",
+      "modelId": "m-ford-mon",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mondeo Wagon | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo_wagon/images/1920x1080/2015_ford_mondeo_wagon_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo_wagon/images/1920x1080/2015_ford_mondeo_wagon_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-mon-2020-1",
+          "generationId": "gen-ford-mon-2020-1",
+          "url": "https://images.caricos.com/f/ford/2015_ford_mondeo_wagon/images/1920x1080/2015_ford_mondeo_wagon_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo_wagon/images/1920x1080/2015_ford_mondeo_wagon_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mondeo Wagon | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-mon-2020-2",
+      "slug": "ford-mon-2020-2",
+      "modelId": "m-ford-mon",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mondeo Hybrid | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo_hybrid/images/1920x1080/2015_ford_mondeo_hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo_hybrid/images/1920x1080/2015_ford_mondeo_hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-mon-2020-2",
+          "generationId": "gen-ford-mon-2020-2",
+          "url": "https://images.caricos.com/f/ford/2015_ford_mondeo_hybrid/images/1920x1080/2015_ford_mondeo_hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo_hybrid/images/1920x1080/2015_ford_mondeo_hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mondeo Hybrid | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-mon-2020-3",
+      "slug": "ford-mon-2020-3",
+      "modelId": "m-ford-mon",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mondeo | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo/images/1920x1080/2015_ford_mondeo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo/images/1920x1080/2015_ford_mondeo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-mon-2020-3",
+          "generationId": "gen-ford-mon-2020-3",
+          "url": "https://images.caricos.com/f/ford/2015_ford_mondeo/images/1920x1080/2015_ford_mondeo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2015_ford_mondeo/images/1920x1080/2015_ford_mondeo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mondeo | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-mon-2020-4",
+      "slug": "ford-mon-2020-4",
+      "modelId": "m-ford-mon",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Mondeo | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_mondeo/images/1920x1080/2013_ford_mondeo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2013_ford_mondeo/images/1920x1080/2013_ford_mondeo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-mon-2020-4",
+          "generationId": "gen-ford-mon-2020-4",
+          "url": "https://images.caricos.com/f/ford/2013_ford_mondeo/images/1920x1080/2013_ford_mondeo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_mondeo/images/1920x1080/2013_ford_mondeo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Mondeo | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

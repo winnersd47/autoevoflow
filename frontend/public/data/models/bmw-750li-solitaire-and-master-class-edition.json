@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-750li-solitaire-and-master-class-edition",
+  "slug": "bmw-750li-solitaire-and-master-class-edition",
+  "name": "750Li Solitaire and Master Class Edition",
+  "fullName": "BMW 750Li Solitaire and Master Class Edition",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW 750Li Solitaire and Master Class Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_750li_solitaire_and_master_class/images/1920x1080/2016_bmw_750li_solitaire_and_master_class_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2016_bmw_750li_solitaire_and_master_class/images/1920x1080/2016_bmw_750li_solitaire_and_master_class_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-750li-solitaire-and-master-class-edition-2020-0",
+      "slug": "bmw-750li-solitaire-and-master-class-edition-2020-0",
+      "modelId": "m-bmw-750li-solitaire-and-master-class-edition",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW 750Li Solitaire and Master Class Edition | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_750li_solitaire_and_master_class/images/1920x1080/2016_bmw_750li_solitaire_and_master_class_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2016_bmw_750li_solitaire_and_master_class/images/1920x1080/2016_bmw_750li_solitaire_and_master_class_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-750li-solitaire-and-master-class-edition-2020-0",
+          "generationId": "gen-bmw-750li-solitaire-and-master-class-edition-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2016_bmw_750li_solitaire_and_master_class/images/1920x1080/2016_bmw_750li_solitaire_and_master_class_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2016_bmw_750li_solitaire_and_master_class/images/1920x1080/2016_bmw_750li_solitaire_and_master_class_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW 750Li Solitaire and Master Class Edition | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

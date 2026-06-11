@@ -1,0 +1,72 @@
+{
+  "id": "m-dodge-challenger-srt-super-stock",
+  "slug": "dodge-challenger-srt-super-stock",
+  "name": "Challenger SRT Super Stock",
+  "fullName": "Dodge Challenger SRT Super Stock",
+  "brandId": "brand-dodge",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Dodge Challenger SRT Super Stock — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/d/dodge/2020_dodge_challenger_srt_super_stock/images/1920x1080/2020_dodge_challenger_srt_super_stock_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/d/dodge/2020_dodge_challenger_srt_super_stock/images/1920x1080/2020_dodge_challenger_srt_super_stock_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "dodge"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-dodge-challenger-srt-super-stock-2020-0",
+      "slug": "dodge-challenger-srt-super-stock-2020-0",
+      "modelId": "m-dodge-challenger-srt-super-stock",
+      "brandId": "brand-dodge",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Dodge Challenger SRT Super Stock | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/d/dodge/2020_dodge_challenger_srt_super_stock/images/1920x1080/2020_dodge_challenger_srt_super_stock_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/d/dodge/2020_dodge_challenger_srt_super_stock/images/1920x1080/2020_dodge_challenger_srt_super_stock_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-dodge-challenger-srt-super-stock-2020-0",
+          "generationId": "gen-dodge-challenger-srt-super-stock-2020-0",
+          "url": "https://images.caricos.com/d/dodge/2020_dodge_challenger_srt_super_stock/images/1920x1080/2020_dodge_challenger_srt_super_stock_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/d/dodge/2020_dodge_challenger_srt_super_stock/images/1920x1080/2020_dodge_challenger_srt_super_stock_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Dodge Challenger SRT Super Stock | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

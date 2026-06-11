@@ -1,0 +1,118 @@
+{
+  "id": "m-bmw-x6-m50d",
+  "slug": "bmw-x6-m50d",
+  "name": "X6 M50d",
+  "fullName": "BMW X6 M50d",
+  "brandId": "brand-bmw",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW X6 M50d — suv, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2015_bmw_x6_m50d/images/1920x1080/2015_bmw_x6_m50d_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2015_bmw_x6_m50d/images/1920x1080/2015_bmw_x6_m50d_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-x6-m50d-2020-0",
+      "slug": "bmw-x6-m50d-2020-0",
+      "modelId": "m-bmw-x6-m50d",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X6 M50d | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2015_bmw_x6_m50d/images/1920x1080/2015_bmw_x6_m50d_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2015_bmw_x6_m50d/images/1920x1080/2015_bmw_x6_m50d_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x6-m50d-2020-0",
+          "generationId": "gen-bmw-x6-m50d-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2015_bmw_x6_m50d/images/1920x1080/2015_bmw_x6_m50d_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2015_bmw_x6_m50d/images/1920x1080/2015_bmw_x6_m50d_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW X6 M50d | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-x6-m50d-2020-1",
+      "slug": "bmw-x6-m50d-2020-1",
+      "modelId": "m-bmw-x6-m50d",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW X6 M50d | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2013_bmw_x6_m50d/images/1920x1080/2013_bmw_x6_m50d_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2013_bmw_x6_m50d/images/1920x1080/2013_bmw_x6_m50d_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-x6-m50d-2020-1",
+          "generationId": "gen-bmw-x6-m50d-2020-1",
+          "url": "https://images.caricos.com/b/bmw/2013_bmw_x6_m50d/images/1920x1080/2013_bmw_x6_m50d_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2013_bmw_x6_m50d/images/1920x1080/2013_bmw_x6_m50d_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW X6 M50d | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

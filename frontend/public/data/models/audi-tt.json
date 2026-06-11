@@ -1,0 +1,42 @@
+{
+  "id": "m-audi-tt",
+  "slug": "audi-tt",
+  "name": "TT",
+  "fullName": "Audi TT",
+  "brandId": "brand-audi",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "endYear": 2023,
+  "isActive": false,
+  "description": "The Audi TT (1998–2023) was Audi's sports coupe — a design-led car that prioritised visual drama over outright performance. Its distinctive rounded form, designed by Freeman Thomas, made it an icon of late 1990s design. The TT was discontinued in 2023, replaced by the electric Q8 e-tron platform strategy.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/a/audi/2019_audi_tt/images/1920x1080/2019_audi_tt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/audi/2019_audi_tt/images/1920x1080/2019_audi_tt_1_1920x1080.jpg",
+  "tags": ["coupe", "audi", "sports", "design-icon", "quattro"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-tt-8n",
+      "slug": "audi-tt-8n",
+      "modelId": "m-audi-tt",
+      "brandId": "brand-audi",
+      "codeName": "8N",
+      "generationNumber": 1,
+      "startYear": 1998,
+      "endYear": 2006,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe", "roadster"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The 8N TT (1998–2006) debuted Freeman Thomas's iconic rounded design on the PL45 platform. Its controversial early handling required a rapid software and suspension update.",
+      "thumbnailUrl": "https://images.caricos.com/a/audi/2019_audi_tt/images/1920x1080/2019_audi_tt_1_1920x1080.jpg",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-brabus-brabus-bodo",
+  "slug": "brabus-brabus-bodo",
+  "name": "Brabus Bodo",
+  "fullName": "2027 Brabus Bodo",
+  "brandId": "brabus",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "As a tribute to the founding of BRABUS in 1977, the Brabus Bodo will be built strictly to order in a limited production of just 77 units worldwide.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Brabus-Bodo-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Brabus-Bodo-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/brabus/2027-bodo/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.720Z",
+  "updatedAt": "2026-06-05T07:36:26.720Z"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "m-lotus-emira",
+  "slug": "lotus-emira",
+  "name": "Emira",
+  "fullName": "Lotus Emira",
+  "brandId": "brand-lotus",
+  "brand": {
+    "id": "brand-lotus",
+    "slug": "lotus",
+    "name": "Lotus",
+    "fullName": "Lotus Cars",
+    "country": "UK",
+    "countryCode": "GB",
+    "foundingYear": 1948,
+    "logoUrl": "",
+    "description": "British sports car manufacturer founded by Colin Chapman",
+    "headquarters": "Hethel, Norfolk, UK",
+    "modelCount": 7,
+    "generationCount": 17,
+    "tags": ["sports", "lightweight", "british"],
+    "aiAnalysisAvailable": true,
+    "createdAt": "2026-01-01T00:00:00Z",
+    "updatedAt": "2026-01-01T00:00:00Z"
+  },
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Lotus Emira is the final internal-combustion-engined sports car from Lotus — a 75-year chapter closing with extraordinary grace. Available with a Toyota 3.5-litre supercharged V6 producing 400 bhp or a Mercedes-AMG 2.0-litre turbocharged four-cylinder producing 360 bhp, the Emira is the most complete car Lotus has ever built: genuinely beautiful, properly premium inside, and with the dynamic capability expected from the marque. Designer Russell Carr described it as a distillation of 75 years of Lotus design philosophy into a single, final form.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+  "tags": ["last-ice", "v6", "amg-i4", "premium", "beautiful"],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+
+  "generations": [
+    {
+      "id": "gen-emira-1",
+      "slug": "lotus-emira-gen1",
+      "modelId": "m-lotus-emira",
+      "brandId": "brand-lotus",
+      "codeName": "V6 / AMG First Edition",
+      "generationNumber": 1,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["coupe"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "specs": {
+        "engineDisplacement": 3456,
+        "engineCylinders": 6,
+        "horsepower": 400,
+        "torque": 430,
+        "topSpeed": 290,
+        "acceleration0to100": 4.3,
+        "weight": 1405,
+        "length": 4412,
+        "width": 1895,
+        "height": 1225,
+        "wheelbase": 2579,
+        "drivetrain": "RWD",
+        "engineType": "ICE",
+        "transmissionSpeeds": 6,
+        "transmissionType": "manual"
+      },
+      "description": "The Emira First Edition launched as the V6 variant, using the proven Toyota 3GR-FE 3.5-litre supercharged V6 from the Evora GT430 in its most powerful 400 bhp state of tune. A 6-speed manual is available; a 6-speed Lotus-developed automated manual transmission offers quicker shifts. The AMG 2.0T variant followed, fitting the Mercedes-AMG M139 turbocharged four-cylinder — the most powerful production four-cylinder in the world — in a transverse mid-engined configuration, a packaging feat requiring entirely new subframe architecture. Interior quality is a quantum step above any previous Lotus: a portrait-mounted touchscreen infotainment system, premium leather, ambient lighting, and a driving position that finally matches the exterior's premium positioning. The design by Russell Carr draws on the Esprit's mid-engine drama, the Evora's graceful haunches, and the Exige's aerodynamic purposefulness — synthesising Lotus's entire visual history into a single coherent, beautiful form.",
+      "thumbnailUrl": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-emira-1",
+          "generationId": "gen-emira-1",
+          "url": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lotus/2023_lotus_emira/images/1920x1080/2023_lotus_emira_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2023,
+          "altText": "2023 Lotus Emira V6",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "designerName": "Russell Carr (Lotus)",
+      "platformCode": "Emira-EMA",
+      "tags": ["russell-carr", "last-ice", "amg-engine", "premium-interior", "first-edition"],
+      "aiAnalysisAvailable": true,
+      "evolutionSummary": "The Emira is the definitive last word in Lotus's ICE chapter — genuinely beautiful, properly premium, dynamically superb, and technically sophisticated enough to carry 75 years of history gracefully.",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+
+  "analysis": {
+    "id": "analysis-emira",
+    "entityType": "model",
+    "entityId": "m-lotus-emira",
+    "analysisType": "design_evolution",
+    "provider": "claude-3-5",
+    "headline": "The Emira: A 75-Year Design Legacy Distilled into One Perfect Form",
+    "summary": "The Lotus Emira occupies a unique position in automotive history: a final farewell to the internal combustion era that manages to be simultaneously the most beautiful and the most complete Lotus road car ever built. Russell Carr's design synthesises every era of Lotus visual history while creating something genuinely new.",
+    "fullText": "The Emira's design brief was both simple and impossibly demanding: create a car that honours 75 years of Lotus design DNA while looking relevant for the next decade, that can accommodate two completely different powertrains, that meets modern safety and emissions legislation, and that does so at a price point competitive with Porsche and Alpine.\n\nRussell Carr's solution begins with proportion. The Emira's mid-engine layout dictates a long front overhang, a forward cabin, and muscular rear haunches — an architecture that echoes the Esprit without referencing it directly. The surfaces are organic rather than angular, flowing from the front splitter over compound-curved flanks to a rear diffuser that is simultaneously aerodynamically functional and visually dramatic.\n\nThe frontal design is arguably the strongest Lotus face in decades: wide, low, with a horizontal graphic connecting the LED headlamp units across the full width of the nose. This horizontal emphasis — unusual in a sports car that typically uses vertical elements for aggression — gives the Emira a confident rather than threatening presence. Carr described his intent as 'an athlete at rest, not a fighter about to punch'.\n\nInteriorially, the Emira is a revelation by Lotus standards. A vertically-mounted central touchscreen, ambient lighting, quality leather, and properly integrated switchgear represent a step-change from even the Evora GT430. The driving position is perfect — low, centred, with excellent sightlines over the curved bonnet.\n\nThat the Emira exists at all is a minor miracle of engineering and corporate will. The decision to build a new sports car platform in the midst of transitioning to electric vehicles required conviction that the ICE chapter deserved a proper conclusion. It did.",
+    "insights": [
+      {
+        "id": "insight-emira-1",
+        "category": "Design Synthesis",
+        "text": "The Emira is the first Lotus road car designed with explicit reference to the brand's complete visual history. Russell Carr's team identified four key 'Lotus moments' — Esprit S1 launch, Elise S1, Exige S3, Evora GT430 — and extracted the three proportional constants present in all: mid-engine stance, muscular rear haunches, and continuous surface from door to rear.",
+        "confidence": 0.92,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-emira-2",
+        "category": "Engineering Achievement",
+        "text": "The AMG M139 4-cylinder installation required a completely bespoke subframe, transmission tunnel, cooling system, and exhaust routing — engineering investment equivalent to developing a new engine, yet Lotus chose this approach to ensure the AMG variant's character was genuinely different from the V6 rather than a lower-spec alternative.",
+        "confidence": 0.89,
+        "importance": "high"
+      },
+      {
+        "id": "insight-emira-3",
+        "category": "Cultural Significance",
+        "text": "As the last ICE Lotus, the Emira will almost certainly appreciate in collector value as the EV transition accelerates. Parallel cases — the Porsche 911 GT3 RS Touring, the Ferrari 458 — suggest that final-ICE 'last of its kind' models from prestige manufacturers routinely double in value within a decade of production ending.",
+        "confidence": 0.80,
+        "importance": "high"
+      }
+    ],
+    "confidenceScore": 0.93,
+    "processingTimeMs": 3400,
+    "createdAt": "2026-01-15T10:00:00Z",
+    "isCached": true
+  }
+}

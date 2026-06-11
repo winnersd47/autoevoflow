@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-si-n-roadster",
+  "slug": "lamborghini-si-n-roadster",
+  "name": "Sián Roadster",
+  "fullName": "Lamborghini Sián Roadster",
+  "brandId": "brand-lamborghini",
+  "bodyType": "convertible",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Sián Roadster — convertible, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_sian_roadster/images/1920x1080/2021_lamborghini_sian_roadster_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_sian_roadster/images/1920x1080/2021_lamborghini_sian_roadster_1_1920x1080.jpg",
+  "tags": [
+    "convertible",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-si-n-roadster-2020-0",
+      "slug": "lamborghini-si-n-roadster-2020-0",
+      "modelId": "m-lamborghini-si-n-roadster",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Sián Roadster | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_sian_roadster/images/1920x1080/2021_lamborghini_sian_roadster_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_sian_roadster/images/1920x1080/2021_lamborghini_sian_roadster_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-si-n-roadster-2020-0",
+          "generationId": "gen-lamborghini-si-n-roadster-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2021_lamborghini_sian_roadster/images/1920x1080/2021_lamborghini_sian_roadster_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2021_lamborghini_sian_roadster/images/1920x1080/2021_lamborghini_sian_roadster_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Sián Roadster | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "convertible",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

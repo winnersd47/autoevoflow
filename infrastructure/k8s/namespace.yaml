@@ -1,0 +1,54 @@
+---
+# =============================================================================
+# Kubernetes Namespace – automotive-ai
+# All platform resources are deployed into this namespace for isolation.
+# Resource quotas prevent runaway resource consumption in shared clusters.
+# =============================================================================
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: automotive-ai
+  labels:
+    app.kubernetes.io/name: automotive-ai-platform
+    app.kubernetes.io/part-of: automotive-ai
+    environment: production
+
+---
+# Resource quota – enforces hard limits across the namespace
+apiVersion: v1
+kind: ResourceQuota
+metadata:
+  name: automotive-ai-quota
+  namespace: automotive-ai
+spec:
+  hard:
+    requests.cpu:    "20"
+    requests.memory: 40Gi
+    limits.cpu:      "40"
+    limits.memory:   80Gi
+    pods:            "50"
+    services:        "20"
+    persistentvolumeclaims: "20"
+
+---
+# LimitRange – default requests/limits for containers that don't specify them
+apiVersion: v1
+kind: LimitRange
+metadata:
+  name: automotive-ai-limits
+  namespace: automotive-ai
+spec:
+  limits:
+    - type: Container
+      default:
+        cpu:    "500m"
+        memory: "512Mi"
+      defaultRequest:
+        cpu:    "100m"
+        memory: "128Mi"
+      max:
+        cpu:    "8"
+        memory: "16Gi"
+      min:
+        cpu:    "50m"
+        memory: "64Mi"

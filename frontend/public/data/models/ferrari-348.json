@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-348",
+  "slug": "ferrari-348",
+  "name": "348",
+  "fullName": "Ferrari 348",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "endYear": 1994,
+  "isActive": false,
+  "description": "The Ferrari 348 (1989–1994) introduced longitudinal engine mounting and a 5-speed gearbox — significant mechanical advances that were somewhat obscured by an initially difficult handling balance that Ferrari corrected mid-production.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "mid-engine", "v8", "classic"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

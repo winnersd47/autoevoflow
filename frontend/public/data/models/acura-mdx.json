@@ -1,0 +1,302 @@
+{
+  "id": "m-acura-mdx",
+  "slug": "acura-mdx",
+  "name": "MDX",
+  "fullName": "Acura MDX",
+  "brandId": "brand-acura",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Acura MDX — suv, produced since 2020.",
+  "generationCount": 6,
+  "thumbnailUrl": "https://images.caricos.com/a/acura/2025_acura_mdx/images/1920x1080/2025_acura_mdx_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/acura/2025_acura_mdx/images/1920x1080/2025_acura_mdx_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "acura"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-acura-mdx-2020-0",
+      "slug": "acura-mdx-2020-0",
+      "modelId": "m-acura-mdx",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura MDX | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2025_acura_mdx/images/1920x1080/2025_acura_mdx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2025_acura_mdx/images/1920x1080/2025_acura_mdx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-mdx-2020-0",
+          "generationId": "gen-acura-mdx-2020-0",
+          "url": "https://images.caricos.com/a/acura/2025_acura_mdx/images/1920x1080/2025_acura_mdx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2025_acura_mdx/images/1920x1080/2025_acura_mdx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura MDX | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-acura-mdx-2020-1",
+      "slug": "acura-mdx-2020-1",
+      "modelId": "m-acura-mdx",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura MDX | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2022_acura_mdx/images/1920x1080/2022_acura_mdx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2022_acura_mdx/images/1920x1080/2022_acura_mdx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-mdx-2020-1",
+          "generationId": "gen-acura-mdx-2020-1",
+          "url": "https://images.caricos.com/a/acura/2022_acura_mdx/images/1920x1080/2022_acura_mdx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2022_acura_mdx/images/1920x1080/2022_acura_mdx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura MDX | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-acura-mdx-2020-2",
+      "slug": "acura-mdx-2020-2",
+      "modelId": "m-acura-mdx",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura MDX | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2018_acura_mdx/images/1920x1080/2018_acura_mdx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2018_acura_mdx/images/1920x1080/2018_acura_mdx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-mdx-2020-2",
+          "generationId": "gen-acura-mdx-2020-2",
+          "url": "https://images.caricos.com/a/acura/2018_acura_mdx/images/1920x1080/2018_acura_mdx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2018_acura_mdx/images/1920x1080/2018_acura_mdx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura MDX | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-acura-mdx-2020-3",
+      "slug": "acura-mdx-2020-3",
+      "modelId": "m-acura-mdx",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura MDX | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2017_acura_mdx/images/1920x1080/2017_acura_mdx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2017_acura_mdx/images/1920x1080/2017_acura_mdx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-mdx-2020-3",
+          "generationId": "gen-acura-mdx-2020-3",
+          "url": "https://images.caricos.com/a/acura/2017_acura_mdx/images/1920x1080/2017_acura_mdx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2017_acura_mdx/images/1920x1080/2017_acura_mdx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura MDX | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-acura-mdx-2020-4",
+      "slug": "acura-mdx-2020-4",
+      "modelId": "m-acura-mdx",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura MDX | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2015_acura_mdx/images/1920x1080/2015_acura_mdx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2015_acura_mdx/images/1920x1080/2015_acura_mdx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-mdx-2020-4",
+          "generationId": "gen-acura-mdx-2020-4",
+          "url": "https://images.caricos.com/a/acura/2015_acura_mdx/images/1920x1080/2015_acura_mdx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2015_acura_mdx/images/1920x1080/2015_acura_mdx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura MDX | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-acura-mdx-2020-5",
+      "slug": "acura-mdx-2020-5",
+      "modelId": "m-acura-mdx",
+      "brandId": "brand-acura",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Acura MDX | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/a/acura/2014_acura_mdx/images/1920x1080/2014_acura_mdx_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/acura/2014_acura_mdx/images/1920x1080/2014_acura_mdx_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-acura-mdx-2020-5",
+          "generationId": "gen-acura-mdx-2020-5",
+          "url": "https://images.caricos.com/a/acura/2014_acura_mdx/images/1920x1080/2014_acura_mdx_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/acura/2014_acura_mdx/images/1920x1080/2014_acura_mdx_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Acura MDX | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

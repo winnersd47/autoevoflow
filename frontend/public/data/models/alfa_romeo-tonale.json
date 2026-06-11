@@ -1,0 +1,118 @@
+{
+  "id": "m-alfa_romeo-tonale",
+  "slug": "alfa_romeo-tonale",
+  "name": "Tonale",
+  "fullName": "Alfa Romeo Tonale",
+  "brandId": "brand-alfa_romeo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Alfa Romeo Tonale — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2026_alfa_romeo_tonale/images/1920x1080/2026_alfa_romeo_tonale_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2026_alfa_romeo_tonale/images/1920x1080/2026_alfa_romeo_tonale_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "alfa-romeo"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-alfa_romeo-tonale-2020-0",
+      "slug": "alfa_romeo-tonale-2020-0",
+      "modelId": "m-alfa_romeo-tonale",
+      "brandId": "brand-alfa_romeo",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Alfa Romeo Tonale | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2026_alfa_romeo_tonale/images/1920x1080/2026_alfa_romeo_tonale_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2026_alfa_romeo_tonale/images/1920x1080/2026_alfa_romeo_tonale_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-alfa_romeo-tonale-2020-0",
+          "generationId": "gen-alfa_romeo-tonale-2020-0",
+          "url": "https://images.caricos.com/a/alfa_romeo/2026_alfa_romeo_tonale/images/1920x1080/2026_alfa_romeo_tonale_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2026_alfa_romeo_tonale/images/1920x1080/2026_alfa_romeo_tonale_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Alfa Romeo Tonale | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-alfa_romeo-tonale-2020-1",
+      "slug": "alfa_romeo-tonale-2020-1",
+      "modelId": "m-alfa_romeo-tonale",
+      "brandId": "brand-alfa_romeo",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Alfa Romeo Tonale | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2023_alfa_romeo_tonale/images/1920x1080/2023_alfa_romeo_tonale_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/a/alfa_romeo/2023_alfa_romeo_tonale/images/1920x1080/2023_alfa_romeo_tonale_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-alfa_romeo-tonale-2020-1",
+          "generationId": "gen-alfa_romeo-tonale-2020-1",
+          "url": "https://images.caricos.com/a/alfa_romeo/2023_alfa_romeo_tonale/images/1920x1080/2023_alfa_romeo_tonale_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/a/alfa_romeo/2023_alfa_romeo_tonale/images/1920x1080/2023_alfa_romeo_tonale_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Alfa Romeo Tonale | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

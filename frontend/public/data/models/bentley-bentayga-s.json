@@ -1,0 +1,72 @@
+{
+  "id": "m-bentley-bentayga-s",
+  "slug": "bentley-bentayga-s",
+  "name": "Bentayga S",
+  "fullName": "Bentley Bentayga S",
+  "brandId": "brand-bentley",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bentley Bentayga S — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bentley/2022_bentley_bentayga_s/images/1920x1080/2022_bentley_bentayga_s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bentley/2022_bentley_bentayga_s/images/1920x1080/2022_bentley_bentayga_s_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bentley"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bentley-bentayga-s-2020-0",
+      "slug": "bentley-bentayga-s-2020-0",
+      "modelId": "m-bentley-bentayga-s",
+      "brandId": "brand-bentley",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bentley Bentayga S | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bentley/2022_bentley_bentayga_s/images/1920x1080/2022_bentley_bentayga_s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bentley/2022_bentley_bentayga_s/images/1920x1080/2022_bentley_bentayga_s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bentley-bentayga-s-2020-0",
+          "generationId": "gen-bentley-bentayga-s-2020-0",
+          "url": "https://images.caricos.com/b/bentley/2022_bentley_bentayga_s/images/1920x1080/2022_bentley_bentayga_s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bentley/2022_bentley_bentayga_s/images/1920x1080/2022_bentley_bentayga_s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bentley Bentayga S | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

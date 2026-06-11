@@ -1,0 +1,72 @@
+{
+  "id": "m-cadillac-cts-v-coupe-race-car",
+  "slug": "cadillac-cts-v-coupe-race-car",
+  "name": "CTS-V Coupe Race Car",
+  "fullName": "Cadillac CTS-V Coupe Race Car",
+  "brandId": "brand-cadillac",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Cadillac CTS-V Coupe Race Car — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_coupe_race_car/images/1920x1080/2011_cadillac_cts-v_coupe_race_car_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_coupe_race_car/images/1920x1080/2011_cadillac_cts-v_coupe_race_car_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "cadillac"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-cadillac-cts-v-coupe-race-car-2020-0",
+      "slug": "cadillac-cts-v-coupe-race-car-2020-0",
+      "modelId": "m-cadillac-cts-v-coupe-race-car",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac CTS-V Coupe Race Car | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_coupe_race_car/images/1920x1080/2011_cadillac_cts-v_coupe_race_car_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_coupe_race_car/images/1920x1080/2011_cadillac_cts-v_coupe_race_car_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-cts-v-coupe-race-car-2020-0",
+          "generationId": "gen-cadillac-cts-v-coupe-race-car-2020-0",
+          "url": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_coupe_race_car/images/1920x1080/2011_cadillac_cts-v_coupe_race_car_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2011_cadillac_cts-v_coupe_race_car/images/1920x1080/2011_cadillac_cts-v_coupe_race_car_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac CTS-V Coupe Race Car | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

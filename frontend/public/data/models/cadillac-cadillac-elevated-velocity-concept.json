@@ -1,0 +1,26 @@
+{
+  "id": "ncs-cadillac-cadillac-elevated-velocity-concept",
+  "slug": "cadillac-cadillac-elevated-velocity-concept",
+  "name": "Cadillac Elevated Velocity Concept",
+  "fullName": "2025 Cadillac Elevated Velocity Concept",
+  "brandId": "cadillac",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Elevated Velocity's sleek profile optimizes aerodynamic efficiency, while its dramatic proportions and planted stance render a commanding presence.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Cadillac-Elevated_Velocity_Concept-2025-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Cadillac-Elevated_Velocity_Concept-2025-thb.jpg",
+  "tags": [
+    "new",
+    "2025"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/cadillac/2025-elevated_velocity_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.744Z",
+  "updatedAt": "2026-06-05T07:36:26.744Z"
+}

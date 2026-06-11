@@ -1,0 +1,578 @@
+{
+  "id": "m-nissan-j",
+  "slug": "nissan-j",
+  "name": "J",
+  "fullName": "Nissan J",
+  "brandId": "brand-nissan",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan J — sedan, produced since 2020.",
+  "generationCount": 17,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2024_nissan_juke/images/1920x1080/2024_nissan_juke_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2024_nissan_juke/images/1920x1080/2024_nissan_juke_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-j-2020-0",
+      "slug": "nissan-j-2020-0",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan JUKE | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2024_nissan_juke/images/1920x1080/2024_nissan_juke_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2024_nissan_juke/images/1920x1080/2024_nissan_juke_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-0",
+          "generationId": "gen-nissan-j-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2024_nissan_juke/images/1920x1080/2024_nissan_juke_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2024_nissan_juke/images/1920x1080/2024_nissan_juke_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan JUKE | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-1",
+      "slug": "nissan-j-2020-1",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan JUKE Hybrid | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2022_nissan_juke_hybrid/images/1920x1080/2022_nissan_juke_hybrid_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2022_nissan_juke_hybrid/images/1920x1080/2022_nissan_juke_hybrid_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-1",
+          "generationId": "gen-nissan-j-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2022_nissan_juke_hybrid/images/1920x1080/2022_nissan_juke_hybrid_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2022_nissan_juke_hybrid/images/1920x1080/2022_nissan_juke_hybrid_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan JUKE Hybrid | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-2",
+      "slug": "nissan-j-2020-2",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan JUKE Rally Tribute Concept | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2021_nissan_juke_rally_tribute_concept/images/1920x1080/2021_nissan_juke_rally_tribute_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2021_nissan_juke_rally_tribute_concept/images/1920x1080/2021_nissan_juke_rally_tribute_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-2",
+          "generationId": "gen-nissan-j-2020-2",
+          "url": "https://images.caricos.com/n/nissan/2021_nissan_juke_rally_tribute_concept/images/1920x1080/2021_nissan_juke_rally_tribute_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2021_nissan_juke_rally_tribute_concept/images/1920x1080/2021_nissan_juke_rally_tribute_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan JUKE Rally Tribute Concept | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-3",
+      "slug": "nissan-j-2020-3",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2020_nissan_juke/images/1920x1080/2020_nissan_juke_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2020_nissan_juke/images/1920x1080/2020_nissan_juke_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-3",
+          "generationId": "gen-nissan-j-2020-3",
+          "url": "https://images.caricos.com/n/nissan/2020_nissan_juke/images/1920x1080/2020_nissan_juke_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2020_nissan_juke/images/1920x1080/2020_nissan_juke_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-4",
+      "slug": "nissan-j-2020-4",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke NISMO RS | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_juke_nismo_rs/images/1920x1080/2017_nissan_juke_nismo_rs_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_juke_nismo_rs/images/1920x1080/2017_nissan_juke_nismo_rs_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-4",
+          "generationId": "gen-nissan-j-2020-4",
+          "url": "https://images.caricos.com/n/nissan/2017_nissan_juke_nismo_rs/images/1920x1080/2017_nissan_juke_nismo_rs_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_juke_nismo_rs/images/1920x1080/2017_nissan_juke_nismo_rs_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke NISMO RS | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-5",
+      "slug": "nissan-j-2020-5",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke Black Pearl | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_juke_black_pearl/images/1920x1080/2017_nissan_juke_black_pearl_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_juke_black_pearl/images/1920x1080/2017_nissan_juke_black_pearl_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-5",
+          "generationId": "gen-nissan-j-2020-5",
+          "url": "https://images.caricos.com/n/nissan/2017_nissan_juke_black_pearl/images/1920x1080/2017_nissan_juke_black_pearl_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_juke_black_pearl/images/1920x1080/2017_nissan_juke_black_pearl_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke Black Pearl | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-6",
+      "slug": "nissan-j-2020-6",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke-R 2.0 Concept | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke-r_2.0_concept/images/1920x1080/2015_nissan_juke-r_2.0_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke-r_2.0_concept/images/1920x1080/2015_nissan_juke-r_2.0_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-6",
+          "generationId": "gen-nissan-j-2020-6",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_juke-r_2.0_concept/images/1920x1080/2015_nissan_juke-r_2.0_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke-r_2.0_concept/images/1920x1080/2015_nissan_juke-r_2.0_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke-R 2.0 Concept | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-7",
+      "slug": "nissan-j-2020-7",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke Nismo RSnow | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke_nismo_rsnow/images/1920x1080/2015_nissan_juke_nismo_rsnow_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke_nismo_rsnow/images/1920x1080/2015_nissan_juke_nismo_rsnow_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-7",
+          "generationId": "gen-nissan-j-2020-7",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_juke_nismo_rsnow/images/1920x1080/2015_nissan_juke_nismo_rsnow_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke_nismo_rsnow/images/1920x1080/2015_nissan_juke_nismo_rsnow_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke Nismo RSnow | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-8",
+      "slug": "nissan-j-2020-8",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 9,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke Nismo RS | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke_nismo_rs/images/1920x1080/2015_nissan_juke_nismo_rs_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke_nismo_rs/images/1920x1080/2015_nissan_juke_nismo_rs_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-8",
+          "generationId": "gen-nissan-j-2020-8",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_juke_nismo_rs/images/1920x1080/2015_nissan_juke_nismo_rs_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke_nismo_rs/images/1920x1080/2015_nissan_juke_nismo_rs_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke Nismo RS | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-9",
+      "slug": "nissan-j-2020-9",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 10,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke/images/1920x1080/2015_nissan_juke_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke/images/1920x1080/2015_nissan_juke_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-9",
+          "generationId": "gen-nissan-j-2020-9",
+          "url": "https://images.caricos.com/n/nissan/2015_nissan_juke/images/1920x1080/2015_nissan_juke_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2015_nissan_juke/images/1920x1080/2015_nissan_juke_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-10",
+      "slug": "nissan-j-2020-10",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 11,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke Nismo The Dark Knight Rises | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2012_nissan_juke_nismo_the_dark_knight_rises/images/1920x1080/2012_nissan_juke_nismo_the_dark_knight_rises_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2012_nissan_juke_nismo_the_dark_knight_rises/images/1920x1080/2012_nissan_juke_nismo_the_dark_knight_rises_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-10",
+          "generationId": "gen-nissan-j-2020-10",
+          "url": "https://images.caricos.com/n/nissan/2012_nissan_juke_nismo_the_dark_knight_rises/images/1920x1080/2012_nissan_juke_nismo_the_dark_knight_rises_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2012_nissan_juke_nismo_the_dark_knight_rises/images/1920x1080/2012_nissan_juke_nismo_the_dark_knight_rises_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke Nismo The Dark Knight Rises | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-j-2020-11",
+      "slug": "nissan-j-2020-11",
+      "modelId": "m-nissan-j",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 12,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Juke Nismo | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_juke_nismo/images/1920x1080/2013_nissan_juke_nismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2013_nissan_juke_nismo/images/1920x1080/2013_nissan_juke_nismo_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-j-2020-11",
+          "generationId": "gen-nissan-j-2020-11",
+          "url": "https://images.caricos.com/n/nissan/2013_nissan_juke_nismo/images/1920x1080/2013_nissan_juke_nismo_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2013_nissan_juke_nismo/images/1920x1080/2013_nissan_juke_nismo_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Juke Nismo | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-dino-246",
+  "slug": "ferrari-dino-246",
+  "name": "Dino 246 GT",
+  "fullName": "Ferrari Dino 246 GT",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1969,
+  "endYear": 1974,
+  "isActive": false,
+  "description": "The Dino 246 GT (1969–1974) was Ferrari's first mid-engine road car sold under the Dino sub-brand (Enzo refused to put the Ferrari name on a V6). Its compact 2.4-litre V6, curvaceous Pininfarina styling, and featherweight chassis established the mid-engine sports car formula that Ferrari would refine through the 308, 348, and beyond.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "dino", "mid-engine", "v6", "classic", "pininfarina"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

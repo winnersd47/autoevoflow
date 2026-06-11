@@ -1,0 +1,863 @@
+{
+  "id": "brand-maserati",
+  "slug": "maserati",
+  "name": "Maserati",
+  "fullName": "Maserati S.p.A.",
+  "country": "Italy",
+  "countryCode": "IT",
+  "foundingYear": 1914,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_mc20/images/1920x1080/2023_maserati_mc20_1_1920x1080.jpg",
+  "description": "Maserati S.p.A. is an Italian luxury sports car manufacturer founded in Bologna in 1914 by Alfieri, Ettore, and Ernesto Maserati. Known for its trident emblem — inspired by Neptune's statue in Bologna's Piazza Maggiore — Maserati has built a century of grand touring coupes, racing cars, and executive sedans defined by sonorous engines, sensuous Italian design, and a racing pedigree forged at Le Mans and across Formula One. Since 2021, under the Folgore electrification programme, Maserati is transforming its entire range to include electric and hybrid powertrains while preserving the brand's core character: performance with elegance.",
+  "parentCompany": "Stellantis",
+  "headquarters": "Modena, Italy",
+  "modelCount": 45,
+  "generationCount": 59,
+  "tags": [
+    "italian",
+    "luxury",
+    "grand-touring",
+    "racing-heritage",
+    "folgore",
+    "trident"
+  ],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "dna": {
+    "id": "dna-maserati",
+    "brandId": "brand-maserati",
+    "overallScore": 89,
+    "dimensions": [
+      {
+        "key": "gt_elegance",
+        "label": "Grand Touring Elegance",
+        "score": 95,
+        "description": "The GranTurismo DNA — long bonnet, swept fastback, muscular haunches — defines Maserati's visual language across six decades. From the 3500 GT to the MC20, every Maserati is first a beautiful object, second a performance machine.",
+        "trend": "stable"
+      },
+      {
+        "key": "engine_sound",
+        "label": "Engine & Sound Character",
+        "score": 97,
+        "description": "The Maserati engine note is perhaps the most distinctive sound in any luxury car: a rasping, snarling growl from Ferrari-derived V8s and bespoke V6s that sounds nothing like a German rival. The MC20's Nettuno V6 continues this tradition in the electric age.",
+        "trend": "declining"
+      },
+      {
+        "key": "italian_craft",
+        "label": "Italian Craftsmanship",
+        "score": 92,
+        "description": "Maserati interiors combine Poltrona Frau leather, Alcantara, and hand-stitched details with Italian fashion house collaborations (Fendi, Ermenegildo Zegna). The Modena factory handbuilds each car with artisan attention to material and finish.",
+        "trend": "rising"
+      },
+      {
+        "key": "racing_heritage",
+        "label": "Racing Heritage",
+        "score": 88,
+        "description": "Maserati won the first Formula One World Championship in 1954 with Juan Manuel Fangio, the 24 Hours of Le Mans twice, and numerous Mille Miglia victories. The MC prefix (Maserati Corse) traces a direct line from the 250F to the MC20.",
+        "trend": "stable"
+      },
+      {
+        "key": "exclusivity",
+        "label": "Exclusivity & Rarity",
+        "score": 91,
+        "description": "Maserati produces under 30,000 cars annually — far fewer than BMW or Mercedes equivalents. Every model exists in limited-run special editions (Trofeo, F Tributo, MC Centennial) that deepen collector interest and preserve the brand's prestige.",
+        "trend": "declining"
+      },
+      {
+        "key": "design_tension",
+        "label": "Design Tension (Sport vs Luxury)",
+        "score": 84,
+        "description": "Maserati occupies the tension between sporting performance and luxury comfort better than any other brand. The Quattroporte is sportier than a Rolls-Royce; the GranTurismo is more luxurious than a Ferrari. This deliberate ambiguity is the brand's defining characteristic.",
+        "trend": "stable"
+      }
+    ],
+    "temporalEvolution": [
+      {
+        "year": 1954,
+        "score": 95,
+        "milestone": "250F — World Champion F1 car; Fangio",
+        "dimensionScores": {
+          "Grand Touring Elegance": 58,
+          "Engine & Sound Character": 99,
+          "Italian Craftsmanship": 87,
+          "Racing Heritage": 99,
+          "Exclusivity & Rarity": 97,
+          "Design Tension (Sport vs Luxury)": 74
+        }
+      },
+      {
+        "year": 1966,
+        "score": 88,
+        "milestone": "Ghibli I (Giugiaro) — the defining Maserati coupe",
+        "dimensionScores": {
+          "Grand Touring Elegance": 97,
+          "Engine & Sound Character": 94,
+          "Italian Craftsmanship": 95,
+          "Racing Heritage": 76,
+          "Exclusivity & Rarity": 91,
+          "Design Tension (Sport vs Luxury)": 85
+        }
+      },
+      {
+        "year": 1979,
+        "score": 72,
+        "milestone": "Citroën era — financial difficulties, diluted identity",
+        "dimensionScores": {
+          "Grand Touring Elegance": 70,
+          "Engine & Sound Character": 73,
+          "Italian Craftsmanship": 65,
+          "Racing Heritage": 52,
+          "Exclusivity & Rarity": 75,
+          "Design Tension (Sport vs Luxury)": 68
+        }
+      },
+      {
+        "year": 1994,
+        "score": 80,
+        "milestone": "Fiat acquisition — recovery begins, 3200 GT",
+        "dimensionScores": {
+          "Grand Touring Elegance": 76,
+          "Engine & Sound Character": 82,
+          "Italian Craftsmanship": 78,
+          "Racing Heritage": 60,
+          "Exclusivity & Rarity": 80,
+          "Design Tension (Sport vs Luxury)": 76
+        }
+      },
+      {
+        "year": 2002,
+        "score": 87,
+        "milestone": "Ferrari partnership — Spyder, Coupé; Cambiocorsa",
+        "dimensionScores": {
+          "Grand Touring Elegance": 88,
+          "Engine & Sound Character": 92,
+          "Italian Craftsmanship": 85,
+          "Racing Heritage": 82,
+          "Exclusivity & Rarity": 86,
+          "Design Tension (Sport vs Luxury)": 82
+        }
+      },
+      {
+        "year": 2007,
+        "score": 92,
+        "milestone": "GranTurismo (Pininfarina) — brand renaissance",
+        "dimensionScores": {
+          "Grand Touring Elegance": 97,
+          "Engine & Sound Character": 96,
+          "Italian Craftsmanship": 93,
+          "Racing Heritage": 80,
+          "Exclusivity & Rarity": 90,
+          "Design Tension (Sport vs Luxury)": 90
+        }
+      },
+      {
+        "year": 2013,
+        "score": 89,
+        "milestone": "Ghibli III / Quattroporte VI — volume strategy",
+        "dimensionScores": {
+          "Grand Touring Elegance": 89,
+          "Engine & Sound Character": 91,
+          "Italian Craftsmanship": 88,
+          "Racing Heritage": 74,
+          "Exclusivity & Rarity": 80,
+          "Design Tension (Sport vs Luxury)": 88
+        }
+      },
+      {
+        "year": 2016,
+        "score": 86,
+        "milestone": "Levante — first SUV in brand history",
+        "dimensionScores": {
+          "Grand Touring Elegance": 84,
+          "Engine & Sound Character": 88,
+          "Italian Craftsmanship": 87,
+          "Racing Heritage": 71,
+          "Exclusivity & Rarity": 79,
+          "Design Tension (Sport vs Luxury)": 86
+        }
+      },
+      {
+        "year": 2021,
+        "score": 93,
+        "milestone": "MC20 Nettuno — in-house supercar, Folgore launch",
+        "dimensionScores": {
+          "Grand Touring Elegance": 90,
+          "Engine & Sound Character": 97,
+          "Italian Craftsmanship": 93,
+          "Racing Heritage": 94,
+          "Exclusivity & Rarity": 92,
+          "Design Tension (Sport vs Luxury)": 95
+        }
+      },
+      {
+        "year": 2023,
+        "score": 91,
+        "milestone": "GranTurismo Mk2 / Grecale — full range renewal",
+        "dimensionScores": {
+          "Grand Touring Elegance": 95,
+          "Engine & Sound Character": 91,
+          "Italian Craftsmanship": 95,
+          "Racing Heritage": 88,
+          "Exclusivity & Rarity": 91,
+          "Design Tension (Sport vs Luxury)": 92
+        }
+      }
+    ],
+    "createdAt": "2026-01-15T10:00:00Z",
+    "updatedAt": "2026-01-15T10:00:00Z"
+  },
+  "analysis": {
+    "id": "analysis-maserati-brand",
+    "entityType": "brand",
+    "entityId": "brand-maserati",
+    "analysisType": "design_evolution",
+    "provider": "claude-3-5",
+    "headline": "The Trident in Transition: Maserati's Folgore Era and the Sound of Silence",
+    "summary": "Maserati is navigating the most complex identity challenge in its 110-year history: how to preserve the sensory theatre of a snarling V8 and the intimacy of a hand-built Italian car while electrifying an entire model range. The answer, so far, is the Folgore programme — and the evidence suggests Maserati understands something its rivals don't: that electrification is not the enemy of character, it is a new medium for expressing it.",
+    "fullText": "There are brands for which electrification is a transition of convenience — a regulatory compliance exercise dressed in progressive language. And then there is Maserati, for whom the shift to Folgore represents something genuinely more ambivalent and more interesting: the replacement of its most irreplaceable asset.\n\nThe Maserati engine note is not background music. For sixty years, the rasp of a Ferrari-derived V8 under a long Maserati bonnet has been the primary emotional hook — the sensory proof that you are in something genuinely different from a German luxury car. The GranTurismo's 4.7-litre naturally aspirated V8 didn't just motivate the car; it defined it. Remove it, and what remains?\n\nThe answer, with the GranTurismo Folgore and GranCabrio Folgore, is surprisingly convincing. Maserati's engineers chose not to mask the car's electric nature with synthetic engine sounds. Instead, they engineered the chassis, suspension, and body to communicate through what remains: steering feel, suspension precision, and the instantaneous, wave-like torque delivery of three electric motors producing 761 hp. The Folgore is genuinely fast — 0–100 in 2.7 seconds — and genuinely Maserati, because the design, the materials, and the fundamental character of the car remain unchanged.\n\nThe MC20 represents a different strand of the same story. Maserati's first wholly in-house supercar since the 250F uses a 3.0-litre twin-turbo V6 — the Nettuno — developed entirely without Ferrari's involvement. It is the technical declaration of independence that accompanies the brand's commercial reinvention: Maserati is no longer a premium brand that happens to be Italian. It is an Italian brand that happens to be a premium car maker, with all the craft, passion, and controlled irrationality that implies.\n\nThe Grecale and Levante reveal the third element of the strategy: that volume and exclusivity are not incompatible if the product is right. The Grecale outsells every other Maserati but feels nothing like a commodity SUV. The Poltrona Frau leather, the Sonus faber audio system, and the obsessive attention to surface detail ensure that every Grecale owner feels they have bought something made with intention.\n\nThe risk is real. Maserati's identity has always been anchored in the auditory. Silence is the condition it must learn to make eloquent.",
+    "insights": [
+      {
+        "id": "insight-maserati-1",
+        "category": "Folgore Electrification Strategy",
+        "text": "Maserati's Folgore programme takes a unique approach among luxury electrification strategies: rather than creating new electric-only platforms, it electrifies existing models (GranTurismo, GranCabrio, Grecale) to preserve body continuity. This means a Folgore GranTurismo is visually indistinguishable from its ICE sibling — a deliberate choice to emphasise that electric is a powertrain option, not a new identity.",
+        "confidence": 0.93,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-maserati-2",
+        "category": "Nettuno Engine — Design Innovation",
+        "text": "The MC20's Nettuno V6 uses a patented pre-chamber combustion system borrowed from Formula One, allowing lean-burn combustion at high rpm without knock. It produces 630 hp from 3.0 litres with no electric assistance — the most power-dense naturally-inspired road engine Maserati has ever built, and the clearest statement of the brand's technical independence from Ferrari.",
+        "confidence": 0.95,
+        "importance": "critical"
+      },
+      {
+        "id": "insight-maserati-3",
+        "category": "Design Heritage — Pininfarina",
+        "text": "The GranTurismo (2007–2019) designed by Pininfarina's Jason Castriota is widely considered the most beautiful Maserati of the modern era — a car that demonstrated Italian coachbuilding applied to a volume-production GT at its highest expression. The Mk2 GranTurismo (2023) by Maserati's in-house Centro Stile deliberately references and updates this language rather than replacing it.",
+        "confidence": 0.91,
+        "importance": "high"
+      },
+      {
+        "id": "insight-maserati-4",
+        "category": "Racing Heritage",
+        "text": "The GT2 Stradale represents the closest Maserati has come to putting a genuine race car on the road since the MC12 (2004). Built to homologate the GranTurismo GT2 racing car, just 250 units are produced with full aero bodykit, roll cage provisions, and the Nettuno V6 in highest-output form — a direct descendant of the 250F philosophy.",
+        "confidence": 0.89,
+        "importance": "high"
+      },
+      {
+        "id": "insight-maserati-5",
+        "category": "Competitive Positioning",
+        "text": "Maserati deliberately occupies the intersection between sports car performance and luxury refinement — a position neither Ferrari (too focused on performance) nor Bentley (too focused on luxury) can occupy. The Quattroporte competes with the BMW 7 Series on dynamics; the GranTurismo competes with the Porsche 911 on exclusivity. This deliberate ambiguity is the brand's greatest commercial asset.",
+        "confidence": 0.87,
+        "importance": "high"
+      }
+    ],
+    "confidenceScore": 0.91,
+    "processingTimeMs": 3800,
+    "createdAt": "2026-01-15T10:00:00Z",
+    "isCached": true
+  },
+  "models": [
+    {
+      "id": "m-maserati-mcpura",
+      "slug": "maserati-mcpura",
+      "name": "MCPura",
+      "fullName": "Maserati MCPura",
+      "brandId": "brand-maserati",
+      "bodyType": "concept",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2026,
+      "endYear": null,
+      "isActive": true,
+      "description": "Maserati MCPura — track-only hypercar concept. A vision of ultimate Maserati performance with the Nettuno V6 in its highest state of tune.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2026_maserati_mcpura/images/1920x1080/2026_maserati_mcpura_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2026_maserati_mcpura/images/1920x1080/2026_maserati_mcpura_1_1920x1080.jpg",
+      "tags": [
+        "concept",
+        "track",
+        "hypercar",
+        "nettuno"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-gt2-stradale",
+      "slug": "maserati-gt2-stradale",
+      "name": "GT2 Stradale",
+      "fullName": "Maserati GT2 Stradale",
+      "brandId": "brand-maserati",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2025,
+      "endYear": null,
+      "isActive": true,
+      "description": "The GT2 Stradale is Maserati's most extreme road car — a homologation special for the GT2 racing programme, limited to 250 units. Based on the GranTurismo with full aero package, roll cage provisions, and the Nettuno V6 in highest road tune.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_gt2_stradale/images/1920x1080/2025_maserati_gt2_stradale_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_gt2_stradale/images/1920x1080/2025_maserati_gt2_stradale_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "homologation",
+        "racing",
+        "limited-edition",
+        "nettuno"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-granturismo-110-anniversario",
+      "slug": "maserati-granturismo-110-anniversario",
+      "name": "GranTurismo 110 Anniversario",
+      "fullName": "Maserati GranTurismo 110 Anniversario",
+      "brandId": "brand-maserati",
+      "bodyType": "coupe",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2025,
+      "endYear": null,
+      "isActive": true,
+      "description": "Special edition marking Maserati's 110th anniversary. The GranTurismo in a unique specification with bespoke exterior colour, interior details, and anniversary badging.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_granturismo_110_anniversario/images/1920x1080/2025_maserati_granturismo_110_anniversario_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_granturismo_110_anniversario/images/1920x1080/2025_maserati_granturismo_110_anniversario_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "special-edition",
+        "anniversary"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-grancabrio-folgore-tignanello",
+      "slug": "maserati-grancabrio-folgore-tignanello",
+      "name": "GranCabrio Folgore Tignanello",
+      "fullName": "Maserati GranCabrio Folgore Tignanello",
+      "brandId": "brand-maserati",
+      "bodyType": "convertible",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2025,
+      "endYear": null,
+      "isActive": true,
+      "description": "A collaboration with Antinori winery celebrating the Tignanello wine estate. The GranCabrio Folgore in a unique two-tone paint inspired by Tuscan terracotta and the vineyards of Chianti Classico.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio_folgore_tignanello/images/1920x1080/2025_maserati_grancabrio_folgore_tignanello_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio_folgore_tignanello/images/1920x1080/2025_maserati_grancabrio_folgore_tignanello_1_1920x1080.jpg",
+      "tags": [
+        "convertible",
+        "folgore",
+        "bev",
+        "special-edition",
+        "italian-lifestyle"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-grancabrio-folgore",
+      "slug": "maserati-grancabrio-folgore",
+      "name": "GranCabrio Folgore",
+      "fullName": "Maserati GranCabrio Folgore",
+      "brandId": "brand-maserati",
+      "bodyType": "convertible",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2024,
+      "endYear": null,
+      "isActive": true,
+      "description": "The world's first fully electric grand touring convertible. The GranCabrio Folgore uses a tri-motor all-wheel-drive system producing 761 hp (568 kW). 0–100 km/h in 2.7 seconds in an open-top luxury convertible.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio_folgore/images/1920x1080/2025_maserati_grancabrio_folgore_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio_folgore/images/1920x1080/2025_maserati_grancabrio_folgore_1_1920x1080.jpg",
+      "tags": [
+        "convertible",
+        "folgore",
+        "bev",
+        "electric",
+        "761hp"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-grancabrio",
+      "slug": "maserati-grancabrio",
+      "name": "GranCabrio",
+      "fullName": "Maserati GranCabrio",
+      "brandId": "brand-maserati",
+      "bodyType": "convertible",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2010,
+      "endYear": null,
+      "isActive": true,
+      "description": "Maserati's luxury grand touring convertible. The first generation (2010–2019) used a 4.7-litre V8 from the GranTurismo. The second generation (2023–) is available as both V6 ICE and Folgore all-electric, sharing the GranTurismo Mk2 platform with an open-top body.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio/images/1920x1080/2025_maserati_grancabrio_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_grancabrio/images/1920x1080/2025_maserati_grancabrio_1_1920x1080.jpg",
+      "tags": [
+        "convertible",
+        "luxury",
+        "grand-touring",
+        "v8",
+        "folgore"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-mcxtrema",
+      "slug": "maserati-mcxtrema",
+      "name": "MCXtrema",
+      "fullName": "Maserati MCXtrema",
+      "brandId": "brand-maserati",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2024,
+      "endYear": null,
+      "isActive": true,
+      "description": "Maserati MCXtrema is a track-only, non-street-legal hypercar limited to 62 units. Built on a carbon-fibre monocoque with the Nettuno V6 producing over 740 hp in race tune. Each car is tailored to its owner.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2024_maserati_mcxtrema/images/1920x1080/2024_maserati_mcxtrema_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2024_maserati_mcxtrema/images/1920x1080/2024_maserati_mcxtrema_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "track-only",
+        "hypercar",
+        "limited-62-units",
+        "nettuno",
+        "carbon"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-grecale-folgore",
+      "slug": "maserati-grecale-folgore",
+      "name": "Grecale Folgore",
+      "fullName": "Maserati Grecale Folgore",
+      "brandId": "brand-maserati",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2024,
+      "endYear": null,
+      "isActive": true,
+      "description": "The electric version of Maserati's compact luxury SUV. The Grecale Folgore produces 557 hp from dual motors, 0–100 in 4.1 seconds, with a 105 kWh battery and 500+ km range. The first Maserati SUV available as a fully electric model.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2024_maserati_grecale_folgore/images/1920x1080/2024_maserati_grecale_folgore_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2024_maserati_grecale_folgore/images/1920x1080/2024_maserati_grecale_folgore_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "folgore",
+        "bev",
+        "electric",
+        "557hp"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-mc20-cielo",
+      "slug": "maserati-mc20-cielo",
+      "name": "MC20 Cielo",
+      "fullName": "Maserati MC20 Cielo",
+      "brandId": "brand-maserati",
+      "bodyType": "convertible",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2023,
+      "endYear": null,
+      "isActive": true,
+      "description": "The open-top version of the MC20 supercar, featuring an electrochromic glass targa roof that darkens at the touch of a button. Shares the MC20's Nettuno V6 630 hp powertrain with minimal weight increase — the lightest Maserati convertible ever.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_mc20_cielo/images/1920x1080/2023_maserati_mc20_cielo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_mc20_cielo/images/1920x1080/2023_maserati_mc20_cielo_1_1920x1080.jpg",
+      "tags": [
+        "convertible",
+        "supercar",
+        "nettuno",
+        "targa",
+        "electrochromic-roof"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-gt2",
+      "slug": "maserati-gt2",
+      "name": "GT2",
+      "fullName": "Maserati GT2",
+      "brandId": "brand-maserati",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2023,
+      "endYear": null,
+      "isActive": true,
+      "description": "The Maserati GranTurismo GT2 is a dedicated racing car built to FIA GT2 regulations. Powered by the Nettuno V6, it competes in the GT2 European Series and serves as the base for the GT2 Stradale homologation car.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_gt2/images/1920x1080/2023_maserati_gt2_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_gt2/images/1920x1080/2023_maserati_gt2_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "racing",
+        "gt2",
+        "nettuno",
+        "motorsport"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-granturismo-trofeo",
+      "slug": "maserati-granturismo-trofeo",
+      "name": "GranTurismo Trofeo",
+      "fullName": "Maserati GranTurismo Trofeo",
+      "brandId": "brand-maserati",
+      "bodyType": "coupe",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2023,
+      "endYear": null,
+      "isActive": true,
+      "description": "The highest-performance ICE variant of the second-generation GranTurismo, powered by the Nettuno V6 producing 550 hp. The Trofeo badge signifies the top-specification trim with adaptive dampers, sport exhaust, and the most aggressive chassis setup in the range.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_trofeo/images/1920x1080/2023_maserati_granturismo_trofeo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_trofeo/images/1920x1080/2023_maserati_granturismo_trofeo_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "grand-touring",
+        "nettuno",
+        "trofeo",
+        "550hp"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-granturismo-folgore",
+      "slug": "maserati-granturismo-folgore",
+      "name": "GranTurismo Folgore",
+      "fullName": "Maserati GranTurismo Folgore",
+      "brandId": "brand-maserati",
+      "bodyType": "coupe",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2023,
+      "endYear": null,
+      "isActive": true,
+      "description": "The first fully electric grand touring coupe from Maserati. The GranTurismo Folgore uses three electric motors producing 761 hp (568 kW) and 1,350 Nm, accelerating to 100 km/h in 2.7 seconds — the fastest GranTurismo ever built.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_folgore/images/1920x1080/2023_maserati_granturismo_folgore_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo_folgore/images/1920x1080/2023_maserati_granturismo_folgore_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "folgore",
+        "bev",
+        "electric",
+        "761hp",
+        "2.7s"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-grecale",
+      "slug": "maserati-grecale",
+      "name": "Grecale",
+      "fullName": "Maserati Grecale",
+      "brandId": "brand-maserati",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2022,
+      "endYear": null,
+      "isActive": true,
+      "description": "Maserati's compact luxury SUV, positioned below the Levante. Built on the Alfa Romeo Giorgio platform, the Grecale is available with a 2.0T mild-hybrid four-cylinder (Modena), a 2.0T GT (330 hp), and a Trofeo V6 (530 hp). Named after the north-east Mediterranean wind.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_grecale/images/1920x1080/2023_maserati_grecale_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_grecale/images/1920x1080/2023_maserati_grecale_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "luxury",
+        "compact",
+        "giorgio-platform",
+        "trofeo"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-mc20",
+      "slug": "maserati-mc20",
+      "name": "MC20",
+      "fullName": "Maserati MC20",
+      "brandId": "brand-maserati",
+      "bodyType": "coupe",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2021,
+      "endYear": null,
+      "isActive": true,
+      "description": "Maserati's return to the supercar segment — the first wholly in-house supercar since the MC12. Mid-engine layout, carbon-fibre monocoque, butterfly doors, and the Nettuno V6 (3.0L twin-turbo, pre-chamber combustion) producing 630 hp. 0–100 in 2.9 seconds, top speed 325 km/h.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_mc20/images/1920x1080/2021_maserati_mc20_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_mc20/images/1920x1080/2021_maserati_mc20_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "supercar",
+        "mid-engine",
+        "nettuno",
+        "carbon-monocoque",
+        "630hp"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-levante",
+      "slug": "maserati-levante",
+      "name": "Levante",
+      "fullName": "Maserati Levante",
+      "brandId": "brand-maserati",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2016,
+      "endYear": null,
+      "isActive": true,
+      "description": "Maserati's flagship SUV — the brand's first in its 100-year history. Built on a bespoke platform with front-engine, all-wheel-drive layout. Available with V6 (350 hp), twin-turbo V6 S (430 hp), and Trofeo V8 (580 hp). The Levante proved Maserati could build a credible luxury SUV without compromising the brand's sporting DNA.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante/images/1920x1080/2021_maserati_levante_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_levante/images/1920x1080/2021_maserati_levante_1_1920x1080.jpg",
+      "tags": [
+        "suv",
+        "luxury",
+        "awd",
+        "v8-trofeo",
+        "first-maserati-suv"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-quattroporte",
+      "slug": "maserati-quattroporte",
+      "name": "Quattroporte",
+      "fullName": "Maserati Quattroporte",
+      "brandId": "brand-maserati",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1963,
+      "endYear": 2023,
+      "isActive": false,
+      "description": "The Quattroporte ('four doors' in Italian) is Maserati's flagship executive sedan — the world's fastest four-door car on its introduction in 1963. The sixth and final generation (2013–2023) used 3.0-litre twin-turbo V6 and 3.8-litre twin-turbo V8 engines in a car that rivalled the BMW 7 Series and Mercedes S-Class on performance while exceeding them in character.",
+      "generationCount": 6,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_quattroporte/images/1920x1080/2021_maserati_quattroporte_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_quattroporte/images/1920x1080/2021_maserati_quattroporte_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "flagship",
+        "luxury",
+        "executive",
+        "v8",
+        "60-years"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-ghibli",
+      "slug": "maserati-ghibli",
+      "name": "Ghibli",
+      "fullName": "Maserati Ghibli",
+      "brandId": "brand-maserati",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 1966,
+      "endYear": 2023,
+      "isActive": false,
+      "description": "The Ghibli name spans three distinct Maserati eras. The original (1966–1973, Giugiaro) was a stunning V8 GT coupe. The third generation (2013–2023) revived the name for Maserati's entry-level luxury sedan — a BMW 5 Series rival with V6 and Hybrid power, built to prove Maserati could succeed in the volume luxury segment.",
+      "generationCount": 3,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2021_maserati_ghibli/images/1920x1080/2021_maserati_ghibli_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2021_maserati_ghibli/images/1920x1080/2021_maserati_ghibli_1_1920x1080.jpg",
+      "tags": [
+        "sedan",
+        "luxury",
+        "entry-level",
+        "hybrid",
+        "giugiaro-heritage"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-granturismo",
+      "slug": "maserati-granturismo",
+      "name": "GranTurismo",
+      "fullName": "Maserati GranTurismo",
+      "brandId": "brand-maserati",
+      "bodyType": "coupe",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2007,
+      "endYear": null,
+      "isActive": true,
+      "description": "Maserati's definitive grand touring coupe. The first generation (2007–2019, Pininfarina, designer Jason Castriota) is widely considered the most beautiful Maserati of the modern era. The second generation (2023–) is powered by the in-house Nettuno V6 and is also available as the fully electric Folgore.",
+      "generationCount": 2,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo/images/1920x1080/2023_maserati_granturismo_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2023_maserati_granturismo/images/1920x1080/2023_maserati_granturismo_1_1920x1080.jpg",
+      "tags": [
+        "coupe",
+        "grand-touring",
+        "pininfarina",
+        "nettuno",
+        "folgore"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-alfieri-concept",
+      "slug": "maserati-alfieri-concept",
+      "name": "Alfieri Concept",
+      "fullName": "Maserati Alfieri Concept",
+      "brandId": "brand-maserati",
+      "bodyType": "concept",
+      "segment": "sports",
+      "primaryMarket": "global",
+      "startYear": 2014,
+      "endYear": 2014,
+      "isActive": false,
+      "description": "The Alfieri concept (Geneva 2014) previewed a future Maserati sports car to replace the GranTurismo. Named after Alfieri Maserati, one of the founding brothers. Though it never entered production, its design DNA directly influenced the MC20.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2014_maserati_alfieri_concept/images/1920x1080/2014_maserati_alfieri_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2014_maserati_alfieri_concept/images/1920x1080/2014_maserati_alfieri_concept_1_1920x1080.jpg",
+      "tags": [
+        "concept",
+        "sports",
+        "mc20-predecessor"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-maserati-kubang-concept",
+      "slug": "maserati-kubang-concept",
+      "name": "Kubang Concept",
+      "fullName": "Maserati Kubang Concept",
+      "brandId": "brand-maserati",
+      "bodyType": "concept",
+      "segment": "luxury",
+      "primaryMarket": "global",
+      "startYear": 2011,
+      "endYear": 2011,
+      "isActive": false,
+      "description": "The Kubang concept (Frankfurt 2011) previewed what became the Levante SUV. Named after a Javanese wind, it demonstrated Maserati's intention to enter the luxury SUV segment — a controversial decision at the time that proved commercially transformative.",
+      "generationCount": 1,
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_kubang_concept/images/1920x1080/2011_maserati_kubang_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2011_maserati_kubang_concept/images/1920x1080/2011_maserati_kubang_concept_1_1920x1080.jpg",
+      "tags": [
+        "concept",
+        "suv-preview",
+        "levante-predecessor"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "analysisAlt": {
+    "id": "analysis-maserati-brand-gemini",
+    "entityType": "brand",
+    "entityId": "brand-maserati",
+    "analysisType": "design_evolution",
+    "provider": "gemini",
+    "headline": "Трезубец в поиске: 110 лет между роскошью и скоростью",
+    "summary": "Maserati — единственный бренд в истории, основанный механиком, выигравшим «Тысячу миль» как гонщик, продавшим компанию производителю холодильников, а затем — оказавшимся в руках Ferrari. Эта биография владельцев написана на каждом поколении GranTurismo.",
+    "fullText": "История Maserati — это история про людей, а не про автомобили. Альфьери Мазерати основал компанию в 1914 году в Болонье вместе с братьями после того, как его гоночная карьера была прервана травмой. Первые Maserati были чисто гоночными машинами, и компания выиграла первый Чемпионат мира Формулы 1 в 1954 году с Хуаном Мануэлем Фанхио за рулём 250F — самого красивого гоночного автомобиля в истории.\n\nПродажа компании Орси в 1937 году была первым из многих поворотов владельцев, каждый из которых оставил отпечаток на идентичности бренда. Под Орси Maserati стал производить дорожные автомобили — роскошные GT для состоятельных итальянцев, которые хотели Феррари, но с другим именем на решётке радиатора. Ghibli 1966 года, спроектированный Джуджаро в 25 лет, до сих пор считается одним из красивейших кузовов в истории.\n\nЭра Ситроена (1968-1975) подарила Maserati гидропневматическую подвеску от французского партнёра и почти уничтожила бренд после нефтяного кризиса. Де Томазо, купивший компанию в 1975 году при поддержке итальянского правительства, сделал ставку на объём — Biturbo 1981 года продавался тысячами, но качество было катастрофическим. Репутация восстанавливалась более десяти лет.\n\nФеррари, получивший контроль в 1997 году, сделал то, что не удавалось никому до него: сохранил характер Maserati, одновременно подняв качество до европейских стандартов. Quattroporte V 2003 года был первым Maserati, который не стыдно было сравнивать с BMW 7 Series по надёжности. GranTurismo 2007 года, спроектированный Пиненфариной и Джейсоном Кастриотой, стал образцом современного GT.",
+    "insights": [
+      {
+        "id": "ins-gem-1",
+        "category": "Основатели и гонки",
+        "text": "Maserati основан в 1914 году шестью братьями, из которых четверо были гонщиками. Альфьери умер от последствий аварии в 1932 году, Карло — ещё раньше. Каждый Maserati несёт в себе этот кровный долг перед гоночной трассой.",
+        "confidence": 0.97,
+        "importance": "critical"
+      },
+      {
+        "id": "ins-gem-2",
+        "category": "Владельцы как судьба",
+        "text": "За 110 лет Maserati сменил шесть владельцев: семья, Орси, Ситроен, Де Томазо (государство), FIAT, Ferrari, Stellantis. Каждая смена оставляла след в характере автомобилей — что делает историю бренда уникальным зеркалом истории европейской промышленности.",
+        "confidence": 0.95,
+        "importance": "critical"
+      },
+      {
+        "id": "ins-gem-3",
+        "category": "Ghibli как культурный феномен",
+        "text": "Джорджетто Джуджаро спроектировал Ghibli I (1966) в 27 лет, будучи ещё сотрудником Ghia. Автомобиль стал настолько значимым, что Maserati дважды возрождал имя (1992 и 2013). Три Ghibli за 60 лет — это не маркетинг, это признание культурного веса оригинала.",
+        "confidence": 0.93,
+        "importance": "high"
+      },
+      {
+        "id": "ins-gem-4",
+        "category": "Pininfarina и GranTurismo",
+        "text": "GranTurismo 2007 года — последний большой проект Серджо Пиненфарины перед его смертью в 2012 году. Он лично одобрял финальные детали кузова. Это делает Mk1 GranTurismo одним из немногих современных автомобилей, которые можно назвать свидетелем смены эпох итальянского дизайна.",
+        "confidence": 0.9,
+        "importance": "high"
+      },
+      {
+        "id": "ins-gem-5",
+        "category": "Folgore и безмолвие",
+        "text": "Название Folgore (молния по-итальянски) для электрической линейки — намеренный парадокс. Самое громкое имя для самого тихого поколения. Maserati единственный из итальянских производителей суперкаров, кто пошёл на электрификацию без создания нового суббренда — и этот выбор будет определять идентичность компании на следующие 20 лет.",
+        "confidence": 0.88,
+        "importance": "high"
+      }
+    ],
+    "confidenceScore": 0.92,
+    "processingTimeMs": 3200,
+    "createdAt": "2026-01-15T10:00:00Z",
+    "isCached": true
+  },
+  "latestCars": [
+    {
+      "id": "ncs-maserati-2014-alfieri_concept",
+      "name": "Maserati Alfieri Concept",
+      "year": 2014,
+      "imageUrl": "https://www.netcarshow.com/Maserati-Alfieri_Concept-2014-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/maserati/2014-alfieri_concept/",
+      "description": "Maserati unveiled the Alfieri, a 2+2 concept car to celebrate the brand's centenary at the 2014 Geneva Motor Show. The Alfieri is an exciting but realistic...",
+      "scrapedAt": "2026-06-05T07:31:49.539Z"
+    }
+  ]
+}

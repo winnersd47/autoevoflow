@@ -1,0 +1,210 @@
+{
+  "id": "m-chevrolet-silverado-hd",
+  "slug": "chevrolet-silverado-hd",
+  "name": "Silverado HD",
+  "fullName": "Chevrolet Silverado HD",
+  "brandId": "brand-chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Silverado HD — sedan, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd/images/1920x1080/2024_chevrolet_silverado_hd_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd/images/1920x1080/2024_chevrolet_silverado_hd_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-silverado-hd-2020-0",
+      "slug": "chevrolet-silverado-hd-2020-0",
+      "modelId": "m-chevrolet-silverado-hd",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Silverado HD | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd/images/1920x1080/2024_chevrolet_silverado_hd_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd/images/1920x1080/2024_chevrolet_silverado_hd_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-silverado-hd-2020-0",
+          "generationId": "gen-chevrolet-silverado-hd-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd/images/1920x1080/2024_chevrolet_silverado_hd_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2024_chevrolet_silverado_hd/images/1920x1080/2024_chevrolet_silverado_hd_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Silverado HD | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-silverado-hd-2020-1",
+      "slug": "chevrolet-silverado-hd-2020-1",
+      "modelId": "m-chevrolet-silverado-hd",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Silverado HD | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_silverado_hd/images/1920x1080/2020_chevrolet_silverado_hd_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_silverado_hd/images/1920x1080/2020_chevrolet_silverado_hd_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-silverado-hd-2020-1",
+          "generationId": "gen-chevrolet-silverado-hd-2020-1",
+          "url": "https://images.caricos.com/c/chevrolet/2020_chevrolet_silverado_hd/images/1920x1080/2020_chevrolet_silverado_hd_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_silverado_hd/images/1920x1080/2020_chevrolet_silverado_hd_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Silverado HD | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-silverado-hd-2020-2",
+      "slug": "chevrolet-silverado-hd-2020-2",
+      "modelId": "m-chevrolet-silverado-hd",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Silverado HD | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_silverado_hd/images/1920x1080/2017_chevrolet_silverado_hd_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_silverado_hd/images/1920x1080/2017_chevrolet_silverado_hd_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-silverado-hd-2020-2",
+          "generationId": "gen-chevrolet-silverado-hd-2020-2",
+          "url": "https://images.caricos.com/c/chevrolet/2017_chevrolet_silverado_hd/images/1920x1080/2017_chevrolet_silverado_hd_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_silverado_hd/images/1920x1080/2017_chevrolet_silverado_hd_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Silverado HD | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-silverado-hd-2020-3",
+      "slug": "chevrolet-silverado-hd-2020-3",
+      "modelId": "m-chevrolet-silverado-hd",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Silverado HD | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_hd/images/1920x1080/2015_chevrolet_silverado_hd_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_hd/images/1920x1080/2015_chevrolet_silverado_hd_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-silverado-hd-2020-3",
+          "generationId": "gen-chevrolet-silverado-hd-2020-3",
+          "url": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_hd/images/1920x1080/2015_chevrolet_silverado_hd_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_silverado_hd/images/1920x1080/2015_chevrolet_silverado_hd_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Silverado HD | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

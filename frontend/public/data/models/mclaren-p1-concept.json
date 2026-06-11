@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-p1-concept",
+  "slug": "mclaren-p1-concept",
+  "name": "P1 Concept",
+  "fullName": "McLaren P1 Concept",
+  "brandId": "brand-mclaren",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "endYear": 2012,
+  "isActive": false,
+  "description": "McLaren P1 Concept — concept, produced since 2012.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2012_mclaren_p1_concept/images/1920x1080/2012_mclaren_p1_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2012_mclaren_p1_concept/images/1920x1080/2012_mclaren_p1_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-p1-concept-2012-0",
+      "slug": "mclaren-p1-concept-2012-0",
+      "modelId": "m-mclaren-p1-concept",
+      "brandId": "brand-mclaren",
+      "codeName": "2012",
+      "generationNumber": 1,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2012 McLaren P1 Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2012_mclaren_p1_concept/images/1920x1080/2012_mclaren_p1_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2012_mclaren_p1_concept/images/1920x1080/2012_mclaren_p1_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-p1-concept-2012-0",
+          "generationId": "gen-mclaren-p1-concept-2012-0",
+          "url": "https://images.caricos.com/m/mclaren/2012_mclaren_p1_concept/images/1920x1080/2012_mclaren_p1_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2012_mclaren_p1_concept/images/1920x1080/2012_mclaren_p1_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "2012 McLaren P1 Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

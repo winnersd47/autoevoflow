@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-sq7",
+  "slug": "audi-audi-sq7",
+  "name": "Audi SQ7",
+  "fullName": "2027 Audi SQ7",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Audi SQ7 extends the Q7's performance credentials, replacing the V6 power for a revised 4.0-liter twin turbo V8 generating 591 horsepower and 590 lb-ft of torque.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-SQ7-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-SQ7-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-sq7/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-10T03:06:57.329Z",
+  "createdAt": "2026-06-10T03:06:58.180Z",
+  "updatedAt": "2026-06-10T03:06:58.180Z"
+}

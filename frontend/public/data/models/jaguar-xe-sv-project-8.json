@@ -1,0 +1,72 @@
+{
+  "id": "m-jaguar-xe-sv-project-8",
+  "slug": "jaguar-xe-sv-project-8",
+  "name": "XE SV Project 8",
+  "fullName": "Jaguar XE SV Project 8",
+  "brandId": "brand-jaguar",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Jaguar XE SV Project 8 — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_xe_sv_project_8/images/1920x1080/2018_jaguar_xe_sv_project_8_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_xe_sv_project_8/images/1920x1080/2018_jaguar_xe_sv_project_8_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "jaguar"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-jaguar-xe-sv-project-8-2020-0",
+      "slug": "jaguar-xe-sv-project-8-2020-0",
+      "modelId": "m-jaguar-xe-sv-project-8",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar XE SV Project 8 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_xe_sv_project_8/images/1920x1080/2018_jaguar_xe_sv_project_8_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_xe_sv_project_8/images/1920x1080/2018_jaguar_xe_sv_project_8_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-xe-sv-project-8-2020-0",
+          "generationId": "gen-jaguar-xe-sv-project-8-2020-0",
+          "url": "https://images.caricos.com/j/jaguar/2018_jaguar_xe_sv_project_8/images/1920x1080/2018_jaguar_xe_sv_project_8_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2018_jaguar_xe_sv_project_8/images/1920x1080/2018_jaguar_xe_sv_project_8_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar XE SV Project 8 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

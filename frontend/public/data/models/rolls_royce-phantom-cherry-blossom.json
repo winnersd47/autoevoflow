@@ -1,0 +1,72 @@
+{
+  "id": "m-rolls_royce-phantom-cherry-blossom",
+  "slug": "rolls_royce-phantom-cherry-blossom",
+  "name": "Phantom Cherry Blossom",
+  "fullName": "Rolls-Royce Phantom Cherry Blossom",
+  "brandId": "brand-rolls_royce",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Rolls-Royce Phantom Cherry Blossom — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2025_rolls-royce_phantom_cherry_blossom/images/1920x1080/2025_rolls-royce_phantom_cherry_blossom_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/r/rolls-royce/2025_rolls-royce_phantom_cherry_blossom/images/1920x1080/2025_rolls-royce_phantom_cherry_blossom_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "rolls-royce"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-rolls_royce-phantom-cherry-blossom-2020-0",
+      "slug": "rolls_royce-phantom-cherry-blossom-2020-0",
+      "modelId": "m-rolls_royce-phantom-cherry-blossom",
+      "brandId": "brand-rolls_royce",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Rolls-Royce Phantom Cherry Blossom | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2025_rolls-royce_phantom_cherry_blossom/images/1920x1080/2025_rolls-royce_phantom_cherry_blossom_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/rolls-royce/2025_rolls-royce_phantom_cherry_blossom/images/1920x1080/2025_rolls-royce_phantom_cherry_blossom_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-rolls_royce-phantom-cherry-blossom-2020-0",
+          "generationId": "gen-rolls_royce-phantom-cherry-blossom-2020-0",
+          "url": "https://images.caricos.com/r/rolls-royce/2025_rolls-royce_phantom_cherry_blossom/images/1920x1080/2025_rolls-royce_phantom_cherry_blossom_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/rolls-royce/2025_rolls-royce_phantom_cherry_blossom/images/1920x1080/2025_rolls-royce_phantom_cherry_blossom_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Rolls-Royce Phantom Cherry Blossom | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

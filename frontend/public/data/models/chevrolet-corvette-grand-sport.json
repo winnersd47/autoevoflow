@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-corvette-grand-sport",
+  "slug": "chevrolet-corvette-grand-sport",
+  "name": "Corvette Grand Sport",
+  "fullName": "Chevrolet Corvette Grand Sport",
+  "brandId": "brand-chevrolet",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Corvette Grand Sport — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_corvette_grand_sport/images/1920x1080/2017_chevrolet_corvette_grand_sport_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_corvette_grand_sport/images/1920x1080/2017_chevrolet_corvette_grand_sport_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-corvette-grand-sport-2020-0",
+      "slug": "chevrolet-corvette-grand-sport-2020-0",
+      "modelId": "m-chevrolet-corvette-grand-sport",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Corvette Grand Sport | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_corvette_grand_sport/images/1920x1080/2017_chevrolet_corvette_grand_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_corvette_grand_sport/images/1920x1080/2017_chevrolet_corvette_grand_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-corvette-grand-sport-2020-0",
+          "generationId": "gen-chevrolet-corvette-grand-sport-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2017_chevrolet_corvette_grand_sport/images/1920x1080/2017_chevrolet_corvette_grand_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_corvette_grand_sport/images/1920x1080/2017_chevrolet_corvette_grand_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Corvette Grand Sport | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

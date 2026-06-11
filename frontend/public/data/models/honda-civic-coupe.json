@@ -1,0 +1,210 @@
+{
+  "id": "m-honda-civic-coupe",
+  "slug": "honda-civic-coupe",
+  "name": "Civic Coupe",
+  "fullName": "Honda Civic Coupe",
+  "brandId": "brand-honda",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda Civic Coupe — coupe, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_coupe/images/1920x1080/2020_honda_civic_coupe_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2020_honda_civic_coupe/images/1920x1080/2020_honda_civic_coupe_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-civic-coupe-2020-0",
+      "slug": "honda-civic-coupe-2020-0",
+      "modelId": "m-honda-civic-coupe",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Coupe | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_coupe/images/1920x1080/2020_honda_civic_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2020_honda_civic_coupe/images/1920x1080/2020_honda_civic_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-coupe-2020-0",
+          "generationId": "gen-honda-civic-coupe-2020-0",
+          "url": "https://images.caricos.com/h/honda/2020_honda_civic_coupe/images/1920x1080/2020_honda_civic_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2020_honda_civic_coupe/images/1920x1080/2020_honda_civic_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Coupe | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-civic-coupe-2020-1",
+      "slug": "honda-civic-coupe-2020-1",
+      "modelId": "m-honda-civic-coupe",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Coupe | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2019_honda_civic_coupe/images/1920x1080/2019_honda_civic_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2019_honda_civic_coupe/images/1920x1080/2019_honda_civic_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-coupe-2020-1",
+          "generationId": "gen-honda-civic-coupe-2020-1",
+          "url": "https://images.caricos.com/h/honda/2019_honda_civic_coupe/images/1920x1080/2019_honda_civic_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2019_honda_civic_coupe/images/1920x1080/2019_honda_civic_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Coupe | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-civic-coupe-2020-2",
+      "slug": "honda-civic-coupe-2020-2",
+      "modelId": "m-honda-civic-coupe",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Coupe | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_civic_coupe/images/1920x1080/2016_honda_civic_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2016_honda_civic_coupe/images/1920x1080/2016_honda_civic_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-coupe-2020-2",
+          "generationId": "gen-honda-civic-coupe-2020-2",
+          "url": "https://images.caricos.com/h/honda/2016_honda_civic_coupe/images/1920x1080/2016_honda_civic_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2016_honda_civic_coupe/images/1920x1080/2016_honda_civic_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Coupe | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-civic-coupe-2020-3",
+      "slug": "honda-civic-coupe-2020-3",
+      "modelId": "m-honda-civic-coupe",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Civic Coupe | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2014_honda_civic_coupe/images/1920x1080/2014_honda_civic_coupe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2014_honda_civic_coupe/images/1920x1080/2014_honda_civic_coupe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-civic-coupe-2020-3",
+          "generationId": "gen-honda-civic-coupe-2020-3",
+          "url": "https://images.caricos.com/h/honda/2014_honda_civic_coupe/images/1920x1080/2014_honda_civic_coupe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2014_honda_civic_coupe/images/1920x1080/2014_honda_civic_coupe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Civic Coupe | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

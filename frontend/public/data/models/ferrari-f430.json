@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-f430",
+  "slug": "ferrari-f430",
+  "name": "F430",
+  "fullName": "Ferrari F430",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "endYear": 2009,
+  "isActive": false,
+  "description": "The Ferrari F430 (2004–2009) introduced the E-Diff electronic differential and the manettino steering wheel switch — the most significant driver interaction advance in Ferrari's history. Its 490 hp 4.3-litre V8 remains one of the finest naturally aspirated Ferrari engines.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "mid-engine", "v8", "e-diff", "manettino"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

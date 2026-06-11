@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-terrano-suv-phev-concept",
+  "slug": "nissan-nissan-terrano-suv-phev-concept",
+  "name": "Nissan Terrano SUV PHEV Concept",
+  "fullName": "2026 Nissan Terrano SUV PHEV Concept",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Terrano PHEV Concept marks the return of an iconic nameplate. Equipped with the latest plug-in hybrid technology, the Terrano builds on Nissan's off-road heritage...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Terrano_SUV_PHEV_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Terrano_SUV_PHEV_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/nissan/2026-terrano_suv_phev_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.726Z",
+  "updatedAt": "2026-06-05T07:36:26.726Z"
+}

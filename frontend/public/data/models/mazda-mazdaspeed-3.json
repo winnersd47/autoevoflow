@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-mazdaspeed-3",
+  "slug": "mazda-mazdaspeed-3",
+  "name": "MazdaSpeed 3",
+  "fullName": "Mazda MazdaSpeed 3",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "endYear": 2012,
+  "isActive": false,
+  "description": "Mazda MazdaSpeed 3 — sedan, produced since 2012.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2012_mazda_mazdaspeed3/images/1920x1080/2012_mazda_mazdaspeed3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2012_mazda_mazdaspeed3/images/1920x1080/2012_mazda_mazdaspeed3_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mazdaspeed-3-2012-0",
+      "slug": "mazda-mazdaspeed-3-2012-0",
+      "modelId": "m-mazda-mazdaspeed-3",
+      "brandId": "brand-mazda",
+      "codeName": "2012",
+      "generationNumber": 1,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2012 Mazda MazdaSpeed 3",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2012_mazda_mazdaspeed3/images/1920x1080/2012_mazda_mazdaspeed3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2012_mazda_mazdaspeed3/images/1920x1080/2012_mazda_mazdaspeed3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mazdaspeed-3-2012-0",
+          "generationId": "gen-mazda-mazdaspeed-3-2012-0",
+          "url": "https://images.caricos.com/m/mazda/2012_mazda_mazdaspeed3/images/1920x1080/2012_mazda_mazdaspeed3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2012_mazda_mazdaspeed3/images/1920x1080/2012_mazda_mazdaspeed3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "2012 Mazda MazdaSpeed 3",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

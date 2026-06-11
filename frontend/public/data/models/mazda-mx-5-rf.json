@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-mx-5-rf",
+  "slug": "mazda-mx-5-rf",
+  "name": "MX-5 RF",
+  "fullName": "Mazda MX-5 RF",
+  "brandId": "brand-mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "endYear": 2017,
+  "isActive": false,
+  "description": "Mazda MX-5 RF — sedan, produced since 2017.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_mx-5_rf/images/1920x1080/2017_mazda_mx-5_rf_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2017_mazda_mx-5_rf/images/1920x1080/2017_mazda_mx-5_rf_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mx-5-rf-2017-0",
+      "slug": "mazda-mx-5-rf-2017-0",
+      "modelId": "m-mazda-mx-5-rf",
+      "brandId": "brand-mazda",
+      "codeName": "2017",
+      "generationNumber": 1,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 Mazda MX-5 RF",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_mx-5_rf/images/1920x1080/2017_mazda_mx-5_rf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2017_mazda_mx-5_rf/images/1920x1080/2017_mazda_mx-5_rf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mx-5-rf-2017-0",
+          "generationId": "gen-mazda-mx-5-rf-2017-0",
+          "url": "https://images.caricos.com/m/mazda/2017_mazda_mx-5_rf/images/1920x1080/2017_mazda_mx-5_rf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_mx-5_rf/images/1920x1080/2017_mazda_mx-5_rf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 Mazda MX-5 RF",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

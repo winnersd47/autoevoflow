@@ -1,0 +1,54 @@
+{
+  "id": "m-lamborghini-350-gt",
+  "slug": "lamborghini-350-gt",
+  "name": "350 GT",
+  "fullName": "Lamborghini 350 GT",
+  "brandId": "brand-lamborghini",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1964,
+  "endYear": 1968,
+  "isActive": false,
+  "description": "The Lamborghini 350 GT (1964–1968) was Ferruccio Lamborghini's first production car — his answer to Enzo Ferrari after being dismissed as a tractor maker. With a 3.5-litre V12 by ex-Ferrari engineer Giotto Bizzarrini and coachwork by Touring of Milan, it immediately established that a new Italian supercar rival had arrived.",
+  "generationCount": 2,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "coupe",
+    "lamborghini",
+    "v12",
+    "heritage",
+    "founding"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-350-gt-1",
+      "slug": "lamborghini-350-gt-gen1",
+      "modelId": "m-lamborghini-350-gt",
+      "brandId": "brand-lamborghini",
+      "codeName": "350/400 GT",
+      "generationNumber": 1,
+      "startYear": 1964,
+      "endYear": 1968,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Lamborghini 350 GT (1964–1968) was Ferruccio Lamborghini's first production car — his answer to Enzo Ferrari after being dismissed as a tractor maker. With a 3.5-litre V12 by ex-Ferrari engineer Giotto Bizzarrini and coachwork by Touring of Milan, it immediately established that a new Italian supercar rival had arrived.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

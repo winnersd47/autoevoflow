@@ -1,0 +1,51 @@
+{
+  "id": "m-seat-leon",
+  "slug": "seat-leon",
+  "name": "Leon",
+  "fullName": "Seat Leon",
+  "brandId": "brand-seat",
+  "bodyType": "hatchback",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "endYear": null,
+  "isActive": true,
+  "description": "The SEAT Leon (1999-present) shares successive Golf platforms while delivering more aggressive styling and the Cupra performance variants that rival the Golf GTI.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "hatchback",
+    "seat"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-seat-leon-1",
+      "slug": "seat-leon-gen1",
+      "modelId": "m-seat-leon",
+      "brandId": "brand-seat",
+      "codeName": "Leon",
+      "generationNumber": 1,
+      "startYear": 1999,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The SEAT Leon (1999-present) shares successive Golf platforms while delivering more aggressive styling and the Cupra performance variants that rival the Golf GTI.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

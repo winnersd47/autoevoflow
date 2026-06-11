@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-570s-spi",
+  "slug": "mclaren-570s-spi",
+  "name": "570S Spi",
+  "fullName": "McLaren 570S Spi",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "endYear": 2018,
+  "isActive": false,
+  "description": "McLaren 570S Spi — sedan, produced since 2018.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_spider/images/1920x1080/2018_mclaren_570s_spider_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_spider/images/1920x1080/2018_mclaren_570s_spider_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-570s-spi-2018-0",
+      "slug": "mclaren-570s-spi-2018-0",
+      "modelId": "m-mclaren-570s-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2018",
+      "generationNumber": 1,
+      "startYear": 2018,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2018 McLaren 570S Spider",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_spider/images/1920x1080/2018_mclaren_570s_spider_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_spider/images/1920x1080/2018_mclaren_570s_spider_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-570s-spi-2018-0",
+          "generationId": "gen-mclaren-570s-spi-2018-0",
+          "url": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_spider/images/1920x1080/2018_mclaren_570s_spider_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2018_mclaren_570s_spider/images/1920x1080/2018_mclaren_570s_spider_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2018,
+          "altText": "2018 McLaren 570S Spider",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2018"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

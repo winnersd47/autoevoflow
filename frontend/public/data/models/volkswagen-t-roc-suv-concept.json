@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-t-roc-suv-concept",
+  "slug": "volkswagen-t-roc-suv-concept",
+  "name": "T-ROC SUV Concept",
+  "fullName": "Volkswagen T-ROC SUV Concept",
+  "brandId": "brand-volkswagen",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen T-ROC SUV Concept — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_suv_concept_t-roc/images/1920x1080/2014_volkswagen_suv_concept_t-roc_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_suv_concept_t-roc/images/1920x1080/2014_volkswagen_suv_concept_t-roc_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-t-roc-suv-concept-2020-0",
+      "slug": "volkswagen-t-roc-suv-concept-2020-0",
+      "modelId": "m-volkswagen-t-roc-suv-concept",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen T-ROC SUV Concept | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_suv_concept_t-roc/images/1920x1080/2014_volkswagen_suv_concept_t-roc_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2014_volkswagen_suv_concept_t-roc/images/1920x1080/2014_volkswagen_suv_concept_t-roc_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-t-roc-suv-concept-2020-0",
+          "generationId": "gen-volkswagen-t-roc-suv-concept-2020-0",
+          "url": "https://images.caricos.com/v/vw/2014_volkswagen_suv_concept_t-roc/images/1920x1080/2014_volkswagen_suv_concept_t-roc_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2014_volkswagen_suv_concept_t-roc/images/1920x1080/2014_volkswagen_suv_concept_t-roc_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen T-ROC SUV Concept | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

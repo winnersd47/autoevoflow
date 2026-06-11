@@ -1,0 +1,26 @@
+{
+  "id": "ncs-lexus-lexus-es-350e",
+  "slug": "lexus-lexus-es-350e",
+  "name": "Lexus ES 350e",
+  "fullName": "2026 Lexus ES 350e",
+  "brandId": "lexus",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The ES uses a new Lexus battery electric system that has been developed with a focus on delivering an evolution of the Lexus Driving Signature that creates a sharpened...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-ES_350e-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-ES_350e-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/lexus/2026-es_350e/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.733Z",
+  "updatedAt": "2026-06-05T07:36:26.733Z"
+}

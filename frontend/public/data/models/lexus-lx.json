@@ -1,0 +1,58 @@
+{
+  "id": "m-lexus-lx",
+  "slug": "lexus-lx",
+  "name": "LX",
+  "fullName": "Lexus LX",
+  "brandId": "brand-lexus",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "endYear": 2022,
+  "isActive": false,
+  "description": "Lexus LX — suv, produced since 2022.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "suv",
+    "lexus"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lexus-lx-2022-0",
+      "slug": "lexus-lx-2022-0",
+      "modelId": "m-lexus-lx",
+      "brandId": "brand-lexus",
+      "codeName": "2022",
+      "generationNumber": 1,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2022 LX",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

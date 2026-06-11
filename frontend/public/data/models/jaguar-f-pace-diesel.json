@@ -1,0 +1,72 @@
+{
+  "id": "m-jaguar-f-pace-diesel",
+  "slug": "jaguar-f-pace-diesel",
+  "name": "F-PACE Diesel",
+  "fullName": "Jaguar F-PACE Diesel",
+  "brandId": "brand-jaguar",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Jaguar F-PACE Diesel — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/j/jaguar/2017_jaguar_f-pace_diesel/images/1920x1080/2017_jaguar_f-pace_diesel_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/j/jaguar/2017_jaguar_f-pace_diesel/images/1920x1080/2017_jaguar_f-pace_diesel_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "jaguar"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-jaguar-f-pace-diesel-2020-0",
+      "slug": "jaguar-f-pace-diesel-2020-0",
+      "modelId": "m-jaguar-f-pace-diesel",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar F-PACE Diesel | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2017_jaguar_f-pace_diesel/images/1920x1080/2017_jaguar_f-pace_diesel_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2017_jaguar_f-pace_diesel/images/1920x1080/2017_jaguar_f-pace_diesel_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-f-pace-diesel-2020-0",
+          "generationId": "gen-jaguar-f-pace-diesel-2020-0",
+          "url": "https://images.caricos.com/j/jaguar/2017_jaguar_f-pace_diesel/images/1920x1080/2017_jaguar_f-pace_diesel_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2017_jaguar_f-pace_diesel/images/1920x1080/2017_jaguar_f-pace_diesel_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar F-PACE Diesel | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

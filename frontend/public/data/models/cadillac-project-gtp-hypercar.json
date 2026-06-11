@@ -1,0 +1,72 @@
+{
+  "id": "m-cadillac-project-gtp-hypercar",
+  "slug": "cadillac-project-gtp-hypercar",
+  "name": "Project GTP Hypercar",
+  "fullName": "Cadillac Project GTP Hypercar",
+  "brandId": "brand-cadillac",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Cadillac Project GTP Hypercar — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/cadillac/2022_cadillac_project_gtp_hypercar/images/1920x1080/2022_cadillac_project_gtp_hypercar_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/cadillac/2022_cadillac_project_gtp_hypercar/images/1920x1080/2022_cadillac_project_gtp_hypercar_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "cadillac"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-cadillac-project-gtp-hypercar-2020-0",
+      "slug": "cadillac-project-gtp-hypercar-2020-0",
+      "modelId": "m-cadillac-project-gtp-hypercar",
+      "brandId": "brand-cadillac",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Cadillac Project GTP Hypercar | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/c/cadillac/2022_cadillac_project_gtp_hypercar/images/1920x1080/2022_cadillac_project_gtp_hypercar_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/cadillac/2022_cadillac_project_gtp_hypercar/images/1920x1080/2022_cadillac_project_gtp_hypercar_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-cadillac-project-gtp-hypercar-2020-0",
+          "generationId": "gen-cadillac-project-gtp-hypercar-2020-0",
+          "url": "https://images.caricos.com/c/cadillac/2022_cadillac_project_gtp_hypercar/images/1920x1080/2022_cadillac_project_gtp_hypercar_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/cadillac/2022_cadillac_project_gtp_hypercar/images/1920x1080/2022_cadillac_project_gtp_hypercar_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Cadillac Project GTP Hypercar | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

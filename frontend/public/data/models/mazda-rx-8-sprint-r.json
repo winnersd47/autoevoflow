@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-rx-8-sprint-r",
+  "slug": "mazda-rx-8-sprint-r",
+  "name": "RX-8 Sprint R",
+  "fullName": "Mazda RX-8 Sprint R",
+  "brandId": "brand-mazda",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "endYear": 2012,
+  "isActive": false,
+  "description": "Mazda RX-8 Sprint R — suv, produced since 2012.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2012_mazda_rx-8_sprint_r/images/1920x1080/2012_mazda_rx-8_sprint_r_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2012_mazda_rx-8_sprint_r/images/1920x1080/2012_mazda_rx-8_sprint_r_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-rx-8-sprint-r-2012-0",
+      "slug": "mazda-rx-8-sprint-r-2012-0",
+      "modelId": "m-mazda-rx-8-sprint-r",
+      "brandId": "brand-mazda",
+      "codeName": "2012",
+      "generationNumber": 1,
+      "startYear": 2012,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2012 Mazda RX-8 Sprint R",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2012_mazda_rx-8_sprint_r/images/1920x1080/2012_mazda_rx-8_sprint_r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2012_mazda_rx-8_sprint_r/images/1920x1080/2012_mazda_rx-8_sprint_r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-rx-8-sprint-r-2012-0",
+          "generationId": "gen-mazda-rx-8-sprint-r-2012-0",
+          "url": "https://images.caricos.com/m/mazda/2012_mazda_rx-8_sprint_r/images/1920x1080/2012_mazda_rx-8_sprint_r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2012_mazda_rx-8_sprint_r/images/1920x1080/2012_mazda_rx-8_sprint_r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2012,
+          "altText": "2012 Mazda RX-8 Sprint R",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2012"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

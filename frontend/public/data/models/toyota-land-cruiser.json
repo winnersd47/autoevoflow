@@ -1,0 +1,196 @@
+{
+  "id": "m-toyota-land-cruiser",
+  "slug": "toyota-land-cruiser",
+  "name": "Land Cruiser",
+  "fullName": "Toyota Land Cruiser",
+  "brandId": "brand-toyota",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota Land Cruiser — suv, produced since 2024.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2024_toyota_land_cruiser/images/1920x1080/2024_toyota_land_cruiser_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2024_toyota_land_cruiser/images/1920x1080/2024_toyota_land_cruiser_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-land-cruiser-2024-0",
+      "slug": "toyota-land-cruiser-2024-0",
+      "modelId": "m-toyota-land-cruiser",
+      "brandId": "brand-toyota",
+      "codeName": "2024",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2024 Land Cruiser",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "suv",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-land-cruiser-2024-1",
+      "slug": "toyota-land-cruiser-2024-1",
+      "modelId": "m-toyota-land-cruiser",
+      "brandId": "brand-toyota",
+      "codeName": "2024",
+      "generationNumber": 2,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Land Cruiser | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2024_toyota_land_cruiser/images/1920x1080/2024_toyota_land_cruiser_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2024_toyota_land_cruiser/images/1920x1080/2024_toyota_land_cruiser_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-land-cruiser-2024-1",
+          "generationId": "gen-toyota-land-cruiser-2024-1",
+          "url": "https://images.caricos.com/t/toyota/2024_toyota_land_cruiser/images/1920x1080/2024_toyota_land_cruiser_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2024_toyota_land_cruiser/images/1920x1080/2024_toyota_land_cruiser_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "Toyota Land Cruiser | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-land-cruiser-2024-2",
+      "slug": "toyota-land-cruiser-2024-2",
+      "modelId": "m-toyota-land-cruiser",
+      "brandId": "brand-toyota",
+      "codeName": "2024",
+      "generationNumber": 3,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Land Cruiser | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_land_cruiser/images/1920x1080/2016_toyota_land_cruiser_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2016_toyota_land_cruiser/images/1920x1080/2016_toyota_land_cruiser_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-land-cruiser-2024-2",
+          "generationId": "gen-toyota-land-cruiser-2024-2",
+          "url": "https://images.caricos.com/t/toyota/2016_toyota_land_cruiser/images/1920x1080/2016_toyota_land_cruiser_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2016_toyota_land_cruiser/images/1920x1080/2016_toyota_land_cruiser_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "Toyota Land Cruiser | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-land-cruiser-2024-3",
+      "slug": "toyota-land-cruiser-2024-3",
+      "modelId": "m-toyota-land-cruiser",
+      "brandId": "brand-toyota",
+      "codeName": "2024",
+      "generationNumber": 4,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota Land Cruiser | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_land_cruiser/images/1920x1080/2013_toyota_land_cruiser_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2013_toyota_land_cruiser/images/1920x1080/2013_toyota_land_cruiser_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-land-cruiser-2024-3",
+          "generationId": "gen-toyota-land-cruiser-2024-3",
+          "url": "https://images.caricos.com/t/toyota/2013_toyota_land_cruiser/images/1920x1080/2013_toyota_land_cruiser_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2013_toyota_land_cruiser/images/1920x1080/2013_toyota_land_cruiser_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "Toyota Land Cruiser | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2024"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

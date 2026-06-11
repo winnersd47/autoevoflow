@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-q5-sportback",
+  "slug": "audi-q5-sportback",
+  "name": "Q5 Sportback",
+  "fullName": "Audi Q5 Sportback",
+  "brandId": "brand-audi",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi Q5 Sportback (2021–present) is the coupé-SUV version of the Q5, offering a sloping roofline SAC body style alongside the standard Q5.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "suv",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-q5-sportback-1",
+      "slug": "audi-q5-sportback-gen1",
+      "modelId": "m-audi-q5-sportback",
+      "brandId": "brand-audi",
+      "codeName": "FY Sportback",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi Q5 Sportback (2021–present) is the coupé-SUV version of the Q5, offering a sloping roofline SAC body style alongside the standard Q5.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

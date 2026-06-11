@@ -1,0 +1,51 @@
+{
+  "id": "m-audi-s4",
+  "slug": "audi-s4",
+  "name": "S4",
+  "fullName": "Audi S4",
+  "brandId": "brand-audi",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "endYear": null,
+  "isActive": true,
+  "description": "The Audi S4 (1991–present) is the mid-performance A4 variant, slotting below the RS4. The original B5 S4 with its twin-turbocharged 2.7-litre V6 is a cult car; the B8/B9 generations use supercharged/turbocharged V6 engines. The S4 represents the sweet-spot between everyday usability and genuine performance.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "sedan",
+    "audi"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-audi-s4-1",
+      "slug": "audi-s4-gen1",
+      "modelId": "m-audi-s4",
+      "brandId": "brand-audi",
+      "codeName": "B5/B8/B9",
+      "generationNumber": 1,
+      "startYear": 1991,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Audi S4 (1991–present) is the mid-performance A4 variant, slotting below the RS4. The original B5 S4 with its twin-turbocharged 2.7-litre V6 is a cult car; the B8/B9 generations use supercharged/turbocharged V6 engines. The S4 represents the sweet-spot between everyday usability and genuine performance.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

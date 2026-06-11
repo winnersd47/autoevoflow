@@ -1,0 +1,26 @@
+{
+  "id": "ncs-cadillac-cadillac-sollei-concept",
+  "slug": "cadillac-cadillac-sollei-concept",
+  "name": "Cadillac Sollei Concept",
+  "fullName": "2024 Cadillac Sollei Concept",
+  "brandId": "cadillac",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Sollei's exterior exudes emotion and embodies Cadillac's unmistakable bold proportions. The low, elongated body is accentuated by a wide stance and long coupe door...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Cadillac-Sollei_Concept-2024-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Cadillac-Sollei_Concept-2024-thb.jpg",
+  "tags": [
+    "new",
+    "2024"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/cadillac/2024-sollei_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:49.538Z",
+  "createdAt": "2026-06-05T07:36:26.748Z",
+  "updatedAt": "2026-06-05T07:36:26.748Z"
+}

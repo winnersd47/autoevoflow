@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-hurac-n-sterrato",
+  "slug": "lamborghini-hurac-n-sterrato",
+  "name": "Huracán Sterrato",
+  "fullName": "Lamborghini Huracán Sterrato",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Huracán Sterrato — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2024_lamborghini_huracan_sterrato/images/1920x1080/2024_lamborghini_huracan_sterrato_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2024_lamborghini_huracan_sterrato/images/1920x1080/2024_lamborghini_huracan_sterrato_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-hurac-n-sterrato-2020-0",
+      "slug": "lamborghini-hurac-n-sterrato-2020-0",
+      "modelId": "m-lamborghini-hurac-n-sterrato",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Huracán Sterrato | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2024_lamborghini_huracan_sterrato/images/1920x1080/2024_lamborghini_huracan_sterrato_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2024_lamborghini_huracan_sterrato/images/1920x1080/2024_lamborghini_huracan_sterrato_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-hurac-n-sterrato-2020-0",
+          "generationId": "gen-lamborghini-hurac-n-sterrato-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2024_lamborghini_huracan_sterrato/images/1920x1080/2024_lamborghini_huracan_sterrato_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2024_lamborghini_huracan_sterrato/images/1920x1080/2024_lamborghini_huracan_sterrato_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Huracán Sterrato | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

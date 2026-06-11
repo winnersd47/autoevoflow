@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-sonic-hatchback-and-sedan",
+  "slug": "chevrolet-sonic-hatchback-and-sedan",
+  "name": "Sonic Hatchback and Sedan",
+  "fullName": "Chevrolet Sonic Hatchback and Sedan",
+  "brandId": "brand-chevrolet",
+  "bodyType": "hatchback",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Sonic Hatchback and Sedan — hatchback, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_sonic/images/1920x1080/2017_chevrolet_sonic_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_sonic/images/1920x1080/2017_chevrolet_sonic_1_1920x1080.jpg",
+  "tags": [
+    "hatchback",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-sonic-hatchback-and-sedan-2020-0",
+      "slug": "chevrolet-sonic-hatchback-and-sedan-2020-0",
+      "modelId": "m-chevrolet-sonic-hatchback-and-sedan",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Sonic Hatchback and Sedan | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_sonic/images/1920x1080/2017_chevrolet_sonic_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_sonic/images/1920x1080/2017_chevrolet_sonic_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-sonic-hatchback-and-sedan-2020-0",
+          "generationId": "gen-chevrolet-sonic-hatchback-and-sedan-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2017_chevrolet_sonic/images/1920x1080/2017_chevrolet_sonic_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2017_chevrolet_sonic/images/1920x1080/2017_chevrolet_sonic_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Sonic Hatchback and Sedan | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "hatchback",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

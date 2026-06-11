@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-albert-speedtail-by-mso",
+  "slug": "mclaren-albert-speedtail-by-mso",
+  "name": "Albert Speedtail by MSO",
+  "fullName": "McLaren Albert Speedtail by MSO",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "endYear": 2021,
+  "isActive": false,
+  "description": "McLaren Albert Speedtail by MSO — sedan, produced since 2021.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_albert_speedtail_mso/images/1920x1080/2021_mclaren_albert_speedtail_mso_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_albert_speedtail_mso/images/1920x1080/2021_mclaren_albert_speedtail_mso_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-albert-speedtail-by-mso-2021-0",
+      "slug": "mclaren-albert-speedtail-by-mso-2021-0",
+      "modelId": "m-mclaren-albert-speedtail-by-mso",
+      "brandId": "brand-mclaren",
+      "codeName": "2021",
+      "generationNumber": 1,
+      "startYear": 2021,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2021 McLaren Albert Speedtail by MSO",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_albert_speedtail_mso/images/1920x1080/2021_mclaren_albert_speedtail_mso_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_albert_speedtail_mso/images/1920x1080/2021_mclaren_albert_speedtail_mso_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-albert-speedtail-by-mso-2021-0",
+          "generationId": "gen-mclaren-albert-speedtail-by-mso-2021-0",
+          "url": "https://images.caricos.com/m/mclaren/2021_mclaren_albert_speedtail_mso/images/1920x1080/2021_mclaren_albert_speedtail_mso_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2021_mclaren_albert_speedtail_mso/images/1920x1080/2021_mclaren_albert_speedtail_mso_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2021,
+          "altText": "2021 McLaren Albert Speedtail by MSO",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

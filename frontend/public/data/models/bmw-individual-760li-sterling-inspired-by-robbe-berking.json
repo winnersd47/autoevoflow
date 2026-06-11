@@ -1,0 +1,72 @@
+{
+  "id": "m-bmw-individual-760li-sterling-inspired-by-robbe-berking",
+  "slug": "bmw-individual-760li-sterling-inspired-by-robbe-berking",
+  "name": "Individual 760Li Sterling inspired by ROBBE & BERKING",
+  "fullName": "BMW Individual 760Li Sterling inspired by ROBBE & BERKING",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW Individual 760Li Sterling inspired by ROBBE & BERKING — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_individual_760li_sterling/images/1920x1080/2014_bmw_individual_760li_sterling_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2014_bmw_individual_760li_sterling/images/1920x1080/2014_bmw_individual_760li_sterling_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-individual-760li-sterling-inspired-by-robbe-berking-2020-0",
+      "slug": "bmw-individual-760li-sterling-inspired-by-robbe-berking-2020-0",
+      "modelId": "m-bmw-individual-760li-sterling-inspired-by-robbe-berking",
+      "brandId": "brand-bmw",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW Individual 760Li Sterling inspired by ROBBE & BERKING | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_individual_760li_sterling/images/1920x1080/2014_bmw_individual_760li_sterling_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2014_bmw_individual_760li_sterling/images/1920x1080/2014_bmw_individual_760li_sterling_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-individual-760li-sterling-inspired-by-robbe-berking-2020-0",
+          "generationId": "gen-bmw-individual-760li-sterling-inspired-by-robbe-berking-2020-0",
+          "url": "https://images.caricos.com/b/bmw/2014_bmw_individual_760li_sterling/images/1920x1080/2014_bmw_individual_760li_sterling_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_individual_760li_sterling/images/1920x1080/2014_bmw_individual_760li_sterling_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "BMW Individual 760Li Sterling inspired by ROBBE & BERKING | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

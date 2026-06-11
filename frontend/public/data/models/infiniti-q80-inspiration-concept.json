@@ -1,0 +1,118 @@
+{
+  "id": "m-infiniti-q80-inspiration-concept",
+  "slug": "infiniti-q80-inspiration-concept",
+  "name": "Q80 Inspiration Concept",
+  "fullName": "Infiniti Q80 Inspiration Concept",
+  "brandId": "brand-infiniti",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti Q80 Inspiration Concept — concept, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2015_infiniti_q80_inspiration/images/1920x1080/2015_infiniti_q80_inspiration_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2015_infiniti_q80_inspiration/images/1920x1080/2015_infiniti_q80_inspiration_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-q80-inspiration-concept-2020-0",
+      "slug": "infiniti-q80-inspiration-concept-2020-0",
+      "modelId": "m-infiniti-q80-inspiration-concept",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Q80 Inspiration Concept | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2015_infiniti_q80_inspiration/images/1920x1080/2015_infiniti_q80_inspiration_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2015_infiniti_q80_inspiration/images/1920x1080/2015_infiniti_q80_inspiration_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-q80-inspiration-concept-2020-0",
+          "generationId": "gen-infiniti-q80-inspiration-concept-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2015_infiniti_q80_inspiration/images/1920x1080/2015_infiniti_q80_inspiration_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2015_infiniti_q80_inspiration/images/1920x1080/2015_infiniti_q80_inspiration_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Q80 Inspiration Concept | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-q80-inspiration-concept-2020-1",
+      "slug": "infiniti-q80-inspiration-concept-2020-1",
+      "modelId": "m-infiniti-q80-inspiration-concept",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti Q80 Inspiration Concept | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2014_infiniti_q80_inspiration_concept/images/1920x1080/2014_infiniti_q80_inspiration_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2014_infiniti_q80_inspiration_concept/images/1920x1080/2014_infiniti_q80_inspiration_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-q80-inspiration-concept-2020-1",
+          "generationId": "gen-infiniti-q80-inspiration-concept-2020-1",
+          "url": "https://images.caricos.com/i/infiniti/2014_infiniti_q80_inspiration_concept/images/1920x1080/2014_infiniti_q80_inspiration_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2014_infiniti_q80_inspiration_concept/images/1920x1080/2014_infiniti_q80_inspiration_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti Q80 Inspiration Concept | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

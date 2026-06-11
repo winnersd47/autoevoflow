@@ -1,0 +1,51 @@
+{
+  "id": "m-lotus-elan",
+  "slug": "lotus-elan",
+  "name": "Elan",
+  "fullName": "Lotus Elan",
+  "brandId": "brand-lotus",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1962,
+  "endYear": 1975,
+  "isActive": false,
+  "description": "The Lotus Elan (1962-1975) was Colin Chapman's definitive lightweight sports car: fibreglass body on a steel backbone chassis with a twin-cam Ford engine. Its steering was so exceptional every subsequent generation measured itself against it.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": [
+    "convertible",
+    "lotus"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lotus-elan-1",
+      "slug": "lotus-elan-gen1",
+      "modelId": "m-lotus-elan",
+      "brandId": "brand-lotus",
+      "codeName": "Elan",
+      "generationNumber": 1,
+      "startYear": 1962,
+      "endYear": 1975,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "convertible"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "The Lotus Elan (1962-1975) was Colin Chapman's definitive lightweight sports car: fibreglass body on a steel backbone chassis with a twin-cam Ford engine. Its steering was so exceptional every subsequent generation measured itself against it.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

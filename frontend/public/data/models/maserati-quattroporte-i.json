@@ -1,0 +1,42 @@
+{
+  "id": "m-maserati-maserati-quattroporte-i",
+  "slug": "maserati-quattroporte-i",
+  "name": "Quattroporte I",
+  "fullName": "Maserati Quattroporte I",
+  "brandId": "brand-maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1963,
+  "endYear": 1970,
+  "isActive": false,
+  "description": "The original Maserati Quattroporte (1963–1970) was the world's first genuine high-performance luxury saloon. Designed by Pietro Frua with a 4.1-litre V8 capable of 230 hp, it could carry four people in elegance at over 230 km/h — a concept entirely new to the automotive world.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["sedan", "maserati", "classic", "heritage"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-quattroporte-i-1",
+      "slug": "maserati-quattroporte-i-gen1",
+      "modelId": "m-maserati-maserati-quattroporte-i",
+      "brandId": "brand-maserati",
+      "codeName": "AM107",
+      "generationNumber": 1,
+      "startYear": 1963,
+      "endYear": 1970,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["sedan"],
+      "engineTypes": ["ICE"],
+      "markets": ["global"],
+      "description": "The original Maserati Quattroporte (1963–1970) was the world's first genuine high-performance luxury saloon. Designed by Pietro Frua with a 4.1-litre V8 capable of 230 hp, it could carry four people in elegance at over 230 km/h — a concept entirely new to the automotive world.",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": []
+    }
+  ]
+}

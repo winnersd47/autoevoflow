@@ -1,0 +1,72 @@
+{
+  "id": "m-porsche-cayenne-diesel",
+  "slug": "porsche-cayenne-diesel",
+  "name": "Cayenne Diesel",
+  "fullName": "Porsche Cayenne Diesel",
+  "brandId": "brand-porsche",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Porsche Cayenne Diesel — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/p/porsche/2011_porsche_cayenne_diesel/images/1920x1080/2011_porsche_cayenne_diesel_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/p/porsche/2011_porsche_cayenne_diesel/images/1920x1080/2011_porsche_cayenne_diesel_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "porsche"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-porsche-cayenne-diesel-2020-0",
+      "slug": "porsche-cayenne-diesel-2020-0",
+      "modelId": "m-porsche-cayenne-diesel",
+      "brandId": "brand-porsche",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Porsche Cayenne Diesel | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/p/porsche/2011_porsche_cayenne_diesel/images/1920x1080/2011_porsche_cayenne_diesel_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/p/porsche/2011_porsche_cayenne_diesel/images/1920x1080/2011_porsche_cayenne_diesel_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-porsche-cayenne-diesel-2020-0",
+          "generationId": "gen-porsche-cayenne-diesel-2020-0",
+          "url": "https://images.caricos.com/p/porsche/2011_porsche_cayenne_diesel/images/1920x1080/2011_porsche_cayenne_diesel_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/p/porsche/2011_porsche_cayenne_diesel/images/1920x1080/2011_porsche_cayenne_diesel_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Porsche Cayenne Diesel | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

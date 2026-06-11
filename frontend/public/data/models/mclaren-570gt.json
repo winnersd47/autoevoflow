@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-570gt",
+  "slug": "mclaren-570gt",
+  "name": "570GT",
+  "fullName": "McLaren 570GT",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "endYear": 2017,
+  "isActive": false,
+  "description": "McLaren 570GT — sedan, produced since 2017.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570gt/images/1920x1080/2017_mclaren_570gt_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570gt/images/1920x1080/2017_mclaren_570gt_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-570gt-2017-0",
+      "slug": "mclaren-570gt-2017-0",
+      "modelId": "m-mclaren-570gt",
+      "brandId": "brand-mclaren",
+      "codeName": "2017",
+      "generationNumber": 1,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 McLaren 570GT",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570gt/images/1920x1080/2017_mclaren_570gt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570gt/images/1920x1080/2017_mclaren_570gt_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-570gt-2017-0",
+          "generationId": "gen-mclaren-570gt-2017-0",
+          "url": "https://images.caricos.com/m/mclaren/2017_mclaren_570gt/images/1920x1080/2017_mclaren_570gt_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2017_mclaren_570gt/images/1920x1080/2017_mclaren_570gt_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 McLaren 570GT",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

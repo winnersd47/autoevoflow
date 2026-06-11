@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-granturismo-s-mc-sport-line",
+  "slug": "maserati-granturismo-s-mc-sport-line",
+  "name": "GranTurismo S MC Sport Line",
+  "fullName": "Maserati GranTurismo S MC Sport Line",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "endYear": 2011,
+  "isActive": false,
+  "description": "Maserati GranTurismo S MC Sport Line — coupe, produced since 2011.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_granturismo_s_mc_sport_line/images/1920x1080/2011_maserati_granturismo_s_mc_sport_line_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2011_maserati_granturismo_s_mc_sport_line/images/1920x1080/2011_maserati_granturismo_s_mc_sport_line_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-granturismo-s-mc-sport-line-2011-0",
+      "slug": "maserati-granturismo-s-mc-sport-line-2011-0",
+      "modelId": "m-maserati-granturismo-s-mc-sport-line",
+      "brandId": "brand-maserati",
+      "codeName": "2011",
+      "generationNumber": 1,
+      "startYear": 2011,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2011 Maserati GranTurismo S MC Sport Line",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_granturismo_s_mc_sport_line/images/1920x1080/2011_maserati_granturismo_s_mc_sport_line_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2011_maserati_granturismo_s_mc_sport_line/images/1920x1080/2011_maserati_granturismo_s_mc_sport_line_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-granturismo-s-mc-sport-line-2011-0",
+          "generationId": "gen-maserati-granturismo-s-mc-sport-line-2011-0",
+          "url": "https://images.caricos.com/m/maserati/2011_maserati_granturismo_s_mc_sport_line/images/1920x1080/2011_maserati_granturismo_s_mc_sport_line_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_granturismo_s_mc_sport_line/images/1920x1080/2011_maserati_granturismo_s_mc_sport_line_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2011,
+          "altText": "2011 Maserati GranTurismo S MC Sport Line",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2011"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

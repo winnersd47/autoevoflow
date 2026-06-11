@@ -1,0 +1,72 @@
+{
+  "id": "m-infiniti-fx-sebastian-vettel-concept",
+  "slug": "infiniti-fx-sebastian-vettel-concept",
+  "name": "FX Sebastian Vettel Concept",
+  "fullName": "Infiniti FX Sebastian Vettel Concept",
+  "brandId": "brand-infiniti",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti FX Sebastian Vettel Concept — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2011_infiniti_fx_sebastian_vettel_concept/images/1920x1080/2011_infiniti_fx_sebastian_vettel_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2011_infiniti_fx_sebastian_vettel_concept/images/1920x1080/2011_infiniti_fx_sebastian_vettel_concept_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-fx-sebastian-vettel-concept-2020-0",
+      "slug": "infiniti-fx-sebastian-vettel-concept-2020-0",
+      "modelId": "m-infiniti-fx-sebastian-vettel-concept",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti FX Sebastian Vettel Concept | 2011MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2011_infiniti_fx_sebastian_vettel_concept/images/1920x1080/2011_infiniti_fx_sebastian_vettel_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2011_infiniti_fx_sebastian_vettel_concept/images/1920x1080/2011_infiniti_fx_sebastian_vettel_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-fx-sebastian-vettel-concept-2020-0",
+          "generationId": "gen-infiniti-fx-sebastian-vettel-concept-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2011_infiniti_fx_sebastian_vettel_concept/images/1920x1080/2011_infiniti_fx_sebastian_vettel_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2011_infiniti_fx_sebastian_vettel_concept/images/1920x1080/2011_infiniti_fx_sebastian_vettel_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti FX Sebastian Vettel Concept | 2011MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

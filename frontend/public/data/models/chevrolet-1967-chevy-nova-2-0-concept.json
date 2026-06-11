@@ -1,0 +1,72 @@
+{
+  "id": "m-chevrolet-1967-chevy-nova-2-0-concept",
+  "slug": "chevrolet-1967-chevy-nova-2-0-concept",
+  "name": "1967 Chevy Nova 2.0 Concept",
+  "fullName": "Chevrolet 1967 Chevy Nova 2.0 Concept",
+  "brandId": "brand-chevrolet",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "endYear": 1967,
+  "isActive": false,
+  "description": "Chevrolet 1967 Chevy Nova 2.0 Concept — concept, produced since 1967.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_67_nova_concept/images/1920x1080/2015_chevrolet_67_nova_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_67_nova_concept/images/1920x1080/2015_chevrolet_67_nova_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-1967-chevy-nova-2-0-concept-1967-0",
+      "slug": "chevrolet-1967-chevy-nova-2-0-concept-1967-0",
+      "modelId": "m-chevrolet-1967-chevy-nova-2-0-concept",
+      "brandId": "brand-chevrolet",
+      "codeName": "1967",
+      "generationNumber": 1,
+      "startYear": 1967,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet 1967 Chevy Nova 2.0 Concept | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_67_nova_concept/images/1920x1080/2015_chevrolet_67_nova_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_67_nova_concept/images/1920x1080/2015_chevrolet_67_nova_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-1967-chevy-nova-2-0-concept-1967-0",
+          "generationId": "gen-chevrolet-1967-chevy-nova-2-0-concept-1967-0",
+          "url": "https://images.caricos.com/c/chevrolet/2015_chevrolet_67_nova_concept/images/1920x1080/2015_chevrolet_67_nova_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevrolet_67_nova_concept/images/1920x1080/2015_chevrolet_67_nova_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 1967,
+          "altText": "Chevrolet 1967 Chevy Nova 2.0 Concept | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "1967"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

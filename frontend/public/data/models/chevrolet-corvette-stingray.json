@@ -1,0 +1,210 @@
+{
+  "id": "m-chevrolet-corvette-stingray",
+  "slug": "chevrolet-corvette-stingray",
+  "name": "Corvette Stingray",
+  "fullName": "Chevrolet Corvette Stingray",
+  "brandId": "brand-chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Chevrolet Corvette Stingray — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_corvette_stingray/images/1920x1080/2020_chevrolet_corvette_stingray_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_corvette_stingray/images/1920x1080/2020_chevrolet_corvette_stingray_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "chevrolet"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-chevrolet-corvette-stingray-2020-0",
+      "slug": "chevrolet-corvette-stingray-2020-0",
+      "modelId": "m-chevrolet-corvette-stingray",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Corvette Stingray (Euro-Spec) | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2022_chevrolet_corvette_stingray_eu/images/1920x1080/2022_chevrolet_corvette_stingray_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2022_chevrolet_corvette_stingray_eu/images/1920x1080/2022_chevrolet_corvette_stingray_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-corvette-stingray-2020-0",
+          "generationId": "gen-chevrolet-corvette-stingray-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2022_chevrolet_corvette_stingray_eu/images/1920x1080/2022_chevrolet_corvette_stingray_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2022_chevrolet_corvette_stingray_eu/images/1920x1080/2022_chevrolet_corvette_stingray_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Corvette Stingray (Euro-Spec) | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-corvette-stingray-2020-1",
+      "slug": "chevrolet-corvette-stingray-2020-1",
+      "modelId": "m-chevrolet-corvette-stingray",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Corvette Stingray (EU-Spec) | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevroelet_corvette_stingray_eu/images/1920x1080/2015_chevroelet_corvette_stingray_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2015_chevroelet_corvette_stingray_eu/images/1920x1080/2015_chevroelet_corvette_stingray_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-corvette-stingray-2020-1",
+          "generationId": "gen-chevrolet-corvette-stingray-2020-1",
+          "url": "https://images.caricos.com/c/chevrolet/2015_chevroelet_corvette_stingray_eu/images/1920x1080/2015_chevroelet_corvette_stingray_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2015_chevroelet_corvette_stingray_eu/images/1920x1080/2015_chevroelet_corvette_stingray_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Corvette Stingray (EU-Spec) | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-corvette-stingray-2020-0",
+      "slug": "chevrolet-corvette-stingray-2020-0",
+      "modelId": "m-chevrolet-corvette-stingray",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Corvette Stingray | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_corvette_stingray/images/1920x1080/2020_chevrolet_corvette_stingray_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_corvette_stingray/images/1920x1080/2020_chevrolet_corvette_stingray_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-corvette-stingray-2020-0",
+          "generationId": "gen-chevrolet-corvette-stingray-2020-0",
+          "url": "https://images.caricos.com/c/chevrolet/2020_chevrolet_corvette_stingray/images/1920x1080/2020_chevrolet_corvette_stingray_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2020_chevrolet_corvette_stingray/images/1920x1080/2020_chevrolet_corvette_stingray_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Corvette Stingray | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-chevrolet-corvette-stingray-2020-1",
+      "slug": "chevrolet-corvette-stingray-2020-1",
+      "modelId": "m-chevrolet-corvette-stingray",
+      "brandId": "brand-chevrolet",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Chevrolet Corvette Stingray | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2014_chevrolet_corvette_stingray/images/1920x1080/2014_chevrolet_corvette_stingray_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/c/chevrolet/2014_chevrolet_corvette_stingray/images/1920x1080/2014_chevrolet_corvette_stingray_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-chevrolet-corvette-stingray-2020-1",
+          "generationId": "gen-chevrolet-corvette-stingray-2020-1",
+          "url": "https://images.caricos.com/c/chevrolet/2014_chevrolet_corvette_stingray/images/1920x1080/2014_chevrolet_corvette_stingray_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/c/chevrolet/2014_chevrolet_corvette_stingray/images/1920x1080/2014_chevrolet_corvette_stingray_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Chevrolet Corvette Stingray | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

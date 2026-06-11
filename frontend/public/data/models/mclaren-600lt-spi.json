@@ -1,0 +1,118 @@
+{
+  "id": "m-mclaren-600lt-spi",
+  "slug": "mclaren-600lt-spi",
+  "name": "600LT Spi",
+  "fullName": "McLaren 600LT Spi",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": 2020,
+  "isActive": false,
+  "description": "McLaren 600LT Spi — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider_mso/images/1920x1080/2020_mclaren_600lt_spider_mso_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider_mso/images/1920x1080/2020_mclaren_600lt_spider_mso_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-600lt-spi-2020-0",
+      "slug": "mclaren-600lt-spi-2020-0",
+      "modelId": "m-mclaren-600lt-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2020 McLaren 600LT Spider by MSO",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider_mso/images/1920x1080/2020_mclaren_600lt_spider_mso_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider_mso/images/1920x1080/2020_mclaren_600lt_spider_mso_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-600lt-spi-2020-0",
+          "generationId": "gen-mclaren-600lt-spi-2020-0",
+          "url": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider_mso/images/1920x1080/2020_mclaren_600lt_spider_mso_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider_mso/images/1920x1080/2020_mclaren_600lt_spider_mso_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "2020 McLaren 600LT Spider by MSO",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mclaren-600lt-spi-2020-1",
+      "slug": "mclaren-600lt-spi-2020-1",
+      "modelId": "m-mclaren-600lt-spi",
+      "brandId": "brand-mclaren",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2020 McLaren 600LT Spider",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider/images/1920x1080/2020_mclaren_600lt_spider_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider/images/1920x1080/2020_mclaren_600lt_spider_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-600lt-spi-2020-1",
+          "generationId": "gen-mclaren-600lt-spi-2020-1",
+          "url": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider/images/1920x1080/2020_mclaren_600lt_spider_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2020_mclaren_600lt_spider/images/1920x1080/2020_mclaren_600lt_spider_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "2020 McLaren 600LT Spider",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

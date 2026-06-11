@@ -1,0 +1,72 @@
+{
+  "id": "m-lincoln-continental-80th-anniversary-coach-door-edition",
+  "slug": "lincoln-continental-80th-anniversary-coach-door-edition",
+  "name": "Continental 80th Anniversary Coach Door Edition",
+  "fullName": "Lincoln Continental 80th Anniversary Coach Door Edition",
+  "brandId": "brand-lincoln",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lincoln Continental 80th Anniversary Coach Door Edition — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_continental_80th_anniversary/images/1920x1080/2019_lincoln_continental_80th_anniversary_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_continental_80th_anniversary/images/1920x1080/2019_lincoln_continental_80th_anniversary_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lincoln"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lincoln-continental-80th-anniversary-coach-door-edition-2020-0",
+      "slug": "lincoln-continental-80th-anniversary-coach-door-edition-2020-0",
+      "modelId": "m-lincoln-continental-80th-anniversary-coach-door-edition",
+      "brandId": "brand-lincoln",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lincoln Continental 80th Anniversary Coach Door Edition | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_continental_80th_anniversary/images/1920x1080/2019_lincoln_continental_80th_anniversary_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_continental_80th_anniversary/images/1920x1080/2019_lincoln_continental_80th_anniversary_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lincoln-continental-80th-anniversary-coach-door-edition-2020-0",
+          "generationId": "gen-lincoln-continental-80th-anniversary-coach-door-edition-2020-0",
+          "url": "https://images.caricos.com/l/lincoln/2019_lincoln_continental_80th_anniversary/images/1920x1080/2019_lincoln_continental_80th_anniversary_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lincoln/2019_lincoln_continental_80th_anniversary/images/1920x1080/2019_lincoln_continental_80th_anniversary_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lincoln Continental 80th Anniversary Coach Door Edition | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

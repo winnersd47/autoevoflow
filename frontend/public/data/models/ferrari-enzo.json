@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-enzo",
+  "slug": "ferrari-enzo",
+  "name": "Enzo",
+  "fullName": "Ferrari Enzo",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "endYear": 2004,
+  "isActive": false,
+  "description": "The Ferrari Enzo (2002–2004) applied F1 carbon fibre construction, active aerodynamics, and the then-revolutionary F1-Trac traction control system to a 660 hp V12 road car. 399 units were produced. Its chassis directly underpinned the Maserati MC12 racing car.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "hypercar", "v12", "carbon-fibre", "f1-trac"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

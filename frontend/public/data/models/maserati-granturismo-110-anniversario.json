@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-granturismo-110-anniversario",
+  "slug": "maserati-granturismo-110-anniversario",
+  "name": "GranTurismo 110 Anniversario",
+  "fullName": "Maserati GranTurismo 110 Anniversario",
+  "brandId": "brand-maserati",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "Maserati GranTurismo 110 Anniversario — coupe, produced since 2025.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_granturismo_110_anniversario/images/1920x1080/2025_maserati_granturismo_110_anniversario_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_granturismo_110_anniversario/images/1920x1080/2025_maserati_granturismo_110_anniversario_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-granturismo-110-anniversario-2025-0",
+      "slug": "maserati-granturismo-110-anniversario-2025-0",
+      "modelId": "m-maserati-granturismo-110-anniversario",
+      "brandId": "brand-maserati",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 Maserati GranTurismo 110 Anniversario",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_granturismo_110_anniversario/images/1920x1080/2025_maserati_granturismo_110_anniversario_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2025_maserati_granturismo_110_anniversario/images/1920x1080/2025_maserati_granturismo_110_anniversario_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-granturismo-110-anniversario-2025-0",
+          "generationId": "gen-maserati-granturismo-110-anniversario-2025-0",
+          "url": "https://images.caricos.com/m/maserati/2025_maserati_granturismo_110_anniversario/images/1920x1080/2025_maserati_granturismo_110_anniversario_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2025_maserati_granturismo_110_anniversario/images/1920x1080/2025_maserati_granturismo_110_anniversario_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "2025 Maserati GranTurismo 110 Anniversario",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

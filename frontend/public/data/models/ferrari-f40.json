@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-f40",
+  "slug": "ferrari-f40",
+  "name": "F40",
+  "fullName": "Ferrari F40",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "endYear": 1992,
+  "isActive": false,
+  "description": "The Ferrari F40 (1987–1992), Enzo Ferrari's last personal project, is the purest expression of racing technology in a road car. No carpet, no radio, no door handles — just a twin-turbo V8, 478 hp, and a body made entirely of carbon fibre and Kevlar. 1,315 were built.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "hypercar", "turbo", "carbon-fibre", "classic", "enzo-ferrari"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

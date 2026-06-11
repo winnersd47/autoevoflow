@@ -1,0 +1,256 @@
+{
+  "id": "m-nissan-rogue",
+  "slug": "nissan-rogue",
+  "name": "Rogue",
+  "fullName": "Nissan Rogue",
+  "brandId": "brand-nissan",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Nissan Rogue — suv, produced since 2020.",
+  "generationCount": 5,
+  "thumbnailUrl": "https://images.caricos.com/n/nissan/2026_nissan_rogue/images/1920x1080/2026_nissan_rogue_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/n/nissan/2026_nissan_rogue/images/1920x1080/2026_nissan_rogue_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "nissan"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-nissan-rogue-2020-0",
+      "slug": "nissan-rogue-2020-0",
+      "modelId": "m-nissan-rogue",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Rogue | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2026_nissan_rogue/images/1920x1080/2026_nissan_rogue_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2026_nissan_rogue/images/1920x1080/2026_nissan_rogue_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-rogue-2020-0",
+          "generationId": "gen-nissan-rogue-2020-0",
+          "url": "https://images.caricos.com/n/nissan/2026_nissan_rogue/images/1920x1080/2026_nissan_rogue_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2026_nissan_rogue/images/1920x1080/2026_nissan_rogue_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Rogue | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-rogue-2020-1",
+      "slug": "nissan-rogue-2020-1",
+      "modelId": "m-nissan-rogue",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Rogue | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2021_nissan_rogue/images/1920x1080/2021_nissan_rogue_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2021_nissan_rogue/images/1920x1080/2021_nissan_rogue_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-rogue-2020-1",
+          "generationId": "gen-nissan-rogue-2020-1",
+          "url": "https://images.caricos.com/n/nissan/2021_nissan_rogue/images/1920x1080/2021_nissan_rogue_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2021_nissan_rogue/images/1920x1080/2021_nissan_rogue_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Rogue | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-rogue-2020-2",
+      "slug": "nissan-rogue-2020-2",
+      "modelId": "m-nissan-rogue",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Rogue | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2020_nissan_rogue/images/1920x1080/2020_nissan_rogue_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2020_nissan_rogue/images/1920x1080/2020_nissan_rogue_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-rogue-2020-2",
+          "generationId": "gen-nissan-rogue-2020-2",
+          "url": "https://images.caricos.com/n/nissan/2020_nissan_rogue/images/1920x1080/2020_nissan_rogue_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2020_nissan_rogue/images/1920x1080/2020_nissan_rogue_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Rogue | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-rogue-2020-3",
+      "slug": "nissan-rogue-2020-3",
+      "modelId": "m-nissan-rogue",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Rogue | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_rogue/images/1920x1080/2017_nissan_rogue_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2017_nissan_rogue/images/1920x1080/2017_nissan_rogue_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-rogue-2020-3",
+          "generationId": "gen-nissan-rogue-2020-3",
+          "url": "https://images.caricos.com/n/nissan/2017_nissan_rogue/images/1920x1080/2017_nissan_rogue_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2017_nissan_rogue/images/1920x1080/2017_nissan_rogue_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Rogue | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-nissan-rogue-2020-4",
+      "slug": "nissan-rogue-2020-4",
+      "modelId": "m-nissan-rogue",
+      "brandId": "brand-nissan",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Nissan Rogue | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_rogue/images/1920x1080/2014_nissan_rogue_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/n/nissan/2014_nissan_rogue/images/1920x1080/2014_nissan_rogue_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-nissan-rogue-2020-4",
+          "generationId": "gen-nissan-rogue-2020-4",
+          "url": "https://images.caricos.com/n/nissan/2014_nissan_rogue/images/1920x1080/2014_nissan_rogue_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/n/nissan/2014_nissan_rogue/images/1920x1080/2014_nissan_rogue_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Nissan Rogue | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-porsche-porsche-cayenne-coupe-electric",
+  "slug": "porsche-porsche-cayenne-coupe-electric",
+  "name": "Porsche Cayenne Coupe Electric",
+  "fullName": "2027 Porsche Cayenne Coupe Electric",
+  "brandId": "porsche",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "At 4,985 millimetres long and 1,980 mm wide (excluding mirrors), the all-electric Porsche Cayenne Coupe is the same length and width as the SUV model.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-Cayenne_Coupe_Electric-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-Cayenne_Coupe_Electric-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/porsche/2027-cayenne_coupe_electric/",
+  "isLatest": true,
+  "scrapedAt": "2026-06-05T07:31:48.971Z",
+  "createdAt": "2026-06-05T07:36:26.717Z",
+  "updatedAt": "2026-06-05T07:36:26.717Z"
+}

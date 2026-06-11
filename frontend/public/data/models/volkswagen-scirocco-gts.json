@@ -1,0 +1,118 @@
+{
+  "id": "m-volkswagen-scirocco-gts",
+  "slug": "volkswagen-scirocco-gts",
+  "name": "Scirocco GTS",
+  "fullName": "Volkswagen Scirocco GTS",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Scirocco GTS — sedan, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_scirocco_gts/images/1920x1080/2016_volkswagen_scirocco_gts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2016_volkswagen_scirocco_gts/images/1920x1080/2016_volkswagen_scirocco_gts_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-scirocco-gts-2020-0",
+      "slug": "volkswagen-scirocco-gts-2020-0",
+      "modelId": "m-volkswagen-scirocco-gts",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Scirocco GTS | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_scirocco_gts/images/1920x1080/2016_volkswagen_scirocco_gts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2016_volkswagen_scirocco_gts/images/1920x1080/2016_volkswagen_scirocco_gts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-scirocco-gts-2020-0",
+          "generationId": "gen-volkswagen-scirocco-gts-2020-0",
+          "url": "https://images.caricos.com/v/vw/2016_volkswagen_scirocco_gts/images/1920x1080/2016_volkswagen_scirocco_gts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2016_volkswagen_scirocco_gts/images/1920x1080/2016_volkswagen_scirocco_gts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Scirocco GTS | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-volkswagen-scirocco-gts-2020-1",
+      "slug": "volkswagen-scirocco-gts-2020-1",
+      "modelId": "m-volkswagen-scirocco-gts",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Scirocco GTS | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_scirocco_gts/images/1920x1080/2013_volkswagen_scirocco_gts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2013_volkswagen_scirocco_gts/images/1920x1080/2013_volkswagen_scirocco_gts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-scirocco-gts-2020-1",
+          "generationId": "gen-volkswagen-scirocco-gts-2020-1",
+          "url": "https://images.caricos.com/v/vw/2013_volkswagen_scirocco_gts/images/1920x1080/2013_volkswagen_scirocco_gts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2013_volkswagen_scirocco_gts/images/1920x1080/2013_volkswagen_scirocco_gts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Scirocco GTS | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

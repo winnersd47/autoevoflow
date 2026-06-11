@@ -1,0 +1,72 @@
+{
+  "id": "m-maserati-kubang-concept",
+  "slug": "maserati-kubang-concept",
+  "name": "Kubang Concept",
+  "fullName": "Maserati Kubang Concept",
+  "brandId": "brand-maserati",
+  "bodyType": "concept",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "endYear": 2011,
+  "isActive": false,
+  "description": "Maserati Kubang Concept — concept, produced since 2011.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_kubang_concept/images/1920x1080/2011_maserati_kubang_concept_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/maserati/2011_maserati_kubang_concept/images/1920x1080/2011_maserati_kubang_concept_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "maserati"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-maserati-kubang-concept-2011-0",
+      "slug": "maserati-kubang-concept-2011-0",
+      "modelId": "m-maserati-kubang-concept",
+      "brandId": "brand-maserati",
+      "codeName": "2011",
+      "generationNumber": 1,
+      "startYear": 2011,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2011 Maserati Kubang Concept",
+      "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_kubang_concept/images/1920x1080/2011_maserati_kubang_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/maserati/2011_maserati_kubang_concept/images/1920x1080/2011_maserati_kubang_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-maserati-kubang-concept-2011-0",
+          "generationId": "gen-maserati-kubang-concept-2011-0",
+          "url": "https://images.caricos.com/m/maserati/2011_maserati_kubang_concept/images/1920x1080/2011_maserati_kubang_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/maserati/2011_maserati_kubang_concept/images/1920x1080/2011_maserati_kubang_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2011,
+          "altText": "2011 Maserati Kubang Concept",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2011"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

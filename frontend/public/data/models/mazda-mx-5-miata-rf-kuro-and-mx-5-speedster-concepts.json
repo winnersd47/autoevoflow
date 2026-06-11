@@ -1,0 +1,72 @@
+{
+  "id": "m-mazda-mx-5-miata-rf-kuro-and-mx-5-speedster-concepts",
+  "slug": "mazda-mx-5-miata-rf-kuro-and-mx-5-speedster-concepts",
+  "name": "MX-5 Miata RF Kuro and MX-5 Speedster Concepts",
+  "fullName": "Mazda MX-5 Miata RF Kuro and MX-5 Speedster Concepts",
+  "brandId": "brand-mazda",
+  "bodyType": "concept",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "endYear": 2016,
+  "isActive": false,
+  "description": "Mazda MX-5 Miata RF Kuro and MX-5 Speedster Concepts — concept, produced since 2016.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_sema_concepts/images/1920x1080/2016_mazda_sema_concepts_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda_sema_concepts/images/1920x1080/2016_mazda_sema_concepts_1_1920x1080.jpg",
+  "tags": [
+    "concept",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-mx-5-miata-rf-kuro-and-mx-5-speedster-concepts-2016-0",
+      "slug": "mazda-mx-5-miata-rf-kuro-and-mx-5-speedster-concepts-2016-0",
+      "modelId": "m-mazda-mx-5-miata-rf-kuro-and-mx-5-speedster-concepts",
+      "brandId": "brand-mazda",
+      "codeName": "2016",
+      "generationNumber": 1,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "concept"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 Mazda MX-5 Miata RF Kuro and MX-5 Speedster Concepts",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_sema_concepts/images/1920x1080/2016_mazda_sema_concepts_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda_sema_concepts/images/1920x1080/2016_mazda_sema_concepts_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-mx-5-miata-rf-kuro-and-mx-5-speedster-concepts-2016-0",
+          "generationId": "gen-mazda-mx-5-miata-rf-kuro-and-mx-5-speedster-concepts-2016-0",
+          "url": "https://images.caricos.com/m/mazda/2016_mazda_sema_concepts/images/1920x1080/2016_mazda_sema_concepts_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_sema_concepts/images/1920x1080/2016_mazda_sema_concepts_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 Mazda MX-5 Miata RF Kuro and MX-5 Speedster Concepts",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "concept",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

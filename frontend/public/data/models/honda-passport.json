@@ -1,0 +1,118 @@
+{
+  "id": "m-honda-passport",
+  "slug": "honda-passport",
+  "name": "Passport",
+  "fullName": "Honda Passport",
+  "brandId": "brand-honda",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Honda Passport — suv, produced since 2020.",
+  "generationCount": 2,
+  "thumbnailUrl": "https://images.caricos.com/h/honda/2026_honda_passport/images/1920x1080/2026_honda_passport_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/h/honda/2026_honda_passport/images/1920x1080/2026_honda_passport_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "honda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-honda-passport-2020-0",
+      "slug": "honda-passport-2020-0",
+      "modelId": "m-honda-passport",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Passport | 2026MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2026_honda_passport/images/1920x1080/2026_honda_passport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2026_honda_passport/images/1920x1080/2026_honda_passport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-passport-2020-0",
+          "generationId": "gen-honda-passport-2020-0",
+          "url": "https://images.caricos.com/h/honda/2026_honda_passport/images/1920x1080/2026_honda_passport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2026_honda_passport/images/1920x1080/2026_honda_passport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Passport | 2026MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-honda-passport-2020-1",
+      "slug": "honda-passport-2020-1",
+      "modelId": "m-honda-passport",
+      "brandId": "brand-honda",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Honda Passport | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/h/honda/2019_honda_passport/images/1920x1080/2019_honda_passport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/h/honda/2019_honda_passport/images/1920x1080/2019_honda_passport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-honda-passport-2020-1",
+          "generationId": "gen-honda-passport-2020-1",
+          "url": "https://images.caricos.com/h/honda/2019_honda_passport/images/1920x1080/2019_honda_passport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/h/honda/2019_honda_passport/images/1920x1080/2019_honda_passport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Honda Passport | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "m-ford-police-respon",
+  "slug": "ford-police-respon",
+  "name": "Police Respon",
+  "fullName": "Ford Police Respon",
+  "brandId": "brand-ford",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford Police Respon — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_police_responder_hybrid_sedan/images/1920x1080/2017_ford_police_responder_hybrid_sedan_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2017_ford_police_responder_hybrid_sedan/images/1920x1080/2017_ford_police_responder_hybrid_sedan_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-police-respon-2020-0",
+      "slug": "ford-police-respon-2020-0",
+      "modelId": "m-ford-police-respon",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Police Responder Hybrid Sedan | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_police_responder_hybrid_sedan/images/1920x1080/2017_ford_police_responder_hybrid_sedan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2017_ford_police_responder_hybrid_sedan/images/1920x1080/2017_ford_police_responder_hybrid_sedan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-police-respon-2020-0",
+          "generationId": "gen-ford-police-respon-2020-0",
+          "url": "https://images.caricos.com/f/ford/2017_ford_police_responder_hybrid_sedan/images/1920x1080/2017_ford_police_responder_hybrid_sedan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_police_responder_hybrid_sedan/images/1920x1080/2017_ford_police_responder_hybrid_sedan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Police Responder Hybrid Sedan | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+# =============================================================================
+# Grafana datasource provisioning
+# Grafana loads this file at startup; no manual UI configuration required.
+# =============================================================================
+
+apiVersion: 1
+
+# Delete datasources that are no longer defined here when Grafana restarts.
+deleteDatasources:
+  - name: Old-Prometheus
+    orgId: 1
+
+datasources:
+
+  # --------------------------------------------------------------------------
+  # Prometheus – primary metrics source
+  # --------------------------------------------------------------------------
+  - name:      Prometheus
+    type:      prometheus
+    access:    proxy
+    orgId:     1
+    uid:       prometheus-uid
+    url:       http://prometheus:9090
+    isDefault: true
+    version:   1
+    editable:  false
+    jsonData:
+      httpMethod:               POST
+      # Increase query timeout for dashboard panels with heavy range queries
+      timeInterval:             "15s"
+      queryTimeout:             "60s"
+      # Prometheus HTTP API v2 (better performance with large label cardinality)
+      prometheusVersion:        "2.49.0"
+      prometheusType:           Prometheus
+      # Exemplars for trace-to-metrics correlation (if Tempo is added later)
+      exemplarTraceIdDestinations:
+        - name: traceID
+          datasourceUid: tempo-uid
+
+  # --------------------------------------------------------------------------
+  # PostgreSQL – direct SQL queries for operational dashboards
+  # --------------------------------------------------------------------------
+  - name:      PostgreSQL
+    type:      postgres
+    access:    proxy
+    orgId:     1
+    uid:       postgres-uid
+    url:       postgres:5432
+    database:  ${POSTGRES_DB}
+    user:      ${POSTGRES_GRAFANA_USER}
+    version:   1
+    editable:  false
+    secureJsonData:
+      password: ${POSTGRES_GRAFANA_PASSWORD}
+    jsonData:
+      sslmode:         disable
+      maxOpenConns:    5
+      maxIdleConns:    5
+      connMaxLifetime: 14400
+      postgresVersion: 1600     # PostgreSQL 16
+      timescaledb:     false
+
+  # --------------------------------------------------------------------------
+  # Redis – optional; requires grafana-redis-datasource plugin
+  # Uncomment and add GF_INSTALL_PLUGINS=redis-datasource to Grafana env.
+  # --------------------------------------------------------------------------
+  # - name:    Redis
+  #   type:    redis-datasource
+  #   access:  proxy
+  #   orgId:   1
+  #   uid:     redis-uid
+  #   url:     redis://redis:6379
+  #   version: 1
+  #   editable: false
+  #   jsonData:
+  #     poolSize: 5
+  #     timeout:  10

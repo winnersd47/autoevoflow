@@ -1,0 +1,210 @@
+{
+  "id": "m-jaguar-xf",
+  "slug": "jaguar-xf",
+  "name": "XF (",
+  "fullName": "Jaguar XF (",
+  "brandId": "brand-jaguar",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Jaguar XF ( — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/j/jaguar/2016_jaguar_xf_uk/images/1920x1080/2016_jaguar_xf_uk_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/j/jaguar/2016_jaguar_xf_uk/images/1920x1080/2016_jaguar_xf_uk_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "jaguar"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-jaguar-xf-2020-0",
+      "slug": "jaguar-xf-2020-0",
+      "modelId": "m-jaguar-xf",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar XF | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2021_jaguar_xf/images/1920x1080/2021_jaguar_xf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2021_jaguar_xf/images/1920x1080/2021_jaguar_xf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-xf-2020-0",
+          "generationId": "gen-jaguar-xf-2020-0",
+          "url": "https://images.caricos.com/j/jaguar/2021_jaguar_xf/images/1920x1080/2021_jaguar_xf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2021_jaguar_xf/images/1920x1080/2021_jaguar_xf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar XF | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-jaguar-xf-2020-1",
+      "slug": "jaguar-xf-2020-1",
+      "modelId": "m-jaguar-xf",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar XF | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2016_jaguar_xf/images/1920x1080/2016_jaguar_xf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2016_jaguar_xf/images/1920x1080/2016_jaguar_xf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-xf-2020-1",
+          "generationId": "gen-jaguar-xf-2020-1",
+          "url": "https://images.caricos.com/j/jaguar/2016_jaguar_xf/images/1920x1080/2016_jaguar_xf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2016_jaguar_xf/images/1920x1080/2016_jaguar_xf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar XF | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-jaguar-xf-2020-2",
+      "slug": "jaguar-xf-2020-2",
+      "modelId": "m-jaguar-xf",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar XF | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2012_jaguar_xf/images/1920x1080/2012_jaguar_xf_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2012_jaguar_xf/images/1920x1080/2012_jaguar_xf_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-xf-2020-2",
+          "generationId": "gen-jaguar-xf-2020-2",
+          "url": "https://images.caricos.com/j/jaguar/2012_jaguar_xf/images/1920x1080/2012_jaguar_xf_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2012_jaguar_xf/images/1920x1080/2012_jaguar_xf_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar XF | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-jaguar-xf-2020-0",
+      "slug": "jaguar-xf-2020-0",
+      "modelId": "m-jaguar-xf",
+      "brandId": "brand-jaguar",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Jaguar XF (UK-Spec) | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/j/jaguar/2016_jaguar_xf_uk/images/1920x1080/2016_jaguar_xf_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/j/jaguar/2016_jaguar_xf_uk/images/1920x1080/2016_jaguar_xf_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-jaguar-xf-2020-0",
+          "generationId": "gen-jaguar-xf-2020-0",
+          "url": "https://images.caricos.com/j/jaguar/2016_jaguar_xf_uk/images/1920x1080/2016_jaguar_xf_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/j/jaguar/2016_jaguar_xf_uk/images/1920x1080/2016_jaguar_xf_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Jaguar XF (UK-Spec) | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

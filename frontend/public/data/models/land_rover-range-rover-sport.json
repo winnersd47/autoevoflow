@@ -1,0 +1,210 @@
+{
+  "id": "m-land_rover-range-rover-sport",
+  "slug": "land_rover-range-rover-sport",
+  "name": "Range Rover Sport",
+  "fullName": "Land Rover Range Rover Sport",
+  "brandId": "brand-land_rover",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Land Rover Range Rover Sport — suv, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/l/land_rover/2018_range_rover_sport/images/1920x1080/2018_range_rover_sport_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/land_rover/2018_range_rover_sport/images/1920x1080/2018_range_rover_sport_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "land-rover"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-land_rover-range-rover-sport-2020-0",
+      "slug": "land_rover-range-rover-sport-2020-0",
+      "modelId": "m-land_rover-range-rover-sport",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Sport | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2018_range_rover_sport/images/1920x1080/2018_range_rover_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2018_range_rover_sport/images/1920x1080/2018_range_rover_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-sport-2020-0",
+          "generationId": "gen-land_rover-range-rover-sport-2020-0",
+          "url": "https://images.caricos.com/l/land_rover/2018_range_rover_sport/images/1920x1080/2018_range_rover_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2018_range_rover_sport/images/1920x1080/2018_range_rover_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Sport | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-sport-2020-1",
+      "slug": "land_rover-range-rover-sport-2020-1",
+      "modelId": "m-land_rover-range-rover-sport",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Sport | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2014_range_rover_sport/images/1920x1080/2014_range_rover_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2014_range_rover_sport/images/1920x1080/2014_range_rover_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-sport-2020-1",
+          "generationId": "gen-land_rover-range-rover-sport-2020-1",
+          "url": "https://images.caricos.com/l/land_rover/2014_range_rover_sport/images/1920x1080/2014_range_rover_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2014_range_rover_sport/images/1920x1080/2014_range_rover_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Sport | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-sport-2020-2",
+      "slug": "land_rover-range-rover-sport-2020-2",
+      "modelId": "m-land_rover-range-rover-sport",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Sport | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2013_range_rover_sport/images/1920x1080/2013_range_rover_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2013_range_rover_sport/images/1920x1080/2013_range_rover_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-sport-2020-2",
+          "generationId": "gen-land_rover-range-rover-sport-2020-2",
+          "url": "https://images.caricos.com/l/land_rover/2013_range_rover_sport/images/1920x1080/2013_range_rover_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2013_range_rover_sport/images/1920x1080/2013_range_rover_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Sport | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-sport-2020-3",
+      "slug": "land_rover-range-rover-sport-2020-3",
+      "modelId": "m-land_rover-range-rover-sport",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Sport | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_range_rover_sport/images/1920x1080/2012_land_rover_range_rover_sport_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_range_rover_sport/images/1920x1080/2012_land_rover_range_rover_sport_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-sport-2020-3",
+          "generationId": "gen-land_rover-range-rover-sport-2020-3",
+          "url": "https://images.caricos.com/l/land_rover/2012_land_rover_range_rover_sport/images/1920x1080/2012_land_rover_range_rover_sport_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2012_land_rover_range_rover_sport/images/1920x1080/2012_land_rover_range_rover_sport_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Sport | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

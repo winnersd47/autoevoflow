@@ -1,0 +1,164 @@
+{
+  "id": "m-ford-t",
+  "slug": "ford-t",
+  "name": "T",
+  "fullName": "Ford T",
+  "brandId": "brand-ford",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Ford T — sedan, produced since 2020.",
+  "generationCount": 3,
+  "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_taurus/images/1920x1080/2017_ford_taurus_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/f/ford/2017_ford_taurus/images/1920x1080/2017_ford_taurus_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "ford"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-ford-t-2020-0",
+      "slug": "ford-t-2020-0",
+      "modelId": "m-ford-t",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Taurus | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_taurus/images/1920x1080/2017_ford_taurus_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2017_ford_taurus/images/1920x1080/2017_ford_taurus_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-t-2020-0",
+          "generationId": "gen-ford-t-2020-0",
+          "url": "https://images.caricos.com/f/ford/2017_ford_taurus/images/1920x1080/2017_ford_taurus_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2017_ford_taurus/images/1920x1080/2017_ford_taurus_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Taurus | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-t-2020-1",
+      "slug": "ford-t-2020-1",
+      "modelId": "m-ford-t",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Taurus (China-Spec) | 2016MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2016_ford_taurus_cn/images/1920x1080/2016_ford_taurus_cn_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2016_ford_taurus_cn/images/1920x1080/2016_ford_taurus_cn_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-t-2020-1",
+          "generationId": "gen-ford-t-2020-1",
+          "url": "https://images.caricos.com/f/ford/2016_ford_taurus_cn/images/1920x1080/2016_ford_taurus_cn_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2016_ford_taurus_cn/images/1920x1080/2016_ford_taurus_cn_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Taurus (China-Spec) | 2016MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-ford-t-2020-2",
+      "slug": "ford-t-2020-2",
+      "modelId": "m-ford-t",
+      "brandId": "brand-ford",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Ford Taurus | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_taurus/images/1920x1080/2013_ford_taurus_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/f/ford/2013_ford_taurus/images/1920x1080/2013_ford_taurus_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-ford-t-2020-2",
+          "generationId": "gen-ford-t-2020-2",
+          "url": "https://images.caricos.com/f/ford/2013_ford_taurus/images/1920x1080/2013_ford_taurus_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/f/ford/2013_ford_taurus/images/1920x1080/2013_ford_taurus_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Ford Taurus | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "id": "m-renault-ren",
+  "slug": "renault-ren",
+  "name": "Ren",
+  "fullName": "Renault Ren",
+  "brandId": "brand-renault",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Renault Ren — sedan, produced since 2020.",
+  "generationCount": 53,
+  "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_zoe/images/1920x1080/2020_renault_zoe_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/r/renault/2020_renault_zoe/images/1920x1080/2020_renault_zoe_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "renault"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-renault-ren-2020-0",
+      "slug": "renault-ren-2020-0",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Zoe | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_zoe/images/1920x1080/2020_renault_zoe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2020_renault_zoe/images/1920x1080/2020_renault_zoe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-0",
+          "generationId": "gen-renault-ren-2020-0",
+          "url": "https://images.caricos.com/r/renault/2020_renault_zoe/images/1920x1080/2020_renault_zoe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_zoe/images/1920x1080/2020_renault_zoe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Zoe | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-1",
+      "slug": "renault-ren-2020-1",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Mégane R.S. Trophy-R | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_megane_rs_trophy-r/images/1920x1080/2020_renault_megane_rs_trophy-r_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2020_renault_megane_rs_trophy-r/images/1920x1080/2020_renault_megane_rs_trophy-r_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-1",
+          "generationId": "gen-renault-ren-2020-1",
+          "url": "https://images.caricos.com/r/renault/2020_renault_megane_rs_trophy-r/images/1920x1080/2020_renault_megane_rs_trophy-r_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_megane_rs_trophy-r/images/1920x1080/2020_renault_megane_rs_trophy-r_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Mégane R.S. Trophy-R | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-2",
+      "slug": "renault-ren-2020-2",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Koleos | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_koleos/images/1920x1080/2020_renault_koleos_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2020_renault_koleos/images/1920x1080/2020_renault_koleos_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-2",
+          "generationId": "gen-renault-ren-2020-2",
+          "url": "https://images.caricos.com/r/renault/2020_renault_koleos/images/1920x1080/2020_renault_koleos_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_koleos/images/1920x1080/2020_renault_koleos_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Koleos | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-3",
+      "slug": "renault-ren-2020-3",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Kiger Concept | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_kiger_concept/images/1920x1080/2020_renault_kiger_concept_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2020_renault_kiger_concept/images/1920x1080/2020_renault_kiger_concept_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-3",
+          "generationId": "gen-renault-ren-2020-3",
+          "url": "https://images.caricos.com/r/renault/2020_renault_kiger_concept/images/1920x1080/2020_renault_kiger_concept_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_kiger_concept/images/1920x1080/2020_renault_kiger_concept_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Kiger Concept | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-4",
+      "slug": "renault-ren-2020-4",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Captur | 2020MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_captur/images/1920x1080/2020_renault_captur_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2020_renault_captur/images/1920x1080/2020_renault_captur_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-4",
+          "generationId": "gen-renault-ren-2020-4",
+          "url": "https://images.caricos.com/r/renault/2020_renault_captur/images/1920x1080/2020_renault_captur_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2020_renault_captur/images/1920x1080/2020_renault_captur_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Captur | 2020MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-5",
+      "slug": "renault-ren-2020-5",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 6,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Megane R.S. Trophy | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2019_renault_megane_rs_trophy/images/1920x1080/2019_renault_megane_rs_trophy_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2019_renault_megane_rs_trophy/images/1920x1080/2019_renault_megane_rs_trophy_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-5",
+          "generationId": "gen-renault-ren-2020-5",
+          "url": "https://images.caricos.com/r/renault/2019_renault_megane_rs_trophy/images/1920x1080/2019_renault_megane_rs_trophy_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2019_renault_megane_rs_trophy/images/1920x1080/2019_renault_megane_rs_trophy_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Megane R.S. Trophy | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-6",
+      "slug": "renault-ren-2020-6",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 7,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": true,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault K-ZE EV SUV Concept | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2018_renault_k-ze/images/1920x1080/2018_renault_k-ze_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2018_renault_k-ze/images/1920x1080/2018_renault_k-ze_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-6",
+          "generationId": "gen-renault-ren-2020-6",
+          "url": "https://images.caricos.com/r/renault/2018_renault_k-ze/images/1920x1080/2018_renault_k-ze_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2018_renault_k-ze/images/1920x1080/2018_renault_k-ze_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault K-ZE EV SUV Concept | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-7",
+      "slug": "renault-ren-2020-7",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 8,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault ZOE | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_zoe/images/1920x1080/2017_renault_zoe_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2017_renault_zoe/images/1920x1080/2017_renault_zoe_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-7",
+          "generationId": "gen-renault-ren-2020-7",
+          "url": "https://images.caricos.com/r/renault/2017_renault_zoe/images/1920x1080/2017_renault_zoe_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_zoe/images/1920x1080/2017_renault_zoe_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault ZOE | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-8",
+      "slug": "renault-ren-2020-8",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 9,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Twingo GT | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_twingo_gt/images/1920x1080/2017_renault_twingo_gt_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2017_renault_twingo_gt/images/1920x1080/2017_renault_twingo_gt_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-8",
+          "generationId": "gen-renault-ren-2020-8",
+          "url": "https://images.caricos.com/r/renault/2017_renault_twingo_gt/images/1920x1080/2017_renault_twingo_gt_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_twingo_gt/images/1920x1080/2017_renault_twingo_gt_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Twingo GT | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-9",
+      "slug": "renault-ren-2020-9",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 10,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Scenic | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_scenic/images/1920x1080/2017_renault_scenic_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2017_renault_scenic/images/1920x1080/2017_renault_scenic_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-9",
+          "generationId": "gen-renault-ren-2020-9",
+          "url": "https://images.caricos.com/r/renault/2017_renault_scenic/images/1920x1080/2017_renault_scenic_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_scenic/images/1920x1080/2017_renault_scenic_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Scenic | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-10",
+      "slug": "renault-ren-2020-10",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 11,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Megane Sedan | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_megane_sedan/images/1920x1080/2017_renault_megane_sedan_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2017_renault_megane_sedan/images/1920x1080/2017_renault_megane_sedan_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-10",
+          "generationId": "gen-renault-ren-2020-10",
+          "url": "https://images.caricos.com/r/renault/2017_renault_megane_sedan/images/1920x1080/2017_renault_megane_sedan_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_megane_sedan/images/1920x1080/2017_renault_megane_sedan_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Megane Sedan | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-renault-ren-2020-11",
+      "slug": "renault-ren-2020-11",
+      "modelId": "m-renault-ren",
+      "brandId": "brand-renault",
+      "codeName": "2020",
+      "generationNumber": 12,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Renault Megane Estate | 2017MY",
+      "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_megane_estate/images/1920x1080/2017_renault_megane_estate_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/r/renault/2017_renault_megane_estate/images/1920x1080/2017_renault_megane_estate_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-renault-ren-2020-11",
+          "generationId": "gen-renault-ren-2020-11",
+          "url": "https://images.caricos.com/r/renault/2017_renault_megane_estate/images/1920x1080/2017_renault_megane_estate_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/r/renault/2017_renault_megane_estate/images/1920x1080/2017_renault_megane_estate_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Renault Megane Estate | 2017MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

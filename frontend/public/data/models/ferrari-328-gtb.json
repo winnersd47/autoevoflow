@@ -1,0 +1,21 @@
+{
+  "id": "m-ferrari-328-gtb",
+  "slug": "ferrari-328-gtb",
+  "name": "328 GTB",
+  "fullName": "Ferrari 328 GTB",
+  "brandId": "brand-ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "endYear": 1989,
+  "isActive": false,
+  "description": "The Ferrari 328 GTB (1985–1989) was the refined successor to the 308, with a larger 3.2-litre V8 and cleaner Pininfarina lines. It was the last carburettored Ferrari V8 road car.",
+  "generationCount": 1,
+  "thumbnailUrl": "",
+  "heroImageUrl": "",
+  "tags": ["coupe", "ferrari", "mid-engine", "v8", "classic"],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z"
+}

@@ -1,0 +1,380 @@
+{
+  "id": "m-bmw-m5",
+  "slug": "bmw-m5",
+  "name": "M5",
+  "fullName": "BMW M5",
+  "brandId": "brand-bmw",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "BMW M5 — sedan, produced since 2025.",
+  "generationCount": 8,
+  "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5/images/1920x1080/2025_bmw_m5_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5/images/1920x1080/2025_bmw_m5_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "bmw"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bmw-m5-2025-0",
+      "slug": "bmw-m5-2025-0",
+      "modelId": "m-bmw-m5",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2025 M5",
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "images": [],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-m5-2025-1",
+      "slug": "bmw-m5-2025-1",
+      "modelId": "m-bmw-m5",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 2,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M5 | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5/images/1920x1080/2025_bmw_m5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5/images/1920x1080/2025_bmw_m5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m5-2025-1",
+          "generationId": "gen-bmw-m5-2025-1",
+          "url": "https://images.caricos.com/b/bmw/2025_bmw_m5/images/1920x1080/2025_bmw_m5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2025_bmw_m5/images/1920x1080/2025_bmw_m5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "BMW M5 | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-m5-2025-2",
+      "slug": "bmw-m5-2025-2",
+      "modelId": "m-bmw-m5",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 3,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M5 | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_m5/images/1920x1080/2021_bmw_m5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2021_bmw_m5/images/1920x1080/2021_bmw_m5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m5-2025-2",
+          "generationId": "gen-bmw-m5-2025-2",
+          "url": "https://images.caricos.com/b/bmw/2021_bmw_m5/images/1920x1080/2021_bmw_m5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2021_bmw_m5/images/1920x1080/2021_bmw_m5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "BMW M5 | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-m5-2025-3",
+      "slug": "bmw-m5-2025-3",
+      "modelId": "m-bmw-m5",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 4,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M5 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2018_bmw_m5/images/1920x1080/2018_bmw_m5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2018_bmw_m5/images/1920x1080/2018_bmw_m5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m5-2025-3",
+          "generationId": "gen-bmw-m5-2025-3",
+          "url": "https://images.caricos.com/b/bmw/2018_bmw_m5/images/1920x1080/2018_bmw_m5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2018_bmw_m5/images/1920x1080/2018_bmw_m5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "BMW M5 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-m5-2025-4",
+      "slug": "bmw-m5-2025-4",
+      "modelId": "m-bmw-m5",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 5,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M5 | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_m5/images/1920x1080/2014_bmw_m5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2014_bmw_m5/images/1920x1080/2014_bmw_m5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m5-2025-4",
+          "generationId": "gen-bmw-m5-2025-4",
+          "url": "https://images.caricos.com/b/bmw/2014_bmw_m5/images/1920x1080/2014_bmw_m5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2014_bmw_m5/images/1920x1080/2014_bmw_m5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "BMW M5 | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-m5-2025-5",
+      "slug": "bmw-m5-2025-5",
+      "modelId": "m-bmw-m5",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 6,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M5 US-Version | 2013MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2013_bmw_m5_us-version/images/1920x1080/2013_bmw_m5_us-version_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2013_bmw_m5_us-version/images/1920x1080/2013_bmw_m5_us-version_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m5-2025-5",
+          "generationId": "gen-bmw-m5-2025-5",
+          "url": "https://images.caricos.com/b/bmw/2013_bmw_m5_us-version/images/1920x1080/2013_bmw_m5_us-version_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2013_bmw_m5_us-version/images/1920x1080/2013_bmw_m5_us-version_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "BMW M5 US-Version | 2013MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-m5-2025-6",
+      "slug": "bmw-m5-2025-6",
+      "modelId": "m-bmw-m5",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 7,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M5 UK-Version | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_m5_uk/images/1920x1080/2012_bmw_m5_uk_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2012_bmw_m5_uk/images/1920x1080/2012_bmw_m5_uk_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m5-2025-6",
+          "generationId": "gen-bmw-m5-2025-6",
+          "url": "https://images.caricos.com/b/bmw/2012_bmw_m5_uk/images/1920x1080/2012_bmw_m5_uk_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_m5_uk/images/1920x1080/2012_bmw_m5_uk_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "BMW M5 UK-Version | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-bmw-m5-2025-7",
+      "slug": "bmw-m5-2025-7",
+      "modelId": "m-bmw-m5",
+      "brandId": "brand-bmw",
+      "codeName": "2025",
+      "generationNumber": 8,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "BMW M5 | 2012MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_m5/images/1920x1080/2012_bmw_m5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bmw/2012_bmw_m5/images/1920x1080/2012_bmw_m5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bmw-m5-2025-7",
+          "generationId": "gen-bmw-m5-2025-7",
+          "url": "https://images.caricos.com/b/bmw/2012_bmw_m5/images/1920x1080/2012_bmw_m5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bmw/2012_bmw_m5/images/1920x1080/2012_bmw_m5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2025,
+          "altText": "BMW M5 | 2012MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2025"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

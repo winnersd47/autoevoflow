@@ -1,0 +1,72 @@
+{
+  "id": "m-bentley-continental-gt-v8-s-coupe",
+  "slug": "bentley-continental-gt-v8-s-coupe",
+  "name": "Continental GT V8 S Coupe",
+  "fullName": "Bentley Continental GT V8 S Coupe",
+  "brandId": "brand-bentley",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Bentley Continental GT V8 S Coupe — coupe, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/b/bentley/2014_bentley_continental_gt_v8_s/images/1920x1080/2014_bentley_continental_gt_v8_s_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/b/bentley/2014_bentley_continental_gt_v8_s/images/1920x1080/2014_bentley_continental_gt_v8_s_1_1920x1080.jpg",
+  "tags": [
+    "coupe",
+    "bentley"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-bentley-continental-gt-v8-s-coupe-2020-0",
+      "slug": "bentley-continental-gt-v8-s-coupe-2020-0",
+      "modelId": "m-bentley-continental-gt-v8-s-coupe",
+      "brandId": "brand-bentley",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Bentley Continental GT V8 S Coupe | 2014MY",
+      "thumbnailUrl": "https://images.caricos.com/b/bentley/2014_bentley_continental_gt_v8_s/images/1920x1080/2014_bentley_continental_gt_v8_s_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/b/bentley/2014_bentley_continental_gt_v8_s/images/1920x1080/2014_bentley_continental_gt_v8_s_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-bentley-continental-gt-v8-s-coupe-2020-0",
+          "generationId": "gen-bentley-continental-gt-v8-s-coupe-2020-0",
+          "url": "https://images.caricos.com/b/bentley/2014_bentley_continental_gt_v8_s/images/1920x1080/2014_bentley_continental_gt_v8_s_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/b/bentley/2014_bentley_continental_gt_v8_s/images/1920x1080/2014_bentley_continental_gt_v8_s_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Bentley Continental GT V8 S Coupe | 2014MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "coupe",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

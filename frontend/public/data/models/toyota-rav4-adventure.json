@@ -1,0 +1,118 @@
+{
+  "id": "m-toyota-rav4-adventure",
+  "slug": "toyota-rav4-adventure",
+  "name": "RAV4 Adventure",
+  "fullName": "Toyota RAV4 Adventure",
+  "brandId": "brand-toyota",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Toyota RAV4 Adventure — suv, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/t/toyota/2018_toyota_rav4_adventure/images/1920x1080/2018_toyota_rav4_adventure_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/t/toyota/2018_toyota_rav4_adventure/images/1920x1080/2018_toyota_rav4_adventure_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "toyota"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-toyota-rav4-adventure-2020-0",
+      "slug": "toyota-rav4-adventure-2020-0",
+      "modelId": "m-toyota-rav4-adventure",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota RAV4 Adventure (Euro-Spec) | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_rav4_adventure_eu/images/1920x1080/2022_toyota_rav4_adventure_eu_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2022_toyota_rav4_adventure_eu/images/1920x1080/2022_toyota_rav4_adventure_eu_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-rav4-adventure-2020-0",
+          "generationId": "gen-toyota-rav4-adventure-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2022_toyota_rav4_adventure_eu/images/1920x1080/2022_toyota_rav4_adventure_eu_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2022_toyota_rav4_adventure_eu/images/1920x1080/2022_toyota_rav4_adventure_eu_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota RAV4 Adventure (Euro-Spec) | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-toyota-rav4-adventure-2020-0",
+      "slug": "toyota-rav4-adventure-2020-0",
+      "modelId": "m-toyota-rav4-adventure",
+      "brandId": "brand-toyota",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Toyota RAV4 Adventure | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/t/toyota/2018_toyota_rav4_adventure/images/1920x1080/2018_toyota_rav4_adventure_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/t/toyota/2018_toyota_rav4_adventure/images/1920x1080/2018_toyota_rav4_adventure_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-toyota-rav4-adventure-2020-0",
+          "generationId": "gen-toyota-rav4-adventure-2020-0",
+          "url": "https://images.caricos.com/t/toyota/2018_toyota_rav4_adventure/images/1920x1080/2018_toyota_rav4_adventure_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/t/toyota/2018_toyota_rav4_adventure/images/1920x1080/2018_toyota_rav4_adventure_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Toyota RAV4 Adventure | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

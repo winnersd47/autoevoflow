@@ -1,0 +1,210 @@
+{
+  "id": "m-mazda-cx-5",
+  "slug": "mazda-cx-5",
+  "name": "CX-5",
+  "fullName": "Mazda CX-5",
+  "brandId": "brand-mazda",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "endYear": null,
+  "isActive": true,
+  "description": "Mazda CX-5 — suv, produced since 2013.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/m/mazda/2026_mazda_cx-5/images/1920x1080/2026_mazda_cx-5_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mazda/2026_mazda_cx-5/images/1920x1080/2026_mazda_cx-5_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "mazda"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mazda-cx-5-2026-0",
+      "slug": "mazda-cx-5-2026-0",
+      "modelId": "m-mazda-cx-5",
+      "brandId": "brand-mazda",
+      "codeName": "2026",
+      "generationNumber": 1,
+      "startYear": 2026,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2026 Mazda CX-5",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2026_mazda_cx-5/images/1920x1080/2026_mazda_cx-5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2026_mazda_cx-5/images/1920x1080/2026_mazda_cx-5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-cx-5-2026-0",
+          "generationId": "gen-mazda-cx-5-2026-0",
+          "url": "https://images.caricos.com/m/mazda/2026_mazda_cx-5/images/1920x1080/2026_mazda_cx-5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2026_mazda_cx-5/images/1920x1080/2026_mazda_cx-5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2026,
+          "altText": "2026 Mazda CX-5",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2026"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mazda-cx-5-2017-1",
+      "slug": "mazda-cx-5-2017-1",
+      "modelId": "m-mazda-cx-5",
+      "brandId": "brand-mazda",
+      "codeName": "2017",
+      "generationNumber": 2,
+      "startYear": 2017,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2017 Mazda CX-5",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_cx-5/images/1920x1080/2017_mazda_cx-5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2017_mazda_cx-5/images/1920x1080/2017_mazda_cx-5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-cx-5-2017-1",
+          "generationId": "gen-mazda-cx-5-2017-1",
+          "url": "https://images.caricos.com/m/mazda/2017_mazda_cx-5/images/1920x1080/2017_mazda_cx-5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2017_mazda_cx-5/images/1920x1080/2017_mazda_cx-5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2017,
+          "altText": "2017 Mazda CX-5",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2017"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mazda-cx-5-2016-2",
+      "slug": "mazda-cx-5-2016-2",
+      "modelId": "m-mazda-cx-5",
+      "brandId": "brand-mazda",
+      "codeName": "2016",
+      "generationNumber": 3,
+      "startYear": 2016,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2016 Mazda CX-5",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_cx-5/images/1920x1080/2016_mazda_cx-5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2016_mazda_cx-5/images/1920x1080/2016_mazda_cx-5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-cx-5-2016-2",
+          "generationId": "gen-mazda-cx-5-2016-2",
+          "url": "https://images.caricos.com/m/mazda/2016_mazda_cx-5/images/1920x1080/2016_mazda_cx-5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2016_mazda_cx-5/images/1920x1080/2016_mazda_cx-5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2016,
+          "altText": "2016 Mazda CX-5",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2016"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-mazda-cx-5-2013-3",
+      "slug": "mazda-cx-5-2013-3",
+      "modelId": "m-mazda-cx-5",
+      "brandId": "brand-mazda",
+      "codeName": "2013",
+      "generationNumber": 4,
+      "startYear": 2013,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2013 Mazda CX-5",
+      "thumbnailUrl": "https://images.caricos.com/m/mazda/2013_mazda_cx-5/images/1920x1080/2013_mazda_cx-5_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mazda/2013_mazda_cx-5/images/1920x1080/2013_mazda_cx-5_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mazda-cx-5-2013-3",
+          "generationId": "gen-mazda-cx-5-2013-3",
+          "url": "https://images.caricos.com/m/mazda/2013_mazda_cx-5/images/1920x1080/2013_mazda_cx-5_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mazda/2013_mazda_cx-5/images/1920x1080/2013_mazda_cx-5_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2013,
+          "altText": "2013 Mazda CX-5",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2013"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

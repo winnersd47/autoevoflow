@@ -1,0 +1,210 @@
+{
+  "id": "m-land_rover-range-rover-velar",
+  "slug": "land_rover-range-rover-velar",
+  "name": "Range Rover Velar",
+  "fullName": "Land Rover Range Rover Velar",
+  "brandId": "brand-land_rover",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Land Rover Range Rover Velar — suv, produced since 2020.",
+  "generationCount": 4,
+  "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+  "tags": [
+    "suv",
+    "land-rover"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-land_rover-range-rover-velar-2020-0",
+      "slug": "land_rover-range-rover-velar-2020-0",
+      "modelId": "m-land_rover-range-rover-velar",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Velar | 2024MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-velar-2020-0",
+          "generationId": "gen-land_rover-range-rover-velar-2020-0",
+          "url": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Velar | 2024MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-velar-2020-1",
+      "slug": "land_rover-range-rover-velar-2020-1",
+      "modelId": "m-land_rover-range-rover-velar",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Velar | 2021MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_range_rover_velar/images/1920x1080/2021_range_rover_velar_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2021_range_rover_velar/images/1920x1080/2021_range_rover_velar_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-velar-2020-1",
+          "generationId": "gen-land_rover-range-rover-velar-2020-1",
+          "url": "https://images.caricos.com/l/land_rover/2021_range_rover_velar/images/1920x1080/2021_range_rover_velar_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2021_range_rover_velar/images/1920x1080/2021_range_rover_velar_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Velar | 2021MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-velar-2020-2",
+      "slug": "land_rover-range-rover-velar-2020-2",
+      "modelId": "m-land_rover-range-rover-velar",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Velar | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2018_range_rover_velar/images/1920x1080/2018_range_rover_velar_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2018_range_rover_velar/images/1920x1080/2018_range_rover_velar_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-velar-2020-2",
+          "generationId": "gen-land_rover-range-rover-velar-2020-2",
+          "url": "https://images.caricos.com/l/land_rover/2018_range_rover_velar/images/1920x1080/2018_range_rover_velar_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2018_range_rover_velar/images/1920x1080/2018_range_rover_velar_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Velar | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-land_rover-range-rover-velar-2020-3",
+      "slug": "land_rover-range-rover-velar-2020-3",
+      "modelId": "m-land_rover-range-rover-velar",
+      "brandId": "brand-land_rover",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Range Rover Velar",
+      "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-land_rover-range-rover-velar-2020-3",
+          "generationId": "gen-land_rover-range-rover-velar-2020-3",
+          "url": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/land_rover/2024_range_rover_velar/images/1920x1080/2024_range_rover_velar_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Range Rover Velar",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "suv",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

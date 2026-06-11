@@ -1,0 +1,256 @@
+{
+  "id": "m-infiniti-qx80",
+  "slug": "infiniti-qx80",
+  "name": "QX80",
+  "fullName": "Infiniti QX80",
+  "brandId": "brand-infiniti",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Infiniti QX80 — sedan, produced since 2020.",
+  "generationCount": 5,
+  "thumbnailUrl": "https://images.caricos.com/i/infiniti/2025_infiniti_qx80/images/1920x1080/2025_infiniti_qx80_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/i/infiniti/2025_infiniti_qx80/images/1920x1080/2025_infiniti_qx80_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "infiniti"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-infiniti-qx80-2020-0",
+      "slug": "infiniti-qx80-2020-0",
+      "modelId": "m-infiniti-qx80",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX80 | 2025MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2025_infiniti_qx80/images/1920x1080/2025_infiniti_qx80_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2025_infiniti_qx80/images/1920x1080/2025_infiniti_qx80_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx80-2020-0",
+          "generationId": "gen-infiniti-qx80-2020-0",
+          "url": "https://images.caricos.com/i/infiniti/2025_infiniti_qx80/images/1920x1080/2025_infiniti_qx80_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2025_infiniti_qx80/images/1920x1080/2025_infiniti_qx80_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX80 | 2025MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx80-2020-1",
+      "slug": "infiniti-qx80-2020-1",
+      "modelId": "m-infiniti-qx80",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 2,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX80 | 2023MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2023_infiniti_qx80/images/1920x1080/2023_infiniti_qx80_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2023_infiniti_qx80/images/1920x1080/2023_infiniti_qx80_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx80-2020-1",
+          "generationId": "gen-infiniti-qx80-2020-1",
+          "url": "https://images.caricos.com/i/infiniti/2023_infiniti_qx80/images/1920x1080/2023_infiniti_qx80_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2023_infiniti_qx80/images/1920x1080/2023_infiniti_qx80_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX80 | 2023MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx80-2020-2",
+      "slug": "infiniti-qx80-2020-2",
+      "modelId": "m-infiniti-qx80",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 3,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX80 | 2022MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2022_infiniti_qx80/images/1920x1080/2022_infiniti_qx80_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2022_infiniti_qx80/images/1920x1080/2022_infiniti_qx80_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx80-2020-2",
+          "generationId": "gen-infiniti-qx80-2020-2",
+          "url": "https://images.caricos.com/i/infiniti/2022_infiniti_qx80/images/1920x1080/2022_infiniti_qx80_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2022_infiniti_qx80/images/1920x1080/2022_infiniti_qx80_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX80 | 2022MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx80-2020-3",
+      "slug": "infiniti-qx80-2020-3",
+      "modelId": "m-infiniti-qx80",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 4,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX80 | 2018MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2018_infiniti_qx80/images/1920x1080/2018_infiniti_qx80_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2018_infiniti_qx80/images/1920x1080/2018_infiniti_qx80_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx80-2020-3",
+          "generationId": "gen-infiniti-qx80-2020-3",
+          "url": "https://images.caricos.com/i/infiniti/2018_infiniti_qx80/images/1920x1080/2018_infiniti_qx80_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2018_infiniti_qx80/images/1920x1080/2018_infiniti_qx80_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX80 | 2018MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "gen-infiniti-qx80-2020-4",
+      "slug": "infiniti-qx80-2020-4",
+      "modelId": "m-infiniti-qx80",
+      "brandId": "brand-infiniti",
+      "codeName": "2020",
+      "generationNumber": 5,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Infiniti QX80 | 2015MY",
+      "thumbnailUrl": "https://images.caricos.com/i/infiniti/2015_infiniti_qx80/images/1920x1080/2015_infiniti_qx80_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/i/infiniti/2015_infiniti_qx80/images/1920x1080/2015_infiniti_qx80_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-infiniti-qx80-2020-4",
+          "generationId": "gen-infiniti-qx80-2020-4",
+          "url": "https://images.caricos.com/i/infiniti/2015_infiniti_qx80/images/1920x1080/2015_infiniti_qx80_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/i/infiniti/2015_infiniti_qx80/images/1920x1080/2015_infiniti_qx80_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Infiniti QX80 | 2015MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

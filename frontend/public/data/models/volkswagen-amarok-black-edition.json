@@ -1,0 +1,72 @@
+{
+  "id": "m-volkswagen-amarok-black-edition",
+  "slug": "volkswagen-amarok-black-edition",
+  "name": "Amarok Black Edition (",
+  "fullName": "Volkswagen Amarok Black Edition (",
+  "brandId": "brand-volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Volkswagen Amarok Black Edition ( — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_amarok_black_edition/images/1920x1080/2019_volkswagen_amarok_black_edition_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_amarok_black_edition/images/1920x1080/2019_volkswagen_amarok_black_edition_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "volkswagen"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-volkswagen-amarok-black-edition-2020-0",
+      "slug": "volkswagen-amarok-black-edition-2020-0",
+      "modelId": "m-volkswagen-amarok-black-edition",
+      "brandId": "brand-volkswagen",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Volkswagen Amarok Black Edition (UK-Spec) | 2019MY",
+      "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_amarok_black_edition/images/1920x1080/2019_volkswagen_amarok_black_edition_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/v/vw/2019_volkswagen_amarok_black_edition/images/1920x1080/2019_volkswagen_amarok_black_edition_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-volkswagen-amarok-black-edition-2020-0",
+          "generationId": "gen-volkswagen-amarok-black-edition-2020-0",
+          "url": "https://images.caricos.com/v/vw/2019_volkswagen_amarok_black_edition/images/1920x1080/2019_volkswagen_amarok_black_edition_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/v/vw/2019_volkswagen_amarok_black_edition/images/1920x1080/2019_volkswagen_amarok_black_edition_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Volkswagen Amarok Black Edition (UK-Spec) | 2019MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

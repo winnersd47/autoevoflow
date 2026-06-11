@@ -1,0 +1,72 @@
+{
+  "id": "m-mclaren-mp4-12c-gt3",
+  "slug": "mclaren-mp4-12c-gt3",
+  "name": "MP4-12C GT3",
+  "fullName": "McLaren MP4-12C GT3",
+  "brandId": "brand-mclaren",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "endYear": 2011,
+  "isActive": false,
+  "description": "McLaren MP4-12C GT3 — sedan, produced since 2011.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c_gt3/images/1920x1080/2011_mclaren_mp4-12c_gt3_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c_gt3/images/1920x1080/2011_mclaren_mp4-12c_gt3_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "mclaren"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-mclaren-mp4-12c-gt3-2011-0",
+      "slug": "mclaren-mp4-12c-gt3-2011-0",
+      "modelId": "m-mclaren-mp4-12c-gt3",
+      "brandId": "brand-mclaren",
+      "codeName": "2011",
+      "generationNumber": 1,
+      "startYear": 2011,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "2011 McLaren MP4-12C GT3",
+      "thumbnailUrl": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c_gt3/images/1920x1080/2011_mclaren_mp4-12c_gt3_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c_gt3/images/1920x1080/2011_mclaren_mp4-12c_gt3_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-mclaren-mp4-12c-gt3-2011-0",
+          "generationId": "gen-mclaren-mp4-12c-gt3-2011-0",
+          "url": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c_gt3/images/1920x1080/2011_mclaren_mp4-12c_gt3_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/m/mclaren/2011_mclaren_mp4-12c_gt3/images/1920x1080/2011_mclaren_mp4-12c_gt3_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2011,
+          "altText": "2011 McLaren MP4-12C GT3",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2011"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

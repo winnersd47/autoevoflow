@@ -1,0 +1,72 @@
+{
+  "id": "m-lamborghini-gallardo-lp-560-4-polizia",
+  "slug": "lamborghini-gallardo-lp-560-4-polizia",
+  "name": "Gallardo LP 560-4 Polizia",
+  "fullName": "Lamborghini Gallardo LP 560-4 Polizia",
+  "brandId": "brand-lamborghini",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "endYear": null,
+  "isActive": true,
+  "description": "Lamborghini Gallardo LP 560-4 Polizia — sedan, produced since 2020.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4_polizia/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_polizia_1_1920x1080.jpg",
+  "heroImageUrl": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4_polizia/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_polizia_1_1920x1080.jpg",
+  "tags": [
+    "sedan",
+    "lamborghini"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "generations": [
+    {
+      "id": "gen-lamborghini-gallardo-lp-560-4-polizia-2020-0",
+      "slug": "lamborghini-gallardo-lp-560-4-polizia-2020-0",
+      "modelId": "m-lamborghini-gallardo-lp-560-4-polizia",
+      "brandId": "brand-lamborghini",
+      "codeName": "2020",
+      "generationNumber": 1,
+      "startYear": 2020,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
+      "description": "Lamborghini Gallardo LP 560-4 Polizia | 2009MY",
+      "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4_polizia/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_polizia_1_1920x1080.jpg",
+      "heroImageUrl": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4_polizia/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_polizia_1_1920x1080.jpg",
+      "images": [
+        {
+          "id": "img-lamborghini-gallardo-lp-560-4-polizia-2020-0",
+          "generationId": "gen-lamborghini-gallardo-lp-560-4-polizia-2020-0",
+          "url": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4_polizia/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_polizia_1_1920x1080.jpg",
+          "thumbnailUrl": "https://images.caricos.com/l/lamborghini/2009_lamborghini_gallardo_lp_560-4_polizia/images/1920x1080/2009_lamborghini_gallardo_lp_560-4_polizia_1_1920x1080.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2020,
+          "altText": "Lamborghini Gallardo LP 560-4 Polizia | 2009MY",
+          "width": 1920,
+          "height": 1080,
+          "source": "caricos.com"
+        }
+      ],
+      "tags": [
+        "sedan",
+        "2020"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}
