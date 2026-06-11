@@ -19468,7 +19468,7 @@
       "id": "to-br-1",
       "source": "toyota-gt86-zn6",
       "target": "subaru-brz-zc6",
-      "type": "variant_of",
+      "type": "rebadged_as",
       "strength": 0.9
     },
     {
@@ -20070,14 +20070,14 @@
       "id": "su-brz-gt86",
       "source": "subaru-brz-zc6",
       "target": "toyota-gt86-zn6",
-      "type": "variant_of",
+      "type": "rebadged_as",
       "strength": 0.9
     },
     {
       "id": "su-brz2-gr86",
       "source": "subaru-brz-zd8",
       "target": "toyota-gr86-zn8",
-      "type": "variant_of",
+      "type": "rebadged_as",
       "strength": 0.9
     },
     {
@@ -22725,13 +22725,6 @@
       "target": "pagani-utopia",
       "type": "evolves_into",
       "strength": 0.95
-    },
-    {
-      "id": "bg-bolide-c2p",
-      "source": "concept-bugatti-bolide",
-      "target": "bugatti-bolide",
-      "type": "concept_to_production",
-      "strength": 0.85
     },
     {
       "id": "bg-mistral-var",

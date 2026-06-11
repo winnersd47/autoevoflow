@@ -11,7 +11,8 @@
     "scrape:latest": "node scripts/scrape-latest.js",
     "scheduler": "node scripts/scheduler.js",
     "sync:latest": "node scripts/sync-latest-to-project.js",
-    "update:latest": "npm run scrape:latest && npm run sync:latest"
+    "validate": "node scripts/validate-graph.js",
+    "update:latest": "npm run scrape:latest && npm run sync:latest && npm run validate"
   },
   "dependencies": {
     "@next/bundle-analyzer": "^14.2.5",
