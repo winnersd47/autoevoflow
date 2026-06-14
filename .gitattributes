@@ -1,0 +1,14 @@
+# Единые переводы строк (LF в репозитории) — без CRLF-возни на Windows
+* text=auto eol=lf
+
+# Бинарные ассеты — без конверсии переводов строк
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.webp binary
+*.woff  binary
+*.woff2 binary
+*.ttf  binary
+*.eot  binary
