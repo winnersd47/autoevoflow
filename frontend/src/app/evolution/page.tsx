@@ -203,9 +203,34 @@ function EvolutionPageInner() {
     if (activeBrands.size > 0) nodes = nodes.filter((n) => activeBrands.has(n.brandId ?? ""));
     if (search.trim()) {
       const q = search.toLowerCase();
-      nodes = nodes.filter(
-        (n) => n.label.toLowerCase().includes(q) || (n.codeName ?? "").toLowerCase().includes(q)
+      const matched = new Set(
+        graphData.nodes
+          .filter((n) => n.label.toLowerCase().includes(q) || (n.codeName ?? "").toLowerCase().includes(q))
+          .map((n) => n.id)
       );
+      // Контекст-сохраняющий поиск: показываем найденное + ВСЮ его линию поколений
+      // (evolves_into в обе стороны) + прямые варианты/фейслифты/производные/концепты,
+      // чтобы модель была видна в родословной, а не одиноким узлом.
+      const keep = new Set<string>(matched);
+      const STRUCT = new Set(["evolves_into", "variant_of", "derived_from", "facelifted_to", "concept_to_production"]);
+      const evAdj: Record<string, string[]> = {};
+      graphData.edges.forEach((e) => {
+        if (e.type === "evolves_into") {
+          (evAdj[e.source] ??= []).push(e.target);
+          (evAdj[e.target] ??= []).push(e.source);
+        }
+      });
+      const stack: string[] = [...matched];
+      while (stack.length) {
+        const id = stack.pop() as string;
+        (evAdj[id] ?? []).forEach((nb) => { if (!keep.has(nb)) { keep.add(nb); stack.push(nb); } });
+      }
+      graphData.edges.forEach((e) => {
+        if (!STRUCT.has(e.type)) return;
+        if (matched.has(e.source)) keep.add(e.target);
+        if (matched.has(e.target)) keep.add(e.source);
+      });
+      nodes = nodes.filter((n) => keep.has(n.id));
     }
 
     // ── Node type filter ──────────────────────────────────────────────────
