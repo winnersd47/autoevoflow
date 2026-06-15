@@ -856,7 +856,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         'rolls-royce': '#68217a', bentley: '#0a4d2c',
         'gordon-murray': '#0e8a7d', zenvo: '#a4161a', 'de-tomaso': '#c08a3e',
         morgan: '#2e5e1e', tvr: '#4a6fa5', caterham: '#8ab500',
-        hennessey: '#b33000', ssc: '#5b7a8c', saleen: '#e08a00',
+        ford: '#0b2e6b', hennessey: '#b33000', ssc: '#5b7a8c', saleen: '#e08a00',
         pininfarina: '#5d6d8a', 'hispano-suiza': '#147a8c', aspark: '#6f5acf',
       }
       const BRAND_ORDER_E = ['ferrari','lamborghini','porsche','maserati','lotus',
@@ -1022,7 +1022,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         'rolls-royce': '#68217a', bentley: '#0a4d2c',
         'gordon-murray': '#0e8a7d', zenvo: '#a4161a', 'de-tomaso': '#c08a3e',
         morgan: '#2e5e1e', tvr: '#4a6fa5', caterham: '#8ab500',
-        hennessey: '#b33000', ssc: '#5b7a8c', saleen: '#e08a00',
+        ford: '#0b2e6b', hennessey: '#b33000', ssc: '#5b7a8c', saleen: '#e08a00',
         pininfarina: '#5d6d8a', 'hispano-suiza': '#147a8c', aspark: '#6f5acf',
       }
       // Год основания бренда — определяет порядок колонок (старейшие слева)
@@ -1034,7 +1034,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         mclaren:1963, lexus:1989, pagani:1992, koenigsegg:1994, rimac:2009,
         'de-tomaso':1959, zenvo:2007, 'gordon-murray':2017,
         'hispano-suiza':1904, morgan:1909, tvr:1946, caterham:1973,
-        saleen:1983, hennessey:1991, ssc:1998, aspark:2005, pininfarina:2018,
+        ford:1903, saleen:1983, hennessey:1991, ssc:1998, aspark:2005, pininfarina:2018,
       }
       const foundedYear = (bid: string) => BRAND_FOUNDED_FK[bid] ?? 9999
 

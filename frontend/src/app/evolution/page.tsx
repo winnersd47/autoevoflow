@@ -47,6 +47,7 @@ const BRANDS = [
   { id: "pininfarina", name: "Pininfarina",  color: "#5d6d8a" },
   { id: "hispano-suiza", name: "Hispano Suiza", color: "#147a8c" },
   // ── American ─────────────────────────────────────────────────────────────
+  { id: "ford",        name: "Ford",         color: "#0b2e6b" },
   { id: "hennessey",   name: "Hennessey",    color: "#b33000" },
   { id: "ssc",         name: "SSC",          color: "#5b7a8c" },
   { id: "saleen",      name: "Saleen",       color: "#e08a00" },

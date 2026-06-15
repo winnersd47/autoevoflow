@@ -21,7 +21,7 @@ const BRAND_WHITELIST = new Set([
   'bmw','mercedes','audi','volkswagen','porsche','ferrari','lamborghini','mclaren',
   'astonmartin','bugatti','pagani','koenigsegg','rimac','seat','skoda','lotus','maserati',
   'rolls-royce','bentley','gordon-murray','zenvo','de-tomaso','morgan','tvr','caterham',
-  'pininfarina','hispano-suiza','hennessey','ssc','saleen',
+  'pininfarina','hispano-suiza','ford','hennessey','ssc','saleen',
   'toyota','lexus','honda','nissan','mazda','subaru','aspark',
 ])
 const ZONES = new Set([

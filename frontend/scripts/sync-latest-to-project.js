@@ -351,7 +351,7 @@ function main() {
     'ferrari','lamborghini','mclaren','astonmartin','bugatti','pagani','koenigsegg',
     'rimac','seat','skoda','lotus','maserati','rolls-royce','bentley',
     'gordon-murray','zenvo','de-tomaso','morgan','tvr','caterham',
-    'hennessey','ssc','saleen','pininfarina','hispano-suiza',
+    'ford','hennessey','ssc','saleen','pininfarina','hispano-suiza',
     'toyota','lexus','honda','nissan','mazda','subaru','aspark'])
   const BRAND_ALIAS = { 'mercedes-benz':'mercedes', 'merc':'mercedes', 'vw':'volkswagen',
     'aston-martin':'astonmartin', 'aston_martin':'astonmartin',
