@@ -785,11 +785,49 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
 
       applyEdgeVisibility('cola')
 
+      // ── Зонирование по ПЛАТФОРМАМ ────────────────────────────────────────────
+      //  Группа = компонента связности по shares_platform (MLB-Evo SUV, MQB,
+      //  MEB и т.д.). Каждой группе — свой цвет-кольцо у узлов; рёбра
+      //  shares_platform в cola короче (см. edgeLength ниже) → платформенные
+      //  группы стягиваются в видимые зоны поверх сетки «мощность × двигатель».
+      const platAdj: Record<string, string[]> = {}
+      cy.edges().forEach(e => {
+        if (e.data('type') !== 'shares_platform') return
+        const s = e.source().id(), t = e.target().id()
+        ;(platAdj[s] ??= []).push(t); (platAdj[t] ??= []).push(s)
+      })
+      const platGroup: Record<string, number> = {}
+      let platGi = 0
+      Object.keys(platAdj).forEach(start => {
+        if (platGroup[start] !== undefined) return
+        const st: string[] = [start]; platGroup[start] = platGi
+        while (st.length) {
+          const id = st.pop() as string
+          ;(platAdj[id] ?? []).forEach(nb => { if (platGroup[nb] === undefined) { platGroup[nb] = platGi; st.push(nb) } })
+        }
+        platGi++
+      })
+      const PLAT_PALETTE = ['#f97316','#22d3ee','#a3e635','#e879f9','#60a5fa','#fb7185',
+                            '#34d399','#c084fc','#fbbf24','#2dd4bf','#f472b6','#fde047']
+      cy.batch(() => {
+        cy.nodes().forEach(node => {
+          const grp = platGroup[node.id()]
+          if (grp !== undefined) {
+            node.style({
+              'border-color': PLAT_PALETTE[grp % PLAT_PALETTE.length],
+              'border-width': 5,
+              'border-opacity': 1,
+            })
+          }
+        })
+      })
+
       // Run short cola physics from seeded positions → organic clusters
       const colaL = cy.layout({
         name: 'cola',
         nodeSpacing: 22,
-        edgeLength: 80,
+        edgeLength: (edge: cytoscape.EdgeSingular) =>
+          edge.data('type') === 'shares_platform' ? 42 : 95,  // платформа короче → кучнее
         maxSimulationTime: 800,
         convergenceThreshold: 0.005,
         animate: true,

@@ -22,6 +22,14 @@ cd frontend && NODE_OPTIONS="--max-old-space-size=2048" npx next dev -p 3200
 в `src/components/graph/EvolutionGraph.tsx`. 5 лейаутов: Древо (fork), Династия
 (eras), Типаж (zone), Арена (sync), Мощность (cola).
 
+**Мощность (cola)** = X: мощность (л.с.), Y: тип двигателя (полосы `engineBands`),
+физика cola кластеризует по видимым рёбрам. **Платформенное зонирование**: группы =
+компоненты связности `shares_platform`; каждой группе — цвет-кольцо у узлов
+(`PLAT_PALETTE`), а рёбра `shares_platform` в cola короче (42 vs 95) → группы
+стягиваются в зоны. Так видны платформенные семьи: MLB-Evo (Q7/Cayenne/Touareg/
+Bentayga/Urus/Q8), MQB, MEB (+Ford Explorer/Capri EV), J1/PPE, MSB. shares_platform
+показан ТОЛЬКО в Мощности (в Древе скрыт — даёт паутину).
+
 ### Структура узла
 ```json
 { "id":"audi-a4b9", "label":"A4 B9", "type":"generation", "year":2015,
