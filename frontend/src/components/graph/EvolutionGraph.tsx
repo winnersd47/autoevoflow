@@ -438,6 +438,10 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
   type HpLine = { hp: number; left: number }
   const [engineBands, setEngineBands] = useState<PowerBand[]>([])
   const [hpLines, setHpLines] = useState<HpLine[]>([])
+  type PlatZone = { color: string; label: string; count: number }
+  type PlatHull = { color: string; points: string }
+  const [platformZones, setPlatformZones] = useState<PlatZone[]>([])
+  const [platformHulls, setPlatformHulls] = useState<PlatHull[]>([])
   // Eras overlay
   type EraCol  = { decade: number; left: number }
   type GenRow  = { gen: number; label: string; top: number; height: number }
@@ -704,7 +708,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
     // ── Форсаж: HP axis (X) × Engine type (Y) → logical performance clusters ──
     if (l === 'cola') {
       cy.nodes().removeStyle(); cy.edges().removeStyle()
-      setEngineBands([]); setHpLines([])
+      setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
       setEraCols([]); setGenRows([])
       setBrandBands([]); setYearTicks([])
       setZoneLabels([]); setDecadeLines([])
@@ -822,6 +826,34 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         })
       })
 
+      // легенда + источник для подложек-зон (группы ≥3 узлов или известные платформы)
+      const platMembers: Record<number, string[]> = {}
+      Object.entries(platGroup).forEach(([id, gi]) => (platMembers[gi] ??= []).push(id))
+      const PLAT_NAME: [string, string][] = [
+        ['lambo-urus','MLB-Evo (большие SUV)'], ['vw-id4','MEB (EV)'], ['vw-golf7','MQB'],
+        ['porsche-taycan','J1/PPE (EV)'], ['porsche-pan-971','MSB'], ['porsche-pan-970','MSB'],
+        ['ford-ranger-t6','Ranger / Amarok'], ['ford-focus-2','Ford C1 / Mazda'],
+        ['lambo-huracan','Huracán / R8 (V10)'], ['porsche-mac-95b','MLB (Macan/Q5)'],
+      ]
+      const platLabel = (members: string[]): string => {
+        for (const [sig, name] of PLAT_NAME) if (members.includes(sig)) return name
+        return members.slice(0, 2).map(id => cy.getElementById(id).data('label') as string).join(' · ')
+          + (members.length > 2 ? ` +${members.length - 2}` : '')
+      }
+      const hullGroups: { color: string; members: string[] }[] = []
+      const zones: PlatZone[] = []
+      Object.entries(platMembers).forEach(([giStr, members]) => {
+        const gi = Number(giStr)
+        const color = PLAT_PALETTE[gi % PLAT_PALETTE.length]
+        const named = PLAT_NAME.some(([sig]) => members.includes(sig))
+        if (members.length >= 3 || named) {
+          zones.push({ color, label: platLabel(members), count: members.length })
+          if (members.length >= 3) hullGroups.push({ color, members })
+        }
+      })
+      zones.sort((a, b) => b.count - a.count)
+      setPlatformZones(zones)
+
       // Run short cola physics from seeded positions → organic clusters
       const colaL = cy.layout({
         name: 'cola',
@@ -863,14 +895,44 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         setHpLines(lines)
       }
 
+      // Выпуклая оболочка (Andrew monotone chain) в модельных координатах
+      const convexHull = (pts: {x:number;y:number}[]): {x:number;y:number}[] => {
+        if (pts.length < 3) return pts
+        const s = pts.slice().sort((a,b) => a.x - b.x || a.y - b.y)
+        const cr = (o:{x:number;y:number},a:{x:number;y:number},b:{x:number;y:number}) =>
+          (a.x-o.x)*(b.y-o.y) - (a.y-o.y)*(b.x-o.x)
+        const lo: {x:number;y:number}[] = []
+        for (const p of s){ while(lo.length>=2 && cr(lo[lo.length-2],lo[lo.length-1],p)<=0) lo.pop(); lo.push(p) }
+        const up: {x:number;y:number}[] = []
+        for (let i=s.length-1;i>=0;i--){ const p=s[i]; while(up.length>=2 && cr(up[up.length-2],up[up.length-1],p)<=0) up.pop(); up.push(p) }
+        lo.pop(); up.pop(); return lo.concat(up)
+      }
+      // Подложки-зоны: оболочка членов группы (модель) → экранные % с паддингом наружу
+      const buildPlatformHulls = (pX: number, pY: number, z: number, cW: number): void => {
+        const hulls = hullGroups.map(({ color, members }) => {
+          const pos = members.map(id => cy.getElementById(id).position()).filter(p => p && isFinite(p.x))
+          if (pos.length < 3) return null
+          const cx = pos.reduce((s,p)=>s+p.x,0)/pos.length, cyy = pos.reduce((s,p)=>s+p.y,0)/pos.length
+          const PAD = 48
+          const padded = pos.map(p => { const dx=p.x-cx, dy=p.y-cyy, d=Math.hypot(dx,dy)||1; return { x:p.x+dx/d*PAD, y:p.y+dy/d*PAD } })
+          const hull = convexHull(padded)
+          if (hull.length < 3) return null
+          const points = hull.map(p => `${(((p.x*z+pX)/cW)*100).toFixed(2)},${(((p.y*z+pY)/height)*100).toFixed(2)}`).join(' ')
+          return { color, points }
+        }).filter(Boolean) as PlatHull[]
+        setPlatformHulls(hulls)
+      }
+
       colaL.one('layoutstop', () => {
         const p = cy.pan(); const z = cy.zoom(); const cw = cy.container()?.clientWidth ?? 1200
         buildEngineBands(p.y, z)
         buildHpLines(p.x, z, cw)
+        buildPlatformHulls(p.x, p.y, z, cw)
         cy.on('pan zoom', () => {
           const pp = cy.pan(); const zz = cy.zoom(); const cww = cy.container()?.clientWidth ?? cw
           buildEngineBands(pp.y, zz)
           buildHpLines(pp.x, zz, cww)
+          buildPlatformHulls(pp.x, pp.y, zz, cww)
         })
       })
 
@@ -881,7 +943,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
     // ── Хроника: brand-family columns × time axis ─────────────────────────────
     if (l === 'eras') {
       cy.nodes().removeStyle(); cy.edges().removeStyle()
-      setEngineBands([]); setHpLines([])
+      setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
       setEraCols([]); setGenRows([])
       setBrandBands([]); setYearTicks([])
       setZoneLabels([]); setDecadeLines([])
@@ -1046,7 +1108,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
     // ── Развилка: evolution tree — brand columns × depth zones ───────────────────
     if (l === 'fork') {
       cy.nodes().removeStyle(); cy.edges().removeStyle()
-      setEngineBands([]); setHpLines([])
+      setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
       setEraCols([]); setGenRows([])
       setBrandBands([]); setYearTicks([])
       setZoneLabels([]); setDecadeLines([])
@@ -1588,7 +1650,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
     //  один год, разные дорожки одного сегмента.
     if (l === 'sync') {
       cy.nodes().removeStyle(); cy.edges().removeStyle()
-      setEngineBands([]); setHpLines([])
+      setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
       setEraCols([]); setGenRows([])
       setBrandBands([]); setYearTicks([])
       setZoneLabels([]); setDecadeLines([])
@@ -2282,6 +2344,33 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
             </div>
           ))}
 
+        </div>
+      )}
+
+      {/* ── Мощность: платформенные зоны (подложки + легенда) ───────────── */}
+      {activeLayout === 'cola' && (platformHulls.length > 0 || platformZones.length > 0) && (
+        <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden">
+          {platformHulls.length > 0 && (
+            <svg className="absolute inset-0" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
+              {platformHulls.map((h, i) => (
+                <polygon key={i} points={h.points} fill={h.color + '1f'} stroke={h.color + 'aa'}
+                  strokeWidth={0.25} strokeLinejoin="round" strokeDasharray="1.4 0.9" />
+              ))}
+            </svg>
+          )}
+          {platformZones.length > 0 && (
+            <div className="absolute top-2 right-2 flex flex-col gap-1 px-2.5 py-2 rounded-lg"
+                 style={{ background: 'rgba(9,8,10,0.82)', border: '1px solid rgba(255,255,255,0.1)', maxWidth: 220 }}>
+              <span className="text-[9px] font-black uppercase tracking-widest mb-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>Платформы</span>
+              {platformZones.map((z, i) => (
+                <span key={i} className="flex items-center gap-1.5 text-[10px]" style={{ color: 'rgba(255,255,255,0.88)' }}>
+                  <span style={{ width: 11, height: 11, borderRadius: 3, background: z.color, flexShrink: 0, boxShadow: `0 0 6px ${z.color}99` }} />
+                  <span className="truncate flex-1">{z.label}</span>
+                  <span style={{ color: 'rgba(255,255,255,0.4)' }}>{z.count}</span>
+                </span>
+              ))}
+            </div>
+          )}
         </div>
       )}
 

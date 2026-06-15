@@ -6,7 +6,7 @@
       "count": 0,
       "ok": false,
       "error": "timeout: https://www.netcarshow.com/latest-cars.html",
-      "checkedAt": "2026-06-11T12:08:09.182Z"
+      "checkedAt": "2026-06-15T22:34:56.436Z"
     },
     {
       "id": "netcarshow-concept",
@@ -14,122 +14,62 @@
       "count": 0,
       "ok": false,
       "error": "timeout: https://www.netcarshow.com/explore/concept/",
-      "checkedAt": "2026-06-11T12:08:09.182Z"
+      "checkedAt": "2026-06-15T22:34:56.436Z"
     },
     {
       "id": "carscoops",
       "name": "Carscoops RSS",
-      "count": 7,
+      "count": 3,
       "ok": true,
-      "checkedAt": "2026-06-11T12:08:09.182Z"
+      "checkedAt": "2026-06-15T22:34:56.436Z"
     }
   ],
   "cars": [
     {
-      "id": "carscoops-2026-06-subaru-sambar-van-update",
+      "id": "carscoops-2026-06-2027-jeep-grand-cherokee-overland-trailhawk",
       "source": "carscoops",
       "sourceLabel": "Carscoops",
-      "brand": "Subaru",
-      "brandSlug": "subaru",
-      "name": "Subaru&#8217;s Cheapest New Car Is A $7,200 Kei Van With Three Pedals",
-      "fullName": "Subaru&#8217;s Cheapest New Car Is A $7,200 Kei Van With Three Pedals",
-      "year": 2026,
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Subaru-Sambar-Van-main-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margi",
-      "pageUrl": "https://www.carscoops.com/2026/06/subaru-sambar-van-update/",
-      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Subaru-Sambar-Van-main-copy-1024x576.jpg",
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Subaru-Sambar-Van-main-copy-1024x576.jpg",
-      "scrapedAt": "2026-06-11T12:08:04.448Z"
+      "brand": "Jeep",
+      "brandSlug": "jeep",
+      "name": "2027 Jeep Grand Cherokee Ushers In Return Of Trailhawk and Overland Trims",
+      "fullName": "2027 Jeep Grand Cherokee Ushers In Return Of Trailhawk and Overland Trims",
+      "year": 2027,
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/2027-Jeep-Grand-Cherokee-Tr-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margi",
+      "pageUrl": "https://www.carscoops.com/2026/06/2027-jeep-grand-cherokee-overland-trailhawk/",
+      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Jeep-Grand-Cherokee-Tr-1024x576.jpg",
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Jeep-Grand-Cherokee-Tr-1024x576.jpg",
+      "scrapedAt": "2026-06-15T22:34:51.682Z"
     },
     {
-      "id": "carscoops-2026-06-denza-z-coupe-specs",
-      "source": "carscoops",
-      "sourceLabel": "Carscoops",
-      "brand": "Other",
-      "brandSlug": "other",
-      "name": "BYD&#8217;s New Denza Z Coupe Has Nearly 1,600 HP, And It&#8217;ll Need Every One For Its 5,000 Pounds",
-      "fullName": "BYD&#8217;s New Denza Z Coupe Has Nearly 1,600 HP, And It&#8217;ll Need Every One For Its 5,000 Pounds",
-      "year": 2026,
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Denza-Z00004-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: ",
-      "pageUrl": "https://www.carscoops.com/2026/06/denza-z-coupe-specs/",
-      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Denza-Z00004-copy-1024x576.jpg",
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Denza-Z00004-copy-1024x576.jpg",
-      "scrapedAt": "2026-06-11T12:08:04.448Z"
-    },
-    {
-      "id": "carscoops-2026-06-vw-id-era-8x-china",
-      "source": "carscoops",
-      "sourceLabel": "Carscoops",
-      "brand": "Other",
-      "brandSlug": "other",
-      "name": "VW&#8217;s New ID.Era 8X Wears An EV Badge And Hides A 1.5-Liter Turbo",
-      "fullName": "VW&#8217;s New ID.Era 8X Wears An EV Badge And Hides A 1.5-Liter Turbo",
-      "year": 2026,
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/thbrgf-v--1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" d",
-      "pageUrl": "https://www.carscoops.com/2026/06/vw-id-era-8x-china/",
-      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/thbrgf-v--1024x576.jpg",
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/thbrgf-v--1024x576.jpg",
-      "scrapedAt": "2026-06-11T12:08:04.448Z"
-    },
-    {
-      "id": "carscoops-2026-06-monroe-county-bus-cameras",
-      "source": "carscoops",
-      "sourceLabel": "Carscoops",
-      "brand": "Other",
-      "brandSlug": "other",
-      "name": "A New York County Ticketed Over 18,000 Drivers Blowing Past Its Stopped School Buses",
-      "fullName": "A New York County Ticketed Over 18,000 Drivers Blowing Past Its Stopped School Buses",
-      "year": 2026,
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Blue_Bird_Vision_Type_C_Propane_Bus_10-2024-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image",
-      "pageUrl": "https://www.carscoops.com/2026/06/monroe-county-bus-cameras/",
-      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Blue_Bird_Vision_Type_C_Propane_Bus_10-2024-copy-1024x576.jpg",
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Blue_Bird_Vision_Type_C_Propane_Bus_10-2024-copy-1024x576.jpg",
-      "scrapedAt": "2026-06-11T12:08:04.448Z"
-    },
-    {
-      "id": "carscoops-2026-06-aston-martin-vantage-rs-spied",
-      "source": "carscoops",
-      "sourceLabel": "Carscoops",
-      "brand": "Aston Martin",
-      "brandSlug": "aston-martin",
-      "name": "Aston Martin Cranks The Vantage Up To 11 With New Hardcore Variant",
-      "fullName": "Aston Martin Cranks The Vantage Up To 11 With New Hardcore Variant",
-      "year": 2026,
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/SB20975-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;",
-      "pageUrl": "https://www.carscoops.com/2026/06/aston-martin-vantage-rs-spied/",
-      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/SB20975-copy-1024x576.jpg",
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/SB20975-copy-1024x576.jpg",
-      "scrapedAt": "2026-06-11T12:08:04.448Z"
-    },
-    {
-      "id": "carscoops-2026-06-gran-turismo-7-june-update",
+      "id": "carscoops-2026-06-bmw-ix5-x5-powertrains",
       "source": "carscoops",
       "sourceLabel": "Carscoops",
       "brand": "BMW",
       "brandSlug": "bmw",
-      "name": "Gran Turismo 7&#8217;s June Update Hands You BMW And Ferrari Racers For Free",
-      "fullName": "Gran Turismo 7&#8217;s June Update Hands You BMW And Ferrari Racers For Free",
+      "name": "BMW Just Stuffed Its Biggest Battery Ever Into The New X5",
+      "fullName": "BMW Just Stuffed Its Biggest Battery Ever Into The New X5",
       "year": 2026,
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-botto",
-      "pageUrl": "https://www.carscoops.com/2026/06/gran-turismo-7-june-update/",
-      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg",
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg",
-      "scrapedAt": "2026-06-11T12:08:04.448Z"
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bo",
+      "pageUrl": "https://www.carscoops.com/2026/06/bmw-ix5-x5-powertrains/",
+      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg",
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg",
+      "scrapedAt": "2026-06-15T22:34:51.683Z"
     },
     {
-      "id": "carscoops-2026-06-portland-illegal-tire-dumping",
+      "id": "carscoops-2026-06-skoda-peaq-testing",
       "source": "carscoops",
       "sourceLabel": "Carscoops",
-      "brand": "Other",
-      "brandSlug": "other",
-      "name": "Thousands Of Tires Appeared On His New Property And Nobody Will Claim Them",
-      "fullName": "Thousands Of Tires Appeared On His New Property And Nobody Will Claim Them",
+      "brand": "Skoda",
+      "brandSlug": "skoda",
+      "name": "Skoda Tested The New Peaq EV In America",
+      "fullName": "Skoda Tested The New Peaq EV In America",
       "year": 2026,
-      "description": "<img width=\"1024\" height=\"577\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/awfawefawefwaf-1024x577.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15p",
-      "pageUrl": "https://www.carscoops.com/2026/06/portland-illegal-tire-dumping/",
-      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/awfawefawefwaf-1024x576.jpg",
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/awfawefawefwaf-1024x576.jpg",
-      "scrapedAt": "2026-06-11T12:08:04.448Z"
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/Skoda-Peaq-Prototype-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-",
+      "pageUrl": "https://www.carscoops.com/2026/06/skoda-peaq-testing/",
+      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Skoda-Peaq-Prototype-copy-1024x576.jpg",
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Skoda-Peaq-Prototype-copy-1024x576.jpg",
+      "scrapedAt": "2026-06-15T22:34:51.682Z"
     }
   ],
-  "updatedAt": "2026-06-11T12:08:03.755Z"
+  "updatedAt": "2026-06-15T22:34:51.122Z"
 }

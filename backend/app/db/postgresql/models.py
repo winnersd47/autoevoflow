@@ -352,6 +352,21 @@ class AIAnalysis(Base):
     )
 
 
+class ReferralStatus(str, enum.Enum):
+    pending = "pending"
+    credited = "credited"
+    cancelled = "cancelled"
+
+
+class NotificationType(str, enum.Enum):
+    info = "info"
+    success = "success"
+    warning = "warning"
+    error = "error"
+    referral = "referral"
+    payment = "payment"
+
+
 class User(Base):
     __tablename__ = "users"
 
@@ -370,6 +385,10 @@ class User(Base):
     )
     oauth_id: Mapped[str | None] = mapped_column(String(512))
     is_active: Mapped[bool] = mapped_column(Boolean, default=True, nullable=False)
+    # Plan / subscription
+    plan: Mapped[str] = mapped_column(String(20), nullable=False, default="free")
+    plan_expires_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)
+    referral_code: Mapped[str | None] = mapped_column(String(12), unique=True, nullable=True, index=True)
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), server_default=func.now(), nullable=False
     )
@@ -377,9 +396,62 @@ class User(Base):
         DateTime(timezone=True), server_default=func.now(), onupdate=func.now(), nullable=False
     )
 
+    # Referral relationships
+    referrals_given: Mapped[list[Referral]] = relationship(
+        "Referral", foreign_keys="Referral.referrer_id", back_populates="referrer", lazy="select"
+    )
+    referral_received: Mapped[list[Referral]] = relationship(
+        "Referral", foreign_keys="Referral.referred_id", back_populates="referred", lazy="select"
+    )
+    notifications: Mapped[list[Notification]] = relationship(
+        "Notification", back_populates="user", lazy="select"
+    )
+
     __table_args__ = (
         UniqueConstraint("oauth_provider", "oauth_id", name="uq_users_oauth"),
         Index("ix_users_oauth", "oauth_provider", "oauth_id"),
+    )
+
+
+class Referral(Base):
+    __tablename__ = "referrals"
+
+    id: Mapped[int] = mapped_column(BigInteger, primary_key=True, autoincrement=True)
+    referrer_id: Mapped[int] = mapped_column(BigInteger, ForeignKey("users.id", ondelete="CASCADE"), nullable=False, index=True)
+    referred_id: Mapped[int] = mapped_column(BigInteger, ForeignKey("users.id", ondelete="CASCADE"), nullable=False, unique=True)
+    level: Mapped[int] = mapped_column(Integer, nullable=False, default=1)
+    reward_days: Mapped[int] = mapped_column(Integer, nullable=False, default=7)
+    status: Mapped[ReferralStatus] = mapped_column(
+        Enum(ReferralStatus, name="referral_status_enum"), nullable=False, default=ReferralStatus.pending
+    )
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now(), nullable=False)
+
+    referrer: Mapped[User] = relationship("User", foreign_keys=[referrer_id], back_populates="referrals_given")
+    referred: Mapped[User] = relationship("User", foreign_keys=[referred_id], back_populates="referral_received")
+
+    __table_args__ = (
+        Index("ix_referrals_referrer", "referrer_id"),
+    )
+
+
+class Notification(Base):
+    __tablename__ = "notifications"
+
+    id: Mapped[int] = mapped_column(BigInteger, primary_key=True, autoincrement=True)
+    user_id: Mapped[int] = mapped_column(BigInteger, ForeignKey("users.id", ondelete="CASCADE"), nullable=False, index=True)
+    type: Mapped[NotificationType] = mapped_column(
+        Enum(NotificationType, name="notification_type_enum"), nullable=False, default=NotificationType.info
+    )
+    title: Mapped[str] = mapped_column(String(255), nullable=False)
+    message: Mapped[str] = mapped_column(Text, nullable=False)
+    is_read: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
+    action_url: Mapped[str | None] = mapped_column(String(500), nullable=True)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), server_default=func.now(), nullable=False)
+
+    user: Mapped[User] = relationship("User", back_populates="notifications")
+
+    __table_args__ = (
+        Index("ix_notifications_user_read", "user_id", "is_read"),
     )
 
 

@@ -681,6 +681,15 @@
       "scrapedAt": "2026-06-11T12:08:04.448Z"
     },
     {
+      "id": "carscoops-2026-06-bmw-ix5-x5-powertrains",
+      "name": "BMW Just Stuffed Its Biggest Battery Ever Into The New X5",
+      "year": 2026,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/06/bmw-ix5-x5-powertrains/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bo",
+      "scrapedAt": "2026-06-15T22:34:51.683Z"
+    },
+    {
       "id": "ncs-bmw-2025-speedtop_concept",
       "name": "BMW Speedtop Concept",
       "year": 2025,
@@ -804,15 +813,6 @@
       "imageUrl": "https://www.netcarshow.com/BMW-Vision_Future_Luxury_Concept-2014-wallpaper.jpg",
       "pageUrl": "https://www.netcarshow.com/bmw/2014-vision_future_luxury_concept/",
       "description": "The BMW Vision Future Luxury furnishes a long-term outlook on the perception of modern luxury for the BMW brand. It stands for a forward-looking fusion of...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-bmw-2012-zagato_coupe_concept",
-      "name": "BMW Zagato Coupe Concept",
-      "year": 2012,
-      "imageUrl": "https://www.netcarshow.com/BMW-Zagato_Coupe_Concept-2012-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2012-zagato_coupe_concept/",
-      "description": "The 2012 Concorso d'Eleganza Villa d'Este will once again host a spectacular world premiere and, in so doing, build on its tradition as a gathering of the...",
       "scrapedAt": "2026-06-05T07:31:49.539Z"
     }
   ]
