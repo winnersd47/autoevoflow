@@ -201,6 +201,32 @@ Route (api/v1/routes/) → Service (services/) → DB (db/) / ML (ml/inference)
 
 ---
 
+## Frontend: данные и границы доступа (MVP)
+
+MVP-фронтенд работает **автономно**: данные графа и каталога читаются как
+**статические JSON из `public/data/`** клиентским `fetch()` (НЕ из бэкенда и НЕ
+webpack-import — иначе OOM на 1000+ узлах):
+- `/data/evolution/graph.json` — граф эволюции (nodes/edges)
+- `/data/brands/{slug}.json`, `/data/models/{slug}.json`, `/data/latest-cars.json`
+
+### ⚠️ Границы auth — КРИТИЧНО для `src/middleware.ts`
+
+Публичная витрина и её **статические данные доступны БЕЗ авторизации**. Любой
+server-side auth-middleware ОБЯЗАН их пропускать, иначе `fetch('/data/...')`
+редиректится на `/login` → «Нет данных».
+
+| Доступ | Пути |
+|--------|------|
+| **Public (без auth)** | `/`, `/evolution`, `/brands`, `/brand/*`, `/model/*`, `/models`, `/search`, `/latest`, `/login`, `/register`, **`/data/*`** (статика!), **`/images/*`**, API-прокси `/api/car-image`, `/api/netcarshow-image`, `/api/latest-cars` |
+| **Gated (auth)** | `/dashboard/*`, `/compare`, `/account` |
+
+**Правило matcher:** исключать статику по РЕАЛЬНЫМ путям Next — **`/data`,
+`/images`** (Next отдаёт `public/` в КОРЕНЬ URL; пути `/public/...` НЕ существует —
+исключать его бессмысленно, это и была причина бага «Нет данных»).
+Регрессию проверяет `frontend/scripts/check-public-access.js` (`npm run check:access`).
+
+---
+
 ## Окружение (.env)
 
 | Переменная | Обязательна | Описание |
@@ -266,6 +292,12 @@ cd backend && pytest tests/ -v --cov=app
 ---
 
 ## Changelog
+
+### v0.2 — 2026-06-15
+- Раздел «Frontend: данные и границы доступа» — статика `/data/*` публична
+- Зафиксировано правило auth-middleware (исключать `/data`, `/images`, публичные
+  API-прокси) — устранён баг, когда `graph.json` редиректился на `/login`
+- Регресс-гард `frontend/scripts/check-public-access.js` (`npm run check:access`)
 
 ### v0.1 — 2026-06-11
 - Инициализация проекта

@@ -12,6 +12,7 @@
     "scheduler": "node scripts/scheduler.js",
     "sync:latest": "node scripts/sync-latest-to-project.js",
     "validate": "node scripts/validate-graph.js",
+    "check:access": "node scripts/check-public-access.js",
     "update:latest": "npm run scrape:latest && npm run sync:latest && npm run validate"
   },
   "dependencies": {

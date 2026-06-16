@@ -290,7 +290,13 @@ Store (src/store/):
   Причина: инлайн-импорт 322 узлов → webpack OOM (Node.js heap overflow при компиляции)
   Решение: evolution/page.tsx использует fetch('/data/evolution/graph.json')
   Запуск dev-сервера: NODE_OPTIONS="--max-old-space-size=2048" npm run dev -- -p 3200
-```
+
+ПУБЛИЧНОСТЬ ДАННЫХ (КРИТИЧНО): /data/* (graph.json, brands, models, latest-cars) —
+  ПУБЛИЧНАЯ статика витрины. НИКОГДА не гейтить её авторизацией. Next отдаёт
+  содержимое public/ в КОРЕНЬ URL (т.е. /data/..., /images/... — НЕ /public/...).
+  Если в проекте появляется server-side middleware (src/middleware.ts), его
+  matcher ОБЯЗАН исключать /data и /images, иначе fetch('/data/evolution/graph.json')
+  редиректится на /login → пустой граф («Нет данных»). См. раздел 4.8.
 
 ### 4.2 Evolution Graph — Полный набор данных
 ```
@@ -456,6 +462,18 @@ Production (с бэкендом):
   JWT access token в localStorage + refresh token в httpOnly cookie
   FastAPI: auth.py → login() → sign JWT с SECRET_KEY → return {access_token}
   Frontend: api.ts → axios interceptor → Authorization: Bearer {token}
+
+Server-side middleware (src/middleware.ts) — ТОЛЬКО если нужен серверный гейт.
+  Базовый режим витрины — КЛИЕНТСКИЙ (localStorage в layout dashboard/compare).
+  Если middleware всё же добавлен, строго соблюдать границы:
+  ПУБЛИЧНО (без токена): / · /evolution · /brands · /brand/* · /model/* · /models ·
+    /search · /latest · /login · /register · /data/* (статика!) · /images/* ·
+    /api/car-image · /api/netcarshow-image · /api/latest-cars
+  ПОД AUTH: /dashboard/* · /compare · /account
+  matcher ОБЯЗАН исключать /data, /images и публичные API-прокси (НЕ исключать
+  несуществующий /public!). Иначе статический graph.json ловится auth →
+  редирект на /login → «Нет данных». Регрессию ловит
+  frontend/scripts/check-public-access.js.
 ```
 
 ### 4.9 Multi-Payment Gateway
