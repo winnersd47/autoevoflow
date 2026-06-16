@@ -854,19 +854,16 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       zones.sort((a, b) => b.count - a.count)
       setPlatformZones(zones)
 
-      // Run short cola physics from seeded positions → organic clusters
+      // Детерминированная карта: узлы строго на сетке X=мощность(л.с.), Y=двигатель
+      // (позиции заданы seed выше). preset (без физики) → оси/полосы совпадают с
+      // узлами, «Мощность» читается как scatter-plot, а не как force-паутина.
+      // Платформы показываются цветом-кольцом + легендой (зонирование без разброса).
       const colaL = cy.layout({
-        name: 'cola',
-        nodeSpacing: 22,
-        edgeLength: (edge: cytoscape.EdgeSingular) =>
-          edge.data('type') === 'shares_platform' ? 42 : 95,  // платформа короче → кучнее
-        maxSimulationTime: 800,
-        convergenceThreshold: 0.005,
-        animate: true,
-        animationDuration: 700,
+        name: 'preset',
         fit: true,
         padding: 50,
-        randomize: false,  // use seeded positions
+        animate: true,
+        animationDuration: 600,
       } as cytoscape.LayoutOptions)
 
       // Build engine zone overlays after physics settles
@@ -2347,9 +2344,26 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         </div>
       )}
 
-      {/* ── Мощность: платформенные зоны (подложки + легенда) ───────────── */}
-      {activeLayout === 'cola' && (platformHulls.length > 0 || platformZones.length > 0) && (
+      {/* ── Мощность: оси (двигатель×л.с.) + платформенные зоны ─────────── */}
+      {activeLayout === 'cola' && (engineBands.length > 0 || hpLines.length > 0 || platformHulls.length > 0 || platformZones.length > 0) && (
         <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden">
+          {/* Полосы типов двигателя (ось Y) */}
+          {engineBands.map((band, idx) => (
+            <div key={band.label + idx} className="absolute left-0 right-0" style={{
+              top: `${Math.max(0, band.top)}%`, height: `${Math.max(0.5, band.height)}%`,
+              background: `linear-gradient(90deg, ${band.color}14 0%, ${band.color}06 40%, transparent 75%)`,
+            }}>
+              {idx > 0 && <div className="absolute left-0 right-0" style={{ top: 0, height: '1px', background: band.color + '55' }} />}
+              <span className="absolute px-1.5 py-0.5 rounded text-[9px] font-bold uppercase tracking-wider"
+                style={{ top: '2px', left: '6px', color: band.color, background: band.color + '1a', whiteSpace: 'nowrap' }}>{band.label}</span>
+            </div>
+          ))}
+          {/* Линии мощности (ось X, л.с.) */}
+          {hpLines.map(line => (
+            <div key={line.hp} className="absolute top-0 bottom-0" style={{ left: `${line.left}%`, width: '1px', background: 'rgba(255,255,255,0.09)' }}>
+              <span className="absolute font-mono" style={{ top: '2px', left: '3px', fontSize: '8px', color: 'rgba(255,255,255,0.32)', whiteSpace: 'nowrap' }}>{line.hp}</span>
+            </div>
+          ))}
           {platformHulls.length > 0 && (
             <svg className="absolute inset-0" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
               {platformHulls.map((h, i) => (
