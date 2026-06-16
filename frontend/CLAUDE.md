@@ -9,6 +9,12 @@ Next.js 14 (App Router) платформа автомобильной эволю
 автономно: данные читаются из статических JSON в `public/data/` через `fetch()`
 (НЕ через webpack import — иначе OOM на 800+ узлах графа).
 
+> ⚠️ **ЛОВУШКА auth-middleware** (`src/middleware.ts`): matcher ОБЯЗАН исключать
+> `data/`, `images/` (статика Next отдаётся по `/data`, НЕ `/public`!) и публичные
+> API-прокси (`api/car-image`, `api/netcarshow-image`, `api/latest-cars`). Иначе
+> `fetch('/data/evolution/graph.json')` редиректится на `/login` → «Нет данных».
+> Если автоматизация пересоздаст middleware с `public` в matcher — это БАГ, чинить.
+
 Запуск dev-сервера:
 ```
 cd frontend && NODE_OPTIONS="--max-old-space-size=2048" npx next dev -p 3200
