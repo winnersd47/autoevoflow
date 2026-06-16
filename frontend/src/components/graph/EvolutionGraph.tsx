@@ -752,46 +752,65 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         flat4t: 'Flat-4 Turbo', flat4: 'Flat-4 NA',
       }
 
-      const HP_SCALE  = 5.0   // px per hp (шире разводит модели по мощности)
-      const ROW_H     = 240   // px per engine row (выше полоса → влезает beeswarm-стек)
-      const NODE_D    = 30    // диаметр узла в overview (мелкие точки)
-      const MIN_X     = 36    // мин. зазор по X в дорожке beeswarm
-      const LANE_H    = 34    // шаг между дорожками
-      const PAD_LEFT  = 60
-      const PAD_TOP   = 50
+      // ── Раскладка КАК ТИПАЖ: зоны = тип двигателя (переменная высота, растут под
+      //    контент), колонки = бакеты мощности (л.с.), в ячейке (двигатель×бакет) —
+      //    сетка GRID_COLS×rows. Модели распределяются с зазором, без наложений/вылезаний.
+      const HP_BUCKET  = 100   // л.с. на колонку
+      const NODE_R     = 35    // радиус габарита узла
+      const CELL_STEP  = 84    // шаг сетки (узел 70 + 14 воздух)
+      const ZONE_PAD   = 12
+      const HEADER_H   = 40    // строка заголовка зоны (метка двигателя)
+      const ZONE_GAP   = 16
+      const BUCKET_PAD = 14
+      const PAD_L      = 56
+      const PAD_T      = 48
 
-      // Collect HP range
-      const hpVals = fCyNodes.map(n => (n.data('hp') as number) ?? 150).filter(h => h > 0)
-      const minHP = Math.min(...hpVals)
+      const hpAll  = fCyNodes.map(n => (n.data('hp') as number) ?? 150).filter(h => h > 0)
+      const minHP  = hpAll.length ? Math.min(...hpAll) : 100
+      const maxHP  = hpAll.length ? Math.max(...hpAll) : 1000
+      const minBkt = Math.floor(minHP / HP_BUCKET) * HP_BUCKET
+      const maxBkt = Math.floor(maxHP / HP_BUCKET) * HP_BUCKET
 
-      // Beeswarm: X = мощность (точно), Y = разнесение по «дорожкам» внутри полосы
-      // двигателя, чтобы узлы НЕ накладывались. Захватываем в colaSeed → preset.
+      // группировка: engineType → бакет л.с. → id узлов
+      const byEngBkt: Record<string, Record<number, string[]>> = {}
+      const nodeHpMap: Record<string, number> = {}
+      fCyNodes.forEach(n => {
+        const eng = (n.data('engineType') as string) ?? 'i4'
+        const hp  = (n.data('hp') as number) ?? 150
+        const bkt = Math.floor(hp / HP_BUCKET) * HP_BUCKET
+        ;((byEngBkt[eng] ??= {})[bkt] ??= []).push(n.id())
+        nodeHpMap[n.id()] = hp
+      })
+      let maxCell = 1
+      Object.values(byEngBkt).forEach(bb => Object.values(bb).forEach(a => { if (a.length > maxCell) maxCell = a.length }))
+      const GRID_COLS = Math.min(4, Math.max(2, Math.ceil(Math.sqrt(maxCell))))
+      const BUCKET_W  = BUCKET_PAD * 2 + GRID_COLS * CELL_STEP
+
+      // порядок зон: присутствующие типы двигателя по ENGINE_ROW (EV сверху → I4 снизу)
+      const engPresent = Object.keys(byEngBkt).sort((a, b) => (ENGINE_ROW[a] ?? 14) - (ENGINE_ROW[b] ?? 14))
+
       const colaSeed: Record<string, { x: number; y: number }> = {}
-      const rowGroups: Record<number, cytoscape.NodeSingular[]> = {}
-      fCyNodes.forEach(node => {
-        const row = ENGINE_ROW[(node.data('engineType') as string) ?? 'i4'] ?? 14
-        ;(rowGroups[row] ??= []).push(node)
-      })
-      Object.keys(rowGroups).forEach(rowStr => {
-        const row = Number(rowStr)
-        const bandCenterY = PAD_TOP + row * ROW_H + ROW_H / 2
-        const group = rowGroups[row].sort(
-          (a, b) => ((a.data('hp') as number) ?? 150) - ((b.data('hp') as number) ?? 150)
-        )
-        const laneLastX: number[] = []  // правый край последнего узла в каждой дорожке
-        group.forEach(node => {
-          const hp  = (node.data('hp') as number) ?? 150
-          const hpx = PAD_LEFT + (hp - minHP) * HP_SCALE
-          let lane = laneLastX.findIndex(lx => hpx - lx >= MIN_X)
-          let x: number
-          if (lane === -1) { lane = laneLastX.length; x = hpx; laneLastX.push(x) }
-          else { x = Math.max(hpx, laneLastX[lane] + MIN_X); laneLastX[lane] = x }
-          const k = Math.ceil(lane / 2) * (lane % 2 === 1 ? -1 : 1)  // зигзаг от центра: 0,-1,+1,-2,+2
-          const pos = { x, y: bandCenterY + k * LANE_H }
-          node.position(pos)
-          colaSeed[node.id()] = pos
+      const engBandsVar: { label: string; color: string; top: number; height: number }[] = []
+      let curY = PAD_T
+      engPresent.forEach(eng => {
+        const buckets  = byEngBkt[eng]
+        const zoneTopY = curY
+        const maxRows  = Math.max(...Object.values(buckets).map(a => Math.ceil(a.length / GRID_COLS)))
+        const zoneH    = HEADER_H + (maxRows - 1) * CELL_STEP + NODE_R * 2 + ZONE_PAD
+        Object.keys(buckets).map(Number).forEach(bkt => {
+          const cell     = buckets[bkt].slice().sort((a, b) => nodeHpMap[a] - nodeHpMap[b])
+          const bktLeft  = PAD_L + ((bkt - minBkt) / HP_BUCKET) * BUCKET_W
+          const usedCols = Math.min(GRID_COLS, cell.length)
+          const startX   = bktLeft + BUCKET_W / 2 - ((usedCols - 1) * CELL_STEP) / 2
+          cell.forEach((id, idx) => {
+            const col = idx % GRID_COLS, rw = Math.floor(idx / GRID_COLS)
+            colaSeed[id] = { x: startX + col * CELL_STEP, y: zoneTopY + HEADER_H + NODE_R + rw * CELL_STEP }
+          })
         })
+        engBandsVar.push({ label: ENGINE_LABEL[eng] ?? eng, color: ENGINE_COLOR[eng] ?? '#888', top: zoneTopY, height: zoneH })
+        curY += zoneH + ZONE_GAP
       })
+      fCyNodes.forEach(n => { const p = colaSeed[n.id()]; if (p) n.position(p) })
 
       applyEdgeVisibility('cola')
 
@@ -821,7 +840,6 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
                             '#34d399','#c084fc','#fbbf24','#2dd4bf','#f472b6','#fde047']
       cy.batch(() => {
         cy.nodes().forEach(node => {
-          node.style({ width: NODE_D, height: NODE_D, 'font-size': 7 })  // мелкие overview-точки
           const grp = platGroup[node.id()]
           if (grp !== undefined) {
             node.style({
@@ -874,28 +892,20 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         animationDuration: 600,
       } as cytoscape.LayoutOptions)
 
-      // Build engine zone overlays after physics settles
+      // Полосы зон двигателя (ПЕРЕМЕННАЯ высота — из engBandsVar) → проценты
       const buildEngineBands = (pY: number, z: number): void => {
-        const rows = new Set(fCyNodes.map(n => ENGINE_ROW[(n.data('engineType') as string) ?? 'i4'] ?? 14))
-        const sortedRows = [...rows].sort((a,b) => a-b)
-        const bands = sortedRows.map(row => {
-          const eng = Object.keys(ENGINE_ROW).find(k => ENGINE_ROW[k] === row) ?? 'i4'
-          return {
-            label: ENGINE_LABEL[eng] ?? eng,
-            color: ENGINE_COLOR[eng] ?? '#888',
-            top:    Math.max(0, ((PAD_TOP + row * ROW_H) * z + pY) / height * 100),
-            height: Math.max(0.3, ROW_H * z / height * 100),
-          }
-        })
-        setEngineBands(bands)
+        setEngineBands(engBandsVar.map(b => ({
+          label: b.label, color: b.color,
+          top:    Math.max(0, (b.top * z + pY) / height * 100),
+          height: Math.max(0.3, b.height * z / height * 100),
+        })))
       }
-
+      // Вертикальные линии по бакетам мощности (л.с.)
       const buildHpLines = (pX: number, z: number, cW: number): void => {
-        const maxHP = Math.max(...hpVals)
-        const lines: {hp: number; left: number}[] = []
-        for (let hp = 100; hp <= maxHP + 100; hp += 100) {
-          const left = ((PAD_LEFT + (hp - minHP) * HP_SCALE) * z + pX) / cW * 100
-          if (left > 0 && left < 100) lines.push({ hp, left })
+        const lines: { hp: number; left: number }[] = []
+        for (let b = minBkt; b <= maxBkt + HP_BUCKET; b += HP_BUCKET) {
+          const left = ((PAD_L + ((b - minBkt) / HP_BUCKET) * BUCKET_W) * z + pX) / cW * 100
+          if (left > 0 && left < 100) lines.push({ hp: b, left })
         }
         setHpLines(lines)
       }

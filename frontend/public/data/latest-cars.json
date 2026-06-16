@@ -6,7 +6,7 @@
       "count": 0,
       "ok": false,
       "error": "timeout: https://www.netcarshow.com/latest-cars.html",
-      "checkedAt": "2026-06-15T22:34:56.436Z"
+      "checkedAt": "2026-06-16T07:53:07.519Z"
     },
     {
       "id": "netcarshow-concept",
@@ -14,14 +14,14 @@
       "count": 0,
       "ok": false,
       "error": "timeout: https://www.netcarshow.com/explore/concept/",
-      "checkedAt": "2026-06-15T22:34:56.436Z"
+      "checkedAt": "2026-06-16T07:53:07.520Z"
     },
     {
       "id": "carscoops",
       "name": "Carscoops RSS",
-      "count": 3,
+      "count": 5,
       "ok": true,
-      "checkedAt": "2026-06-15T22:34:56.436Z"
+      "checkedAt": "2026-06-16T07:53:07.520Z"
     }
   ],
   "cars": [
@@ -38,7 +38,7 @@
       "pageUrl": "https://www.carscoops.com/2026/06/2027-jeep-grand-cherokee-overland-trailhawk/",
       "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Jeep-Grand-Cherokee-Tr-1024x576.jpg",
       "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Jeep-Grand-Cherokee-Tr-1024x576.jpg",
-      "scrapedAt": "2026-06-15T22:34:51.682Z"
+      "scrapedAt": "2026-06-16T07:53:02.800Z"
     },
     {
       "id": "carscoops-2026-06-bmw-ix5-x5-powertrains",
@@ -53,7 +53,37 @@
       "pageUrl": "https://www.carscoops.com/2026/06/bmw-ix5-x5-powertrains/",
       "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg",
       "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg",
-      "scrapedAt": "2026-06-15T22:34:51.683Z"
+      "scrapedAt": "2026-06-16T07:53:02.801Z"
+    },
+    {
+      "id": "carscoops-2026-06-mercedes-amg-gle63-gls63",
+      "source": "carscoops",
+      "sourceLabel": "Carscoops",
+      "brand": "Other",
+      "brandSlug": "other",
+      "name": "AMG&#8217;s New 603-HP GLE And GLS Hit 174 MPH With A Flat-Plane V8",
+      "fullName": "AMG&#8217;s New 603-HP GLE And GLS Hit 174 MPH With A Flat-Plane V8",
+      "year": 2026,
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/50779-premedia-26c0060-011-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"m",
+      "pageUrl": "https://www.carscoops.com/2026/06/mercedes-amg-gle63-gls63/",
+      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/50779-premedia-26c0060-011-copy-1024x576.jpg",
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/50779-premedia-26c0060-011-copy-1024x576.jpg",
+      "scrapedAt": "2026-06-16T07:53:02.800Z"
+    },
+    {
+      "id": "carscoops-2026-06-2027-nissan-frontier-pricing",
+      "source": "carscoops",
+      "sourceLabel": "Carscoops",
+      "brand": "Nissan",
+      "brandSlug": "nissan",
+      "name": "Nissan&#8217;s New Frontier Sport Edition Adds The PRO-4X Look For $990",
+      "fullName": "Nissan&#8217;s New Frontier Sport Edition Adds The PRO-4X Look For $990",
+      "year": 2026,
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/2027-Nissan-Frontier-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-",
+      "pageUrl": "https://www.carscoops.com/2026/06/2027-nissan-frontier-pricing/",
+      "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Nissan-Frontier-copy-1024x576.jpg",
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Nissan-Frontier-copy-1024x576.jpg",
+      "scrapedAt": "2026-06-16T07:53:02.800Z"
     },
     {
       "id": "carscoops-2026-06-skoda-peaq-testing",
@@ -68,8 +98,8 @@
       "pageUrl": "https://www.carscoops.com/2026/06/skoda-peaq-testing/",
       "thumbUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Skoda-Peaq-Prototype-copy-1024x576.jpg",
       "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Skoda-Peaq-Prototype-copy-1024x576.jpg",
-      "scrapedAt": "2026-06-15T22:34:51.682Z"
+      "scrapedAt": "2026-06-16T07:53:02.800Z"
     }
   ],
-  "updatedAt": "2026-06-15T22:34:51.122Z"
+  "updatedAt": "2026-06-16T07:53:02.134Z"
 }
