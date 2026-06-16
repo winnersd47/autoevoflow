@@ -770,7 +770,9 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const hpVals = fCyNodes.map(n => (n.data('hp') as number) ?? 150).filter(h => h > 0)
       const minHP = Math.min(...hpVals)
 
-      // Assign initial positions: X = HP, Y = engine row + small jitter
+      // Assign positions: X = HP, Y = engine row + small jitter (захватываем в colaSeed,
+      // чтобы передать в preset ЯВНО — гарантия сетки, без зависимости от «текущих» позиций)
+      const colaSeed: Record<string, { x: number; y: number }> = {}
       const hpBucketCount: Record<string, number> = {}
       fCyNodes.forEach(node => {
         const hp  = (node.data('hp') as number) ?? 150
@@ -781,10 +783,12 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         hpBucketCount[bucket] = jIdx + 1
         const jX = (jIdx % 3) * JITTER - JITTER
         const jY = Math.floor(jIdx / 3) * (JITTER * 0.6)
-        node.position({
+        const pos = {
           x: PAD_LEFT + (hp - minHP) * HP_SCALE + jX,
           y: PAD_TOP  + row * ROW_H + jY + ROW_H / 2,
-        })
+        }
+        node.position(pos)
+        colaSeed[node.id()] = pos
       })
 
       applyEdgeVisibility('cola')
@@ -860,6 +864,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       // Платформы показываются цветом-кольцом + легендой (зонирование без разброса).
       const colaL = cy.layout({
         name: 'preset',
+        positions: (node: cytoscape.NodeSingular) => colaSeed[node.id()] ?? { x: 0, y: 0 },
         fit: true,
         padding: 50,
         animate: true,
