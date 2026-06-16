@@ -631,10 +631,11 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
 
         switch (layoutKey) {
           case 'cola': {
-            // Форсаж: physics clustering — keep structural + platform (they create natural clusters)
-            // Remove design-inspiration noise
-            const keep = ['evolves_into','variant_of','derived_from','shares_platform','concept_to_production']
-            e.style({ opacity: keep.includes(type) ? 0.80 : 0.0, display: keep.includes(type) ? 'element' : 'none' })
+            // Мощность = классификационная карта (мощность × тип двигателя), НЕ родословная.
+            // Связи ортогональны позиционированию → перекрещиваются в паутину и
+            // малоинформативны. Скрываем (как в Типаже). Генеалогия читается в Древе;
+            // платформы показаны кольцами цвета + легендой + подложками. Срез — чистый scatter.
+            e.style({ opacity: 0, display: 'none' })
             break
           }
           case 'zone': {
