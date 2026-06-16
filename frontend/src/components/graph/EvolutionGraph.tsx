@@ -166,6 +166,21 @@ const STYLESHEET: cytoscape.StylesheetCSS[] = [
       'overlay-color': '#F97316',   // Saffron Fire — не синий
     } as cytoscape.Css.Node,
   },
+  // ── Endpoints of a hovered edge — заметная подсветка ОБОИХ концов связи ──
+  // Навёл на ребро → оба узла-конца получают яркое сафрановое гало (overlay
+  // с padding = кольцо вокруг узла) + толстый контур + поверх соседей (z-index).
+  {
+    selector: 'node.edge-endpoint',
+    css: {
+      'border-color': '#F97316',
+      'border-width': 5,
+      'border-opacity': 1,
+      'overlay-color': '#F97316',
+      'overlay-opacity': 0.28,
+      'overlay-padding': 7,
+      'z-index': 9999,
+    } as cytoscape.Css.Node,
+  },
   // ── Base edge ─────────────────────────────────────────────────────────────
   {
     selector: 'edge',
@@ -565,6 +580,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
 
     cy.on('mouseover', 'edge', (evt) => {
       evt.target.addClass('hover')
+      evt.target.connectedNodes().addClass('edge-endpoint')   // заметно подсветить оба конца связи
       const edgeData = evt.target.data() as CytoscapeEdgeData
       const rp = (evt as any).renderedPosition
       const pos = typeof rp === 'function' ? rp() : (rp ?? evt.position ?? { x: 0, y: 0 })
@@ -593,6 +609,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
 
     cy.on('mouseout', 'edge', (evt) => {
       evt.target.removeClass('hover')
+      evt.target.connectedNodes().removeClass('edge-endpoint')
       setTooltip((t) => ({ ...t, visible: false }))
     })
   // eslint-disable-next-line react-hooks/exhaustive-deps
