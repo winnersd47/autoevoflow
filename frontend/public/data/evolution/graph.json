@@ -1992,7 +1992,7 @@
       "segment": "premium_midsize",
       "zone": "exec_sed",
       "hp": 140,
-      "engineType": "i6"
+      "engineType": "v6"
     },
     {
       "id": "audi-a6-c5",
@@ -2007,7 +2007,7 @@
       "segment": "premium_midsize",
       "zone": "exec_sed",
       "hp": 193,
-      "engineType": "i6"
+      "engineType": "v6"
     },
     {
       "id": "audi-a6-c6",
@@ -2037,7 +2037,7 @@
       "segment": "premium_midsize",
       "zone": "exec_sed",
       "hp": 204,
-      "engineType": "v6t"
+      "engineType": "i4t"
     },
     {
       "id": "audi-a6-c8",
@@ -2052,7 +2052,7 @@
       "segment": "premium_midsize",
       "zone": "exec_sed",
       "hp": 204,
-      "engineType": "v6t"
+      "engineType": "i4t"
     },
     {
       "id": "audi-a8-d2",
@@ -2202,7 +2202,7 @@
       "segment": "luxury",
       "zone": "suv_large",
       "hp": 280,
-      "engineType": "v8t"
+      "engineType": "v6t"
     },
     {
       "id": "audi-q5-fy",
@@ -4864,7 +4864,7 @@
       "segment": "grand_tourer",
       "zone": "gt_coupe",
       "hp": 204,
-      "engineType": "v6t"
+      "engineType": "i4t"
     },
     {
       "id": "audi-a7-4k",
@@ -18151,13 +18151,6 @@
       "strength": 0.42
     },
     {
-      "id": "cx-au-3",
-      "source": "audi-r8-typ42",
-      "target": "lamborghini-aven",
-      "type": "shares_platform",
-      "strength": 0.78
-    },
-    {
       "id": "la-0",
       "source": "lambo-350gt",
       "target": "lamborghini-miura",
@@ -18233,13 +18226,6 @@
       "target": "audi-r8-typ42",
       "type": "shares_platform",
       "strength": 0.88
-    },
-    {
-      "id": "cx-lam-3",
-      "source": "lambo-urus",
-      "target": "audi-q7-j4",
-      "type": "shares_platform",
-      "strength": 0.82
     },
     {
       "id": "pt-1",
