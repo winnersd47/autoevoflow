@@ -637,7 +637,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
             // осмысленно — ребро показывает скачок мощности/двигателя у заряженной
             // версии. Приглушённо, чтобы не доминировать. Платформы — кольца/легенда.
             const show = type === 'variant_of'
-            e.style({ opacity: show ? 0.45 : 0, display: show ? 'element' : 'none' })
+            e.style({ opacity: show ? 0.30 : 0, display: show ? 'element' : 'none' })
             break
           }
           case 'zone': {
