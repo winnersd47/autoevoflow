@@ -254,15 +254,6 @@ function getLayoutConfig(layout: GraphLayoutType) {
   switch (layout) {
     case 'dagre':
       return { name: 'dagre', rankDir: 'LR', nodeSep: 60, edgeSep: 20, rankSep: 120, ...base }
-    case 'cola':
-      return {
-        name: 'cola',
-        nodeSpacing: 40,
-        edgeLength: 140,
-        maxSimulationTime: 2000,
-        convergenceThreshold: 0.001,
-        ...base,
-      }
     case 'cose':
       return {
         name: 'cose',
@@ -271,6 +262,7 @@ function getLayoutConfig(layout: GraphLayoutType) {
         gravity: 0.1,
         ...base,
       }
+    case 'cola':     // Мощность: позиции считаются вручную (сетка л.с.×двигатель) → preset, БЕЗ физики
     case 'timeline':
     case 'zone':
     case 'eras':
