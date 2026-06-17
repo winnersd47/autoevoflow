@@ -1003,26 +1003,21 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         buildEngineBands(p.y, z)
         buildHpLines(p.x, z, cw)
         buildPlatformHulls(p.x, p.y, z, cw)
-        // Рёбра в одной строке двигателя (dy < 40px) → дуга вверх вместо прямой.
-        // variant_of соединяет base→S/RS/GT в одной горизонтальной строке:
-        // одинаковый engineType-ряд, но разные бакеты мощности. Прямая линия
-        // сливается с горизонтальными полосами фона — дуга читается как отдельный
-        // «прыжок мощности». Высота дуги = 20% длины ребра (min 28, max 72px).
-        // source/target-endpoint '0% -50%' = верхняя точка контура ноды (центр X,
-        // -50% Y от bounding box) → дуга «стартует» с макушки и перебрасывается
-        // сверху между узлами вместо того, чтобы «лезть» сквозь центр.
+        // Рёбра в одной строке двигателя → дуга вверх вместо прямой.
+        // Порог dy < 4px (строго та же строка сетки): при dy ≥ 4 ребро наклонено и
+        // перпендикуляр к нему уже не вертикален — контрольная точка смещается вбок
+        // и дуга уходит вниз. Endpoint-overrides убраны: Cytoscape сам находит точку
+        // входа в контур, двигаясь к контрольной точке, которая всегда выше узлов.
         cy.edges().forEach(e => {
           if (e.data('type') !== 'variant_of') return
           const sp = e.source().position()
           const tp = e.target().position()
-          if (Math.abs(sp.y - tp.y) < 40) {
+          if (Math.abs(sp.y - tp.y) < 4) {
             const dx = Math.abs(tp.x - sp.x)
             e.style({
               'curve-style': 'unbundled-bezier',
               'control-point-distances': Math.min(72, Math.max(28, dx * 0.20)),
               'control-point-weights': 0.5,
-              'source-endpoint': '0% -50%',
-              'target-endpoint': '0% -50%',
             })
           }
         })
