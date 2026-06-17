@@ -1016,7 +1016,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
             const dx = Math.abs(tp.x - sp.x)
             e.style({
               'curve-style': 'unbundled-bezier',
-              'control-point-distances': Math.min(72, Math.max(28, dx * 0.20)),
+              'control-point-distances': -(Math.min(72, Math.max(28, dx * 0.20))),
               'control-point-weights': 0.5,
             })
           }
