@@ -987,6 +987,9 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         // одинаковый engineType-ряд, но разные бакеты мощности. Прямая линия
         // сливается с горизонтальными полосами фона — дуга читается как отдельный
         // «прыжок мощности». Высота дуги = 20% длины ребра (min 28, max 72px).
+        // source/target-endpoint '0% -50%' = верхняя точка контура ноды (центр X,
+        // -50% Y от bounding box) → дуга «стартует» с макушки и перебрасывается
+        // сверху между узлами вместо того, чтобы «лезть» сквозь центр.
         cy.edges().forEach(e => {
           if (e.data('type') !== 'variant_of') return
           const sp = e.source().position()
@@ -997,6 +1000,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
               'curve-style': 'unbundled-bezier',
               'control-point-distances': -(Math.min(72, Math.max(28, dx * 0.20))),
               'control-point-weights': 0.5,
+              'source-endpoint': '0% -50%',
+              'target-endpoint': '0% -50%',
             })
           }
         })
