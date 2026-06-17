@@ -528,6 +528,12 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       onNodeClick?.(gNode)
 
       // Dim non-connected (и снять пин со связи, если он был)
+      // В «Мощности» пришпиленное ребро получило инлайн opacity:1 → откат до 0.30
+      if (activeLayoutRef.current === 'cola') {
+        cy.edges('.edge-pinned').forEach(e => {
+          if (e.data('type') === 'variant_of') e.style({ opacity: 0.30 })
+        })
+      }
       cy.elements().removeClass('edge-pinned node-pinned')
       cy.elements().addClass('dimmed')
       evt.target.removeClass('dimmed')
@@ -540,16 +546,31 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
     // пин (single-select), клик по фону/узлу — тоже сбрасывает.
     cy.on('tap', 'edge', (evt) => {
       const edge = evt.target
-      cy.elements().unselect()                                     // сброс нативного выделения (на случай additive)
+      cy.elements().unselect()                                      // сброс нативного выделения (на случай additive)
+      // В «Мощности» инлайн opacity:1 пред. пина → откат до 0.30 перед сбросом класса
+      if (activeLayoutRef.current === 'cola') {
+        cy.edges('.edge-pinned').forEach(e => {
+          if (e.data('type') === 'variant_of') e.style({ opacity: 0.30 })
+        })
+      }
       cy.elements().removeClass('dimmed edge-pinned node-pinned')   // снять прошлый пин / затемнение от выбора узла
       setSelectedNode(null)
       edge.addClass('edge-pinned')
       edge.connectedNodes().addClass('node-pinned')
+      // В «Мощности» stylesheet opacity:1 не пробивает инлайн → форсируем вручную
+      if (activeLayoutRef.current === 'cola' && edge.data('type') === 'variant_of') {
+        edge.style({ opacity: 1 })
+      }
     })
 
     cy.on('tap', (evt) => {
       if (evt.target === cy) {
         setSelectedNode(null)
+        if (activeLayoutRef.current === 'cola') {
+          cy.edges('.edge-pinned').forEach(e => {
+            if (e.data('type') === 'variant_of') e.style({ opacity: 0.30 })
+          })
+        }
         cy.elements().removeClass('dimmed edge-pinned node-pinned')
       }
     })
