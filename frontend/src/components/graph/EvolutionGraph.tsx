@@ -1187,6 +1187,20 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       layoutE.one('layoutstop', () => {
         const p = cy.pan(); const z = cy.zoom(); const cw = cy.container()?.clientWidth ?? eCW
         sync4E(p, z, cw)
+        // variant_of между разными колонками одного года → горизонтальные (dy≈0) → дуга
+        cy.edges().forEach(e => {
+          if (e.data('type') !== 'variant_of') return
+          const sp = e.source().position()
+          const tp = e.target().position()
+          if (Math.abs(sp.y - tp.y) < 4) {
+            const dx = Math.abs(tp.x - sp.x)
+            e.style({
+              'curve-style': 'unbundled-bezier',
+              'control-point-distances': -(Math.min(72, Math.max(28, dx * 0.20))),
+              'control-point-weights': 0.5,
+            })
+          }
+        })
         cy.off('pan zoom')
         cy.on('pan zoom', () => {
           const pp = cy.pan(); const zz = cy.zoom(); const cww = cy.container()?.clientWidth ?? cw
@@ -1689,6 +1703,24 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         })
       }
 
+      // ── Дуга variant_of: вариант (S/RS/M/GT/Spider) на той же глубине (тот же Y)
+      //    что и база → горизонтальное ребро → дуга, как в «Мощности» и «Арене».
+      const styleVariantArcs = () => {
+        cy.edges('[type = "variant_of"]').forEach(e => {
+          if (e.style('display') === 'none') return
+          const sp = e.source().position()
+          const tp = e.target().position()
+          if (Math.abs(sp.y - tp.y) < 4) {
+            const dx = Math.abs(tp.x - sp.x)
+            e.style({
+              'curve-style': 'unbundled-bezier',
+              'control-point-distances': -(Math.min(72, Math.max(28, dx * 0.20))),
+              'control-point-weights': 0.5,
+            })
+          }
+        })
+      }
+
       // ── Дуга «производный от»: производная модель в своей колонке справа, на ТОЙ
       //    ЖЕ глубине (тот же Y). Дуга от верха родителя к верху производной,
       //    выгибаясь вверх — наглядное ответвление ветки (288 GTO←308, Gallardo←
@@ -1725,6 +1757,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         distributeFkEndpoints()
         styleInfluenceArcs()
         styleDerivedArcs()
+        styleVariantArcs()
         cy.off('pan zoom')
         cy.on('pan zoom', () => {
           const pp = cy.pan(); const zz = cy.zoom(); const cww = cy.container()?.clientWidth ?? cw
