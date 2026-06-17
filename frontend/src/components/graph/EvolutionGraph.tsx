@@ -454,7 +454,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
   const [platformHulls, setPlatformHulls] = useState<PlatHull[]>([])
   // Eras overlay
   type EraCol  = { decade: number; left: number }
-  type GenRow  = { gen: number; label: string; top: number; height: number }
+  type GenRow  = { gen: number; label: string; top: number; height: number; spanTop?: number; spanHeight?: number; color?: string }
   type BrandBand = { brandId: string; label: string; color: string; left: number; width: number }
   type YearTick  = { year: number; top: number }
   const [eraCols,    setEraCols]    = useState<EraCol[]>([])
@@ -1127,6 +1127,19 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         nodePosE[e.id] = { x: r ? (r.start + r.end) / 2 : PAD_LEFT_E, y: PAD_TOP_E + (e.yr - eMinYear) * EY_SCALE }
       })
 
+      // Метки семейных колонок + годовые диапазоны для lifespan-баров
+      const famToLabel: Record<string, string> = {}
+      const famRangeE: Record<string, { minYr: number; maxYr: number; brandId: string }> = {}
+      sortedBrandsE.forEach(brandId => {
+        const famMap = byBrandFamE[brandId] ?? {}
+        Object.entries(famMap).forEach(([fam, nodes]) => {
+          if (nodes.length < 2) return
+          const sorted = nodes.slice().sort((a, b) => a.yr - b.yr)
+          famToLabel[fam] = (cy.getElementById(sorted[0].id).data('label') as string) ?? ''
+          famRangeE[fam] = { minYr: sorted[0].yr, maxYr: sorted[sorted.length - 1].yr, brandId }
+        })
+      })
+
       const eModelW = curXE + 40
       const eModelH = PAD_TOP_E * 2 + (eMaxYear - eMinYear) * EY_SCALE
       const eFitPad = 40
@@ -1163,18 +1176,26 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         return t2
       }
 
-      const bldFamSepE = (pX: number, z: number, cW: number): GenRow[] =>
-        Object.entries(famColXE).map(([, xC], idx) => ({
-          gen: idx, label: '',
-          top:    Math.max(0, ((xC - FAM_W_E / 2) * z + pX) / cW * 100),
-          height: Math.max(0.1, FAM_W_E * z / cW * 100),
-        })).filter(c => c.top < 100)
+      const bldFamSepE = (pX: number, pY: number, z: number, cW: number): GenRow[] =>
+        Object.entries(famColXE).map(([famKey, xC], idx) => {
+          const range      = famRangeE[famKey]
+          const color      = range ? (BRAND_COLOR_E[range.brandId] ?? '#ffffff') : '#ffffff'
+          const spanTop    = range ? Math.max(0, ((PAD_TOP_E + (range.minYr - eMinYear) * EY_SCALE) * z + pY) / height * 100) : 0
+          const spanHeight = range ? Math.max(0, (range.maxYr - range.minYr) * EY_SCALE * z / height * 100) : 0
+          return {
+            gen: idx,
+            label: famToLabel[famKey] ?? '',
+            color, spanTop, spanHeight,
+            top:    Math.max(0, ((xC - FAM_W_E / 2) * z + pX) / cW * 100),
+            height: Math.max(0.1, FAM_W_E * z / cW * 100),
+          }
+        }).filter(c => c.top < 100)
 
       const sync4E = (p: { x: number; y: number }, z: number, cW: number) => {
         setEraCols(bldEraE(p.y, z))
         setBrandBands(bldBrandsE(p.x, z, cW))
         setYearTicks(bldTicksE(p.y, z))
-        setGenRows(bldFamSepE(p.x, z, cW))
+        setGenRows(bldFamSepE(p.x, p.y, z, cW))
       }
 
       applyEdgeVisibility('eras')
@@ -2663,17 +2684,62 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
             </div>
           ))}
 
-          {/* ② Family column thin separators */}
-          {genRows.map((col, idx) => idx > 0 && (
-            <div
-              key={col.gen}
-              className="absolute top-0 bottom-0"
-              style={{
-                left: Math.max(0, col.top) + '%',
-                width: '1px',
-                background: 'linear-gradient(180deg,transparent 0%,rgba(255,255,255,0.14) 8%,rgba(255,255,255,0.14) 92%,transparent 100%)',
-              }}
-            />
+          {/* ② Family columns: separators + name labels + lifespan bars */}
+          {genRows.map((col, idx) => (
+            <React.Fragment key={col.gen}>
+              {/* thin vertical separator between adjacent columns */}
+              {idx > 0 && (
+                <div
+                  className="absolute top-0 bottom-0"
+                  style={{
+                    left: Math.max(0, col.top) + '%',
+                    width: '1px',
+                    background: 'linear-gradient(180deg,transparent 0%,rgba(255,255,255,0.14) 8%,rgba(255,255,255,0.14) 92%,transparent 100%)',
+                  }}
+                />
+              )}
+              {/* lifespan bar: spans minYear→maxYear in the family */}
+              {(col.spanHeight ?? 0) > 0.1 && (
+                <div
+                  className="absolute rounded-sm"
+                  style={{
+                    left: `calc(${col.top + col.height / 2}% - 2px)`,
+                    width: '4px',
+                    top:    (col.spanTop    ?? 0) + '%',
+                    height: (col.spanHeight ?? 0) + '%',
+                    background: col.color ?? '#ffffff',
+                    opacity: 0.18,
+                  }}
+                />
+              )}
+              {/* family name label at column top */}
+              {col.label && col.height > 1.5 && (
+                <div
+                  className="absolute"
+                  style={{
+                    left:     Math.max(0, col.top) + '%',
+                    width:    col.height + '%',
+                    top:      '22px',
+                    overflow: 'hidden',
+                    textAlign: 'center',
+                  }}
+                >
+                  <span
+                    className="text-[6.5px] uppercase font-semibold tracking-wider"
+                    style={{
+                      color:         col.color ?? '#ffffff',
+                      opacity:       0.55,
+                      whiteSpace:    'nowrap',
+                      overflow:      'hidden',
+                      textOverflow:  'ellipsis',
+                      display:       'block',
+                    }}
+                  >
+                    {col.label}
+                  </span>
+                </div>
+              )}
+            </React.Fragment>
           ))}
 
           {/* ③ Decade horizontal bands (zebra stripes + white separator) */}
@@ -2696,6 +2762,18 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
                     background: 'linear-gradient(90deg,rgba(255,255,255,0.55) 0%,rgba(255,255,255,0.18) 40%,rgba(255,255,255,0.06) 80%,transparent 100%)',
                   }} />
                 )}
+                <span
+                  className="absolute font-mono"
+                  style={{
+                    left:      '28px',
+                    top:       idx > 0 ? '4px' : '6px',
+                    fontSize:  '7px',
+                    color:     'rgba(255,255,255,0.20)',
+                    whiteSpace: 'nowrap',
+                  }}
+                >
+                  {band.decade}s
+                </span>
               </div>
             )
           })}
