@@ -1943,6 +1943,23 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       sLayout4.one('layoutstop', () => {
         const p = cy.pan(); const z = cy.zoom(); const cw = cy.container()?.clientWidth ?? sCW
         buildArenaOverlay(p.y, p.x, z, cw)
+        // Рёбра в одном Y-треке (dy < 4px) → дуга, как в «Мощности».
+        // evolves_into — горизонтальные линии эволюции (один трек, разные годы).
+        // variant_of   — варианты одного года в том же треке.
+        cy.edges().forEach(e => {
+          const type = e.data('type') as string
+          if (!['evolves_into', 'variant_of'].includes(type)) return
+          const sp = e.source().position()
+          const tp = e.target().position()
+          if (Math.abs(sp.y - tp.y) < 4) {
+            const dx = Math.abs(tp.x - sp.x)
+            e.style({
+              'curve-style': 'unbundled-bezier',
+              'control-point-distances': -(Math.min(72, Math.max(28, dx * 0.20))),
+              'control-point-weights': 0.5,
+            })
+          }
+        })
         cy.off('pan zoom')
         cy.on('pan zoom', () => {
           const pp = cy.pan(); const zz = cy.zoom(); const cww = cy.container()?.clientWidth ?? cw
