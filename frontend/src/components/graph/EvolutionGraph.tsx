@@ -982,6 +982,24 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         buildEngineBands(p.y, z)
         buildHpLines(p.x, z, cw)
         buildPlatformHulls(p.x, p.y, z, cw)
+        // Рёбра в одной строке двигателя (dy < 40px) → дуга вверх вместо прямой.
+        // variant_of соединяет base→S/RS/GT в одной горизонтальной строке:
+        // одинаковый engineType-ряд, но разные бакеты мощности. Прямая линия
+        // сливается с горизонтальными полосами фона — дуга читается как отдельный
+        // «прыжок мощности». Высота дуги = 20% длины ребра (min 28, max 72px).
+        cy.edges().forEach(e => {
+          if (e.data('type') !== 'variant_of') return
+          const sp = e.source().position()
+          const tp = e.target().position()
+          if (Math.abs(sp.y - tp.y) < 40) {
+            const dx = Math.abs(tp.x - sp.x)
+            e.style({
+              'curve-style': 'unbundled-bezier',
+              'control-point-distances': -(Math.min(72, Math.max(28, dx * 0.20))),
+              'control-point-weights': 0.5,
+            })
+          }
+        })
         cy.on('pan zoom', () => {
           const pp = cy.pan(); const zz = cy.zoom(); const cww = cy.container()?.clientWidth ?? cw
           buildEngineBands(pp.y, zz)
