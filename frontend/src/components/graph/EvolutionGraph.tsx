@@ -170,7 +170,7 @@ const STYLESHEET: cytoscape.StylesheetCSS[] = [
   // Навёл на ребро → оба узла-конца получают яркое сафрановое гало (overlay
   // с padding = кольцо вокруг узла) + толстый контур + поверх соседей (z-index).
   {
-    selector: 'node.edge-endpoint',
+    selector: 'node.edge-endpoint, node.node-pinned',
     css: {
       'border-color': '#F97316',
       'border-width': 5,
@@ -246,7 +246,7 @@ const STYLESHEET: cytoscape.StylesheetCSS[] = [
     css: { width: 1.5, 'line-style': 'dashed', 'line-dash-pattern': [8, 4] } as cytoscape.Css.Edge,
   },
   {
-    selector: 'edge:selected, edge.hover',
+    selector: 'edge:selected, edge.hover, edge.edge-pinned',
     css: {
       width: 5,
       opacity: 1,
@@ -521,17 +521,30 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       setSelectedNode(gNode)
       onNodeClick?.(gNode)
 
-      // Dim non-connected
+      // Dim non-connected (и снять пин со связи, если он был)
+      cy.elements().removeClass('edge-pinned node-pinned')
       cy.elements().addClass('dimmed')
       evt.target.removeClass('dimmed')
       evt.target.connectedEdges().removeClass('dimmed')
       evt.target.neighborhood().removeClass('dimmed')
     })
 
+    // Клик по связи — ЗАФИКСИРОВАТЬ выделение: связь + оба её узла остаются
+    // подсвеченными после ухода курсора. Клик по другой связи снимает прошлый
+    // пин (single-select), клик по фону/узлу — тоже сбрасывает.
+    cy.on('tap', 'edge', (evt) => {
+      const edge = evt.target
+      cy.elements().unselect()                                     // сброс нативного выделения (на случай additive)
+      cy.elements().removeClass('dimmed edge-pinned node-pinned')   // снять прошлый пин / затемнение от выбора узла
+      setSelectedNode(null)
+      edge.addClass('edge-pinned')
+      edge.connectedNodes().addClass('node-pinned')
+    })
+
     cy.on('tap', (evt) => {
       if (evt.target === cy) {
         setSelectedNode(null)
-        cy.elements().removeClass('dimmed')
+        cy.elements().removeClass('dimmed edge-pinned node-pinned')
       }
     })
 
