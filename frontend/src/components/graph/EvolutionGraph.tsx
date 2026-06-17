@@ -423,13 +423,16 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
 }) => {
   const cyRef = useRef<cytoscape.Core | null>(null)
   const containerRef2 = useRef<HTMLDivElement>(null)
-  // Track previous data signature to detect filter changes
-  const prevDataSig = useRef<string>('')
+  // Активная раскладка как ref: отложенный пересчёт при смене фильтра всегда
+  // берёт свежее значение, НЕ подписываясь на activeLayout в deps (иначе двойной
+  // прогон раскладки при переключении layout — это делает отдельный effect).
+  const activeLayoutRef = useRef<GraphLayoutType>(layout)
   // Кэш мини-превью моделей: slug → URL картинки (null = нет/ошибка)
   const modelImgCache = useRef<Map<string, string | null>>(new Map())
   const [selectedNode, setSelectedNode] = useState<GraphNode | null>(null)
   const [tooltip, setTooltip] = useState<TooltipState>({ visible: false, x: 0, y: 0, content: '' })
   const [activeLayout, setActiveLayout] = useState<GraphLayoutType>(layout)
+  activeLayoutRef.current = activeLayout  // держим ref в синхроне с активной раскладкой
   const { locale, t } = useLocale()
   // Zone label overlays for 'zone' layout
   // top/height = horizontal band (legacy); left/width = vertical column (transposed Типаж)
@@ -494,8 +497,11 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
   // не переприменяются случайно, нет анимации «мигания» цвета контура.
   const elements = useMemo(
     () => buildCytoscapeElements(data),
+    // Зависим от ССЫЛОК на массивы (родитель их мемоизирует и меняет ровно при
+    // смене фильтра), а НЕ от длины: смена бренда на другой с тем же числом
+    // узлов тоже пересоберёт elements → граф не останется со старым набором.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [data.nodes.length, data.edges.length]
+    [data.nodes, data.edges]
   )
 
   const layoutConfig = getLayoutConfig(activeLayout)
@@ -2257,24 +2263,27 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [layout])
 
-  // Re-run layout when filtered data changes — only for physics layouts (cola)
-  // Heavy preset layouts (fork, zone, eras, sync) are triggered manually
+  // Пересобрать раскладку при смене ОТФИЛЬТРОВАННОГО набора (бренд/год/тип/поиск).
+  // Раскладки с ручными позициями (cola/fork/zone/eras/sync) НЕ перестраиваются
+  // сами при замене elements — у них getLayoutConfig = preset БЕЗ позиций, поэтому
+  // новые узлы валятся в (0,0) и fit зумит в один гигантский узел (баг «не
+  // строится в Мощности»). Их надо явно пересчитать через handleLayoutChange.
+  // dagre/cose перераскладываются react-cytoscapejs автоматически по layout-пропу.
+  // Зависим от ССЫЛОК data.nodes/data.edges (родитель мемоизирует) → срабатывает и
+  // при смене бренда на другой с тем же числом узлов. Раскладку берём из ref —
+  // не подписываемся на activeLayout, чтобы переключение layout не дублировало прогон.
   useEffect(() => {
-    const sig = data.nodes.length + ':' + data.edges.length
-    if (sig === prevDataSig.current) return
-    prevDataSig.current = sig
     if (!cyRef.current || data.nodes.length === 0) return
-    // Auto-rerun for preset layouts (brand/filter changes rebuild the tree/dynasty)
-    // Heavier layouts use longer delay to avoid rapid re-triggers
-    const isPreset = layout === 'fork' || layout === 'eras' || layout === 'sync' || layout === 'zone'
-    const delay = layout === 'cola' ? 300 : isPreset ? 400 : null
-    if (delay === null) return
+    const lyt = activeLayoutRef.current
+    const manualPos = lyt === 'cola' || lyt === 'fork' || lyt === 'eras' || lyt === 'sync' || lyt === 'zone'
+    if (!manualPos) return  // dagre/cose: автоматически по layout-пропу
+    const delay = lyt === 'cola' ? 160 : 360  // тяжёлые preset — чуть позже (защита от частых ре-триггеров)
     const timer = setTimeout(() => {
-      if (cyRef.current) handleLayoutChange(layout)
+      if (cyRef.current) handleLayoutChange(activeLayoutRef.current)
     }, delay)
     return () => clearTimeout(timer)
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [data.nodes.length, data.edges.length])
+  }, [data.nodes, data.edges])
 
   // Toggle node labels via Cytoscape style
   useEffect(() => {
