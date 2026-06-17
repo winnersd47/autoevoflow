@@ -12255,7 +12255,8 @@
       "description": "The combination of the M xDrive all-wheel-drive system and Active M Differential gives the new BMW M2 with M xDrive further improved sprinting power.",
       "sourceUrl": "https://www.netcarshow.com/bmw/2027-m2_with_m_xdrive/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 480
     },
     {
       "id": "ncs-rolls-royce-2027-rolls-royce-spectre-black-badge-series-",
@@ -12359,7 +12360,8 @@
       "description": "Ferrari Luce is the first electric Ferrari from the Maranello marque. Its design was approached in an unconventional way, intended to underline its uniqueness...",
       "sourceUrl": "https://www.netcarshow.com/ferrari/2027-luce/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 1000
     },
     {
       "id": "ncs-porsche-2027-porsche-cayenne-coupe-electric",
@@ -12379,7 +12381,8 @@
       "description": "At 4,985 millimetres long and 1,980 mm wide (excluding mirrors), the all-electric Porsche Cayenne Coupe is the same length and width as the SUV model.",
       "sourceUrl": "https://www.netcarshow.com/porsche/2027-cayenne_coupe_electric/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 650
     },
     {
       "id": "ncs-porsche-2027-porsche-cayenne-s-coupe-electric",
@@ -12414,13 +12417,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "midsize_sed",
-      "engineType": "i4t",
+      "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Skoda-Epiq-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Epiq-2027-thb.jpg",
       "description": "Skoda Epiq is 4,171 mm long, 1,798 mm wide, and 1,581 mm high, with a wheelbase of 2,601 mm. It is available in six body colours, including Timiano Green...",
       "sourceUrl": "https://www.netcarshow.com/skoda/2027-epiq/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 204
     },
     {
       "id": "ncs-subaru-2027-subaru-getaway",
@@ -12440,7 +12444,8 @@
       "description": "2027 Subaru Getaway features powerful front and rear electric motors that deliver 420 horsepower combined, propelling it from 0 to 60 mph in less than 5 seconds.",
       "sourceUrl": "https://www.netcarshow.com/subaru/2027-getaway/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 215
     },
     {
       "id": "ncs-bmw-2027-bmw-m3-cs-handschalter",
@@ -12454,13 +12459,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "sports",
-      "engineType": "i4t",
+      "engineType": "i6t",
       "heroImageUrl": "https://www.netcarshow.com/BMW-M3_CS_Handschalter-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/BMW-M3_CS_Handschalter-2027-thb.jpg",
       "description": "The chassis technology in the BMW M3 CS Handschalter has been tuned in consideration of the drivetrain's unique performance characteristics and the vehicle's weight distribution.",
       "sourceUrl": "https://www.netcarshow.com/bmw/2027-m3_cs_handschalter/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 543
     },
     {
       "id": "ncs-nissan-2027-nissan-frontier-sport-edition",
@@ -12474,13 +12480,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "pickup",
-      "engineType": "i4t",
+      "engineType": "v6",
       "heroImageUrl": "https://www.netcarshow.com/Nissan-Frontier_Sport_Edition-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Frontier_Sport_Edition-2027-thb.jpg",
       "description": "Visual changes for the Sport Edition package are inspired by Frontier's popular PRO-X and PRO-4X grades, starting with a black lower front fascia, grille and mirrors...",
       "sourceUrl": "https://www.netcarshow.com/nissan/2027-frontier_sport_edition/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 310
     },
     {
       "id": "ncs-volkswagen-2027-volkswagen-id-polo-gti",
@@ -12494,13 +12501,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "electric",
-      "engineType": "i4t",
+      "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.Polo_GTI-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.Polo_GTI-2027-thb.jpg",
       "description": "With its clear design, GTI features and powerful front-wheel drive, the ID.Polo GTI continues the legacy of the first Golf GTI from 1976.",
       "sourceUrl": "https://www.netcarshow.com/volkswagen/2027-id.polo_gti/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 223
     },
     {
       "id": "ncs-nissan-2026-nissan-terrano-suv-phev-concept",
@@ -12520,7 +12528,8 @@
       "description": "Terrano PHEV Concept marks the return of an iconic nameplate. Equipped with the latest plug-in hybrid technology, the Terrano builds on Nissan's off-road heritage...",
       "sourceUrl": "https://www.netcarshow.com/nissan/2026-terrano_suv_phev_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 300
     },
     {
       "id": "ncs-rolls-royce-2026-rolls-royce-project-nightingale-concept",
@@ -12540,7 +12549,8 @@
       "description": "In profile, the full impact of Project Nightingale's driver-oriented, torpedo-shaped design is revealed. An expansive bonnet gives way to the dramatically raked windscreen...",
       "sourceUrl": "https://www.netcarshow.com/rolls-royce/2026-project_nightingale_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 577
     },
     {
       "id": "ncs-porsche-2026-porsche-911-gt3-touring-tree-of-life",
@@ -12554,13 +12564,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "sports",
-      "engineType": "i4t",
+      "engineType": "flat6",
       "heroImageUrl": "https://www.netcarshow.com/Porsche-911_GT3_Touring_Tree_of_Life-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-911_GT3_Touring_Tree_of_Life-2026-thb.jpg",
       "description": "911 GT3 with Touring Package 'Tree of Life' showcases the very latest individualisation techniques. Colours, equipment, materials and both graphic and technical ideas...",
       "sourceUrl": "https://www.netcarshow.com/porsche/2026-911_gt3_touring_tree_of_life/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 502
     },
     {
       "id": "ncs-toyota-2026-toyota-grmn-corolla",
@@ -12580,16 +12591,17 @@
       "description": "GRMN Corolla represents the ultimate expression of the GR Corolla, engineered to deepen the connection between car and driver and inspire confidence even at the limits...",
       "sourceUrl": "https://www.netcarshow.com/toyota/2026-grmn_corolla/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 304
     },
     {
       "id": "ncs-bugatti-2026-bugatti-w16-mistral-le-retour-du-jeune-prin",
-      "label": "Bugatti W16 Mistral Le Retour du Jeune Prince",
+      "label": "W16 Mistral",
       "type": "generation",
-      "year": 2026,
+      "year": 2024,
       "brandId": "bugatti",
       "brandName": "Bugatti",
-      "codeName": "2026",
+      "codeName": "",
       "modelSlug": "bugatti-w16-mistral-le-retour-du-jeune-prince",
       "bodyType": "coupe",
       "segment": "supercar",
@@ -12600,7 +12612,8 @@
       "description": "In this union of design, craftsmanship and personal meaning, the W16 Mistral 'Le Retour du Jeune Prince' expresses the essence of Bugatti Sur Mesure, honoring Bugatti's heritage...",
       "sourceUrl": "https://www.netcarshow.com/bugatti/2026-w16_mistral_le_retour_du_jeune_prince/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 1578
     },
     {
       "id": "ncs-lexus-2026-lexus-es-500e-awd",
@@ -12620,7 +12633,8 @@
       "description": "ES 500e is equipped with Lexus' DIRECT4 intelligent electric all-wheel drive system. This provides continuous adjustment of drive torque distribution to all four wheels...",
       "sourceUrl": "https://www.netcarshow.com/lexus/2026-es_500e_awd/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 338
     },
     {
       "id": "ncs-lexus-2026-lexus-es-350e",
@@ -12640,7 +12654,8 @@
       "description": "The ES uses a new Lexus battery electric system that has been developed with a focus on delivering an evolution of the Lexus Driving Signature that creates a sharpened...",
       "sourceUrl": "https://www.netcarshow.com/lexus/2026-es_350e/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 224
     },
     {
       "id": "ncs-lexus-2026-lexus-es-350h",
@@ -12660,7 +12675,8 @@
       "description": "ES 350h is the first models to be powered by sixth generation Lexus hybrid technology. The self-charging hybrid system combines a 2.5-litre four-cylinder petrol engine...",
       "sourceUrl": "https://www.netcarshow.com/lexus/2026-es_350h/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 245
     },
     {
       "id": "ncs-honda-2026-honda-prelude-uk",
@@ -12674,13 +12690,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "midsize_sed",
-      "engineType": "i4t",
+      "engineType": "i4h",
       "heroImageUrl": "https://www.netcarshow.com/Honda-Prelude_UK-Version-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Honda-Prelude_UK-Version-2026-thb.jpg",
       "description": "When designing the new Prelude, Honda engineers wanted to emulate the grace and simplicity of modern gliders, offering clean surfaces that blend with carefully considered...",
       "sourceUrl": "https://www.netcarshow.com/honda/2026-prelude_uk-version/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 200
     },
     {
       "id": "ncs-subaru-2026-subaru-trailseeker",
@@ -12700,7 +12717,8 @@
       "description": "With 375 horsepower, the 2026 Subaru Trailseeker launches from 0 to 60 mph in 4.4 seconds, making it the quickest production Subaru model sold in the U.S. yet.",
       "sourceUrl": "https://www.netcarshow.com/subaru/2026-trailseeker/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 375
     },
     {
       "id": "ncs-subaru-2026-subaru-uncharted",
@@ -12720,7 +12738,8 @@
       "description": "Subaru Uncharted Sport offers 338 horsepower from dual electric motors located on the front and rear axles and more than 285 miles of manufacturer-estimated range.",
       "sourceUrl": "https://www.netcarshow.com/subaru/2026-uncharted/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 338
     },
     {
       "id": "ncs-bmw-2026-bmw-vision-alpina-concept",
@@ -12740,7 +12759,8 @@
       "description": "Vision BMW ALPINA is a respectful interpretation of the brand's heritage, shaped by the most contemporary creative instincts. At 5,200 mm in length, its presence is substantial...",
       "sourceUrl": "https://www.netcarshow.com/bmw/2026-vision_alpina_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 600
     },
     {
       "id": "ncs-ferrari-2026-ferrari-hc25",
@@ -12760,7 +12780,8 @@
       "description": "Ferrari HC25 is characterised by a strong graphic identity: the dual-volume structure creates an interplay in which the front and rear appear as two distinct bodies...",
       "sourceUrl": "https://www.netcarshow.com/ferrari/2026-hc25/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 830
     },
     {
       "id": "ncs-audi-2025-audi-c-concept",
@@ -12780,7 +12801,8 @@
       "description": "Inspired by the Auto Union Type C (1936) and the third-generation Audi A6 (2004), it has a clear, upright form that conveys presence and identity.",
       "sourceUrl": "https://www.netcarshow.com/audi/2025-c_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 400
     },
     {
       "id": "ncs-bentley-2025-bentley-exp-15-concept",
@@ -12800,7 +12822,8 @@
       "description": "The exterior of Bentley EXP 15 sports a striking liquid metal satin paintwork finish called Pallas Gold, which if you look closely features golden white highlights...",
       "sourceUrl": "https://www.netcarshow.com/bentley/2025-exp_15_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 800
     },
     {
       "id": "ncs-bmw-2025-bmw-speedtop-concept",
@@ -12820,7 +12843,8 @@
       "description": "BMW Concept Speedtop shares its eye-catching form language with the BMW Skytop and will be offered to collectors and connoisseurs in a strictly limited small series.",
       "sourceUrl": "https://www.netcarshow.com/bmw/2025-speedtop_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 617
     },
     {
       "id": "ncs-honda-2025-honda-0-suv-concept",
@@ -12840,7 +12864,8 @@
       "description": "Alongside the wide variety of next-generation technologies, the Honda 0 SUV will apply high-precision attitude estimation and stabilization control.",
       "sourceUrl": "https://www.netcarshow.com/honda/2025-0_suv_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 240
     },
     {
       "id": "ncs-lotus-2025-lotus-evija",
@@ -12854,13 +12879,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "supercar",
-      "engineType": "i4t",
+      "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Lotus-Evija-2025-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Lotus-Evija-2025-thb.jpg",
       "description": "Lotus Evija has been designed and engineered at Lotus' historic home in Hethel, UK, and production takes place in a dedicated on-site manufacturing facility.",
       "sourceUrl": "https://www.netcarshow.com/lotus/2025-evija/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "scrapedAt": "2026-06-05T07:31:48.971Z",
+      "hp": 2000
     },
     {
       "id": "ncs-bmw-2024-bmw-skytop-concept",
@@ -12880,7 +12906,8 @@
       "description": "The clean exterior of the BMW Concept Skytop is designed to inspire a desire to travel. Its taut, muscular surfaces are defined by a few precise lines...",
       "sourceUrl": "https://www.netcarshow.com/bmw/2024-skytop_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 617
     },
     {
       "id": "ncs-bmw-2024-bmw-vision-neue-klasse-x-concept",
@@ -12900,7 +12927,8 @@
       "description": "BMW Vision Neue Klasse X brings the aesthetics, technology, sustainability, and philosophy of the Neue Klasse to the Sports Activity Vehicles sector.",
       "sourceUrl": "https://www.netcarshow.com/bmw/2024-vision_neue_klasse_x_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 400
     },
     {
       "id": "ncs-lotus-2024-lotus-theory-1-concept",
@@ -12914,13 +12942,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "concept",
-      "engineType": "i4t",
+      "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Lotus-Theory_1_Concept-2024-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Lotus-Theory_1_Concept-2024-thb.jpg",
       "description": "Theory 1 seamlessly integrates projections, screens, and haptics, with Lotus' new design manifesto to create a borderless user experience and provide the driver with...",
       "sourceUrl": "https://www.netcarshow.com/lotus/2024-theory_1_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 986
     },
     {
       "id": "ncs-nissan-2024-nissan-epic-concept",
@@ -12940,7 +12969,8 @@
       "description": "The Nissan Epic Concept is an EV SUV perfectly suited for adventurous city couples who explore on weekends, with autonomous driving for both the city and...",
       "sourceUrl": "https://www.netcarshow.com/nissan/2024-epic_concept/",
       "isLatest": true,
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "scrapedAt": "2026-06-05T07:31:49.538Z",
+      "hp": 400
     },
     {
       "id": "audi-s5-b8",
@@ -13110,7 +13140,8 @@
       "description": "The BMW Group is intensifying final testing for the BMW iX3 Long Wheelbase in China, putting the first Neue Klasse model developed specifically for Chinese...",
       "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix3_long_wheelbase/",
       "isLatest": true,
-      "scrapedAt": "2026-06-10T03:06:57.329Z"
+      "scrapedAt": "2026-06-10T03:06:57.329Z",
+      "hp": 463
     },
     {
       "id": "ncs-audi-2027-sq7",
@@ -13130,7 +13161,8 @@
       "description": "Audi SQ7 extends the Q7's performance credentials, replacing the V6 power for a revised 4.0-liter twin turbo V8 generating 591 horsepower and 590 lb-ft of torque.",
       "sourceUrl": "https://www.netcarshow.com/audi/2027-sq7/",
       "isLatest": true,
-      "scrapedAt": "2026-06-10T03:06:57.329Z"
+      "scrapedAt": "2026-06-10T03:06:57.329Z",
+      "hp": 500
     },
     {
       "id": "ncs-audi-2027-q7",
@@ -13150,7 +13182,8 @@
       "description": "The third-generation Audi Q7 retains its muscular design. Audi's trademark four rings - along with the hood - sit noticeably higher, making the SUV's front end appear larger.",
       "sourceUrl": "https://www.netcarshow.com/audi/2027-q7/",
       "isLatest": true,
-      "scrapedAt": "2026-06-10T03:06:57.329Z"
+      "scrapedAt": "2026-06-10T03:06:57.329Z",
+      "hp": 335
     },
     {
       "id": "ncs-porsche-2026-macan-gts-uk",
@@ -13185,13 +13218,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "midsize_sed",
-      "engineType": "i4t",
+      "engineType": "v6t",
       "heroImageUrl": "https://www.netcarshow.com/Porsche-Macan_GTS_US-Version-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-Macan_GTS_US-Version-2026-thb.jpg",
       "description": "Porsche Macan GTS stands out visually with unique styling elements. The front, side and rear of the car are highlighted by accents painted in black...",
       "sourceUrl": "https://www.netcarshow.com/porsche/2026-macan_gts_us-version/",
       "isLatest": true,
-      "scrapedAt": "2026-06-10T03:06:57.329Z"
+      "scrapedAt": "2026-06-10T03:06:57.329Z",
+      "hp": 434
     },
     {
       "id": "merc-sls-w197",
@@ -13598,7 +13632,8 @@
       "isConcept": true,
       "heroImageUrl": "https://www.netcarshow.com/Audi-A6_Avant_e-tron_Concept-2022-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Audi-A6_Avant_e-tron_Concept-2022-thb.jpg",
-      "sourceUrl": "https://www.netcarshow.com/audi/2022-a6_avant_e-tron_concept/"
+      "sourceUrl": "https://www.netcarshow.com/audi/2022-a6_avant_e-tron_concept/",
+      "hp": 476
     },
     {
       "id": "concept-bmw-4",
@@ -13616,7 +13651,8 @@
       "isConcept": true,
       "heroImageUrl": "https://www.netcarshow.com/BMW-i4_Concept-2020-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/BMW-i4_Concept-2020-thb.jpg",
-      "sourceUrl": "https://www.netcarshow.com/bmw/2020-i4_concept/"
+      "sourceUrl": "https://www.netcarshow.com/bmw/2020-i4_concept/",
+      "hp": 374
     },
     {
       "id": "concept-bmw-z4",
@@ -13634,7 +13670,8 @@
       "isConcept": true,
       "heroImageUrl": "https://www.netcarshow.com/BMW-Z4_Concept-2017-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/BMW-Z4_Concept-2017-thb.jpg",
-      "sourceUrl": "https://www.netcarshow.com/bmw/2017-z4_concept/"
+      "sourceUrl": "https://www.netcarshow.com/bmw/2017-z4_concept/",
+      "hp": 382
     },
     {
       "id": "concept-bmw-i4dyn",
@@ -13652,7 +13689,8 @@
       "isConcept": true,
       "heroImageUrl": "",
       "thumbnailUrl": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "hp": 536
     },
     {
       "id": "concept-bmw-inext",
@@ -13670,7 +13708,8 @@
       "isConcept": true,
       "heroImageUrl": "",
       "thumbnailUrl": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "hp": 516
     },
     {
       "id": "concept-nissan-ims",
@@ -13688,7 +13727,8 @@
       "isConcept": true,
       "heroImageUrl": "",
       "thumbnailUrl": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "hp": 483
     },
     {
       "id": "concept-merc-eqxx",
@@ -13706,7 +13746,8 @@
       "isConcept": true,
       "heroImageUrl": "",
       "thumbnailUrl": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "hp": 241
     },
     {
       "id": "concept-porsche-missione",
@@ -13724,7 +13765,8 @@
       "isConcept": true,
       "heroImageUrl": "",
       "thumbnailUrl": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "hp": 600
     },
     {
       "id": "concept-audi-etrongt",
@@ -13742,7 +13784,8 @@
       "isConcept": true,
       "heroImageUrl": "",
       "thumbnailUrl": "",
-      "sourceUrl": ""
+      "sourceUrl": "",
+      "hp": 590
     },
     {
       "id": "concept-lexus-lf1",
@@ -13760,7 +13803,8 @@
       "isConcept": true,
       "heroImageUrl": "https://www.netcarshow.com/Lexus-LF-1_Limitless_Concept-2018-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-LF-1_Limitless_Concept-2018-thb.jpg",
-      "sourceUrl": "https://www.netcarshow.com/lexus/2018-lf-1_limitless_concept/"
+      "sourceUrl": "https://www.netcarshow.com/lexus/2018-lf-1_limitless_concept/",
+      "hp": 500
     },
     {
       "id": "merc-e-coupe-c207",
@@ -14629,13 +14673,14 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "sports",
-      "engineType": "i4t",
+      "engineType": "v8t",
       "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_4-Door-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-AMG_GT_4-Door-2027-thb.jpg",
       "description": "Mercedes-AMG continues its impressive tradition of high-performance drivetrains and is ushering in a new level of performance in the Mercedes-AMG GT 4-Door Coupe.",
       "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-amg_gt_4-door/",
       "isLatest": true,
-      "scrapedAt": "2026-06-10T19:39:03.186Z"
+      "scrapedAt": "2026-06-10T19:39:03.186Z",
+      "hp": 577
     },
     {
       "id": "ncs-porsche-2026-911-targa-4-gts-jessie",
@@ -14700,7 +14745,7 @@
       "bodyType": "coupe",
       "segment": "premium",
       "zone": "concept",
-      "hp": 0,
+      "hp": 1341,
       "engineType": "ev"
     },
     {

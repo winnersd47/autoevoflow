@@ -51,6 +51,12 @@ g.nodes.forEach(n => {
   else if (!ZONES.has(n.zone)) W(`неизвестная zone "${n.zone}": ${n.id}`)
 })
 
+// 2b. мощность (hp) — нужна раскладке «Мощность» (ось X). Скрапер netcarshow её
+//     НЕ извлекает → узлы без hp падают в дефолтный бакет (~150 л.с.) и сбиваются
+//     в крайний левый столбец. Новые ncs-узлы дозаполнять (см. scripts/fix-missing-hp.js).
+const noHp = g.nodes.filter(n => typeof n.hp !== 'number' || !(n.hp > 0))
+if (noHp.length) W(`без hp — ${noHp.length} узлов (в «Мощности» сядут в бакет ~150 л.с.): ${noHp.slice(0,6).map(n => n.id).join(', ')}${noHp.length > 6 ? '…' : ''}`)
+
 // 3. бренды вне белого списка
 const offBrands = {}
 g.nodes.forEach(n => { if (n.brandId && !BRAND_WHITELIST.has(n.brandId)) (offBrands[n.brandId] ??= []).push(n.label) })
