@@ -171,8 +171,9 @@ addEdge({ id:'fe-296-3', source:'ferrari-296-speciale', target:'ferrari-296-spec
 // ═══════════════════════════════════════════════════════════════════════════
 console.log('\n── Daytona SP3 ──')
 addNode({ id:'ferrari-daytona-sp3', label:'Daytona SP3', year:2022, brandId:B, brandName:BN, type:'generation', codeName:'SP3', modelSlug:'ferrari-daytona-sp3', bodyType:'coupe', segment:'hypercar', zone:'hypercar', hp:840, engineType:'v12' })
-addEdge({ id:'fe-dsp3-1', source:'ferrari-daytona-365', target:'ferrari-daytona-sp3', type:'influenced_by', strength:0.80 })
-addEdge({ id:'fe-dsp3-2', source:'ferrari-812sf',       target:'ferrari-daytona-sp3', type:'shares_platform', strength:0.75 })
+// NOTE: influenced_by от 365 GTB/4 → SP3 УДАЛЕНО — оба названы в честь гонки 1967 независимо,
+//       SP3 не является производным от дорожного 365 GTB/4. Единственная реальная связь — платформа 812.
+addEdge({ id:'fe-dsp3-2', source:'ferrari-812sf', target:'ferrari-daytona-sp3', type:'shares_platform', strength:0.75 })
 
 // ═══════════════════════════════════════════════════════════════════════════
 // 12Cilindri Spider

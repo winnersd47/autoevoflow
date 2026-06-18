@@ -25205,13 +25205,6 @@
       "strength": 0.92
     },
     {
-      "id": "fe-dsp3-1",
-      "source": "ferrari-daytona-365",
-      "target": "ferrari-daytona-sp3",
-      "type": "influenced_by",
-      "strength": 0.8
-    },
-    {
       "id": "fe-dsp3-2",
       "source": "ferrari-812sf",
       "target": "ferrari-daytona-sp3",
