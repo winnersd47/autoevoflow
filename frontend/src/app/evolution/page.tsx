@@ -27,6 +27,7 @@ const BRANDS = [
   { id: "ferrari",     name: "Ferrari",      color: "#ff2800" },
   { id: "lamborghini", name: "Lamborghini",  color: "#e6b800" },
   { id: "mclaren",     name: "McLaren",      color: "#FF8000" },
+  { id: "alfa-romeo",   name: "Alfa Romeo",   color: "#ce1126" },
   { id: "astonmartin", name: "Aston Martin", color: "#006A4E" },
   { id: "bugatti",     name: "Bugatti",      color: "#6B0AC9" },
   { id: "pagani",      name: "Pagani",       color: "#8B7355" },

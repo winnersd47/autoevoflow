@@ -1042,6 +1042,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       setZoneLabels([]); setDecadeLines([])
 
       const BRAND_COLOR_E: Record<string, string> = {
+        'alfa-romeo': '#ce1126',
         bmw: '#00d4ff', mercedes: '#b8b8b8', audi: '#e84040',
         volkswagen: '#3d7bd6', porsche: '#ffd700', ferrari: '#ff2800',
         lamborghini: '#e6b800', maserati: '#1a4fc4', lotus: '#c8e228',
