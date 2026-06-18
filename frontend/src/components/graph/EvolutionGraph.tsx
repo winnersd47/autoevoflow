@@ -1223,6 +1223,22 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
             })
           }
         })
+        // influenced_by / shares_platform между колонками → дуга вправо (не перекрывает промежуточные узлы)
+        // Отрицательный control-point-distances = правая сторона пути source→target (конвенция Cytoscape)
+        cy.edges().forEach(e => {
+          const type = e.data('type') as string
+          if (!['influenced_by', 'shares_platform'].includes(type)) return
+          const sp = e.source().position()
+          const tp = e.target().position()
+          const dx = Math.abs(tp.x - sp.x)
+          if (dx < 20) return
+          const cpDist = -(Math.min(320, Math.max(80, dx * 0.6)))
+          e.style({
+            'curve-style': 'unbundled-bezier',
+            'control-point-distances': cpDist,
+            'control-point-weights': 0.5,
+          })
+        })
         cy.off('pan zoom')
         cy.on('pan zoom', () => {
           const pp = cy.pan(); const zz = cy.zoom(); const cww = cy.container()?.clientWidth ?? cw

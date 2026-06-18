@@ -158,9 +158,9 @@ const ferrariNodes = [
 ferrariNodes.forEach(addNode)
 
 const ferrariEdges = [
-  { id:'fe-a1', source:'ferrari-488',   target:'ferrari-f8',       type:'evolves_into', strength:0.92 },
-  { id:'fe-a2', source:'ferrari-f8',    target:'ferrari-sf90',     type:'influenced_by',strength:0.75 },
-  { id:'fe-a3', source:'ferrari-812sf', target:'ferrari-12cilindri',type:'evolves_into',strength:0.90 },
+  { id:'fe-a1', source:'ferrari-488',   target:'ferrari-f8',        type:'evolves_into', strength:0.92 },
+  // fe-a2 (f8 → sf90 influenced_by) removed: both 2019, parallel development lineages
+  { id:'fe-a3', source:'ferrari-812sf', target:'ferrari-12cilindri', type:'evolves_into', strength:0.90 },
 ]
 ferrariEdges.forEach(addEdge)
 
