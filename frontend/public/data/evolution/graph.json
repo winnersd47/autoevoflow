@@ -24956,7 +24956,7 @@
       "id": "mc-a2",
       "source": "mclaren-650s",
       "target": "mclaren-570s",
-      "type": "variant_of",
+      "type": "shares_platform",
       "strength": 0.8
     },
     {
@@ -25012,7 +25012,7 @@
       "id": "lb-a5",
       "source": "lamborghini-aven",
       "target": "lambo-sian",
-      "type": "variant_of",
+      "type": "shares_platform",
       "strength": 0.8
     },
     {
@@ -25026,7 +25026,7 @@
       "id": "bu-a2",
       "source": "bugatti-chiron",
       "target": "bugatti-centodieci",
-      "type": "variant_of",
+      "type": "shares_platform",
       "strength": 0.8
     },
     {
@@ -25205,13 +25205,6 @@
       "strength": 0.92
     },
     {
-      "id": "fe-dsp3-2",
-      "source": "ferrari-812sf",
-      "target": "ferrari-daytona-sp3",
-      "type": "shares_platform",
-      "strength": 0.75
-    },
-    {
       "id": "fe-12cil-1",
       "source": "ferrari-12cil",
       "target": "ferrari-12cil-spider",
@@ -25226,18 +25219,18 @@
       "strength": 0.88
     },
     {
-      "id": "fe-cal-1",
-      "source": "ferrari-california-node",
-      "target": "ferrari-california-t",
-      "type": "evolves_into",
-      "strength": 0.88
-    },
-    {
       "id": "fe-hc25-1",
       "source": "ferrari-f8-spider",
       "target": "ncs-ferrari-2026-ferrari-hc25",
       "type": "shares_platform",
       "strength": 0.75
+    },
+    {
+      "id": "mc-w1-p1",
+      "source": "mclaren-p1",
+      "target": "mclaren-w1",
+      "type": "influenced_by",
+      "strength": 0.85
     }
   ]
 }
