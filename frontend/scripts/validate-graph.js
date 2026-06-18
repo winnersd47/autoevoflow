@@ -23,6 +23,7 @@ const BRAND_WHITELIST = new Set([
   'rolls-royce','bentley','gordon-murray','zenvo','de-tomaso','morgan','tvr','caterham',
   'pininfarina','hispano-suiza','ford','hennessey','ssc','saleen',
   'toyota','lexus','honda','nissan','mazda','subaru','aspark',
+  'alfa-romeo',
 ])
 const ZONES = new Set([
   'hypercar','supercar','sports','gt_coupe','open_top','flagship_sed','exec_sed',
