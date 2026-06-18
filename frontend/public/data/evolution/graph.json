@@ -14771,7 +14771,7 @@
       "brandId": "audi",
       "brandName": "Audi",
       "codeName": "4M.2",
-      "modelSlug": "audi-q7-4m-fl",
+      "modelSlug": "audi-q7-4m",
       "bodyType": "suv",
       "segment": "suv",
       "zone": "suv_large",
@@ -19984,8 +19984,8 @@
     },
     {
       "id": "au-rsq8-2",
-      "source": "audi-rs-q8-f8",
-      "target": "lambo-urus",
+      "source": "lambo-urus",
+      "target": "audi-rs-q8-f8",
       "type": "shares_platform",
       "strength": 0.82
     },
@@ -24786,8 +24786,8 @@
     },
     {
       "id": "sp-mlbe-cay-bent",
-      "source": "porsche-cay9-9ya",
-      "target": "bentley-bentayga",
+      "source": "bentley-bentayga",
+      "target": "porsche-cay9-9ya",
       "type": "shares_platform",
       "strength": 0.7
     },
@@ -24814,15 +24814,15 @@
     },
     {
       "id": "sp-mlbe-tou-bent",
-      "source": "vw-touareg-3",
-      "target": "bentley-bentayga",
+      "source": "bentley-bentayga",
+      "target": "vw-touareg-3",
       "type": "shares_platform",
       "strength": 0.7
     },
     {
       "id": "sp-mlbe-q8-cay",
-      "source": "audi-q8-f8",
-      "target": "porsche-cay9-9ya",
+      "source": "porsche-cay9-9ya",
+      "target": "audi-q8-f8",
       "type": "shares_platform",
       "strength": 0.7
     },
