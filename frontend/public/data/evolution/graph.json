@@ -12770,7 +12770,7 @@
       "brandId": "ferrari",
       "brandName": "Ferrari",
       "codeName": "HC25",
-      "modelSlug": "ferrari-hc25",
+      "modelSlug": "ferrari-f8-spider",
       "bodyType": "coupe",
       "segment": "supercar",
       "zone": "supercar",
@@ -25231,6 +25231,13 @@
       "target": "mclaren-w1",
       "type": "influenced_by",
       "strength": 0.85
+    },
+    {
+      "id": "fe-dsp3-2",
+      "source": "ferrari-812sf",
+      "target": "ferrari-daytona-sp3",
+      "type": "shares_platform",
+      "strength": 0.7
     }
   ]
 }
