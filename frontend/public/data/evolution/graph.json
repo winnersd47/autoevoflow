@@ -2681,7 +2681,7 @@
       "year": 2024,
       "brandId": "ferrari",
       "brandName": "Ferrari",
-      "codeName": "12Cil",
+      "codeName": "F167",
       "modelSlug": "ferrari-12cilindri",
       "bodyType": "coupe",
       "segment": "supercar",
@@ -16802,21 +16802,6 @@
       "zone": "hypercar",
       "hp": 1600,
       "engineType": "w16"
-    },
-    {
-      "id": "ferrari-12cilindri",
-      "label": "12Cilindri",
-      "type": "generation",
-      "year": 2024,
-      "brandId": "ferrari",
-      "brandName": "Ferrari",
-      "codeName": "F167",
-      "modelSlug": "ferrari-12cilindri",
-      "bodyType": "coupe",
-      "segment": "grand_tourer",
-      "zone": "gt_coupe",
-      "hp": 830,
-      "engineType": "v12"
     }
   ],
   "edges": [
@@ -24652,13 +24637,6 @@
       "target": "ferrari-sf90",
       "type": "influenced_by",
       "strength": 0.75
-    },
-    {
-      "id": "fe-a3",
-      "source": "ferrari-812sf",
-      "target": "ferrari-12cilindri",
-      "type": "evolves_into",
-      "strength": 0.9
     }
   ]
 }
