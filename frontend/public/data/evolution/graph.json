@@ -18493,8 +18493,8 @@
     },
     {
       "id": "cx-6",
-      "source": "vw-golf4",
-      "target": "audi-a4b5",
+      "source": "audi-a4b5",
+      "target": "vw-golf4",
       "type": "shares_platform",
       "strength": 0.8
     },
@@ -19641,15 +19641,15 @@
     },
     {
       "id": "sk-4",
-      "source": "vw-golf4",
-      "target": "skoda-oct-a4",
+      "source": "skoda-oct-a4",
+      "target": "vw-golf4",
       "type": "shares_platform",
       "strength": 0.85
     },
     {
       "id": "sk-5",
-      "source": "vw-passat-b6",
-      "target": "skoda-superb",
+      "source": "skoda-superb",
+      "target": "vw-passat-b6",
       "type": "shares_platform",
       "strength": 0.82
     },
@@ -22256,13 +22256,6 @@
       "target": "lexus-is-xe30-fl",
       "type": "facelifted_to",
       "strength": 0.9
-    },
-    {
-      "id": "lx-is-t1",
-      "source": "lexus-is-xe10",
-      "target": "toyota-corolla-e100",
-      "type": "shares_platform",
-      "strength": 0.8
     },
     {
       "id": "lx-gs-1",
@@ -24898,8 +24891,8 @@
     },
     {
       "id": "sp-ford-focus-mazda3",
-      "source": "ford-focus-2",
-      "target": "mazda-3-bk",
+      "source": "mazda-3-bk",
+      "target": "ford-focus-2",
       "type": "shares_platform",
       "strength": 0.75
     },
