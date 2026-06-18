@@ -19507,20 +19507,6 @@
       "strength": 0.82
     },
     {
-      "id": "b2-4",
-      "source": "bmw-m2-f87",
-      "target": "bmw-2-f22",
-      "type": "variant_of",
-      "strength": 0.85
-    },
-    {
-      "id": "b2-5",
-      "source": "bmw-m2-g87",
-      "target": "bmw-2-g42",
-      "type": "variant_of",
-      "strength": 0.85
-    },
-    {
       "id": "ff-250",
       "source": "ferrari-250gt",
       "target": "ferrari-daytona-365",
@@ -25238,6 +25224,20 @@
       "target": "ferrari-daytona-sp3",
       "type": "shares_platform",
       "strength": 0.7
+    },
+    {
+      "id": "b2-4",
+      "source": "bmw-2-f22",
+      "target": "bmw-m2-f87",
+      "type": "variant_of",
+      "strength": 0.88
+    },
+    {
+      "id": "b2-5",
+      "source": "bmw-2-g42",
+      "target": "bmw-m2-g87",
+      "type": "variant_of",
+      "strength": 0.88
     }
   ]
 }
