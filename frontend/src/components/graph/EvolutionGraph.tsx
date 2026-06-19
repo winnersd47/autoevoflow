@@ -1067,7 +1067,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const EY_SCALE  = Math.min(56, Math.max(12, Math.round(3500 / eYearRange)))
       const FAM_W_E   = 84
       const BRAND_GAP_E = 48
-      const PAD_LEFT_E  = 180   // wider: family name labels on left
+      const PAD_LEFT_E  = 220   // space for "Brand · Model" labels on left
       const PAD_TOP_E   = 50
 
       const getFamE = (id: string, slug: string|undefined, familyKey?: string) => {
@@ -1140,10 +1140,12 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const famRangeE: Record<string, { minYr: number; maxYr: number; brandId: string }> = {}
       sortedBrandsE.forEach(brandId => {
         const famMap = byBrandFamE[brandId] ?? {}
+        const brandDisplay = brandId.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ')
         Object.entries(famMap).forEach(([fam, nodes]) => {
           if (nodes.length < 2) return
           const sorted = nodes.slice().sort((a, b) => a.yr - b.yr)
-          famToLabel[fam] = (cy.getElementById(sorted[0].id).data('label') as string) ?? ''
+          const modelLabel = (cy.getElementById(sorted[0].id).data('label') as string) ?? ''
+          famToLabel[fam] = `${brandDisplay}  ·  ${modelLabel}`
           famRangeE[fam] = { minYr: sorted[0].yr, maxYr: sorted[sorted.length - 1].yr, brandId }
         })
       })
@@ -2693,7 +2695,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       {activeLayout === 'eras' && (
         <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden">
 
-          {/* ① Brand horizontal rows (left=top%, width=height%) */}
+          {/* ① Brand horizontal rows — фон + левая граница, без текста (бренд уже в метках строк) */}
           {brandBands.map(band => (
             <div
               key={band.brandId}
@@ -2701,17 +2703,10 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
               style={{
                 top:    band.left  + '%',
                 height: band.width + '%',
-                background: 'linear-gradient(90deg,' + band.color + '10 0%,' + band.color + '04 100%)',
-                borderTop: '2px solid ' + band.color + '38',
+                background: 'linear-gradient(90deg,' + band.color + '10 0%,' + band.color + '03 100%)',
+                borderTop: '1px solid ' + band.color + '28',
               }}
-            >
-              <span
-                className="absolute left-1 top-0 bottom-0 flex items-center text-[9px] font-bold uppercase tracking-widest"
-                style={{ color: band.color, opacity: 0.70, whiteSpace: 'nowrap' }}
-              >
-                {band.label}
-              </span>
-            </div>
+            />
           ))}
 
           {/* ② Family rows: separators + name labels + lifespan bars (horizontal) */}
@@ -2742,23 +2737,23 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
                   }}
                 />
               )}
-              {/* family name label at left of row */}
+              {/* family name label: "Brand  ·  Model" at left of row */}
               {row.label && row.height > 0.8 && (
                 <div
                   className="absolute flex items-center"
                   style={{
                     top:    Math.max(0, row.top) + '%',
                     height: row.height + '%',
-                    left:   '4px',
-                    width:  '172px',
+                    left:   '6px',
+                    width:  '210px',
                     overflow: 'hidden',
                   }}
                 >
                   <span
-                    className="text-[7px] uppercase font-semibold tracking-wider"
+                    className="text-[7.5px] font-semibold tracking-wide"
                     style={{
                       color:        row.color ?? '#ffffff',
-                      opacity:      0.55,
+                      opacity:      0.60,
                       whiteSpace:   'nowrap',
                       overflow:     'hidden',
                       textOverflow: 'ellipsis',
