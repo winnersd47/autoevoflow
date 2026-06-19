@@ -1067,8 +1067,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const EY_SCALE  = Math.min(56, Math.max(12, Math.round(3500 / eYearRange)))
       const FAM_W_E   = 84
       const BRAND_GAP_E = 48
-      const PAD_LEFT_E  = 90
-      const PAD_TOP_E   = 60
+      const PAD_LEFT_E  = 180   // wider: family name labels on left
+      const PAD_TOP_E   = 50
 
       const getFamE = (id: string, slug: string|undefined, familyKey?: string) => {
         if (familyKey) return familyKey
@@ -1096,10 +1096,11 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const sortedBrandsE = [...new Set(allEE.map(e => e.brandId))]
         .sort((a, b) => { const ai = BRAND_ORDER_E.indexOf(a), bi = BRAND_ORDER_E.indexOf(b); return (ai<0?99:ai)-(bi<0?99:bi) })
 
+      // X=год, Y=семья (свап осей: время идёт слева→вправо, семьи — рядами сверху→вниз)
       const nodePosE: Record<string, { x: number; y: number }> = {}
-      const famColXE: Record<string, number> = {}
-      const brandColRangeE: Record<string, { start: number; end: number }> = {}
-      let curXE = PAD_LEFT_E
+      const famRowYE: Record<string, number> = {}                             // центр строки семьи по Y
+      const brandRowRangeE: Record<string, { top: number; bottom: number }> = {}
+      let curYE = PAD_TOP_E
 
       sortedBrandsE.forEach(brandId => {
         const famMap = byBrandFamE[brandId] ?? {}
@@ -1107,30 +1108,34 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
           .filter(f => famMap[f].length >= 2)
           .sort((a, b) => (famMinE[a] ?? 0) - (famMinE[b] ?? 0))
         if (sortedFamsE.length === 0) return
-        const brandStart = curXE
+        const brandTop = curYE
         sortedFamsE.forEach(fam => {
-          famColXE[fam] = curXE + FAM_W_E / 2
+          famRowYE[fam] = curYE + FAM_W_E / 2
           const nodes = famMap[fam].sort((a, b) => a.yr - b.yr)
-          const subMaxY: number[] = []
+          const subMaxX: number[] = []
           nodes.forEach(({ id, yr }) => {
-            const yBase = PAD_TOP_E + (yr - eMinYear) * EY_SCALE
+            const xBase = PAD_LEFT_E + (yr - eMinYear) * EY_SCALE
             let sub = 0
-            while (sub < subMaxY.length && subMaxY[sub] > yBase - 48) sub++
-            subMaxY[sub] = yBase
-            nodePosE[id] = { x: famColXE[fam] + (sub > 0 ? sub * 18 - 9 : 0), y: yBase }
+            while (sub < subMaxX.length && subMaxX[sub] > xBase - 48) sub++
+            subMaxX[sub] = xBase
+            nodePosE[id] = { x: xBase, y: famRowYE[fam] + (sub > 0 ? sub * 18 - 9 : 0) }
           })
-          curXE += FAM_W_E
+          curYE += FAM_W_E
         })
-        brandColRangeE[brandId] = { start: brandStart, end: curXE }
-        curXE += BRAND_GAP_E
+        brandRowRangeE[brandId] = { top: brandTop, bottom: curYE }
+        curYE += BRAND_GAP_E
       })
+      // Запасная позиция для нод без семьи (1-нодные slug): X по году, Y по центру бренда
       allEE.forEach(e => {
         if (nodePosE[e.id]) return
-        const r = brandColRangeE[e.brandId]
-        nodePosE[e.id] = { x: r ? (r.start + r.end) / 2 : PAD_LEFT_E, y: PAD_TOP_E + (e.yr - eMinYear) * EY_SCALE }
+        const r = brandRowRangeE[e.brandId]
+        nodePosE[e.id] = {
+          x: PAD_LEFT_E + (e.yr - eMinYear) * EY_SCALE,
+          y: r ? (r.top + r.bottom) / 2 : PAD_TOP_E,
+        }
       })
 
-      // Метки семейных колонок + годовые диапазоны для lifespan-баров
+      // Метки семейных строк + диапазоны годов для lifespan-баров
       const famToLabel: Record<string, string> = {}
       const famRangeE: Record<string, { minYr: number; maxYr: number; brandId: string }> = {}
       sortedBrandsE.forEach(brandId => {
@@ -1143,8 +1148,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         })
       })
 
-      const eModelW = curXE + 40
-      const eModelH = PAD_TOP_E * 2 + (eMaxYear - eMinYear) * EY_SCALE
+      const eModelW = PAD_LEFT_E + (eMaxYear - eMinYear) * EY_SCALE + 80
+      const eModelH = curYE + 40
       const eFitPad = 40
       const eCEl = cy.container(); const eCW = eCEl ? eCEl.clientWidth : 1200
       const eEstZ = Math.min((height - eFitPad*2)/eModelH, (eCW - eFitPad*2)/eModelW)
@@ -1155,49 +1160,54 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const decListE: number[] = []
       for (let d = firstDecE; d <= eMaxYear + 10; d += 10) decListE.push(d)
 
-      const bldEraE = (pY: number, z: number): EraCol[] =>
+      // Декадные полосы — теперь вертикальные (X=год)
+      const bldEraE = (pX: number, z: number, cW: number): EraCol[] =>
         decListE.map(d => ({
           decade: d,
-          left: Math.max(0, ((PAD_TOP_E + (d - eMinYear) * EY_SCALE) * z + pY) / height * 100),
+          left: Math.max(0, ((PAD_LEFT_E + (d - eMinYear) * EY_SCALE) * z + pX) / cW * 100),
         })).filter(c => c.left < 100)
 
-      const bldBrandsE = (pX: number, z: number, cW: number): BrandBand[] =>
+      // Бренды — горизонтальные полосы (Y=семья): поле left=top%, width=height%
+      const bldBrandsE = (pY: number, z: number): BrandBand[] =>
         sortedBrandsE.map(bid => {
-          const r = brandColRangeE[bid]; if (!r) return null
+          const r = brandRowRangeE[bid]; if (!r) return null
           return { brandId: bid, label: bid.charAt(0).toUpperCase() + bid.slice(1),
             color: BRAND_COLOR_E[bid] ?? '#ffffff',
-            left:  Math.max(0, (r.start * z + pX) / cW * 100),
-            width: Math.max(0.1, (r.end - r.start) * z / cW * 100) }
+            left:  Math.max(0, (r.top  * z + pY) / height * 100),
+            width: Math.max(0.1, (r.bottom - r.top) * z / height * 100) }
         }).filter(Boolean) as BrandBand[]
 
-      const bldTicksE = (pY: number, z: number): YearTick[] => {
+      // Тики годов — на верхней оси (X)
+      const bldTicksE = (pX: number, z: number, cW: number): YearTick[] => {
         const t2: YearTick[] = []
         for (let yr = Math.ceil(eMinYear / 5) * 5; yr <= eMaxYear; yr += 5) {
-          const top = ((PAD_TOP_E + (yr - eMinYear) * EY_SCALE) * z + pY) / height * 100
-          if (top > 0 && top < 100) t2.push({ year: yr, top })
+          const left = ((PAD_LEFT_E + (yr - eMinYear) * EY_SCALE) * z + pX) / cW * 100
+          if (left > 0 && left < 100) t2.push({ year: yr, top: left }) // top поле = left %
         }
         return t2
       }
 
+      // Строки семей: разделители + метки + lifespan-бар (горизонтальный)
       const bldFamSepE = (pX: number, pY: number, z: number, cW: number): GenRow[] =>
-        Object.entries(famColXE).map(([famKey, xC], idx) => {
+        Object.entries(famRowYE).map(([famKey, yC], idx) => {
           const range      = famRangeE[famKey]
           const color      = range ? (BRAND_COLOR_E[range.brandId] ?? '#ffffff') : '#ffffff'
-          const spanTop    = range ? Math.max(0, ((PAD_TOP_E + (range.minYr - eMinYear) * EY_SCALE) * z + pY) / height * 100) : 0
-          const spanHeight = range ? Math.max(0, (range.maxYr - range.minYr) * EY_SCALE * z / height * 100) : 0
+          // spanTop/spanHeight переиспользуем как spanLeft/spanWidth для горизонтального lifespan-бара
+          const spanTop    = range ? Math.max(0, ((PAD_LEFT_E + (range.minYr - eMinYear) * EY_SCALE) * z + pX) / cW * 100) : 0
+          const spanHeight = range ? Math.max(0, (range.maxYr - range.minYr) * EY_SCALE * z / cW * 100) : 0
           return {
             gen: idx,
             label: famToLabel[famKey] ?? '',
             color, spanTop, spanHeight,
-            top:    Math.max(0, ((xC - FAM_W_E / 2) * z + pX) / cW * 100),
-            height: Math.max(0.1, FAM_W_E * z / cW * 100),
+            top:    Math.max(0, ((yC - FAM_W_E / 2) * z + pY) / height * 100),
+            height: Math.max(0.1, FAM_W_E * z / height * 100),
           }
         }).filter(c => c.top < 100)
 
       const sync4E = (p: { x: number; y: number }, z: number, cW: number) => {
-        setEraCols(bldEraE(p.y, z))
-        setBrandBands(bldBrandsE(p.x, z, cW))
-        setYearTicks(bldTicksE(p.y, z))
+        setEraCols(bldEraE(p.x, z, cW))
+        setBrandBands(bldBrandsE(p.y, z))
+        setYearTicks(bldTicksE(p.x, z, cW))
         setGenRows(bldFamSepE(p.x, p.y, z, cW))
       }
 
@@ -1211,30 +1221,29 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       layoutE.one('layoutstop', () => {
         const p = cy.pan(); const z = cy.zoom(); const cw = cy.container()?.clientWidth ?? eCW
         sync4E(p, z, cw)
-        // variant_of между разными колонками одного года → горизонтальные (dy≈0) → дуга
+        // variant_of в одном году → вертикальные (dx≈0) → дуга
         cy.edges().forEach(e => {
           if (e.data('type') !== 'variant_of') return
           const sp = e.source().position()
           const tp = e.target().position()
-          if (Math.abs(sp.y - tp.y) < 4) {
-            const dx = Math.abs(tp.x - sp.x)
+          if (Math.abs(sp.x - tp.x) < 4) {
+            const dy = Math.abs(tp.y - sp.y)
             e.style({
               'curve-style': 'unbundled-bezier',
-              'control-point-distances': -(Math.min(72, Math.max(28, dx * 0.20))),
+              'control-point-distances': -(Math.min(72, Math.max(28, dy * 0.20))),
               'control-point-weights': 0.5,
             })
           }
         })
-        // influenced_by / shares_platform между колонками → дуга вправо (не перекрывает промежуточные узлы)
-        // Отрицательный control-point-distances = правая сторона пути source→target (конвенция Cytoscape)
+        // influenced_by / shares_platform между рядами → дуга вниз
         cy.edges().forEach(e => {
           const type = e.data('type') as string
           if (!['influenced_by', 'shares_platform'].includes(type)) return
           const sp = e.source().position()
           const tp = e.target().position()
-          const dx = Math.abs(tp.x - sp.x)
-          if (dx < 20) return
-          const cpDist = -(Math.min(320, Math.max(80, dx * 0.6)))
+          const dy = Math.abs(tp.y - sp.y)
+          if (dy < 20) return
+          const cpDist = -(Math.min(320, Math.max(80, dy * 0.6)))
           e.style({
             'curve-style': 'unbundled-bezier',
             'control-point-distances': cpDist,
@@ -2684,110 +2693,109 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       {activeLayout === 'eras' && (
         <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden">
 
-          {/* ① Brand column backgrounds with colour tint */}
+          {/* ① Brand horizontal rows (left=top%, width=height%) */}
           {brandBands.map(band => (
             <div
               key={band.brandId}
-              className="absolute top-0 bottom-0"
+              className="absolute left-0 right-0"
               style={{
-                left: band.left + '%',
-                width: band.width + '%',
-                background: 'linear-gradient(180deg,' + band.color + '12 0%,' + band.color + '06 100%)',
-                borderLeft: '2px solid ' + band.color + '40',
+                top:    band.left  + '%',
+                height: band.width + '%',
+                background: 'linear-gradient(90deg,' + band.color + '10 0%,' + band.color + '04 100%)',
+                borderTop: '2px solid ' + band.color + '38',
               }}
             >
               <span
-                className="absolute top-1 left-0 right-0 text-center text-[9px] font-bold uppercase tracking-widest"
-                style={{ color: band.color, opacity: 0.75, whiteSpace: 'nowrap', overflow: 'hidden' }}
+                className="absolute left-1 top-0 bottom-0 flex items-center text-[9px] font-bold uppercase tracking-widest"
+                style={{ color: band.color, opacity: 0.70, whiteSpace: 'nowrap' }}
               >
                 {band.label}
               </span>
             </div>
           ))}
 
-          {/* ② Family columns: separators + name labels + lifespan bars */}
-          {genRows.map((col, idx) => (
-            <React.Fragment key={col.gen}>
-              {/* thin vertical separator between adjacent columns */}
+          {/* ② Family rows: separators + name labels + lifespan bars (horizontal) */}
+          {genRows.map((row, idx) => (
+            <React.Fragment key={row.gen}>
+              {/* horizontal separator between adjacent rows */}
               {idx > 0 && (
                 <div
-                  className="absolute top-0 bottom-0"
+                  className="absolute left-0 right-0"
                   style={{
-                    left: Math.max(0, col.top) + '%',
-                    width: '1px',
-                    background: 'linear-gradient(180deg,transparent 0%,rgba(255,255,255,0.14) 8%,rgba(255,255,255,0.14) 92%,transparent 100%)',
+                    top: Math.max(0, row.top) + '%',
+                    height: '1px',
+                    background: 'linear-gradient(90deg,transparent 0%,rgba(255,255,255,0.13) 8%,rgba(255,255,255,0.13) 92%,transparent 100%)',
                   }}
                 />
               )}
-              {/* lifespan bar: spans minYear→maxYear in the family */}
-              {(col.spanHeight ?? 0) > 0.1 && (
+              {/* lifespan bar: spans minYear→maxYear on X axis */}
+              {(row.spanHeight ?? 0) > 0.1 && (
                 <div
                   className="absolute rounded-sm"
                   style={{
-                    left: `calc(${col.top + col.height / 2}% - 2px)`,
-                    width: '4px',
-                    top:    (col.spanTop    ?? 0) + '%',
-                    height: (col.spanHeight ?? 0) + '%',
-                    background: col.color ?? '#ffffff',
-                    opacity: 0.18,
+                    top:    `calc(${row.top + row.height / 2}% - 2px)`,
+                    height: '4px',
+                    left:   (row.spanTop    ?? 0) + '%',
+                    width:  (row.spanHeight ?? 0) + '%',
+                    background: row.color ?? '#ffffff',
+                    opacity: 0.16,
                   }}
                 />
               )}
-              {/* family name label at column top */}
-              {col.label && col.height > 1.5 && (
+              {/* family name label at left of row */}
+              {row.label && row.height > 0.8 && (
                 <div
-                  className="absolute"
+                  className="absolute flex items-center"
                   style={{
-                    left:     Math.max(0, col.top) + '%',
-                    width:    col.height + '%',
-                    top:      '22px',
+                    top:    Math.max(0, row.top) + '%',
+                    height: row.height + '%',
+                    left:   '4px',
+                    width:  '172px',
                     overflow: 'hidden',
-                    textAlign: 'center',
                   }}
                 >
                   <span
-                    className="text-[6.5px] uppercase font-semibold tracking-wider"
+                    className="text-[7px] uppercase font-semibold tracking-wider"
                     style={{
-                      color:         col.color ?? '#ffffff',
-                      opacity:       0.55,
-                      whiteSpace:    'nowrap',
-                      overflow:      'hidden',
-                      textOverflow:  'ellipsis',
-                      display:       'block',
+                      color:        row.color ?? '#ffffff',
+                      opacity:      0.55,
+                      whiteSpace:   'nowrap',
+                      overflow:     'hidden',
+                      textOverflow: 'ellipsis',
                     }}
                   >
-                    {col.label}
+                    {row.label}
                   </span>
                 </div>
               )}
             </React.Fragment>
           ))}
 
-          {/* ③ Decade horizontal bands (zebra stripes + white separator) */}
+          {/* ③ Decade vertical stripes (zebra + separator) */}
           {eraCols.map((band, idx) => {
-            const nextTop = eraCols[idx + 1]?.left ?? 100
-            const bandH   = Math.max(0.3, nextTop - band.left)
+            const nextLeft = eraCols[idx + 1]?.left ?? 100
+            const bandW    = Math.max(0.3, nextLeft - band.left)
             return (
               <div
                 key={band.decade}
-                className="absolute left-0 right-0"
+                className="absolute top-0 bottom-0"
                 style={{
-                  top: Math.max(0, band.left) + '%',
-                  height: bandH + '%',
-                  background: idx % 2 === 0 ? 'rgba(255,255,255,0.018)' : 'transparent',
+                  left:  Math.max(0, band.left) + '%',
+                  width: bandW + '%',
+                  background: idx % 2 === 0 ? 'rgba(255,255,255,0.016)' : 'transparent',
                 }}
               >
                 {idx > 0 && (
-                  <div className="absolute left-0 right-0" style={{
-                    top: 0, height: '2px',
-                    background: 'linear-gradient(90deg,rgba(255,255,255,0.55) 0%,rgba(255,255,255,0.18) 40%,rgba(255,255,255,0.06) 80%,transparent 100%)',
+                  <div className="absolute top-0 bottom-0" style={{
+                    left: 0, width: '2px',
+                    background: 'linear-gradient(180deg,rgba(255,255,255,0.50) 0%,rgba(255,255,255,0.16) 40%,rgba(255,255,255,0.05) 80%,transparent 100%)',
                   }} />
                 )}
                 <span
                   className="absolute font-mono"
                   style={{
-                    left:      '28px',
-                    top:       idx > 0 ? '4px' : '6px',
+                    top:       '6px',
+                    left:      idx > 0 ? '6px' : '4px',
                     fontSize:  '7px',
                     color:     'rgba(255,255,255,0.20)',
                     whiteSpace: 'nowrap',
@@ -2799,19 +2807,19 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
             )
           })}
 
-          {/* ④ Year tick labels on left axis */}
+          {/* ④ Year tick labels on top axis (tick.top поле = left %) */}
           {yearTicks.map(tick => (
             <div
               key={tick.year}
               className="absolute"
-              style={{ top: tick.top + '%', left: 0, transform: 'translateY(-50%)' }}
+              style={{ left: tick.top + '%', top: 0, transform: 'translateX(-50%)' }}
             >
               <span
                 className="text-[9px] font-mono"
                 style={{
                   color: tick.year % 10 === 0 ? 'rgba(255,255,255,0.60)' : 'rgba(255,255,255,0.22)',
                   fontWeight: tick.year % 10 === 0 ? 700 : 400,
-                  paddingLeft: '4px',
+                  paddingTop: '4px',
                   display: 'block',
                   whiteSpace: 'nowrap',
                   textShadow: tick.year % 10 === 0 ? '0 0 8px rgba(249,115,22,0.45)' : 'none',
