@@ -1070,7 +1070,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const PAD_LEFT_E  = 90
       const PAD_TOP_E   = 60
 
-      const getFamE = (id: string, slug: string|undefined) => {
+      const getFamE = (id: string, slug: string|undefined, familyKey?: string) => {
+        if (familyKey) return familyKey
         if (slug) return slug
         const p = id.split('-')
         return p.length >= 3 ? p[0]+'-'+p[1] : p[0]
@@ -1078,10 +1079,11 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       type FamEE = { id: string; yr: number; brandId: string; fam: string }
       const allEE: FamEE[] = []
       eNodes.forEach(node => {
-        const yr      = (node.data('year')      as number)           ?? eMinYear
-        const slug    = (node.data('modelSlug') as string|undefined)
-        const brandId = (node.data('brandId')   as string)           ?? 'unknown'
-        allEE.push({ id: node.id(), yr, brandId, fam: getFamE(node.id(), slug) })
+        const yr        = (node.data('year')      as number)           ?? eMinYear
+        const slug      = (node.data('modelSlug') as string|undefined)
+        const familyKey = (node.data('familyKey') as string|undefined)
+        const brandId   = (node.data('brandId')   as string)           ?? 'unknown'
+        allEE.push({ id: node.id(), yr, brandId, fam: getFamE(node.id(), slug, familyKey) })
       })
       const byBrandFamE: Record<string, Record<string, FamEE[]>> = {}
       const famMinE: Record<string, number> = {}
@@ -2069,7 +2071,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const PADDING   = 50
 
       // Derive a stable family key from modelSlug or node ID
-      const getFamilyKey = (nodeId: string, modelSlug: string | undefined): string => {
+      const getFamilyKey = (nodeId: string, modelSlug: string | undefined, familyKey?: string): string => {
+        if (familyKey) return familyKey
         if (modelSlug) return modelSlug
         const p = nodeId.split('-')
         // 3+ parts: "bmw-m3-e30" → "bmw-m3", "lotus-elise-s1" → "lotus-elise"
@@ -2095,7 +2098,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         const brandId   = (node.data('brandId')   as string)           ?? 'unknown'
         const year      = (node.data('year')       as number)           ?? minYear
         const modelSlug = (node.data('modelSlug')  as string|undefined)
-        const family    = getFamilyKey(node.id(), modelSlug)
+        const familyKey = (node.data('familyKey')  as string|undefined)
+        const family    = getFamilyKey(node.id(), modelSlug, familyKey)
 
         if (!byBrandFamily[brandId]) byBrandFamily[brandId] = {}
         if (!byBrandFamily[brandId][family]) byBrandFamily[brandId][family] = []
