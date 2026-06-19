@@ -23045,8 +23045,8 @@
       "id": "sync-ev-ferrari-12cil-ncs-ferrari-2027-ferrari-luce",
       "source": "ferrari-12cil",
       "target": "ncs-ferrari-2027-ferrari-luce",
-      "type": "evolves_into",
-      "strength": 0.9
+      "type": "influenced_by",
+      "strength": 0.6
     },
     {
       "id": "sync-ev-porsche-cay9-9ya-ncs-porsche-2027-porsche-cayenne-coupe-electric",
