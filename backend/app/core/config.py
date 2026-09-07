@@ -51,6 +51,10 @@ class Settings(BaseSettings):
     ANTHROPIC_API_KEY: str = Field(default="")
     ANTHROPIC_MODEL: str = "claude-opus-4-5"
 
+    # ── Yandex AI (YandexGPT, SpeechKit, Vision OCR, YandexART) ──────────────
+    YANDEX_API_KEY: str = Field(default="")
+    YANDEX_FOLDER_ID: str = Field(default="")
+
     # ── Vision Models ─────────────────────────────────────────────────────────
     CLIP_MODEL_NAME: str = "ViT-L-14"
     DINO_MODEL_NAME: str = "facebook/dinov2-large"
@@ -85,9 +89,16 @@ class Settings(BaseSettings):
     OTEL_ENDPOINT: str | None = None
 
     # ── CORS ──────────────────────────────────────────────────────────────────
-    ALLOWED_ORIGINS: list[str] = ["http://localhost:3000", "http://localhost:3001"]
-    ALLOWED_METHODS: list[str] = ["*"]
-    ALLOWED_HEADERS: list[str] = ["*"]
+    # Plain comma-separated strings, not list[str]: pydantic-settings 2.6's
+    # env source tries to json.loads() any field typed as a complex/list type
+    # before field_validator ever runs, so a plain ".env" value like
+    # "http://a,http://b" (not JSON) fails Settings() construction outright.
+    # NoDecode (which fixes this properly) only landed in a later
+    # pydantic-settings release. Split into a list at the point of use instead
+    # — see allowed_origins_list / allowed_methods_list / allowed_headers_list.
+    ALLOWED_ORIGINS: str = "http://localhost:3000,http://localhost:3001"
+    ALLOWED_METHODS: str = "*"
+    ALLOWED_HEADERS: str = "*"
 
     # ── Crawler ───────────────────────────────────────────────────────────────
     MAX_CRAWL_WORKERS: int = 10
@@ -99,7 +110,7 @@ class Settings(BaseSettings):
     CELERY_RESULT_BACKEND: str = Field(default="redis://localhost:6379/2")
     CELERY_TASK_SERIALIZER: str = "json"
     CELERY_RESULT_SERIALIZER: str = "json"
-    CELERY_ACCEPT_CONTENT: list[str] = ["json"]
+    CELERY_ACCEPT_CONTENT: str = "json"
 
     # ── Pagination ────────────────────────────────────────────────────────────
     DEFAULT_PAGE_SIZE: int = 20
@@ -109,6 +120,9 @@ class Settings(BaseSettings):
     VECTOR_SEARCH_LIMIT: int = 20
     VECTOR_SEARCH_MIN_SCORE: float = 0.6
 
+    # ── f2u-cli Temp File Hosting ─────────────────────────────────────────────
+    F2U_API_KEY: str = ""  # f2u.sh API key for temp file hosting (free: 24h, 10MB)
+
     @field_validator("DATABASE_URL", mode="before")
     @classmethod
     def validate_database_url(cls, v: str) -> str:
@@ -116,13 +130,6 @@ class Settings(BaseSettings):
             # Auto-convert sync URL to async
             v = v.replace("postgresql://", "postgresql+asyncpg://", 1)
             v = v.replace("postgres://", "postgresql+asyncpg://", 1)
-        return v
-
-    @field_validator("ALLOWED_ORIGINS", mode="before")
-    @classmethod
-    def parse_origins(cls, v: Any) -> list[str]:
-        if isinstance(v, str):
-            return [origin.strip() for origin in v.split(",")]
         return v
 
     @model_validator(mode="after")
@@ -142,6 +149,22 @@ class Settings(BaseSettings):
     @property
     def is_development(self) -> bool:
         return self.ENVIRONMENT == "development"
+
+    @property
+    def allowed_origins_list(self) -> list[str]:
+        return [o.strip() for o in self.ALLOWED_ORIGINS.split(",") if o.strip()]
+
+    @property
+    def allowed_methods_list(self) -> list[str]:
+        return [m.strip() for m in self.ALLOWED_METHODS.split(",") if m.strip()]
+
+    @property
+    def allowed_headers_list(self) -> list[str]:
+        return [h.strip() for h in self.ALLOWED_HEADERS.split(",") if h.strip()]
+
+    @property
+    def celery_accept_content_list(self) -> list[str]:
+        return [c.strip() for c in self.CELERY_ACCEPT_CONTENT.split(",") if c.strip()]
 
 
 @lru_cache(maxsize=1)
