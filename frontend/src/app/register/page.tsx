@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { motion } from 'framer-motion'
 import { Mail, Lock, User, Eye, EyeOff, Zap } from 'lucide-react'
+import { useAppStore, type AuthUser } from '@/store'
 
 export default function RegisterPage() {
   const router = useRouter()
@@ -17,17 +18,31 @@ export default function RegisterPage() {
   const set = (k: string) => (e: React.ChangeEvent<HTMLInputElement>) =>
     setForm(f => ({ ...f, [k]: e.target.value }))
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     if (form.password !== form.confirm) { setError('Passwords do not match'); return }
     if (!terms) { setError('Please accept the Terms of Service'); return }
     setError('')
     setLoading(true)
-    setTimeout(() => {
-      const user = { email: form.email, username: form.username || form.email.split('@')[0], role: 'user' }
-      localStorage.setItem('autoevoflow_user', JSON.stringify(user))
+    try {
+      const res = await fetch('/api/auth/register', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: form.email, password: form.password, name: form.username || undefined }),
+      })
+      const data = await res.json() as { user?: AuthUser; error?: string }
+      if (!res.ok) {
+        setError(data.error || 'Registration failed')
+        setLoading(false)
+        return
+      }
+      useAppStore.getState().setAuth(data.user ?? null)
       router.push('/dashboard')
-    }, 600)
+      router.refresh()
+    } catch {
+      setError('Network error — is the server running?')
+      setLoading(false)
+    }
   }
 
   return (

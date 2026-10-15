@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-land-cruiser",
+  "slug": "toyota-toyota-land-cruiser",
+  "name": "2026 Toyota Land Cruiser",
+  "fullName": "2026 Toyota Land Cruiser",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Calgarian likes square look of updated classic, adding that \"it feels like it will last forever\"",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://driving.ca/reviews/2026-toyota-land-cruiser-review-test",
+  "isLatest": true,
+  "scrapedAt": "2026-08-06T14:04:01.441Z",
+  "createdAt": "2026-08-06T14:04:11.627Z",
+  "updatedAt": "2026-08-06T14:04:11.627Z"
+}

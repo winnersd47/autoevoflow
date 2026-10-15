@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-i3",
+  "slug": "bmw-bmw-i3",
+  "name": "2027 BMW i3",
+  "fullName": "2027 BMW i3",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "BMW opened orders for the 2027 i3 early after strong initial demand. The all-new electric sedan can drive up to 468 miles on a single charge, but it’s not exactly",
+  "generationCount": 1,
+  "heroImageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/09/BMW-2027-i3-price.jpeg?quality=82&#038;strip=all&#038;w=1400",
+  "thumbnailUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/09/BMW-2027-i3-price.jpeg?quality=82&#038;strip=all&#038;w=1400",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://electrek.co/2026/09/30/bmw-announces-2027-i3-prices-range-up-to-468-miles/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-30T20:04:01.728Z",
+  "createdAt": "2026-09-30T20:04:11.883Z",
+  "updatedAt": "2026-09-30T20:04:11.884Z"
+}

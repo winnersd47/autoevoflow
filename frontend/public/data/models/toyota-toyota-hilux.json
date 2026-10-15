@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-hilux",
+  "slug": "toyota-toyota-hilux",
+  "name": "Toyota HiLux",
+  "fullName": "2026 Toyota HiLux",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The design of the all-new Toyota HiLux - both inside and out - marks a step up from the previous generation, giving the model new proportions and an unmistakeable identity.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Toyota-HiLux-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Toyota-HiLux-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/toyota/2026-hilux/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.440Z",
+  "createdAt": "2026-07-01T09:22:51.793Z",
+  "updatedAt": "2026-07-01T09:22:51.793Z"
+}

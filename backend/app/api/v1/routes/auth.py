@@ -102,11 +102,21 @@ REFRESH_TOKEN_BLACKLIST_PREFIX = "blacklist:refresh:"
 
 async def _blacklist_token(jti: str, cache: Any) -> None:
     ttl = settings.REFRESH_TOKEN_EXPIRE_DAYS * 86400
-    await cache.set(f"{REFRESH_TOKEN_BLACKLIST_PREFIX}{jti}", "1", ttl=ttl)
+    try:
+        await cache.set(f"{REFRESH_TOKEN_BLACKLIST_PREFIX}{jti}", "1", ttl=ttl)
+    except Exception:
+        # Redis unavailable (e.g. no local virtualization) — logout still
+        # succeeds client-side (cookies get cleared regardless); the token
+        # just won't be server-side revoked until it expires naturally.
+        logger.warning("Could not blacklist refresh token — Redis unavailable", jti=jti)
 
 
 async def _is_token_blacklisted(jti: str, cache: Any) -> bool:
-    return await cache.exists(f"{REFRESH_TOKEN_BLACKLIST_PREFIX}{jti}")
+    try:
+        return await cache.exists(f"{REFRESH_TOKEN_BLACKLIST_PREFIX}{jti}")
+    except Exception:
+        logger.warning("Could not check refresh token blacklist — Redis unavailable", jti=jti)
+        return False
 
 
 def _build_token_pair(user: User) -> TokenResponse:
@@ -207,7 +217,7 @@ async def update_me(
     return UserProfileResponse.model_validate(current_user)
 
 
-@router.post("/logout", status_code=status.HTTP_204_NO_CONTENT)
+@router.post("/logout", status_code=status.HTTP_204_NO_CONTENT, response_model=None)
 async def logout(body: RefreshRequest, cache: CacheClient) -> None:
     """Blacklist the provided refresh token."""
     try:

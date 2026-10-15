@@ -1,27 +1,53 @@
 'use client'
 
-import React, { useState } from 'react'
+import React, { Suspense, useState } from 'react'
 import Link from 'next/link'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { motion } from 'framer-motion'
-import { Mail, Lock, Eye, EyeOff, Zap, Info } from 'lucide-react'
+import { Mail, Lock, Eye, EyeOff, Zap, AlertCircle } from 'lucide-react'
+import { useAppStore, type AuthUser } from '@/store'
 
 export default function LoginPage() {
+  return (
+    <Suspense fallback={null}>
+      <LoginForm />
+    </Suspense>
+  )
+}
+
+function LoginForm() {
   const router = useRouter()
+  const searchParams = useSearchParams()
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [remember, setRemember] = useState(false)
   const [showPass, setShowPass] = useState(false)
   const [loading, setLoading] = useState(false)
+  const [error, setError] = useState('')
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
+    setError('')
     setLoading(true)
-    setTimeout(() => {
-      const user = { email: email || 'demo@autoevoflow.com', username: email.split('@')[0] || 'demo', role: 'user' }
-      localStorage.setItem('autoevoflow_user', JSON.stringify(user))
-      router.push('/dashboard')
-    }, 600)
+    try {
+      const res = await fetch('/api/auth/login', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, password }),
+      })
+      const data = await res.json() as { user?: AuthUser; error?: string }
+      if (!res.ok) {
+        setError(data.error || 'Invalid email or password')
+        setLoading(false)
+        return
+      }
+      useAppStore.getState().setAuth(data.user ?? null)
+      router.push(searchParams.get('next') || '/dashboard')
+      router.refresh()
+    } catch {
+      setError('Network error — is the server running?')
+      setLoading(false)
+    }
   }
 
   return (
@@ -41,13 +67,13 @@ export default function LoginPage() {
           <p className="text-text-secondary text-sm">Sign in to your AutoEvoFlow account</p>
         </div>
 
-        {/* Demo notice */}
-        <div className="flex items-start gap-3 p-4 rounded-xl bg-primary/10 border border-primary/20 mb-6 text-sm">
-          <Info className="w-4 h-4 text-primary mt-0.5 shrink-0" />
-          <span className="text-text-secondary">
-            <span className="text-primary font-semibold">Demo mode:</span> any email / password combination will work.
-          </span>
-        </div>
+        {/* Error */}
+        {error && (
+          <div className="flex items-start gap-3 p-4 rounded-xl bg-red-500/10 border border-red-500/20 mb-6 text-sm">
+            <AlertCircle className="w-4 h-4 text-red-400 mt-0.5 shrink-0" />
+            <span className="text-red-400">{error}</span>
+          </div>
+        )}
 
         {/* Card */}
         <div className="glass rounded-2xl border border-border p-8">

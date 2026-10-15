@@ -1,0 +1,26 @@
+{
+  "id": "ncs-honda-honda-civic-sport",
+  "slug": "honda-honda-civic-sport",
+  "name": "2026 Honda Civic Sport",
+  "fullName": "2026 Honda Civic Sport",
+  "brandId": "honda",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The sweetheart of the Honda Civic lineup best embraces the Japanese automaker's ethos: simplicity, efficiency, reliability, and driving enjoyment—all for a fair price. The post 2026 Honda Civic Sport ",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_8079.jpeg?quality=85",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_8079.jpeg?quality=85",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2026-honda-civic-sport-review",
+  "isLatest": true,
+  "scrapedAt": "2026-07-13T20:04:55.069Z",
+  "createdAt": "2026-07-13T20:05:05.172Z",
+  "updatedAt": "2026-07-13T20:05:05.172Z"
+}

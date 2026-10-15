@@ -334,5 +334,43 @@
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"
     }
+  ],
+  "latestCars": [
+    {
+      "id": "ncs-koenigsegg-2027-ccgt1",
+      "name": "Koenigsegg CCGT1",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Koenigsegg-CCGT1-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/koenigsegg/2027-ccgt1/",
+      "description": "CCGT1 has been designed to deliver both an exhilarating road-going experience and scintillating performance on track, thanks in part to Koenigsegg's first-ever...",
+      "scrapedAt": "2026-08-14T11:18:53.871Z"
+    },
+    {
+      "id": "rat-news-a71590375-koenigsegg-jesko-absolut-production-car-recor",
+      "name": "Koenigsegg Jesko Stomps Production Car Records for Quarter-Mile, Half-Mile Speed",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0fb8fa61-f931-4574-80f9-231aac46a74b.png",
+      "pageUrl": "https://www.roadandtrack.com/news/a71590375/koenigsegg-jesko-absolut-production-car-records-quarter-mile-half-mile-speed/",
+      "description": "Give the sleek Swede 1320 feet, and it'll give you 190 mph on the speedo.",
+      "scrapedAt": "2026-06-19T21:12:52.362Z"
+    },
+    {
+      "id": "cad-news-a71628845-koenigsegg-jesko-absolut-beats-speed-records",
+      "name": "Koenigsegg Jesko Absolut Just Blew Two Production-Car Speed Records to Smithereens",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/75e0d077-0720-408e-afcf-b8c65f56d601.png",
+      "pageUrl": "https://www.caranddriver.com/news/a71628845/koenigsegg-jesko-absolut-beats-speed-records/",
+      "description": "No all-wheel-drive grip. No electric assist. No prepped-surface trickery. Just a jaw-dropping 8.54 second quarter-mile time at 190 mph.",
+      "scrapedAt": "2026-06-22T06:50:59.029Z"
+    },
+    {
+      "id": "a777-2025-koenigsegg-koenigsegg-sadairs-spear",
+      "name": "Koenigsegg Sadairs Spear",
+      "year": 2025,
+      "imageUrl": null,
+      "pageUrl": "https://www.a777aa77.ru/news/",
+      "description": "2025 Koenigsegg Sadairs Spear (#256) Koenigsegg Sadairs Spear — воплощение инженерного совершенства и дань семейным традициям, представляющий собой новый этап в эволюции производительности бренда. Это",
+      "scrapedAt": "2026-07-31T06:37:22.269Z"
+    }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ferrari-ferrari-cz26",
+  "slug": "ferrari-ferrari-cz26",
+  "name": "Ferrari CZ26",
+  "fullName": "2026 Ferrari CZ26",
+  "brandId": "ferrari",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The stylistic theme of the Ferrari CZ26 is defined by a distinctly horizontal design, with a highly distinctive two-box silhouette. The car has a stable, road-hugging presence...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-CZ26-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-CZ26-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ferrari/2026-cz26/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-14T11:18:53.871Z",
+  "createdAt": "2026-08-14T11:18:54.746Z",
+  "updatedAt": "2026-08-14T11:18:54.746Z"
+}

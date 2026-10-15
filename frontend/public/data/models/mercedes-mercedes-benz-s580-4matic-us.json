@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-s580-4matic-us",
+  "slug": "mercedes-mercedes-benz-s580-4matic-us",
+  "name": "Mercedes-Benz S580 4Matic [US]",
+  "fullName": "2027 Mercedes-Benz S580 4Matic [US]",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Mercedes-Benz S-Class models are equipped with a water-cooled supercomputer, providing sufficient power reserves for future functions...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-S580_4Matic_US-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-S580_4Matic_US-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-s580_4matic_us-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-04T08:04:01.244Z",
+  "createdAt": "2026-08-04T08:04:02.077Z",
+  "updatedAt": "2026-08-04T08:04:02.077Z"
+}

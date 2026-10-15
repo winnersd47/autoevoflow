@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-ix3-m60-xdrive",
+  "slug": "bmw-bmw-ix3-m60-xdrive",
+  "name": "BMW iX3 M60 xDrive",
+  "fullName": "2027 BMW iX3 M60 xDrive",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "BMW iX3 M60 xDrive has one electric motor at the front axle and one at the rear. Together, they generate maximum output of 450 kW (612 hp) and peak torque of 875 Nm (645 lb-ft).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-iX3_M60_xDrive-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX3_M60_xDrive-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix3_m60_xdrive/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-08T02:04:00.866Z",
+  "createdAt": "2026-10-08T02:04:02.215Z",
+  "updatedAt": "2026-10-08T02:04:02.215Z"
+}

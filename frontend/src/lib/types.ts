@@ -222,6 +222,7 @@ export type EvolutionEdgeType =
   | "shares_platform"
   | "derived_from"
   | "inspired"
+  | "inspired_by"
   | "concept_to_production"
   | "facelifted_to"
   | "rebadged_as"
@@ -306,7 +307,7 @@ export interface SearchResponse {
 
 // ─── AI Analysis ─────────────────────────────────────────────────────────────
 
-export type AIProvider = "gpt-4o" | "claude-3-5" | "gemini-pro" | "ensemble";
+export type AIProvider = "gpt-4o" | "claude-3-5" | "gemini-pro" | "ensemble" | "yandex";
 
 export type AIAnalysisType =
   | "design_evolution"
@@ -393,6 +394,18 @@ export interface GraphNode {
   codeName?: string;
   isFacelift?: boolean;
   isConcept?: boolean;
+  /** Announced/planned model not yet officially revealed or in production */
+  isFuture?: boolean;
+  /** Company officially revealed the model with design/official photos — clears isFuture diamond style */
+  isRevealed?: boolean;
+  /** Exclusive limited-edition production model (numbered series) */
+  isLimited?: boolean;
+  /** Homologated racing variant (GT1/GT2/GT3/GT4/GTE/Cup, etc.) — not street-legal or a track-only special */
+  isRacing?: boolean;
+  /** Tuning atelier build — produced/heavily modified by an independent or official tuner atelier */
+  isTuning?: boolean;
+  /** Name of the tuning atelier who built this (e.g. "AMG", "Brabus", "RUF", "Alpina") */
+  atelierName?: string;
   /** Slug used to build /model/<modelSlug> link. Falls back to /brand/<brandId> if absent. */
   modelSlug?: string;
   /** NetCarShow-aligned body type — used for zone grouping in Timeline layout */
@@ -405,7 +418,21 @@ export interface GraphNode {
   hp?: number;
   /** Engine / drivetrain type — used for Force (powertrain) layout */
   engineType?: string;
+  /** Override family grouping key for Хроника/Древо layouts */
+  familyKey?: string;
   metadata?: Record<string, unknown>;
+  // ── A777 performance data (merged by scripts/merge-a777-to-graph.js) ─────
+  a777TopSpeed?:   number;   // km/h
+  a777Accel?:      number;   // 0-100 km/h seconds
+  a777Torque?:     number;   // Nm
+  a777Weight?:     number;   // kg
+  a777Price?:      number;   // USD
+  a777HpPerTon?:   number;   // hp/t
+  a777HpPerLiter?: number;   // hp/l
+  a777Nurb?:       string;   // Nürburgring lap time e.g. "7:18.89"
+  a777TopGear?:    string;   // Top Gear Track lap time
+  a777Hockenheim?: string;   // Hockenheim Short lap time
+  a777Tsukuba?:    string;   // Tsukuba Circuit lap time
 }
 
 export interface GraphEdge {
@@ -465,12 +492,20 @@ export interface CytoscapeNodeData {
   codeName?: string;
   isFacelift?: boolean;
   isConcept?: boolean;
+  isFuture?: boolean;
+  isTuning?: boolean;
+  isLimited?: boolean;
+  isRacing?: boolean;
+  atelierName?: string;
   modelSlug?: string;
   bodyType?: string;
   segment?: string;
   zone?: string;
   hp?: number;
   engineType?: string;
+  familyKey?: string;
+  a777Nurb?: string;
+  a777TopGear?: string;
 }
 
 export interface CytoscapeEdgeData {
@@ -523,7 +558,7 @@ export interface UserPreferences {
 
 // ─── Graph Layout ─────────────────────────────────────────────────────────────
 
-export type GraphLayoutType = "dagre" | "cola" | "cose" | "breadthfirst" | "timeline" | "force" | "zone" | "eras" | "fork" | "sync";
+export type GraphLayoutType = "dagre" | "cola" | "cose" | "breadthfirst" | "timeline" | "force" | "zone" | "eras" | "fork" | "sync" | "perf" | "track";
 
 // ─── Comparison ───────────────────────────────────────────────────────────────
 

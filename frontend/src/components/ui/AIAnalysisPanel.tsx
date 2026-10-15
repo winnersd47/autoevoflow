@@ -36,10 +36,11 @@ interface AIAnalysisPanelProps {
 // ─── Variant tab labels ────────────────────────────────────────────────────────
 
 const VARIANT_META: Record<string, { icon: React.ElementType; labelRu: string; labelEn: string; providerLabel: string }> = {
-  groq:     { icon: Cpu,    labelRu: 'Аналитический', labelEn: 'Analytical',  providerLabel: 'Groq · Llama 3.1' },
-  gemini:   { icon: Scroll, labelRu: 'Исторический',  labelEn: 'Historical',  providerLabel: 'Gemini Flash'     },
-  anthropic:{ icon: Sparkles,labelRu: 'Углублённый',  labelEn: 'Deep',        providerLabel: 'Claude'           },
-  default:  { icon: Sparkles,labelRu: 'Анализ',       labelEn: 'Analysis',    providerLabel: 'AI'               },
+  groq:     { icon: Cpu,     labelRu: 'Аналитический', labelEn: 'Analytical',  providerLabel: 'Groq · Llama 3.1' },
+  gemini:   { icon: Scroll,  labelRu: 'Исторический',  labelEn: 'Historical',  providerLabel: 'Gemini Flash'     },
+  anthropic:{ icon: Sparkles,labelRu: 'Углублённый',   labelEn: 'Deep',        providerLabel: 'Claude'           },
+  yandex:   { icon: Zap,     labelRu: 'Экспертный',    labelEn: 'Expert',      providerLabel: 'YandexGPT Pro'    },
+  default:  { icon: Sparkles,labelRu: 'Анализ',        labelEn: 'Analysis',    providerLabel: 'AI'               },
 }
 
 // ─── Typewriter ────────────────────────────────────────────────────────────────

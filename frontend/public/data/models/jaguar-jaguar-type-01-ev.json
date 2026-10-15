@@ -1,0 +1,26 @@
+{
+  "id": "ncs-jaguar-jaguar-type-01-ev",
+  "slug": "jaguar-jaguar-type-01-ev",
+  "name": "2028 Jaguar Type 01 EV",
+  "fullName": "2028 Jaguar Type 01 EV",
+  "brandId": "jaguar",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "Is everybody ready to be calm and normal about the new Jaguar yet?",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2028-jaguar-type-01-ev-revealed-with-1015-hp-a-400-mile-range-and-even-wilder-looks-than-the-concept/intro-1791325552.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2028-jaguar-type-01-ev-revealed-with-1015-hp-a-400-mile-range-and-even-wilder-looks-than-the-concept/intro-1791325552.jpg",
+  "tags": [
+    "new",
+    "2028"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2279539/2028-jaguar-type-01-ev-reveal-design-specs-details/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-07T03:07:28.425Z",
+  "createdAt": "2026-10-07T03:07:28.803Z",
+  "updatedAt": "2026-10-07T03:07:28.804Z"
+}

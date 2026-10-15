@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ford-ford-bronco-rtr",
+  "slug": "ford-ford-bronco-rtr",
+  "name": "Ford Bronco RTR",
+  "fullName": "2027 Ford Bronco RTR",
+  "brandId": "ford",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Bronco RTR shifts the focus toward high-speed desert performance. The standard suspension is a unique wide track HOSS 1.0 suspension combining a suspension lift with 33-inch tires.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ford-Bronco_RTR-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ford-Bronco_RTR-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ford/2027-bronco_rtr/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-07T02:04:01.032Z",
+  "createdAt": "2026-10-07T02:04:11.134Z",
+  "updatedAt": "2026-10-07T02:04:11.135Z"
+}

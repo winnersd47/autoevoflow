@@ -636,6 +636,42 @@
   ],
   "latestCars": [
     {
+      "id": "cad-bmw-m3-ev",
+      "name": "2028 BMW M3 EV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
+      "pageUrl": "https://www.caranddriver.com/bmw/m3-ev",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-25T03:03:42.758Z"
+    },
+    {
+      "id": "cad-bmw-im3",
+      "name": "2028 BMW M3 EV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bf789494-638e-4f8b-97ca-c99ff766c9cf.jpg",
+      "pageUrl": "https://www.caranddriver.com/bmw/im3",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-25T03:03:42.758Z"
+    },
+    {
+      "id": "cad-bmw-m3-2028",
+      "name": "2028 BMW M3",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e58374fd-8473-40a0-8137-888057a9b10b.jpg",
+      "pageUrl": "https://www.caranddriver.com/bmw/m3-2028",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-25T03:03:42.758Z"
+    },
+    {
+      "id": "carscoops-2026-08-2028-bmw-m3-ev-spied",
+      "name": "2028 BMW M3 EV Lacks Exhaust, But Not Power",
+      "year": 2028,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/08/SB15520-copy-1-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/08/2028-bmw-m3-ev-spied/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/08/SB15520-copy-1-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15p",
+      "scrapedAt": "2026-08-04T02:04:01.385Z"
+    },
+    {
       "id": "ncs-bmw-2027-m2_with_m_xdrive",
       "name": "BMW M2 with M xDrive",
       "year": 2027,
@@ -663,157 +699,121 @@
       "scrapedAt": "2026-06-10T03:06:57.329Z"
     },
     {
-      "id": "ncs-bmw-2026-vision_alpina_concept",
-      "name": "BMW Vision Alpina Concept",
-      "year": 2026,
-      "imageUrl": "https://www.netcarshow.com/BMW-Vision_Alpina_Concept-2026-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2026-vision_alpina_concept/",
-      "description": "Vision BMW ALPINA is a respectful interpretation of the brand's heritage, shaped by the most contemporary creative instincts. At 5,200 mm in length, its presence is substantial...",
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "id": "ncs-bmw-2027-ix5",
+      "name": "BMW iX5",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/BMW-iX5-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-ix5/",
+      "description": "BMW iX5 60 xDrive uses one electric motor at each axle, producing a combined 570 hp and 593 lb-ft of torque. It accelerates from 0 to 60 mph in an estimated 4.4 seconds...",
+      "scrapedAt": "2026-07-01T09:22:51.439Z"
     },
     {
-      "id": "carscoops-2026-06-gran-turismo-7-june-update",
-      "name": "Gran Turismo 7&#8217;s June Update Hands You BMW And Ferrari Racers For Free",
-      "year": 2026,
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg",
-      "pageUrl": "https://www.carscoops.com/2026/06/gran-turismo-7-june-update/",
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/i1YY1Fp8dMeNNEc-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-botto",
-      "scrapedAt": "2026-06-11T12:08:04.448Z"
+      "id": "ncs-bmw-2027-x5_m60e",
+      "name": "BMW X5 M60e",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/BMW-X5_M60e-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-x5_m60e/",
+      "description": "BMW X5 M60e xDrive creates visual highlights emphasising its role as the sporting flagship, while the M Sport package and the M Sport package Pro provide...",
+      "scrapedAt": "2026-07-01T09:22:51.439Z"
     },
     {
-      "id": "carscoops-2026-06-bmw-ix5-x5-powertrains",
-      "name": "BMW Just Stuffed Its Biggest Battery Ever Into The New X5",
-      "year": 2026,
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg",
-      "pageUrl": "https://www.carscoops.com/2026/06/bmw-ix5-x5-powertrains/",
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-v2-Jun15261-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bo",
-      "scrapedAt": "2026-06-15T22:34:51.683Z"
+      "id": "ncs-bmw-2027-x5",
+      "name": "BMW X5",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/BMW-X5-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-x5/",
+      "description": "The new BMW X5 introduces an all-new design with a powerful, monolithic appearance that blends classic BMW SAV proportions with contemporary Neue Klasse design language.",
+      "scrapedAt": "2026-07-01T09:22:51.439Z"
     },
     {
-      "id": "ncs-bmw-2025-speedtop_concept",
-      "name": "BMW Speedtop Concept",
-      "year": 2025,
-      "imageUrl": "https://www.netcarshow.com/BMW-Speedtop_Concept-2025-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2025-speedtop_concept/",
-      "description": "BMW Concept Speedtop shares its eye-catching form language with the BMW Skytop and will be offered to collectors and connoisseurs in a strictly limited small series.",
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "id": "rat-news-a71780683-2027-bmw-x5-neue-klasse-design-five-powertrai",
+      "name": "The New 2027 BMW X5 Brings a Fresh Face And a Buyer's Choice of 5 Powertrains",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0ba310ed-0043-4235-8ddf-a0ff77ed4475.jpg",
+      "pageUrl": "https://www.roadandtrack.com/news/a71780683/2027-bmw-x5-neue-klasse-design-five-powertrains/",
+      "description": "The fan-favorite luxury SUV is making the jump to the Neue Klasse era in style.",
+      "scrapedAt": "2026-07-01T09:22:51.338Z"
     },
     {
-      "id": "ncs-bmw-2024-skytop_concept",
-      "name": "BMW Skytop Concept",
-      "year": 2024,
-      "imageUrl": "https://www.netcarshow.com/BMW-Skytop_Concept-2024-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2024-skytop_concept/",
-      "description": "The clean exterior of the BMW Concept Skytop is designed to inspire a desire to travel. Its taut, muscular surfaces are defined by a few precise lines...",
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "id": "carscoops-2026-06-bmw-x5-redesign-ix5",
+      "name": "2027 BMW X5 Drops Door Handles For Wings, Adds A 435-Mile Electric iX5",
+      "year": 2027,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/06/bmw-x5-redesign-ix5/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/BMW-X5-lead-Jun29261-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-",
+      "scrapedAt": "2026-07-01T09:22:51.326Z"
     },
     {
-      "id": "ncs-bmw-2024-vision_neue_klasse_x_concept",
-      "name": "BMW Vision Neue Klasse X Concept",
-      "year": 2024,
-      "imageUrl": "https://www.netcarshow.com/BMW-Vision_Neue_Klasse_X_Concept-2024-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2024-vision_neue_klasse_x_concept/",
-      "description": "BMW Vision Neue Klasse X brings the aesthetics, technology, sustainability, and philosophy of the Neue Klasse to the Sports Activity Vehicles sector.",
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "id": "cad-photos-g71783044-2027-bmw-x5-hybrid-revealed-interior-galler",
+      "name": "View Interior Photos of the 2027 BMW X5 Hybrid",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/32de6851-711e-4f86-bdf0-eacb328e6148.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71783044/2027-bmw-x5-hybrid-revealed-interior-gallery/",
+      "description": "See the interior of the 2027 BMW X5 Hybrid, now in its fifth generation.",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
     },
     {
-      "id": "ncs-bmw-2023-touring_coupe_concept",
-      "name": "BMW Touring Coupe Concept",
-      "year": 2023,
-      "imageUrl": "https://www.netcarshow.com/BMW-Touring_Coupe_Concept-2023-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2023-touring_coupe_concept/",
-      "description": "The design highlight of the BMW Concept Touring Coupe is its sculpted rear end. Created from the flowing contours of the roof, which merge seamlessly with the rear side...",
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "id": "cad-photos-g71783043-2027-bmw-x5-hybrid-revealed-exterior-galler",
+      "name": "View Exterior Photos of the 2027 BMW X5 Hybrid",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/59a0bd7e-4dd2-41fd-a6a4-4992e68ed23f.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71783043/2027-bmw-x5-hybrid-revealed-exterior-gallery/",
+      "description": "See the fifth-generation debut of the 2027 BMW X5 Hybrid exterior.",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
     },
     {
-      "id": "ncs-bmw-2023-vision_neue_klasse_concept",
-      "name": "BMW Vision Neue Klasse Concept",
-      "year": 2023,
-      "imageUrl": "https://www.netcarshow.com/BMW-Vision_Neue_Klasse_Concept-2023-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2023-vision_neue_klasse_concept/",
-      "description": "Analogue operating controls have been reduced to a minimum in the BMW Vision Neue Klasse. Human-car interaction takes place through the BMW Panoramic Vision, the Central Display...",
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "id": "cad-photos-g71763961-2027-bmw-ix5-revealed-gallery",
+      "name": "View Photos of the 2027 BMW iX5",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ea0f53ad-2f34-44cd-98a3-28f9f3cb4e6f.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71763961/2027-bmw-ix5-revealed-gallery/",
+      "description": "See the new BMW iX5 inside and out from every angle",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
     },
     {
-      "id": "ncs-bmw-2021-i_vision_circular_concept",
-      "name": "BMW i Vision Circular Concept",
-      "year": 2021,
-      "imageUrl": "https://www.netcarshow.com/BMW-i_Vision_Circular_Concept-2021-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2021-i_vision_circular_concept/",
-      "description": "The overriding design aim for the BMW i Vision Circular was to create a vehicle that is optimised for closed materials cycles and achieves 100% use of recycled...",
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "id": "cad-bmw-x5-hybrid-2027",
+      "name": "2027 BMW X5 Hybrid",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/018e66c5-f198-4f56-8735-17040a82f8fc.jpg",
+      "pageUrl": "https://www.caranddriver.com/bmw/x5-hybrid-2027",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
     },
     {
-      "id": "ncs-bmw-2021-xm_concept",
-      "name": "BMW XM Concept",
-      "year": 2021,
-      "imageUrl": "https://www.netcarshow.com/BMW-XM_Concept-2021-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2021-xm_concept/",
-      "description": "The bold exterior styling of the Concept XM reflects the car's exceptional performance attributes: dynamism, agility and precision, plus an all-electric range...",
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "id": "cad-photos-g71770700-2027-bmw-x5-revealed-gallery",
+      "name": "View Photos of the 2027 BMW X5",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/656dbecf-cefc-4530-bade-7aee110a1f4c.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71770700/2027-bmw-x5-revealed-gallery/",
+      "description": "See photos of BMW's new X5 SUV and judge its styling for yourself.",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
     },
     {
-      "id": "ncs-bmw-2020-i4_concept",
-      "name": "BMW i4 Concept",
-      "year": 2020,
-      "imageUrl": "https://www.netcarshow.com/BMW-i4_Concept-2020-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2020-i4_concept/",
-      "description": "The front-end treatment of the BMW Concept i4 presents the familiar BMW icons in a new look, lending a visually powerful face to the electric age at BMW.",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "cad-news-a71781672-2027-bmw-x5-ix5-revealed",
+      "name": "2027 BMW X5 Enters a Neue Era with a Never-Before-Available Powertrain",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0e199cb8-1a05-4e51-9443-bab650105115.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71781672/2027-bmw-x5-ix5-revealed/",
+      "description": "The fifth-generation X5 adopts BMW's newest design language and is available as the iX5 EV for the first time.",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
     },
     {
-      "id": "ncs-bmw-2019-vision_m_next_concept",
-      "name": "BMW Vision M Next Concept",
-      "year": 2019,
-      "imageUrl": "https://www.netcarshow.com/BMW-Vision_M_Next_Concept-2019-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2019-vision_m_next_concept/",
-      "description": "The actual driving experience in the BMW Vision M NEXT is every bit as captivating as its exterior looks. The Power PHEV drive system in offers the choice...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "cad-bmw-ix5-2027",
+      "name": "2027 BMW iX5",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/4ee8012d-9741-4b0e-90d5-e02e105477ec.jpg",
+      "pageUrl": "https://www.caranddriver.com/bmw/ix5-2027",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
     },
     {
-      "id": "ncs-bmw-2019-4_concept",
-      "name": "BMW 4 Concept",
-      "year": 2019,
-      "imageUrl": "https://www.netcarshow.com/BMW-4_Concept-2019-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2019-4_concept/",
-      "description": "BMW Concept 4 displays BMW's signature proportions at their most modern form yet. The stretched bonnet, long wheelbase, flowing roofline and short overhangs...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-bmw-2017-z4_concept",
-      "name": "BMW Z4 Concept",
-      "year": 2017,
-      "imageUrl": "https://www.netcarshow.com/BMW-Z4_Concept-2017-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2017-z4_concept/",
-      "description": "The BMW Concept Z4 adopts classical roadster design cues, such as a long wheelbase, a low-slung, stretched silhouette and a compact rear end...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-bmw-2016-2002_hommage_concept",
-      "name": "BMW 2002 Hommage Concept",
-      "year": 2016,
-      "imageUrl": "https://www.netcarshow.com/BMW-2002_Hommage_Concept-2016-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2016-2002_hommage_concept/",
-      "description": "The BMW Group has created a very special car for the 2016 Concorso d'Eleganza Villa d'Este to pay tribute to one of the most significant models in its...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-bmw-2015-3.0_csl_hommage_concept",
-      "name": "BMW 3.0 CSL Hommage Concept",
-      "year": 2015,
-      "imageUrl": "https://www.netcarshow.com/BMW-3.0_CSL_Hommage_Concept-2015-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2015-3.0_csl_hommage_concept/",
-      "description": "Amid the audacious design studies and automotive beauties from a bygone era gathered at the 2015 Concorso d'Eleganza Villa d'Este, the BMW Group presented...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-bmw-2014-vision_future_luxury_concept",
-      "name": "BMW Vision Future Luxury Concept",
-      "year": 2014,
-      "imageUrl": "https://www.netcarshow.com/BMW-Vision_Future_Luxury_Concept-2014-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/bmw/2014-vision_future_luxury_concept/",
-      "description": "The BMW Vision Future Luxury furnishes a long-term outlook on the perception of modern luxury for the BMW brand. It stands for a forward-looking fusion of...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "cad-bmw-m2-2027",
+      "name": "2027 BMW M2",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m2-125-693af3d1d5f80.jpg",
+      "pageUrl": "https://www.caranddriver.com/bmw/m2-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-08-26T20:04:01.321Z"
     }
   ]
 }

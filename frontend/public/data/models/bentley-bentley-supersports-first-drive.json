@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bentley-bentley-supersports-first-drive",
+  "slug": "bentley-bentley-supersports-first-drive",
+  "name": "2027 Bentley Supersports First-Drive",
+  "fullName": "2027 Bentley Supersports First-Drive",
+  "brandId": "bentley",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Bentley's new track-day special is about as silly as you'd expect and as quick as you'd hope. The post 2027 Bentley Supersports First-Drive Review: The Lightweight Sports Car Bentley Should&#8217;ve B",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/08/IMG_0039.jpg?quality=85&amp;w=2048",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/08/IMG_0039.jpg?quality=85&amp;w=2048",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2027-bentley-supersports-first-drive-review",
+  "isLatest": true,
+  "scrapedAt": "2026-09-01T02:04:00.973Z",
+  "createdAt": "2026-09-01T02:04:02.504Z",
+  "updatedAt": "2026-09-01T02:04:02.504Z"
+}

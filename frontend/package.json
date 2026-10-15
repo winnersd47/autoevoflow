@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3200",
+    "dev": "cross-env NODE_OPTIONS=--max-old-space-size=4096 next dev -p 3200",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
@@ -13,9 +13,16 @@
     "sync:latest": "node scripts/sync-latest-to-project.js",
     "validate": "node scripts/validate-graph.js",
     "check:access": "node scripts/check-public-access.js",
-    "update:latest": "npm run scrape:latest && npm run sync:latest && npm run validate"
+    "merge:a777": "node scripts/merge-a777-to-graph.js",
+    "patch:limited": "node scripts/patch-limited.js",
+    "update:latest": "npm run scrape:latest && npm run sync:latest && npm run validate",
+    "update:graph": "npm run merge:a777 && npm run validate",
+    "publish:stories": "node scripts/publish-new-stories.js",
+    "publish:dry": "node scripts/publish-new-stories.js --dry-run",
+    "publish:model": "node scripts/publish-new-stories.js --model"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.105.0",
     "@next/bundle-analyzer": "^14.2.5",
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-dropdown-menu": "^2.1.1",
@@ -42,6 +49,7 @@
     "cytoscape-dagre": "^2.5.0",
     "d3": "^7.9.0",
     "framer-motion": "^11.3.21",
+    "jose": "^6.2.12",
     "lucide-react": "^0.414.0",
     "next": "14.2.5",
     "react": "^18.3.1",

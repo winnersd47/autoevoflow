@@ -75,7 +75,7 @@ export default function BrandsPage() {
                         b.country.toLowerCase().includes(search.toLowerCase())
     const matchTag = activeTag === 'all' || b.tag === activeTag
     return matchSearch && matchTag
-  })
+  }).sort((a, b) => a.name.localeCompare(b.name))
 
   return (
     <div className="min-h-screen px-6 py-12">

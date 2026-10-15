@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-z-just",
+  "slug": "nissan-nissan-z-just",
+  "name": "2027 Nissan Z Just",
+  "fullName": "2027 Nissan Z Just",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The 2027 Nissan Z is $1,510 pricier than last year's, but you do get some improvements—including that sweet Shinkai Green Pearl Metallic. The post 2027 Nissan Z Just Got More Expensive. But Look at It",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/27OMP_Zb026_13MAR26.jpg?quality=85",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/27OMP_Zb026_13MAR26.jpg?quality=85",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/news/2027-nissan-z-just-got-more-expensive-but-look-at-it",
+  "isLatest": true,
+  "scrapedAt": "2026-07-24T10:10:44.399Z",
+  "createdAt": "2026-07-24T10:10:54.580Z",
+  "updatedAt": "2026-07-24T10:10:54.580Z"
+}

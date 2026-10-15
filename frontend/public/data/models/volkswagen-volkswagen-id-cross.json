@@ -1,0 +1,26 @@
+{
+  "id": "ncs-volkswagen-volkswagen-id-cross",
+  "slug": "volkswagen-volkswagen-id-cross",
+  "name": "Volkswagen ID.Cross",
+  "fullName": "2027 Volkswagen ID.Cross",
+  "brandId": "volkswagen",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With its clear and timeless design, the ID.Cross sets new standards in the compact SUV segment. Volkswagen's Pure Positive design language focuses above all on visual stability...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.Cross-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.Cross-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/volkswagen/2027-id.cross/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-31T06:37:22.511Z",
+  "createdAt": "2026-07-31T06:37:23.527Z",
+  "updatedAt": "2026-07-31T06:37:23.527Z"
+}

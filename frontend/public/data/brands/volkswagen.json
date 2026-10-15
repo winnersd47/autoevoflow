@@ -6409,6 +6409,24 @@
   ],
   "latestCars": [
     {
+      "id": "ncs-volkswagen-2028-id.3_gti",
+      "name": "Volkswagen ID.3 GTI",
+      "year": 2028,
+      "imageUrl": "https://www.netcarshow.com/Volkswagen-ID.3_GTI-2028-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/volkswagen/2028-id.3_gti/",
+      "description": "The electric drive motor of the ID.3 GTI delivers exactly 240 kW (326 PS) to the rear axle. Especially impressive is the maximum torque of 545 Nm.",
+      "scrapedAt": "2026-09-16T13:03:54.119Z"
+    },
+    {
+      "id": "cad-volkswagen-id-tiguan-2028",
+      "name": "2028 Volkswagen ID. Tiguan",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c377f31a-2270-4659-b239-f4c9e9981d5c.jpg",
+      "pageUrl": "https://www.caranddriver.com/volkswagen/id-tiguan-2028",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-09-28T14:04:01.411Z"
+    },
+    {
       "id": "ncs-volkswagen-2027-id.polo_gti",
       "name": "Volkswagen ID.Polo GTI",
       "year": 2027,
@@ -6416,6 +6434,87 @@
       "pageUrl": "https://www.netcarshow.com/volkswagen/2027-id.polo_gti/",
       "description": "With its clear design, GTI features and powerful front-wheel drive, the ID.Polo GTI continues the legacy of the first Golf GTI from 1976.",
       "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-volkswagen-2027-id.cross",
+      "name": "Volkswagen ID.Cross",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Volkswagen-ID.Cross-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/volkswagen/2027-id.cross/",
+      "description": "With its clear and timeless design, the ID.Cross sets new standards in the compact SUV segment. Volkswagen's Pure Positive design language focuses above all on visual stability...",
+      "scrapedAt": "2026-07-31T06:37:22.511Z"
+    },
+    {
+      "id": "motor1-news-804369-2027-volkswagen-atlas-cross-sport-debut-details",
+      "name": "2027 Volkswagen Atlas Cross Sport",
+      "year": 2027,
+      "imageUrl": "https://cdn.motor1.com/images/mgl/koKjVP/s3/2027-volkswagen-atlas-cross-sport.jpg",
+      "pageUrl": "https://www.motor1.com/news/804369/2027-volkswagen-atlas-cross-sport-debut-details/",
+      "description": "The five-seat Atlas Cross Sport gets a sharper look, upgraded cabin, and 282-horsepower engine.",
+      "scrapedAt": "2026-08-10T14:04:02.104Z"
+    },
+    {
+      "id": "ncs-volkswagen-2027-atlas_cross_sport",
+      "name": "Volkswagen Atlas Cross Sport",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Volkswagen-Atlas_Cross_Sport-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/volkswagen/2027-atlas_cross_sport/",
+      "description": "2027 Volkswagen Atlas Cross Sport has an even more premium look than the outgoing vehicle thanks to all-new sheet metal and dynamic front and rear lighting.",
+      "scrapedAt": "2026-08-13T07:18:53.704Z"
+    },
+    {
+      "id": "drv-auto-news-news-2027-volkswagen-atlas-canadian-pricing-53795",
+      "name": "2027 Volkswagen Atlas starts at $53,795 in Canada",
+      "year": 2027,
+      "imageUrl": "",
+      "pageUrl": "https://driving.ca/auto-news/news/2027-volkswagen-atlas-canadian-pricing-53795",
+      "description": "The all-new second-gen Atlas will be available at Canadian dealerships this fall",
+      "scrapedAt": "2026-08-18T14:04:00.835Z"
+    },
+    {
+      "id": "ncs-volkswagen-2027-id.polo",
+      "name": "Volkswagen ID.Polo",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Volkswagen-ID.Polo-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/volkswagen/2027-id.polo/",
+      "description": "ID.Polo is the first production model to completely follow the new Volkswagen Pure Positive design language of Chief Designer Andreas Mindt.",
+      "scrapedAt": "2026-09-09T14:04:01.407Z"
+    },
+    {
+      "id": "cad-reviews-a73984038-2027-volkswagen-atlas-sel-premium-r-line-t",
+      "name": "2027 Volkswagen Atlas",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e7d0b37f-3507-4f17-ba80-4b41bdb5294d.jpg",
+      "pageUrl": "https://www.caranddriver.com/reviews/a73984038/2027-volkswagen-atlas-sel-premium-r-line-test/",
+      "description": "The second-generation Atlas proves to be worth the wait.",
+      "scrapedAt": "2026-10-06T14:04:01.256Z"
+    },
+    {
+      "id": "ncs-volkswagen-2027-id.tiguan",
+      "name": "Volkswagen ID.Tiguan",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Volkswagen-ID.Tiguan-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/volkswagen/2027-id.tiguan/",
+      "description": "Volkswagen has specifically incorporated customer requests into the development of the new ID.Tiguan, implementing countless enhancements and advanced technologies.",
+      "scrapedAt": "2026-10-09T11:18:53.774Z"
+    },
+    {
+      "id": "cad-photos-g71772008-2026-volkswagen-atlas-sel-premium-r-line-te",
+      "name": "View Photos of the 2026 Volkswagen Atlas SEL Premium R-Line",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f453eb08-0878-47fa-9c97-84e07e20fcd6.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71772008/2026-volkswagen-atlas-sel-premium-r-line-test-gallery/",
+      "description": "See the interior and exterior of the 2026 Volkswagen Atlas SEL Premium R-Line from every angle.",
+      "scrapedAt": "2026-07-03T23:07:30.353Z"
+    },
+    {
+      "id": "cad-photos-g70868423-2026-volkswagen-golf-r-reliability-maintena",
+      "name": "2026 Volkswagen Golf R",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ce379142-adab-4260-b4ec-0f030c185f77.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g70868423/2026-volkswagen-golf-r-reliability-maintenance-exterior-gallery/",
+      "description": "See the exterior of the 2026 Volkswagen Golf R from every angle.",
+      "scrapedAt": "2026-08-10T20:04:01.671Z"
     },
     {
       "id": "ncs-volkswagen-2005-ecoracer_prototype",

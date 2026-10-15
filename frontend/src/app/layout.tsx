@@ -1,13 +1,14 @@
-"use client";
-
 import React from "react";
+import { cookies } from "next/headers";
+
+export const dynamic = 'force-static';
 import { Inter, Orbitron } from "next/font/google";
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import "@/styles/globals.css";
 import Navigation from "@/components/layout/Navigation";
 import ParticleBackground from "@/components/three/ParticleBackground";
-import { LocaleProvider } from "@/contexts/LocaleContext";
+import { AppProviders } from "@/components/providers/AppProviders";
+import { fetchProfile, toAuthUser } from "@/lib/auth-cookies";
+import type { AuthUser } from "@/store";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -22,17 +23,16 @@ const orbitron = Orbitron({
   weight: ["400", "500", "600", "700", "800", "900"],
 });
 
-const queryClient = new QueryClient({
-  defaultOptions: {
-    queries: {
-      staleTime: 60 * 1000,
-      retry: 2,
-      refetchOnWindowFocus: false,
-    },
-  },
-});
+async function resolveInitialUser(): Promise<AuthUser | null> {
+  const token = cookies().get("access_token")?.value;
+  if (!token) return null;
+  const profile = await fetchProfile(token);
+  return profile ? toAuthUser(profile) : null;
+}
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
+  const initialUser = await resolveInitialUser();
+
   return (
     <html lang="en" className={`${inter.variable} ${orbitron.variable} dark`} suppressHydrationWarning>
       <head>
@@ -44,8 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <title>AutoEvoFlow</title>
       </head>
       <body className={`font-sans bg-background text-text-primary antialiased min-h-screen overflow-x-hidden`}>
-        <QueryClientProvider client={queryClient}>
-          <LocaleProvider>
+        <AppProviders initialUser={initialUser}>
           {/* Ambient background */}
           <div className="fixed inset-0 pointer-events-none z-0">
             <div className="absolute inset-0 bg-gradient-radial from-accent/20 via-background to-background" />
@@ -87,10 +86,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </div>
             </div>
           </footer>
-
-          {process.env["NODE_ENV"] === "development" && <ReactQueryDevtools />}
-          </LocaleProvider>
-        </QueryClientProvider>
+        </AppProviders>
       </body>
     </html>
   );

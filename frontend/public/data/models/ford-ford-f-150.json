@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ford-ford-f-150",
+  "slug": "ford-ford-f-150",
+  "name": "2027 Ford F-150",
+  "fullName": "2027 Ford F-150",
+  "brandId": "ford",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The King Ranch and Platinum are once again available with the 5.0-liter Coyote, and Ford is rolling out a new base engine for the F-150. The post 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/news/2027-ford-f-150-ditches-2-7l-ecoboost-adds-v8-back-to-top-trims",
+  "isLatest": true,
+  "scrapedAt": "2026-08-04T20:04:01.518Z",
+  "createdAt": "2026-08-04T20:04:02.352Z",
+  "updatedAt": "2026-08-04T20:04:02.352Z"
+}

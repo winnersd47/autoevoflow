@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bentley-bentley-torcal-breaks",
+  "slug": "bentley-bentley-torcal-breaks",
+  "name": "2028 Bentley Torcal Breaks",
+  "fullName": "2028 Bentley Torcal Breaks",
+  "brandId": "bentley",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "After 107 years of building gasoline-powered luxury cars, Bentley enters the electric era with the all-new Torcal SUV.",
+  "generationCount": 1,
+  "heroImageUrl": "https://hips.hearstapps.com/hmg-prod/images/02fd6786-4fd6-4c66-8d79-9a9f88d77246.png",
+  "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/02fd6786-4fd6-4c66-8d79-9a9f88d77246.png",
+  "tags": [
+    "new",
+    "2028"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.autoweek.com/news/a73868893/2028-bentley-torcal-reveal/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-24T20:04:01.506Z",
+  "createdAt": "2026-09-24T20:04:03.148Z",
+  "updatedAt": "2026-09-24T20:04:03.148Z"
+}

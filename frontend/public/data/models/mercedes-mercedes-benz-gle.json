@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-gle",
+  "slug": "mercedes-mercedes-benz-gle",
+  "name": "2027 Mercedes-Benz GLE",
+  "fullName": "2027 Mercedes-Benz GLE",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Mercedes gives its bestselling luxury SUVs more power, more technology, and a smoother ride without reinventing either formula.",
+  "generationCount": 1,
+  "heroImageUrl": "https://hips.hearstapps.com/hmg-prod/images/07d5bb4d-80f3-4aff-8ab2-eb95422b0627.jpg",
+  "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/07d5bb4d-80f3-4aff-8ab2-eb95422b0627.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.autoweek.com/news/a74072991/2027-mercedes-benz-gle-gls-drive-review/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-09T02:04:01.194Z",
+  "createdAt": "2026-10-09T02:04:02.034Z",
+  "updatedAt": "2026-10-09T02:04:02.035Z"
+}

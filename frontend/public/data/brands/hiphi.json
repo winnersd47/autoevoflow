@@ -1,0 +1,103 @@
+{
+  "id": "brand-hiphi",
+  "slug": "hiphi",
+  "name": "HiPhi",
+  "fullName": "HiPhi (高合)",
+  "country": "China",
+  "countryCode": "CN",
+  "foundingYear": 2019,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "",
+  "description": "HiPhi (高合) is a Chinese ultra-luxury EV brand. The HiPhi X features 6 active scissor doors and a fully programmable body panel system — the most technologically ambitious BEV from China.",
+  "parentCompany": "Human Horizons",
+  "headquarters": "Shanghai, China",
+  "modelCount": 3,
+  "generationCount": 3,
+  "tags": [
+    "china",
+    "ev",
+    "ultra-luxury",
+    "automotive"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "models": [
+    {
+      "id": "m-hiphi-x",
+      "slug": "hiphi-x",
+      "name": "HiPhi X",
+      "fullName": "HiPhi HiPhi X",
+      "brandId": "brand-hiphi",
+      "bodyType": "suv",
+      "segment": "fullsize_suv",
+      "primaryMarket": "china",
+      "startYear": 2021,
+      "endYear": null,
+      "isActive": true,
+      "description": null,
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "hiphi",
+        "suv",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-hiphi-z",
+      "slug": "hiphi-z",
+      "name": "HiPhi Z",
+      "fullName": "HiPhi HiPhi Z",
+      "brandId": "brand-hiphi",
+      "bodyType": "coupe",
+      "segment": "gt",
+      "primaryMarket": "china",
+      "startYear": 2022,
+      "endYear": null,
+      "isActive": true,
+      "description": null,
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "hiphi",
+        "coupe",
+        "2022"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "m-hiphi-y",
+      "slug": "hiphi-y",
+      "name": "HiPhi Y",
+      "fullName": "HiPhi HiPhi Y",
+      "brandId": "brand-hiphi",
+      "bodyType": "suv",
+      "segment": "midsize_suv",
+      "primaryMarket": "china",
+      "startYear": 2023,
+      "endYear": null,
+      "isActive": true,
+      "description": null,
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "hiphi",
+        "suv",
+        "2023"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

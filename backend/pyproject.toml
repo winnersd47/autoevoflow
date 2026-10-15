@@ -93,7 +93,6 @@ module = [
     "jose.*",
     "pgvector.*",
     "PIL.*",
-    "anthropic.*",
     "prometheus_client.*",
     "transformers.*",
     "torch.*",

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-hennessey-hennessey-blackbird",
+  "slug": "hennessey-hennessey-blackbird",
+  "name": "Hennessey Blackbird",
+  "fullName": "2030 Hennessey Blackbird",
+  "brandId": "hennessey",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2030,
+  "isActive": true,
+  "description": "Hennessey Blackbird is a deliberate counterpoint to the hypercar world's drift toward greater weight, complexity, electrification, and digital mediation.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Hennessey-Blackbird-2030-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Hennessey-Blackbird-2030-thb.jpg",
+  "tags": [
+    "new",
+    "2030"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/hennessey/2030-blackbird/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-03T14:04:01.246Z",
+  "createdAt": "2026-08-03T14:04:01.988Z",
+  "updatedAt": "2026-08-03T14:04:01.988Z"
+}

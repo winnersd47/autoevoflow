@@ -1,0 +1,26 @@
+{
+  "id": "ncs-zenvo-zenvo-aurora-tur",
+  "slug": "zenvo-zenvo-aurora-tur",
+  "name": "Zenvo Aurora Tur",
+  "fullName": "2028 Zenvo Aurora Tur",
+  "brandId": "zenvo",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "Aurora is the most significant car in Zenvo's 19-year history. Created to define a new era for the Danish hypercar manufacturer, it has been developed from the ground up...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Zenvo-Aurora_Tur-2028-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Zenvo-Aurora_Tur-2028-thb.jpg",
+  "tags": [
+    "new",
+    "2028"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/zenvo/2028-aurora_tur/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-09T12:07:14.659Z",
+  "createdAt": "2026-07-09T12:07:14.888Z",
+  "updatedAt": "2026-07-09T12:07:14.888Z"
+}

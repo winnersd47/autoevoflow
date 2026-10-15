@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-sequoia-trailhunter",
+  "slug": "toyota-toyota-sequoia-trailhunter",
+  "name": "Toyota Sequoia Trailhunter",
+  "fullName": "2027 Toyota Sequoia Trailhunter",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Trailhunter package offers Toyota Sequoia a more trail-ready personality with equipment designed for customers who want to venture beyond paved roads with greater confidence.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Toyota-Sequoia_Trailhunter-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Toyota-Sequoia_Trailhunter-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/toyota/2027-sequoia_trailhunter/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-31T06:37:22.511Z",
+  "createdAt": "2026-07-31T06:37:23.526Z",
+  "updatedAt": "2026-07-31T06:37:23.526Z"
+}

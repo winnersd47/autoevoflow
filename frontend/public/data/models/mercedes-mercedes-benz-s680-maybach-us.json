@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-s680-maybach-us",
+  "slug": "mercedes-mercedes-benz-s680-maybach-us",
+  "name": "Mercedes-Benz S680 Maybach [US]",
+  "fullName": "2027 Mercedes-Benz S680 Maybach [US]",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "In selected markets, the Mercedes-Maybach S680 continues to be offered with the celebrated V12 (M 279). It delivers 450 kW + 17 kW and 850 Nm + 205 Nm...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-S680_Maybach_US-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-S680_Maybach_US-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-s680_maybach_us-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-04T02:04:01.223Z",
+  "createdAt": "2026-08-04T02:04:02.034Z",
+  "updatedAt": "2026-08-04T02:04:02.034Z"
+}

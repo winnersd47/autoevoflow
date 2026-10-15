@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mazda-mazda-cx-6e",
+  "slug": "mazda-mazda-cx-6e",
+  "name": "Mazda CX-6e",
+  "fullName": "2027 Mazda CX-6e",
+  "brandId": "mazda",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Mazda CX-6e is built in China and has been developed together with Changan, based on a strong and well-established partnership of more than 20 years of collaboration.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mazda-CX-6e-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mazda-CX-6e-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mazda/2027-cx-6e/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-03T14:04:01.229Z",
+  "createdAt": "2026-09-03T14:04:02.416Z",
+  "updatedAt": "2026-09-03T14:04:02.417Z"
+}

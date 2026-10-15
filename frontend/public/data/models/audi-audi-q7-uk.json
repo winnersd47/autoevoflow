@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-q7-uk",
+  "slug": "audi-audi-q7-uk",
+  "name": "Audi Q7 [UK]",
+  "fullName": "2027 Audi Q7 [UK]",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Audi Q7 combines commanding road presence with a refined interior, advanced digital features and a highly efficient electrified diesel powertrain.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-Q7_UK-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-Q7_UK-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-q7_uk-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-10T02:04:00.884Z",
+  "createdAt": "2026-10-10T02:04:02.298Z",
+  "updatedAt": "2026-10-10T02:04:02.298Z"
+}

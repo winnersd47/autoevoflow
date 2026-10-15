@@ -1,0 +1,26 @@
+{
+  "id": "ncs-astonmartin-aston-martin-valen",
+  "slug": "astonmartin-aston-martin-valen",
+  "name": "Aston Martin Valen",
+  "fullName": "2028 Aston Martin Valen",
+  "brandId": "astonmartin",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "Aston Martin Valen is a significant departure from what has gone before; sharply sculpted lines to reflect the aggressive dynamics, an attacking stance...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Aston_Martin-Valen-2028-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Aston_Martin-Valen-2028-thb.jpg",
+  "tags": [
+    "new",
+    "2028"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/aston_martin/2028-valen/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-14T20:04:01.689Z",
+  "createdAt": "2026-08-14T20:04:02.450Z",
+  "updatedAt": "2026-08-14T20:04:02.450Z"
+}

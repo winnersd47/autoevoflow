@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-rs5-saloon-uk",
+  "slug": "audi-audi-rs5-saloon-uk",
+  "name": "Audi RS5 Saloon [UK]",
+  "fullName": "2027 Audi RS5 Saloon [UK]",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "A highlight for the keenest Audi RS5 drivers is the standard Audi driving experience function, which enables in-depth analysis of the driver's actions...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-RS5_Saloon_UK-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-RS5_Saloon_UK-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-rs5_saloon_uk-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.440Z",
+  "createdAt": "2026-07-01T09:22:51.773Z",
+  "updatedAt": "2026-07-01T09:22:51.773Z"
+}

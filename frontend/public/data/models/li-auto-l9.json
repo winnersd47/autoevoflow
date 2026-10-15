@@ -1,0 +1,115 @@
+{
+  "id": "m-li-auto-l9",
+  "slug": "li-auto-l9",
+  "name": "L9",
+  "fullName": "Li Auto L9",
+  "brandId": "brand-li-auto",
+  "bodyType": "suv",
+  "segment": "fullsize_suv",
+  "primaryMarket": "china",
+  "startYear": 2022,
+  "endYear": null,
+  "isActive": true,
+  "description": "Li Auto L9 — топовый 6-местный EREV SUV Китая. Три экрана, Dolby Atmos, 1.5T + два электромотора, 449 л.с., запас хода 1315 км по CLTC.",
+  "generationCount": 1,
+  "thumbnailUrl": null,
+  "heroImageUrl": null,
+  "tags": ["suv", "erev", "li-auto", "china", "flagship"],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "analysis": {
+    "id": "analysis-li-auto-l9-001",
+    "entityType": "model",
+    "entityId": "m-li-auto-l9",
+    "analysisType": "design_evolution",
+    "provider": "yandex",
+    "headline": "Li Auto L9: EREV как новый стандарт семейного люкса в Китае",
+    "summary": "Li Auto построила себе нишу, которую не занял никто другой: сверхпрактичные EREV-внедорожники без компромисса между запасом хода, комфортом и ценой. L9 — вершина этой пирамиды. За 459 900 ¥ (~63 500 $) покупатель получает 6-местный SUV с кинотеатральным интерьером, 1315 км пробега и нулевой тревогой за зарядку.",
+    "fullText": "История Li Auto начинается в 2015 году, когда Ли Сян (бывший соучредитель Autohome) основал компанию с единственной идеей: EREV (Extended Range Electric Vehicle) — идеальное решение для китайского рынка, где зарядная инфраструктура ещё не развита достаточно.\n\nПервая модель One (2019) появилась в нише, которую никто не заметил: 6-местный EREV SUV для семей с детьми. Успех оказался громким — 500 000 единиц за 3 года. L9 в 2022 году возглавил расширившуюся линейку как флагман.\n\nТри синхронизированных экрана (15,7\" центральный + 12,3\" подрулевой + 15,7\" задний) образуют мультизональную систему HarmonyOS-уровня. Dolby Atmos 7.1.4 с 21 динамиком. Двойная камера ночного видения. Вентиляция и массаж для всех 6 кресел.\n\nТехнически: 1.5L i4 Atkinson в паре с генератором + передний и задний электромотор (449 л.с. суммарно). Бензобак 65 л + батарея 44 кВт·ч. Итог: 1315 км по CLTC, 170 км на чистой электротяге.\n\nГлавный конкурент — Toyota Land Cruiser 300 (180–220 л.с., ICE только) и Mercedes GLS (510–630 л.с., намного дороже). L9 предлагает больше медиа, больше запаса хода, больше мест и при этом стоит как GLE.\n\nЗа 2022–2024 год Li Auto продала более 800 000 L-серий суммарно, обогнав BMW и Mercedes-Benz по суммарным продажам SUV в Китае в сегменте выше 400 000 ¥.",
+    "insights": [
+      {
+        "id": "ins-01",
+        "category": "Strategy",
+        "text": "EREV-стратегия Li Auto исключила главный страх покупателя BEV: «зарядная тревога». Лишь 30% поездок на L9 требуют использования бензинового генератора — но само его наличие снимает психологический барьер.",
+        "confidence": 0.95,
+        "importance": "critical"
+      },
+      {
+        "id": "ins-02",
+        "category": "Market",
+        "text": "L9 обошёл Toyota Land Cruiser 300 по продажам в Китае уже через 6 месяцев после запуска — несмотря на более высокую цену, чем масс-маркет, и позиционирование строго в пределах Китая.",
+        "confidence": 0.92,
+        "importance": "high"
+      },
+      {
+        "id": "ins-03",
+        "category": "Technology",
+        "text": "Система Air Suspension с 4 независимыми стойками и 5 режимами высоты — первая в классе для цены до 500 000 ¥. Mercedes GLS в этом ценовом диапазоне не предлагает пневмоподвеску стандартом.",
+        "confidence": 0.90,
+        "importance": "high"
+      },
+      {
+        "id": "ins-04",
+        "category": "Design",
+        "text": "Интерьер L9 устанавливает новый стандарт «кинотеатра на колёсах»: три синхронизированных экрана общей диагональю 43,3\". BMW iX предлагает вдвое меньший дисплейный периметр за более высокую цену.",
+        "confidence": 0.88,
+        "importance": "high"
+      },
+      {
+        "id": "ins-05",
+        "category": "Influence",
+        "text": "L9 спровоцировал пересмотр стратегии у Toyota и BMW: оба бренда анонсировали EREV-версии своих флагманских SUV для китайского рынка непосредственно после рекордных квартальных продаж L9.",
+        "confidence": 0.82,
+        "importance": "medium"
+      },
+      {
+        "id": "ins-06",
+        "category": "Engineering",
+        "text": "Сдвоенный компрессор с прямым впрыском на i4 1.5L обеспечивает термодинамический КПД 44% — лучший показатель среди серийных бензиновых генераторных установок EREV 2022 года.",
+        "confidence": 0.87,
+        "importance": "medium"
+      }
+    ],
+    "confidenceScore": 0.91,
+    "tokensUsed": 2840,
+    "processingTimeMs": 3920,
+    "createdAt": "2026-07-18T11:00:00Z",
+    "isCached": true,
+    "metadata": { "modelVersion": "yandexgpt-pro", "language": "ru" }
+  },
+  "generations": [
+    {
+      "id": "gen-li-auto-l9-2022-1",
+      "slug": "li-auto-l9-2022-1",
+      "modelId": "m-li-auto-l9",
+      "brandId": "brand-li-auto",
+      "codeName": "L9 I",
+      "generationNumber": 1,
+      "startYear": 2022,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["suv"],
+      "engineTypes": ["EREV"],
+      "markets": ["china"],
+      "description": "Li Auto L9 — 6-местный EREV SUV. 1.5T + 2 электромотора, 449 л.с., 1315 км CLTC, воздушная подвеска, тройная мультимедийная система.",
+      "thumbnailUrl": null,
+      "heroImageUrl": null,
+      "images": [],
+      "specs": {
+        "horsepower": 449,
+        "torque": 675,
+        "acceleration": 5.3,
+        "topSpeed": 180,
+        "weight": 2760,
+        "driveType": "AWD",
+        "transmission": "automatic"
+      },
+      "tags": ["suv", "erev", "2022", "flagship", "6-seat"],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

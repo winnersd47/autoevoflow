@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mclaren-mclaren-w1",
+  "slug": "mclaren-mclaren-w1",
+  "name": "McLaren W1",
+  "fullName": "2026 McLaren W1",
+  "brandId": "mclaren",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "928PS V8 and 347PS E-module combine to produce 1275PS, giving W1 the highest-ever power output of any McLaren. Engineered for immediate power delivery and breathtaking...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/McLaren-W1-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/McLaren-W1-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mclaren/2026-w1/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-09T12:07:14.659Z",
+  "createdAt": "2026-07-09T12:07:14.892Z",
+  "updatedAt": "2026-07-09T12:07:14.892Z"
+}

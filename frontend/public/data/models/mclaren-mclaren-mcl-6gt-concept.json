@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mclaren-mclaren-mcl-6gt-concept",
+  "slug": "mclaren-mclaren-mcl-6gt-concept",
+  "name": "McLaren McL 6GT Concept",
+  "fullName": "2026 McLaren McL 6GT Concept",
+  "brandId": "mclaren",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "McL 6GT name is inspired by McLaren's presence on track, as well as the foundations of McLaren's automotive journey. McL 6GT creates a direct link between these two realms...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/McLaren-McL_6GT_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/McLaren-McL_6GT_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mclaren/2026-mcl_6gt_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-14T13:03:53.882Z",
+  "createdAt": "2026-08-14T13:03:54.904Z",
+  "updatedAt": "2026-08-14T13:03:54.904Z"
+}

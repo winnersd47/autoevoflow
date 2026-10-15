@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-cla45-amg-4matic-shooting-brake",
+  "slug": "mercedes-mercedes-benz-cla45-amg-4matic-shooting-brake",
+  "name": "Mercedes-Benz CLA45 AMG 4Matic Shooting Brake",
+  "fullName": "2027 Mercedes-Benz CLA45 AMG 4Matic Shooting Brake",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "A clever touch on the Shooting Brake: The active roof-edge spoiler is black at the transition from the glass roof and painted in the body colour towards the outer edge.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-CLA45_AMG_4Matic_Shooting_Brake-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-CLA45_AMG_4Matic_Shooting_Brake-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-cla45_amg_4matic_shooting_brake/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-10T11:38:23.560Z",
+  "createdAt": "2026-07-10T11:38:23.767Z",
+  "updatedAt": "2026-07-10T11:38:23.767Z"
+}

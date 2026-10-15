@@ -1,0 +1,199 @@
+{
+  "bmw-m3-e92": {
+    "id": "bmw-m3-e92",
+    "nurb": "8:05",
+    "nurbSource": "BMW M3 (E92)",
+    "topgear": "1:26.5",
+    "tgSource": "BMW M3 (E92)"
+  },
+  "bmw-m5-e39": {
+    "id": "bmw-m5-e39",
+    "nurb": "8:28",
+    "nurbSource": "BMW M5 (E39)",
+    "topgear": "1:27.0",
+    "tgSource": "BMW M5 E39"
+  },
+  "merc-c-w203": {
+    "id": "merc-c-w203",
+    "topgear": "1:43.0",
+    "tgSource": "Mercedes-Benz C-Class (W203)"
+  },
+  "ferrari-296": {
+    "id": "ferrari-296",
+    "nurb": "6:58.70",
+    "nurbSource": "Ferrari 296 GTB"
+  },
+  "ferrari-testarossa": {
+    "id": "ferrari-testarossa",
+    "nurb": "9:17.120",
+    "nurbSource": "Ferrari Testarossa"
+  },
+  "lamborghini-murci": {
+    "id": "lamborghini-murci",
+    "nurb": "7:50",
+    "nurbSource": "Lamborghini Murciélago",
+    "topgear": "1:23.7",
+    "tgSource": "Lamborghini Murciélago"
+  },
+  "lambo-urus": {
+    "id": "lambo-urus",
+    "topgear": "1:21.7",
+    "tgSource": "Lamborghini Urus"
+  },
+  "p911-gt3-997": {
+    "id": "p911-gt3-997",
+    "nurb": "7:48",
+    "nurbSource": "Porsche 911 GT3 (997.1)"
+  },
+  "p911-gt3-992": {
+    "id": "p911-gt3-992",
+    "nurb": "6:59.927",
+    "nurbSource": "Porsche 911 GT3 (992.1, 2022)"
+  },
+  "merc-amg-c63-w204": {
+    "id": "merc-amg-c63-w204",
+    "nurb": "8:13",
+    "nurbSource": "Mercedes-Benz C63 AMG (W204)"
+  },
+  "audi-rs6-c7": {
+    "id": "audi-rs6-c7",
+    "nurb": "8:05",
+    "nurbSource": "Audi RS6 Avant (C7)"
+  },
+  "lambo-murci-fl": {
+    "id": "lambo-murci-fl",
+    "nurb": "7:40",
+    "nurbSource": "Lamborghini Murciélago LP640",
+    "topgear": "1:19.8",
+    "tgSource": "Lamborghini Murciélago LP640"
+  },
+  "honda-nsx-na1": {
+    "id": "honda-nsx-na1",
+    "nurb": "8:16.15",
+    "nurbSource": "Honda NSX (NA1)"
+  },
+  "honda-nsx-nc1": {
+    "id": "honda-nsx-nc1",
+    "nurb": "7:36",
+    "nurbSource": "Honda NSX (NC1, 2016)"
+  },
+  "honda-civic-fk8": {
+    "id": "honda-civic-fk8",
+    "topgear": "1:25.6",
+    "tgSource": "Honda Civic Type R (FK8)"
+  },
+  "nissan-skyline-r32": {
+    "id": "nissan-skyline-r32",
+    "nurb": "8:22.38",
+    "nurbSource": "Nissan Skyline GT-R R32"
+  },
+  "nissan-skyline-r33": {
+    "id": "nissan-skyline-r33",
+    "nurb": "8:01.72",
+    "nurbSource": "Nissan Skyline GT-R R33"
+  },
+  "pagani-zonda-s": {
+    "id": "pagani-zonda-s",
+    "nurb": "7:44",
+    "nurbSource": "Pagani Zonda S 7.3 (2002)"
+  },
+  "am-db9": {
+    "id": "am-db9",
+    "topgear": "1:27.1",
+    "tgSource": "Aston Martin DB9"
+  },
+  "am-vantage": {
+    "id": "am-vantage",
+    "topgear": "1:19.7",
+    "tgSource": "Aston Martin V8 Vantage"
+  },
+  "am-vantage2": {
+    "id": "am-vantage2",
+    "nurb": "7:43.92",
+    "nurbSource": "Aston Martin V8 Vantage (2019)",
+    "topgear": "1:19.7",
+    "tgSource": "Aston Martin V8 Vantage"
+  },
+  "am-valkyrie": {
+    "id": "am-valkyrie",
+    "topgear": "1:09.6",
+    "tgSource": "Aston Martin Valkyrie"
+  },
+  "rimac-nevera": {
+    "id": "rimac-nevera",
+    "nurb": "7:05.298",
+    "nurbSource": "Rimac Nevera"
+  },
+  "merc-amg-one": {
+    "id": "merc-amg-one",
+    "nurb": "6:29.090",
+    "nurbSource": "Mercedes-AMG One"
+  },
+  "ford-shelby-gt500": {
+    "id": "ford-shelby-gt500",
+    "topgear": "1:30.0",
+    "tgSource": "Ford Shelby GT500"
+  },
+  "jag-xtype": {
+    "id": "jag-xtype",
+    "topgear": "1:46.0",
+    "tgSource": "Jaguar X-Type"
+  },
+  "bmw-m3-gts-e92": {
+    "id": "bmw-m3-gts-e92",
+    "nurb": "7:48",
+    "nurbSource": "BMW M3 GTS (E92, 2010)"
+  },
+  "chevy-corvette-c5": {
+    "id": "chevy-corvette-c5",
+    "nurb": "8:40",
+    "nurbSource": "Chevrolet Corvette C5"
+  },
+  "chevy-corvette-c6-z06": {
+    "id": "chevy-corvette-c6-z06",
+    "topgear": "1:22.4",
+    "tgSource": "Chevrolet Corvette C6 Z06"
+  },
+  "chevy-corvette-c6-zr1": {
+    "id": "chevy-corvette-c6-zr1",
+    "nurb": "7:38",
+    "nurbSource": "Chevrolet Corvette C6 ZR1"
+  },
+  "chevy-corvette-c8": {
+    "id": "chevy-corvette-c8",
+    "nurb": "7:29.90",
+    "nurbSource": "Chevrolet Corvette (C8) (2020)"
+  },
+  "ford-mustang-gtd": {
+    "id": "ford-mustang-gtd",
+    "nurb": "6:52.072",
+    "nurbSource": "Ford Mustang GTD"
+  },
+  "chevy-camaro-gen5-ss": {
+    "id": "chevy-camaro-gen5-ss",
+    "nurb": "8:20",
+    "nurbSource": "Chevrolet Camaro SS (2010)",
+    "topgear": "1:27.9",
+    "tgSource": "Chevrolet Camaro SS"
+  },
+  "chevy-camaro-gen6-ss": {
+    "id": "chevy-camaro-gen6-ss",
+    "topgear": "1:27.9",
+    "tgSource": "Chevrolet Camaro SS"
+  },
+  "vw-lupo-gti": {
+    "id": "vw-lupo-gti",
+    "nurb": "9:09",
+    "nurbSource": "Volkswagen Lupo GTI"
+  },
+  "p911-gt3-rs-997": {
+    "id": "p911-gt3-rs-997",
+    "nurb": "7:48",
+    "nurbSource": "Porsche 911 GT3 RS (997.1)"
+  },
+  "p911-gt3-rs-991": {
+    "id": "p911-gt3-rs-991",
+    "nurb": "6:56.4",
+    "nurbSource": "Porsche 911 GT3 RS (991.2)"
+  }
+}

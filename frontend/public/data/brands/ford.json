@@ -2593,6 +2593,33 @@
   ],
   "latestCars": [
     {
+      "id": "cad-news-a71855326-2028-ford-ranchero-future-cars",
+      "name": "2028 Ford Ranchero Is a $30,000 Electric Truck Worth Waiting For",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/52484e15-9a72-4b16-baf8-8470bd98f328.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71855326/2028-ford-ranchero-future-cars/",
+      "description": "While Ford hasn't yet confirmed the name—or many other details, for that matter—its upcoming EV aims to change the game.",
+      "scrapedAt": "2026-07-09T12:07:14.478Z"
+    },
+    {
+      "id": "cad-ford-ranchero",
+      "name": "2028 Ford Ranchero",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/214359d7-6abc-45f7-b171-af390c56bcf5.jpg",
+      "pageUrl": "https://www.caranddriver.com/ford/ranchero",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-09T12:07:14.478Z"
+    },
+    {
+      "id": "cad-ford-fathom-2028",
+      "name": "2028 Ford Fathom",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/214359d7-6abc-45f7-b171-af390c56bcf5.jpg",
+      "pageUrl": "https://www.caranddriver.com/ford/fathom-2028",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-08-06T18:12:14.802Z"
+    },
+    {
       "id": "ncs-ford-2027-bronco_filson",
       "name": "Ford Bronco Filson",
       "year": 2027,
@@ -2602,139 +2629,148 @@
       "scrapedAt": "2026-06-05T07:31:48.971Z"
     },
     {
-      "id": "ncs-ford-2021-f-100_eluminator_concept",
-      "name": "Ford F-100 Eluminator Concept",
-      "year": 2021,
-      "imageUrl": "https://www.netcarshow.com/Ford-F-100_Eluminator_Concept-2021-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2021-f-100_eluminator_concept/",
-      "description": "The all-electric F-100 Eluminator concept, designed and created by Ford Performance, was built in collaboration with MLe Racecars and sits on a custom chassis...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "cad-news-a71593074-2027-chevy-silverado-1500-revealed",
+      "name": "2027 Chevy Silverado 1500 Makes Ford's F-150 and Ram's Trucks Look Old",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ce73ef82-18f3-41c3-94eb-648e6636375d.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71593074/2027-chevy-silverado-1500-revealed/",
+      "description": "The newest Silverado debuts with bolder styling, even more interior screen acreage, and a pair of modern small-block V-8s.",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
     },
     {
-      "id": "ncs-ford-2011-evos_concept",
-      "name": "Ford Evos Concept",
-      "year": 2011,
-      "imageUrl": "https://www.netcarshow.com/Ford-Evos_Concept-2011-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2011-evos_concept/",
-      "description": "Making its global debut at the 2011 Frankfurt Motor Show, the Ford Evos Concept represents the ultimate expression of Ford's new global design language,...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "cad-ford-e-transit-2027",
+      "name": "2027 Ford E-Transit",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/03731938-f673-41f8-8840-368e221cc3d2.jpg",
+      "pageUrl": "https://www.caranddriver.com/ford/e-transit-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-07-31T20:04:01.123Z"
     },
     {
-      "id": "ncs-ford-2008-explorer_america_concept",
-      "name": "Ford Explorer America Concept",
-      "year": 2008,
-      "imageUrl": "https://www.netcarshow.com/Ford-Explorer_America_Concept-2008-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2008-explorer_america_concept/",
-      "description": "The Ford Explorer America concept showcases a new kind of utility for the vehicle customers have known and loved for years: even better fuel efficiency.",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "td-news-2027-ford-f-150-ditches-2-7l-ecoboost-adds-v8-back-to-t",
+      "name": "2027 Ford F-150",
+      "year": 2027,
+      "imageUrl": "",
+      "pageUrl": "https://www.thedrive.com/news/2027-ford-f-150-ditches-2-7l-ecoboost-adds-v8-back-to-top-trims",
+      "description": "The King Ranch and Platinum are once again available with the 5.0-liter Coyote, and Ford is rolling out a new base engine for the F-150. The post 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to",
+      "scrapedAt": "2026-08-04T20:04:01.518Z"
     },
     {
-      "id": "ncs-ford-2007-airstream_concept",
-      "name": "Ford Airstream Concept",
-      "year": 2007,
-      "imageUrl": "https://www.netcarshow.com/Ford-Airstream_Concept-2007-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2007-airstream_concept/",
-      "description": "Playing to win in the growing crossover segment, Ford has joined with another iconic company to showcase how it could further expand its lineup of...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "cad-news-a73369150-2027-ford-f-150-new-base-engine-expanded-v-8-",
+      "name": "2027 Ford F-150",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-ford-f150-xlt-103-67e438c9db524.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a73369150/2027-ford-f-150-new-base-engine-expanded-v-8-availability/",
+      "description": "The twin-turbocharged 2.7-liter V-6 is replaced by the twin-turbo 3.0-liter V-6 that's also found in other Fords such as the Explorer.",
+      "scrapedAt": "2026-08-06T20:04:01.508Z"
     },
     {
-      "id": "ncs-ford-2007-interceptor_concept",
-      "name": "Ford Interceptor Concept",
-      "year": 2007,
-      "imageUrl": "https://www.netcarshow.com/Ford-Interceptor_Concept-2007-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2007-interceptor_concept/",
-      "description": "Building on its legacy of bold muscle cars, Ford is introducing a modern, all-American sedan concept that combines &quot;Built Ford Tough&quot; attitude...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "cad-photos-a73426942-2027-ford-mustang-dark-horse-sc-convertible",
+      "name": "2027 Ford Mustang Dark Horse SC Convertible",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e7395217-2280-489c-9116-f6d4b1cab2a9.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a73426942/2027-ford-mustang-dark-horse-sc-convertible-revealed-gallery/",
+      "description": "See the exterior and interior of the new Ford Mustang Dark Horse SC convertible.",
+      "scrapedAt": "2026-08-14T11:18:54.042Z"
     },
     {
-      "id": "ncs-ford-2006-mustang_giugiaro_concept",
-      "name": "Ford Mustang Giugiaro Concept",
-      "year": 2006,
-      "imageUrl": "https://www.netcarshow.com/Ford-Mustang_Giugiaro_Concept-2006-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2006-mustang_giugiaro_concept/",
-      "description": "The 2005 Ford Mustang captured the hearts and minds of millions of fans and future owners when the all-new model debuted. But the proportions and design of...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "ncs-ford-2027-mustang_dark_horse_sc_convertible",
+      "name": "Ford Mustang Dark Horse SC Convertible",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Ford-Mustang_Dark_Horse_SC_Convertible-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/ford/2027-mustang_dark_horse_sc_convertible/",
+      "description": "It's the drop-top counterpart to the Dark Horse SC coupe, bringing Ford Racing engineering to the newest member of the Mustang Dark Horse family.",
+      "scrapedAt": "2026-08-15T02:04:01.794Z"
     },
     {
-      "id": "ncs-ford-2006-reflex_concept",
-      "name": "Ford Reflex Concept",
-      "year": 2006,
-      "imageUrl": "https://www.netcarshow.com/Ford-Reflex_Concept-2006-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2006-reflex_concept/",
-      "description": "DETROIT, Jan. 8, 2006  - The Ford Reflex proves that small cars can be bold, American and innovative. The sporty concept is expected to be an auto show...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "cad-news-a73487285-2027-ford-f-150-raptor-pricing",
+      "name": "2027 Ford F-150 Raptor",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-ford-f-150-raptor-07-64ff719e60eb4.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a73487285/2027-ford-f-150-raptor-pricing/",
+      "description": "The Raptor costs less for 2027 to better compete with the Ram 1500 RHO, but it also comes with fewer standard features.",
+      "scrapedAt": "2026-08-20T20:04:01.219Z"
     },
     {
-      "id": "ncs-ford-2005-shelby_gr1_concept",
-      "name": "Ford Shelby GR1 Concept",
-      "year": 2005,
-      "imageUrl": "https://www.netcarshow.com/Ford-Shelby_GR1_Concept-2005-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2005-shelby_gr1_concept/",
-      "description": "The GR-1's design is obviously that of a powerful American supercar. It is basically a fastback, like the Shelby Mustangs of the 1960s.",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "ncs-ford-2027-f-150",
+      "name": "Ford F-150",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Ford-F-150-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/ford/2027-f-150/",
+      "description": "2027 F-150 has a new standard 3.0-liter EcoBoost V6 engine, sharing the same core architecture as the 2.7-liter EcoBoost V6 it replaces.",
+      "scrapedAt": "2026-09-15T13:48:55.216Z"
     },
     {
-      "id": "ncs-ford-2004-shelby_cobra_concept",
-      "name": "Ford Shelby Cobra Concept",
-      "year": 2004,
-      "imageUrl": "https://www.netcarshow.com/Ford-Shelby_Cobra_Concept-2004-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2004-shelby_cobra_concept/",
-      "description": "Like the 2002 Ford GT40 concept, the Ford Shelby Cobra draws on Ford's emotional and performance roots in a thoroughly modern interpretation that...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "cad-photos-a73726316-2027-ford-f-150-carhartt-edition-details-ga",
+      "name": "2027 Ford F-150 Carhartt Edition",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d2204f41-62a9-43c0-a504-0fbc6a435819.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a73726316/2027-ford-f-150-carhartt-edition-details-gallery/",
+      "description": "See the 2027 Ford F-150 Carhartt Edition’s exterior and interior from every angle.",
+      "scrapedAt": "2026-09-15T13:48:54.381Z"
     },
     {
-      "id": "ncs-ford-2003-mustang_gt_coupe_concept",
-      "name": "Ford Mustang GT Coupe Concept",
-      "year": 2003,
-      "imageUrl": "https://www.netcarshow.com/Ford-Mustang_GT_Coupe_Concept-2003-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2003-mustang_gt_coupe_concept/",
-      "description": "The Ford Mustang GT concepts draw on the very elements that have made Mustang the definitive American sports car for nearly four decades.",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "jlp-2259287-2027-ford-f-150-refresh-expands-v8s-adds-carhartt-ed",
+      "name": "2027 Ford F-150 Refresh Boosts V8 Availability, Exactly",
+      "year": 2027,
+      "imageUrl": "https://www.jalopnik.com/img/gallery/2027-ford-f-150-refresh-boosts-v8-availability-exactly-what-we-need-when-gas-is-over-4-a-gallon/intro-1789492589.jpg",
+      "pageUrl": "https://www.jalopnik.com/2259287/2027-ford-f-150-refresh-expands-v8s-adds-carhartt-edition/",
+      "description": "Details are out on the new, refreshed Ford F-150, including expanded availability of the 5.0-liter V8 and changes in prices across the range.",
+      "scrapedAt": "2026-09-15T20:04:02.234Z"
     },
     {
-      "id": "ncs-ford-2002-gt40_concept",
-      "name": "Ford GT40 Concept",
-      "year": 2002,
-      "imageUrl": "https://www.netcarshow.com/Ford-GT40_Concept-2002-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/2002-gt40_concept/",
-      "description": "The Ford GT40 - the legendary car brought to life by Henry Ford II to change performance car history - finds new life in a modern road car that re-ignites...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "rat-news-a74032889-2027-ford-bronco-rtr-starts-at-over-50000",
+      "name": "2027 Ford Bronco RTR",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/07354204-8a9a-4515-bddc-789b03bab514.jpg",
+      "pageUrl": "https://www.roadandtrack.com/news/a74032889/2027-ford-bronco-rtr-starts-at-over-50000/",
+      "description": "Option it out, and the final number will easily crest $60,000 for the budget Raptor alternative.",
+      "scrapedAt": "2026-10-05T20:04:00.745Z"
     },
     {
-      "id": "ncs-ford-1995-gt90_concept",
-      "name": "Ford GT90 Concept",
-      "year": 1995,
-      "imageUrl": "https://www.netcarshow.com/Ford-GT90_Concept-1995-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/1995-gt90_concept/",
-      "description": "The Ford GT90 was a concept car manufactured by the Ford Motor Company. It was unveiled in January 1995, at the Detroit Auto Show as &quot;the world's...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "carscoops-2026-10-2027-ford-super-duty-roush-makeover",
+      "name": "2027 Ford Super Duty A",
+      "year": 2027,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/10/DSC04981-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/10/2027-ford-super-duty-roush-makeover/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/10/DSC04981-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" de",
+      "scrapedAt": "2026-10-05T21:07:13.599Z"
     },
     {
-      "id": "ncs-ford-1970-mustang_milano_concept",
-      "name": "Ford Mustang Milano Concept",
-      "year": 1970,
-      "imageUrl": "https://www.netcarshow.com/Ford-Mustang_Milano_Concept-1970-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/1970-mustang_milano_concept/",
-      "description": "In February 1970, Ford kicked off a new decade at the Chicago Auto Show with a wild-looking Mustang concept car that previewed some of the design direction...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "ncs-ford-2027-bronco_rtr",
+      "name": "Ford Bronco RTR",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Ford-Bronco_RTR-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/ford/2027-bronco_rtr/",
+      "description": "Bronco RTR shifts the focus toward high-speed desert performance. The standard suspension is a unique wide track HOSS 1.0 suspension combining a suspension lift with 33-inch tires.",
+      "scrapedAt": "2026-10-07T02:04:01.032Z"
     },
     {
-      "id": "ncs-ford-1966-mustang_mach_1_concept",
-      "name": "Ford Mustang Mach 1 Concept",
-      "year": 1966,
-      "imageUrl": "https://www.netcarshow.com/Ford-Mustang_Mach_1_Concept-1966-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/1966-mustang_mach_1_concept/",
-      "description": "In late 1966, Ford designers prepared a Mustang concept to preview some of the design updates coming for the 1969 model. The Mustang Mach I was a two-seat...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "cad-ford-bronco-sport-2027",
+      "name": "2027 Ford Bronco Sport",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-ford-bronco-sport-125-66c746c9c65b5.jpg",
+      "pageUrl": "https://www.caranddriver.com/ford/bronco-sport-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-10-09T20:04:00.936Z"
     },
     {
-      "id": "ncs-ford-1964-gt_prototype",
-      "name": "Ford GT Prototype",
-      "year": 1964,
-      "imageUrl": "https://www.netcarshow.com/Ford-GT_Prototype-1964-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/ford/1964-gt_prototype/",
-      "description": "Ford GT Prototype (chassis GT 101) was revealed at the 1964 New York International Auto Show. Five GT Prototypes were built - the first Ford models to use...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
+      "id": "cad-news-a74120983-2027-ford-bronco-updates-revealed",
+      "name": "2027 Ford Bronco Democratizes",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/235b86a1-b527-450b-93fc-3b5db3ccfa52.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a74120983/2027-ford-bronco-updates-revealed/",
+      "description": "Ford’s off-road-focused SUV also now offers popular features on more models.",
+      "scrapedAt": "2026-10-13T16:03:54.057Z"
+    },
+    {
+      "id": "carscoops-2026-06-ford-proud-to-honor",
+      "name": "Ford&#8217;s New Package Turns Super Duty Into Rolling Tribute To America",
+      "year": 2026,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Ford-F-Series-Super-Du-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/06/ford-proud-to-honor/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/2027-Ford-F-Series-Super-Du-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margi",
+      "scrapedAt": "2026-06-19T19:59:53.166Z"
     }
   ]
 }

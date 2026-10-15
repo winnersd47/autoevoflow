@@ -1,0 +1,26 @@
+{
+  "id": "ncs-morgan-morgan-midsummer-coupe",
+  "slug": "morgan-morgan-midsummer-coupe",
+  "name": "Morgan Midsummer Coupe",
+  "fullName": "2026 Morgan Midsummer Coupe",
+  "brandId": "morgan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The new roofline defines the character of Morgan Midsummer Coupe. Viewed from the high rear three-quarter, the dramatic silhouette is revealed in full...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Morgan-Midsummer_Coupe-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Morgan-Midsummer_Coupe-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/morgan/2026-midsummer_coupe/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.440Z",
+  "createdAt": "2026-07-01T09:22:51.788Z",
+  "updatedAt": "2026-07-01T09:22:51.788Z"
+}

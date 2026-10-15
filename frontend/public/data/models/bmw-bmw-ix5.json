@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-ix5",
+  "slug": "bmw-bmw-ix5",
+  "name": "BMW iX5",
+  "fullName": "2027 BMW iX5",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "BMW iX5 60 xDrive uses one electric motor at each axle, producing a combined 570 hp and 593 lb-ft of torque. It accelerates from 0 to 60 mph in an estimated 4.4 seconds...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-iX5-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX5-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix5/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.439Z",
+  "createdAt": "2026-07-01T09:22:51.783Z",
+  "updatedAt": "2026-07-01T09:22:51.783Z"
+}

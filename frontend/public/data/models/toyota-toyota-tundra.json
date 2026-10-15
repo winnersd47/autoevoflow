@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-tundra",
+  "slug": "toyota-toyota-tundra",
+  "name": "2027 Toyota Tundra",
+  "fullName": "2027 Toyota Tundra",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "It was a tough assignment, but when your boss forces you, what choice do you have? You&#39;ve got to jump the trucks.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-toyota-tundra-and-sequoia-look-almost-the-same-but-theyre-still-incredible-off-roaders/intro-1786996658.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-toyota-tundra-and-sequoia-look-almost-the-same-but-theyre-still-incredible-off-roaders/intro-1786996658.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2238607/2027-toyota-tundra-sequoia-trailhunter-trd-pro-off-road-review/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-18T14:04:01.283Z",
+  "createdAt": "2026-08-18T14:04:11.158Z",
+  "updatedAt": "2026-08-18T14:04:11.158Z"
+}

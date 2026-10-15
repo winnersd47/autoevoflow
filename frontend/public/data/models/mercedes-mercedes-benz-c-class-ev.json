@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-c-class-ev",
+  "slug": "mercedes-mercedes-benz-c-class-ev",
+  "name": "Mercedes-Benz C-Class EV",
+  "fullName": "2027 Mercedes-Benz C-Class EV",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The all-new electric C-Class takes dynamics and ride comfort in its segment to a new level. It loves serpentine roads and attacks every curve with unrivalled agility and precision.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-C-Class_EV-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-C-Class_EV-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-c-class_ev/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-31T06:37:22.511Z",
+  "createdAt": "2026-07-31T06:37:23.524Z",
+  "updatedAt": "2026-07-31T06:37:23.524Z"
+}

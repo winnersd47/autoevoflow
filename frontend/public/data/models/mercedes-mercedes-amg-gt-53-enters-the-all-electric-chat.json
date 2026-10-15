@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-amg-gt-53-enters-the-all-electric-chat",
+  "slug": "mercedes-mercedes-amg-gt-53-enters-the-all-electric-chat",
+  "name": "2027 Mercedes-AMG GT 53 enters the all-electric chat",
+  "fullName": "2027 Mercedes-AMG GT 53 enters the all-electric chat",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The four-door brings 536 hp and 590 lb-ft of torque; some 800 km (WLTP) of range; and arrives early 2027",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://driving.ca/auto-news/news/2027-mercedes-amg-gt-53-ev-electric-four-door-536-hp",
+  "isLatest": true,
+  "scrapedAt": "2026-08-06T18:12:14.610Z",
+  "createdAt": "2026-08-06T18:12:24.819Z",
+  "updatedAt": "2026-08-06T18:12:24.819Z"
+}

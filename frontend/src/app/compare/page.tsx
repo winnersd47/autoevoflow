@@ -49,6 +49,7 @@ import { useCompare } from '@/hooks/useCompare'
 import { searchSemantic } from '@/lib/api'
 import { BrandDNARadar, type RadarSeries } from '@/components/graph/BrandDNARadar'
 import { AIAnalysisPanel } from '@/components/ui/AIAnalysisPanel'
+import { A777Section } from '@/components/ui/A777Section'
 import type { Generation, ComparisonDimension, TechnicalSpecs } from '@/lib/types'
 import { useLocale } from '@/contexts/LocaleContext'
 
@@ -1166,6 +1167,11 @@ export default function ComparePage() {
               >
                 <SpecsTable gen1={generation1} gen2={generation2} />
               </SectionCard>
+            )}
+
+            {/* ── A777 Performance Ratings ───────────────────────────────── */}
+            {generation1 && generation2 && (
+              <A777Section gen1={generation1} gen2={generation2} />
             )}
 
             {/* ── Radar + Embedding Side-by-Side ───────────────────────── */}

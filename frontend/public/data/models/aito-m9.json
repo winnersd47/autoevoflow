@@ -1,0 +1,115 @@
+{
+  "id": "m-aito-m9",
+  "slug": "aito-m9",
+  "name": "M9",
+  "fullName": "Aito M9",
+  "brandId": "brand-aito",
+  "bodyType": "suv",
+  "segment": "fullsize_suv",
+  "primaryMarket": "china",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "Aito M9 — флагманский PHEV/BEV SUV совместного бренда Huawei × Seres. HUAWEI ADS 3.0, AR-HUD, Harmony Cockpit 4.0, 526 л.с. Лидер продаж среди внедорожников 500 000+ ¥ в Китае.",
+  "generationCount": 1,
+  "thumbnailUrl": null,
+  "heroImageUrl": null,
+  "tags": ["suv", "phev", "bev", "huawei", "aito", "china"],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "analysis": {
+    "id": "analysis-aito-m9-001",
+    "entityType": "model",
+    "entityId": "m-aito-m9",
+    "analysisType": "design_evolution",
+    "provider": "yandex",
+    "headline": "Aito M9: Huawei доказывает, что программный стек важнее металла",
+    "summary": "Aito M9 — это первый случай в истории, когда чипмейкер и разработчик ПО встал во главе автомобильного дизайна и продукт получился лучше, чем у традиционных автопроизводителей. Huawei не построил завод, не нанял тысячи инженеров-механиков — он взял платформу Seres и добавил туда технологический стек, который конкуренты не смогут скопировать за 5 лет.",
+    "fullText": "История бренда Aito (вопрос 界 — «граница»/«мир») начинается в 2021 году. Huawei, под санкционным давлением теряющий рынок смартфонов, принял стратегическое решение: перенести компетенции HiSilicon, Harmony OS и алгоритмы машинного зрения в автомобильную отрасль.\n\nПартнёром стал Seres (Xiaokang) — малоизвестный производитель с заводом в Чунцине. Формально это их машина. Фактически — машина Huawei: процессор Kirin 9610A, ADS 3.0 (Advanced Driving System третьего поколения), AR-HUD с проекцией навигации прямо на дорогу, Harmony Cockpit 4.0.\n\nM9 дебютировал в декабре 2023 года. За первые 4 дня продаж было принято 50 000 предзаказов — рекорд китайского авторынка в сегменте выше 500 000 ¥. К июню 2024 года — более 120 000 единиц заказов.\n\nТехнически: PHEV-вариант использует 1.5T + 2 электромотора (526 л.с. суммарно), 165 км на электротяге (CLTC). BEV-вариант — 800В архитектура, 666 км CLTC. Оба варианта — 0-100 км/ч за 4,3 с, 6-местный салон.\n\nHUAWEI ADS 3.0 обеспечивает полуавтономное вождение в городе без предустановленных карт (по данным Huawei, система работает в 370+ городах Китая против <100 у конкурентов). AR-HUD проецирует навигационные стрелки непосредственно на дорогу впереди — функция, которую BMW только тестирует на i7.\n\nМощный технологический стек по цене 469 800–559 800 ¥ ($65 000–77 000) вплотную конкурирует с BMW X7 и Mercedes GLS, предлагая превосходящие технологии за меньшие деньги.",
+    "insights": [
+      {
+        "id": "ins-01",
+        "category": "Strategy",
+        "text": "Huawei применил стратегию «программный стек как основной актив» — ту же, что использовал Qualcomm в смартфонах. Aito M9 — это Snapdragon-powered автомобиль: ценность создаётся на уровне чипсета и ПО, а не кузова.",
+        "confidence": 0.96,
+        "importance": "critical"
+      },
+      {
+        "id": "ins-02",
+        "category": "Technology",
+        "text": "HUAWEI ADS 3.0 — единственная в Китае система, работающая без HD-карт в 370+ городах. BMW i7 и Mercedes EQS предлагают аналоги только в ограниченных зонах на тестовой базе.",
+        "confidence": 0.93,
+        "importance": "high"
+      },
+      {
+        "id": "ins-03",
+        "category": "Market",
+        "text": "50 000 предзаказов за 4 дня в сегменте 500 000+ ¥ — абсолютный рекорд Китая. Для сравнения: новый BMW X7 рестайлинг собрал первые 10 000 заказов за 3 недели в том же регионе.",
+        "confidence": 0.91,
+        "importance": "high"
+      },
+      {
+        "id": "ins-04",
+        "category": "Design",
+        "text": "AR-HUD M9 проецирует навигационные стрелки на виртуальную плоскость в 10 метрах перед автомобилем — «дополненная реальность» в буквальном смысле. Европейские HUD-системы работают на расстоянии 2,5–3 м.",
+        "confidence": 0.89,
+        "importance": "high"
+      },
+      {
+        "id": "ins-05",
+        "category": "Engineering",
+        "text": "800В BEV-вариант M9 поддерживает зарядку 600 кВт (на совместимых станциях Huawei) — 5 минут = 100 км запаса хода. BMW iX xDrive50 заряжается на пике 195 кВт.",
+        "confidence": 0.88,
+        "importance": "medium"
+      },
+      {
+        "id": "ins-06",
+        "category": "Influence",
+        "text": "После M9 Toyota анонсировала партнёрство с Huawei для интеграции ADS в bZ серию, а Volkswagen Group — тендер на «умный» кокпит нового поколения с участием нескольких китайских поставщиков ПО.",
+        "confidence": 0.80,
+        "importance": "medium"
+      }
+    ],
+    "confidenceScore": 0.91,
+    "tokensUsed": 2960,
+    "processingTimeMs": 4050,
+    "createdAt": "2026-07-18T12:00:00Z",
+    "isCached": true,
+    "metadata": { "modelVersion": "yandexgpt-pro", "language": "ru" }
+  },
+  "generations": [
+    {
+      "id": "gen-aito-m9-2024-1",
+      "slug": "aito-m9-2024-1",
+      "modelId": "m-aito-m9",
+      "brandId": "brand-aito",
+      "codeName": "M9 I",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["suv"],
+      "engineTypes": ["PHEV", "BEV"],
+      "markets": ["china"],
+      "description": "Aito M9 — 6-местный полноразмерный SUV. PHEV: 1.5T + 2 EM, 526 л.с., 165 км ел. BEV: 800В, 666 км CLTC. Huawei ADS 3.0, AR-HUD.",
+      "thumbnailUrl": null,
+      "heroImageUrl": null,
+      "images": [],
+      "specs": {
+        "horsepower": 526,
+        "torque": 880,
+        "acceleration": 4.3,
+        "topSpeed": 200,
+        "weight": 2800,
+        "driveType": "AWD",
+        "transmission": "automatic"
+      },
+      "tags": ["suv", "phev", "bev", "2024", "flagship", "huawei"],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

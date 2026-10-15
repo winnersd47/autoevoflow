@@ -93,13 +93,23 @@ async def lifespan(app: FastAPI):
     from app.db.postgresql.database import engine
     logger.info("PostgreSQL engine ready", url=settings.DATABASE_URL.split("@")[-1])
 
-    # Redis
+    # Redis — best-effort. Not required for auth (register/login/me); only used
+    # for the refresh-token logout blacklist and misc caching. If unreachable
+    # (e.g. no local virtualization for Docker), skip rather than crash so the
+    # rest of the API — including auth — still comes up.
     from app.db.redis.cache import redis_cache
-    await redis_cache.connect()
+    try:
+        await redis_cache.connect()
+    except Exception as exc:
+        logger.warning("Redis unavailable — continuing without it", error=str(exc))
 
-    # Neo4j
+    # Neo4j — best-effort, same reasoning. Only used by the graph-relationship
+    # routes, never by auth.
     from app.db.neo4j.graph import neo4j_graph
-    await neo4j_graph.connect()
+    try:
+        await neo4j_graph.connect()
+    except Exception as exc:
+        logger.warning("Neo4j unavailable — continuing without it", error=str(exc))
 
     # FAISS index (non-blocking: load in background)
     try:
@@ -146,14 +156,14 @@ def create_app() -> FastAPI:
     origins = (
         ["*"]
         if settings.is_development
-        else settings.ALLOWED_ORIGINS
+        else settings.allowed_origins_list
     )
     app.add_middleware(
         CORSMiddleware,
         allow_origins=origins,
         allow_credentials=True,
-        allow_methods=settings.ALLOWED_METHODS,
-        allow_headers=settings.ALLOWED_HEADERS,
+        allow_methods=settings.allowed_methods_list,
+        allow_headers=settings.allowed_headers_list,
     )
 
     # ── Logging + Prometheus ──────────────────────────────────────────────────

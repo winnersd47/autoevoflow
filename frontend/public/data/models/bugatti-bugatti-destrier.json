@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bugatti-bugatti-destrier",
+  "slug": "bugatti-bugatti-destrier",
+  "name": "Bugatti Destrier",
+  "fullName": "2026 Bugatti Destrier",
+  "brandId": "bugatti",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Built on the Bolide's carbon fiber monocoque, Destrier introduces a fresh chapter in Bugatti's design vocabulary. The signature Bugatti C-line, traditionally an unbroken curve...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Bugatti-Destrier-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Bugatti-Destrier-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bugatti/2026-destrier/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-13T07:18:53.536Z",
+  "createdAt": "2026-08-13T07:18:54.194Z",
+  "updatedAt": "2026-08-13T07:18:54.194Z"
+}

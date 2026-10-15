@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-rogue-hybrid",
+  "slug": "nissan-nissan-rogue-hybrid",
+  "name": "Nissan Rogue Hybrid",
+  "fullName": "2027 Nissan Rogue Hybrid",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "2027 Nissan Rogue Hybrid has a striking design based around the concept of &quot;Refined and Tough.&quot; It's shaped by clean, bold and sporty lines, with a wide and athletic stance.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Rogue_Hybrid-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Rogue_Hybrid-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/nissan/2027-rogue_hybrid/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-23T08:04:01.234Z",
+  "createdAt": "2026-09-23T08:04:02.870Z",
+  "updatedAt": "2026-09-23T08:04:02.870Z"
+}

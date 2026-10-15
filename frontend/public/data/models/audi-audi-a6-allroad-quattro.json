@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-a6-allroad-quattro",
+  "slug": "audi-audi-a6-allroad-quattro",
+  "name": "Audi A6 allroad quattro",
+  "fullName": "2027 Audi A6 allroad quattro",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "It is clear at first glance how skillfully the new Audi A6 allroad combines elegance with off-road capabilities. The model boasts a consistently sporty yet rugged exterior...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-A6_allroad_quattro-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-A6_allroad_quattro-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-a6_allroad_quattro/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.440Z",
+  "createdAt": "2026-07-01T09:22:51.780Z",
+  "updatedAt": "2026-07-01T09:22:51.780Z"
+}

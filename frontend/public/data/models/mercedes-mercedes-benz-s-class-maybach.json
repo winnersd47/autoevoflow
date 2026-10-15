@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-s-class-maybach",
+  "slug": "mercedes-mercedes-benz-s-class-maybach",
+  "name": "Mercedes-Benz S-Class Maybach",
+  "fullName": "2027 Mercedes-Benz S-Class Maybach",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Meticulously curated materials and ambient lighting heighten the refined character of the Mercedes-Maybach S-Class. The new interior colour beech brown brings a refined...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-S-Class_Maybach-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-S-Class_Maybach-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-s-class_maybach/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-09T12:07:14.659Z",
+  "createdAt": "2026-07-09T12:07:14.890Z",
+  "updatedAt": "2026-07-09T12:07:14.890Z"
+}

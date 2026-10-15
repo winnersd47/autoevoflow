@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-m-neue-klasse-concept",
+  "slug": "bmw-bmw-m-neue-klasse-concept",
+  "name": "BMW M Neue Klasse Concept",
+  "fullName": "2026 BMW M Neue Klasse Concept",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The front apron of the BMW M Concept Neue Klasse adopts a trimaran-style bumper, inspired by the form of high-speed sailing boats. The three-part design underlines...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-M_Neue_Klasse_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-M_Neue_Klasse_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2026-m_neue_klasse_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.440Z",
+  "createdAt": "2026-07-01T09:22:51.793Z",
+  "updatedAt": "2026-07-01T09:22:51.793Z"
+}

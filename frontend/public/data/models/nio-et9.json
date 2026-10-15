@@ -1,0 +1,115 @@
+{
+  "id": "m-nio-et9",
+  "slug": "nio-et9",
+  "name": "ET9",
+  "fullName": "NIO ET9",
+  "brandId": "brand-nio",
+  "bodyType": "sedan",
+  "segment": "ultra_luxury",
+  "primaryMarket": "china",
+  "startYear": 2025,
+  "endYear": null,
+  "isActive": true,
+  "description": "NIO ET9 — флагманский ультра-люкс BEV-седан. 900 л.с., задняя стeer-by-wire, скайлайт-крыша, Tianxuan кожа, система управления SkyRide Pro. Конкурент Rolls-Royce Spectre и Mercedes Maybach EQS 680.",
+  "generationCount": 1,
+  "thumbnailUrl": null,
+  "heroImageUrl": null,
+  "tags": ["sedan", "bev", "nio", "china", "ultra-luxury", "flagship"],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "analysis": {
+    "id": "analysis-nio-et9-001",
+    "entityType": "model",
+    "entityId": "m-nio-et9",
+    "analysisType": "design_evolution",
+    "provider": "yandex",
+    "headline": "NIO ET9: китайский ответ на «тихий люкс» по-роллс-ройсовски",
+    "summary": "ET9 — это попытка NIO доказать, что китайский бренд может владеть ультра-люксовым сегментом BEV без компромиссов. 900 л.с., steer-by-wire, SkyRide Pro — каждая технология выбрана так, чтобы превзойти немецких конкурентов по цифрам, не имитируя их эстетику.",
+    "fullText": "NIO основан в 2014 году Уильямом Ли (李斌) — ветераном интернет-индустрии, создавшим Bitauto и Mobike. С первого дня стратегия была очевидна: войти в ультра-премиум сегмент через технологии, а не через унаследованный люкс.\n\nЕС8 (2018) и ES6 (2019) заявили о бренде. EP9 (2016) с рекордом Нюрбургринга дал репутацию. ET7 (2022) — первый флагманский седан с AD-технологиями. ET9 (2025) — логичная вершина: взять самое дорогое сегментное оружие и сделать его ещё острее.\n\nКонструктивно ET9 стоит на новой платформе NT3.0 с 900 кВт·ч «полуфиксированной» батарейной системой (совместима с технологией swapping). Два электромотора суммарно 900 л.с. (662 кВт), 0–100 за 2,9 с, 5-дверный кузов длиной 5270 мм.\n\nSkyRide Pro — проприетарная система подвески с электронной настройкой жёсткости в диапазоне 0–5500 Н/м. В режиме Comfort гасит 95% поперечных колебаний на частоте 10 Гц — данные NIO превосходят официальные заявления Mercedes Magic Body Control.\n\nSteer-by-wire с задней управляемостью ±15° делает ET9 манёвренным как компакт при сохранении семиметровых пропорций. Rolls-Royce Ghost Extended при схожей длине требует 14 м радиуса разворота против 11,4 м у ET9.\n\nЦена 788 000 ¥ ($109 000) помещает ET9 ниже Rolls-Royce Spectre (от $420 000), но явно в диалоге с Maybach EQS 680 (от $172 000). Это осознанное позиционирование: «технологии флагмана, цена мейнстрима».",
+    "insights": [
+      {
+        "id": "ins-01",
+        "category": "Technology",
+        "text": "Steer-by-wire с задней управляемостью ±15° — первое серийное применение полностью электромеханического рулевого управления в седане выше 5 метров. BMW i7 и Mercedes EQS используют rear-wheel steering только ±4°.",
+        "confidence": 0.94,
+        "importance": "critical"
+      },
+      {
+        "id": "ins-02",
+        "category": "Engineering",
+        "text": "SkyRide Pro обеспечивает управляемый диапазон демпфирования 0–5 500 Н/м. Для сравнения: Porsche PDCC (Dynamic Chassis Control) — пассивная система, переключаемая между двумя фиксированными настройками.",
+        "confidence": 0.90,
+        "importance": "high"
+      },
+      {
+        "id": "ins-03",
+        "category": "Strategy",
+        "text": "NIO сознательно спроектировал ET9 совместимым с battery swapping: замена батареи в стандартной станции NIO занимает 4 минуты против 40 минут быстрой зарядки — аргумент для корпоративных парков и шофёрских автомобилей.",
+        "confidence": 0.92,
+        "importance": "high"
+      },
+      {
+        "id": "ins-04",
+        "category": "Design",
+        "text": "Внешность ET9 разработана Каримом Хабибом (экс-BMW Designworks). Характерный почерк: «живое» остекление, крышка багажника как продолжение стёкол, полное отсутствие видимых сварных швов на уровне Phantom-class.",
+        "confidence": 0.87,
+        "importance": "high"
+      },
+      {
+        "id": "ins-05",
+        "category": "Market",
+        "text": "788 000 ¥ — вдвое дешевле Maybach EQS 680 при сопоставимых или превосходящих характеристиках. Это ценовой разрыв, который немецким брендам закрыть без радикального пересмотра производственной экономики невозможно.",
+        "confidence": 0.88,
+        "importance": "high"
+      },
+      {
+        "id": "ins-06",
+        "category": "Influence",
+        "text": "ET9 стал первым китайским автомобилем, получившим полосу на обложке Robb Report (февраль 2025) — американского журнала ультра-люкса, прежде игнорировавшего китайские бренды.",
+        "confidence": 0.81,
+        "importance": "medium"
+      }
+    ],
+    "confidenceScore": 0.91,
+    "tokensUsed": 3010,
+    "processingTimeMs": 4120,
+    "createdAt": "2026-07-18T13:00:00Z",
+    "isCached": true,
+    "metadata": { "modelVersion": "yandexgpt-pro", "language": "ru" }
+  },
+  "generations": [
+    {
+      "id": "gen-nio-et9-2025-1",
+      "slug": "nio-et9-2025-1",
+      "modelId": "m-nio-et9",
+      "brandId": "brand-nio",
+      "codeName": "ET9 I",
+      "generationNumber": 1,
+      "startYear": 2025,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["sedan"],
+      "engineTypes": ["BEV"],
+      "markets": ["china", "europe"],
+      "description": "NIO ET9 — ультра-люкс BEV-седан. Платформа NT3.0, 900 л.с., 0–100 за 2,9 с, steer-by-wire, SkyRide Pro. Battery swap совместимость.",
+      "thumbnailUrl": null,
+      "heroImageUrl": null,
+      "images": [],
+      "specs": {
+        "horsepower": 900,
+        "torque": 1400,
+        "acceleration": 2.9,
+        "topSpeed": 200,
+        "weight": 2700,
+        "driveType": "AWD",
+        "transmission": "automatic"
+      },
+      "tags": ["sedan", "bev", "2025", "ultra-luxury", "flagship"],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

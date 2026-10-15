@@ -2425,6 +2425,123 @@
   ],
   "latestCars": [
     {
+      "id": "cad-bentley-torcal",
+      "name": "2028 Bentley Torcal",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/8714ee39-6cda-41f0-8369-eb9082507e79.jpg",
+      "pageUrl": "https://www.caranddriver.com/bentley/torcal",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-09T12:07:14.478Z"
+    },
+    {
+      "id": "td-car-reviews-2028-bentley-torcal-first-ride-a-luxury-ev-that-",
+      "name": "2028 Bentley Torcal First Ride",
+      "year": 2028,
+      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/08/Torcal-2.jpg?quality=85&amp;w=2048",
+      "pageUrl": "https://www.thedrive.com/car-reviews/2028-bentley-torcal-first-ride-a-luxury-ev-that-moves-to-a-different-beat",
+      "description": "Bentley wants to stick the landing with its first EV. I rode in a Torcal, and here's what I noticed. The post 2028 Bentley Torcal First Ride: A Luxury EV that Moves to a Different Beat appeared first ",
+      "scrapedAt": "2026-08-27T11:48:53.012Z"
+    },
+    {
+      "id": "jlp-2245102-2028-bentley-torcal-electric-suv-prototype-first-rid",
+      "name": "2028 Bentley Torcal Aims To Capture That Tangible",
+      "year": 2028,
+      "imageUrl": "https://www.jalopnik.com/img/gallery/2028-bentley-torcal-aims-to-capture-that-tangible-bentley-feeling/intro-1787787165.jpg",
+      "pageUrl": "https://www.jalopnik.com/2245102/2028-bentley-torcal-electric-suv-prototype-first-ride-review/",
+      "description": "Smaller and cheaper than a Bentayga, the new Torcal is a Cayenne-based electric SUV that makes orchestral sounds and has more power than any Bentley before it.",
+      "scrapedAt": "2026-08-27T14:04:01.668Z"
+    },
+    {
+      "id": "cad-reviews-a73520706-2028-bentley-torcal-prototype-ride",
+      "name": "2028 Bentley Torcal Prototype Ride",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ffebd810-e6a0-437d-9510-335aa0dfbb7b.jpg",
+      "pageUrl": "https://www.caranddriver.com/reviews/a73520706/2028-bentley-torcal-prototype-ride/",
+      "description": "An early look at the luxury marque’s first EV reveals a host of important insights.",
+      "scrapedAt": "2026-08-31T08:04:01.451Z"
+    },
+    {
+      "id": "jlp-2266740-2028-bentley-torcal-ev-suv-reveal-design-specs-detai",
+      "name": "2028 Bentley Torcal EV Charts A Slightly Strange-Looking",
+      "year": 2028,
+      "imageUrl": "https://www.jalopnik.com/img/gallery/2028-bentley-torcal-ev-charts-a-slightly-strange-looking-path-into-the-future/intro-1790185355.jpg",
+      "pageUrl": "https://www.jalopnik.com/2266740/2028-bentley-torcal-ev-suv-reveal-design-specs-details/",
+      "description": "This new electric SUV has up to 876 horsepower, 400-kW fast-charging, lots of advanced tech and a funky design that does feel properly Bentley.",
+      "scrapedAt": "2026-09-23T20:04:01.760Z"
+    },
+    {
+      "id": "ncs-bentley-2028-torcal",
+      "name": "Bentley Torcal",
+      "year": 2028,
+      "imageUrl": "https://www.netcarshow.com/Bentley-Torcal-2028-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bentley/2028-torcal/",
+      "description": "Bentley Torcal, which measures five metres in length, is the shortest four-door in the model line-up yet offers exceptional interior space, with a 460 litre boot...",
+      "scrapedAt": "2026-09-23T20:04:01.206Z"
+    },
+    {
+      "id": "aw-news-a73868893-2028-bentley-torcal-reveal",
+      "name": "2028 Bentley Torcal Breaks",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/02fd6786-4fd6-4c66-8d79-9a9f88d77246.png",
+      "pageUrl": "https://www.autoweek.com/news/a73868893/2028-bentley-torcal-reveal/",
+      "description": "After 107 years of building gasoline-powered luxury cars, Bentley enters the electric era with the all-new Torcal SUV.",
+      "scrapedAt": "2026-09-24T20:04:01.506Z"
+    },
+    {
+      "id": "ncs-bentley-2027-continental_gt_supersports_design_theme_by_mulliner",
+      "name": "Bentley Continental GT Supersports Design Theme by Mulliner",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Bentley-Continental_GT_Supersports_Design_Theme_by_Mulliner-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/bentley/2027-continental_gt_supersports_design_theme_by_mulliner/",
+      "description": "Bentley designers have created 'Design Theme by Mulliner' - a bold statement, of performance and unique style, available exclusively on Supersports. Now...",
+      "scrapedAt": "2026-07-01T13:41:23.876Z"
+    },
+    {
+      "id": "cad-news-a73295185-2027-bentley-continental-gtc-one-of-one-revea",
+      "name": "2027 Bentley Continental GTC",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9c501928-2228-4f6c-884c-e36995ddcd1b.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a73295185/2027-bentley-continental-gtc-one-of-one-revealed/",
+      "description": "After spending eight decades in Crewe, England, Bentley decided now was as good a time as any for a special edition of the Continental GTC.",
+      "scrapedAt": "2026-07-29T21:03:11.474Z"
+    },
+    {
+      "id": "rat-photos-a73570456-see-every-angle-of-the-2027-bentley-contine",
+      "name": "2027 Bentley Continental Supersports",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/badc612a-dbcd-4ba8-8925-13b1dddba21a.jpg",
+      "pageUrl": "https://www.roadandtrack.com/photos/a73570456/see-every-angle-of-the-2027-bentley-continental-supersports/",
+      "description": "",
+      "scrapedAt": "2026-09-01T02:04:01.464Z"
+    },
+    {
+      "id": "cad-photos-a73524414-2027-bentley-supersports-drive-gallery",
+      "name": "2027 Bentley Supersports",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/4bffe55c-16c4-41ae-8a92-419ed85b8884.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a73524414/2027-bentley-supersports-drive-gallery/",
+      "description": "See the interior and exterior of the 2027 Bentley Supersports from every angle.",
+      "scrapedAt": "2026-09-01T02:04:01.308Z"
+    },
+    {
+      "id": "td-car-reviews-2027-bentley-supersports-first-drive-review",
+      "name": "2027 Bentley Supersports First-Drive",
+      "year": 2027,
+      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/08/IMG_0039.jpg?quality=85&amp;w=2048",
+      "pageUrl": "https://www.thedrive.com/car-reviews/2027-bentley-supersports-first-drive-review",
+      "description": "Bentley's new track-day special is about as silly as you'd expect and as quick as you'd hope. The post 2027 Bentley Supersports First-Drive Review: The Lightweight Sports Car Bentley Should&#8217;ve B",
+      "scrapedAt": "2026-09-01T02:04:00.973Z"
+    },
+    {
+      "id": "cad-bentley-continental-gt-2027",
+      "name": "2027 Bentley Continental GT",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2863b2e6-9cb6-486e-92a3-a2a7e1648c44.jpg",
+      "pageUrl": "https://www.caranddriver.com/bentley/continental-gt-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-09-11T20:04:01.657Z"
+    },
+    {
       "id": "ncs-bentley-2025-exp_15_concept",
       "name": "Bentley EXP 15 Concept",
       "year": 2025,
@@ -2432,6 +2549,15 @@
       "pageUrl": "https://www.netcarshow.com/bentley/2025-exp_15_concept/",
       "description": "The exterior of Bentley EXP 15 sports a striking liquid metal satin paintwork finish called Pallas Gold, which if you look closely features golden white highlights...",
       "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "a777-2023-bentley-bentley-mulliner-batur-bentley-batur",
+      "name": "Bentley Mulliner Batur Bentley Batur",
+      "year": 2023,
+      "imageUrl": null,
+      "pageUrl": "https://www.a777aa77.ru/news/",
+      "description": "2023 Bentley Mulliner Batur Bentley Batur — тот самый мост между славным прошлым и электрифицированным завтра. В линиях кузова уже читается язык грядущих электромобилей, но пока здесь ещё звучит сердц",
+      "scrapedAt": "2026-07-31T06:37:22.268Z"
     },
     {
       "id": "ncs-bentley-2019-exp_100_gt_concept",

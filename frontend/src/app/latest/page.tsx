@@ -34,16 +34,24 @@ interface LatestData {
 
 function CarImage({ car }: { car: LatestCar }) {
   const [failed, setFailed] = useState(false);
-  const proxyUrl = `/api/netcarshow-image?url=${encodeURIComponent(car.imageUrl)}`;
+  // /api/netcarshow-image только проксирует netcarshow.com (там нужен Referer от
+  // hotlink-защиты) и по дизайну отклоняет остальные хосты — 400 Bad Request.
+  // Раньше через него шли ВСЕ источники без разбора: RSS-картинки (hearstapps,
+  // blogger, jalopnik и т.д.) всегда возвращали 400 и падали на иконку-заглушку,
+  // хотя сами по себе отдаются без hotlink-защиты (проверено — 200 без заголовков).
+  const isNetCarShow = /^https:\/\/(www\.)?netcarshow\.com\//.test(car.imageUrl || '');
+  const src = car.imageUrl
+    ? (isNetCarShow ? `/api/netcarshow-image?url=${encodeURIComponent(car.imageUrl)}` : car.imageUrl)
+    : '';
 
   return (
     <div className="relative w-full overflow-hidden bg-surface-elevated"
       style={{ aspectRatio: '16/9' }}>
-      {!failed ? (
+      {!failed && src ? (
         <>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={proxyUrl}
+            src={src}
             alt={car.fullName}
             loading="lazy"
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
@@ -279,8 +287,8 @@ export default function LatestCarsPage() {
           text-[11px] text-white/20">
           <Calendar className="w-3.5 h-3.5" />
           {isRu
-            ? 'Данные обновляются автоматически каждые 6 часов из netcarshow.com'
-            : 'Data auto-updates every 6 hours from netcarshow.com'}
+            ? 'Данные обновляются автоматически каждые 6 часов (Carscoops, Car and Driver, Motor1, Road & Track)'
+            : 'Data auto-updates every 6 hours (Carscoops, Car and Driver, Motor1, Road & Track)'}
         </div>
       </div>
     </div>

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-porsche-porsche-cayenne-s-coupe-electric-uk",
+  "slug": "porsche-porsche-cayenne-s-coupe-electric-uk",
+  "name": "Porsche Cayenne S Coupe Electric [UK]",
+  "fullName": "2027 Porsche Cayenne S Coupe Electric [UK]",
+  "brandId": "porsche",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "AC charging speeds of up to 11 kW are available with the car's standard on-board charger. One with up to 22kW is available as an optional extra.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-Cayenne_S_Coupe_Electric_UK-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-Cayenne_S_Coupe_Electric_UK-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/porsche/2027-cayenne_s_coupe_electric_uk-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-10T20:04:00.888Z",
+  "createdAt": "2026-10-10T20:04:02.183Z",
+  "updatedAt": "2026-10-10T20:04:02.184Z"
+}

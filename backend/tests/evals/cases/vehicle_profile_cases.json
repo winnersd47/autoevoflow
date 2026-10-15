@@ -1,0 +1,323 @@
+[
+  {
+    "id": "vp-001",
+    "description": "Стандартное объявление Toyota Camry — полные данные",
+    "input": "Toyota Camry 2020 года, 2.5 бензин, 249 л.с., АКПП, полный привод, цвет белый. Пробег 45 000 км. Состояние отличное, один владелец, не бита, не крашена. Цена 2 800 000 руб. Кожаный салон, люк, подогрев сидений, адаптивный круиз-контроль.",
+    "expected": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "engine_type": "petrol",
+      "power_hp": 249,
+      "engine_volume_l": 2.5,
+      "mileage_km": 45000,
+      "color": "белый",
+      "price_rub": 2800000,
+      "condition": "excellent"
+    }
+  },
+  {
+    "id": "vp-002",
+    "description": "BMW 3-Series — премиум, дизель",
+    "input": "Продаю BMW 320d 2019 г.в. Дизель 2.0 литра, 190 л.с. Механическая КПП, задний привод. Пробег 78 000 км. Цвет тёмно-синий металлик. Состояние хорошее, есть мелкие царапины. Цена 2 100 000 рублей. ПТС оригинал, один владелец.",
+    "expected": {
+      "make": "BMW",
+      "engine_type": "diesel",
+      "engine_volume_l": 2.0,
+      "power_hp": 190,
+      "transmission": "manual",
+      "drivetrain": "rwd",
+      "mileage_km": 78000,
+      "price_rub": 2100000,
+      "condition": "good"
+    }
+  },
+  {
+    "id": "vp-003",
+    "description": "Минимальное объявление — только базовые факты",
+    "input": "Toyota Corolla 2015, пробег 90 тыс. км, хорошее состояние, автомат.",
+    "expected": {
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2015,
+      "mileage_km": 90000,
+      "condition": "good",
+      "transmission": "automatic"
+    }
+  },
+  {
+    "id": "vp-004",
+    "description": "Электромобиль Tesla",
+    "input": "Tesla Model 3 Long Range 2022 г. Электродвигатель, запас хода 580 км. Полный привод, мощность 480 л.с. Пробег 22 000 км. Цвет красный. Автопилот, стеклянная крыша. Цена 4 500 000 руб.",
+    "expected": {
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2022,
+      "engine_type": "electric",
+      "power_hp": 480,
+      "drivetrain": "awd",
+      "mileage_km": 22000,
+      "price_rub": 4500000
+    }
+  },
+  {
+    "id": "vp-005",
+    "description": "Красные флаги — подозрительное объявление",
+    "input": "Срочно! Honda CR-V 2021, отличное состояние. Продаю за 900 000 рублей (рыночная цена 3 500 000). Хозяин уехал за рубеж, самовывоз через транспортную компанию. Документы все чистые. Звонить только в мессенджер.",
+    "expected": {
+      "make": "Honda",
+      "model": "CR-V",
+      "year": 2021,
+      "price_rub": 900000
+    },
+    "expected_red_flags_min_count": 2
+  },
+  {
+    "id": "vp-006",
+    "description": "Lada Vesta — российский бренд, бюджет",
+    "input": "Lada Vesta SW Cross 2021 года. Двигатель 1.8 бензин 122 л.с. Вариатор CVT. Полный привод. Цвет Платина. Пробег 38 000 км. Один хозяин, ТО у официального дилера. Цена 1 150 000 рублей.",
+    "expected": {
+      "make": "Lada",
+      "model": "Vesta",
+      "year": 2021,
+      "engine_type": "petrol",
+      "engine_volume_l": 1.8,
+      "power_hp": 122,
+      "transmission": "cvt",
+      "mileage_km": 38000,
+      "price_rub": 1150000
+    }
+  },
+  {
+    "id": "vp-007",
+    "description": "Гибрид — Toyota RAV4 Hybrid",
+    "input": "Toyota RAV4 Hybrid 2023, гибридная установка 222 л.с., полный привод e-AWD. Пробег 12 000 км. Белый перламутр. Состояние идеальное, на гарантии до 2028 года. 3 700 000 руб.",
+    "expected": {
+      "make": "Toyota",
+      "model": "RAV4",
+      "year": 2023,
+      "engine_type": "hybrid",
+      "power_hp": 222,
+      "drivetrain": "awd",
+      "mileage_km": 12000,
+      "price_rub": 3700000,
+      "condition": "excellent"
+    }
+  },
+  {
+    "id": "vp-008",
+    "description": "Китайский бренд — Haval F7x",
+    "input": "Haval F7x 2022 г. Купе-кроссовер. Бензин 2.0 турбо, 190 л.с. Роботизированная КПП DCT, полный привод. Пробег 55 000 км. Синий. Хорошее состояние, есть мелкий кузовной ремонт (крыло). Цена 1 650 000.",
+    "expected": {
+      "make": "Haval",
+      "model": "F7x",
+      "year": 2022,
+      "engine_type": "petrol",
+      "engine_volume_l": 2.0,
+      "power_hp": 190,
+      "transmission": "dct",
+      "drivetrain": "awd",
+      "mileage_km": 55000,
+      "price_rub": 1650000,
+      "condition": "good"
+    },
+    "expected_red_flags_min_count": 1
+  },
+  {
+    "id": "vp-009",
+    "description": "Пикап — Mitsubishi L200",
+    "input": "Mitsubishi L200 2018. Дизель 2.4 литра, 181 л.с. 4WD. Механика. Пробег 115 000 км. Серебристый. Состояние хорошее, есть следы внедорожной эксплуатации. 1 400 000 рублей.",
+    "expected": {
+      "make": "Mitsubishi",
+      "model": "L200",
+      "year": 2018,
+      "engine_type": "diesel",
+      "engine_volume_l": 2.4,
+      "power_hp": 181,
+      "transmission": "manual",
+      "drivetrain": "4wd",
+      "mileage_km": 115000,
+      "price_rub": 1400000
+    }
+  },
+  {
+    "id": "vp-010",
+    "description": "История ТО — не объявление, а сервисная запись",
+    "input": "Автомобиль Mercedes-Benz C200 2017 г.в., гос. номер А777ВТ77. Замена масла 5W-30, фильтры воздушный и масляный. Пробег на момент ТО: 98 340 км. Следующее ТО через 15 000 км. Двигатель 2.0 бензин 184 л.с. Тормозные колодки передние — износ 40%.",
+    "expected": {
+      "make": "Mercedes-Benz",
+      "model": "C200",
+      "year": 2017,
+      "engine_type": "petrol",
+      "engine_volume_l": 2.0,
+      "power_hp": 184,
+      "mileage_km": 98340
+    }
+  },
+  {
+    "id": "vp-011",
+    "description": "Очень скудный текст — марка и год, больше ничего",
+    "input": "Форд Фокус 2014 год, продаю.",
+    "expected": {
+      "make": "Ford",
+      "model": "Focus",
+      "year": 2014
+    }
+  },
+  {
+    "id": "vp-012",
+    "description": "Hyundai Solaris — популярный в России",
+    "input": "Hyundai Solaris 2020, 1.6 бензин 123 л.с., АКПП, передний привод. Комплектация Comfort. Пробег 47 000 км. Белый. Один собственник. ТО у дилера. Без ДТП. 920 000 рублей.",
+    "expected": {
+      "make": "Hyundai",
+      "model": "Solaris",
+      "year": 2020,
+      "engine_type": "petrol",
+      "engine_volume_l": 1.6,
+      "power_hp": 123,
+      "transmission": "automatic",
+      "drivetrain": "fwd",
+      "mileage_km": 47000,
+      "price_rub": 920000,
+      "condition": "excellent"
+    }
+  },
+  {
+    "id": "vp-013",
+    "description": "ВАЗ 2106 — советская классика",
+    "input": "ВАЗ 2106, 1989 год выпуска. Двигатель 1.6 бензин, механика, задний привод. Пробег 210 000 км. Состояние удовлетворительное — кузов гнилой в порогах, требует ремонта. Цена 80 000 рублей.",
+    "expected": {
+      "make": "ВАЗ",
+      "year": 1989,
+      "engine_type": "petrol",
+      "engine_volume_l": 1.6,
+      "transmission": "manual",
+      "drivetrain": "rwd",
+      "mileage_km": 210000,
+      "price_rub": 80000,
+      "condition": "poor"
+    }
+  },
+  {
+    "id": "vp-014",
+    "description": "Седан — Kia Optima, цена не указана",
+    "input": "Kia Optima 2019 г. Бензин 2.0, 150 л.с. Автоматическая КПП, передний привод. Пробег 62 000 км. Чёрный. Хорошее состояние. Торг уместен, цена договорная.",
+    "expected": {
+      "make": "Kia",
+      "model": "Optima",
+      "year": 2019,
+      "engine_type": "petrol",
+      "engine_volume_l": 2.0,
+      "power_hp": 150,
+      "transmission": "automatic",
+      "drivetrain": "fwd",
+      "mileage_km": 62000,
+      "price_rub": null,
+      "condition": "good"
+    }
+  },
+  {
+    "id": "vp-015",
+    "description": "Внедорожник — Land Rover Defender",
+    "input": "Land Rover Defender 110 2022 года. Дизель 3.0 D250 249 л.с. Автоматическая 8-ступенчатая КПП. Полный привод с понижающей передачей. Пробег 18 000 км. Зелёный матовый. Состояние идеальное, один собственник. Доп. оборудование: экспедиционный багажник, лебёдка. Цена 6 800 000 рублей.",
+    "expected": {
+      "make": "Land Rover",
+      "model": "Defender",
+      "year": 2022,
+      "engine_type": "diesel",
+      "engine_volume_l": 3.0,
+      "power_hp": 249,
+      "transmission": "automatic",
+      "drivetrain": "4wd",
+      "mileage_km": 18000,
+      "price_rub": 6800000,
+      "condition": "excellent"
+    }
+  },
+  {
+    "id": "vp-016",
+    "description": "Plug-in гибрид — Mitsubishi Outlander PHEV",
+    "input": "Mitsubishi Outlander PHEV 2021. Подзаряжаемый гибрид, суммарная мощность 224 л.с. Полный привод. Пробег 31 000 км. Белый. Состояние отличное. Зарядный кабель в комплекте. 2 900 000 рублей.",
+    "expected": {
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "year": 2021,
+      "engine_type": "plug_in_hybrid",
+      "power_hp": 224,
+      "drivetrain": "awd",
+      "mileage_km": 31000,
+      "price_rub": 2900000,
+      "condition": "excellent"
+    }
+  },
+  {
+    "id": "vp-017",
+    "description": "Авария — явные красные флаги",
+    "input": "Продаётся Volkswagen Passat 2017 после ДТП. Фронтальный удар, подушки сработали. Двигатель 1.8 TSI 180 л.с., не пострадал. Пробег 95 000 км. Кузов восстановлению не подлежит — на запчасти. Цена 250 000 рублей.",
+    "expected": {
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2017,
+      "engine_type": "petrol",
+      "engine_volume_l": 1.8,
+      "power_hp": 180,
+      "mileage_km": 95000,
+      "price_rub": 250000,
+      "condition": "poor"
+    },
+    "expected_red_flags_min_count": 1
+  },
+  {
+    "id": "vp-018",
+    "description": "Спорткар — Porsche 911",
+    "input": "Porsche 911 Carrera S 2021. Бензин 3.0 twin-turbo, 450 л.с. PDK (роботизированная 7-ступенчатая). Задний привод RWD. Пробег 9 500 км. Чёрный. Состояние безупречное. История обслуживания в дилерском центре Porsche. Цена 11 500 000 рублей.",
+    "expected": {
+      "make": "Porsche",
+      "model": "911",
+      "year": 2021,
+      "engine_type": "petrol",
+      "engine_volume_l": 3.0,
+      "power_hp": 450,
+      "drivetrain": "rwd",
+      "mileage_km": 9500,
+      "price_rub": 11500000,
+      "condition": "excellent"
+    }
+  },
+  {
+    "id": "vp-019",
+    "description": "AMT (роботизированная механика) — Renault Logan",
+    "input": "Renault Logan 2021. 1.6 бензин 82 л.с. Роботизированная КПП (Easy-R, AMT). Передний привод. Пробег 29 000 км. Серый. Хорошее состояние, один хозяин. 730 000 рублей.",
+    "expected": {
+      "make": "Renault",
+      "model": "Logan",
+      "year": 2021,
+      "engine_type": "petrol",
+      "engine_volume_l": 1.6,
+      "power_hp": 82,
+      "transmission": "amt",
+      "drivetrain": "fwd",
+      "mileage_km": 29000,
+      "price_rub": 730000,
+      "condition": "good"
+    }
+  },
+  {
+    "id": "vp-020",
+    "description": "Подробное дилерское объявление — максимум данных",
+    "input": "Официальный дилер предлагает Toyota Land Cruiser 300 2023 года в комплектации Executive. Двигатель: 3.5 бензин V6 Twin Turbo, 415 л.с. Трансмиссия: автоматическая 10-ступенчатая АКПП. Полный привод с разблокируемым межосевым дифференциалом. Пробег: 5 200 км (демонстрационный). Цвет кузова: Белый жемчуг. Цвет салона: Бежевая кожа. Состояние: идеальное. Оснащение: мультимедийная система с 12\" дисплеем, панорамный люк, HUD, матричная LED-оптика, система кругового обзора, 8 подушек безопасности, Park Assist. Гарантия производителя до 2026 года. Цена: 13 500 000 рублей (включая регистрацию).",
+    "expected": {
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": 2023,
+      "engine_type": "petrol",
+      "engine_volume_l": 3.5,
+      "power_hp": 415,
+      "transmission": "automatic",
+      "drivetrain": "4wd",
+      "mileage_km": 5200,
+      "price_rub": 13500000,
+      "condition": "excellent"
+    }
+  }
+]

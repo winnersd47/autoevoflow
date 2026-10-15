@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-ix4-m60-xdrive",
+  "slug": "bmw-bmw-ix4-m60-xdrive",
+  "name": "BMW iX4 M60 xDrive",
+  "fullName": "2027 BMW iX4 M60 xDrive",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The electronically limited top speed of the BMW iX4 M60 xDrive is 240 kmh (149 mph). The M Performance model has a maximum range of up to 777 kilometres (483 miles).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-iX4_M60_xDrive-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX4_M60_xDrive-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix4_m60_xdrive/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-08T02:04:00.749Z",
+  "createdAt": "2026-10-08T02:04:02.219Z",
+  "updatedAt": "2026-10-08T02:04:02.219Z"
+}

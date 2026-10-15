@@ -271,6 +271,37 @@ class EntityResolver:
             parts.append(val)
         return ":".join(parts)
 
+    async def translate_to_canonical(self, foreign_name: str, source_lang: str = "ru") -> str:
+        """
+        Translate a foreign-language brand or model name to English via Yandex Translate API.
+        Falls back to the original name if API keys are not configured or request fails.
+        """
+        from app.core.config import settings
+
+        if not settings.YANDEX_API_KEY or not settings.YANDEX_FOLDER_ID:
+            return foreign_name
+
+        import httpx
+
+        try:
+            async with httpx.AsyncClient(timeout=10.0) as client:
+                response = await client.post(
+                    "https://translate.api.cloud.yandex.net/translate/v2/translate",
+                    headers={"Authorization": f"Api-Key {settings.YANDEX_API_KEY}"},
+                    json={
+                        "folderId": settings.YANDEX_FOLDER_ID,
+                        "texts": [foreign_name],
+                        "sourceLanguageCode": source_lang,
+                        "targetLanguageCode": "en",
+                    },
+                )
+                response.raise_for_status()
+                data = response.json()
+                translated = data.get("translations", [{}])[0].get("text", foreign_name)
+                return self.resolve_brand(translated)
+        except Exception:
+            return foreign_name
+
 
 # ── Crawler Manager ───────────────────────────────────────────────────────────
 

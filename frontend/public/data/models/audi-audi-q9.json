@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-q9",
+  "slug": "audi-audi-q9",
+  "name": "2027 Audi Q9",
+  "fullName": "2027 Audi Q9",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Finally Audi has come out with a truly large three-row SUV, and the U.S. is the only market that will get the V8-powered SQ9 with 591 horsepower.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-audi-q9-is-a-longer-thicker-q7-taking-on-the-established-big-boys/intro-1785273487.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-audi-q9-is-a-longer-thicker-q7-taking-on-the-established-big-boys/intro-1785273487.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2225611/2027-audi-q9-sq9-reveal-three-row-suv-design-details/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-29T03:04:04.235Z",
+  "createdAt": "2026-07-29T03:04:14.056Z",
+  "updatedAt": "2026-07-29T03:04:14.056Z"
+}

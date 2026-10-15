@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ferrari-ferrari-12cilindri-manuale",
+  "slug": "ferrari-ferrari-12cilindri-manuale",
+  "name": "Ferrari 12Cilindri Manuale",
+  "fullName": "2027 Ferrari 12Cilindri Manuale",
+  "brandId": "ferrari",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Ferrari 12Cilindri Manuale is offered as a limited series of just 1,499 cars, a number that recalls the displacement of the first Ferrari twelve-cylinder engine produced in 1947...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-12Cilindri_Manuale-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-12Cilindri_Manuale-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ferrari/2027-12cilindri_manuale/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-03T23:07:30.531Z",
+  "createdAt": "2026-07-03T23:07:30.803Z",
+  "updatedAt": "2026-07-03T23:07:30.803Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-maserati-maserati-grecale",
+  "slug": "maserati-maserati-grecale",
+  "name": "Maserati Grecale",
+  "fullName": "2027 Maserati Grecale",
+  "brandId": "maserati",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Grecale combines versatility, everyday usability and a distinctive sporting character, confirming its best-in-class status for roominess and comfort in the segment.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Maserati-Grecale-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Maserati-Grecale-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/maserati/2027-grecale/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.440Z",
+  "createdAt": "2026-07-01T09:22:51.777Z",
+  "updatedAt": "2026-07-01T09:22:51.777Z"
+}

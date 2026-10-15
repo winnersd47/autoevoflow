@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-bz-canadian-pricing-starts-at-45-985",
+  "slug": "toyota-toyota-bz-canadian-pricing-starts-at-45-985",
+  "name": "2027 Toyota BZ Canadian pricing starts at $45,985",
+  "fullName": "2027 Toyota BZ Canadian pricing starts at $45,985",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "For the coming model year, the EV is available with two different powertrains and up to 468 km of electric range",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://driving.ca/auto-news/news/2027-toyota-bz-canadian-pricing",
+  "isLatest": true,
+  "scrapedAt": "2026-08-18T20:04:01.033Z",
+  "createdAt": "2026-08-18T20:04:11.177Z",
+  "updatedAt": "2026-08-18T20:04:11.177Z"
+}

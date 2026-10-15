@@ -1798,5 +1798,88 @@
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"
     }
+  ],
+  "latestCars": [
+    {
+      "id": "ncs-mclaren-2027-788hs_spider",
+      "name": "McLaren 788HS Spider",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/McLaren-788HS_Spider-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mclaren/2027-788hs_spider/",
+      "description": "McLaren 788HS features a 788PS 4.0-litre twin turbo V8, which combines with a 1,265kg dry weight to deliver a power-to-weight of 623PS per tonne...",
+      "scrapedAt": "2026-07-09T12:07:14.659Z"
+    },
+    {
+      "id": "ncs-mclaren-2027-788hs",
+      "name": "McLaren 788HS",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/McLaren-788HS-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mclaren/2027-788hs/",
+      "description": "McLaren 788HS features sculpted bodywork elements that provide the most advanced aerodynamic package ever applied to the platform, increasing downforce by 10% over 765LT...",
+      "scrapedAt": "2026-07-09T12:07:14.659Z"
+    },
+    {
+      "id": "cad-photos-g71883811-2027-mclaren-788hs-revealed-exterior-galler",
+      "name": "View Exterior Photos of the 2027 McLaren 788HS",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/12a7a6e0-b047-40cd-97e6-3b5c5fcfaa4b.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71883811/2027-mclaren-788hs-revealed-exterior-gallery/",
+      "description": "See the exterior design of the hardcore McLaren 788HS from every angle.",
+      "scrapedAt": "2026-07-10T11:38:23.401Z"
+    },
+    {
+      "id": "cad-photos-g71883985-2027-mclaren-788hs-revealed-interior-galler",
+      "name": "View Interior Photos of the 2027 McLaren 788HS",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bec7d8a0-c44f-4b02-b00c-311c95e84102.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71883985/2027-mclaren-788hs-revealed-interior-gallery/",
+      "description": "See the cabin of the McLaren 788HS from every angle.",
+      "scrapedAt": "2026-07-10T11:38:23.401Z"
+    },
+    {
+      "id": "cad-mclaren-mclaren-gts-2027",
+      "name": "2027 McLaren GTS",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fd427d27-b258-464f-b9f7-5439dac9b720.jpg",
+      "pageUrl": "https://www.caranddriver.com/mclaren/mclaren-gts-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-09-09T02:04:01.567Z"
+    },
+    {
+      "id": "rat-photos-g71727684-see-every-angle-of-the-2026-mclaren-w1",
+      "name": "See Every Angle of The 2026 McLaren W1",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/94334a0f-6403-4981-8e44-ee171dad13c7.jpg",
+      "pageUrl": "https://www.roadandtrack.com/photos/g71727684/see-every-angle-of-the-2026-mclaren-w1/",
+      "description": "",
+      "scrapedAt": "2026-07-01T09:22:51.338Z"
+    },
+    {
+      "id": "ncs-mclaren-2026-w1",
+      "name": "McLaren W1",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/McLaren-W1-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mclaren/2026-w1/",
+      "description": "928PS V8 and 347PS E-module combine to produce 1275PS, giving W1 the highest-ever power output of any McLaren. Engineered for immediate power delivery and breathtaking...",
+      "scrapedAt": "2026-07-09T12:07:14.659Z"
+    },
+    {
+      "id": "rat-news-a71837434-arrow-mclaren-signs-indianapolis-500-winner-f",
+      "name": "Arrow McLaren Signs 2026 Indy 500 Winner Felix Rosenqvist, IndyCar Legend Scott Dixon",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/96d975c4-5b6a-4319-bb67-c8f431d6d097.jpeg",
+      "pageUrl": "https://www.roadandtrack.com/news/a71837434/arrow-mclaren-signs-indianapolis-500-winner-felix-rosenqvist-legend-scott-dixon/",
+      "description": "The only team in the series affiliated with a Formula 1 constructor has officially completed its two biggest signings ever.",
+      "scrapedAt": "2026-07-09T12:07:14.629Z"
+    },
+    {
+      "id": "ncs-mclaren-2026-mcl_6gt_concept",
+      "name": "McLaren McL 6GT Concept",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/McLaren-McL_6GT_Concept-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mclaren/2026-mcl_6gt_concept/",
+      "description": "McL 6GT name is inspired by McLaren's presence on track, as well as the foundations of McLaren's automotive journey. McL 6GT creates a direct link between these two realms...",
+      "scrapedAt": "2026-08-14T13:03:53.882Z"
+    }
   ]
 }

@@ -4,6 +4,18 @@ import React, { useRef, useEffect, useState, useCallback } from 'react'
 import { motion, AnimatePresence, useInView } from 'framer-motion'
 import type { Generation } from '@/lib/types'
 
+// Some scraped datasets stamp every generation's startYear/codeName with the
+// scrape date instead of the real model year (seen live: all 8 BMW M5
+// generations show startYear=2025, codeName="2025", collapsing the whole
+// timeline to one repeated year). The press photo's caricos.com URL embeds
+// the real per-generation year and stays correct even when that metadata
+// isn't, so prefer it when available.
+function deriveYear(gen: Generation): number {
+  const url = gen.images?.[0]?.url
+  const y = url?.match(/\/(\d{4})_/)?.[1]
+  return y ? parseInt(y, 10) : gen.startYear
+}
+
 // ─── Props ─────────────────────────────────────────────────────────────────────
 
 interface TimelineProps {
@@ -11,6 +23,8 @@ interface TimelineProps {
   orientation?: 'horizontal' | 'vertical'
   onSelect?: (generation: Generation) => void
   selectedId?: string
+  /** Модель-владелец (для прокси картинок /api/car-image — см. использование ниже). */
+  modelSlug?: string
 }
 
 // ─── Year Marker ───────────────────────────────────────────────────────────────
@@ -39,6 +53,11 @@ function TimelineNode({ gen, isSelected, index, onClick }: NodeProps) {
 
   const isConcept = gen.isConcept
   const isFacelift = gen.isFacelift
+  const displayYear = deriveYear(gen)
+  // codeName is sometimes just a copy of the (possibly wrong) startYear rather
+  // than a real chassis code — showing it as a second badge would just repeat
+  // the corrected year above, so only render it when it adds information.
+  const hasRealCodeName = gen.codeName && gen.codeName !== String(gen.startYear)
 
   const nodeSize = isConcept ? 'w-6 h-6' : isFacelift ? 'w-7 h-7' : 'w-10 h-10'
   const nodeColor = isConcept
@@ -88,18 +107,20 @@ function TimelineNode({ gen, isSelected, index, onClick }: NodeProps) {
       {/* Year label */}
       <div className="flex flex-col items-center">
         <span className="text-[11px] font-mono font-bold text-white/60 group-hover:text-white/90 transition-colors">
-          {gen.startYear}
+          {displayYear}
         </span>
         {/* Code name badge */}
-        <span
-          className={`mt-0.5 px-1.5 py-px rounded text-[9px] font-bold font-mono transition-all duration-300
-            ${isSelected
-              ? 'bg-[#00d4ff]/20 text-[#00d4ff] border border-[#00d4ff]/40'
-              : 'bg-white/5 text-white/30 border border-white/10 group-hover:text-white/60'
-            }`}
-        >
-          {gen.codeName}
-        </span>
+        {hasRealCodeName && (
+          <span
+            className={`mt-0.5 px-1.5 py-px rounded text-[9px] font-bold font-mono transition-all duration-300
+              ${isSelected
+                ? 'bg-[#00d4ff]/20 text-[#00d4ff] border border-[#00d4ff]/40'
+                : 'bg-white/5 text-white/30 border border-white/10 group-hover:text-white/60'
+              }`}
+          >
+            {gen.codeName}
+          </span>
+        )}
       </div>
     </motion.div>
   )
@@ -112,17 +133,20 @@ export function Timeline({
   orientation = 'horizontal',
   onSelect,
   selectedId,
+  modelSlug,
 }: TimelineProps) {
   const scrollRef = useRef<HTMLDivElement>(null)
   const [isDragging, setIsDragging] = useState(false)
   const dragStart = useRef({ x: 0, scrollLeft: 0 })
 
-  // Sort generations by year
-  const sorted = [...generations].sort((a, b) => a.startYear - b.startYear)
+  // Sort generations by year (derived — see deriveYear for why not startYear directly)
+  const sorted = [...generations].sort((a, b) => deriveYear(a) - deriveYear(b))
 
   // Generate year markers between first and last year
-  const minYear = sorted[0]?.startYear ?? 2000
-  const maxYear = sorted[sorted.length - 1]?.startYear ?? 2024
+  const firstGen = sorted[0]
+  const lastGen = sorted[sorted.length - 1]
+  const minYear = firstGen ? deriveYear(firstGen) : 2000
+  const maxYear = lastGen ? deriveYear(lastGen) : 2024
   const yearSpan = maxYear - minYear
   const yearStep = yearSpan > 40 ? 10 : yearSpan > 20 ? 5 : 2
 
@@ -204,10 +228,12 @@ export function Timeline({
               >
                 <div className="flex items-center justify-between">
                   <span className="font-semibold text-sm text-white">
-                    {gen.model?.name}{' '}
-                    <span className="text-[#00d4ff] font-mono text-xs">{gen.codeName}</span>
+                    {gen.model?.name}
+                    {gen.codeName && gen.codeName !== String(gen.startYear) && (
+                      <> <span className="text-[#00d4ff] font-mono text-xs">{gen.codeName}</span></>
+                    )}
                   </span>
-                  <span className="text-xs font-mono text-white/40">{gen.startYear}</span>
+                  <span className="text-xs font-mono text-white/40">{deriveYear(gen)}</span>
                 </div>
                 {gen.isConcept && (
                   <span className="text-[10px] text-[#ffd700] font-semibold">Concept</span>
@@ -295,26 +321,56 @@ export function Timeline({
             initial={{ opacity: 0, y: 8 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: 8 }}
-            className="mt-3 mx-4 p-3 rounded-xl bg-[#00d4ff]/8 border border-[#00d4ff]/20 flex items-center gap-3"
+            className="mt-3 mx-4 p-3 rounded-xl bg-[#00d4ff]/8 border border-[#00d4ff]/20 flex items-start gap-3"
           >
             {(() => {
               const gen = sorted.find((g) => g.id === selectedId)
               if (!gen) return null
+              // caricos.com/netcarshow.com требуют Referer своего домена — raw url виснет,
+              // поэтому всегда через серверный прокси (см. /api/car-image route).
+              const ownerSlug = modelSlug ?? gen.model?.slug
+              const hasThumb = !!(ownerSlug && (gen.images?.[0]?.thumbnailUrl || gen.images?.[0]?.url))
+              const thumb = hasThumb ? `/api/car-image?slug=${encodeURIComponent(ownerSlug!)}` : null
               return (
                 <>
-                  <div className="w-2 h-2 rounded-full bg-[#00d4ff] flex-shrink-0" />
-                  <span className="text-sm text-white font-semibold">
-                    {gen.model?.name} {gen.codeName}
-                  </span>
-                  <span className="text-xs text-white/40 font-mono">
-                    {gen.startYear}{gen.endYear ? `–${gen.endYear}` : '–'}
-                  </span>
-                  {gen.isFacelift && (
-                    <span className="text-[10px] text-[#38bdf8] font-bold ml-auto">FACELIFT</span>
+                  {thumb && (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={thumb}
+                      alt={gen.images?.[0]?.altText ?? gen.model?.name ?? ''}
+                      className="w-16 h-11 object-cover rounded-lg flex-shrink-0 border border-white/10"
+                    />
                   )}
-                  {gen.isConcept && (
-                    <span className="text-[10px] text-[#ffd700] font-bold ml-auto">CONCEPT</span>
-                  )}
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 flex-wrap">
+                      <span className="text-sm text-white font-semibold">
+                        {gen.model?.name}
+                        {gen.codeName && gen.codeName !== String(gen.startYear) ? ` ${gen.codeName}` : ''}
+                      </span>
+                      <span className="text-xs text-white/40 font-mono">
+                        {deriveYear(gen)}{gen.endYear ? `–${gen.endYear}` : '–'}
+                      </span>
+                      {gen.isFacelift && (
+                        <span className="text-[10px] text-[#38bdf8] font-bold">FACELIFT</span>
+                      )}
+                      {gen.isConcept && (
+                        <span className="text-[10px] text-[#ffd700] font-bold">CONCEPT</span>
+                      )}
+                    </div>
+                    {/* Often carries distinguishing detail the year/codeName alone
+                        don't — e.g. "BMW M5 UK-Version | 2012MY" vs the US import
+                        sold the same nominal year, which is otherwise invisible. */}
+                    {gen.description && (
+                      <p className="text-xs text-white/50 mt-1 truncate">{gen.description}</p>
+                    )}
+                  </div>
+                  <button
+                    onClick={() => onSelect?.(gen)}
+                    className="text-white/30 hover:text-white/70 transition-colors flex-shrink-0 text-xs leading-none px-1 py-1"
+                    aria-label="Close"
+                  >
+                    ✕
+                  </button>
                 </>
               )
             })()}

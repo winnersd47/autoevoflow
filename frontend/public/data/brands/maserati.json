@@ -851,13 +851,184 @@
   },
   "latestCars": [
     {
-      "id": "ncs-maserati-2014-alfieri_concept",
-      "name": "Maserati Alfieri Concept",
-      "year": 2014,
-      "imageUrl": "https://www.netcarshow.com/Maserati-Alfieri_Concept-2014-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/maserati/2014-alfieri_concept/",
-      "description": "Maserati unveiled the Alfieri, a 2+2 concept car to celebrate the brand's centenary at the 2014 Geneva Motor Show. The Alfieri is an exciting but realistic...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
+      "id": "cad-maserati-grecale-folgore-2027",
+      "name": "2027 Maserati Grecale Folgore",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/003e37f0-a506-4d71-98ef-d9df69762013.jpg",
+      "pageUrl": "https://www.caranddriver.com/maserati/grecale-folgore-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "cad-maserati-granturismo-folgore-grancabrio-folgore-2027",
+      "name": "2027 Maserati GranTurismo Folgore / GranCabrio Folgore",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f33dd10c-55e3-4468-a501-9d1ad5f6c6f2.jpg",
+      "pageUrl": "https://www.caranddriver.com/maserati/granturismo-folgore-grancabrio-folgore-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "cad-maserati-grecale-2027",
+      "name": "2027 Maserati Grecale",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f3c78408-a604-4491-b3d5-a4fe440d9f8f.jpg",
+      "pageUrl": "https://www.caranddriver.com/maserati/grecale-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "cad-news-a71617188-2027-maserati-grecale-refresh-details",
+      "name": "2027 Maserati Grecale Gets New Base Model, More Range for the EV",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f3c78408-a604-4491-b3d5-a4fe440d9f8f.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71617188/2027-maserati-grecale-refresh-details/",
+      "description": "The new lower-cost version of the Grecale has a twin-turbo V-6, while the electric Folgore gets improvements meant to extend its driving range.",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "cad-news-a71616982-2027-maserati-granturismo-refresh-details",
+      "name": "2027 Maserati GranTurismo Gets More Power and a Sharper Look",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1f919ec0-daed-4342-90fb-3fefad0f6281.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71616982/2027-maserati-granturismo-refresh-details/",
+      "description": "The Trofeo's twin-turbo V-6 now makes 582 horsepower, a 40-hp boost, and the exhaust is meant to be more sonorous than before.",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "motor1-news-799051-maserati-lineup-2027-update-changes",
+      "name": "Maserati's Lineup Is Getting A Big 2027 Update. Here's What's Changing",
+      "year": 2027,
+      "imageUrl": "https://cdn.motor1.com/images/mgl/pbJ22Y/s3/2027-maserati-granturismo-folgore.jpg",
+      "pageUrl": "https://www.motor1.com/news/799051/maserati-lineup-2027-update-changes/",
+      "description": "The Maserati lineup sports a new look for 2027, while some models get an even more powerful V6 option.",
+      "scrapedAt": "2026-06-19T21:12:52.452Z"
+    },
+    {
+      "id": "rat-photos-g71617486-2027-maserati-model-lineup-gallery",
+      "name": "See the 2027 Maserati Model Lineup From Every Angle",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/7dc844a0-eeb5-43fd-bd9a-c260301eed99.jpg",
+      "pageUrl": "https://www.roadandtrack.com/photos/g71617486/2027-maserati-model-lineup-gallery/",
+      "description": "New faces and updated power are the keys to Maserati's 2027 model lineup.",
+      "scrapedAt": "2026-06-19T21:12:52.362Z"
+    },
+    {
+      "id": "rat-news-a71617994-2027-maserati-lineup-update-details",
+      "name": "The 2027 Maserati GranTurismo, GranCabrio, and Grecale Are All Getting a Group Facelift",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ae7260dd-8125-4e6d-814b-7214749de1d7.jpg",
+      "pageUrl": "https://www.roadandtrack.com/news/a71617994/2027-maserati-lineup-update-details/",
+      "description": "Maserati's core models are gaining fresh looks and more power for the new model year.",
+      "scrapedAt": "2026-06-19T21:12:52.362Z"
+    },
+    {
+      "id": "ncs-maserati-2027-grecale",
+      "name": "Maserati Grecale",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Maserati-Grecale-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/maserati/2027-grecale/",
+      "description": "Grecale combines versatility, everyday usability and a distinctive sporting character, confirming its best-in-class status for roominess and comfort in the segment.",
+      "scrapedAt": "2026-07-01T09:22:51.440Z"
+    },
+    {
+      "id": "ncs-maserati-2027-granturismo",
+      "name": "Maserati GranTurismo",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Maserati-GranTurismo-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/maserati/2027-granturismo/",
+      "description": "The 490-hp version interprets the luxury of travel with Crio wheels, satin chrome details and a full-grain leather cabin, featuring wood panels for GranTurismo...",
+      "scrapedAt": "2026-07-01T09:22:51.440Z"
+    },
+    {
+      "id": "ncs-maserati-2027-grancabrio",
+      "name": "Maserati GranCabrio",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Maserati-GranCabrio-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/maserati/2027-grancabrio/",
+      "description": "The GranCabrio Folgore, the first fully electric cabriolet in its segment, reaches 290 kmh, confirming its status as the fastest electric cabriolet on the road.",
+      "scrapedAt": "2026-07-01T09:22:51.440Z"
+    },
+    {
+      "id": "cad-news-a71867732-2027-maserati-grecale-folgore-price-cut",
+      "name": "2027 Maserati Grecale Folgore's Price Cut Is Much More Than a Fiat Topolino",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/003e37f0-a506-4d71-98ef-d9df69762013.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71867732/2027-maserati-grecale-folgore-price-cut/",
+      "description": "The electric version of the Grecale is heavily discounted, with Maserati slashing over $22,000 off last year's starting price.",
+      "scrapedAt": "2026-07-09T12:07:14.478Z"
+    },
+    {
+      "id": "cad-photos-g73230120-2027-maserati-grancabrio-trofeo-drive-exter",
+      "name": "2027 Maserati GranCabrio Trofeo",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/dc415016-90bf-452c-a50f-35976aacc0ee.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73230120/2027-maserati-grancabrio-trofeo-drive-exterior-gallery/",
+      "description": "See the exterior of the Maserati GranCabrio Trofeo from every angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-reviews-a72647895-2027-maserati-grecale-modena-drive",
+      "name": "2027 Maserati Grecale",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d5486de9-54bb-47bf-9dfb-d7756813c7d8.jpg",
+      "pageUrl": "https://www.caranddriver.com/reviews/a72647895/2027-maserati-grecale-modena-drive/",
+      "description": "Maserati hopes disaffected Porsche buyers will find their way to its freshened, V-6-powered Grecale.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-g73230122-2027-maserati-grancabrio-trofeo-drive-inter",
+      "name": "2027 Maserati GranCabrio Trofeo",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2e904d40-c684-4310-948e-c1decab87ce9.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73230122/2027-maserati-grancabrio-trofeo-drive-interior-gallery/",
+      "description": "See the interior of the Maserati GranCabrio Trofeo from every angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-g73230119-2027-maserati-grecale-modena-drive-interior",
+      "name": "2027 Maserati Grecale Modena",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/a4024c91-fd9e-4aa6-9283-a314cfe4ac21.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73230119/2027-maserati-grecale-modena-drive-interior-gallery/",
+      "description": "See the interior of the 2027 Maserati Grecale Modena from every angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-g73230123-2027-maserati-grecale-modena-drive-exterior",
+      "name": "2027 Maserati Grecale Modena",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/48ad57f0-5ec8-48bf-ac20-bc43d556445b.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73230123/2027-maserati-grecale-modena-drive-exterior-gallery/",
+      "description": "See the exterior of the 2027 Maserati Grecale Modena from every angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-g73235054-2027-maserati-grecale-folgore-revealed-inte",
+      "name": "2027 Maserati Grecale Folgore",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c4aadcb1-b747-4cf4-af5d-805aac628d6b.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73235054/2027-maserati-grecale-folgore-revealed-interior-gallery/",
+      "description": "See the 2027 Maserati Grecale Folgore from every interior angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-g73235055-2027-maserati-grecale-folgore-revealed-exte",
+      "name": "2027 Maserati Grecale Folgore",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/7b530c3a-b76a-4f82-bad6-3e774be1f7fd.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73235055/2027-maserati-grecale-folgore-revealed-exterior-gallery/",
+      "description": "See the 2027 Maserati Grecale Folgore from every exterior angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-a73234173-2027-maserati-grancabrio-folgore-revealed-i",
+      "name": "2027 Maserati GranCabrio Folgore",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/74b30a3c-78fe-459c-a732-144bab59394e.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a73234173/2027-maserati-grancabrio-folgore-revealed-interior-gallery/",
+      "description": "See the 2027 Maserati GranCabrio Folgore interior after receiving a light styling refresh.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
     }
   ]
 }

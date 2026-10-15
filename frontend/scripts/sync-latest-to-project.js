@@ -16,6 +16,10 @@ const LATEST_FILE = path.join(ROOT, 'public/data/latest-cars.json')
 const GRAPH_FILE  = path.join(ROOT, 'public/data/evolution/graph.json')
 const BRANDS_DIR  = path.join(ROOT, 'public/data/brands')
 const MODELS_DIR  = path.join(ROOT, 'public/data/models')
+const A777_CATALOG_FILE = path.join(ROOT, 'public/data/a777-catalog-cache.json')
+
+const A777_BRAND_MAP = require('./a777-brand-map.js')
+const { crawlBrandCatalog, lookupA777ForNode } = require('./a777-lib.js')
 
 // ─── Парсинг технических данных из описания ───────────────────────────────────
 function inferFromDescription(name, desc = '') {
@@ -33,8 +37,15 @@ function inferFromDescription(name, desc = '') {
   }
   if (hp < 50 || hp > 3000) hp = 0
 
-  // Тип двигателя
-  let engineType = 'i4t'
+  // Тип двигателя — БЕЗ дефолта. Живой найденный баг: 'i4t' как fallback
+  // молча приписывался машинам, чей реальный двигатель просто не упомянут в
+  // обрезанном description (netcarshow режет описание на первый абзац — там
+  // часто история/контекст, а спеки двигателя идут позже и не долетают до
+  // скрапа). Bugatti Veyron (W16) и Koenigsegg CCGT1 (V8T) оба получили
+  // ложный 'i4t' именно так. Ненайденный тип двигателя — не турбочетвёрка по
+  // умолчанию, а неизвестность: оставляем undefined, заполнит энrichment
+  // (A777) или ручная/агентская проверка.
+  let engineType
   if (/\belectric\b|\bev\b|\bbev\b/.test(text))              engineType = 'ev'
   else if (/\bhybrid\b/.test(text) && /v8/.test(text))        engineType = 'v8h'
   else if (/\bhybrid\b/.test(text) && /v6/.test(text))        engineType = 'v6h'
@@ -101,17 +112,29 @@ function findParentNode(car, graphNodes) {
     { keys: ['rs7', 'rs 7'],                       parent: 'audi-rs7-4k'             },
     { keys: ['rs6', 'rs 6'],                       parent: 'audi-rs6-c8'             },
     { keys: ['a4', 'b11'],                         parent: 'audi-a4b10'              },
+    { keys: ['m3 cs', 'm3 competition', 'm3 touring', 'm3 gts'], parent: 'bmw-m3-g80', variant: true },
+    { keys: ['m4 cs', 'm4 competition', 'm4 gts'],             parent: 'bmw-m4-g82', variant: true },
+    { keys: ['m5 cs', 'm5 competition'],                       parent: 'bmw-m5-g30', variant: true },
     { keys: ['m3'],                                parent: 'bmw-m3-g80'              },
     { keys: ['m4'],                                parent: 'bmw-m4-g82'              },
     { keys: ['m5'],                                parent: 'bmw-m5-g30'              },
+    { keys: ['x5 m', 'x5m'],                        parent: 'bmw-x5m-f95'            },
+    { keys: ['ix5'],                               parent: 'bmw-ix5-g05e'           },
+    { keys: ['x5'],                                parent: 'bmw-x5-g65'             },
     { keys: ['7 series', '7-series', 'g71'],       parent: 'bmw-7-g70'              },
     { keys: ['5 series', '5-series', 'g61'],       parent: 'bmw-i5-g60'             },
     { keys: ['c-class', 'c class'],                parent: 'merc-c-w206'             },
     { keys: ['e-class', 'e class'],                parent: 'merc-w213'               },
     { keys: ['s-class', 's class'],                parent: 'merc-s-w223'             },
+    { keys: ['911 gt3', '992 gt3', '911 gt2'],     parent: 'p911-gt3-992',  variant: true },
+    { keys: ['911 turbo s', '992 turbo'],          parent: 'p911-turbo-992t', variant: true },
+    { keys: ['911 gts', '911 targa', '992 gts', '911 carrera gts'], parent: 'p911-992-fl', variant: true },
     { keys: ['911', '992'],                        parent: 'p911-992-fl'             },
+    { keys: ['cayenne turbo', 'cayenne gts', 'cayenne coupe e', 'cayenne s coupe'], parent: 'porsche-cay9-9ya', variant: true },
     { keys: ['cayenne'],                           parent: 'porsche-cay9-9ya'        },
+    { keys: ['panamera turbo', 'panamera gts'],    parent: 'porsche-pan-971', variant: true },
     { keys: ['panamera'],                          parent: 'porsche-pan-971'         },
+    { keys: ['macan gts', 'macan turbo', 'macan s coupe'], parent: 'porsche-mac-j1', variant: true },
     { keys: ['macan'],                             parent: 'porsche-mac-j1'          },
     { keys: ['chiron', 'veyron successor'],        parent: 'bugatti-chiron'          },
     { keys: ['huracán', 'huracan'],                parent: 'lambo-huracan'           },
@@ -133,7 +156,7 @@ function findParentNode(car, graphNodes) {
     { keys: ['cr-v', 'crv'],                       parent: 'honda-crv-rn1'           },
     { keys: ['nsx'],                               parent: 'honda-nsx-nc1'           },
     { keys: ['skyline', 'gtr', 'gt-r'],            parent: 'nissan-gtr-r35'          },
-    { keys: ['z ', 'fairlady'],                    parent: 'nissan-z-rz34'           },
+    { keys: ['nissan z', 'fairlady'],               parent: 'nissan-z-rz34'           },
     { keys: ['mx-5', 'miata'],                     parent: 'mazda-mx5-nd'            },
     { keys: ['rx-'],                               parent: 'mazda-rx8-se3p'          },
     { keys: ['wrx', 'impreza'],                    parent: 'subaru-wrx-vb'           },
@@ -144,11 +167,51 @@ function findParentNode(car, graphNodes) {
     { keys: ['jesko'],                             parent: 'kgsegg-jesko'            },
     { keys: ['regera'],                            parent: 'kgsegg-regera'           },
     { keys: ['utopia'],                            parent: 'pagani-utopia'           },
+    // Jaguar
+    { keys: ['f-type', 'ftype'],                   parent: 'jag-ftype'               },
+    { keys: ['f-pace', 'fpace'],                   parent: 'jag-fpace'               },
+    { keys: ['e-pace', 'epace'],                   parent: 'jag-epace'               },
+    { keys: ['i-pace', 'ipace'],                   parent: 'jag-ipace'               },
+    { keys: ['xf'],                                parent: 'jag-xf-x260'             },
+    { keys: ['xe'],                                parent: 'jag-xe'                  },
+    { keys: ['xj'],                                parent: 'jag-xj-x351'             },
+    // Land Rover
+    { keys: ['defender 90'],                       parent: 'lr-def-l663-90'          },
+    { keys: ['defender 110'],                      parent: 'lr-def-l663-110'         },
+    { keys: ['defender 130'],                      parent: 'lr-def-l663-130'         },
+    { keys: ['range rover sport'],                 parent: 'lr-rrs-l461'             },
+    { keys: ['range rover evoque', 'evoque'],      parent: 'lr-evoque-l551'          },
+    { keys: ['range rover velar', 'velar'],        parent: 'lr-velar'                },
+    { keys: ['range rover'],                       parent: 'lr-rr-l460'              },
+    { keys: ['discovery sport'],                   parent: 'lr-disco-sport'          },
+    { keys: ['discovery'],                         parent: 'lr-disco5'               },
+    { keys: ['freelander'],                        parent: 'lr-freelander2'          },
+    // Volvo
+    { keys: ['ex90'],                              parent: 'volvo-ex90-1'            },
+    { keys: ['ex60'],                              parent: 'volvo-ex60-1'            },
+    { keys: ['ex40'],                              parent: 'volvo-ex40-1'            },
+    { keys: ['c40'],                               parent: 'volvo-c40-1'             },
+    { keys: ['xc90'],                              parent: 'volvo-xc90-2'            },
+    { keys: ['xc60'],                              parent: 'volvo-xc60-2'            },
+    { keys: ['xc40'],                              parent: 'volvo-xc40-1'            },
+    { keys: ['s60'],                               parent: 'volvo-s60-3'             },
+    // GMC
+    { keys: ['sierra'],                            parent: 'gmc-sierra-5'            },
+    { keys: ['hummer ev'],                         parent: 'gmc-hummer-ev'           },
+    { keys: ['yukon'],                             parent: 'gmc-yukon-5'             },
+    { keys: ['canyon'],                            parent: 'gmc-canyon-3'            },
+    // Ram
+    { keys: ['ram trx', '1500 trx'],               parent: 'ram-1500-trx'            },
+    { keys: ['backcountry', 'back country'],        parent: 'ram-1500-bc'             },
+    { keys: ['ram 1500', '1500'],                  parent: 'ram-1500-6'              },
+    // Chevrolet trucks
+    { keys: ['silverado'],                         parent: 'chev-silverado-5'        },
+    { keys: ['bolt ev', 'bolt euv'],               parent: 'chev-bolt-2'             },
   ]
 
   for (const s of SUCCESSORS) {
     if (s.keys.some(k => nameLower.includes(k))) {
-      if (graphNodes.some(n => n.id === s.parent)) return s.parent
+      if (graphNodes.some(n => n.id === s.parent)) return { parent: s.parent, variant: !!s.variant }
     }
   }
 
@@ -157,6 +220,35 @@ function findParentNode(car, graphNodes) {
   // обратная хронология). Лучше оставить узел без родителя для ручной привязки.
   // См. CLAUDE.md → ловушка авто-родителя скрапера.
   return null
+}
+
+// ─── Проверка: это ТРИМ/эдишн той же генерации, а не новое поколение? ─────────
+// Баг-триггер: запись { keys: ['aventador','revuelto'], parent: 'lamborghini-revo' }
+// в SUCCESSORS без variant:true — Revuelto SV/Impavido/Miura 60 Homage (все три —
+// трим и юбилейные издания ТОЙ ЖЕ генерации, реальный SV у Lamborghini НИКОГДА не
+// был новым поколением: Murciélago SV, Aventador SV — всегда топ-трим текущей
+// модели) уехали в граф как evolves_into, будто это следующее поколение после
+// самих себя. Ручная правка одной записи чинит именно "revuelto" — но со временем
+// появится ещё десяток проектов SUCCESSORS без variant:true для будущих
+// трим/эдишн-неймов, которые никто заранее не впишет как ключевое слово (Impavido,
+// Miura 60 Homage — одноразовые имена, их не заложить в keys заранее). Поэтому
+// проверяем СТРУКТУРНО, а не по ключевым словам: если имя новинки = "<точное имя
+// базовой ноды без маркеров поколения> + доп. слово(а)" — это трим, а не поколение,
+// НЕЗАВИСИМО от того, что написано в SUCCESSORS.
+const GEN_MARKERS_RE = /\b(gen\.?\s?\d+|mk\s?\d+|generation\s*\d*|\bii\b|\biii\b|\biv\b|\(\d{4}\)|\d{4})\b/gi
+function isSameGenerationTrim(carName, parentNode) {
+  if (!carName || !parentNode?.label) return false
+  const brand = parentNode.brandName || parentNode.brandId || ''
+  const stripBrand = (s) => brand ? s.replace(new RegExp(`^${brand}\\s+`, 'i'), '') : s
+  const normalize  = (s) => stripBrand(s).toLowerCase().replace(GEN_MARKERS_RE, '').replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim()
+
+  const parentCore = normalize(parentNode.label)
+  const carCore     = normalize(carName)
+  if (parentCore.length < 3) return false          // слишком общее имя ("S", "M") — не проверяем
+  if (!carCore.startsWith(parentCore)) return false
+
+  const extra = carCore.slice(parentCore.length).trim()
+  return extra.length > 1                           // есть содержательное слово ПОСЛЕ имени базовой модели
 }
 
 // ─── Создание ноды для графа ──────────────────────────────────────────────────
@@ -188,7 +280,7 @@ function makeGraphNode(car) {
     segment:    zone === 'hypercar' ? 'hypercar' : zone === 'supercar' ? 'supercar' : 'other',
     zone,
     hp:         hp || undefined,
-    engineType: engineType || 'i4t',
+    engineType, // undefined когда не удалось определить — см. inferFromDescription
     heroImageUrl: car.imageUrl || '',
     thumbnailUrl: car.thumbUrl || '',
     description:  car.description || '',
@@ -199,12 +291,34 @@ function makeGraphNode(car) {
 }
 
 // ─── Синхронизация с graph.json ───────────────────────────────────────────────
-function syncToGraph(latestCars) {
+async function syncToGraph(latestCars) {
   const graph = JSON.parse(fs.readFileSync(GRAPH_FILE, 'utf8'))
   const existingIds = new Set(graph.nodes.map(n => n.id))
   const existingEdgeIds = new Set(graph.edges.map(e => e.id))
 
-  let addedNodes = 0, addedEdges = 0
+  // Время круга (Нюрбургринг/Top Gear) для новых нод — сразу при добавлении, не
+  // отдельным ручным прогоном crawl-a777.js. Каталог по бренду кэшируется здесь
+  // же (a777-catalog-cache.json) — новых нод за один прогон обычно единицы, так
+  // что редкий "холодный" краул нового бренда (десяток запросов) не проблема.
+  let a777Catalog = {}
+  if (fs.existsSync(A777_CATALOG_FILE)) { try { a777Catalog = JSON.parse(fs.readFileSync(A777_CATALOG_FILE, 'utf8')) } catch {} }
+  let a777CatalogDirty = false
+
+  // Нечёткий дедуп по (бренд+год+нормализованное имя) — ловит случай, когда
+  // ncs-нода была вручную удалена/слита в другую (не-ncs) ноду при ревью, но
+  // скрапер на следующем прогоне видит "этого id больше нет" и создаёт его
+  // заново (id зависит только от текста заголовка, не помнит прошлых решений).
+  // Пример: bugatti-destrier (ручная нода) удалили ncs-bugatti-2026-destrier —
+  // через 6 часов скрапер принёс её обратно под тем же именем.
+  const normLabel = (s) => (s || '').toLowerCase().replace(/^\d{4}\s+/, '').replace(/[^a-z0-9]+/g, ' ').trim()
+  const existingByBrandYear = new Map()
+  for (const n of graph.nodes) {
+    const key = `${n.brandId}|${n.year}`
+    if (!existingByBrandYear.has(key)) existingByBrandYear.set(key, [])
+    existingByBrandYear.get(key).push(normLabel(n.label))
+  }
+
+  let addedNodes = 0, addedEdges = 0, skippedFuzzy = 0
 
   for (const car of latestCars) {
     // Пропускаем слишком расплывчатые записи (новости, а не модели)
@@ -215,28 +329,75 @@ function syncToGraph(latestCars) {
     // и не совпадал → одни и те же модели добавлялись дублями КАЖДЫЙ прогон).
     if (existingIds.has(node.id)) continue
 
-    const parent = findParentNode(car, graph.nodes)
+    // Дедуп по смыслу: та же марка+год+похожее имя УЖЕ есть под другим id —
+    // значит, это либо ручная нода из прошлого ревью, либо более ранний
+    // прогон скрапера уже добавил то же самое под чуть другим заголовком.
+    const candLabel = normLabel(node.label)
+    const bucket = existingByBrandYear.get(`${node.brandId}|${node.year}`) || []
+    if (candLabel && bucket.some(l => l && (l.includes(candLabel) || candLabel.includes(l)))) {
+      skippedFuzzy++
+      continue
+    }
+
+    const parentResult = findParentNode(car, graph.nodes)
+
+    // Время круга — best-effort: бренда может не быть в A777_BRAND_MAP, каталог
+    // может не скраулиться (сайт лёг/бренда там нет) — тогда просто нет полей,
+    // это не должно ронять синхронизацию остальных нод.
+    const a777Brand = A777_BRAND_MAP[node.brandId]
+    if (a777Brand) {
+      try {
+        if (!a777Catalog[node.brandId]) {
+          const catalog = await crawlBrandCatalog(a777Brand)
+          a777Catalog[node.brandId] = { catalog, crawledAt: Date.now() }
+          a777CatalogDirty = true
+        }
+        const a777Result = await lookupA777ForNode(node, a777Catalog[node.brandId].catalog)
+        if (a777Result) {
+          if (a777Result.topSpeed)     node.a777TopSpeed   = a777Result.topSpeed
+          if (a777Result.acceleration) node.a777Accel      = a777Result.acceleration
+          if (a777Result.torque)       node.a777Torque     = a777Result.torque
+          if (a777Result.weightKg)     node.a777Weight     = a777Result.weightKg
+          if (a777Result.priceUsd)     node.a777Price      = a777Result.priceUsd
+          if (a777Result.hpPerTon)     node.a777HpPerTon   = a777Result.hpPerTon
+          if (a777Result.hpPerLiter)   node.a777HpPerLiter = a777Result.hpPerLiter
+          const tt = a777Result.trackTimes ?? {}
+          if (tt.nurburgring) node.a777Nurb       = tt.nurburgring
+          if (tt.topgear)     node.a777TopGear    = tt.topgear
+          if (tt.hockenheim)  node.a777Hockenheim = tt.hockenheim
+          if (tt.tsukuba)     node.a777Tsukuba    = tt.tsukuba
+        }
+      } catch { /* best-effort — сеть не должна ронять синк графа */ }
+    }
 
     graph.nodes.push(node)
     existingIds.add(node.id)
     addedNodes++
 
-    // Добавляем ребро evolves_into от родителя
-    if (parent) {
-      const edgeId = `sync-ev-${parent}-${node.id}`.substring(0, 80)
+    // Добавляем ребро от родителя: variant_of для модификаций, evolves_into для новых поколений.
+    // variant НЕ полагается только на явный флаг в SUCCESSORS (его легко забыть на новой
+    // записи — см. isSameGenerationTrim) — структурная проверка имени подстраховывает.
+    if (parentResult) {
+      const { parent, variant: explicitVariant } = parentResult
+      const parentNode = graph.nodes.find(n => n.id === parent)
+      const variant = explicitVariant || isSameGenerationTrim(car.name, parentNode)
+      const edgeType = variant ? 'variant_of' : 'evolves_into'
+      const edgeId = `sync-${variant ? 'var' : 'ev'}-${parent}-${node.id}`.substring(0, 80)
       if (!existingEdgeIds.has(edgeId)) {
-        graph.edges.push({ id: edgeId, source: parent, target: node.id, type: 'evolves_into', strength: 0.9 })
+        graph.edges.push({ id: edgeId, source: parent, target: node.id, type: edgeType, strength: 0.9 })
         existingEdgeIds.add(edgeId)
         addedEdges++
       }
     }
   }
 
+  if (a777CatalogDirty) fs.writeFileSync(A777_CATALOG_FILE, JSON.stringify(a777Catalog, null, 2), 'utf8')
+
   if (addedNodes > 0) {
     fs.writeFileSync(GRAPH_FILE, JSON.stringify(graph, null, 2), 'utf8')
-    console.log(`[graph] +${addedNodes} узлов, +${addedEdges} рёбер`)
+    console.log(`[graph] +${addedNodes} узлов, +${addedEdges} рёбер${skippedFuzzy ? `, пропущено как дубль: ${skippedFuzzy}` : ''}`)
   } else {
-    console.log(`[graph] нет новых узлов (${latestCars.length} проверено)`)
+    console.log(`[graph] нет новых узлов (${latestCars.length} проверено)${skippedFuzzy ? `, пропущено как дубль: ${skippedFuzzy}` : ''}`)
   }
   return addedNodes
 }
@@ -334,7 +495,7 @@ function syncToModels(latestCars) {
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────────────
-function main() {
+async function main() {
   if (!fs.existsSync(LATEST_FILE)) {
     console.error('latest-cars.json не найден. Сначала запустите scrape-latest.js')
     process.exit(1)
@@ -352,10 +513,14 @@ function main() {
     'rimac','seat','skoda','lotus','maserati','rolls-royce','bentley',
     'gordon-murray','zenvo','de-tomaso','morgan','tvr','caterham',
     'ford','hennessey','ssc','saleen','pininfarina','hispano-suiza',
-    'toyota','lexus','honda','nissan','mazda','subaru','aspark'])
+    'toyota','lexus','honda','nissan','mazda','subaru','aspark',
+    'jaguar','land-rover'])
   const BRAND_ALIAS = { 'mercedes-benz':'mercedes', 'merc':'mercedes', 'vw':'volkswagen',
     'aston-martin':'astonmartin', 'aston_martin':'astonmartin',
-    'rollsroyce':'rolls-royce', 'rolls_royce':'rolls-royce', 'rolls':'rolls-royce' }
+    'rollsroyce':'rolls-royce', 'rolls_royce':'rolls-royce', 'rolls':'rolls-royce',
+    'land rover':'land-rover', 'land_rover':'land-rover', 'landrover':'land-rover',
+    'range rover':'land-rover', 'range-rover':'land-rover', 'rangerover':'land-rover',
+    'jlr':'jaguar' }
   cars.forEach(c => { if (c.brandSlug && BRAND_ALIAS[c.brandSlug]) c.brandSlug = BRAND_ALIAS[c.brandSlug] })
   const whitelisted = cars.filter(c => c.brandSlug && BRAND_WHITELIST.has(c.brandSlug))
   const droppedN = cars.length - whitelisted.length
@@ -365,19 +530,21 @@ function main() {
   }
 
   // Фильтруем только актуальные автомобили (не расплывчатые новости)
+  // carscoops, caranddriver, motor1, roadandtrack = новостные статьи, не отдельные модели
+  const NEWS_SOURCES = new Set(['carscoops', 'caranddriver', 'motor1', 'roadandtrack'])
   const validCars = whitelisted.filter(c =>
     c.year && c.year >= 2024 &&
     c.brandSlug &&
     c.name && c.name.length < 80 &&
-    c.source !== 'carscoops'  // Carscoops = новости, не отдельные модели
+    !NEWS_SOURCES.has(c.source)
   )
   console.log(`Валидных для синхронизации: ${validCars.length}`)
 
-  syncToGraph(validCars)
+  await syncToGraph(validCars)
   syncToBrands(whitelisted)   // только бренды из белого списка
   syncToModels(validCars)
 
   console.log('\n✅ Синхронизация завершена')
 }
 
-main()
+main().catch(e => { console.error('[sync] ОШИБКА:', e.message); process.exit(1) })

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-lexus-lexus-lfa-concept",
+  "slug": "lexus-lexus-lfa-concept",
+  "name": "Lexus LFA Concept",
+  "fullName": "2025 Lexus LFA Concept",
+  "brandId": "lexus",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Lexus LFA Concept embodies Toyota's &quot;Shikinen Sengu&quot; principle of techniques and skills being passed on by car-making veterans to a younger generation so they can be learned...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-LFA_Concept-2025-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-LFA_Concept-2025-thb.jpg",
+  "tags": [
+    "new",
+    "2025"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/lexus/2025-lfa_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-31T06:37:22.511Z",
+  "createdAt": "2026-07-31T06:37:23.532Z",
+  "updatedAt": "2026-07-31T06:37:23.532Z"
+}

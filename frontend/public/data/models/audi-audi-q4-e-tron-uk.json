@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-q4-e-tron-uk",
+  "slug": "audi-audi-q4-e-tron-uk",
+  "name": "Audi Q4 e-tron [UK]",
+  "fullName": "2027 Audi Q4 e-tron [UK]",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Matching the Audi Q4 e-tron's new look is a refreshed trim level structure that comprises: Sport, S line, Black Edition, and Vorsprung specifications.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-Q4_e-tron_UK-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-Q4_e-tron_UK-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-q4_e-tron_uk-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-31T06:37:22.511Z",
+  "createdAt": "2026-07-31T06:37:23.525Z",
+  "updatedAt": "2026-07-31T06:37:23.525Z"
+}

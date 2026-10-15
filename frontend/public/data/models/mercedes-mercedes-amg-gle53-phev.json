@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-amg-gle53-phev",
+  "slug": "mercedes-mercedes-amg-gle53-phev",
+  "name": "2027 Mercedes-AMG GLE53 PHEV",
+  "fullName": "2027 Mercedes-AMG GLE53 PHEV",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With 577 horsepower and a 45-mile EV-only driving range, the updated Mercedes-AMG GLE53 might be Golidlocks&#39; pick of the lineup.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-mercedes-amg-gle53-phev-is-plug-in-performance-done-properly/intro-1791919070.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-mercedes-amg-gle53-phev-is-plug-in-performance-done-properly/intro-1791919070.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2285823/2027-mercedes-amg-gle53-phev-first-drive-review/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-15T02:04:01.481Z",
+  "createdAt": "2026-10-15T02:04:11.405Z",
+  "updatedAt": "2026-10-15T02:04:11.406Z"
+}

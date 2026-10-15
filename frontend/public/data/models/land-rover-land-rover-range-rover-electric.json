@@ -1,0 +1,26 @@
+{
+  "id": "ncs-land-rover-land-rover-range-rover-electric",
+  "slug": "land-rover-land-rover-range-rover-electric",
+  "name": "Land Rover Range Rover Electric",
+  "fullName": "2027 Land Rover Range Rover Electric",
+  "brandId": "land-rover",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Range Rover Electric will complete 0-60mph in as little as 4.3 seconds, with power enabling overtaking speeds from 50-75mph in as little as 2.7 seconds.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Land_Rover-Range_Rover_Electric-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Land_Rover-Range_Rover_Electric-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/land_rover/2027-range_rover_electric/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-02T02:04:01.200Z",
+  "createdAt": "2026-09-02T02:04:11.804Z",
+  "updatedAt": "2026-09-02T02:04:11.804Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-volkswagen-volkswagen-atlas-cross-sport",
+  "slug": "volkswagen-volkswagen-atlas-cross-sport",
+  "name": "Volkswagen Atlas Cross Sport",
+  "fullName": "2027 Volkswagen Atlas Cross Sport",
+  "brandId": "volkswagen",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "2027 Volkswagen Atlas Cross Sport has an even more premium look than the outgoing vehicle thanks to all-new sheet metal and dynamic front and rear lighting.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Volkswagen-Atlas_Cross_Sport-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-Atlas_Cross_Sport-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/volkswagen/2027-atlas_cross_sport/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-13T07:18:53.704Z",
+  "createdAt": "2026-08-13T07:18:54.188Z",
+  "updatedAt": "2026-08-13T07:18:54.188Z"
+}

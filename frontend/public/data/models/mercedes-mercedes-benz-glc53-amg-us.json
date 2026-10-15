@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-glc53-amg-us",
+  "slug": "mercedes-mercedes-benz-glc53-amg-us",
+  "name": "Mercedes-Benz GLC53 AMG [US]",
+  "fullName": "2027 Mercedes-Benz GLC53 AMG [US]",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "GLC53 4MATIC+ is powered by the further developed 3.0-liter inline six-cylinder turbo engine. Engine upgrades include a new cylinder head with improved intake and exhaust ports...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLC53_AMG_US-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-GLC53_AMG_US-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-glc53_amg_us-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-04T02:04:01.223Z",
+  "createdAt": "2026-08-04T02:04:02.035Z",
+  "updatedAt": "2026-08-04T02:04:02.035Z"
+}

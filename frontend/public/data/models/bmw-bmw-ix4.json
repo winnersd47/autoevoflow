@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-ix4",
+  "slug": "bmw-bmw-ix4",
+  "name": "BMW iX4",
+  "fullName": "2027 BMW iX4",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "BMW iX4 offers a whole new experience of BMW-typical driver orientation, ensuring the driver is always given the right information in the right place at the right time.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-iX4-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX4-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix4/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-08T02:04:01.581Z",
+  "createdAt": "2026-10-08T02:04:02.213Z",
+  "updatedAt": "2026-10-08T02:04:02.214Z"
+}

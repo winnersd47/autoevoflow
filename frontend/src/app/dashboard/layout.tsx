@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import Link from 'next/link'
 import { useRouter, usePathname } from 'next/navigation'
 import {
@@ -8,46 +8,46 @@ import {
   Network, Bell, CreditCard, User, Settings2, Shield,
   LogOut, Menu, X, Zap,
 } from 'lucide-react'
+import { useLocale } from '@/contexts/LocaleContext'
+import { useAppStore } from '@/store'
+import { signOut } from '@/lib/auth-client'
 
 const NAV = [
-  { href: '/dashboard', icon: LayoutDashboard, label: 'Overview' },
-  { href: '/dashboard/favorites', icon: Heart, label: 'Favourites' },
-  { href: '/dashboard/comparisons', icon: SplitSquareHorizontal, label: 'Comparisons' },
-  { href: '/dashboard/search', icon: Search, label: 'Visual Search' },
-  { href: '/dashboard/evolution', icon: Network, label: 'Evolution Graph' },
-  { href: '/dashboard/alerts', icon: Bell, label: 'Alerts' },
-  { href: '/dashboard/store', icon: CreditCard, label: 'Premium' },
-  { href: '/dashboard/profile', icon: User, label: 'Profile' },
+  { href: '/dashboard', icon: LayoutDashboard, labelKey: 'navOverview' },
+  { href: '/dashboard/favorites', icon: Heart, labelKey: 'navFavorites' },
+  { href: '/dashboard/comparisons', icon: SplitSquareHorizontal, labelKey: 'navComparisons' },
+  { href: '/dashboard/search', icon: Search, labelKey: 'navVisualSearch' },
+  { href: '/dashboard/evolution', icon: Network, labelKey: 'navEvolution' },
+  { href: '/dashboard/alerts', icon: Bell, labelKey: 'navAlerts' },
+  { href: '/dashboard/store', icon: CreditCard, labelKey: 'navPremium' },
+  { href: '/dashboard/profile', icon: User, labelKey: 'navProfile' },
 ]
 
 const ADMIN_NAV = [
-  { href: '/dashboard/admin', icon: Settings2, label: 'Admin' },
-  { href: '/dashboard/compliance', icon: Shield, label: 'Compliance' },
+  { href: '/dashboard/admin', icon: Settings2, labelKey: 'navAdmin' },
+  { href: '/dashboard/compliance', icon: Shield, labelKey: 'navCompliance' },
 ]
 
-function getPageTitle(pathname: string) {
-  if (pathname === '/dashboard') return 'Overview'
-  const seg = pathname.split('/').pop() ?? ''
-  return seg.charAt(0).toUpperCase() + seg.slice(1)
+const PAGE_TITLE_KEY: Record<string, string> = {
+  '/dashboard': 'navOverview', '/dashboard/favorites': 'navFavorites',
+  '/dashboard/comparisons': 'navComparisons', '/dashboard/search': 'navVisualSearch',
+  '/dashboard/evolution': 'navEvolution', '/dashboard/alerts': 'navAlerts',
+  '/dashboard/store': 'navPremium', '/dashboard/profile': 'navProfile',
+  '/dashboard/admin': 'navAdmin', '/dashboard/compliance': 'navCompliance',
 }
 
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
   const router = useRouter()
   const pathname = usePathname()
-  const [user, setUser] = useState<{ email: string; username: string; role: string } | null>(null)
+  const { t } = useLocale()
+  // middleware.ts already gates every /dashboard/* request on a valid
+  // access_token cookie — this is display data, not a second auth check.
+  // (A redirect-if-!user effect here would race AuthHydrator's SSR-time
+  // store seed and can misfire before hydration catches up.)
+  const { user } = useAppStore(s => s.auth)
   const [sidebarOpen, setSidebarOpen] = useState(false)
 
-  useEffect(() => {
-    if (typeof window === 'undefined') return
-    const raw = localStorage.getItem('autoevoflow_user')
-    if (!raw) { router.push('/login'); return }
-    try { setUser(JSON.parse(raw)) } catch { router.push('/login') }
-  }, [router])
-
-  const handleLogout = () => {
-    localStorage.removeItem('autoevoflow_user')
-    router.push('/')
-  }
+  const handleLogout = () => void signOut(router)
 
   const isAdmin = user?.role === 'admin'
   const navItems = isAdmin ? [...NAV, ...ADMIN_NAV] : NAV
@@ -64,7 +64,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
 
       {/* Nav */}
       <nav className="flex-1 overflow-y-auto px-3 py-4 space-y-1">
-        {navItems.map(({ href, icon: Icon, label }) => {
+        {navItems.map(({ href, icon: Icon, labelKey }) => {
           const active = pathname === href
           return (
             <Link
@@ -78,7 +78,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
                 }`}
             >
               <Icon className="w-4 h-4 shrink-0" />
-              {label}
+              {t(`dashboard.${labelKey}`)}
             </Link>
           )
         })}
@@ -89,10 +89,10 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
         <div className="p-4 border-t border-border">
           <div className="flex items-center gap-3 mb-3">
             <div className="w-8 h-8 rounded-full bg-primary/20 border border-primary/30 flex items-center justify-center text-xs font-bold text-primary">
-              {(user.username?.[0] ?? user.email?.[0] ?? 'U').toUpperCase()}
+              {(user.name?.[0] ?? user.email?.[0] ?? 'U').toUpperCase()}
             </div>
             <div className="min-w-0">
-              <p className="text-sm font-medium text-text-primary truncate">{user.username || 'User'}</p>
+              <p className="text-sm font-medium text-text-primary truncate">{user.name || t('dashboard.user')}</p>
               <p className="text-xs text-text-muted truncate">{user.email}</p>
             </div>
           </div>
@@ -102,16 +102,10 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
               hover:text-red-400 hover:bg-red-400/10 transition-all duration-200"
           >
             <LogOut className="w-4 h-4" />
-            Sign out
+            {t('nav.signOut')}
           </button>
         </div>
       )}
-    </div>
-  )
-
-  if (!user) return (
-    <div className="min-h-screen flex items-center justify-center">
-      <div className="w-8 h-8 border-2 border-primary border-t-transparent rounded-full animate-spin" />
     </div>
   )
 
@@ -143,11 +137,11 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
             <Menu className="w-5 h-5 text-text-secondary" />
           </button>
           <h1 className="font-display font-bold text-text-primary text-lg flex-1">
-            {getPageTitle(pathname)}
+            {t(`dashboard.${PAGE_TITLE_KEY[pathname] ?? 'navOverview'}`)}
           </h1>
           <div className="flex items-center gap-3">
             <span className="hidden sm:block text-sm text-text-muted">
-              {user.username || user.email}
+              {user?.name || user?.email}
             </span>
             <button
               onClick={handleLogout}
@@ -155,7 +149,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
                 hover:text-red-400 hover:bg-red-400/10 transition-all duration-200"
             >
               <LogOut className="w-4 h-4" />
-              <span className="hidden sm:inline">Sign out</span>
+              <span className="hidden sm:inline">{t('nav.signOut')}</span>
             </button>
           </div>
         </header>

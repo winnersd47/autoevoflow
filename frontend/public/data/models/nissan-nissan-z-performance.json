@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-z-performance",
+  "slug": "nissan-nissan-z-performance",
+  "name": "Nissan Z Performance",
+  "fullName": "2027 Nissan Z Performance",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Nissan engineers also refined the ride and handling of Z Performance, using larger-diameter monotube shock absorbers. The new shock absorbers improve vibration dampening...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Z_Performance-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Z_Performance-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/nissan/2027-z_performance/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-31T06:37:22.511Z",
+  "createdAt": "2026-07-31T06:37:23.526Z",
+  "updatedAt": "2026-07-31T06:37:23.526Z"
+}

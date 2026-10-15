@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-glc-400-electric",
+  "slug": "mercedes-mercedes-glc-400-electric",
+  "name": "2027 Mercedes GLC 400 Electric",
+  "fullName": "2027 Mercedes GLC 400 Electric",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The GLC is lovely to drive and incredibly sophisticated. But it's not cheap.",
+  "generationCount": 1,
+  "heroImageUrl": "https://cdn.motor1.com/images/mgl/mMYkYA/s3/2027-mercedes-glc-400-4matic-electric-review.jpg",
+  "thumbnailUrl": "https://cdn.motor1.com/images/mgl/mMYkYA/s3/2027-mercedes-glc-400-4matic-electric-review.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://insideevs.com/reviews/808381/mercedes-glc/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-15T20:04:01.980Z",
+  "createdAt": "2026-09-15T20:04:03.259Z",
+  "updatedAt": "2026-09-15T20:04:03.259Z"
+}

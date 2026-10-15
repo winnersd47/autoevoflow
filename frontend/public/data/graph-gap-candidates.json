@@ -1,0 +1,498 @@
+{
+  "generatedAt": "2026-10-08T06:12:42.021Z",
+  "alreadyCoveredCount": 55,
+  "routineSkippedCount": 7,
+  "missingKnownBrand": [
+    {
+      "brand": "Lotus",
+      "brandSlug": "lotus",
+      "name": "2029 Lotus Esprit to",
+      "year": 2029,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Jaguar",
+      "brandSlug": "jaguar",
+      "name": "2028 Jaguar Type 01 Electric Sedan",
+      "year": 2028,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Range Rover",
+      "brandSlug": "range-rover",
+      "name": "2028 Range Rover Sport Electric",
+      "year": 2028,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Ram",
+      "brandSlug": "ram",
+      "name": "2028 Ram Ramcharger",
+      "year": 2028,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Volkswagen",
+      "brandSlug": "volkswagen",
+      "name": "2028 Volkswagen ID. Tiguan",
+      "year": 2028,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "brandSlug": "volvo",
+      "name": "2028 Volvo XC60",
+      "year": 2028,
+      "sources": [
+        "motor1",
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "brandSlug": "volvo",
+      "name": "2028 Volvo XC40",
+      "year": 2028,
+      "sources": [
+        "motor1",
+        "caranddriver",
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "brandSlug": "bentley",
+      "name": "2028 Bentley Torcal Prototype Ride",
+      "year": 2028,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Audi",
+      "brandSlug": "audi",
+      "name": "2028 Audi Nuvolari Prototype",
+      "year": 2028,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Toyota",
+      "brandSlug": "toyota",
+      "name": "2028 Without A Single Toyota Badge",
+      "year": 2028,
+      "sources": [
+        "carscoops"
+      ]
+    },
+    {
+      "brand": "Mini",
+      "brandSlug": "mini",
+      "name": "Mini Countryman Untamed Edition",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "brandSlug": "ferrari",
+      "name": "2027 Ferrari Purosangue Handling Speciale",
+      "year": 2027,
+      "sources": [
+        "roadandtrack"
+      ]
+    },
+    {
+      "brand": "Mercedes",
+      "brandSlug": "mercedes",
+      "name": "2027 Mercedes GLE450",
+      "year": 2027,
+      "sources": [
+        "roadandtrack"
+      ]
+    },
+    {
+      "brand": "Kia",
+      "brandSlug": "kia",
+      "name": "2027 Kia EV3 GT-Line",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Mini",
+      "brandSlug": "mini",
+      "name": "2027 Mini Countryman Electric Untamed Edition",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Ferrari",
+      "brandSlug": "ferrari",
+      "name": "2027 Ferrari Purosangue HS",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "brandSlug": "mercedes-benz",
+      "name": "2027 Mercedes-Benz GLE/GLE Coupe/GLS",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "GMC",
+      "brandSlug": "gmc",
+      "name": "GMC Sierra 1500",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Hyundai",
+      "brandSlug": "hyundai",
+      "name": "Hyundai Tucson [EU]",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Hyundai",
+      "brandSlug": "hyundai",
+      "name": "Hyundai Tucson XRT PRO",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Cupra",
+      "brandSlug": "cupra",
+      "name": "Cupra Raval",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Mitsubishi",
+      "brandSlug": "mitsubishi",
+      "name": "Mitsubishi Eclipse Sportback",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Honda",
+      "brandSlug": "honda",
+      "name": "2027 Honda Civic Type R HRC Reportedly Heads",
+      "year": 2027,
+      "sources": [
+        "motor1"
+      ]
+    },
+    {
+      "brand": "Dodge",
+      "brandSlug": "dodge",
+      "name": "Dodge Charger Daytona 4-door [EU]",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Dodge",
+      "brandSlug": "dodge",
+      "name": "Dodge Charger Sixpack [EU]",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Aston Martin",
+      "brandSlug": "aston-martin",
+      "name": "2027 Aston Martin DB12 S",
+      "year": 2027,
+      "sources": [
+        "roadandtrack"
+      ]
+    },
+    {
+      "brand": "Jeep",
+      "brandSlug": "jeep",
+      "name": "2027 Jeep Cherokee Trailhawk",
+      "year": 2027,
+      "sources": [
+        "carscoops"
+      ]
+    },
+    {
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW 3-Series Looks Like Its EV Relative,",
+      "year": 2027,
+      "sources": [
+        "roadandtrack"
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "brandSlug": "volvo",
+      "name": "Volvo XC90",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Ford",
+      "brandSlug": "ford",
+      "name": "2027 Ford Super Duty A",
+      "year": 2027,
+      "sources": [
+        "carscoops"
+      ]
+    },
+    {
+      "brand": "Audi",
+      "brandSlug": "audi",
+      "name": "2027 Audi Q6 e-tron / Q6 e-tron Sportback",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Buick",
+      "brandSlug": "buick",
+      "name": "2027 Buick Envision",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Toyota",
+      "brandSlug": "toyota",
+      "name": "2027 Toyota Corolla Cross",
+      "year": 2027,
+      "sources": [
+        "carscoops"
+      ]
+    },
+    {
+      "brand": "Jeep",
+      "brandSlug": "jeep",
+      "name": "Jeep Wrangler JL-2A",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Chevrolet",
+      "brandSlug": "chevrolet",
+      "name": "2027 Chevrolet Corvette Z06 Lands In Australia, But",
+      "year": 2027,
+      "sources": [
+        "carscoops"
+      ]
+    },
+    {
+      "brand": "Hyundai",
+      "brandSlug": "hyundai",
+      "name": "2027 Hyundai Ioniq 5 N",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Hyundai",
+      "brandSlug": "hyundai",
+      "name": "2027 Hyundai Tucson Bets On Hybrids",
+      "year": 2027,
+      "sources": [
+        "insideevs"
+      ]
+    },
+    {
+      "brand": "Jeep",
+      "brandSlug": "jeep",
+      "name": "2027 Jeep Cherokee",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Peugeot",
+      "brandSlug": "peugeot",
+      "name": "2027 Peugeot 208",
+      "year": 2027,
+      "sources": [
+        "carscoops"
+      ]
+    },
+    {
+      "brand": "Hyundai",
+      "brandSlug": "hyundai",
+      "name": "2027 Hyundai Tucson Lands",
+      "year": 2027,
+      "sources": [
+        "carscoops"
+      ]
+    },
+    {
+      "brand": "Lexus",
+      "brandSlug": "lexus",
+      "name": "2027 Lexus TZ",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "brandSlug": "mercedes-benz",
+      "name": "2027 Mercedes-Benz G 580 Electric",
+      "year": 2027,
+      "sources": [
+        "motor1"
+      ]
+    },
+    {
+      "brand": "Subaru",
+      "brandSlug": "subaru",
+      "name": "2027 Subaru Forester Prices Hold Steady, but Nonhybrid",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Ram",
+      "brandSlug": "ram",
+      "name": "2027 Ram RHO / TRX SRT",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Subaru",
+      "brandSlug": "subaru",
+      "name": "2027 Subaru Impreza Base Model",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Ram",
+      "brandSlug": "ram",
+      "name": "2027 Ram 1500 TRX SRT",
+      "year": 2027,
+      "sources": [
+        "caranddriver"
+      ]
+    },
+    {
+      "brand": "Geely",
+      "brandSlug": "geely",
+      "name": "Geely Xingyue L Plus",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Kia",
+      "brandSlug": "kia",
+      "name": "Kia EV4 GT Hatchback",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Dacia",
+      "brandSlug": "dacia",
+      "name": "Dacia Spring",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Citroen",
+      "brandSlug": "citroen",
+      "name": "Citroen C5 Aircross Emeraude",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "brandSlug": "volvo",
+      "name": "Volvo EX40",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Volvo",
+      "brandSlug": "volvo",
+      "name": "Volvo EC40",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
+      "brand": "Renault",
+      "brandSlug": "renault",
+      "name": "Renault Niagara",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    }
+  ],
+  "unknownBrand": [
+    {
+      "brand": "Land",
+      "brandSlug": "land_rover",
+      "name": "Land Rover Range Rover Electric",
+      "year": 2027,
+      "sources": [
+        "netcarshow"
+      ]
+    }
+  ]
+}

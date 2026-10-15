@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-g-580-ev",
+  "slug": "mercedes-mercedes-g-580-ev",
+  "name": "2027 Mercedes G 580 EV",
+  "fullName": "2027 Mercedes G 580 EV",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The boxy electric SUV actually has two charging ports now, just like the new CLA EV.",
+  "generationCount": 1,
+  "heroImageUrl": "https://cdn.motor1.com/images/mgl/kolqbM/s3/mercedes-benz-evs-gain-access-to-the-tesla-supercharger-network.jpg",
+  "thumbnailUrl": "https://cdn.motor1.com/images/mgl/kolqbM/s3/mercedes-benz-evs-gain-access-to-the-tesla-supercharger-network.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://insideevs.com/news/809978/2027-mercedes-g-class-ev-more-range-nacs-port/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-29T08:04:01.599Z",
+  "createdAt": "2026-09-29T08:04:11.751Z",
+  "updatedAt": "2026-09-29T08:04:11.752Z"
+}

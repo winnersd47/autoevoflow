@@ -1,0 +1,26 @@
+{
+  "id": "ncs-land-rover-land-rover-defender-vertex",
+  "slug": "land-rover-land-rover-defender-vertex",
+  "name": "Land Rover Defender Vertex",
+  "fullName": "2027 Land Rover Defender Vertex",
+  "brandId": "land-rover",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Defender Vertex sits alongside X specification, taking tough luxury to new heights, for both life in the city and outdoor exploration...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Land_Rover-Defender_Vertex-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Land_Rover-Defender_Vertex-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/land_rover/2027-defender_vertex/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-09T12:07:14.659Z",
+  "createdAt": "2026-07-09T12:07:14.889Z",
+  "updatedAt": "2026-07-09T12:07:14.889Z"
+}

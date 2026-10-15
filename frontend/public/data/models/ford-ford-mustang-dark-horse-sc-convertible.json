@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ford-ford-mustang-dark-horse-sc-convertible",
+  "slug": "ford-ford-mustang-dark-horse-sc-convertible",
+  "name": "Ford Mustang Dark Horse SC Convertible",
+  "fullName": "2027 Ford Mustang Dark Horse SC Convertible",
+  "brandId": "ford",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "It's the drop-top counterpart to the Dark Horse SC coupe, bringing Ford Racing engineering to the newest member of the Mustang Dark Horse family.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ford-Mustang_Dark_Horse_SC_Convertible-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ford-Mustang_Dark_Horse_SC_Convertible-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ford/2027-mustang_dark_horse_sc_convertible/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-15T02:04:01.794Z",
+  "createdAt": "2026-08-15T02:04:02.414Z",
+  "updatedAt": "2026-08-15T02:04:02.414Z"
+}

@@ -14,15 +14,16 @@ neo4j==5.27.0
 aiohttp==3.11.10
 httpx==0.28.1
 openai==1.57.2
-anthropic==0.40.0
-open-clip-torch==2.29.0
-torch==2.5.1
-torchvision==0.20.1
-transformers==4.47.1
+# Unpinned below: exact versions have no wheels for the Python on this
+# machine (3.13). Auth doesn't touch any of this — it's only needed once the
+# vision-search feature is actually wired up, so newer-compatible is fine.
+open-clip-torch
+torch
+torchvision
+transformers
 Pillow==11.0.0
 numpy==2.1.3
 scikit-learn==1.5.2
-faiss-cpu==1.9.0
 pgvector==0.3.6
 celery==5.4.0
 python-multipart==0.0.18

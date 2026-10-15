@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ford-ford-f-150-refresh-boosts-v8-availability-exactly",
+  "slug": "ford-ford-f-150-refresh-boosts-v8-availability-exactly",
+  "name": "2027 Ford F-150 Refresh Boosts V8 Availability, Exactly",
+  "fullName": "2027 Ford F-150 Refresh Boosts V8 Availability, Exactly",
+  "brandId": "ford",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Details are out on the new, refreshed Ford F-150, including expanded availability of the 5.0-liter V8 and changes in prices across the range.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-ford-f-150-refresh-boosts-v8-availability-exactly-what-we-need-when-gas-is-over-4-a-gallon/intro-1789492589.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-ford-f-150-refresh-boosts-v8-availability-exactly-what-we-need-when-gas-is-over-4-a-gallon/intro-1789492589.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2259287/2027-ford-f-150-refresh-expands-v8s-adds-carhartt-edition/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-15T20:04:02.234Z",
+  "createdAt": "2026-09-15T20:04:03.257Z",
+  "updatedAt": "2026-09-15T20:04:03.258Z"
+}

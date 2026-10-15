@@ -48,8 +48,6 @@ class Settings(BaseSettings):
     OPENAI_API_KEY: str = Field(default="")
     OPENAI_EMBEDDING_MODEL: str = "text-embedding-3-large"
     OPENAI_CHAT_MODEL: str = "gpt-4o"
-    ANTHROPIC_API_KEY: str = Field(default="")
-    ANTHROPIC_MODEL: str = "claude-opus-4-5"
 
     # ── Yandex AI (YandexGPT, SpeechKit, Vision OCR, YandexART) ──────────────
     YANDEX_API_KEY: str = Field(default="")

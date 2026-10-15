@@ -28,44 +28,58 @@ depends_on: str | tuple[str, ...] | None = None
 
 def upgrade() -> None:
     # ── Extensions ─────────────────────────────────────────────────────────────
-    op.execute("CREATE EXTENSION IF NOT EXISTS vector")
+    # pgvector isn't available on every local dev Postgres (e.g. a stock Windows
+    # install has no vector.control until it's built/installed separately). Auth
+    # doesn't touch any embedding column, so when it's missing we skip pgvector
+    # entirely and leave those columns as plain Text — everything else still runs.
+    bind = op.get_bind()
+    has_vector = bind.execute(
+        sa.text("SELECT 1 FROM pg_available_extensions WHERE name = 'vector'")
+    ).scalar() is not None
+    if has_vector:
+        op.execute("CREATE EXTENSION IF NOT EXISTS vector")
     op.execute("CREATE EXTENSION IF NOT EXISTS pg_trgm")
     op.execute("CREATE EXTENSION IF NOT EXISTS btree_gin")
 
     # ── Enum types ─────────────────────────────────────────────────────────────
+    # create_type=False on every one: they're explicitly created below via
+    # checkfirst=True, so table DDL that references them as a column type
+    # shouldn't *also* try to auto-create them (that second, unguarded attempt
+    # is what throws DuplicateObjectError — checkfirst on the explicit .create()
+    # call doesn't stop SQLAlchemy's own table-DDL enum auto-creation).
     body_type_enum = postgresql.ENUM(
         "sedan", "hatchback", "wagon", "coupe", "convertible",
         "suv", "crossover", "pickup", "van", "minivan", "roadster", "other",
-        name="body_type_enum",
+        name="body_type_enum", create_type=False,
     )
     engine_type_enum = postgresql.ENUM(
         "petrol", "diesel", "hybrid", "plug_in_hybrid", "electric", "hydrogen", "other",
-        name="engine_type_enum",
+        name="engine_type_enum", create_type=False,
     )
     drivetrain_enum = postgresql.ENUM(
         "fwd", "rwd", "awd", "4wd",
-        name="drivetrain_enum",
+        name="drivetrain_enum", create_type=False,
     )
     transmission_enum = postgresql.ENUM(
         "manual", "automatic", "cvt", "dct", "amt",
-        name="transmission_enum",
+        name="transmission_enum", create_type=False,
     )
     view_type_enum = postgresql.ENUM(
         "front", "rear", "side", "three_quarter_front", "three_quarter_rear",
         "interior", "dashboard", "detail", "aerial", "other",
-        name="view_type_enum",
+        name="view_type_enum", create_type=False,
     )
     crawler_status_enum = postgresql.ENUM(
         "pending", "running", "completed", "failed", "cancelled",
-        name="crawler_status_enum",
+        name="crawler_status_enum", create_type=False,
     )
     user_role_enum = postgresql.ENUM(
         "user", "premium", "admin",
-        name="user_role_enum",
+        name="user_role_enum", create_type=False,
     )
     oauth_provider_enum = postgresql.ENUM(
         "local", "google", "github",
-        name="oauth_provider_enum",
+        name="oauth_provider_enum", create_type=False,
     )
 
     for enum_type in [
@@ -100,19 +114,21 @@ def upgrade() -> None:
     )
 
     # Add vector column via raw DDL (pgvector type)
-    op.execute("ALTER TABLE brands ALTER COLUMN dna_embedding TYPE vector(1536) USING NULL::vector(1536)")
-    op.execute("ALTER TABLE brands ALTER COLUMN dna_embedding DROP NOT NULL")
+    if has_vector:
+        op.execute("ALTER TABLE brands ALTER COLUMN dna_embedding TYPE vector(1536) USING NULL::vector(1536)")
+        op.execute("ALTER TABLE brands ALTER COLUMN dna_embedding DROP NOT NULL")
 
     op.create_index("ix_brands_slug", "brands", ["slug"], unique=True)
     op.create_index("ix_brands_name", "brands", ["name"])
     op.execute(
         "CREATE INDEX ix_brands_name_trgm ON brands USING gin (name gin_trgm_ops)"
     )
-    op.execute(
-        "CREATE INDEX ix_brands_dna_embedding ON brands "
-        "USING hnsw (dna_embedding vector_cosine_ops) "
-        "WITH (m = 16, ef_construction = 64)"
-    )
+    if has_vector:
+        op.execute(
+            "CREATE INDEX ix_brands_dna_embedding ON brands "
+            "USING hnsw (dna_embedding vector_cosine_ops) "
+            "WITH (m = 16, ef_construction = 64)"
+        )
 
     # ── car_models ─────────────────────────────────────────────────────────────
     op.create_table(
@@ -189,31 +205,33 @@ def upgrade() -> None:
     )
 
     # Retype to pgvector columns
-    op.execute(
-        "ALTER TABLE generations "
-        "ALTER COLUMN visual_embedding TYPE vector(1536) USING NULL::vector(1536), "
-        "ALTER COLUMN semantic_embedding TYPE vector(768) USING NULL::vector(768), "
-        "ALTER COLUMN design_dna_embedding TYPE vector(512) USING NULL::vector(512)"
-    )
+    if has_vector:
+        op.execute(
+            "ALTER TABLE generations "
+            "ALTER COLUMN visual_embedding TYPE vector(1536) USING NULL::vector(1536), "
+            "ALTER COLUMN semantic_embedding TYPE vector(768) USING NULL::vector(768), "
+            "ALTER COLUMN design_dna_embedding TYPE vector(512) USING NULL::vector(512)"
+        )
 
     op.create_index("ix_generations_model_id", "generations", ["model_id"])
     op.create_index("ix_generations_facelift_of_id", "generations", ["facelift_of_id"])
     op.create_index("ix_generations_model_year", "generations", ["model_id", "year_start"])
-    op.execute(
-        "CREATE INDEX ix_generations_visual_embedding ON generations "
-        "USING hnsw (visual_embedding vector_cosine_ops) "
-        "WITH (m = 16, ef_construction = 64)"
-    )
-    op.execute(
-        "CREATE INDEX ix_generations_semantic_embedding ON generations "
-        "USING hnsw (semantic_embedding vector_cosine_ops) "
-        "WITH (m = 16, ef_construction = 64)"
-    )
-    op.execute(
-        "CREATE INDEX ix_generations_dna_embedding ON generations "
-        "USING hnsw (design_dna_embedding vector_cosine_ops) "
-        "WITH (m = 16, ef_construction = 64)"
-    )
+    if has_vector:
+        op.execute(
+            "CREATE INDEX ix_generations_visual_embedding ON generations "
+            "USING hnsw (visual_embedding vector_cosine_ops) "
+            "WITH (m = 16, ef_construction = 64)"
+        )
+        op.execute(
+            "CREATE INDEX ix_generations_semantic_embedding ON generations "
+            "USING hnsw (semantic_embedding vector_cosine_ops) "
+            "WITH (m = 16, ef_construction = 64)"
+        )
+        op.execute(
+            "CREATE INDEX ix_generations_dna_embedding ON generations "
+            "USING hnsw (design_dna_embedding vector_cosine_ops) "
+            "WITH (m = 16, ef_construction = 64)"
+        )
     op.execute(
         "CREATE INDEX ix_generations_code_name_trgm ON generations USING gin (code_name gin_trgm_ops)"
     )
@@ -274,21 +292,23 @@ def upgrade() -> None:
         ),
     )
 
-    op.execute(
-        "ALTER TABLE vehicle_images "
-        "ALTER COLUMN embedding TYPE vector(1536) USING NULL::vector(1536)"
-    )
+    if has_vector:
+        op.execute(
+            "ALTER TABLE vehicle_images "
+            "ALTER COLUMN embedding TYPE vector(1536) USING NULL::vector(1536)"
+        )
 
     op.create_index("ix_vehicle_images_generation_id", "vehicle_images", ["generation_id"])
     op.create_index(
         "ix_vehicle_images_generation_view", "vehicle_images", ["generation_id", "view_type"]
     )
     op.create_index("ix_vehicle_images_processed", "vehicle_images", ["processed"])
-    op.execute(
-        "CREATE INDEX ix_vehicle_images_embedding ON vehicle_images "
-        "USING hnsw (embedding vector_cosine_ops) "
-        "WITH (m = 16, ef_construction = 64)"
-    )
+    if has_vector:
+        op.execute(
+            "CREATE INDEX ix_vehicle_images_embedding ON vehicle_images "
+            "USING hnsw (embedding vector_cosine_ops) "
+            "WITH (m = 16, ef_construction = 64)"
+        )
 
     # ── source_mappings ────────────────────────────────────────────────────────
     op.create_table(
@@ -300,7 +320,7 @@ def upgrade() -> None:
         sa.Column("source_id", sa.String(1024), nullable=True),
         sa.Column("source_url", sa.String(2048), nullable=True),
         sa.Column("last_crawled_at", sa.DateTime(timezone=True), nullable=True),
-        sa.Column("metadata", postgresql.JSONB(), nullable=True),
+        sa.Column("extra_metadata", postgresql.JSONB(), nullable=True),
     )
 
     op.create_unique_constraint(
@@ -328,7 +348,7 @@ def upgrade() -> None:
         sa.Column("error", sa.Text(), nullable=True),
         sa.Column("started_at", sa.DateTime(timezone=True), nullable=True),
         sa.Column("completed_at", sa.DateTime(timezone=True), nullable=True),
-        sa.Column("metadata", postgresql.JSONB(), nullable=True),
+        sa.Column("extra_metadata", postgresql.JSONB(), nullable=True),
         sa.Column(
             "created_at",
             sa.DateTime(timezone=True),
@@ -415,10 +435,11 @@ def upgrade() -> None:
         ),
     )
 
-    op.execute(
-        "ALTER TABLE embedding_registry "
-        "ALTER COLUMN vector TYPE vector(1536) USING NULL::vector(1536)"
-    )
+    if has_vector:
+        op.execute(
+            "ALTER TABLE embedding_registry "
+            "ALTER COLUMN vector TYPE vector(1536) USING NULL::vector(1536)"
+        )
 
     op.create_unique_constraint(
         "uq_embedding_registry",
@@ -430,11 +451,12 @@ def upgrade() -> None:
         "embedding_registry",
         ["entity_type", "entity_id"],
     )
-    op.execute(
-        "CREATE INDEX ix_embedding_registry_vector ON embedding_registry "
-        "USING hnsw (vector vector_cosine_ops) "
-        "WITH (m = 16, ef_construction = 64)"
-    )
+    if has_vector:
+        op.execute(
+            "CREATE INDEX ix_embedding_registry_vector ON embedding_registry "
+            "USING hnsw (vector vector_cosine_ops) "
+            "WITH (m = 16, ef_construction = 64)"
+        )
 
 
 def downgrade() -> None:

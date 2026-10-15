@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from typing import Any
+from typing import Any, Literal
 
 import structlog
 from fastapi import APIRouter, HTTPException, status
@@ -8,7 +8,8 @@ from pydantic import BaseModel, Field
 from sqlalchemy import select, desc
 
 from app.core.deps import CurrentUser, DBSession, CacheClient, OptionalUser
-from app.db.postgresql.models import AIAnalysis
+from app.core.structured import complete_structured, StructuredError
+from app.db.postgresql.models import AIAnalysis, BodyType, EngineType, Drivetrain, Transmission
 
 logger = structlog.get_logger(__name__)
 router = APIRouter()
@@ -344,7 +345,7 @@ async def generate_brand_dna(
         entity_id=brand.id,
         analysis_type="brand_dna",
         content=content,
-        model_used=settings.ANTHROPIC_MODEL,
+        model_used="yandexgpt-pro",
     )
     db.add(analysis)
     await db.flush()
@@ -363,3 +364,65 @@ async def generate_brand_dna(
 async def list_analysis_types() -> list[AnalysisTypeInfo]:
     """Return all supported analysis types and their descriptions."""
     return ANALYSIS_TYPES
+
+
+# ── VehicleProfile extraction (Фаза 2 — Structured output) ───────────────────
+
+
+class VehicleProfile(BaseModel):
+    """Structured profile extracted from a free-form car listing or history text."""
+    make: str = Field(..., description="Марка автомобиля, e.g. Toyota")
+    model: str = Field(..., description="Модель, e.g. Camry")
+    year: int | None = Field(None, ge=1900, le=2030)
+    body_type: BodyType | None = None
+    engine_type: EngineType | None = None
+    engine_volume_l: float | None = Field(None, ge=0.1, le=20.0, description="Объём двигателя в литрах")
+    power_hp: int | None = Field(None, ge=1, le=3000)
+    drivetrain: Drivetrain | None = None
+    transmission: Transmission | None = None
+    mileage_km: int | None = Field(None, ge=0)
+    color: str | None = None
+    price_rub: int | None = Field(None, ge=0, description="Цена в рублях")
+    condition: Literal["excellent", "good", "fair", "poor"] | None = None
+    notable_features: list[str] = Field(default_factory=list, max_length=10)
+    red_flags: list[str] = Field(default_factory=list, max_length=10,
+                                  description="Настораживающие моменты в описании")
+    extraction_confidence: float = Field(..., ge=0.0, le=1.0,
+                                         description="Уверенность в извлечённых данных")
+
+
+class ExtractProfileRequest(BaseModel):
+    text: str = Field(..., min_length=20, max_length=8000,
+                      description="Текст объявления, истории ТО или описания автомобиля")
+
+
+@router.post(
+    "/extract-profile",
+    response_model=VehicleProfile,
+    summary="Extract structured VehicleProfile from listing or history text",
+)
+async def extract_vehicle_profile(body: ExtractProfileRequest) -> VehicleProfile:
+    """Parse a free-form car listing or maintenance history into a validated VehicleProfile.
+
+    Uses GPT-4o with Pydantic validation + auto-retry on schema mismatch.
+    Returns null fields where information is absent — never hallucinated values.
+    """
+    messages = [
+        {
+            "role": "user",
+            "content": (
+                "Извлеки структурированный профиль автомобиля из следующего текста. "
+                "Если информация отсутствует — ставь null. Не придумывай данные.\n\n"
+                f"Текст:\n{body.text}"
+            ),
+        }
+    ]
+    try:
+        profile = await complete_structured(messages, VehicleProfile, temperature=0.1)
+    except StructuredError as exc:
+        logger.error("extract-profile structured output failed: %s", exc)
+        raise HTTPException(
+            status_code=status.HTTP_502_BAD_GATEWAY,
+            detail="AI extraction failed — try again or simplify the input text",
+        )
+    return profile

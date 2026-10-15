@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-sq9",
+  "slug": "audi-audi-sq9",
+  "name": "Audi SQ9",
+  "fullName": "2027 Audi SQ9",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The SQ9 produces 591 hp and 590 lb.-ft. of torque from a 4.0-liter twin turbo V8. Power is sent through an eight-speed Tiptronic automatic transmission.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-SQ9-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-SQ9-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-sq9/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-31T06:37:22.511Z",
+  "createdAt": "2026-07-31T06:37:23.524Z",
+  "updatedAt": "2026-07-31T06:37:23.524Z"
+}

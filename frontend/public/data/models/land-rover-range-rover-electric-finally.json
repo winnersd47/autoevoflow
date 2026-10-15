@@ -1,0 +1,26 @@
+{
+  "id": "ncs-land-rover-range-rover-electric-finally",
+  "slug": "land-rover-range-rover-electric-finally",
+  "name": "2027 Range Rover Electric Finally",
+  "fullName": "2027 Range Rover Electric Finally",
+  "brandId": "land-rover",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "We first heard about Range Rover&#39;s planned EV five years ago, and now it&#39;s here with 542 hp, a 333-mile range, 350-kW fast-charging and plenty of off-road tech.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-range-rover-electric-finally-revealed-looking-identical-to-the-gas-powered-range-rovers/intro-1788309471.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-range-rover-electric-finally-revealed-looking-identical-to-the-gas-powered-range-rovers/intro-1788309471.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2249206/2027-range-rover-electric-revealed-design-specs-range-details/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-02T02:04:01.815Z",
+  "createdAt": "2026-09-02T02:04:11.800Z",
+  "updatedAt": "2026-09-02T02:04:11.801Z"
+}

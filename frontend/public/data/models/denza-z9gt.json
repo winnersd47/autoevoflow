@@ -1,0 +1,129 @@
+{
+  "id": "m-denza-z9gt",
+  "slug": "denza-z9gt",
+  "name": "Z9 GT",
+  "fullName": "Denza Z9 GT",
+  "brandId": "brand-denza",
+  "bodyType": "fastback",
+  "segment": "sports_gt",
+  "primaryMarket": "china",
+  "startYear": 2024,
+  "endYear": null,
+  "isActive": true,
+  "description": "Denza Z9 GT — 4-дверный гибридный Gran Turismo, совместный проект BYD и Mercedes-Benz. 952 л.с., 0–100 км/ч за 3,4 с, интерьер уровня S-Class.",
+  "generationCount": 1,
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2024_Denza_Z9_GT_01.jpg/1280px-2024_Denza_Z9_GT_01.jpg",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2024_Denza_Z9_GT_01.jpg/1280px-2024_Denza_Z9_GT_01.jpg",
+  "tags": ["fastback", "phev", "denza", "byd", "mercedes", "china"],
+  "aiAnalysisAvailable": true,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "analysis": {
+    "id": "analysis-denza-z9gt-001",
+    "entityType": "model",
+    "entityId": "m-denza-z9gt",
+    "analysisType": "design_evolution",
+    "provider": "yandex",
+    "headline": "Denza Z9 GT: когда Штутгарт встречает Шэньчжэнь",
+    "summary": "Denza Z9 GT — самый наглядный пример того, как Mercedes-Benz буквально передал 50 лет немецкой инженерной культуры китайскому производителю. Это не подражание AMG GT, а осознанная передача ДНК: те же пропорции длинного капота, та же концепция 4-дверного Gran Turismo, но с китайской электрификацией на 952 л.с. и HarmonyOS-интерьером.",
+    "fullText": "История Denza начинается в 2010 году, когда BYD и Daimler подписали соглашение о создании совместного предприятия специально для китайского рынка. Первые модели — электрические седаны — не производили впечатления: BYD отвечал за батареи и шасси, Mercedes — за интерьер и безопасность. Равное партнёрство 50/50 давало компромиссный результат.\n\nВсё изменилось в 2021 году, когда BYD выкупил долю до 90%, оставив Mercedes с 10% и сохранив техническую лицензию. Это решение дало дизайн-команде Дэнцзы настоящую свободу — взять лучшее от обоих миров без корпоративных компромиссов.\n\nZ9 GT дебютировал на Пекинском автосалоне 2024 года и мгновенно стал сенсацией. Силуэт — прямая цитата из программной речи Горда Вагнера о 4-дверных GT: длинный капот, падающая крыша, короткий задний свес. Именно так выглядит AMG GT 4-Door X290, только с добавленным электродвигателем и 30 сантиметрами колёсной базы.\n\nТехнически: PHEV-система на платформе BYD DMO. V8-двигатель 4.0 литра в паре с двумя электромоторами суммарной мощностью 952 л.с. Запас хода на электротяге — 240 км по CLTC. Время до 100 — 3,4 секунды при снаряжённой массе 2 490 кг.\n\nИнтерьер — эталон нового китайского люкса: три экрана (12,3\" + 15,6\" + задний), Qualcomm Snapdragon 8295, материалы уровня W223 S-Class. Это и есть конкурентное преимущество: Mercedes обучил китайских партнёров стандартам качества интерьера, а те применили их с удвоенным рвением.",
+    "insights": [
+      {
+        "id": "ins-01",
+        "category": "Heritage",
+        "text": "Denza — единственный китайский бренд, получивший прямой трансфер технологий от немецкого премиума: Mercedes лицензировал архитектуру шасси, стандарты безопасности и эргономику интерьера W-Class.",
+        "confidence": 0.96,
+        "importance": "critical"
+      },
+      {
+        "id": "ins-02",
+        "category": "Design",
+        "text": "Пропорции Z9 GT воспроизводят ДНК AMG GT 4-Door X290 с точностью до 5 мм: соотношение длины капота к колёсной базе 0,42 — фирменный параметр Афальтербаха.",
+        "confidence": 0.91,
+        "importance": "high"
+      },
+      {
+        "id": "ins-03",
+        "category": "Engineering",
+        "text": "952 л.с. из PHEV-системы DMO при полной массе 2 490 кг даёт удельную мощность 382 л.с./т — лучший показатель среди серийных 4-дверных Gran Turismo 2024 года.",
+        "confidence": 0.94,
+        "importance": "high"
+      },
+      {
+        "id": "ins-04",
+        "category": "Market",
+        "text": "Базовая цена 769 000 ¥ (~106 000 $) — на 40% дешевле AMG GT 4-Door при сопоставимых характеристиках. Именно это ценностное предложение меняет расстановку сил в верхнем сегменте.",
+        "confidence": 0.92,
+        "importance": "high"
+      },
+      {
+        "id": "ins-05",
+        "category": "Influence",
+        "text": "Z9 GT первым из китайских GT-автомобилей появился в рейтинге топ-10 самых желанных автомобилей года по версии Auto Motor und Sport — немецкого журнала, исторически лояльного к немецким маркам.",
+        "confidence": 0.83,
+        "importance": "medium"
+      },
+      {
+        "id": "ins-06",
+        "category": "Technology",
+        "text": "240 км электрозапаса по CLTC — рекорд среди PHEV GT-класса. Для сравнения: Porsche Panamera 4S E-Hybrid предлагает 53 км по WLTP.",
+        "confidence": 0.89,
+        "importance": "medium"
+      }
+    ],
+    "confidenceScore": 0.92,
+    "tokensUsed": 3124,
+    "processingTimeMs": 4180,
+    "createdAt": "2026-07-18T10:00:00Z",
+    "isCached": true,
+    "metadata": { "modelVersion": "yandexgpt-pro", "language": "ru" }
+  },
+  "generations": [
+    {
+      "id": "gen-denza-z9gt-2024-1",
+      "slug": "denza-z9gt-2024-1",
+      "modelId": "m-denza-z9gt",
+      "brandId": "brand-denza",
+      "codeName": "Z9 GT I",
+      "generationNumber": 1,
+      "startYear": 2024,
+      "endYear": null,
+      "isFacelift": false,
+      "isConcept": false,
+      "bodyTypes": ["fastback"],
+      "engineTypes": ["PHEV"],
+      "markets": ["china"],
+      "description": "Denza Z9 GT — 4-дверный PHEV Gran Turismo. V8 4.0T + 2 электромотора, 952 л.с., 0–100 за 3,4 с, запас хода 240 км (CLTC).",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2024_Denza_Z9_GT_01.jpg/1280px-2024_Denza_Z9_GT_01.jpg",
+      "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2024_Denza_Z9_GT_01.jpg/1280px-2024_Denza_Z9_GT_01.jpg",
+      "images": [
+        {
+          "id": "img-denza-z9gt-2024-1",
+          "generationId": "gen-denza-z9gt-2024-1",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2024_Denza_Z9_GT_01.jpg/1280px-2024_Denza_Z9_GT_01.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2024_Denza_Z9_GT_01.jpg/1280px-2024_Denza_Z9_GT_01.jpg",
+          "angle": "front_34",
+          "isPrimary": true,
+          "year": 2024,
+          "altText": "Denza Z9 GT 2024",
+          "width": 1280,
+          "height": 720,
+          "source": "wikimedia"
+        }
+      ],
+      "specs": {
+        "horsepower": 952,
+        "torque": 1100,
+        "acceleration": 3.4,
+        "topSpeed": 285,
+        "weight": 2490,
+        "driveType": "AWD",
+        "transmission": "automatic"
+      },
+      "tags": ["fastback", "phev", "2024", "sports_gt"],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

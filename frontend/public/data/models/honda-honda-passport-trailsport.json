@@ -1,0 +1,26 @@
+{
+  "id": "ncs-honda-honda-passport-trailsport",
+  "slug": "honda-honda-passport-trailsport",
+  "name": "Honda Passport TrailSport",
+  "fullName": "2027 Honda Passport TrailSport",
+  "brandId": "honda",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "2027 Honda Passport TrailSport takes the Honda brand's rugged direction to new heights, with extensively reengineered suspension providing 1.38-inches of additional ground...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Honda-Passport_TrailSport-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Honda-Passport_TrailSport-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/honda/2027-passport_trailsport/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-09T14:04:01.407Z",
+  "createdAt": "2026-09-09T14:04:03.243Z",
+  "updatedAt": "2026-09-09T14:04:03.243Z"
+}

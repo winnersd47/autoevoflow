@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import io
 import os
+import time
 from datetime import datetime, timezone
 from typing import Any
 
@@ -26,7 +27,7 @@ celery_app = Celery(
 celery_app.conf.update(
     task_serializer=settings.CELERY_TASK_SERIALIZER,
     result_serializer=settings.CELERY_RESULT_SERIALIZER,
-    accept_content=settings.CELERY_ACCEPT_CONTENT,
+    accept_content=settings.celery_accept_content_list,
     timezone="UTC",
     enable_utc=True,
     task_track_started=True,
@@ -41,15 +42,15 @@ celery_app.conf.update(
 # ── Beat schedule ─────────────────────────────────────────────────────────────
 
 celery_app.conf.beat_schedule = {
-    "daily-faiss-reindex": {
-        "task": "workers.reindex_faiss",
-        "schedule": crontab(hour=2, minute=0),
-        "kwargs": {"index_type": "visual"},
-    },
     "daily-brand-dna-rebuild": {
         "task": "workers.generate_brand_dna",
         "schedule": crontab(hour=3, minute=0),
         "kwargs": {"brand_id": None},  # None means all brands
+    },
+    "hourly-description-embeddings": {
+        "task": "workers.generate_description_embeddings",
+        "schedule": crontab(minute=0),  # every hour, fills any new un-embedded rows
+        "kwargs": {"generation_id": None, "batch_size": 100},
     },
 }
 
@@ -190,6 +191,7 @@ def generate_visual_embeddings(self, generation_id: int) -> dict[str, Any]:
 
             all_clip_embeddings = []
             all_dino_embeddings = []
+            batch_start = time.monotonic()
 
             for img_record in images:
                 try:
@@ -197,17 +199,32 @@ def generate_visual_embeddings(self, generation_id: int) -> dict[str, Any]:
                     pil_image = Image.open(io.BytesIO(raw)).convert("RGB")
 
                     # CLIP embedding
+                    clip_start = time.monotonic()
                     tensor = preprocess(pil_image).unsqueeze(0)
                     with torch.no_grad():
                         clip_emb = clip_model.encode_image(tensor)
                         clip_emb = clip_emb / clip_emb.norm(dim=-1, keepdim=True)
                     clip_vec = clip_emb.squeeze().cpu().numpy().tolist()
+                    clip_duration_ms = (time.monotonic() - clip_start) * 1000
 
                     # DINOv2 embedding
+                    dino_start = time.monotonic()
                     dino_inputs = dino_extractor(images=pil_image, return_tensors="pt")
                     with torch.no_grad():
                         dino_out = dino_model(**dino_inputs)
                     dino_vec = dino_out.last_hidden_state[:, 0].squeeze().cpu().numpy().tolist()
+                    dino_duration_ms = (time.monotonic() - dino_start) * 1000
+
+                    logger.info(
+                        "embedding_inference",
+                        model="clip+dino",
+                        device=device,
+                        clip_duration_ms=round(clip_duration_ms, 1),
+                        dino_duration_ms=round(dino_duration_ms, 1),
+                        duration_ms=round(clip_duration_ms + dino_duration_ms, 1),
+                        item_count=1,
+                        entity_id=generation_id,
+                    )
 
                     # Store per-image embedding
                     db.execute(
@@ -223,6 +240,17 @@ def generate_visual_embeddings(self, generation_id: int) -> dict[str, Any]:
                         f"Failed to process image {img_record.id}: {exc}"
                     )
                     continue
+
+            if images:
+                logger.info(
+                    "embedding_inference_batch",
+                    model="clip+dino",
+                    device=device,
+                    duration_ms=round((time.monotonic() - batch_start) * 1000, 1),
+                    batch_size=len(images),
+                    item_count=len(all_clip_embeddings),
+                    entity_id=generation_id,
+                )
 
             if all_clip_embeddings:
                 # Aggregate: mean of all image embeddings
@@ -350,78 +378,6 @@ def generate_brand_dna(self, brand_id: int | None = None) -> dict[str, Any]:
 
 
 @celery_app.task(
-    name="workers.reindex_faiss",
-    bind=True,
-    max_retries=3,
-    default_retry_delay=300,
-    autoretry_for=(Exception,),
-    retry_backoff=True,
-)
-def reindex_faiss(self, index_type: str = "visual") -> dict[str, Any]:
-    """
-    Rebuild the FAISS index from all embeddings stored in the DB.
-    Writes the index file to disk for fast in-memory loading.
-    """
-    task_logger.info(f"reindex_faiss: index_type={index_type}")
-
-    try:
-        import faiss
-        import numpy as np
-        from sqlalchemy import select
-        from app.db.postgresql.models import Generation
-
-        embedding_col_map = {
-            "visual": "visual_embedding",
-            "semantic": "semantic_embedding",
-            "dna": "design_dna_embedding",
-        }
-        if index_type not in embedding_col_map:
-            raise ValueError(f"Unknown index_type: {index_type}")
-
-        col_name = embedding_col_map[index_type]
-
-        with _get_db_session() as db:
-            generations = db.execute(
-                select(Generation.id, getattr(Generation, col_name)).where(
-                    getattr(Generation, col_name).isnot(None)
-                )
-            ).all()
-
-        if not generations:
-            task_logger.warning("No embeddings found for reindex")
-            return {"status": "skipped", "reason": "no_embeddings", "index_type": index_type}
-
-        ids = np.array([g[0] for g in generations], dtype=np.int64)
-        vectors = np.array([g[1] for g in generations], dtype=np.float32)
-
-        # Normalize for cosine similarity
-        faiss.normalize_L2(vectors)
-        dim = vectors.shape[1]
-
-        index = faiss.IndexFlatIP(dim)
-        id_map = faiss.IndexIDMap(index)
-        id_map.add_with_ids(vectors, ids)
-
-        index_dir = os.path.join(os.path.dirname(__file__), "..", "..", "data", "faiss")
-        os.makedirs(index_dir, exist_ok=True)
-        index_path = os.path.join(index_dir, f"{index_type}.faiss")
-        faiss.write_index(id_map, index_path)
-
-        task_logger.info(f"FAISS index written: {index_path} ({len(generations)} vectors)")
-        return {
-            "status": "completed",
-            "index_type": index_type,
-            "vectors_indexed": len(generations),
-            "dimensions": dim,
-            "index_path": index_path,
-        }
-
-    except Exception as exc:
-        task_logger.error(f"reindex_faiss failed: {exc}", exc_info=True)
-        raise self.retry(exc=exc)
-
-
-@celery_app.task(
     name="workers.process_crawled_images",
     bind=True,
     max_retries=5,
@@ -511,6 +467,116 @@ def process_crawled_images(
 
 
 @celery_app.task(
+    name="workers.generate_description_embeddings",
+    bind=True,
+    max_retries=3,
+    default_retry_delay=120,
+    autoretry_for=(Exception,),
+    retry_backoff=True,
+)
+def generate_description_embeddings(
+    self,
+    generation_id: int | None = None,
+    batch_size: int = 50,
+) -> dict[str, Any]:
+    """
+    Generate text-embedding-3-small (1536-dim) embeddings from generation
+    descriptions and store them in description_embedding.
+
+    Called after crawl or on-demand to enable semantic text search.
+    Passes `dimensions=1536` explicitly so the column always matches.
+
+    If generation_id is None — process all generations without an embedding.
+    """
+    task_logger.info(
+        f"generate_description_embeddings: generation_id={generation_id}, batch={batch_size}"
+    )
+
+    _EMBED_MODEL = "text-embedding-3-small"
+    _EMBED_DIM = 1536
+
+    try:
+        from sqlalchemy import select, update
+        from app.db.postgresql.models import Generation, CarModel, Brand
+
+        with _get_db_session() as db:
+            if generation_id is not None:
+                gens = db.execute(
+                    select(Generation).where(Generation.id == generation_id)
+                ).scalars().all()
+            else:
+                gens = db.execute(
+                    select(Generation)
+                    .where(Generation.description_embedding.is_(None))
+                    .limit(batch_size)
+                ).scalars().all()
+
+            if not gens:
+                return {"processed": 0, "status": "no_work"}
+
+            # Fetch brand + model names in one pass for richer context text
+            model_ids = list({g.model_id for g in gens})
+            models_map: dict[int, tuple[str, str]] = {}
+            car_models = db.execute(
+                select(CarModel, Brand)
+                .join(Brand, CarModel.brand_id == Brand.id)
+                .where(CarModel.id.in_(model_ids))
+            ).all()
+            for cm, brand in car_models:
+                models_map[cm.id] = (brand.name, cm.name)
+
+            import openai as _openai
+            client = _openai.OpenAI(api_key=settings.OPENAI_API_KEY)
+
+            texts: list[str] = []
+            for gen in gens:
+                brand_name, model_name = models_map.get(gen.model_id, ("", ""))
+                parts = [brand_name, model_name]
+                if gen.code_name:
+                    parts.append(gen.code_name)
+                if gen.year_start:
+                    parts.append(str(gen.year_start))
+                if gen.description:
+                    parts.append(gen.description[:500])
+                texts.append(" ".join(filter(None, parts)))
+
+            start = time.monotonic()
+            response = client.embeddings.create(
+                model=_EMBED_MODEL,
+                input=texts,
+                dimensions=_EMBED_DIM,
+            )
+            duration_ms = (time.monotonic() - start) * 1000
+            logger.info(
+                "embedding_inference",
+                model=_EMBED_MODEL,
+                device="api",
+                duration_ms=round(duration_ms, 1),
+                item_count=len(gens),
+                batch_size=batch_size,
+            )
+
+            for gen, emb_data in zip(gens, response.data):
+                db.execute(
+                    update(Generation)
+                    .where(Generation.id == gen.id)
+                    .values(description_embedding=emb_data.embedding)
+                )
+
+            db.commit()
+
+        return {
+            "processed": len(gens),
+            "model": _EMBED_MODEL,
+            "status": "completed",
+        }
+
+    except Exception as exc:
+        task_logger.error(f"generate_description_embeddings failed: {exc}", exc_info=True)
+        raise self.retry(exc=exc)
+
+
+@celery_app.task(
     name="workers.update_evolution_graph",
     bind=True,
     max_retries=3,
@@ -562,9 +628,10 @@ def generate_ai_analysis(
     entity_type: str,
     entity_id: int,
     analysis_type: str = "evolution",
+    model_provider: str = "yandex",
 ) -> dict[str, Any]:
     """
-    Call Claude/OpenAI to generate an analysis and persist the result.
+    Call YandexGPT/OpenAI to generate an analysis and persist the result.
     """
     task_logger.info(
         f"generate_ai_analysis: entity_type={entity_type}, "
@@ -590,12 +657,13 @@ def generate_ai_analysis(
             else:
                 content = f"Analysis of type '{analysis_type}' for {entity_type} {entity_id}"
 
+            _model_name = "yandexgpt-pro"
             analysis = AIAnalysis(
                 entity_type=entity_type,
                 entity_id=entity_id,
                 analysis_type=analysis_type,
                 content=content,
-                model_used=settings.ANTHROPIC_MODEL,
+                model_used=_model_name,
             )
             db.add(analysis)
             await db.commit()

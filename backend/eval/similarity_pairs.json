@@ -1,0 +1,25 @@
+{
+  "description": "Hand-picked car-A/car-B pairs with an expert-judged expected similarity label, used to sanity-check whether DINOv2/CLIP visual-embedding ranking matches what an automotive-design eye would expect. Each 'car' string is resolved to a generation_id via fuzzy match against brand name + model name + code_name (see run_similarity_eval.py) — it is NOT a DB key.",
+  "top_k": 10,
+  "dissimilar_score_ceiling": 0.55,
+  "pairs": [
+    { "car_a": "Porsche 911 992", "car_b": "Porsche 911 991", "expected": "similar", "reason": "Direct same-lineage generational succession; should be near the top of each other's similarity list." },
+    { "car_a": "Porsche 911 992", "car_b": "Porsche 718 Cayman", "expected": "similar", "reason": "Same brand, shared silhouette cues and design language despite different platform." },
+    { "car_a": "Porsche Cayenne", "car_b": "Lamborghini Urus", "expected": "similar", "reason": "Shared VW Group MLB Evo platform plus convergent SUV-coupe styling — the app's own 'hidden connection' use case." },
+    { "car_a": "Porsche Cayenne", "car_b": "Bentley Bentayga", "expected": "similar", "reason": "Same MLB Evo platform family as the Urus pair, different brand design language layered on top." },
+    { "car_a": "BMW Z4 G29", "car_b": "Toyota Supra A90", "expected": "similar", "reason": "Literally co-developed on the same platform by BMW and Toyota — should rank very high." },
+    { "car_a": "Mazda MX-5 ND", "car_b": "BMW Z4 G29", "expected": "similar", "reason": "Competing roadsters, NOT platform-shared — tests whether embeddings catch segment/silhouette convergence without an engineering link." },
+    { "car_a": "Range Rover Evoque", "car_b": "Range Rover Velar", "expected": "similar", "reason": "Same brand family design language (floating roof, minimal shutlines) across adjacent segments." },
+    { "car_a": "Audi TT", "car_b": "Audi R8", "expected": "dissimilar", "reason": "Same brand DNA (singleframe grille) but very different segment/silhouette (compact coupe vs. mid-engine supercar) — checks embeddings don't over-weight brand grille cues alone." },
+    { "car_a": "Tesla Model 3", "car_b": "Tesla Model Y", "expected": "similar", "reason": "Shared front-end design language and related platform (Y is a raised/wagon derivative of 3)." },
+    { "car_a": "Ford Mustang S650", "car_b": "Chevrolet Camaro 6th gen", "expected": "similar", "reason": "American muscle-car competitor convergence on unrelated platforms — classic 'independently arrived at similar design' case." },
+    { "car_a": "Porsche 911 992", "car_b": "Toyota Prius", "expected": "dissimilar", "reason": "Sanity floor: unrelated segments, unrelated brands, unrelated everything." },
+    { "car_a": "Nissan GT-R R35", "car_b": "Nissan Leaf", "expected": "dissimilar", "reason": "Sanity floor within the same brand — same badge, nothing else in common." },
+    { "car_a": "Ferrari 296 GTB", "car_b": "McLaren Artura", "expected": "similar", "reason": "Direct hybrid-supercar competitor convergence — similar proportions and mid-engine packaging despite unrelated platforms." },
+    { "car_a": "BMW X6 F16", "car_b": "Mercedes-Benz GLE Coupe", "expected": "similar", "reason": "The SUV-coupe body style itself is a direct competitive response between these two brands." },
+    { "car_a": "Volkswagen Golf Mk8", "car_b": "Audi A3 8Y", "expected": "similar", "reason": "Same MQB platform, shared proportions and switchgear-era design language." },
+    { "car_a": "Land Rover Defender 2020", "car_b": "Land Rover Defender 1990", "expected": "dissimilar", "reason": "Deliberately uncertain/borderline case: retro-styling cues are meant to evoke the original, but the actual silhouette and proportions are very different — worth watching whether embeddings over- or under-rate the homage." },
+    { "car_a": "Fiat 500 2007", "car_b": "Mini Hatch F56", "expected": "similar", "reason": "Retro-revival competitor convergence — both deliberately references a 1960s-70s small-car silhouette." },
+    { "car_a": "Citroen DS", "car_b": "Citroen C4 Cactus", "expected": "dissimilar", "reason": "Sanity floor within the same brand across a huge era gap." }
+  ]
+}

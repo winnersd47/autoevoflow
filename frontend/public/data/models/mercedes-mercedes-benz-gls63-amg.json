@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-gls63-amg",
+  "slug": "mercedes-mercedes-benz-gls63-amg",
+  "name": "Mercedes-Benz GLS63 AMG",
+  "fullName": "2027 Mercedes-Benz GLS63 AMG",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With 450 kW (612 hp), the M177 EVO delivers the same output as its predecessor. Its maximum torque of 850 Nm is available across a wide engine-speed range from 2.500 to 4.500 rpm.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLS63_AMG-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-GLS63_AMG-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-gls63_amg/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.440Z",
+  "createdAt": "2026-07-01T09:22:51.781Z",
+  "updatedAt": "2026-07-01T09:22:51.781Z"
+}

@@ -6,7 +6,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import {
   Network, GitBranch, Clock, Filter, Download,
   ToggleLeft, ToggleRight, X, Search, Info, LayoutGrid, TableProperties, GitFork, AlignLeft,
-  Sparkles, MousePointer2, Layers3, SlidersHorizontal, ArrowRight,
+  Sparkles, MousePointer2, Layers3, SlidersHorizontal, ArrowRight, Gauge, Timer,
 } from "lucide-react";
 import dynamic from "next/dynamic";
 import type { EvolutionEdgeType, GraphLayoutType, GraphNode, GraphEdge } from "@/lib/types";
@@ -19,47 +19,123 @@ const EvolutionGraph = dynamic(() => import("@/components/graph/EvolutionGraph")
 
 const BRANDS = [
   // ── European ─────────────────────────────────────────────────────────────
-  { id: "bmw",         name: "BMW",          color: "#00d4ff" },
-  { id: "mercedes",    name: "Mercedes-Benz",color: "#c0c0c0" },
-  { id: "audi",        name: "Audi",         color: "#bb0a1e" },
-  { id: "volkswagen",  name: "Volkswagen",   color: "#001e50" },
-  { id: "porsche",     name: "Porsche",      color: "#ffd700" },
-  { id: "ferrari",     name: "Ferrari",      color: "#ff2800" },
-  { id: "lamborghini", name: "Lamborghini",  color: "#e6b800" },
-  { id: "mclaren",     name: "McLaren",      color: "#FF8000" },
-  { id: "alfa-romeo",   name: "Alfa Romeo",   color: "#ce1126" },
-  { id: "astonmartin", name: "Aston Martin", color: "#006A4E" },
-  { id: "bugatti",     name: "Bugatti",      color: "#6B0AC9" },
-  { id: "pagani",      name: "Pagani",       color: "#8B7355" },
-  { id: "koenigsegg",  name: "Koenigsegg",   color: "#FFD700" },
-  { id: "rimac",       name: "Rimac",        color: "#00CFFF" },
-  { id: "seat",        name: "SEAT",         color: "#fa0000" },
-  { id: "skoda",       name: "Škoda",        color: "#4ba82e" },
-  { id: "lotus",       name: "Lotus",        color: "#c8e228" },
-  { id: "maserati",    name: "Maserati",     color: "#1a4fc4" },
-  { id: "rolls-royce", name: "Rolls-Royce",  color: "#68217a" },
-  { id: "bentley",     name: "Bentley",      color: "#0a4d2c" },
+  { id: "bmw",           name: "BMW",           color: "#00d4ff" },
+  { id: "mercedes",      name: "Mercedes-Benz", color: "#c0c0c0" },
+  { id: "audi",          name: "Audi",          color: "#bb0a1e" },
+  { id: "volkswagen",    name: "Volkswagen",    color: "#001e50" },
+  { id: "porsche",       name: "Porsche",       color: "#ffd700" },
+  { id: "ferrari",       name: "Ferrari",       color: "#ff2800" },
+  { id: "lamborghini",   name: "Lamborghini",   color: "#e6b800" },
+  { id: "mclaren",       name: "McLaren",       color: "#FF8000" },
+  { id: "alfa-romeo",    name: "Alfa Romeo",    color: "#ce1126" },
+  { id: "astonmartin",   name: "Aston Martin",  color: "#006A4E" },
+  { id: "bugatti",       name: "Bugatti",       color: "#6B0AC9" },
+  { id: "pagani",        name: "Pagani",        color: "#8B7355" },
+  { id: "koenigsegg",    name: "Koenigsegg",    color: "#FFD700" },
+  { id: "rimac",         name: "Rimac",         color: "#00CFFF" },
+  { id: "seat",          name: "SEAT",          color: "#fa0000" },
+  { id: "skoda",         name: "Škoda",         color: "#4ba82e" },
+  { id: "lotus",         name: "Lotus",         color: "#c8e228" },
+  { id: "maserati",      name: "Maserati",      color: "#1a4fc4" },
+  { id: "rolls-royce",   name: "Rolls-Royce",   color: "#68217a" },
+  { id: "bentley",       name: "Bentley",       color: "#0a4d2c" },
   { id: "gordon-murray", name: "Gordon Murray", color: "#0e8a7d" },
-  { id: "zenvo",       name: "Zenvo",        color: "#a4161a" },
-  { id: "de-tomaso",   name: "De Tomaso",    color: "#c08a3e" },
-  { id: "morgan",      name: "Morgan",       color: "#2e5e1e" },
-  { id: "tvr",         name: "TVR",          color: "#4a6fa5" },
-  { id: "caterham",    name: "Caterham",     color: "#8ab500" },
-  { id: "pininfarina", name: "Pininfarina",  color: "#5d6d8a" },
+  { id: "zenvo",         name: "Zenvo",         color: "#a4161a" },
+  { id: "de-tomaso",     name: "De Tomaso",     color: "#c08a3e" },
+  { id: "morgan",        name: "Morgan",        color: "#2e5e1e" },
+  { id: "tvr",           name: "TVR",           color: "#4a6fa5" },
+  { id: "caterham",      name: "Caterham",      color: "#8ab500" },
+  { id: "ariel",         name: "Ariel",         color: "#ff6600" },
+  { id: "ktm",           name: "KTM",           color: "#ff5500" },
+  { id: "bac",           name: "BAC",           color: "#b20000" },
+  { id: "rezvani",       name: "Rezvani",       color: "#8B0000" },
+  { id: "pininfarina",   name: "Pininfarina",   color: "#5d6d8a" },
   { id: "hispano-suiza", name: "Hispano Suiza", color: "#147a8c" },
+  // ── Scandinavian ─────────────────────────────────────────────────────────
+  { id: "volvo",         name: "Volvo",         color: "#003e8a" },
   // ── American ─────────────────────────────────────────────────────────────
-  { id: "ford",        name: "Ford",         color: "#0b2e6b" },
-  { id: "hennessey",   name: "Hennessey",    color: "#b33000" },
-  { id: "ssc",         name: "SSC",          color: "#5b7a8c" },
-  { id: "saleen",      name: "Saleen",       color: "#e08a00" },
+  { id: "ford",          name: "Ford",          color: "#0b2e6b" },
+  { id: "chevrolet",     name: "Chevrolet",     color: "#ffd700" },
+  { id: "gmc",           name: "GMC",           color: "#cc0000" },
+  { id: "ram",           name: "Ram",           color: "#1a2744" },
+  { id: "cadillac",      name: "Cadillac",      color: "#a8872d" },
+  { id: "dodge",         name: "Dodge",         color: "#d40000" },
+  { id: "chrysler",      name: "Chrysler",      color: "#4a4a4a" },
+  { id: "plymouth",      name: "Plymouth",      color: "#6b2737" },
+  { id: "mercury",       name: "Mercury",       color: "#4a4a7a" },
+  { id: "oldsmobile",    name: "Oldsmobile",    color: "#8B4513" },
+  { id: "buick",         name: "Buick",         color: "#2c4770" },
+  { id: "saturn",        name: "Saturn",        color: "#666666" },
+  { id: "hudson",        name: "Hudson",        color: "#7b3f00" },
+  { id: "amc",           name: "AMC",           color: "#b22222" },
+  { id: "jeep",          name: "Jeep",          color: "#29a44e" },
+  { id: "pontiac",       name: "Pontiac",       color: "#0047ab" },
+  { id: "lincoln",       name: "Lincoln",       color: "#003375" },
+  { id: "hummer",        name: "Hummer",        color: "#d4a017" },
+  { id: "hennessey",     name: "Hennessey",     color: "#b33000" },
+  { id: "ssc",           name: "SSC",           color: "#5b7a8c" },
+  { id: "saleen",        name: "Saleen",        color: "#e08a00" },
   // ── Japanese ─────────────────────────────────────────────────────────────
-  { id: "toyota",      name: "Toyota",       color: "#eb0a1e" },
-  { id: "lexus",       name: "Lexus",        color: "#8B6914" },
-  { id: "honda",       name: "Honda",        color: "#cc0000" },
-  { id: "nissan",      name: "Nissan",       color: "#c3002f" },
-  { id: "mazda",       name: "Mazda",        color: "#910f22" },
-  { id: "subaru",      name: "Subaru",       color: "#003399" },
-  { id: "aspark",      name: "Aspark",       color: "#6f5acf" },
+  { id: "toyota",        name: "Toyota",        color: "#eb0a1e" },
+  { id: "lexus",         name: "Lexus",         color: "#8B6914" },
+  { id: "honda",         name: "Honda",         color: "#cc0000" },
+  { id: "nissan",        name: "Nissan",        color: "#c3002f" },
+  { id: "mazda",         name: "Mazda",         color: "#910f22" },
+  { id: "subaru",        name: "Subaru",        color: "#003399" },
+  { id: "mitsubishi",    name: "Mitsubishi",    color: "#cc0000" },
+  { id: "acura",         name: "Acura",         color: "#8B0000" },
+  { id: "infiniti",      name: "Infiniti",      color: "#8B7355" },
+  { id: "suzuki",        name: "Suzuki",        color: "#003087" },
+  { id: "isuzu",         name: "Isuzu",         color: "#cc3300" },
+  { id: "daihatsu",      name: "Daihatsu",      color: "#cc2200" },
+  { id: "scion",         name: "Scion",         color: "#cc4400" },
+  { id: "aspark",        name: "Aspark",        color: "#6f5acf" },
+  // ── Korean ───────────────────────────────────────────────────────────────
+  { id: "hyundai",       name: "Hyundai",       color: "#003087" },
+  { id: "kia",           name: "Kia",           color: "#c22026" },
+  { id: "genesis",       name: "Genesis",       color: "#8B6914" },
+  // ── French ───────────────────────────────────────────────────────────────
+  { id: "peugeot",       name: "Peugeot",       color: "#0066cc" },
+  { id: "renault",       name: "Renault",       color: "#FFCC00" },
+  { id: "citroen",       name: "Citroën",       color: "#c8a800" },
+  { id: "dacia",         name: "Dacia",         color: "#0066aa" },
+  // ── European ─────────────────────────────────────────────────────────────
+  { id: "opel",          name: "Opel",          color: "#c0c0c0" },
+  { id: "saab",          name: "Saab",          color: "#003399" },
+  { id: "smart",         name: "Smart",         color: "#00a3d9" },
+  { id: "jaguar",        name: "Jaguar",        color: "#C8A96E" },
+  { id: "land-rover",    name: "Land Rover",    color: "#005A2B" },
+  { id: "mini",          name: "Mini",          color: "#1f3f6b" },
+  { id: "lancia",        name: "Lancia",        color: "#003399" },
+  { id: "fiat",          name: "Fiat",          color: "#d40000" },
+  { id: "alpine",        name: "Alpine",        color: "#0055a0" },
+  { id: "cupra",         name: "Cupra",         color: "#c49a1a" },
+  // ── Russian / Soviet ─────────────────────────────────────────────────────
+  { id: "gaz",           name: "GAZ / Volga",   color: "#cc2200" },
+  { id: "lada",          name: "Lada",          color: "#1a5276" },
+  { id: "uaz",           name: "UAZ",           color: "#2e7d32" },
+  { id: "aurus",         name: "Aurus",         color: "#8B6914" },
+  { id: "moskvich",      name: "Москвич / АЗЛК", color: "#8B4513" },
+  // ── Chinese ──────────────────────────────────────────────────────────────
+  { id: "changan",       name: "Changan",       color: "#0052cc" },
+  { id: "byd",           name: "BYD",           color: "#1565c0" },
+  { id: "geely",         name: "Geely",         color: "#0073cf" },
+  { id: "nio",           name: "NIO",           color: "#00c4cc" },
+  { id: "zeekr",         name: "Zeekr",         color: "#ff6b35" },
+  { id: "lynk-co",       name: "Lynk & Co",     color: "#00b4ff" },
+  { id: "haval",         name: "Haval",         color: "#c41e3a" },
+  { id: "li-auto",       name: "Li Auto",       color: "#ff5a1f" },
+  { id: "xpeng",         name: "Xpeng",         color: "#1de9b6" },
+  { id: "aito",          name: "Aito",          color: "#ef5350" },
+  { id: "denza",         name: "Denza",         color: "#7c4dff" },
+  { id: "hiphi",         name: "HiPhi",         color: "#26c6da" },
+  { id: "avatr",         name: "Avatr",         color: "#00e5ff" },
+  { id: "seres",         name: "Seres",         color: "#ff8f00" },
+  // ── EV newcomers ─────────────────────────────────────────────────────────
+  { id: "tesla",         name: "Tesla",         color: "#cc0000" },
+  { id: "polestar",      name: "Polestar",      color: "#1a1a1a" },
+  { id: "rivian",        name: "Rivian",        color: "#1a9e5e" },
+  { id: "lucid",         name: "Lucid",         color: "#6e4ff6" },
 ];
 
 // ─── Page ─────────────────────────────────────────────────────────────────────
@@ -78,13 +154,15 @@ function EvolutionPageInner() {
   const initLabels    = searchParams.get('labels') !== '0';
   const initConcepts  = searchParams.get('concepts') !== '0';
   const initCross     = searchParams.get('cross') !== '0';
-  type NodeFilter = 'all' | 'base' | 'facelifts' | 'variants'
+  type NodeFilter = 'all' | 'base' | 'facelifts' | 'variants' | 'derived'
   const initNodeFilter = (searchParams.get('nf') ?? 'all') as NodeFilter;
 
   const [layout, setLayoutState]        = useState<GraphLayoutType>(initLayout);
   const [sidebarOpen, setSidebarOpen]   = useState(true);
   const [showLabels, setShowLabelsState]   = useState(initLabels);
   const [showConcepts, setShowConceptsState] = useState(initConcepts);
+  const [showFuture,   setShowFutureState]   = useState(true);
+  const [showTuning,   setShowTuningState]   = useState(true);
   const [crossBrand, setCrossBrandState]  = useState(initCross);
   const [nodeFilter, setNodeFilterState]  = useState<NodeFilter>(initNodeFilter);
   const [yearMin, setYearMinState]        = useState(initYearMin);
@@ -152,6 +230,8 @@ function EvolutionPageInner() {
   const setYearMax = (v: number) => { setYearMaxState(v); syncUrl(layout, activeBrands, yearMin, v, showLabels, showConcepts, crossBrand, search); };
   const setShowLabels   = (v: boolean) => { setShowLabelsState(v);   syncUrl(layout, activeBrands, yearMin, yearMax, v, showConcepts, crossBrand, search); };
   const setShowConcepts = (v: boolean) => { setShowConceptsState(v); syncUrl(layout, activeBrands, yearMin, yearMax, showLabels, v, crossBrand, search); };
+  const setShowFuture   = (v: boolean) => { setShowFutureState(v); };
+  const setShowTuning   = (v: boolean) => { setShowTuningState(v); };
   const setCrossBrand   = (v: boolean) => { setCrossBrandState(v);   syncUrl(layout, activeBrands, yearMin, yearMax, showLabels, showConcepts, v, search); };
   const setNodeFilter   = (v: NodeFilter) => { setNodeFilterState(v); };
 
@@ -179,16 +259,20 @@ function EvolutionPageInner() {
   // 4. Хроника — колонки семейств × вертикальная ось времени
   // 5. Развилка — дерево эволюции с глубиной поколений
   const LAYOUTS: { id: GraphLayoutType; label: string; icon: React.ElementType; desc: string }[] = [
-    { id: "cola", label: t("evolution.layoutForce"), icon: Network,         desc: t("evolution.layoutForceDesc") },
-    { id: "zone", label: t("evolution.layoutZone"),  icon: LayoutGrid,      desc: t("evolution.layoutZoneDesc") },
-    { id: "sync", label: t("evolution.layoutSync"),  icon: AlignLeft,       desc: t("evolution.layoutSyncDesc") },
-    { id: "eras", label: t("evolution.layoutEras"),  icon: TableProperties, desc: t("evolution.layoutErasDesc") },
-    { id: "fork", label: t("evolution.layoutFork"),  icon: GitFork,         desc: t("evolution.layoutForkDesc") },
+    { id: "cola",  label: t("evolution.layoutForce"), icon: Network,         desc: t("evolution.layoutForceDesc") },
+    { id: "zone",  label: t("evolution.layoutZone"),  icon: LayoutGrid,      desc: t("evolution.layoutZoneDesc") },
+    { id: "sync",  label: t("evolution.layoutSync"),  icon: AlignLeft,       desc: t("evolution.layoutSyncDesc") },
+    { id: "eras",  label: t("evolution.layoutEras"),  icon: TableProperties, desc: t("evolution.layoutErasDesc") },
+    { id: "fork",  label: t("evolution.layoutFork"),  icon: GitFork,         desc: t("evolution.layoutForkDesc") },
+    { id: "perf",  label: isRu ? "Форсаж" : "Perf",   icon: Gauge, desc: isRu ? "Разгон × Макс. скорость" : "Acceleration × Top speed" },
+    { id: "track", label: isRu ? "Трек"   : "Track",  icon: Timer, desc: isRu ? "Нюрбургринг × Top Gear"  : "Nürburgring × Top Gear lap times" },
   ];
 
   const DISPLAY_TOGGLES = [
     { label: t("evolution.nodeLabels"),      val: showLabels,   set: setShowLabels },
     { label: t("evolution.conceptCars"),     val: showConcepts, set: setShowConcepts },
+    { label: isRu ? "Будущие модели" : "Future models", val: showFuture, set: setShowFuture },
+    { label: isRu ? "Тюнинг / Ателье" : "Tuning / Atelier", val: showTuning, set: setShowTuning },
     { label: t("evolution.crossBrandEdges"), val: crossBrand,   set: setCrossBrand },
   ];
 
@@ -201,6 +285,8 @@ function EvolutionPageInner() {
     let nodes = graphData.nodes;
 
     if (!showConcepts) nodes = nodes.filter((n) => !n.isConcept);
+    if (!showFuture)   nodes = nodes.filter((n) => !n.isFuture);
+    if (!showTuning)   nodes = nodes.filter((n) => !n.isTuning);
     if (yearMin || yearMax) nodes = nodes.filter((n) => (n.year ?? 0) >= yearMin && (n.year ?? 9999) <= yearMax);
     if (activeBrands.size > 0) nodes = nodes.filter((n) => activeBrands.has(n.brandId ?? ""));
     if (search.trim()) {
@@ -238,23 +324,27 @@ function EvolutionPageInner() {
     // ── Node type filter ──────────────────────────────────────────────────
     if (nodeFilter !== 'all') {
       const allEdges = graphData.edges;
-      // Sets of node IDs that are facelift targets or variant targets
-      const flTargets  = new Set(allEdges.filter(e => e.type === 'facelifted_to').map(e => e.target));
-      const varTargets = new Set(allEdges.filter(e => e.type === 'variant_of').map(e => e.target));
+      // Sets of node IDs that are facelift targets, variant targets, or derived (racing/tuning/etc.) targets
+      const flTargets      = new Set(allEdges.filter(e => e.type === 'facelifted_to').map(e => e.target));
+      const varTargets     = new Set(allEdges.filter(e => e.type === 'variant_of').map(e => e.target));
+      const derivedTargets = new Set(allEdges.filter(e => e.type === 'derived_from').map(e => e.target));
+      const isPlainBase = (id: string) => !flTargets.has(id) && !varTargets.has(id) && !derivedTargets.has(id);
 
       if (nodeFilter === 'base') {
-        // Only nodes that are neither a facelift nor a modification
-        nodes = nodes.filter(n => !flTargets.has(n.id) && !varTargets.has(n.id));
+        // Only nodes that are neither a facelift, a modification, nor a derived variant
+        nodes = nodes.filter(n => isPlainBase(n.id));
       } else if (nodeFilter === 'facelifts') {
-        // Base models + their facelifts (exclude pure modifications)
+        // Base models + their facelifts (exclude modifications and derived variants)
         const flSources = new Set(allEdges.filter(e => e.type === 'facelifted_to').map(e => e.source));
-        nodes = nodes.filter(n => !varTargets.has(n.id) || flTargets.has(n.id));
-        // Keep: not a modification target OR is a facelift target, plus facelift sources
-        nodes = nodes.filter(n => flTargets.has(n.id) || flSources.has(n.id) || (!varTargets.has(n.id) && !flTargets.has(n.id)));
+        nodes = nodes.filter(n => flTargets.has(n.id) || flSources.has(n.id) || isPlainBase(n.id));
       } else if (nodeFilter === 'variants') {
-        // Base models + their modifications (exclude facelifts)
+        // Base models + their modifications (exclude facelifts and derived variants)
         const varSources = new Set(allEdges.filter(e => e.type === 'variant_of').map(e => e.source));
-        nodes = nodes.filter(n => varTargets.has(n.id) || varSources.has(n.id) || (!varTargets.has(n.id) && !flTargets.has(n.id)));
+        nodes = nodes.filter(n => varTargets.has(n.id) || varSources.has(n.id) || isPlainBase(n.id));
+      } else if (nodeFilter === 'derived') {
+        // Base models + their derived variants (racing/tuning/coachbuilder/etc.; exclude facelifts and modifications)
+        const derivedSources = new Set(allEdges.filter(e => e.type === 'derived_from').map(e => e.source));
+        nodes = nodes.filter(n => derivedTargets.has(n.id) || derivedSources.has(n.id) || isPlainBase(n.id));
       }
     }
 
@@ -271,7 +361,7 @@ function EvolutionPageInner() {
     }
 
     return { nodes, edges };
-  }, [graphData, showConcepts, yearMin, yearMax, activeBrands, crossBrand, search, nodeFilter]);
+  }, [graphData, showConcepts, showFuture, showTuning, yearMin, yearMax, activeBrands, crossBrand, search, nodeFilter]);
 
   const handleNodeClick = useCallback((node: GraphNode) => {
     setSelectedNode(node);
@@ -372,6 +462,7 @@ function EvolutionPageInner() {
                     { id: 'base',     labelRu: 'Базовые',      labelEn: 'Base only'   },
                     { id: 'facelifts',labelRu: 'Фейслифты',   labelEn: 'Facelifts'   },
                     { id: 'variants', labelRu: 'Модификации',  labelEn: 'Variants'    },
+                    { id: 'derived',  labelRu: 'Производные',  labelEn: 'Derived'     },
                   ] as { id: NodeFilter; labelRu: string; labelEn: string }[]).map(opt => (
                     <button
                       key={opt.id}
@@ -396,7 +487,7 @@ function EvolutionPageInner() {
                   {DISPLAY_TOGGLES.map(({ label, val, set }) => (
                     <button
                       key={label}
-                      onClick={() => set((v) => !v)}
+                      onClick={() => set(!val)}
                       className="w-full flex items-center justify-between px-3 py-2 rounded-lg hover:bg-white/5 transition-colors"
                     >
                       <span className="text-sm text-text-secondary">{label}</span>
@@ -442,7 +533,7 @@ function EvolutionPageInner() {
                     </button>
                   ))}
                   {activeBrands.size > 0 && (
-                    <button onClick={() => setActiveBrands(new Set())}
+                    <button onClick={() => setActiveBrands(() => new Set())}
                       className="px-2 py-1 rounded-lg text-xs text-text-muted hover:text-danger border border-border hover:border-danger/30 transition-all">
                       {t("evolution.clear")}
                     </button>
@@ -561,6 +652,7 @@ function EvolutionPageInner() {
             showLabels={showLabels}
             nodeFilter={nodeFilter}
             className="w-full h-full"
+            height="full"
           />
         ) : (
           /* Empty state: guide user to select a brand */
@@ -624,6 +716,14 @@ function EvolutionPageInner() {
                 )}
                 {selectedNode.isConcept && (
                   <span className="px-1.5 py-0.5 rounded bg-gold/15 text-gold text-[10px] font-bold">CONCEPT</span>
+                )}
+                {selectedNode.isFuture && (
+                  <span className="px-1.5 py-0.5 rounded text-[10px] font-bold" style={{background:'rgba(34,211,238,0.12)',color:'#22d3ee'}}>FUTURE</span>
+                )}
+                {selectedNode.isTuning && (
+                  <span className="px-1.5 py-0.5 rounded text-[10px] font-bold" style={{background:'rgba(168,85,247,0.15)',color:'#a855f7'}}>
+                    {selectedNode.atelierName ? `ATELIER · ${selectedNode.atelierName}` : 'ATELIER'}
+                  </span>
                 )}
               </div>
               <div className="text-xs text-text-muted mb-3">

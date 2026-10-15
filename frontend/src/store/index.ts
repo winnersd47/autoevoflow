@@ -44,9 +44,25 @@ export interface ComparisonSlot {
   imageUrl?: string;
 }
 
+export interface AuthUser {
+  id: number;
+  email: string;
+  name: string | null;
+  avatarUrl: string | null;
+  role: "user" | "premium" | "admin";
+}
+
+export type AuthStatus = "idle" | "loading" | "authenticated" | "guest";
+
 // ─── Store State ──────────────────────────────────────────────────────────────
 
 export interface AppState {
+  // Auth — hydrated server-side (see AuthProvider in layout.tsx), never persisted:
+  // it must always reflect the real httpOnly cookie, not a stale local cache.
+  auth: { status: AuthStatus; user: AuthUser | null };
+  setAuth: (user: AuthUser | null) => void;
+  setAuthLoading: () => void;
+
   // Navigation
   sidebarOpen: boolean;
   setSidebarOpen: (open: boolean) => void;
@@ -151,6 +167,11 @@ export const useAppStore = create<AppState>()(
   subscribeWithSelector(
     persist(
       (set, get) => ({
+        // Auth
+        auth: { status: "idle", user: null },
+        setAuth: (user) => set({ auth: { status: user ? "authenticated" : "guest", user } }),
+        setAuthLoading: () => set((s) => ({ auth: { ...s.auth, status: "loading" } })),
+
         // Navigation
         sidebarOpen: false,
         setSidebarOpen: (open) => set({ sidebarOpen: open }),

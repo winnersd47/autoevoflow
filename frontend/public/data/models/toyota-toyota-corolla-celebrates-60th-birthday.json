@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-corolla-celebrates-60th-birthday",
+  "slug": "toyota-toyota-corolla-celebrates-60th-birthday",
+  "name": "2027 Toyota Corolla celebrates 60th birthday",
+  "fullName": "2027 Toyota Corolla celebrates 60th birthday",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The automaker's 60th Anniversary Edition is limited to 250 units in Canada, and pricing is not yet available",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://driving.ca/auto-news/news/2027-toyota-corolla-60th-anniversary-special-edition",
+  "isLatest": true,
+  "scrapedAt": "2026-08-18T20:04:01.033Z",
+  "createdAt": "2026-08-18T20:04:11.176Z",
+  "updatedAt": "2026-08-18T20:04:11.176Z"
+}

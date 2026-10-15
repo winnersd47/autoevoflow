@@ -1,0 +1,20 @@
+[
+  { "id": "chevy-camaro-gen7-sedan", "label": "Camaro Sedan", "brandName": "Chevrolet", "year": 2029 },
+  { "id": "lotus-esprit-type135", "label": "Esprit Type 135", "brandName": "Lotus", "year": 2028 },
+  { "id": "am-valen", "label": "Valen", "brandName": "Aston Martin", "year": 2028 },
+  { "id": "chevy-corvette-gsx", "label": "Corvette Grand Sport X", "brandName": "Chevrolet", "year": 2027 },
+  { "id": "bmw-m350-g50", "label": "M350 (G50)", "brandName": "BMW", "year": 2027 },
+  { "id": "mit-pajero-5", "label": "Pajero V (2027)", "brandName": "Mitsubishi", "year": 2027 },
+  { "id": "kia-sportage-6", "label": "Sportage VI (2028)", "brandName": "Kia", "year": 2028 },
+  { "id": "audi-a3-8y-fl", "label": "A3 8Y LCI", "brandName": "Audi", "year": 2027 },
+  { "id": "kia-ev3-gt", "label": "EV3 GT", "brandName": "Kia", "year": 2026 },
+  { "id": "kia-ev4-gt", "label": "EV4 GT", "brandName": "Kia", "year": 2026 },
+  { "id": "kia-ev5-gt", "label": "EV5 GT", "brandName": "Kia", "year": 2026 },
+  { "id": "hyu-tucson-5", "label": "Tucson NX5 (2027)", "brandName": "Hyundai", "year": 2027 },
+  { "id": "brabus-bodo", "label": "Bodo (исправлен бренд: Aston Martin → Brabus)", "brandName": "Brabus", "year": 2026 },
+  { "id": "brabus-bodo-cabriolet", "label": "Bodo Cabriolet (исправлен бренд: Aston Martin → Brabus)", "brandName": "Brabus", "year": 2027 },
+  { "id": "ncs-toyota-2027-sequoia-trailhunter", "label": "Sequoia Trailhunter (исправлен engineType i4t→v6h)", "brandName": "Toyota", "year": 2027 },
+  { "id": "ncs-ferrari-2026-cz26", "label": "CZ26 (найден и подключён донор: SF90 Stradale)", "brandName": "Ferrari", "year": 2026 },
+  { "id": "ncs-porsche-2026-flachbau-rs", "label": "Flachbau RS (донор уточнён в note: 911 GT2 RS 991.2)", "brandName": "Porsche", "year": 2026 },
+  { "id": "ncs-volkswagen-2027-volkswagen-atlas-starts-at-53-795-in-can", "label": "Atlas 2027 (исправлены bodyType/zone/engineType, подключён Cross Sport)", "brandName": "Volkswagen", "year": 2027 }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-porsche-porsche-flachbau-rs",
+  "slug": "porsche-porsche-flachbau-rs",
+  "name": "Porsche Flachbau RS",
+  "fullName": "2026 Porsche Flachbau RS",
+  "brandId": "porsche",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The exterior reinterprets the Flachbau shape of the 935. The front wings are now more low-slung and feature slatted air outlets to reduce air pressure.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-Flachbau_RS-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-Flachbau_RS-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/porsche/2026-flachbau_rs/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-14T20:04:01.689Z",
+  "createdAt": "2026-08-14T20:04:02.459Z",
+  "updatedAt": "2026-08-14T20:04:02.459Z"
+}

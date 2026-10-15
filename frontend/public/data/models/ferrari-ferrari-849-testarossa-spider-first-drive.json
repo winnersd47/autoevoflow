@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ferrari-ferrari-849-testarossa-spider-first-drive",
+  "slug": "ferrari-ferrari-849-testarossa-spider-first-drive",
+  "name": "2027 Ferrari 849 Testarossa Spider First-Drive",
+  "fullName": "2027 Ferrari 849 Testarossa Spider First-Drive",
+  "brandId": "ferrari",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Despite having mixed feelings about the Ferrari 849 Testarossa's looks and target audience, one thing is for sure: the wedge-tastic Spider is a heck of a lot cooler than the Coupe. The post 2027 Ferra",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/2027-ferrari-849-testarossa-spider-jerry-perez-12.jpg?quality=85",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/2027-ferrari-849-testarossa-spider-jerry-perez-12.jpg?quality=85",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2027-ferrari-849-testarossa-spider-review",
+  "isLatest": true,
+  "scrapedAt": "2026-07-16T19:45:46.352Z",
+  "createdAt": "2026-07-16T19:45:56.569Z",
+  "updatedAt": "2026-07-16T19:45:56.569Z"
+}

@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from fastapi import APIRouter
 
-from app.api.v1.routes import auth, brands, models, evolution, search, analysis, referrals
+from app.api.v1.routes import auth, brands, models, evolution, search, analysis, referrals, ai_vision
 
 api_router = APIRouter()
 
@@ -13,3 +13,4 @@ api_router.include_router(evolution.router,  prefix="/evolution",  tags=["Evolut
 api_router.include_router(search.router,     prefix="/search",     tags=["Search"])
 api_router.include_router(analysis.router,   prefix="/analysis",   tags=["Analysis"])
 api_router.include_router(referrals.router,  prefix="/referrals",  tags=["Referrals"])
+api_router.include_router(ai_vision.router,  prefix="/cars",       tags=["AI Vision"])

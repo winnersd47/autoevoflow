@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-bz",
+  "slug": "toyota-toyota-bz",
+  "name": "2027 Toyota bZ",
+  "fullName": "2027 Toyota bZ",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The 2027 Toyota bZ is now on sale, starting at $34,980 in the US and CA$45,985 in Canada.",
+  "generationCount": 1,
+  "heroImageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Toyota-bZ-prices-2027.jpeg?quality=82&#038;strip=all&#038;w=1400",
+  "thumbnailUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Toyota-bZ-prices-2027.jpeg?quality=82&#038;strip=all&#038;w=1400",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://electrek.co/2026/08/18/2027-toyota-bz-now-on-sale-how-much-it-costs/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-24T14:04:01.603Z",
+  "createdAt": "2026-08-24T14:04:02.825Z",
+  "updatedAt": "2026-08-24T14:04:02.826Z"
+}

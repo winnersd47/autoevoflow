@@ -787,6 +787,114 @@
   },
   "latestCars": [
     {
+      "id": "cad-photos-g71605534-2028-mercedes-benz-vle-class-ev-drive-exter",
+      "name": "View Exterior Photos of the 2028 Mercedes-Benz VLE-Class EV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/34ae5178-ea5b-4c9e-9215-1d822c4521b3.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71605534/2028-mercedes-benz-vle-class-ev-drive-exterior-gallery/",
+      "description": "See the exterior of the 2028 Mercedes-Benz VLE-class EV from every angle.",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "cad-photos-g71605710-2028-mercedes-benz-vle-class-ev-drive-inter",
+      "name": "View Interior Photos of the 2028 Mercedes-Benz VLE-Class EV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/860b4e7e-805d-49dc-9d35-9f9d7a1a5a8f.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71605710/2028-mercedes-benz-vle-class-ev-drive-interior-gallery/",
+      "description": "See the interior of the 2028 Mercedes-Benz VLE-class EV.",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "cad-reviews-a71605316-2028-mercedes-benz-vle-class-ev-drive",
+      "name": "2028 Mercedes-Benz VLE-Class First Drive: Don't Call It a Minivan",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1238cccd-2828-47d6-971c-7bc0375fed5d.jpg",
+      "pageUrl": "https://www.caranddriver.com/reviews/a71605316/2028-mercedes-benz-vle-class-ev-drive/",
+      "description": "Mercedes-Benz hopes to transform the car-service industry with an electric private jet on wheels.",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "jlp-2226224-2028-mercedes-benz-gla-ev-hybrid-reveal-specs-detail",
+      "name": "2028 Mercedes-Benz GLA",
+      "year": 2028,
+      "imageUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-benz-gla-is-a-particularly-big-beefy-subcompact-with-ev-or-hybrid-power/intro-1785343560.jpg",
+      "pageUrl": "https://www.jalopnik.com/2226224/2028-mercedes-benz-gla-ev-hybrid-reveal-specs-details/",
+      "description": "Like its CLA and GLB siblings, the third-generation GLA has lots of tech, nicer looks and new powertrains - and it&#39;s RWD in electric form.",
+      "scrapedAt": "2026-07-29T21:03:11.931Z"
+    },
+    {
+      "id": "rat-news-a73297183-2028-mercedes-benz-gla-class",
+      "name": "2028 Mercedes-Benz GLA-Class Grows Bigger, Now",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f2de76fc-07b9-4821-8061-27cf42c8259f.jpg",
+      "pageUrl": "https://www.roadandtrack.com/news/a73297183/2028-mercedes-benz-gla-class/",
+      "description": "The smallest Mercedes SUV boasts big new screens and lights galore.",
+      "scrapedAt": "2026-07-29T21:03:11.537Z"
+    },
+    {
+      "id": "cad-photos-g71283626-2028-mercedes-benz-gla-class-ev-revealed-in",
+      "name": "2028 Mercedes-Benz GLA-Class EV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/995e558e-0c03-4b05-86c9-73ba82e1c7cb.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71283626/2028-mercedes-benz-gla-class-ev-revealed-interior-gallery/",
+      "description": "See interior pictures of the new GLA-class EV.",
+      "scrapedAt": "2026-07-29T21:03:11.474Z"
+    },
+    {
+      "id": "cad-photos-g71798335-2028-mercedes-benz-gla-class-ev-revealed-ex",
+      "name": "2028 Mercedes-Benz GLA-Class EV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e838677a-56ea-43a3-924e-eb36080aabbd.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71798335/2028-mercedes-benz-gla-class-ev-revealed-exterior-gallery/",
+      "description": "See pictures of the first GLA-class EV.",
+      "scrapedAt": "2026-07-29T21:03:11.474Z"
+    },
+    {
+      "id": "cad-photos-g73257380-2028-mercedes-benz-gla-class-revealed-exter",
+      "name": "2028 Mercedes-Benz GLA-Class Hybrid",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/4e16cda3-b381-4a19-a058-5e42e6f1e5d5.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73257380/2028-mercedes-benz-gla-class-revealed-exterior-gallery/",
+      "description": "See pictures of the redesigned GLA-class hybrid.",
+      "scrapedAt": "2026-07-29T21:03:11.474Z"
+    },
+    {
+      "id": "cad-mercedes-benz-gla-class-2028",
+      "name": "2028 Mercedes-Benz GLA-Class",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/340edec5-3ac5-4d6c-b5b0-fffc488b8e2e.jpg",
+      "pageUrl": "https://www.caranddriver.com/mercedes-benz/gla-class-2028",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-29T21:03:11.474Z"
+    },
+    {
+      "id": "cad-photos-g71867553-2028-mercedes-benz-gla-class-revealed-inter",
+      "name": "2028 Mercedes-Benz GLA-Class",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b767363a-dd40-436d-96d5-1178c03cc100.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71867553/2028-mercedes-benz-gla-class-revealed-interior-gallery/",
+      "description": "See interior pictures of the redesigned GLA-class hybrid.",
+      "scrapedAt": "2026-07-29T21:03:11.474Z"
+    },
+    {
+      "id": "cad-mercedes-benz-gla-class-ev",
+      "name": "2028 Mercedes-Benz GLA-Class EV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f5187b00-d332-4ef0-a3e9-50d8717b95b5.jpg",
+      "pageUrl": "https://www.caranddriver.com/mercedes-benz/gla-class-ev",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-29T21:03:11.474Z"
+    },
+    {
+      "id": "drv-auto-news-news-2028-mercedes-benz-gla-ev-electric-hybrid",
+      "name": "2028 Mercedes-Benz GLA",
+      "year": 2028,
+      "imageUrl": "",
+      "pageUrl": "https://driving.ca/auto-news/news/2028-mercedes-benz-gla-ev-electric-hybrid",
+      "description": "The next-gen crossover is bigger than ever, and this time, the luxury marque isn’t putting all its powertrain eggs in one basket",
+      "scrapedAt": "2026-07-31T02:04:02.613Z"
+    },
+    {
       "id": "ncs-mercedes-benz-2027-amg_gt_4-door",
       "name": "Mercedes-Benz AMG GT 4-Door",
       "year": 2027,
@@ -796,175 +904,67 @@
       "scrapedAt": "2026-06-10T19:39:03.186Z"
     },
     {
-      "id": "ncs-mercedes-benz-2023-cla-class_concept",
-      "name": "Mercedes-Benz CLA-Class Concept",
-      "year": 2023,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-CLA-Class_Concept-2023-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2023-cla-class_concept/",
-      "description": "The dynamic front end of the Concept CLA Class is characterised by the shark-nose design and the distinctive seamless &quot;grille&quot; panel. It forms a cohesive part of...",
-      "scrapedAt": "2026-06-10T19:39:03.775Z"
+      "id": "cad-mercedes-amg-e53-wagon-2027",
+      "name": "2027 Mercedes-AMG E53 Wagon",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-amg-e53-wagon-114-69441340d0c4a.jpg",
+      "pageUrl": "https://www.caranddriver.com/mercedes-amg/e53-wagon-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
     },
     {
-      "id": "ncs-mercedes-benz-2023-vision_one-eleven_concept",
-      "name": "Mercedes-Benz Vision One-Eleven Concept",
-      "year": 2023,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_One-Eleven_Concept-2023-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2023-vision_one-eleven_concept/",
-      "description": "The body of the Mercedes-Benz Vision One-Eleven centres on skilful execution of the One-Bow design. From the low-slung front end to the muscular hind quarters...",
-      "scrapedAt": "2026-06-10T19:39:03.775Z"
+      "id": "rat-photos-g71591397-see-every-angle-of-the-2027-mercedes-amg-gl",
+      "name": "See Every Angle of the 2027 Mercedes-AMG GLE 63 S and GLS 63",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/7908641e-3f13-4c73-9ee0-85d627cbfd24.jpg",
+      "pageUrl": "https://www.roadandtrack.com/photos/g71591397/see-every-angle-of-the-2027-mercedes-amg-gle-63-s-and-gls-63/",
+      "description": "AMG fits its version of the flat-plane crank V-8 under the hood of these big SUVs.",
+      "scrapedAt": "2026-06-19T21:12:52.362Z"
     },
     {
-      "id": "ncs-mercedes-benz-2022-vision_amg_concept",
-      "name": "Mercedes-Benz Vision AMG Concept",
-      "year": 2022,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_AMG_Concept-2022-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2022-vision_amg_concept/",
-      "description": "As the visual focal point, the grille emphasises the futuristic look of the Vision AMG with its illuminated bars and three-dimensional exterior contour.",
-      "scrapedAt": "2026-06-10T19:39:03.775Z"
+      "id": "rat-news-a71591276-2027-mercedes-amg-gle63-s-and-gls63-flat-plan",
+      "name": "2027 Mercedes-AMG GLE63 S and GLS63 Adopt the Flat-Plane Crank V-8",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fc7fd44a-6f60-415e-b10a-5c9a30d407a9.jpg",
+      "pageUrl": "https://www.roadandtrack.com/news/a71591276/2027-mercedes-amg-gle63-s-and-gls63-flat-plane-crank-v-8/",
+      "description": "While the updated interior balances big screens with physical controls.",
+      "scrapedAt": "2026-06-19T21:12:52.362Z"
     },
     {
-      "id": "ncs-mercedes-benz-2021-eqg_concept",
-      "name": "Mercedes-Benz EQG Concept",
-      "year": 2021,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-EQG_Concept-2021-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2021-eqg_concept/",
-      "description": "Concept EQG is clearly a &quot;G&quot; not only in terms of design, but also because of its inner values, making it an uncompromising off-roader. Its body is also...",
-      "scrapedAt": "2026-06-10T19:39:03.775Z"
+      "id": "ncs-mercedes-benz-2027-vle",
+      "name": "Mercedes-Benz VLE",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-VLE-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-vle/",
+      "description": "Mercedes-Benz VLE embodies a completely new design with a low, streamlined silhouette and iconic aesthetics resulting in outstanding aerodynamics...",
+      "scrapedAt": "2026-07-01T09:22:51.440Z"
     },
     {
-      "id": "ncs-mercedes-benz-2020-vision_avtr_concept",
-      "name": "Mercedes-Benz Vision Avtr Concept",
-      "year": 2020,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Avtr_Concept-2020-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2020-vision_avtr_concept/",
-      "description": "A bionic, nature-inspired formal language characterizes the appearance of the Vision Avtr. This sensual, innovative design with the EQ-typical &quot;seamless&quot;...",
-      "scrapedAt": "2026-06-10T19:39:03.775Z"
+      "id": "ncs-mercedes-benz-2027-gls63_amg",
+      "name": "Mercedes-Benz GLS63 AMG",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLS63_AMG-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-gls63_amg/",
+      "description": "With 450 kW (612 hp), the M177 EVO delivers the same output as its predecessor. Its maximum torque of 850 Nm is available across a wide engine-speed range from 2.500 to 4.500 rpm.",
+      "scrapedAt": "2026-07-01T09:22:51.440Z"
     },
     {
-      "id": "ncs-mercedes-benz-2019-vision_simplex_concept",
-      "name": "Mercedes-Benz Vision Simplex Concept",
-      "year": 2019,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Simplex_Concept-2019-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2019-vision_simplex_concept/",
-      "description": "Vision Mercedes Simplex reinterprets the historic Simplex as a two-seater with freestanding wheels, an alternative drive, exciting User Interface and a thrilling design.",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
+      "id": "ncs-mercedes-benz-2027-gle63_s_amg_coupe",
+      "name": "Mercedes-Benz GLE63 S AMG Coupe",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLE63_S_AMG_Coupe-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-gle63_s_amg_coupe/",
+      "description": "With the version of the M177 EVO presented in the new GLE 63 S, AMG is laying the foundation for a new generation of V8 engines that will be both more powerful and...",
+      "scrapedAt": "2026-07-01T09:22:51.440Z"
     },
     {
-      "id": "ncs-mercedes-benz-2019-vision_eqs_concept",
-      "name": "Mercedes-Benz Vision EQS Concept",
-      "year": 2019,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_EQS_Concept-2019-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2019-vision_eqs_concept/",
-      "description": "A combined output of over 350 kW gives the Vision EQS the performance of a super-sports car. With a compact high-performance power unit at each axle...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2018-vision_maybach_ultimate_luxury_concept",
-      "name": "Mercedes-Benz Vision Maybach Ultimate Luxury Concept",
-      "year": 2018,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Maybach_Ultimate_Luxury_Concept-2018-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2018-vision_maybach_ultimate_luxury_concept/",
-      "description": "Unlike a conventional saloon, the Vision Mercedes-Maybach Ultimate Luxury offers a significantly higher, SUV-typical seating position and therefore a sublime...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2017-vision_maybach_6_cabriolet_concept",
-      "name": "Mercedes-Benz Vision Maybach 6 Cabriolet Concept",
-      "year": 2017,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Maybach_6_Cabriolet_Concept-2017-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2017-vision_maybach_6_cabriolet_concept/",
-      "description": "The Vision Mercedes-Maybach 6 Cabriolet is designed to anticipate the needs of its passengers and to provide the required information and solutions in real time.",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2016-vision_maybach_6_concept",
-      "name": "Mercedes-Benz Vision Maybach 6 Concept",
-      "year": 2016,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_Maybach_6_Concept-2016-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2016-vision_maybach_6_concept/",
-      "description": "Every August classic car fans from around the world converge on Pebble Beach in California for a very special beauty contest. This gathering of magnificent...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2015-f015_luxury_in_motion_concept",
-      "name": "Mercedes-Benz F015 Luxury in Motion Concept",
-      "year": 2015,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-F015_Luxury_in_Motion_Concept-2015-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2015-f015_luxury_in_motion_concept/",
-      "description": "With the S500 INTELLIGENT DRIVE and the Future Truck 2025, Mercedes-Benz has already made the vision of autonomous driving become reality. The new research...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2015-iaa_concept",
-      "name": "Mercedes-Benz IAA Concept",
-      "year": 2015,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-IAA_Concept-2015-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2015-iaa_concept/",
-      "description": "The Mercedes-Benz &quot;Concept IAA&quot; (Intelligent Aerodynamic Automobile) is two cars in one: an aerodynamics world champion with a Cd value of 0.19...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2012-ener-g-force_concept",
-      "name": "Mercedes-Benz Ener-G-Force Concept",
-      "year": 2012,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Ener-G-Force_Concept-2012-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2012-ener-g-force_concept/",
-      "description": "Is it possible that the  Mercedes-Benz G-Class  will still be around in 2025? A cool design study from Mercedes-Benz demonstrates how the genes of the...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2011-silver_arrow_concept",
-      "name": "Mercedes-Benz Silver Arrow Concept",
-      "year": 2011,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Silver_Arrow_Concept-2011-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2011-silver_arrow_concept/",
-      "description": "For the 2011 Los Angeles Design Challenge, which was seeking to find the most spectacular new film car for Hollywood, the designers from the Mercedes-Benz...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2010-biome_concept",
-      "name": "Mercedes-Benz Biome Concept",
-      "year": 2010,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Biome_Concept-2010-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2010-biome_concept/",
-      "description": "At the 2010 Los Angeles Design Challenge, the designers from the Mercedes-Benz Advanced Design Studios in Carlsbad, California, surprised everyone with a...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2009-f-cell_roadster_concept",
-      "name": "Mercedes-Benz F-Cell Roadster Concept",
-      "year": 2009,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-F-Cell_Roadster_Concept-2009-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2009-f-cell_roadster_concept/",
-      "description": "In a hitherto unique Mercedes-Benz F-Cell Roadster project bridging various fields of profession, the trainees of Daimler AG at the Sindelfingen...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2005-f_600_hygenius_concept",
-      "name": "Mercedes-Benz F 600 Hygenius Concept",
-      "year": 2005,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-F_600_Hygenius_Concept-2005-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2005-f_600_hygenius_concept/",
-      "description": "The new Mercedes-Benz F 600 Hygenius Concept is the latest in the series of research vehicles from Mercedes-Benz that point the way forwards for the...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2001-f_400_carving_concept",
-      "name": "Mercedes-Benz F 400 Carving Concept",
-      "year": 2001,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-F_400_Carving_Concept-2001-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2001-f_400_carving_concept/",
-      "description": "DaimlerChrysler has exhibited a special concept study at the 2001 Tokyo Motor Show: the Mercedes-Benz F 400 Carving Concept is a research vehicle packed...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2000-vision_sla_concept",
-      "name": "Mercedes-Benz Vision SLA Concept",
-      "year": 2000,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-Vision_SLA_Concept-2000-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2000-vision_sla_concept/",
-      "description": "Vision SLA is the name of a new roadster study with which Mercedes-Benz aims to bring the driving sensation of its traditional SL models to the compact car...",
-      "scrapedAt": "2026-06-10T19:39:03.776Z"
+      "id": "ncs-mercedes-benz-2027-s-class_maybach",
+      "name": "Mercedes-Benz S-Class Maybach",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-S-Class_Maybach-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-s-class_maybach/",
+      "description": "Meticulously curated materials and ambient lighting heighten the refined character of the Mercedes-Maybach S-Class. The new interior colour beech brown brings a refined...",
+      "scrapedAt": "2026-07-09T12:07:14.659Z"
     }
   ]
 }

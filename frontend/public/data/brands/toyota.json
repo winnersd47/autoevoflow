@@ -3337,13 +3337,184 @@
   ],
   "latestCars": [
     {
-      "id": "ncs-toyota-2026-grmn_corolla",
-      "name": "Toyota GRMN Corolla",
-      "year": 2026,
-      "imageUrl": "https://www.netcarshow.com/Toyota-GRMN_Corolla-2026-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/toyota/2026-grmn_corolla/",
-      "description": "GRMN Corolla represents the ultimate expression of the GR Corolla, engineered to deepen the connection between car and driver and inspire confidence even at the limits...",
-      "scrapedAt": "2026-06-05T07:31:48.971Z"
+      "id": "cad-toyota-gr-mr2",
+      "name": "2029 Toyota GR MR2",
+      "year": 2029,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/toyota-ft-se-sports-car-concept-exterior-104-65392a8cd6cf3.jpg",
+      "pageUrl": "https://www.caranddriver.com/toyota/gr-mr2",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-07-25T03:03:42.758Z"
+    },
+    {
+      "id": "carscoops-2026-08-toyota-mr2-revival",
+      "name": "2028 Without A Single Toyota Badge",
+      "year": 2028,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/08/HNzHOTca4AAn1LK-copy-1024x577.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/08/toyota-mr2-revival/",
+      "description": "<img width=\"1024\" height=\"577\" src=\"https://www.carscoops.com/wp-content/uploads/2026/08/HNzHOTca4AAn1LK-copy-1024x577.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-botto",
+      "scrapedAt": "2026-08-24T14:04:01.310Z"
+    },
+    {
+      "id": "cad-news-a73835915-2028-toyota-corolla-future-cars",
+      "name": "2028 Toyota Corolla",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/18df2830-fb70-41af-a64c-b846ed2a362f.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a73835915/2028-toyota-corolla-future-cars/",
+      "description": "The next-gen car will adopt a new platform that allows for traditional gas and hybrid powertrains, plus new PHEV and EV models.",
+      "scrapedAt": "2026-09-23T08:04:01.233Z"
+    },
+    {
+      "id": "cad-toyota-c-hr-2027",
+      "name": "2027 Toyota C-HR",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/5abb3781-9315-4c3d-b2e0-3ba14eccf7b8.jpg",
+      "pageUrl": "https://www.caranddriver.com/toyota/c-hr-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-06-19T21:12:52.613Z"
+    },
+    {
+      "id": "cad-news-a71888001-2027-toyota-highlander-production-delayed",
+      "name": "2027 Toyota Highlander Production Delayed Due to 'Final Adjustments'",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2027-toyota-highlander-limited-spellbound2tone-001-698bf25846523.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71888001/2027-toyota-highlander-production-delayed/",
+      "description": "The new EV SUV was supposed to go on sale by the end of the year, but now it may not arrive until 2027 after an eight-week delay.",
+      "scrapedAt": "2026-07-10T11:38:23.401Z"
+    },
+    {
+      "id": "cad-toyota-gr-corolla-2027",
+      "name": "2027 Toyota GR Corolla",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/4d187105-7e41-4412-863a-537f06ef7cff.jpg",
+      "pageUrl": "https://www.caranddriver.com/toyota/gr-corolla-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-07-13T08:16:03.674Z"
+    },
+    {
+      "id": "rat-news-a73193805-2027-toyota-tundra-trailhunter-update",
+      "name": "2027 Toyota Tundra Trailhunter",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/96d7da82-8371-418a-bf93-b313d7ec2e08.jpg",
+      "pageUrl": "https://www.roadandtrack.com/news/a73193805/2027-toyota-tundra-trailhunter-update/",
+      "description": "Toyota is investing heavily in off-road-focused trims, and the Tundra Trailhunter is its latest concoction.",
+      "scrapedAt": "2026-07-24T10:10:44.473Z"
+    },
+    {
+      "id": "cad-photos-a73248775-2027-toyota-sequoia-trailhunter-revealed-in",
+      "name": "2027 Toyota Sequoia Trailhunter",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1a9e3046-6a79-40e3-bbfb-b8501a26c746.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a73248775/2027-toyota-sequoia-trailhunter-revealed-interior-gallery/",
+      "description": "The 2027 Toyota Sequoia is the latest model to get a Trailhunter package. See it from every interior angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-a73248100-2027-toyota-sequoia-trailhunter-revealed-ex",
+      "name": "2027 Toyota Sequoia Trailhunter",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/433a7122-e579-4c31-ace9-1dc0935c66bc.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a73248100/2027-toyota-sequoia-trailhunter-revealed-exterior-gallery/",
+      "description": "The 2027 Toyota Sequoia is the latest model to get a Trailhunter package. See it from every exterior angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-toyota-rav4-2027",
+      "name": "2027 Toyota RAV4",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2026-toyota-rav4-limited-258-68f0e7f395879.jpg",
+      "pageUrl": "https://www.caranddriver.com/toyota/rav4-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-news-a73235834-2027-toyota-sequoia-trailhunter-revealed",
+      "name": "2027 Toyota Sequoia Joins the Off-Road Party",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b8bfb1d9-6215-44d0-badb-13ae67b19172.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a73235834/2027-toyota-sequoia-trailhunter-revealed/",
+      "description": "Toyota's full-size SUV undergoes a light refresh for 2027, with a larger grille and a new Trailhunter package.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "carscoops-2026-07-toyota-sequoia-trailhunter-2027",
+      "name": "2027 Toyota Sequoia",
+      "year": 2027,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/07/2027_Toyota_Sequoia_Trailhunter_-41-copy-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/07/toyota-sequoia-trailhunter-2027/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/2027_Toyota_Sequoia_Trailhunter_-41-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\"",
+      "scrapedAt": "2026-07-24T10:10:44.418Z"
+    },
+    {
+      "id": "drv-auto-news-news-2027-toyota-crown-hybrid-updated-canada",
+      "name": "2027 Toyota Crown",
+      "year": 2027,
+      "imageUrl": "",
+      "pageUrl": "https://driving.ca/auto-news/news/2027-toyota-crown-hybrid-updated-canada",
+      "description": "The Limited trim gets the new system, while the Platinum's turbocharged hybrid is all about performance",
+      "scrapedAt": "2026-07-24T10:10:44.410Z"
+    },
+    {
+      "id": "drv-auto-news-news-2027-toyota-sequoia-trailhunter-trim-updates-",
+      "name": "2027 Toyota Sequoia ups screen acreage,",
+      "year": 2027,
+      "imageUrl": "",
+      "pageUrl": "https://driving.ca/auto-news/news/2027-toyota-sequoia-trailhunter-trim-updates-screen",
+      "description": "SUV's updates mirror Tundra's, and its latest infotainment system is now broadcast on a standard 14.0-inch display",
+      "scrapedAt": "2026-07-24T10:10:44.410Z"
+    },
+    {
+      "id": "ncs-toyota-2027-sequoia_trailhunter",
+      "name": "Toyota Sequoia Trailhunter",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Toyota-Sequoia_Trailhunter-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/toyota/2027-sequoia_trailhunter/",
+      "description": "Trailhunter package offers Toyota Sequoia a more trail-ready personality with equipment designed for customers who want to venture beyond paved roads with greater confidence.",
+      "scrapedAt": "2026-07-31T06:37:22.511Z"
+    },
+    {
+      "id": "ncs-toyota-2027-tundra_trailhunter",
+      "name": "Toyota Tundra Trailhunter",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Toyota-Tundra_Trailhunter-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/toyota/2027-tundra_trailhunter/",
+      "description": "2027 Toyota Tundra introduces the new Trailhunter package, a rugged overlanding offering based on the SR5 grade and built for customers who want enhanced trail performance...",
+      "scrapedAt": "2026-07-31T06:37:22.511Z"
+    },
+    {
+      "id": "cad-toyota-tundra-hybrid-2027",
+      "name": "2027 Toyota Tundra Hybrid",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9334f00b-a1b5-4111-8bf2-e4dfd4368977.jpg",
+      "pageUrl": "https://www.caranddriver.com/toyota/tundra-hybrid-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-08-03T20:04:01.326Z"
+    },
+    {
+      "id": "cad-photos-a73335068-2027-toyota-tundra-hybrid-trd-pro-revealed-",
+      "name": "2027 Toyota Tundra Hybrid TRD Pro",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d34cff2a-b93d-4792-b633-1636c9405360.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a73335068/2027-toyota-tundra-hybrid-trd-pro-revealed-interior-gallery/",
+      "description": "See the 2027 Toyota Tundra Hybrid TRD Pro from every interior angle.",
+      "scrapedAt": "2026-08-03T20:04:01.326Z"
+    },
+    {
+      "id": "cad-photos-a73334908-2027-toyota-tundra-hybrid-trd-pro-revealed-",
+      "name": "2027 Toyota Tundra Hybrid TRD Pro",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1a234079-68b0-4d89-b7b7-4000e84cf62a.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a73334908/2027-toyota-tundra-hybrid-trd-pro-revealed-exterior-gallery/",
+      "description": "See the new Honeycomb color on the 2027 Toyota Tundra Hybrid TRD Pro.",
+      "scrapedAt": "2026-08-03T20:04:01.326Z"
+    },
+    {
+      "id": "cad-toyota-crown-2027",
+      "name": "2027 Toyota Crown",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2023-toyota-crown-platinum-501-64c92958d8769.jpg",
+      "pageUrl": "https://www.caranddriver.com/toyota/crown-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-08-05T20:04:01.557Z"
     }
   ]
 }

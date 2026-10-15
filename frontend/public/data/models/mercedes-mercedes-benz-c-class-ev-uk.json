@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-c-class-ev-uk",
+  "slug": "mercedes-mercedes-benz-c-class-ev-uk",
+  "name": "Mercedes-Benz C-Class EV [UK]",
+  "fullName": "2027 Mercedes-Benz C-Class EV [UK]",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Electric C-Class has a range of up to 762 kilometres (WLTP) thanks to high aerodynamics and innovations such as the heat pump and the one-box braking system with a recuperation...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-C-Class_EV_UK-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-C-Class_EV_UK-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-c-class_ev_uk-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-07T20:04:00.725Z",
+  "createdAt": "2026-10-07T20:04:03.718Z",
+  "updatedAt": "2026-10-07T20:04:03.719Z"
+}

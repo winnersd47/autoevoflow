@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-z",
+  "slug": "nissan-nissan-z",
+  "name": "2027 Nissan Z",
+  "fullName": "2027 Nissan Z",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The newly six-speed-manual-equipped Z NISMO sees its MSRP jump $1,000, however; all models get chassis updates",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://driving.ca/auto-news/news/2027-nissan-z-price-canada-cheaper",
+  "isLatest": true,
+  "scrapedAt": "2026-07-24T10:10:44.410Z",
+  "createdAt": "2026-07-24T10:10:54.580Z",
+  "updatedAt": "2026-07-24T10:10:54.580Z"
+}

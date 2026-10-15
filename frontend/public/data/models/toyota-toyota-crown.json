@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-crown",
+  "slug": "toyota-toyota-crown",
+  "name": "2027 Toyota Crown",
+  "fullName": "2027 Toyota Crown",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The Limited trim gets the new system, while the Platinum's turbocharged hybrid is all about performance",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://driving.ca/auto-news/news/2027-toyota-crown-hybrid-updated-canada",
+  "isLatest": true,
+  "scrapedAt": "2026-07-24T10:10:44.410Z",
+  "createdAt": "2026-07-24T10:10:54.579Z",
+  "updatedAt": "2026-07-24T10:10:54.579Z"
+}

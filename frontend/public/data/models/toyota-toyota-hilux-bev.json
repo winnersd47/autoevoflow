@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-hilux-bev",
+  "slug": "toyota-toyota-hilux-bev",
+  "name": "Toyota HiLux BEV",
+  "fullName": "2026 Toyota HiLux BEV",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "From the outset, it was a requirement that the Toyota HiLux BEV's off-road performance should be comparable to those of other models in the ninth generation series...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Toyota-HiLux_BEV-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Toyota-HiLux_BEV-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/toyota/2026-hilux_bev/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.440Z",
+  "createdAt": "2026-07-01T09:22:51.792Z",
+  "updatedAt": "2026-07-01T09:22:51.792Z"
+}

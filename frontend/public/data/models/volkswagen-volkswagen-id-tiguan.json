@@ -1,0 +1,26 @@
+{
+  "id": "ncs-volkswagen-volkswagen-id-tiguan",
+  "slug": "volkswagen-volkswagen-id-tiguan",
+  "name": "Volkswagen ID.Tiguan",
+  "fullName": "2027 Volkswagen ID.Tiguan",
+  "brandId": "volkswagen",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Volkswagen has specifically incorporated customer requests into the development of the new ID.Tiguan, implementing countless enhancements and advanced technologies.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.Tiguan-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.Tiguan-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/volkswagen/2027-id.tiguan/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-09T11:18:53.774Z",
+  "createdAt": "2026-10-09T11:18:55.129Z",
+  "updatedAt": "2026-10-09T11:18:55.130Z"
+}

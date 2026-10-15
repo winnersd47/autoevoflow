@@ -1,0 +1,26 @@
+{
+  "id": "ncs-porsche-porsche-cayenne-ev-can-open-its-doors",
+  "slug": "porsche-porsche-cayenne-ev-can-open-its-doors",
+  "name": "2027 Porsche Cayenne EV Can Open Its Doors",
+  "fullName": "2027 Porsche Cayenne EV Can Open Its Doors",
+  "brandId": "porsche",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Just like a Rolls-Royce, Porsche’s flagship SUV makes one of the most mundane tasks redundant–if you’re willing to pay extra.",
+  "generationCount": 1,
+  "heroImageUrl": "https://cdn.motor1.com/images/mgl/6ZOAjr/s3/2027-porsche-cayenne-electric.jpg",
+  "thumbnailUrl": "https://cdn.motor1.com/images/mgl/6ZOAjr/s3/2027-porsche-cayenne-electric.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://insideevs.com/news/808453/2027-porsche-cayenne-electric-doors-updates/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-16T13:03:54.254Z",
+  "createdAt": "2026-09-16T13:03:55.525Z",
+  "updatedAt": "2026-09-16T13:03:55.525Z"
+}

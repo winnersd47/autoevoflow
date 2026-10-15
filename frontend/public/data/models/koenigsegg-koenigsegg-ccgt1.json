@@ -1,0 +1,26 @@
+{
+  "id": "ncs-koenigsegg-koenigsegg-ccgt1",
+  "slug": "koenigsegg-koenigsegg-ccgt1",
+  "name": "Koenigsegg CCGT1",
+  "fullName": "2027 Koenigsegg CCGT1",
+  "brandId": "koenigsegg",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "CCGT1 has been designed to deliver both an exhilarating road-going experience and scintillating performance on track, thanks in part to Koenigsegg's first-ever...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Koenigsegg-CCGT1-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Koenigsegg-CCGT1-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/koenigsegg/2027-ccgt1/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-14T11:18:53.871Z",
+  "createdAt": "2026-08-14T11:18:54.742Z",
+  "updatedAt": "2026-08-14T11:18:54.742Z"
+}

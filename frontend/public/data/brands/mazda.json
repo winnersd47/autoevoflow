@@ -1075,6 +1075,51 @@
       "scrapedAt": "2026-06-10T19:39:02.829Z"
     },
     {
+      "id": "cad-mazda-cx-90-2027",
+      "name": "2027 Mazda CX-90",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-mazda-cx-90-turbo-s-premium-plus-101-66fffa2bcb102.jpg",
+      "pageUrl": "https://www.caranddriver.com/mazda/cx-90-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-07-25T03:03:42.758Z"
+    },
+    {
+      "id": "ncs-mazda-2027-cx-6e",
+      "name": "Mazda CX-6e",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Mazda-CX-6e-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/mazda/2027-cx-6e/",
+      "description": "Mazda CX-6e is built in China and has been developed together with Changan, based on a strong and well-established partnership of more than 20 years of collaboration.",
+      "scrapedAt": "2026-09-03T14:04:01.229Z"
+    },
+    {
+      "id": "cad-mazda-cx-90",
+      "name": "2026 Mazda CX-90",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-mazda-cx-90-premium-plus-lt-intro-1587-655288283fb00.jpg",
+      "pageUrl": "https://www.caranddriver.com/mazda/cx-90",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-07-25T03:03:42.758Z"
+    },
+    {
+      "id": "cad-photos-g73172329-2026-mazda-cx-5-premium-plus-test-gallery",
+      "name": "2026 Mazda CX-5 Premium Plus",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ea71c870-2c64-43fa-857e-956ce4b54ceb.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73172329/2026-mazda-cx-5-premium-plus-test-gallery/",
+      "description": "See the interior and exterior of the 2026 Mazda CX-5 Premium Plus from every angle.",
+      "scrapedAt": "2026-07-29T03:04:03.748Z"
+    },
+    {
+      "id": "cad-photos-g71285684-2026-mazda-cx-5-premium-plus-reliability-ma",
+      "name": "2026 Mazda CX-5 Premium Plus",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/8f5eb318-33ae-4922-baeb-57bc3cb10b61.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71285684/2026-mazda-cx-5-premium-plus-reliability-maintenance-interior-gallery/",
+      "description": "See the interior of the 2026 Mazda CX-5 Premium Plus from every angle.",
+      "scrapedAt": "2026-08-24T14:04:01.385Z"
+    },
+    {
       "id": "ncs-mazda-2017-vision_coupe_concept",
       "name": "Mazda Vision Coupe Concept",
       "year": 2017,

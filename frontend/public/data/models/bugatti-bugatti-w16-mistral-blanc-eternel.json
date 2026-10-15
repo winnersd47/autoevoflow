@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bugatti-bugatti-w16-mistral-blanc-eternel",
+  "slug": "bugatti-bugatti-w16-mistral-blanc-eternel",
+  "name": "Bugatti W16 Mistral Blanc Eternel",
+  "fullName": "2026 Bugatti W16 Mistral Blanc Eternel",
+  "brandId": "bugatti",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Veyron established the W16 as an automotive icon; the W16 Mistral represents its final roadgoing expression. Through 'Blanc Eternel', the beginning and culmination of that journey.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Bugatti-W16_Mistral_Blanc_Eternel-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Bugatti-W16_Mistral_Blanc_Eternel-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bugatti/2026-w16_mistral_blanc_eternel/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T13:41:23.876Z",
+  "createdAt": "2026-07-01T13:41:24.112Z",
+  "updatedAt": "2026-07-01T13:41:24.112Z"
+}

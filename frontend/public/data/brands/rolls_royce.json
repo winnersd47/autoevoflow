@@ -1274,6 +1274,24 @@
       "pageUrl": "https://www.netcarshow.com/rolls-royce/2026-project_nightingale_concept/",
       "description": "In profile, the full impact of Project Nightingale's driver-oriented, torpedo-shaped design is revealed. An expansive bonnet gives way to the dramatically raked windscreen...",
       "scrapedAt": "2026-06-05T07:31:49.538Z"
+    },
+    {
+      "id": "ncs-rolls-royce-2026-phantom_extended_regatta",
+      "name": "Rolls-Royce Phantom Extended Regatta",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Rolls-Royce-Phantom_Extended_Regatta-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/rolls-royce/2026-phantom_extended_regatta/",
+      "description": "The exterior of the motor car is finished in Regatta Blue, a deep marine tone, over a lower body of English White, applied as a hand-laid two-tone treatment...",
+      "scrapedAt": "2026-07-03T12:09:09.837Z"
+    },
+    {
+      "id": "ncs-rolls-royce-2026-ghost_extended_savile_row",
+      "name": "Rolls-Royce Ghost Extended Savile Row",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Rolls-Royce-Ghost_Extended_Savile_Row-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/rolls-royce/2026-ghost_extended_savile_row/",
+      "description": "Ghost Savile Row's exterior colourway is inspired by the combination of a navy suit and white dress shirt - a restrained pairing that became the foundation of British tailoring.",
+      "scrapedAt": "2026-07-09T12:07:14.659Z"
     }
   ]
 }

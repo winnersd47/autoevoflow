@@ -1,0 +1,26 @@
+{
+  "id": "ncs-jaguar-jaguar-type-01",
+  "slug": "jaguar-jaguar-type-01",
+  "name": "Jaguar Type 01",
+  "fullName": "2028 Jaguar Type 01",
+  "brandId": "jaguar",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "The creative engineering and singular focus behind this electric-only architecture is the enabler for both Type 01's distinctive proportions and captivating driving dynamics.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Jaguar-Type_01-2028-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Jaguar-Type_01-2028-thb.jpg",
+  "tags": [
+    "new",
+    "2028"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/jaguar/2028-type_01/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-07T09:07:31.229Z",
+  "createdAt": "2026-10-07T09:07:32.386Z",
+  "updatedAt": "2026-10-07T09:07:32.387Z"
+}

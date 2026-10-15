@@ -211,12 +211,44 @@ async def get_design_dna(
 
     graph_data = await graph.get_brand_dna_graph(brand_id)
 
+    # Attempt to generate key_design_traits via YandexGPT Pro
+    from app.core.config import settings as _s
+    key_design_traits: list[str] = []
+    if _s.YANDEX_API_KEY and _s.YANDEX_FOLDER_ID:
+        try:
+            import json as _json
+            from app.services.ai.analysis_service import AnalysisService
+
+            _ai = AnalysisService()
+            _gens = graph_data.get("generations", [])[:10]
+            _gens_ctx = "\n".join(
+                f"  - {g.get('code_name') or 'Gen'} ({g.get('year_start', '?')}): "
+                f"{g.get('description') or ''}"
+                for g in _gens
+            ) or "  нет данных"
+            _prompt = (
+                f"Перечисли 5-7 ключевых дизайн-черт и стилистических принципов бренда {brand.name}. "
+                f"Поколения:\n{_gens_ctx}\n\n"
+                f"Верни JSON-массив коротких строк (до 10 слов каждая): "
+                f'["черта 1", "черта 2", ...]'
+            )
+            _text, _ = await _ai._call_yandexgpt(_prompt, max_tokens=300, temperature=0.3)
+            _clean = _text.replace("```json", "").replace("```", "").strip()
+            _s_idx = _clean.find("[")
+            _e_idx = _clean.rfind("]")
+            if _s_idx != -1 and _e_idx > _s_idx:
+                _parsed = _json.loads(_clean[_s_idx:_e_idx + 1])
+                if isinstance(_parsed, list):
+                    key_design_traits = [str(t) for t in _parsed]
+        except Exception as _exc:
+            logger.warning("yandex_key_design_traits_failed", brand=brand.name, error=str(_exc))
+
     dna = DesignDNA(
         brand_id=brand_id,
         brand_name=brand.name,
         nodes=graph_data.get("generations", []),
         edges=graph_data.get("edges", []),
-        key_design_traits=[],
+        key_design_traits=key_design_traits,
         visual_cohesion_score=None,
     )
     await cache.set(cache_key, dna.model_dump(mode="json"), ttl=_GRAPH_TTL)

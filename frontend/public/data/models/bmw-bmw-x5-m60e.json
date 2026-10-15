@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-x5-m60e",
+  "slug": "bmw-bmw-x5-m60e",
+  "name": "BMW X5 M60e",
+  "fullName": "2027 BMW X5 M60e",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "BMW X5 M60e xDrive creates visual highlights emphasising its role as the sporting flagship, while the M Sport package and the M Sport package Pro provide...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-X5_M60e-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-X5_M60e-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-x5_m60e/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-01T09:22:51.439Z",
+  "createdAt": "2026-07-01T09:22:51.784Z",
+  "updatedAt": "2026-07-01T09:22:51.784Z"
+}

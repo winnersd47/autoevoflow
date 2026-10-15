@@ -1,0 +1,26 @@
+{
+  "id": "ncs-astonmartin-aston-martin-dreadnought-concept",
+  "slug": "astonmartin-aston-martin-dreadnought-concept",
+  "name": "Aston Martin Dreadnought Concept",
+  "fullName": "2026 Aston Martin Dreadnought Concept",
+  "brandId": "astonmartin",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Aston Martin unveiled Dreadnought, a digital-only military specification vehicle designed exclusively for the new Call of Duty&reg;: Modern Warfare&reg; 4.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Aston_Martin-Dreadnought_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Aston_Martin-Dreadnought_Concept-2026-thb.jpg",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/aston_martin/2026-dreadnought_concept/",
+  "isLatest": true,
+  "scrapedAt": "2026-07-31T06:37:22.511Z",
+  "createdAt": "2026-07-31T06:37:23.529Z",
+  "updatedAt": "2026-07-31T06:37:23.529Z"
+}

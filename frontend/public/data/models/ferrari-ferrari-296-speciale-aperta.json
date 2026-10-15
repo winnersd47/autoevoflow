@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ferrari-ferrari-296-speciale-aperta",
+  "slug": "ferrari-ferrari-296-speciale-aperta",
+  "name": "2026 Ferrari 296 Speciale Aperta",
+  "fullName": "2026 Ferrari 296 Speciale Aperta",
+  "brandId": "ferrari",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Following in the footsteps of the magical 360 Challenge Stradale, 430 Scuderia, 458 Speciale, and 488 Pista—the Ferrari 296 Speciale honors its name with spicy looks and mind-bending performance. The ",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/2026-ferrari-296-speciale-aperta-jerry-perez-24.jpeg?quality=85",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/2026-ferrari-296-speciale-aperta-jerry-perez-24.jpeg?quality=85",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2026-ferrari-296-speciale-aperta-review",
+  "isLatest": true,
+  "scrapedAt": "2026-08-06T14:04:01.329Z",
+  "createdAt": "2026-08-06T14:04:11.628Z",
+  "updatedAt": "2026-08-06T14:04:11.628Z"
+}

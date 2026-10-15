@@ -166,9 +166,9 @@ services:
     environment:
       APP_ENV: development
       DATABASE_URL: postgresql+asyncpg://${POSTGRES_USER:-automotive}:${POSTGRES_PASSWORD:-automotive_dev_password}@postgres:5432/${POSTGRES_DB:-automotive_ai}
-      NEO4J_URL: bolt://neo4j:7687
+      NEO4J_URI: bolt://neo4j:7687
       NEO4J_USER: neo4j
-      NEO4J_PASSWORD: ${NEO4J_PASSWORD:-neo4j_dev_password}
+      NEO4J_PASS: ${NEO4J_PASSWORD:-neo4j_dev_password}
       REDIS_URL: redis://redis:6379/0
       CELERY_BROKER_URL: redis://redis:6379/1
       CELERY_RESULT_BACKEND: redis://redis:6379/2
@@ -177,6 +177,7 @@ services:
       MINIO_SECRET_KEY: ${MINIO_ROOT_PASSWORD:-minioadmin_dev_password}
       ML_INFERENCE_URL: http://ml-inference:8001
       SECRET_KEY: ${SECRET_KEY:-dev_secret_key_change_in_production}
+      JWT_SECRET: ${JWT_SECRET:-dev_jwt_secret_autoevoflow_2026_not_for_production_use_only_local}
       DEBUG: "true"
     volumes:
       - ../backend:/app:cached
@@ -317,9 +318,9 @@ services:
     environment:
       APP_ENV: development
       DATABASE_URL: postgresql+asyncpg://${POSTGRES_USER:-automotive}:${POSTGRES_PASSWORD:-automotive_dev_password}@postgres:5432/${POSTGRES_DB:-automotive_ai}
-      NEO4J_URL: bolt://neo4j:7687
+      NEO4J_URI: bolt://neo4j:7687
       NEO4J_USER: neo4j
-      NEO4J_PASSWORD: ${NEO4J_PASSWORD:-neo4j_dev_password}
+      NEO4J_PASS: ${NEO4J_PASSWORD:-neo4j_dev_password}
       REDIS_URL: redis://redis:6379/0
       CELERY_BROKER_URL: redis://redis:6379/1
       CELERY_RESULT_BACKEND: redis://redis:6379/2
@@ -327,6 +328,7 @@ services:
       MINIO_ACCESS_KEY: ${MINIO_ROOT_USER:-minioadmin}
       MINIO_SECRET_KEY: ${MINIO_ROOT_PASSWORD:-minioadmin_dev_password}
       ML_INFERENCE_URL: http://ml-inference:8001
+      JWT_SECRET: ${JWT_SECRET:-dev_jwt_secret_autoevoflow_2026_not_for_production_use_only_local}
     volumes:
       - ../backend:/app:cached
     networks:

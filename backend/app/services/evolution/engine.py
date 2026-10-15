@@ -6,7 +6,7 @@ from typing import Any
 
 import numpy as np
 import structlog
-from sqlalchemy import select
+from sqlalchemy import select, text
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.db.neo4j.graph import Neo4jGraph
@@ -92,6 +92,14 @@ class EvolutionEngine:
       - EVOLVES_INTO:  weighted_score > 0.75, same brand
       - FACELIFT_OF:   weighted_score > 0.85, year_delta < 5
       - INFLUENCED_BY: weighted_score > 0.80, cross-brand
+
+    Vector-store rule: pgvector is the only similarity/ANN store. Neo4j
+    (self._neo4j) stores only graph structure — nodes and typed edges,
+    never embeddings — and is queried here only for lineage traversal and
+    for the already-known-edges check in find_hidden_connections. Any
+    all-pairs similarity scan belongs in SQL against the indexed embedding
+    columns (see find_hidden_connections), not as a Python loop over
+    embeddings pulled into memory.
     """
 
     WEIGHT_VISUAL = 0.50
@@ -257,6 +265,15 @@ class EvolutionEngine:
         """
         Detect EVOLVES_INTO, FACELIFT_OF, and INFLUENCED_BY edges
         from a list of generation dicts (sorted by year).
+
+        Unlike find_hidden_connections, this stays a Python/numpy
+        computation deliberately rather than moving to SQL: the caller
+        (build_evolution_tree) already scoped `generations` to a single
+        brand's models and each generation is only compared against the
+        next 5 by year, so this is a small, bounded, already-resident-in-
+        memory computation (O(n*5), not O(n^2) over the whole table) — the
+        pgvector-bypass concern that made find_hidden_connections a real
+        problem doesn't apply at the same severity here.
         """
         if len(generations) < 2:
             return []
@@ -351,25 +368,44 @@ class EvolutionEngine:
         """
         Find pairs of generations across different brands with high visual similarity.
         Filters out already-known influence edges.
+
+        The pairwise comparison runs as a pgvector self-join in SQL rather
+        than pulling every embedding into Python and scoring all pairs with
+        numpy — that used to be an unbounded O(n^2) scan over every
+        generation in the DB despite visual_embedding already having an
+        HNSW index. Only the (typically small) set of pairs that already
+        clear `threshold` ever reach Python, where they're cheaply filtered
+        against Neo4j's already-known INFLUENCED_BY edges.
         """
-        from app.db.postgresql.models import CarModel, Generation
-
-        result = await self._db.execute(
-            select(
-                Generation.id,
-                Generation.visual_embedding,
-                CarModel.brand_id,
-            ).join(CarModel, Generation.model_id == CarModel.id)
-            .where(Generation.visual_embedding.isnot(None))
+        sql = text(
+            """
+            SELECT
+                g1.id AS gen1_id,
+                g2.id AS gen2_id,
+                m1.brand_id AS brand1_id,
+                m2.brand_id AS brand2_id,
+                1 - (g1.visual_embedding <=> g2.visual_embedding) AS score
+            FROM generations g1
+            JOIN car_models m1 ON m1.id = g1.model_id
+            JOIN generations g2 ON g2.id > g1.id
+            JOIN car_models m2 ON m2.id = g2.model_id
+            WHERE g1.visual_embedding IS NOT NULL
+              AND g2.visual_embedding IS NOT NULL
+              AND m1.brand_id != m2.brand_id
+              AND (1 - (g1.visual_embedding <=> g2.visual_embedding)) >= :threshold
+            ORDER BY score DESC
+            """
         )
-        rows = result.all()
+        result = await self._db.execute(sql, {"threshold": threshold})
+        rows = result.mappings().all()
 
-        if len(rows) < 2:
+        if not rows:
             return []
 
-        hidden: list[HiddenConnection] = []
-
-        # Fetch known cross-brand edges from Neo4j to exclude
+        # Fetch known cross-brand edges from Neo4j to exclude. This set is
+        # cheap to build and cheap to filter against now that `rows` is
+        # already bounded to pairs clearing `threshold`, not every pair in
+        # the DB.
         known_pairs: set[tuple[int, int]] = set()
         try:
             known_edges = await self._neo4j.run_raw(
@@ -382,33 +418,73 @@ class EvolutionEngine:
         except Exception as exc:
             logger.warning("Could not fetch known edges from Neo4j", error=str(exc))
 
-        n = len(rows)
-        for i in range(n):
-            for j in range(i + 1, n):
-                gen1_id, vec1, brand1 = rows[i]
-                gen2_id, vec2, brand2 = rows[j]
+        hidden = [
+            HiddenConnection(
+                gen1_id=row["gen1_id"],
+                gen2_id=row["gen2_id"],
+                brand1_id=row["brand1_id"],
+                brand2_id=row["brand2_id"],
+                similarity_score=round(float(row["score"]), 4),
+                connection_type="unexpected_visual_similarity",
+            )
+            for row in rows
+            if (row["gen1_id"], row["gen2_id"]) not in known_pairs
+        ]
 
-                if brand1 == brand2:
-                    continue
-                if (gen1_id, gen2_id) in known_pairs:
-                    continue
-
-                score = _cosine_similarity(vec1, vec2)
-                if score >= threshold:
-                    hidden.append(
-                        HiddenConnection(
-                            gen1_id=gen1_id,
-                            gen2_id=gen2_id,
-                            brand1_id=brand1,
-                            brand2_id=brand2,
-                            similarity_score=round(score, 4),
-                            connection_type="unexpected_visual_similarity",
-                        )
-                    )
-
-        hidden.sort(key=lambda h: h.similarity_score, reverse=True)
         logger.info("hidden_connections_found", count=len(hidden))
         return hidden
+
+    async def explain_hidden_connection(self, connection: HiddenConnection) -> str:
+        """
+        Use YandexGPT Pro to generate a human-readable explanation of why two
+        cross-brand generations share high visual similarity.
+        """
+        from app.core.config import settings
+
+        fallback = (
+            f"Generations {connection.gen1_id} and {connection.gen2_id} share "
+            f"{connection.similarity_score:.0%} visual similarity (cross-brand)."
+        )
+
+        if not settings.YANDEX_API_KEY or not settings.YANDEX_FOLDER_ID:
+            return fallback
+
+        import httpx
+
+        prompt = (
+            f"Два автомобиля из разных брендов (бренд {connection.brand1_id} и бренд "
+            f"{connection.brand2_id}) имеют неожиданно высокое визуальное сходство "
+            f"({connection.similarity_score:.0%}, тип: {connection.connection_type}). "
+            f"Объясни в 2-3 предложениях возможные причины: общий дизайнер, эпоха, "
+            f"тренды, платформа или конкурентный ответ."
+        )
+        try:
+            async with httpx.AsyncClient(timeout=20.0) as client:
+                res = await client.post(
+                    "https://llm.api.cloud.yandex.net/foundationModels/v1/completion",
+                    headers={"Authorization": f"Api-Key {settings.YANDEX_API_KEY}"},
+                    json={
+                        "modelUri": f"gpt://{settings.YANDEX_FOLDER_ID}/yandexgpt-pro/latest",
+                        "completionOptions": {
+                            "stream": False,
+                            "temperature": 0.5,
+                            "maxTokens": "300",
+                        },
+                        "messages": [
+                            {
+                                "role": "system",
+                                "text": "Ты эксперт по истории автомобильного дизайна.",
+                            },
+                            {"role": "user", "text": prompt},
+                        ],
+                    },
+                )
+                res.raise_for_status()
+                data = res.json()
+                return data["result"]["alternatives"][0]["message"]["text"]
+        except Exception as exc:
+            logger.warning("explain_hidden_connection_failed", error=str(exc))
+            return fallback
 
     async def build_automotive_knowledge_graph(self) -> GraphStats:
         """

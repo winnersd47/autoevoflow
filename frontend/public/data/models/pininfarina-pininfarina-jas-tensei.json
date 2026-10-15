@@ -1,0 +1,26 @@
+{
+  "id": "ncs-pininfarina-pininfarina-jas-tensei",
+  "slug": "pininfarina-pininfarina-jas-tensei",
+  "name": "Pininfarina JAS Tensei",
+  "fullName": "2027 Pininfarina JAS Tensei",
+  "brandId": "pininfarina",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Styled by Pininfarina and engineered by JAS Motorsport, Tensei will be produced in an ultra-limited series at JAS Motorsport's Atelier in Arluno, near Milan.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Pininfarina-JAS_Tensei-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Pininfarina-JAS_Tensei-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/pininfarina/2027-jas_tensei/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-08T20:04:00.743Z",
+  "createdAt": "2026-10-08T20:04:02.107Z",
+  "updatedAt": "2026-10-08T20:04:02.108Z"
+}

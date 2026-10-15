@@ -14,6 +14,20 @@ import type {
   D3ForceLink,
 } from "./types";
 
+// ─── Short label helper ───────────────────────────────────────────────────────
+// Strips brand-name prefix and trailing (year) from the raw label field.
+// "Ferrari 575M Maranello (2002)" → "575M Maranello"
+// "Civic FD 8th"                  → "Civic FD 8th"  (already clean)
+export function shortLabel(label: string, brandName?: string, year?: number): string {
+  let s = label.trim()
+  if (brandName) {
+    const esc = brandName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    s = s.replace(new RegExp(`^${esc}\\s+`, 'i'), '')
+  }
+  s = s.replace(/\s*\(\d{4}\)\s*$/, '').trim()
+  return s
+}
+
 // ─── Edge Colour Map ──────────────────────────────────────────────────────────
 
 const EDGE_COLORS: Record<EvolutionEdgeType, string> = {
@@ -22,6 +36,7 @@ const EDGE_COLORS: Record<EvolutionEdgeType, string> = {
   shares_platform: "#00ff88",
   derived_from: "#a78bfa",
   inspired: "#f472b6",
+  inspired_by: "#f472b6",
   concept_to_production: "#ffd700",
   facelifted_to: "#38bdf8",
   rebadged_as: "#94a3b8",
@@ -31,6 +46,7 @@ const EDGE_COLORS: Record<EvolutionEdgeType, string> = {
 const EDGE_DASH_ARRAY: Partial<Record<EvolutionEdgeType, string>> = {
   influenced_by: "6,4",
   inspired: "4,4",
+  inspired_by: "6,4",
   rebadged_as: "8,4",
 };
 
@@ -40,6 +56,7 @@ const EDGE_WIDTH: Record<EvolutionEdgeType, number> = {
   shares_platform: 2,
   derived_from: 2,
   inspired: 1.5,
+  inspired_by: 1.5,
   concept_to_production: 3,
   facelifted_to: 2,
   rebadged_as: 1,
@@ -147,10 +164,16 @@ export function buildCytoscapeElements(graphData: GraphData): CytoscapeElements 
   for (const node of graphData.nodes) {
     const isFl  = node.isFacelift  || flTargets.has(node.id);
     const isVar = varTargets.has(node.id);
+    const isLim = !!node.isLimited;
+    const isRace = !!node.isRacing;
+    // "future" = анонсирована компанией, но официальный дизайн ещё не раскрыт.
+    // isRevealed: true снимает флаг сразу после официального показа с фото.
+    // Концепты имеют свой стиль и не затрагиваются.
+    const isFuture = !node.isConcept && !!node.isFuture && !node.isRevealed;
     elements.push({
       data: {
         id: node.id,
-        label: node.label,
+        label: shortLabel(node.label, node.brandName, node.year),
         type: node.type,
         imageUrl: node.imageUrl,
         year: node.year,
@@ -159,18 +182,38 @@ export function buildCytoscapeElements(graphData: GraphData): CytoscapeElements 
         codeName: node.codeName,
         isFacelift: isFl,
         isConcept: node.isConcept,
+        isFuture: isFuture,
+        isTuning: node.isTuning,
+        atelierName: node.atelierName,
+        isLimited: isLim,
+        isRacing: isRace,
         modelSlug: node.modelSlug,
         bodyType: node.bodyType,
         segment: node.segment,
         zone: node.zone,
         hp: node.hp,
         engineType: node.engineType,
+        familyKey: node.familyKey,
+        // Трек-раскладка (EvolutionGraph.tsx, layout==='track') читает именно эти два
+        // поля через node.data(...) — без них график "Трек" всегда пуст, т.к. GraphNode
+        // их объявляет (types.ts), но сюда они раньше не копировались вообще.
+        a777Nurb: node.a777Nurb,
+        a777TopGear: node.a777TopGear,
       },
       classes: [
         node.type,
-        isFl  ? "facelift"    : "",   // dashed border
-        isVar ? "variant-mod" : "",   // fuchsia border (colour of variant_of arrow)
+        isFl  ? "facelift"    : "",   // dashed light-blue border
+        isLim ? "limited"     : "",   // dotted amber border (exclusive series)
+        isRace ? "racing"     : "",   // dotted red border (GT1-GT4/GTE/Cup homologation)
+        // limited/racing/facelift take priority over variant-mod for styling — a node
+        // can be BOTH a facelift AND a variant_of target (e.g. Trofeo Facelift is
+        // variant_of the Modena Facelift hub) — без !isFl фейслифт визуально терял
+        // пунктирный контур под пятиугольником variant-mod (border-color/style
+        // перебивались, т.к. .variant-mod объявлен в стилшите позже .facelift).
+        (!isLim && !isRace && !isFl && isVar) ? "variant-mod" : "",
         node.isConcept ? "concept" : "",
+        isFuture       ? "future"  : "",
+        node.isTuning  ? "tuning"  : "",
       ]
         .filter(Boolean)
         .join(" "),

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-skoda-skoda-slavia",
+  "slug": "skoda-skoda-slavia",
+  "name": "Skoda Slavia",
+  "fullName": "2027 Skoda Slavia",
+  "brandId": "skoda",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The updated Skoda Slavia features a refreshed look and dynamic design language, along with new technologies that further enhance comfort and convenience.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Skoda-Slavia-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Slavia-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/skoda/2027-slavia/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-24T05:48:53.943Z",
+  "createdAt": "2026-08-24T05:48:54.757Z",
+  "updatedAt": "2026-08-24T05:48:54.757Z"
+}

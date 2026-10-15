@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-kicks",
+  "slug": "nissan-nissan-kicks",
+  "name": "2027 Nissan Kicks",
+  "fullName": "2027 Nissan Kicks",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Whether it&#39;s worth the money is entirely up to you, but I know I&#39;m always a sucker for a good roof rack.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-nissan-kicks-goes-adventuring-with-rock-creek-package/intro-1786572608.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-nissan-kicks-goes-adventuring-with-rock-creek-package/intro-1786572608.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2235909/2027-nissan-kicks-rock-creek-off-road-package-reveal/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-13T14:04:02.142Z",
+  "createdAt": "2026-08-13T14:04:02.629Z",
+  "updatedAt": "2026-08-13T14:04:02.629Z"
+}

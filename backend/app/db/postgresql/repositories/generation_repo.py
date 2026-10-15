@@ -200,6 +200,7 @@ class GenerationRepository:
         visual_embedding: list[float] | None = None,
         semantic_embedding: list[float] | None = None,
         design_dna_embedding: list[float] | None = None,
+        description_embedding: list[float] | None = None,
     ) -> None:
         values: dict[str, Any] = {}
         if visual_embedding is not None:
@@ -208,6 +209,8 @@ class GenerationRepository:
             values["semantic_embedding"] = semantic_embedding
         if design_dna_embedding is not None:
             values["design_dna_embedding"] = design_dna_embedding
+        if description_embedding is not None:
+            values["description_embedding"] = description_embedding
         if not values:
             return
 

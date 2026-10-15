@@ -1,0 +1,52 @@
+{
+  "id": "brand-seres",
+  "slug": "seres",
+  "name": "Seres",
+  "fullName": "Seres Group (赛力斯)",
+  "country": "China",
+  "countryCode": "CN",
+  "foundingYear": 2016,
+  "logoUrl": "",
+  "logoWhiteUrl": "",
+  "headerImageUrl": "",
+  "description": "Seres (赛力斯) is a Chongqing-based EV manufacturer and the production partner for Huawei in the Aito brand joint venture.",
+  "parentCompany": "Seres Group",
+  "headquarters": "Chongqing, China",
+  "modelCount": 1,
+  "generationCount": 1,
+  "tags": [
+    "china",
+    "phev",
+    "automotive"
+  ],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "models": [
+    {
+      "id": "m-seres-sf5",
+      "slug": "seres-sf5",
+      "name": "Seres SF5",
+      "fullName": "Seres Seres SF5",
+      "brandId": "brand-seres",
+      "bodyType": "suv",
+      "segment": "crossover",
+      "primaryMarket": "china",
+      "startYear": 2021,
+      "endYear": null,
+      "isActive": true,
+      "description": null,
+      "generationCount": 1,
+      "thumbnailUrl": "",
+      "heroImageUrl": "",
+      "tags": [
+        "seres",
+        "suv",
+        "2021"
+      ],
+      "aiAnalysisAvailable": false,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

@@ -180,6 +180,7 @@ class Generation(Base):
     visual_embedding: Mapped[Any | None] = mapped_column(Vector(1536))
     semantic_embedding: Mapped[Any | None] = mapped_column(Vector(768))
     design_dna_embedding: Mapped[Any | None] = mapped_column(Vector(512))
+    description_embedding: Mapped[Any | None] = mapped_column(Vector(1536))
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), server_default=func.now(), nullable=False
     )
@@ -220,6 +221,13 @@ class Generation(Base):
             postgresql_using="hnsw",
             postgresql_with={"m": 16, "ef_construction": 64},
             postgresql_ops={"design_dna_embedding": "vector_cosine_ops"},
+        ),
+        Index(
+            "ix_generations_description_embedding",
+            "description_embedding",
+            postgresql_using="hnsw",
+            postgresql_with={"m": 16, "ef_construction": 64},
+            postgresql_ops={"description_embedding": "vector_cosine_ops"},
         ),
     )
 
@@ -295,7 +303,9 @@ class SourceMapping(Base):
     source_id: Mapped[str | None] = mapped_column(String(1024))
     source_url: Mapped[str | None] = mapped_column(String(2048))
     last_crawled_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))
-    metadata: Mapped[dict[str, Any] | None] = mapped_column(JSONB)
+    # Not "metadata" — that name is reserved on every Declarative model (it's
+    # SQLAlchemy's own MetaData registry attribute).
+    extra_metadata: Mapped[dict[str, Any] | None] = mapped_column(JSONB)
 
     __table_args__ = (
         UniqueConstraint("entity_type", "entity_id", "source_name", name="uq_source_mappings"),
@@ -321,7 +331,9 @@ class CrawlerJob(Base):
     error: Mapped[str | None] = mapped_column(Text)
     started_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))
     completed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))
-    metadata: Mapped[dict[str, Any] | None] = mapped_column(JSONB)
+    # Not "metadata" — reserved on every Declarative model (SQLAlchemy's own
+    # MetaData registry attribute).
+    extra_metadata: Mapped[dict[str, Any] | None] = mapped_column(JSONB)
     created_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), server_default=func.now(), nullable=False
     )

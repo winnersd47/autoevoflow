@@ -1,0 +1,26 @@
+{
+  "id": "ncs-honda-honda-jazz-e-hev",
+  "slug": "honda-honda-jazz-e-hev",
+  "name": "2026 Honda Jazz e:HEV",
+  "fullName": "2026 Honda Jazz e:HEV",
+  "brandId": "honda",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The Honda Fit, or Jazz, has continued to age well in Europe and other markets, making us reminisce about the cool hatchbacks, coupes, and sedans we once had in the States. The post 2026 Honda Jazz e:H",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/2026-honda-jazz-review-jerry-perez-22.jpeg?quality=85",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/2026-honda-jazz-review-jerry-perez-22.jpeg?quality=85",
+  "tags": [
+    "new",
+    "2026"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2026-honda-jazz-ehev-review-the-forbidden-fuel-sipping-daily-warrior",
+  "isLatest": true,
+  "scrapedAt": "2026-07-29T03:04:03.641Z",
+  "createdAt": "2026-07-29T03:04:14.060Z",
+  "updatedAt": "2026-07-29T03:04:14.060Z"
+}

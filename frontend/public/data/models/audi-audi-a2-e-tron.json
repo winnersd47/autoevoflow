@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-a2-e-tron",
+  "slug": "audi-audi-a2-e-tron",
+  "name": "Audi A2 e-tron",
+  "fullName": "2027 Audi A2 e-tron",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The shape of the Audi A2 e-tron is engineered for aerodynamics, efficient use of space, and high everyday usability. Short overhangs, a long wheelbase of 2.77 metres...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-A2_e-tron-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-A2_e-tron-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-a2_e-tron/",
+  "isLatest": true,
+  "scrapedAt": "2026-09-07T14:04:01.344Z",
+  "createdAt": "2026-09-07T14:04:03.608Z",
+  "updatedAt": "2026-09-07T14:04:03.609Z"
+}

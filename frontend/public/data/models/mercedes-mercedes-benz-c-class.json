@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-c-class",
+  "slug": "mercedes-mercedes-benz-c-class",
+  "name": "Mercedes-Benz C-Class",
+  "fullName": "2027 Mercedes-Benz C-Class",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The new C-Class offers exactly the powertrain choice customers need today: future-ready petrol and diesel engines as well as plug-in hybrids.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-C-Class-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-C-Class-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-c-class/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-24T05:48:53.943Z",
+  "createdAt": "2026-08-24T05:48:54.754Z",
+  "updatedAt": "2026-08-24T05:48:54.754Z"
+}

@@ -52,6 +52,16 @@ function canDerive(url: string): boolean {
   return CARICOS_RE.test(url)
 }
 
+// caricos.com stores each generation under a "<year>_<brand>_<model>/" folder —
+// that year reliably identifies the generation even when gen.codeName/startYear
+// is wrong. Seen live: every BMW M5 generation has codeName/startYear stamped
+// "2025" (a scrape-date bug), which would otherwise collapse all 8 real
+// generations into one mislabeled group instead of separating them.
+function extractGenLabel(url: string, fallback: string): string {
+  const m = url.match(/\/(\d{4})_/)
+  return m?.[1] ?? fallback
+}
+
 // ─── WallpaperImage (single tile with error / loading state) ──────────────────
 
 interface WallpaperTileProps {
@@ -121,6 +131,7 @@ interface GalleryItem {
   w: number
   h: number
   genName: string
+  groupLabel: string
   originalUrl: string
 }
 
@@ -244,28 +255,58 @@ function ResolutionGroup({ label, items, failedUrls, onTileClick, onLoad, onErro
   const visible = items.filter(it => !failedUrls.has(it.url))
   if (visible.length === 0) return null
 
+  // Sub-group by generation (groupLabel) so different model years don't get
+  // jumbled into one flat grid — preserve first-appearance order, matching
+  // the generation order already present in the source data.
+  const genGroups: { groupLabel: string; items: GalleryItem[] }[] = []
+  const genBuckets = new Map<string, GalleryItem[]>()
+  for (const item of items) {
+    let bucket = genBuckets.get(item.groupLabel)
+    if (!bucket) {
+      bucket = []
+      genBuckets.set(item.groupLabel, bucket)
+      genGroups.push({ groupLabel: item.groupLabel, items: bucket })
+    }
+    bucket.push(item)
+  }
+
   return (
     <div>
-      <div className="flex items-center gap-2 mb-3">
+      <div className="flex items-center gap-2 mb-4">
         <span className="text-[10px] font-mono font-bold text-white/35 uppercase tracking-widest">{label}</span>
         <div className="flex-1 h-px bg-white/8" />
         <span className="text-[10px] text-white/25 font-mono">{visible.length}</span>
       </div>
-      <div className={`grid gap-3 ${(items[0] && items[0].h > items[0].w) ? 'grid-cols-3 sm:grid-cols-4 lg:grid-cols-5' : 'grid-cols-2 sm:grid-cols-3 lg:grid-cols-4'}`}>
-        {items.map((item) => (
-          <WallpaperTile
-            key={item.id}
-            src={item.url}
-            alt={item.alt}
-            resLabel={`${item.w}×${item.h}`}
-            isPortrait={item.h > item.w}
-            onClick={() => onTileClick(item)}
-            onLoad={() => onLoad(item.url)}
-            onError={() => onError(item.url)}
-            failed={failedUrls.has(item.url)}
-            loading={!loadedUrls.has(item.url) && !failedUrls.has(item.url)}
-          />
-        ))}
+      <div className="space-y-5">
+        {genGroups.map(({ groupLabel, items: genItems }) => {
+          const genVisible = genItems.filter(it => !failedUrls.has(it.url))
+          if (genVisible.length === 0) return null
+          return (
+            <div key={groupLabel}>
+              <div className="flex items-center gap-2 mb-2.5">
+                <span className="text-xs font-medium text-white/50">{groupLabel}</span>
+                <div className="flex-1 h-px bg-white/5" />
+                <span className="text-[10px] text-white/20 font-mono">{genVisible.length}</span>
+              </div>
+              <div className={`grid gap-3 ${(genItems[0] && genItems[0].h > genItems[0].w) ? 'grid-cols-3 sm:grid-cols-4 lg:grid-cols-5' : 'grid-cols-2 sm:grid-cols-3 lg:grid-cols-4'}`}>
+                {genItems.map((item) => (
+                  <WallpaperTile
+                    key={item.id}
+                    src={item.url}
+                    alt={item.alt}
+                    resLabel={`${item.w}×${item.h}`}
+                    isPortrait={item.h > item.w}
+                    onClick={() => onTileClick(item)}
+                    onLoad={() => onLoad(item.url)}
+                    onError={() => onError(item.url)}
+                    failed={failedUrls.has(item.url)}
+                    loading={!loadedUrls.has(item.url) && !failedUrls.has(item.url)}
+                  />
+                ))}
+              </div>
+            </div>
+          )
+        })}
       </div>
     </div>
   )
@@ -320,6 +361,7 @@ export function WallpaperGallery({ generations }: WallpaperGalleryProps) {
             w: preset.w,
             h: preset.h,
             genName: src.genName,
+            groupLabel: extractGenLabel(src.url, src.genName),
             originalUrl: src.url,
           }]
         }
@@ -336,6 +378,7 @@ export function WallpaperGallery({ generations }: WallpaperGalleryProps) {
               w: preset.w,
               h: preset.h,
               genName: src.genName,
+              groupLabel: extractGenLabel(src.url, src.genName),
               originalUrl: src.url,
             }]
           }
@@ -369,6 +412,7 @@ export function WallpaperGallery({ generations }: WallpaperGalleryProps) {
             w: preset.w,
             h: preset.h,
             genName: src.genName,
+            groupLabel: extractGenLabel(src.url, src.genName),
             originalUrl: src.url,
           }]
         }
@@ -382,6 +426,7 @@ export function WallpaperGallery({ generations }: WallpaperGalleryProps) {
             w: preset.w,
             h: preset.h,
             genName: src.genName,
+            groupLabel: extractGenLabel(src.url, src.genName),
             originalUrl: src.url,
           }]
         }

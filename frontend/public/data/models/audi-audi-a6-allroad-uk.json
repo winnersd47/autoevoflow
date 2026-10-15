@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-a6-allroad-uk",
+  "slug": "audi-audi-a6-allroad-uk",
+  "name": "Audi A6 allroad [UK]",
+  "fullName": "2027 Audi A6 allroad [UK]",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "A6 allroad is available with a 3.0-liter V6 diesel engine and as an e-hybrid. Both drives are a perfect fit for the all-rounder. Whether it's a drive to a business meeting...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-A6_allroad_UK-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-A6_allroad_UK-Version-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/audi/2027-a6_allroad_uk-version/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-10T02:04:00.884Z",
+  "createdAt": "2026-10-10T02:04:02.296Z",
+  "updatedAt": "2026-10-10T02:04:02.297Z"
+}

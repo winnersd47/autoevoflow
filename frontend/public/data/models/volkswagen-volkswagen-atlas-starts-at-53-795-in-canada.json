@@ -1,0 +1,26 @@
+{
+  "id": "ncs-volkswagen-volkswagen-atlas-starts-at-53-795-in-canada",
+  "slug": "volkswagen-volkswagen-atlas-starts-at-53-795-in-canada",
+  "name": "2027 Volkswagen Atlas starts at $53,795 in Canada",
+  "fullName": "2027 Volkswagen Atlas starts at $53,795 in Canada",
+  "brandId": "volkswagen",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The all-new second-gen Atlas will be available at Canadian dealerships this fall",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://driving.ca/auto-news/news/2027-volkswagen-atlas-canadian-pricing-53795",
+  "isLatest": true,
+  "scrapedAt": "2026-08-18T14:04:00.835Z",
+  "createdAt": "2026-08-18T14:04:11.160Z",
+  "updatedAt": "2026-08-18T14:04:11.160Z"
+}

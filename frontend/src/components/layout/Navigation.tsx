@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
-import { usePathname } from 'next/navigation'
+import { usePathname, useRouter } from 'next/navigation'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
   Search,
@@ -22,6 +22,8 @@ import {
 } from 'lucide-react'
 import { useLocale } from '@/contexts/LocaleContext'
 import { AppLogo } from '@/components/ui/AppLogo'
+import { useAppStore } from '@/store'
+import { signOut } from '@/lib/auth-client'
 
 // ─── Language Switcher ─────────────────────────────────────────────────────────
 
@@ -94,7 +96,9 @@ function NavLink({
 function UserDropdown() {
   const [open, setOpen] = useState(false)
   const ref = useRef<HTMLDivElement>(null)
-  const isGuest = true // TODO: replace with real auth state
+  const router = useRouter()
+  const { user } = useAppStore(s => s.auth)
+  const isGuest = !user
   const { t } = useLocale()
 
   useEffect(() => {
@@ -130,7 +134,7 @@ function UserDropdown() {
       >
         <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-[#00d4ff]/30 to-[#0066aa]/30 border border-[#00d4ff]/20
           flex items-center justify-center text-[#00d4ff] text-xs font-bold">
-          U
+          {(user.name?.[0] ?? user.email[0] ?? 'U').toUpperCase()}
         </div>
         <ChevronDown className={`w-3.5 h-3.5 text-white/40 transition-transform ${open ? 'rotate-180' : ''}`} />
       </button>
@@ -150,8 +154,8 @@ function UserDropdown() {
             }}
           >
             <div className="px-4 py-3 border-b border-white/8">
-              <div className="text-sm font-semibold text-white">User Name</div>
-              <div className="text-xs text-white/40">user@example.com</div>
+              <div className="text-sm font-semibold text-white">{user.name ?? user.email.split('@')[0]}</div>
+              <div className="text-xs text-white/40">{user.email}</div>
             </div>
             {[
               { icon: User, label: t('nav.profile'), href: '/profile' },
@@ -171,7 +175,7 @@ function UserDropdown() {
             <div className="border-t border-white/8">
               <button
                 className="w-full flex items-center gap-3 px-4 py-2.5 text-sm text-red-400/70 hover:text-red-400 hover:bg-red-500/5 transition-all"
-                onClick={() => setOpen(false)}
+                onClick={() => { setOpen(false); void signOut(router) }}
               >
                 <LogOut className="w-4 h-4" />
                 {t('nav.signOut')}
@@ -198,6 +202,8 @@ function MobileDrawer({
   navItems: { label: string; href: string; icon: React.ElementType }[]
 }) {
   const { t } = useLocale()
+  const router = useRouter()
+  const { user } = useAppStore(s => s.auth)
 
   return (
     <AnimatePresence>
@@ -259,15 +265,26 @@ function MobileDrawer({
 
             {/* Footer */}
             <div className="px-5 py-4 border-t border-white/8">
-              <Link
-                href="/login"
-                onClick={onClose}
-                className="flex items-center justify-center gap-2 w-full py-3 rounded-xl text-sm font-bold
-                  bg-[#00d4ff] text-black hover:bg-[#00e8ff] transition-all"
-              >
-                <Zap className="w-4 h-4" />
-                {t('nav.signInUp')}
-              </Link>
+              {user ? (
+                <button
+                  onClick={() => { onClose(); void signOut(router) }}
+                  className="flex items-center justify-center gap-2 w-full py-3 rounded-xl text-sm font-bold
+                    bg-white/5 text-red-400 hover:bg-red-500/10 transition-all"
+                >
+                  <LogOut className="w-4 h-4" />
+                  {t('nav.signOut')}
+                </button>
+              ) : (
+                <Link
+                  href="/login"
+                  onClick={onClose}
+                  className="flex items-center justify-center gap-2 w-full py-3 rounded-xl text-sm font-bold
+                    bg-[#00d4ff] text-black hover:bg-[#00e8ff] transition-all"
+                >
+                  <Zap className="w-4 h-4" />
+                  {t('nav.signInUp')}
+                </Link>
+              )}
             </div>
           </motion.div>
         </>

@@ -446,6 +446,15 @@
   },
   "latestCars": [
     {
+      "id": "cad-news-a73555945-2029-lotus-esprit-v6-engine-option-report",
+      "name": "2029 Lotus Esprit to",
+      "year": 2029,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d0b64efe-c254-4ba5-af1c-96cfaac65aed.jpeg",
+      "pageUrl": "https://www.caranddriver.com/news/a73555945/2029-lotus-esprit-v6-engine-option-report/",
+      "description": "We already knew about the nearly 1000-hp hybrid V-8 Lotus is planning, but a new report suggests it’ll be paired with a V-6 option.",
+      "scrapedAt": "2026-08-31T08:04:01.450Z"
+    },
+    {
       "id": "ncs-lotus-2027-emira_420_sport",
       "name": "Lotus Emira 420 Sport",
       "year": 2027,
@@ -453,6 +462,42 @@
       "pageUrl": "https://www.netcarshow.com/lotus/2027-emira_420_sport/",
       "description": "Lotus Emira 420 Sport produces 420PS from a 2.0-litre turbocharged four-cylinder engine, accelerates from 0-62mph in 3.9 seconds and reaches a top speed of 186mph.",
       "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "cad-lotus-emira",
+      "name": "2027 Lotus Emira",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/467fd775-7a68-47bb-8ed5-ed44aa938e72.jpg",
+      "pageUrl": "https://www.caranddriver.com/lotus/emira",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-g73191427-2027-lotus-emira-420-sport-drive-exterior-g",
+      "name": "2027 Lotus Emira 420 Sport",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/37adcf9f-3595-433a-9a2d-7c1c58d3b2f4.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73191427/2027-lotus-emira-420-sport-drive-exterior-gallery/",
+      "description": "See the exterior of the 2027 Lotus Emira 420 Sport from every angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-photos-g73219323-2027-lotus-emira-420-sport-drive-interior-g",
+      "name": "2027 Lotus Emira 420 Sport",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fe58263b-4554-48cc-9821-f2b3de04fe45.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73219323/2027-lotus-emira-420-sport-drive-interior-gallery/",
+      "description": "See the interior of the 2027 Lotus Emira 420 Sport from every angle.",
+      "scrapedAt": "2026-07-24T10:10:44.468Z"
+    },
+    {
+      "id": "cad-news-a71755341-watt-avant-design-lotus-concept-car-collab",
+      "name": "Two U.K. Companies Used Their Imagination, and Lotus Inspiration, for This Concept Collab",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ff67f891-12d4-421e-a755-71803ad60b4a.jpeg",
+      "pageUrl": "https://www.caranddriver.com/news/a71755341/watt-avant-design-lotus-concept-car-collab/",
+      "description": "Watt Electric Vehicles brings functional engineering to the table, while Avant Design leverages the use of VR in styling.",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
     },
     {
       "id": "ncs-lotus-2025-evija",

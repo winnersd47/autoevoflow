@@ -666,6 +666,141 @@
   ],
   "latestCars": [
     {
+      "id": "ncs-lamborghini-2027-urus_se_performante",
+      "name": "Lamborghini Urus SE Performante",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Lamborghini-Urus_SE_Performante-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lamborghini/2027-urus_se_performante/",
+      "description": "Lamborghini Urus SE Performante defines a new paradigm in the Super SUV segment thanks to a plug-in hybrid (PHEV) powertrain that combines the power of the combustion engine...",
+      "scrapedAt": "2026-07-01T13:41:23.876Z"
+    },
+    {
+      "id": "cad-news-a71783168-2027-lamborghini-urus-se-performante-revealed",
+      "name": "2027 Lamborghini Urus SE Performante Ups the Ante on Hybrid Power",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/8dee86ac-d415-4b47-917b-7db6f6d7c3ff.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71783168/2027-lamborghini-urus-se-performante-revealed/",
+      "description": "The Performante name returns, now with an 801-hp plug-in hybrid powertrain, new air suspension, and copious carbon fiber.",
+      "scrapedAt": "2026-07-01T13:41:23.735Z"
+    },
+    {
+      "id": "cad-photos-g71782621-2027-lamborghini-urus-se-performante-reveal",
+      "name": "View Interior Photos of the 2027 Lamborghini Urus SE Performante",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/40b1ab54-56b5-4805-84dd-279ef5b976f4.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71782621/2027-lamborghini-urus-se-performante-revealed-interior-gallery/",
+      "description": "See the cabin of the 2027 Lamborghini Urus SE Performante from every angle.",
+      "scrapedAt": "2026-07-01T13:41:23.735Z"
+    },
+    {
+      "id": "cad-photos-g71782620-2027-lamborghini-urus-se-performante-reveal",
+      "name": "View Exterior Photos of the 2027 Lamborghini Urus SE Performante",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/37a41494-e6b9-4465-9fb6-795f23fd2ebf.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71782620/2027-lamborghini-urus-se-performante-revealed-exterior-gallery/",
+      "description": "See the exterior of the new Lamborghini Urus SE Performante from every angle.",
+      "scrapedAt": "2026-07-01T13:41:23.735Z"
+    },
+    {
+      "id": "rat-news-a71796339-2027-lamborghini-urus-se-performante-hardcore",
+      "name": "The 2027 Lamborghini Urus SE Performante Is One Hardcore PHEV SUV",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0036aca1-bb9c-4785-9309-b70ec8283434.jpg",
+      "pageUrl": "https://www.roadandtrack.com/news/a71796339/2027-lamborghini-urus-se-performante-hardcore-phev-suv/",
+      "description": "It's the most powerful—and most radical-looking—Urus to date.",
+      "scrapedAt": "2026-07-03T12:09:09.706Z"
+    },
+    {
+      "id": "cad-lamborghini-revuelto-2027",
+      "name": "2027 Lamborghini Revuelto",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-lamborghini-revuelto-114-67aa4763bd626.jpg",
+      "pageUrl": "https://www.caranddriver.com/lamborghini/revuelto-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-08-05T20:04:01.557Z"
+    },
+    {
+      "id": "ncs-lamborghini-2027-revuelto_sv",
+      "name": "Lamborghini Revuelto SV",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Lamborghini-Revuelto_SV-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lamborghini/2027-revuelto_sv/",
+      "description": "Revuelto SV embodies the quintessential Lamborghini philosophy, where design and performance merge seamlessly. It stands as an uncompromising expression of performance, design...",
+      "scrapedAt": "2026-08-14T20:04:01.842Z"
+    },
+    {
+      "id": "rat-photos-a73594888-see-more-photos-of-the-2027-lamborghini-rev",
+      "name": "2027 Lamborghini Revuleto SV Prototype",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/90368819-0fbc-41f2-943a-35d10fdecc34.jpg",
+      "pageUrl": "https://www.roadandtrack.com/photos/a73594888/see-more-photos-of-the-2027-lamborghini-revuleto-sv-prototype/",
+      "description": "",
+      "scrapedAt": "2026-09-02T20:04:01.627Z"
+    },
+    {
+      "id": "cad-photos-g71897774-2026-lamborghini-temerario-test-exterior-ga",
+      "name": "2026 Lamborghini Temerario",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/721fd502-92ef-4ef7-b158-eb59f2ed28f3.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71897774/2026-lamborghini-temerario-test-exterior-gallery/",
+      "description": "See the exterior of the 2026 Lamborghini Temerario from every angle.",
+      "scrapedAt": "2026-07-16T19:45:46.450Z"
+    },
+    {
+      "id": "cad-reviews-a71866295-2026-lamborghini-temerario-test",
+      "name": "2026 Lamborghini Temerario Shows Up Its Big Brother",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bb64f640-24a7-4158-a824-014ef1ebae77.jpg",
+      "pageUrl": "https://www.caranddriver.com/reviews/a71866295/2026-lamborghini-temerario-test/",
+      "description": "It sure doesn't act like the junior supercar of the lineup.",
+      "scrapedAt": "2026-07-16T19:45:46.450Z"
+    },
+    {
+      "id": "cad-photos-g71897792-2026-lamborghini-temerario-test-interior-ga",
+      "name": "2026 Lamborghini Temerario",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3826c176-2afb-48bb-a8ea-96bb7aefafb1.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g71897792/2026-lamborghini-temerario-test-interior-gallery/",
+      "description": "See the interior of the 2026 Lamborghini Temerario from every angle.",
+      "scrapedAt": "2026-07-16T19:45:46.450Z"
+    },
+    {
+      "id": "ncs-lamborghini-2026-revuelto_impavido",
+      "name": "Lamborghini Revuelto Impavido",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Lamborghini-Revuelto_Impavido-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lamborghini/2026-revuelto_impavido/",
+      "description": "The Revuelto Impavido is offered in four exclusively defined configurations, each carrying a specific meaning rooted in samurai symbolism.",
+      "scrapedAt": "2026-07-31T06:37:22.511Z"
+    },
+    {
+      "id": "ncs-lamborghini-2026-temerario_ad_personam",
+      "name": "Lamborghini Temerario Ad Personam",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Lamborghini-Temerario_Ad_Personam-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lamborghini/2026-temerario_ad_personam/",
+      "description": "Just as every bespoke suit begins with a sketch, the Temerario Ad Personam takes inspiration from the earliest stages of the creative process. Fine graphic lines...",
+      "scrapedAt": "2026-07-31T06:37:22.511Z"
+    },
+    {
+      "id": "ncs-lamborghini-2026-revuelto_miura_60_homage",
+      "name": "Lamborghini Revuelto Miura 60 Homage",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Lamborghini-Revuelto_Miura_60_Homage-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/lamborghini/2026-revuelto_miura_60_homage/",
+      "description": "Lamborghini Revuelto Miura 60 Homage reinterprets some of the styling elements that made the Miura one of the most influential automobiles in history.",
+      "scrapedAt": "2026-08-03T14:04:01.246Z"
+    },
+    {
+      "id": "a777-2025-lamborghini-lamborghini-fenomeno",
+      "name": "Lamborghini Fenomeno",
+      "year": 2025,
+      "imageUrl": null,
+      "pageUrl": "https://www.a777aa77.ru/news/",
+      "description": "2025 Lamborghini Fenomeno Новый язык форм Lamborghini воплотился в утончённых пуристических линиях и высокопроизводительных поверхностях. Лаконичность и чистота форм не умаляют, а подчёркивают техниче",
+      "scrapedAt": "2026-07-31T06:37:22.269Z"
+    },
+    {
       "id": "ncs-lamborghini-2023-lanzador_concept",
       "name": "Lamborghini Lanzador Concept",
       "year": 2023,
@@ -709,24 +844,6 @@
       "pageUrl": "https://www.netcarshow.com/lamborghini/2008-estoque_concept/",
       "description": "It is a Lamborghini like no other before it: a four-door sports car that sticks resolutely to its creed. The Lamborghini Estoque concept has everything...",
       "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-lamborghini-2005-concept_s",
-      "name": "Lamborghini Concept S",
-      "year": 2005,
-      "imageUrl": "https://www.netcarshow.com/Lamborghini-Concept_S-2005-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/lamborghini/2005-concept_s/",
-      "description": "The House of the Raging Bull has shown the first driveable prototype of the Lamborghini &quot;Concept S&quot; at the Monterey Concorso Italiano and at the...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
-    },
-    {
-      "id": "ncs-lamborghini-1971-countach_lp500_concept",
-      "name": "Lamborghini Countach LP500 Concept",
-      "year": 1971,
-      "imageUrl": "https://www.netcarshow.com/Lamborghini-Countach_LP500_Concept-1971-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/lamborghini/1971-countach_lp500_concept/",
-      "description": "Over 50 years ago at the 1971 Geneva Motor Show, the undisputed star of the event was introduced: the Lamborghini Countach LP500 in yellow. At ten o'clock in...",
-      "scrapedAt": "2026-06-05T07:31:49.540Z"
     }
   ]
 }

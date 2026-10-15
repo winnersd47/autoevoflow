@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import os
+import time
 from dataclasses import dataclass, field
 from typing import Any
 
@@ -13,6 +13,25 @@ from app.core.config import settings
 from app.db.redis.cache import RedisCache
 
 logger = structlog.get_logger(__name__)
+
+
+def _log_embedding_inference(model: str, duration_ms: float, item_count: int = 1, batch_size: int = 1) -> None:
+    """
+    Structured log for embedding inference (CLIP/DINOv2/SAM). Named
+    `duration_ms`, not `gpu_seconds`, because MODEL_DEVICE defaults to "cpu"
+    in this environment — the field names stay honest about what hardware is
+    actually configured rather than presuming a GPU that isn't there yet.
+    Kept separate from _log_llm_usage in analysis_service.py: this pipeline
+    is self-hosted compute-time, not a per-token $ API cost.
+    """
+    logger.info(
+        "embedding_inference",
+        model=model,
+        device=settings.MODEL_DEVICE,
+        duration_ms=round(duration_ms, 1),
+        item_count=item_count,
+        batch_size=batch_size,
+    )
 
 
 # ── Result types ──────────────────────────────────────────────────────────────
@@ -71,13 +90,42 @@ class EmbeddingPipeline:
         return self._clip_model, self._clip_preprocess
 
     async def embed_text(self, text_input: str) -> list[float]:
-        """Generate a text embedding via OpenAI text-embedding-3-large."""
+        """Generate a text embedding via OpenAI text-embedding-3-large (3072-dim)."""
         client = self._get_openai()
+        start = time.monotonic()
         response = await client.embeddings.create(
             model=settings.OPENAI_EMBEDDING_MODEL,
             input=text_input,
         )
+        _log_embedding_inference(settings.OPENAI_EMBEDDING_MODEL, (time.monotonic() - start) * 1000)
         return response.data[0].embedding
+
+    async def embed_text_yandex(self, text_input: str) -> list[float]:
+        """
+        Generate a 1024-dim text embedding via Yandex Embeddings API.
+        Falls back to OpenAI if Yandex keys are not configured.
+        Note: dimension mismatch with OpenAI (1024 vs 3072) requires
+        a separate pgvector column if used alongside OpenAI embeddings.
+        """
+        if not settings.YANDEX_API_KEY or not settings.YANDEX_FOLDER_ID:
+            return await self.embed_text(text_input)
+
+        import httpx
+
+        start = time.monotonic()
+        async with httpx.AsyncClient(timeout=15.0) as client:
+            response = await client.post(
+                "https://llm.api.cloud.yandex.net/foundationModels/v1/textEmbedding",
+                headers={"Authorization": f"Api-Key {settings.YANDEX_API_KEY}"},
+                json={
+                    "modelUri": f"emb://{settings.YANDEX_FOLDER_ID}/text-search-query/latest",
+                    "text": text_input,
+                },
+            )
+            response.raise_for_status()
+            data = response.json()
+        _log_embedding_inference("yandex-text-search-query", (time.monotonic() - start) * 1000)
+        return data["embedding"]
 
     async def embed_image(self, image_bytes: bytes) -> list[float]:
         """Generate a visual embedding via CLIP."""
@@ -85,12 +133,14 @@ class EmbeddingPipeline:
         import torch
         from PIL import Image
 
+        start = time.monotonic()
         model, preprocess = self._get_clip()
         img = Image.open(io.BytesIO(image_bytes)).convert("RGB")
         tensor = preprocess(img).unsqueeze(0)
         with torch.no_grad():
             emb = model.encode_image(tensor)
             emb = emb / emb.norm(dim=-1, keepdim=True)
+        _log_embedding_inference(settings.CLIP_MODEL_NAME, (time.monotonic() - start) * 1000)
         return emb.squeeze().cpu().numpy().tolist()
 
 
@@ -101,17 +151,19 @@ class VectorSearchService:
     """
     Unified search service supporting semantic, visual, multimodal,
     graph-based, and hybrid searches.
-    """
 
-    DEFAULT_FAISS_PATH = os.path.join(
-        os.path.dirname(__file__), "..", "..", "data", "faiss", "visual.faiss"
-    )
+    Vector-store rule: pgvector is the only similarity/ANN store used by this
+    service. Neo4j (see graph_search below) is queried only for graph
+    structure (nodes + typed edges) — never for embeddings. No other index
+    (FAISS, in-memory, etc.) gets built "for later" — a FAISS index used to
+    be built here and rebuilt daily by a Celery task, but nothing ever
+    queried it, so it was deleted rather than wired up.
+    """
 
     def __init__(self, db: AsyncSession, redis: RedisCache) -> None:
         self._db = db
         self._redis = redis
         self._embedding_pipeline = EmbeddingPipeline()
-        self.faiss_index = None  # Loaded lazily from disk
 
     # ── Semantic search ───────────────────────────────────────────────────────
 
@@ -352,51 +404,6 @@ class VectorSearchService:
         )
         rows = res.mappings().all()
         return [dict(r) for r in rows]
-
-    # ── FAISS index ───────────────────────────────────────────────────────────
-
-    async def load_faiss_index(self, index_path: str | None = None) -> None:
-        """Load FAISS index from disk, or build it from DB if not present."""
-        import faiss
-
-        path = index_path or self.DEFAULT_FAISS_PATH
-
-        if os.path.exists(path):
-            self.faiss_index = faiss.read_index(path)
-            logger.info("faiss_index_loaded", path=path)
-        else:
-            logger.warning("faiss_index_not_found_rebuilding", path=path)
-            await self._build_faiss_from_db(path)
-
-    async def _build_faiss_from_db(self, output_path: str) -> None:
-        """Build and save a FAISS flat-IP index from all visual embeddings in DB."""
-        import faiss
-        from app.db.postgresql.models import Generation
-
-        result = await self._db.execute(
-            select(Generation.id, Generation.visual_embedding).where(
-                Generation.visual_embedding.isnot(None)
-            )
-        )
-        rows = result.all()
-
-        if not rows:
-            logger.warning("faiss_build_no_embeddings")
-            return
-
-        ids = np.array([r[0] for r in rows], dtype=np.int64)
-        vectors = np.array([r[1] for r in rows], dtype=np.float32)
-        faiss.normalize_L2(vectors)
-
-        dim = vectors.shape[1]
-        index = faiss.IndexFlatIP(dim)
-        id_map = faiss.IndexIDMap(index)
-        id_map.add_with_ids(vectors, ids)
-
-        os.makedirs(os.path.dirname(output_path), exist_ok=True)
-        faiss.write_index(id_map, output_path)
-        self.faiss_index = id_map
-        logger.info("faiss_index_built_and_saved", path=output_path, vectors=len(rows))
 
     # ── Private helpers ───────────────────────────────────────────────────────
 

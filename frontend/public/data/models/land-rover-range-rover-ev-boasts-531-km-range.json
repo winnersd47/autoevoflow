@@ -1,0 +1,26 @@
+{
+  "id": "ncs-land-rover-range-rover-ev-boasts-531-km-range",
+  "slug": "land-rover-range-rover-ev-boasts-531-km-range",
+  "name": "2027 Range Rover EV boasts 531-km range",
+  "fullName": "2027 Range Rover EV boasts 531-km range",
+  "brandId": "land-rover",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Apart from its battery-driven underpinnings, the first-ever all-electric Range Rover does not stray far from its heritage",
+  "generationCount": 1,
+  "heroImageUrl": "",
+  "thumbnailUrl": "",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://driving.ca/reviews/2027-range-rover-ev-range-preview",
+  "isLatest": true,
+  "scrapedAt": "2026-09-02T02:04:01.224Z",
+  "createdAt": "2026-09-02T02:04:11.801Z",
+  "updatedAt": "2026-09-02T02:04:11.801Z"
+}

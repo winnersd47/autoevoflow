@@ -1,16 +1,69 @@
 from __future__ import annotations
 
 import json
+import time
+from collections.abc import Callable
 from dataclasses import dataclass, field
-from typing import Any
+from typing import Any, TypeVar
 
 import structlog
+from pydantic import BaseModel, ValidationError
 from sqlalchemy import select, desc
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.core.config import settings
+from app.services.ai.schemas import ComparisonNarrative, EvolutionNarrative, PredictionNarrative, SourcedFact
 
 logger = structlog.get_logger(__name__)
+
+SchemaT = TypeVar("SchemaT", bound=BaseModel)
+
+# ── LLM generation cost/latency observability ───────────────────────────────
+#
+# Narrative generation ($/tokens, third-party API) is logged separately from
+# embedding inference (GPU/compute-time, see EmbeddingPipeline in
+# vector_search.py and generate_visual_embeddings in embedding_worker.py) —
+# the two pipelines have fundamentally different cost shapes and shouldn't be
+# conflated in one metric.
+#
+# Prices are USD per 1M tokens, approximate and manually maintained — OpenAI
+# publishes these; Yandex's are regional/opaque, so the Yandex figure below
+# is a rough placeholder, not billed truth. Treat estimated_cost_usd as a
+# ballpark, not an invoice.
+_PRICE_PER_1M_TOKENS_USD: dict[str, tuple[float, float]] = {
+    # model: (prompt_price, completion_price)
+    "gpt-4o": (2.50, 10.00),
+    "yandexgpt-pro": (0.60, 0.60),  # placeholder — Yandex doesn't publish a stable USD rate
+}
+
+
+def _estimate_cost_usd(model: str, prompt_tokens: int, completion_tokens: int) -> float | None:
+    prices = _PRICE_PER_1M_TOKENS_USD.get(model)
+    if prices is None:
+        return None
+    prompt_price, completion_price = prices
+    return round((prompt_tokens * prompt_price + completion_tokens * completion_price) / 1_000_000, 6)
+
+
+def _log_llm_usage(
+    provider: str,
+    model: str,
+    prompt_tokens: int,
+    completion_tokens: int,
+    duration_ms: float,
+    entity_id: int | str | None = None,
+) -> None:
+    logger.info(
+        "llm_generation",
+        provider=provider,
+        model=model,
+        prompt_tokens=prompt_tokens,
+        completion_tokens=completion_tokens,
+        total_tokens=prompt_tokens + completion_tokens,
+        duration_ms=round(duration_ms, 1),
+        estimated_cost_usd=_estimate_cost_usd(model, prompt_tokens, completion_tokens),
+        entity_id=entity_id,
+    )
 
 
 # ── Result types ──────────────────────────────────────────────────────────────
@@ -24,6 +77,7 @@ class ComparisonResult:
     comparison_text: str
     visual_differences: list[str]
     design_continuity: float | None
+    facts: list[SourcedFact] = field(default_factory=list)
 
 
 @dataclass
@@ -32,6 +86,7 @@ class FuturePrediction:
     prediction_text: str
     design_trends: list[str]
     confidence: float
+    facts: list[SourcedFact] = field(default_factory=list)
 
 
 # ── Analysis service ──────────────────────────────────────────────────────────
@@ -39,22 +94,13 @@ class FuturePrediction:
 
 class AnalysisService:
     """
-    AI-powered analysis service using Claude (primary) and GPT-4o (vision tasks).
+    AI-powered analysis service using YandexGPT Pro (primary text) and GPT-4o (vision tasks).
     All methods store results in the database and return the analysis text/object.
     """
 
     def __init__(self, db: AsyncSession | None = None) -> None:
         self._db = db
-        self._anthropic_client = None
         self._openai_client = None
-
-    def _get_anthropic(self):
-        if self._anthropic_client is None:
-            import anthropic
-            self._anthropic_client = anthropic.AsyncAnthropic(
-                api_key=settings.ANTHROPIC_API_KEY
-            )
-        return self._anthropic_client
 
     def _get_openai(self):
         if self._openai_client is None:
@@ -62,40 +108,74 @@ class AnalysisService:
             self._openai_client = openai.AsyncOpenAI(api_key=settings.OPENAI_API_KEY)
         return self._openai_client
 
-    async def _call_claude(
+    async def _call_yandexgpt(
         self,
         prompt: str,
-        system: str = "You are an expert automotive design historian and analyst.",
+        system: str = "Ты эксперт-аналитик в области автомобильного дизайна и истории автопромышленности.",
         max_tokens: int = 2048,
+        temperature: float = 0.4,
+        entity_id: int | str | None = None,
     ) -> tuple[str, int]:
-        """Call Claude API and return (content_text, tokens_used)."""
-        client = self._get_anthropic()
-        response = await client.messages.create(
-            model=settings.ANTHROPIC_MODEL,
-            max_tokens=max_tokens,
-            system=system,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        content = response.content[0].text if response.content else ""
-        tokens = response.usage.input_tokens + response.usage.output_tokens
-        return content, tokens
+        """Call YandexGPT Pro API and return (content_text, tokens_used)."""
+        import httpx
 
-    async def _call_gpt4_vision(
+        if not settings.YANDEX_API_KEY or not settings.YANDEX_FOLDER_ID:
+            raise RuntimeError("YANDEX_API_KEY or YANDEX_FOLDER_ID not configured")
+
+        start = time.monotonic()
+        async with httpx.AsyncClient(timeout=30.0) as client:
+            response = await client.post(
+                "https://llm.api.cloud.yandex.net/foundationModels/v1/completion",
+                headers={"Authorization": f"Api-Key {settings.YANDEX_API_KEY}"},
+                json={
+                    "modelUri": f"gpt://{settings.YANDEX_FOLDER_ID}/yandexgpt-pro/latest",
+                    "completionOptions": {
+                        "stream": False,
+                        "temperature": temperature,
+                        "maxTokens": str(max_tokens),
+                    },
+                    "messages": [
+                        {"role": "system", "text": system},
+                        {"role": "user", "text": prompt},
+                    ],
+                },
+            )
+            response.raise_for_status()
+        duration_ms = (time.monotonic() - start) * 1000
+
+        data = response.json()
+        text = (
+            data.get("result", {})
+            .get("alternatives", [{}])[0]
+            .get("message", {})
+            .get("text", "")
+        )
+        usage = data.get("result", {}).get("usage", {})
+        prompt_tokens = int(usage.get("inputTextTokens", 0))
+        completion_tokens = int(usage.get("completionTokens", 0))
+
+        _log_llm_usage("yandex", "yandexgpt-pro", prompt_tokens, completion_tokens, duration_ms, entity_id)
+        return text, prompt_tokens + completion_tokens
+
+    async def _call_gpt4_vision_structured(
         self,
         prompt: str,
         image_urls: list[str],
+        schema_cls: type[SchemaT],
         max_tokens: int = 2048,
-    ) -> str:
-        """Call GPT-4o with image URLs for vision-based comparison."""
+        entity_id: int | str | None = None,
+    ) -> tuple[SchemaT, int]:
+        """
+        Call GPT-4o with native Structured Outputs — schema-guaranteed JSON,
+        no manual extraction. Returns (parsed_object, total_tokens_used).
+        """
         client = self._get_openai()
         content_parts: list[dict[str, Any]] = [{"type": "text", "text": prompt}]
         for url in image_urls[:4]:  # GPT-4o supports up to 4 images per message
-            content_parts.append({
-                "type": "image_url",
-                "image_url": {"url": url, "detail": "high"},
-            })
+            content_parts.append({"type": "image_url", "image_url": {"url": url, "detail": "high"}})
 
-        response = await client.chat.completions.create(
+        start = time.monotonic()
+        response = await client.beta.chat.completions.parse(
             model=settings.OPENAI_CHAT_MODEL,
             max_tokens=max_tokens,
             messages=[
@@ -103,12 +183,89 @@ class AnalysisService:
                     "role": "system",
                     "content": "You are an expert automotive design historian and analyst. "
                                "Analyse vehicle designs with precision, focusing on styling cues, "
-                               "design language evolution, and visual characteristics.",
+                               "design language evolution, and visual characteristics. Every factual "
+                               "claim you make must be listed as a separate fact with the DB field it "
+                               "should trace back to, and its own confidence score.",
                 },
                 {"role": "user", "content": content_parts},
             ],
+            response_format=schema_cls,
         )
-        return response.choices[0].message.content or ""
+        duration_ms = (time.monotonic() - start) * 1000
+
+        parsed = response.choices[0].message.parsed
+        if parsed is None:
+            raise ValueError("GPT-4o structured output refused/failed to parse")
+
+        usage = response.usage
+        prompt_tokens = usage.prompt_tokens if usage else 0
+        completion_tokens = usage.completion_tokens if usage else 0
+        _log_llm_usage("openai", settings.OPENAI_CHAT_MODEL, prompt_tokens, completion_tokens, duration_ms, entity_id)
+        return parsed, prompt_tokens + completion_tokens
+
+    async def _call_yandexgpt_structured(
+        self,
+        prompt: str,
+        schema_cls: type[SchemaT],
+        fallback_factory: Callable[[str], SchemaT],
+        system: str = "Ты эксперт-аналитик в области автомобильного дизайна и истории автопромышленности.",
+        max_tokens: int = 2048,
+        temperature: float = 0.4,
+        entity_id: int | str | None = None,
+    ) -> tuple[SchemaT, int]:
+        """
+        YandexGPT has no native structured-output mode, so the schema is
+        described in the system prompt and the response is validated against
+        it. On a validation failure, retry once with the error appended to
+        the prompt; if that also fails, fall back to a degraded
+        thesis/text-only instance via `fallback_factory` rather than
+        silently passing raw unstructured text through as if it were valid
+        (the old behaviour of _extract_json's silent fallback).
+        """
+        schema_prompt = (
+            f"{prompt}\n\nRespond with ONLY a JSON object matching this schema "
+            f"(no markdown fences, no commentary before or after):\n"
+            f"{json.dumps(schema_cls.model_json_schema(), ensure_ascii=False)}"
+        )
+
+        def _try_parse(raw: str) -> tuple[SchemaT | None, str]:
+            """Returns (parsed_instance_or_None, error_description)."""
+            parsed_dict = _extract_json(raw)
+            if parsed_dict is None:
+                return None, "response contained no extractable JSON object"
+            try:
+                return schema_cls.model_validate(parsed_dict), ""
+            except ValidationError as exc:
+                return None, str(exc)
+
+        current_prompt = schema_prompt
+        total_tokens = 0
+        last_raw = ""
+        # One initial attempt plus one retry (2 attempts total) — both failure
+        # modes (no JSON found at all, or JSON found but schema-invalid) go
+        # through the same retry path rather than only retrying on the
+        # latter, so a completely unstructured reply still gets one more
+        # chance before degrading.
+        for attempt in range(2):
+            raw, tokens = await self._call_yandexgpt(current_prompt, system=system, max_tokens=max_tokens, temperature=temperature, entity_id=entity_id)
+            total_tokens += tokens
+            last_raw = raw
+            narrative, error = _try_parse(raw)
+            if narrative is not None:
+                return narrative, total_tokens
+
+            logger.warning(
+                "yandexgpt_structured_parse_failed",
+                schema=schema_cls.__name__,
+                attempt=attempt + 1,
+                error=error,
+            )
+            current_prompt = (
+                f"{schema_prompt}\n\nYour previous response did not match the required schema "
+                f"({error}). Return ONLY the corrected JSON object, no other text."
+            )
+
+        return fallback_factory(last_raw), total_tokens
 
     # ── Public analysis methods ───────────────────────────────────────────────
 
@@ -116,6 +273,10 @@ class AnalysisService:
         """
         Analyse the design evolution of a specific generation.
         Fetches parent/child generations and similarity scores as context.
+
+        Returns the JSON-serialised EvolutionNarrative (thesis + individually
+        sourced/scored facts), not free text — see schemas.py. Storing JSON
+        text in AIAnalysis.content requires no model/migration change.
         """
         from app.db.postgresql.models import Generation, CarModel, Brand, VehicleImage
 
@@ -170,32 +331,41 @@ Description: {gen.description or 'No description available.'}
 Other generations of this model:
 {sibling_context or '  None recorded.'}
 
-Please provide:
-1. Key design language characteristics of this generation
-2. How it evolved from the previous generation (if applicable)
-3. Significant styling changes and their cultural/market context
-4. Technical design innovations introduced
-5. Overall significance in the model's history
-
-Be specific and cite visual design elements (grille, headlights, body lines, proportions).
+Cover: key design language characteristics of this generation; how it evolved
+from the previous generation (if applicable); significant styling changes and
+their cultural/market context; technical design innovations introduced;
+overall significance in the model's history. Be specific and cite visual
+design elements (grille, headlights, body lines, proportions). For every
+factual claim (e.g. a specific spec, date, or design detail), record it as a
+separate fact naming the field it came from — use 'generation.description' if
+it came from the description above, or 'model_inference' if it's your own
+visual/design reasoning rather than a restated fact.
 """
 
+        def _fallback(raw: str) -> EvolutionNarrative:
+            return EvolutionNarrative(thesis=raw, facts=[], overall_confidence=0.3)
+
         if image_urls:
-            content = await self._call_gpt4_vision(prompt, image_urls, max_tokens=1500)
+            narrative, tokens = await self._call_gpt4_vision_structured(prompt, image_urls, EvolutionNarrative, max_tokens=1500, entity_id=generation_id)
         else:
-            content, _ = await self._call_claude(prompt, max_tokens=1500)
+            narrative, tokens = await self._call_yandexgpt_structured(prompt, EvolutionNarrative, _fallback, max_tokens=1500, entity_id=generation_id)
 
         logger.info(
             "evolution_analysis_generated",
             generation_id=generation_id,
             brand=brand.name,
             model=model.name,
+            tokens=tokens,
+            fact_count=len(narrative.facts),
         )
-        return content
+        return narrative.model_dump_json()
 
     async def generate_brand_dna_report(self, brand_id: int) -> str:
         """
         Produce a comprehensive brand design DNA report covering all generations.
+
+        Returns the JSON-serialised EvolutionNarrative, same as
+        generate_evolution_analysis — see schemas.py.
         """
         from app.db.postgresql.models import Brand, CarModel, Generation
 
@@ -240,33 +410,39 @@ Key Models and Generations:
 {model_context}
 Total generations analysed: {total_generations}
 
-Your report must cover:
-1. BRAND DNA SUMMARY: Core visual identity elements that appear across all models
-2. DESIGN PHILOSOPHY: The underlying aesthetic principles and design language
-3. EVOLUTIONARY PATTERNS: How the brand's design has evolved decade by decade
-4. SIGNATURE ELEMENTS: Recurring design cues (grille shapes, headlight signatures, body proportions)
-5. CROSS-MODEL DNA: How DNA flows between different model lines
-6. CULTURAL CONTEXT: How regional/market factors shaped the brand's design choices
-7. FUTURE DIRECTION: Based on observed trends, the likely design trajectory
-
-Write as a professional automotive design analysis report. Be specific, technical, and insightful.
+Your report must cover: brand DNA summary (core visual identity elements
+across all models); design philosophy; evolutionary patterns decade by
+decade; signature elements (grille shapes, headlight signatures, body
+proportions); cross-model DNA flow; cultural/regional context; and likely
+future design trajectory based on observed trends. Write as a professional
+automotive design analysis report — specific, technical, insightful. For
+every factual claim, record it as a separate fact naming the field it came
+from (e.g. 'brand.description', 'brand.founded_year') or 'model_inference'
+for your own reasoning rather than a restated fact.
 """
 
-        content, tokens = await self._call_claude(
+        def _fallback(raw: str) -> EvolutionNarrative:
+            return EvolutionNarrative(thesis=raw, facts=[], overall_confidence=0.3)
+
+        narrative, tokens = await self._call_yandexgpt_structured(
             prompt,
+            EvolutionNarrative,
+            _fallback,
             system=(
                 "You are a senior automotive design analyst with expertise in brand identity, "
                 "design history, and vehicle styling. Write detailed, technically accurate reports."
             ),
             max_tokens=3000,
+            entity_id=brand_id,
         )
         logger.info(
             "brand_dna_report_generated",
             brand_id=brand_id,
             brand_name=brand.name,
             tokens=tokens,
+            fact_count=len(narrative.facts),
         )
-        return content
+        return narrative.model_dump_json()
 
     async def compare_generations(
         self, gen1_id: int, gen2_id: int
@@ -316,48 +492,50 @@ Write as a professional automotive design analysis report. Be specific, technica
 VEHICLE 1: {b1.name} {m1.name} {g1.code_name or ''} ({g1.year_start or '?'}–{g1.year_end or 'present'})
 VEHICLE 2: {b2.name} {m2.name} {g2.code_name or ''} ({g2.year_start or '?'}–{g2.year_end or 'present'})
 
-Provide a structured comparison covering:
-1. FRONT FASCIA: Grille, headlights, bumper design
-2. PROFILE: Roofline, door count, body proportions, character lines
-3. REAR: Taillights, trunk/hatch, rear fascia
-4. OVERALL DESIGN LANGUAGE: Philosophy comparison
-5. KEY DIFFERENCES: Top 5 most significant visual differences
-6. DESIGN INFLUENCES: What influenced each design
-7. CONTINUITY SCORE: Rate the visual similarity from 0.0 to 1.0
-
-Return the response as JSON with keys:
-comparison_text, visual_differences (array of strings), similarity_score (float), design_continuity (float)
+Cover: front fascia (grille, headlights, bumper); profile (roofline, door
+count, proportions, character lines); rear (taillights, trunk/hatch, rear
+fascia); overall design language philosophy; top 5 most significant visual
+differences; what influenced each design; and a 0.0-1.0 visual-continuity
+score. For every factual claim, record it as a separate fact naming the
+field it came from (e.g. 'generation.description', 'vehicle_images[0]') or
+'model_inference' for your own visual reasoning.
 """
+
+        def _fallback(raw: str) -> ComparisonNarrative:
+            return ComparisonNarrative(
+                comparison_text=raw or f"Comparison of generation {gen1_id} and {gen2_id}: Analysis unavailable.",
+                visual_differences=[],
+                similarity_score=0.5,
+                design_continuity=0.5,
+                facts=[],
+            )
 
         try:
             if image_urls:
-                raw = await self._call_gpt4_vision(prompt, image_urls, max_tokens=2000)
+                narrative, _tokens = await self._call_gpt4_vision_structured(prompt, image_urls, ComparisonNarrative, max_tokens=2000, entity_id=f"{gen1_id}:{gen2_id}")
             else:
-                raw, _ = await self._call_claude(prompt, max_tokens=2000)
+                narrative, _tokens = await self._call_yandexgpt_structured(prompt, ComparisonNarrative, _fallback, max_tokens=2000, entity_id=f"{gen1_id}:{gen2_id}")
 
-            # Try to parse JSON from the response
-            parsed = _extract_json(raw)
-            if parsed:
-                return ComparisonResult(
-                    entity1_id=gen1_id,
-                    entity2_id=gen2_id,
-                    similarity_score=float(parsed.get("similarity_score", 0.5)),
-                    comparison_text=parsed.get("comparison_text", raw),
-                    visual_differences=parsed.get("visual_differences", []),
-                    design_continuity=float(parsed.get("design_continuity", 0.5)),
-                )
+            return ComparisonResult(
+                entity1_id=gen1_id,
+                entity2_id=gen2_id,
+                similarity_score=narrative.similarity_score,
+                comparison_text=narrative.comparison_text,
+                visual_differences=narrative.visual_differences,
+                design_continuity=narrative.design_continuity,
+                facts=narrative.facts,
+            )
         except Exception as exc:
-            logger.warning("compare_generations_parse_failed", error=str(exc))
-            raw = f"Comparison of generation {gen1_id} and {gen2_id}: Analysis unavailable."
-
-        return ComparisonResult(
-            entity1_id=gen1_id,
-            entity2_id=gen2_id,
-            similarity_score=None,
-            comparison_text=raw,
-            visual_differences=[],
-            design_continuity=None,
-        )
+            logger.warning("compare_generations_failed", error=str(exc))
+            return ComparisonResult(
+                entity1_id=gen1_id,
+                entity2_id=gen2_id,
+                similarity_score=None,
+                comparison_text=f"Comparison of generation {gen1_id} and {gen2_id}: Analysis unavailable.",
+                visual_differences=[],
+                design_continuity=None,
+                facts=[],
+            )
 
     async def predict_future_generation(self, model_id: int) -> FuturePrediction:
         """
@@ -426,41 +604,46 @@ Historical Generations (oldest to newest):
 
 Brand DNA: {brand.description or 'A manufacturer known for quality and design.'}
 
-Analyse the design trends and predict:
-1. EXTERIOR DESIGN: What will the next generation look like?
-2. DESIGN LANGUAGE EVOLUTION: How will it advance the brand's design philosophy?
-3. KEY DESIGN TRENDS: List 5 specific design directions to expect
-4. PROPORTIONS: Changes in dimensions, stance, and silhouette
-5. TECHNOLOGY INTEGRATION: How will EV/tech trends affect the design?
-6. CONFIDENCE LEVEL: How confident are you in this prediction? (0.0–1.0)
-
-Return as JSON with keys:
-prediction_text (string), design_trends (array of strings), confidence (float 0-1)
+Analyse the design trends and predict: exterior design; how it advances the
+brand's design philosophy; 5 specific design directions to expect; changes
+in proportions/stance/silhouette; how EV/tech trends will affect the design;
+and your confidence in this prediction (0.0-1.0). For every factual claim
+about the PAST generations you're basing this on, record it as a separate
+fact naming the field it came from (e.g. 'generation.description') — use
+'model_inference' for the forward-looking prediction itself, since that's
+inherently speculative rather than a restated fact.
 """
+
+        def _fallback(raw: str) -> PredictionNarrative:
+            return PredictionNarrative(
+                prediction_text=raw or "Prediction unavailable.",
+                design_trends=[],
+                confidence=0.5,
+                facts=[],
+            )
 
         try:
             if all_image_urls:
-                raw = await self._call_gpt4_vision(prompt, all_image_urls, max_tokens=2000)
+                narrative, _tokens = await self._call_gpt4_vision_structured(prompt, all_image_urls, PredictionNarrative, max_tokens=2000, entity_id=model_id)
             else:
-                raw, _ = await self._call_claude(prompt, max_tokens=2000)
+                narrative, _tokens = await self._call_yandexgpt_structured(prompt, PredictionNarrative, _fallback, max_tokens=2000, entity_id=model_id)
 
-            parsed = _extract_json(raw)
-            if parsed:
-                return FuturePrediction(
-                    model_id=model_id,
-                    prediction_text=parsed.get("prediction_text", raw),
-                    design_trends=parsed.get("design_trends", []),
-                    confidence=float(parsed.get("confidence", 0.7)),
-                )
+            return FuturePrediction(
+                model_id=model_id,
+                prediction_text=narrative.prediction_text,
+                design_trends=narrative.design_trends,
+                confidence=narrative.confidence,
+                facts=narrative.facts,
+            )
         except Exception as exc:
-            logger.warning("predict_future_generation_parse_failed", error=str(exc))
-
-        return FuturePrediction(
-            model_id=model_id,
-            prediction_text=raw if "raw" in dir() else "Prediction unavailable.",
-            design_trends=[],
-            confidence=0.5,
-        )
+            logger.warning("predict_future_generation_failed", error=str(exc))
+            return FuturePrediction(
+                model_id=model_id,
+                prediction_text="Prediction unavailable.",
+                design_trends=[],
+                confidence=0.5,
+                facts=[],
+            )
 
 
 # ── Utilities ─────────────────────────────────────────────────────────────────

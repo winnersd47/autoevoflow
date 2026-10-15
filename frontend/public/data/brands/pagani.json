@@ -406,5 +406,25 @@
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"
     }
+  ],
+  "latestCars": [
+    {
+      "id": "ncs-pagani-2026-huayra_70_derecho",
+      "name": "Pagani Huayra 70 Derecho",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Pagani-Huayra_70_Derecho-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/pagani/2026-huayra_70_derecho/",
+      "description": "The Pagani Huayra 70 Derecho, a new few-off creation born from the creative sanctuary of the Grandi Complicazioni division and second of the three Huayra...",
+      "scrapedAt": "2026-07-09T12:07:14.659Z"
+    },
+    {
+      "id": "a777-2025-pagani-pagani-huayra-codalunga-speedster",
+      "name": "Pagani Huayra Codalunga Speedster",
+      "year": 2025,
+      "imageUrl": null,
+      "pageUrl": "https://www.a777aa77.ru/news/",
+      "description": "2025 Pagani Huayra Codalunga Speedster Внешний дизайн притягивает взгляд своей продуманной экспрессией. Передние фары органично вписаны в контур бампера, рядом с которым расположился тонко настроенный",
+      "scrapedAt": "2026-07-31T06:37:22.268Z"
+    }
   ]
 }

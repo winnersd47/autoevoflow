@@ -14,6 +14,8 @@ interface GenerationCardProps {
   showEvolutionBadge?: boolean
   onClick?: () => void
   variant?: 'default' | 'compact' | 'featured'
+  /** Модель-владелец, если известна вызывающей стороне (иначе берётся generation.model?.slug). */
+  modelSlug?: string
 }
 
 // ─── Body Type Icon ────────────────────────────────────────────────────────────
@@ -105,11 +107,17 @@ export function GenerationCard({
   showEvolutionBadge = true,
   onClick,
   variant = 'default',
+  modelSlug,
 }: GenerationCardProps) {
   const [hovered, setHovered] = useState(false)
   const [imgError, setImgError] = useState(false)
 
-  const imageUrl = generation.thumbnailUrl ?? generation.heroImageUrl
+  // caricos.com/netcarshow.com отдают картинку только с правильным Referer —
+  // прямой src с нашего домена виснет/не грузится (см. /api/car-image route).
+  // Поэтому всегда идём через серверный прокси, а не raw thumbnailUrl/heroImageUrl.
+  const resolvedModelSlug = modelSlug ?? generation.model?.slug
+  const hasImage = !!(resolvedModelSlug && (generation.thumbnailUrl ?? generation.heroImageUrl))
+  const imageUrl = hasImage ? `/api/car-image?slug=${encodeURIComponent(resolvedModelSlug!)}` : null
   const yearLabel =
     generation.endYear
       ? `${generation.startYear}–${generation.endYear}`

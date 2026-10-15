@@ -1,0 +1,26 @@
+{
+  "id": "ncs-lamborghini-lamborghini-revuelto-sv",
+  "slug": "lamborghini-lamborghini-revuelto-sv",
+  "name": "Lamborghini Revuelto SV",
+  "fullName": "2027 Lamborghini Revuelto SV",
+  "brandId": "lamborghini",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Revuelto SV embodies the quintessential Lamborghini philosophy, where design and performance merge seamlessly. It stands as an uncompromising expression of performance, design...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lamborghini-Revuelto_SV-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lamborghini-Revuelto_SV-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/lamborghini/2027-revuelto_sv/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-14T20:04:01.842Z",
+  "createdAt": "2026-08-14T20:04:02.451Z",
+  "updatedAt": "2026-08-14T20:04:02.451Z"
+}

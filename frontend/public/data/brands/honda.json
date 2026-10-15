@@ -1561,6 +1561,60 @@
   ],
   "latestCars": [
     {
+      "id": "cad-news-a71781881-2027-honda-prelude-limited-edition-revealed",
+      "name": "2027 Honda Prelude Limited Edition Shimmers Under the Summer Sun",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/83bc0fe7-f59b-48ab-9306-ac9a3f56f3e4.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a71781881/2027-honda-prelude-limited-edition-revealed/",
+      "description": "This special-edition Prelude pairs a brilliant red exterior with a burgundy interior in an uncharacteristically bold look from Honda.",
+      "scrapedAt": "2026-07-01T09:22:51.321Z"
+    },
+    {
+      "id": "ncs-honda-2027-passport_trailsport",
+      "name": "Honda Passport TrailSport",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Honda-Passport_TrailSport-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/honda/2027-passport_trailsport/",
+      "description": "2027 Honda Passport TrailSport takes the Honda brand's rugged direction to new heights, with extensively reengineered suspension providing 1.38-inches of additional ground...",
+      "scrapedAt": "2026-09-09T14:04:01.407Z"
+    },
+    {
+      "id": "td-news-2027-honda-civic-type-r-hrc-sounds-like-way-more-than-a",
+      "name": "2027 Honda Civic Type R HRC Sounds Like",
+      "year": 2027,
+      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/09/c260109a_001H.jpg?quality=85&amp;w=2048",
+      "pageUrl": "https://www.thedrive.com/news/2027-honda-civic-type-r-hrc-sounds-like-way-more-than-an-aero-package-tds",
+      "description": "The CTR hasn't been updated much over the years, but the upcoming HRC version rumored for 2027 could change that in a huge way. The post 2027 Honda Civic Type R HRC Sounds Like Way More Than an Aero P",
+      "scrapedAt": "2026-09-09T14:04:01.303Z"
+    },
+    {
+      "id": "motor1-news-807773-2027-honda-civic-type-r",
+      "name": "2027 Honda Civic Type R HRC Reportedly Heads",
+      "year": 2027,
+      "imageUrl": "https://cdn.motor1.com/images/mgl/Ak3zzP/s3/2026-honda-civic-type-r-hrc-concept.jpg",
+      "pageUrl": "https://www.motor1.com/news/807773/2027-honda-civic-type-r/",
+      "description": "Japanese reports suggest a 2027 Honda Civic Type R HRC built off a facelifted FL5, blending Super Taikyu racing hardware with road-legal restraint.",
+      "scrapedAt": "2026-09-10T11:28:13.101Z"
+    },
+    {
+      "id": "rat-news-a74079938-2027-honda-civic-hybrid-gains-s-shift-system",
+      "name": "2027 Honda Civic Hybrid",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2531f523-effd-492a-a47d-9e2878127353.jpg",
+      "pageUrl": "https://www.roadandtrack.com/news/a74079938/2027-honda-civic-hybrid-gains-s-shift-system/",
+      "description": "Plus, a Sport-L trim joins the lineup as a more premium non-hybrid option.",
+      "scrapedAt": "2026-10-08T20:04:00.921Z"
+    },
+    {
+      "id": "cad-news-a74080269-2027-honda-civic-new-sport-l-trim-details",
+      "name": "2027 Honda Civic",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b11d465a-e05e-4260-84da-cbef50af8f1b.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a74080269/2027-honda-civic-new-sport-l-trim-details/",
+      "description": "The Sport-L becomes the priciest pure-gas Civic, inheriting content from the hybrids but keeping the sedan’s base price below $30K.",
+      "scrapedAt": "2026-10-08T20:04:00.906Z"
+    },
+    {
       "id": "ncs-honda-2026-prelude_uk-version",
       "name": "Honda Prelude [UK]",
       "year": 2026,
@@ -1568,6 +1622,60 @@
       "pageUrl": "https://www.netcarshow.com/honda/2026-prelude_uk-version/",
       "description": "When designing the new Prelude, Honda engineers wanted to emulate the grace and simplicity of modern gliders, offering clean surfaces that blend with carefully considered...",
       "scrapedAt": "2026-06-05T07:31:48.971Z"
+    },
+    {
+      "id": "ncs-honda-2026-super-n",
+      "name": "Honda Super-N",
+      "year": 2026,
+      "imageUrl": "https://www.netcarshow.com/Honda-Super-N-2026-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/honda/2026-super-n/",
+      "description": "Powered by a thin and lightweight 29.6kW lithium-ion battery, the Honda Super-N weighs just 1,097kg and delivers a 'combined' range of 128 miles (WLTP).",
+      "scrapedAt": "2026-07-01T09:22:51.440Z"
+    },
+    {
+      "id": "carscoops-2026-07-honda-fit-facelift",
+      "name": "Honda&#8217;s Fit Lives On In Japan With A Refresh And An $11K Starting Price",
+      "year": 2026,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/07/2026-Honda-Fit-Japan-15-copy-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/07/honda-fit-facelift/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/07/2026-Honda-Fit-Japan-15-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"marg",
+      "scrapedAt": "2026-07-10T11:38:23.397Z"
+    },
+    {
+      "id": "td-car-reviews-2026-honda-civic-sport-review",
+      "name": "2026 Honda Civic Sport",
+      "year": 2026,
+      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/IMG_8079.jpeg?quality=85",
+      "pageUrl": "https://www.thedrive.com/car-reviews/2026-honda-civic-sport-review",
+      "description": "The sweetheart of the Honda Civic lineup best embraces the Japanese automaker's ethos: simplicity, efficiency, reliability, and driving enjoyment—all for a fair price. The post 2026 Honda Civic Sport ",
+      "scrapedAt": "2026-07-13T20:04:55.069Z"
+    },
+    {
+      "id": "cad-reviews-comparison-test-a73218206-2026-honda-cr-v-ex-l-vs-20",
+      "name": "2026 Honda CR-V EX-L",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c3e262d9-374d-47e3-a271-af331f653398.jpg",
+      "pageUrl": "https://www.caranddriver.com/reviews/comparison-test/a73218206/2026-honda-cr-v-ex-l-vs-2026-mazda-cx-5-premium-plus-comparison-test/",
+      "description": "The CX-5 and CR-V are both longtime Car and Driver favorites, but with the Mazda fully redesigned for 2026, which one comes out on top?",
+      "scrapedAt": "2026-07-29T03:04:03.748Z"
+    },
+    {
+      "id": "cad-photos-g73172345-2026-honda-cr-v-ex-l-test-gallery",
+      "name": "2026 Honda CR-V EX-L",
+      "year": 2026,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/8a0838e7-3bae-45ae-9105-2e11b04e0f44.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/g73172345/2026-honda-cr-v-ex-l-test-gallery/",
+      "description": "See the interior and exterior of the 2026 Honda CR-V EX-L from every angle.",
+      "scrapedAt": "2026-07-29T03:04:03.748Z"
+    },
+    {
+      "id": "td-car-reviews-2026-honda-jazz-ehev-review-the-forbidden-fuel-s",
+      "name": "2026 Honda Jazz e:HEV",
+      "year": 2026,
+      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/2026-honda-jazz-review-jerry-perez-22.jpeg?quality=85",
+      "pageUrl": "https://www.thedrive.com/car-reviews/2026-honda-jazz-ehev-review-the-forbidden-fuel-sipping-daily-warrior",
+      "description": "The Honda Fit, or Jazz, has continued to age well in Europe and other markets, making us reminisce about the cool hatchbacks, coupes, and sedans we once had in the States. The post 2026 Honda Jazz e:H",
+      "scrapedAt": "2026-07-29T03:04:03.641Z"
     },
     {
       "id": "ncs-honda-2025-0_suv_concept",
@@ -1586,6 +1694,24 @@
       "pageUrl": "https://www.netcarshow.com/honda/2009-p-nut_concept/",
       "description": "The Honda P-NUT Concept (Personal-Neo Urban Transport) demonstrates a futuristic concept for an ultra-compact and sophisticated city coupe, American Honda...",
       "scrapedAt": "2026-06-05T07:31:49.539Z"
+    },
+    {
+      "id": "cad-reviews-a73358221-2003-honda-element-ex-archive-test",
+      "name": "2003 Honda Element EX",
+      "year": 2003,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0e5a7b06-5914-45e0-a5b2-ef9c2cc65b75.jpg",
+      "pageUrl": "https://www.caranddriver.com/reviews/a73358221/2003-honda-element-ex-archive-test/",
+      "description": "Mr. X Games meets the Rubbermaid.",
+      "scrapedAt": "2026-08-10T14:04:01.872Z"
+    },
+    {
+      "id": "carscoops-2026-06-honda-s2000-low-mileage-auction",
+      "name": "A 679-Mile 2000 Honda S2000 Was Hiding In A Barn",
+      "year": 2000,
+      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/g4r5vtfebw-dv-1024x576.jpg",
+      "pageUrl": "https://www.carscoops.com/2026/06/honda-s2000-low-mileage-auction/",
+      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/g4r5vtfebw-dv-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px",
+      "scrapedAt": "2026-06-19T19:59:53.165Z"
     }
   ]
 }

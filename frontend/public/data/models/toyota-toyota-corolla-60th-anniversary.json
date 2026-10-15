@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-corolla-60th-anniversary",
+  "slug": "toyota-toyota-corolla-60th-anniversary",
+  "name": "Toyota Corolla 60th Anniversary",
+  "fullName": "2027 Toyota Corolla 60th Anniversary",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Built on the popular and dynamic SE Hybrid grade, this commemorative model perfectly blends Corolla's renowned fuel efficiency with an aggressive, athletic stance.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Toyota-Corolla_60th_Anniversary-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Toyota-Corolla_60th_Anniversary-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/toyota/2027-corolla_60th_anniversary/",
+  "isLatest": true,
+  "scrapedAt": "2026-08-24T05:48:53.943Z",
+  "createdAt": "2026-08-24T05:48:54.757Z",
+  "updatedAt": "2026-08-24T05:48:54.757Z"
+}

@@ -36,7 +36,8 @@ interface EvolutionGraphProps {
   data: GraphData
   onNodeClick?: (node: GraphNode) => void
   layout?: GraphLayoutType
-  height?: number
+  /** Fixed pixel height, or 'full' to fill the parent's height (e.g. className="h-full") */
+  height?: number | 'full'
   className?: string
   /** Show/hide node labels */
   showLabels?: boolean
@@ -54,10 +55,12 @@ const EDGE_COLORS: Record<string, string> = {
   shares_platform: '#00ff88',
   derived_from: '#a78bfa',
   inspired: '#f472b6',
+  inspired_by: '#f472b6',
   concept_to_production: '#ffd700',
   facelifted_to: '#38bdf8',
   rebadged_as: '#94a3b8',
   variant_of: '#e879f9',   // fuchsia — official brand performance/body variant
+  platform_sibling: '#10b981',  // emerald — cross-brand platform sharing
 }
 
 // ─── Cytoscape stylesheet ──────────────────────────────────────────────────────
@@ -82,9 +85,9 @@ const STYLESHEET: cytoscape.StylesheetCSS[] = [
       'text-valign': 'center',     // ВНУТРИ кружка
       'text-halign': 'center',
       'text-margin-y': 0,
-      'text-max-width': 52,        // ширина переноса внутри круга (66 − 2×border − воздух)
+      'text-max-width': 60,        // ширина переноса внутри круга (66 − 2×border − воздух)
       'text-wrap': 'wrap',         // многострочный перенос
-      'text-overflow-wrap': 'anywhere',
+      'text-overflow-wrap': 'whitespace',
       'background-image': 'data(imageUrl)',
       'background-fit': 'cover',
       'background-clip': 'none',
@@ -105,6 +108,36 @@ const STYLESHEET: cytoscape.StylesheetCSS[] = [
       'border-style': 'dashed',    // dashed = не новая модель, обновление
       'border-opacity': 0.9,
       'font-size': 7,
+    } as cytoscape.Css.Node,
+  },
+  // ── Limited-edition node — круг с ПУНКТИРНЫМ янтарным контуром ──────────────
+  {
+    selector: 'node.limited',
+    css: {
+      width: 64,
+      height: 64,
+      'border-color': '#f59e0b',   // amber — эксклюзив/ограниченная серия
+      'border-width': 2.5,
+      'border-style': 'dashed',
+      'border-opacity': 1,
+      'font-size': 7,
+      // дублируем для явного override variant-mod Pentagon
+      shape: 'ellipse',
+    } as cytoscape.Css.Node,
+  },
+  // ── Racing node — круг с ПУНКТИРНЫМ красным контуром (GT1-GT4/GTE/Cup) ──────
+  {
+    selector: 'node.racing',
+    css: {
+      width: 64,
+      height: 64,
+      'border-color': '#ef4444',   // red — гоночная гомологация, не серийная тачка
+      'border-width': 2.5,
+      'border-style': 'dashed',
+      'border-opacity': 1,
+      'font-size': 7,
+      // дублируем для явного override variant-mod Pentagon — та же логика, что limited
+      shape: 'ellipse',
     } as cytoscape.Css.Node,
   },
   // ── Variant / modification node — ПЯТИУГОЛЬНИК, фуксия контур ──────────────
@@ -131,6 +164,31 @@ const STYLESHEET: cytoscape.StylesheetCSS[] = [
       'border-color': '#ffd700',
       'border-width': 3,
       'background-color': 'rgba(255,215,0,0.12)',
+    } as cytoscape.Css.Node,
+  },
+  // ── Tuning/Atelier node — кружок с ПУНКТИРНЫМ фиолетовым контуром ────────────
+  {
+    selector: 'node.tuning',
+    css: {
+      shape: 'ellipse',
+      width: 68,
+      height: 68,
+      'border-color': '#6366f1',   // indigo — tuning atelier premium
+      'border-width': 3,
+      'border-style': 'dashed',
+      'border-opacity': 1,
+    } as cytoscape.Css.Node,
+  },
+  // ── Future/planned node (diamond like concept, but cyan instead of gold) ────
+  {
+    selector: 'node.future',
+    css: {
+      shape: 'diamond',
+      width: 52,
+      height: 52,
+      'border-color': '#22d3ee',
+      'border-width': 3,
+      'background-color': 'rgba(34,211,238,0.12)',
     } as cytoscape.Css.Node,
   },
   // ── Brand node ─────────────────────────────────────────────────────────────
@@ -238,7 +296,7 @@ const STYLESHEET: cytoscape.StylesheetCSS[] = [
     css: { width: 3, 'line-style': 'dashed', 'line-dash-pattern': [8, 5], 'target-arrow-shape': 'triangle', 'target-arrow-size': 7 } as cytoscape.Css.Edge,
   },
   {
-    selector: 'edge.influenced_by, edge.inspired',
+    selector: 'edge.influenced_by, edge.inspired, edge.inspired_by',
     css: { width: 1.8, 'line-style': 'dashed', 'line-dash-pattern': [6, 4] } as cytoscape.Css.Edge,
   },
   {
@@ -283,6 +341,8 @@ function getLayoutConfig(layout: GraphLayoutType) {
     case 'eras':
     case 'fork':
     case 'sync':
+    case 'perf':    // Форсаж: scatter X=разгон, Y=макс.скорость — позиции вручную → preset
+    case 'track':   // Трек: scatter X=Нюрбургринг, Y=Top Gear — позиции вручную → preset
       // These layout modes compute positions manually → pass valid 'preset' to CytoscapeComponent
       return { name: 'preset', animate: true, animationDuration: 600, fit: true, padding: 40 }
     default:
@@ -332,27 +392,16 @@ function NodeInfoPanel({ node, onClose }: NodePanelProps) {
           </div>
         )}
         <div>
-          <div className="text-[10px] text-white/30 uppercase tracking-wider mb-0.5">
-            {locale === 'ru' ? 'Название' : 'Name'}
-          </div>
-          <div className="text-sm font-semibold text-white">{node.label}</div>
+          <div className="text-sm font-semibold text-white leading-tight">{node.label}</div>
+          {node.year && (() => {
+            const code = node.codeName && node.codeName !== String(node.year) ? node.codeName : undefined
+            return (
+              <div className="text-[11px] text-white/40 mt-0.5 font-mono">
+                {code ? `${code} · ${node.year}` : String(node.year)}
+              </div>
+            )
+          })()}
         </div>
-        {node.codeName && (
-          <div>
-            <div className="text-[10px] text-white/30 uppercase tracking-wider mb-0.5">
-              {locale === 'ru' ? 'Индекс' : 'Code'}
-            </div>
-            <div className="text-sm font-mono font-bold text-primary">{node.codeName}</div>
-          </div>
-        )}
-        {node.year && (
-          <div>
-            <div className="text-[10px] text-white/30 uppercase tracking-wider mb-0.5">
-              {locale === 'ru' ? 'Год' : 'Year'}
-            </div>
-            <div className="text-sm font-mono text-white/70">{node.year}</div>
-          </div>
-        )}
         {node.brandName && (
           <div>
             <div className="text-[10px] text-white/30 uppercase tracking-wider mb-0.5">
@@ -452,6 +501,18 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
   type PlatHull = { color: string; points: string }
   const [platformZones, setPlatformZones] = useState<PlatZone[]>([])
   const [platformHulls, setPlatformHulls] = useState<PlatHull[]>([])
+  // Perf scatter quadrant zone rectangles (Форсаж layout)
+  type PerfZoneRect = { label: string; color: string; left: number; right: number; top: number; bottom: number }
+  const [perfZoneRects, setPerfZoneRects] = useState<PerfZoneRect[]>([])
+  // Track layout — один столбик на модель, отсортировано по времени круга
+  // Горизонтальные столбики: строка = модель (top %), длина столбика = время (от общей
+  // базовой линии слева). Ранг больше не завязан на ту же ось, что и значение — поэтому
+  // одинаковое время у двух моделей больше не сталкивает их подписи (разные строки).
+  type TrackCol = { id: string; label: string; top: number; barLeft: number; barWidth: number; time: string; track: 'nurburgring' | 'topgear' | 'none'; color: string }
+  type TrackGroupMark = { key: string; label: string; top: number }
+  const [trackCols, setTrackCols] = useState<TrackCol[]>([])
+  const [trackBaseline, setTrackBaseline] = useState<number>(0)   // left % общей базовой линии
+  const [trackGroupMarks, setTrackGroupMarks] = useState<TrackGroupMark[]>([])
   // Eras overlay
   type EraCol  = { decade: number; left: number }
   type GenRow  = { gen: number; label: string; top: number; height: number; spanTop?: number; spanHeight?: number; color?: string }
@@ -582,12 +643,29 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const slug = nodeData.modelSlug as string | undefined
       const cached = slug ? modelImgCache.current.get(slug) : undefined
 
+      // Build sub-line: for A777 layouts show perf data, otherwise codeName+year
+      // Skip codeName when it equals the year (NCS scraper sets codeName = year string)
+      const lyt = activeLayoutRef.current
+      const effectiveCode = nodeData.codeName && nodeData.codeName !== String(nodeData.year ?? '')
+        ? nodeData.codeName : undefined
+      let subLine = effectiveCode
+        ? `${effectiveCode} · ${nodeData.year ?? ''}`
+        : nodeData.year?.toString() ?? ''
+      if (lyt === 'perf' || lyt === 'track') {
+        const parts: string[] = []
+        const nd = nodeData as Record<string, unknown>
+        if (nd.a777Accel)    parts.push(`0-100: ${nd.a777Accel}с`)
+        if (nd.a777TopSpeed) parts.push(`Vmax: ${nd.a777TopSpeed} km/h`)
+        if (nd.a777Nurb)     parts.push(`Нюрб: ${nd.a777Nurb}`)
+        if (nd.a777TopGear)  parts.push(`TG: ${nd.a777TopGear}`)
+        if (parts.length > 0) subLine = parts.join(' · ')
+      }
       setTooltip({
         visible: true,
         x: pos.x + 30,
         y: pos.y - 10,
         content: nodeData.label,
-        sub: nodeData.codeName ? `${nodeData.codeName} · ${nodeData.year ?? ''}` : nodeData.year?.toString() ?? '',
+        sub: subLine,
         slug,
         imageUrl: cached ?? undefined,
       })
@@ -635,6 +713,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         facelifted_to: 'evolution.edgeFaceliftedTo',
         rebadged_as: 'evolution.edgeRebadged',
         inspired: 'evolution.edgeInspired',
+        inspired_by: 'evolution.edgeInspired',
       }
       const edgeTypeKey = edgeData.type ? EDGE_TYPE_KEYS[edgeData.type] : undefined
       const edgeLabel = edgeTypeKey ? t(edgeTypeKey) : (edgeData.type?.replace(/_/g, ' ') ?? t('evolution.tooltipConnection'))
@@ -727,19 +806,20 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
           }
           case 'fork': {
             // Развилка: дерево эволюции — структурные связи + фейслифты + варианты.
-            // influenced_by ВНУТРИ бренда — еле заметным пунктиром (дизайн-влияние,
-            // напр. M3→M2, 458→LaFerrari). Кросс-брендовые influenced_by и
-            // shares_platform скрыты — они дают паутину между далёкими колонками.
+            // influenced_by ВНУТРИ бренда — еле заметным пунктиром (дизайн-влияние).
+            // inspired_by / inspired — кросс-брендовое вдохновение, пунктир, полупрозрачно.
             const treeType   = ['evolves_into','variant_of','derived_from','concept_to_production'].includes(type)
             const flType     = type === 'facelifted_to'
             const sameBrand  = srcData.brandId && srcData.brandId === tgtData.brandId
-            // Влияние: показываем ТОЛЬКО сильные связи (>60%), внутри бренда.
-            // Слабые (≤60%) и кросс-брендовые скрыты — иначе паутина между колонками.
-            const inflStr    = (e.data('strength') as number) ?? 0
-            const inflShow   = type === 'influenced_by' && sameBrand && inflStr > 0.60
+            const edgeStr    = (e.data('strength') as number) ?? 0
+            // influenced_by: только внутри бренда и сильные (>60%)
+            const inflShow   = type === 'influenced_by' && sameBrand && edgeStr > 0.60
+            // inspired_by / inspired: показываем все с силой ≥0.78 (пунктирная дуга влияния)
+            const inspShow   = (type === 'inspired_by' || type === 'inspired') && edgeStr >= 0.78
             if (treeType)       e.style({ opacity: 0.88, display: 'element' })
             else if (flType)    e.style({ opacity: 0.80, display: 'element' })
-            else if (inflShow)  e.style({ opacity: 0.58, display: 'element' })  // дуга влияния
+            else if (inflShow)  e.style({ opacity: 0.55, display: 'element' })
+            else if (inspShow)  e.style({ opacity: 0.40, display: 'element' })  // кросс-брендовое вдохновение
             else                e.style({ opacity: 0.0,  display: 'none'    })
             break
           }
@@ -763,7 +843,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
       setEraCols([]); setGenRows([])
       setBrandBands([]); setYearTicks([])
-      setZoneLabels([]); setDecadeLines([])
+      setZoneLabels([]); setDecadeLines([]); setTrackCols([]); setTrackGroupMarks([])
       cy.off('pan zoom')
 
       const fCyNodes = cy.nodes()
@@ -1039,7 +1119,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
       setEraCols([]); setGenRows([])
       setBrandBands([]); setYearTicks([])
-      setZoneLabels([]); setDecadeLines([])
+      setZoneLabels([]); setDecadeLines([]); setTrackCols([]); setTrackGroupMarks([])
 
       const BRAND_COLOR_E: Record<string, string> = {
         'alfa-romeo': '#ce1126',
@@ -1269,7 +1349,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
       setEraCols([]); setGenRows([])
       setBrandBands([]); setYearTicks([])
-      setZoneLabels([]); setDecadeLines([])
+      setZoneLabels([]); setDecadeLines([]); setTrackCols([]); setTrackGroupMarks([])
       cy.off('pan zoom')
 
       const BRAND_COLOR_FK: Record<string, string> = {
@@ -1315,9 +1395,17 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         if (e.data('type') === 'evolves_into') fkInDeg[e.target().id()] = (fkInDeg[e.target().id()] ?? 0) + 1
       })
 
+      // inspired_by/inspired участвуют в ТОМ ЖЕ цикле (правило "не выше источника",
+      // как у variant_of — без +1). Раньше их подъём делался ОДНИМ проходом ПОСЛЕ
+      // цикла: если у базы глубина сама поднималась только через inspired_by
+      // (напр. Eclipse Cross ← Eclipse GT 4G), её variant_of-потомки (Eclipse Cross
+      // PHEV) успевали «приклеиться» к СТАРОЙ (нулевой) глубине базы и зависали в
+      // ряду «Основатели» вместо реального уровня — тот же класс бага, что и
+      // комментарий выше уже описывает про CLK/X6. Объединение в один цикл чинит оба.
       const fkEdgesForDepth = cy.edges().filter(e => {
         const tp = e.data('type') as string
-        return tp === 'evolves_into' || tp === 'variant_of' || tp === 'derived_from' || tp === 'facelifted_to'
+        return tp === 'evolves_into' || tp === 'variant_of' || tp === 'derived_from' ||
+               tp === 'facelifted_to' || tp === 'inspired_by' || tp === 'inspired'
       })
       let fkChg = true; let fkIt = 0
       while (fkChg && fkIt < 60) {
@@ -1448,7 +1536,11 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       //
       //  evolves_into arrows stay vertical: all nodes in same chain share same X ✓
       const VAR_STEP_FK  = 78   // px collision-resolution (same slot+depth)
-      const VAR_DROP_FK  = 72   // px единый отступ ВНИЗ для модификаций/фейслифтов от базы
+      const VAR_DROP_FK  = 72   // px отступ ВНИЗ для модификаций (slot > 0) от базы
+      const FL_DROP_FK   = 116  // px отступ ВНИЗ для фейслифтов (slot < 0) — отдельным,
+                                 // более низким ярусом ПОД модификациями (в пределах
+                                 // LEVEL_H_FK=140, с запасом до базовой линии следующего
+                                 // поколения)
 
       // Build id→{depth,yr} lookup
       const fkNodeById: Record<string, { depth: number; yr: number }> = {}
@@ -1461,6 +1553,23 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       cy.edges().forEach(e => {
         if (e.data('type') === 'facelifted_to') flTargetIds.add(e.target().id())
       })
+      // Узел «post-facelift», если сам является целью facelifted_to, ИЛИ висит на
+      // variant_of-цепочке от такого узла (принцип «все связи от базы»: Trofeo
+      // Facelift/Folgore Facelift подключены variant_of к FL-хабу базы, а не
+      // напрямую facelifted_to — без подъёма по цепочке они ошибочно считались бы
+      // обычной модификацией и рендерились на одном уровне с Trofeo/Folgore).
+      const isPostFacelift = (id: string): boolean => {
+        let cur = id
+        const seen = new Set<string>()
+        while (!seen.has(cur)) {
+          seen.add(cur)
+          if (flTargetIds.has(cur)) return true
+          const p = variantParentFK[cur]
+          if (!p) return false
+          cur = p
+        }
+        return false
+      }
 
       // For each columnKey: split variant chains into FL (left) and VAR (right)
       const colKeyFlRoots:  Record<string, string[]> = {}  // facelift chains → LEFT
@@ -1472,8 +1581,15 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
           const ck      = getColumnKey(n.id)
           const varRoot = fkEvolveRoot[n.id] ?? n.id
 
-          // A chain goes LEFT if its root is a facelift target
-          const isFaceliftChain = flTargetIds.has(varRoot)
+          // A chain goes LEFT if its root is a facelift target, OR a limited-edition
+          // model attached DIRECTLY to the base (variant_of base→limited: GNX-style
+          // "от базы" связь). A limited edition hanging off ANOTHER modification
+          // (base→mod→limited, e.g. Regal→GN→GNX, Regal→T-Type→Turbo-T) goes RIGHT
+          // with its parent modification instead — "от модификации к лимитной".
+          const isLimitedChain   = cy.getElementById(varRoot).data('isLimited') === true
+          const varRootParent    = variantParentFK[varRoot]
+          const limitedFromBase  = isLimitedChain && (!varRootParent || varRootParent === getRootFK(varRoot))
+          const isFaceliftChain  = isPostFacelift(varRoot) || limitedFromBase
 
           if (isFaceliftChain) {
             if (!colKeyFlRoots[ck]) colKeyFlRoots[ck] = []
@@ -1536,11 +1652,21 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         const colSet = new Set(sortedColKeys)
         const parentRight: Record<string, string> = {}  // derived колонка → родитель (вставка справа)
         const parentLeft:  Record<string, string> = {}  // concept колонка → родитель (вставка слева)
+        // Конкретный донор (без climbing) — colKey у getColumnKey сворачивает целую
+        // evolves_into/variant_of цепочку (Veyron→Chiron→Chiron SS…) в ОДИН ключ,
+        // поэтому у derived_from-детей разных узлов ОДНОЙ цепочки (Chiron vs Chiron
+        // Super Sport) совпадает "какая колонка", но не должно совпадать "кто
+        // конкретно донор" — иначе Brouillard (от Chiron) и F.K.P. Hommage (от
+        // Chiron Super Sport) визуально сливаются с Bolide (тоже from Chiron).
+        const parentRightAnchor: Record<string, string> = {}
         cy.edges().forEach(e => {
           const tp = e.data('type')
           if (tp === 'derived_from') {
             const c = getColumnKey(e.target().id()), p = getColumnKey(e.source().id())
-            if (c !== p && colSet.has(c) && colSet.has(p) && !parentRight[c] && !parentLeft[c]) parentRight[c] = p
+            if (c !== p && colSet.has(c) && colSet.has(p) && !parentRight[c] && !parentLeft[c]) {
+              parentRight[c] = p
+              parentRightAnchor[c] = e.source().id()
+            }
           } else if (tp === 'concept_to_production') {
             const c = getColumnKey(e.source().id()), p = getColumnKey(e.target().id())  // source=концепт
             if (c !== p && colSet.has(c) && colSet.has(p) && !parentLeft[c] && !parentRight[c]) parentLeft[c] = p
@@ -1551,6 +1677,18 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         sortedColKeys.forEach(ck => {
           if (parentRight[ck]) (rightOf[parentRight[ck]] ??= []).push(ck)
           if (parentLeft[ck])  (leftOf[parentLeft[ck]]   ??= []).push(ck)
+        })
+        // Группируем детей одной "схлопнутой" колонки по конкретному донору, а
+        // группы — по глубине донора, чтобы Brouillard/F.K.P. Hommage/Destrier не
+        // перемешивались случайным порядком sortedColKeys, а шли рядом с тем, от
+        // кого КОНКРЕТНО произошли.
+        Object.keys(rightOf).forEach(p => {
+          rightOf[p].sort((a, b) => {
+            const aa = parentRightAnchor[a] ?? '', ab = parentRightAnchor[b] ?? ''
+            const da = fkNodeById[aa]?.depth ?? 0, db = fkNodeById[ab]?.depth ?? 0
+            if (da !== db) return da - db
+            return aa.localeCompare(ab)
+          })
         })
         // Размещение: [концепты-слева] родитель [derived-справа], рекурсивно
         const orderedCols: string[] = []
@@ -1597,13 +1735,14 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
           // slot определяет ТОЛЬКО смещение по X:
           //   slot < 0 → фейслифты слева, slot 0 → база, slot > 0 → модификации справа
           const x       = (colKeyBaseX[ck] ?? curXFK) + slot * NODE_W_FK
-          // Y: база (slot 0) — на линии поколения; ВСЕ модификации/фейслифты (slot≠0)
-          //    опускаются на ОДИН И ТОТ ЖЕ отступ VAR_DROP_FK вниз (общий ряд под базой).
-          //    Первая, вторая и т.д. модификации — на одинаковом уровне Y, разный X.
+          // Y: база (slot 0) — на линии поколения; модификации (slot > 0) опускаются
+          //    на VAR_DROP_FK; фейслифты (slot < 0) — ЯРУСОМ НИЖЕ, на FL_DROP_FK
+          //    (>VAR_DROP_FK), чтобы визуально идти ПОСЛЕ/ПОД модификациями, а не
+          //    наравне с ними. Внутри своего яруса все узлы — на одинаковом Y, разный X.
           const collKey = ck + ':' + slot + ':' + n.depth
           const collIdx = slotDepthIdx[collKey] ?? 0
           slotDepthIdx[collKey] = collIdx + 1
-          const yDrop = slot === 0 ? 0 : VAR_DROP_FK
+          const yDrop = slot === 0 ? 0 : (slot < 0 ? FL_DROP_FK : VAR_DROP_FK)
           const y = PAD_FK + n.depth * dynLevelH + 30 + yDrop + collIdx * VAR_STEP_FK
           fkPos[n.id] = { x, y }
         })
@@ -1669,8 +1808,14 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const fkEstPX = (fkCW - fkModelW * fkEstZ) / 2
       const fkEstPY = (height - fkModelH * fkEstZ) / 2
 
-      const D_RU_FK = ['Основатели','2-е пок.','3-е пок.','4-е пок.','5-е пок.','6-е пок.','7-е пок.','8-е пок.','9-е пок.','10+']
-      const D_EN_FK = ['Founders','Gen 2','Gen 3','Gen 4','Gen 5','Gen 6','Gen 7','Gen 8','Gen 9','Gen 10+']
+      // Русские порядковые для среднего рода единообразны на "-е" при любом числе
+      // (2-е, 3-е, …, 11-е, 12-е — в отличие от английских 1st/2nd/3rd/4th),
+      // поэтому лейбл считаем формулой, а не таблицей — снимает баг с обрывом
+      // на 10-й записи (глубже него рендерилось "GEN 11"/"GEN 12" не по-русски).
+      const genLabelFK = (d: number) =>
+        d === 0
+          ? (locale === 'ru' ? 'Основатели' : 'Founders')
+          : (locale === 'ru' ? `${d + 1}-е пок.` : `Gen ${d + 1}`)
 
       const bldFkBrands = (pX: number, z: number, cW: number): BrandBand[] =>
         sortedBrandsFK.map(bid => {
@@ -1684,7 +1829,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const bldFkDepth = (pY: number, z: number): GenRow[] =>
         Array.from({ length: maxFkDepth + 1 }, (_, d) => ({
           gen: d,
-          label: (locale === 'ru' ? D_RU_FK : D_EN_FK)[d] ?? ('Gen ' + (d+1)),
+          label: genLabelFK(d),
           top:    Math.max(0, ((PAD_FK + d * dynLevelH) * z + pY) / height * 100),
           height: Math.max(0.5, dynLevelH * z / height * 100),
         })).filter(r => r.top < 100)
@@ -1797,6 +1942,30 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         })
       }
 
+      // ── Дуга «вдохновлено»: кросс-брендовое вдохновение (inspired_by / inspired).
+      //    Выгибается ВНИЗ от нижней точки контура → визуально отличается от
+      //    influenced_by (вверх, от верхних точек) и derived_from (вверх, ARC=60).
+      const styleInspiredByArcs = () => {
+        cy.batch(() => {
+          cy.edges('[type = "inspired_by"], [type = "inspired"]').forEach(e => {
+            if (e.style('display') === 'none') return
+            const s = e.source(), t = e.target()
+            const rs = (((s.width() as number) || 66) / 2)
+            const rt = (((t.width() as number) || 66) / 2)
+            const sp = s.position(), tp = t.position()
+            const ARC  = 100                              // высота выгиба дуги вверх
+            const dist = (tp.x >= sp.x ? -1 : 1) * ARC  // всегда выгибается ВВЕРХ
+            e.style({
+              'curve-style': 'unbundled-bezier',
+              'source-endpoint': `0px ${(-rs).toFixed(1)}px`,   // верхняя точка контура источника
+              'target-endpoint': `0px ${(-rt).toFixed(1)}px`,   // верхняя точка контура цели
+              'control-point-distances': `${dist}`,
+              'control-point-weights': '0.5',
+            })
+          })
+        })
+      }
+
       const fkLayout = cy.layout({
         name: 'preset',
         positions: (node: cytoscape.NodeSingular) => fkPos[node.id()] ?? { x: 0, y: 0 },
@@ -1809,6 +1978,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         styleInfluenceArcs()
         styleDerivedArcs()
         styleVariantArcs()
+        styleInspiredByArcs()
         cy.off('pan zoom')
         cy.on('pan zoom', () => {
           const pp = cy.pan(); const zz = cy.zoom(); const cww = cy.container()?.clientWidth ?? cw
@@ -1830,7 +2000,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
       setEraCols([]); setGenRows([])
       setBrandBands([]); setYearTicks([])
-      setZoneLabels([]); setDecadeLines([])
+      setZoneLabels([]); setDecadeLines([]); setTrackCols([]); setTrackGroupMarks([])
       const cyNodes = cy.nodes()
       const sYears = cyNodes.map(n => n.data('year') as number).filter(Boolean)
       if (sYears.length === 0) return
@@ -2055,6 +2225,365 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       return
     }
 
+    // ── A777 Performance scatter: X=Acceleration (reversed), Y=Top Speed ────
+    if (l === 'perf') {
+      cy.nodes().removeStyle(); cy.edges().removeStyle()
+      setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
+      setPerfZoneRects([])
+      setEraCols([]); setGenRows([]); setBrandBands([]); setYearTicks([])
+      setZoneLabels([]); setDecadeLines([]); setTrackCols([]); setTrackGroupMarks([])
+      cy.off('pan zoom')
+
+      const CANVAS_W  = 2200
+      const CANVAS_H  = 1600
+      const PAD_P     = 80
+      const ACCEL_MIN = 1.5   // s — fastest (right)
+      const ACCEL_MAX = 18.0  // s — slowest (left)
+      const SPEED_MIN = 100   // km/h — slowest (bottom)
+      const SPEED_MAX = 490   // km/h — fastest (top)
+
+      // Estimate accel/speed from hp when A777 data absent
+      const estimateAccel = (hp: number | undefined): number => {
+        if (!hp || hp <= 0) return 12
+        return Math.max(2.5, Math.min(17, 1400 / hp))
+      }
+      const estimateSpeed = (hp: number | undefined): number => {
+        if (!hp || hp <= 0) return 170
+        return Math.max(140, Math.min(460, 135 + hp * 0.27))
+      }
+
+      const perfPos: Record<string, { x: number; y: number }> = {}
+      const used: { x: number; y: number }[] = []
+
+      const toX = (accel: number) =>
+        PAD_P + ((ACCEL_MAX - accel) / (ACCEL_MAX - ACCEL_MIN)) * (CANVAS_W - PAD_P * 2)
+      const toY = (speed: number) =>
+        PAD_P + ((SPEED_MAX - speed) / (SPEED_MAX - SPEED_MIN)) * (CANVAS_H - PAD_P * 2)
+
+      cy.nodes().forEach(node => {
+        const rawAccel = node.data('a777Accel')  as number | undefined
+        const rawSpeed = node.data('a777TopSpeed') as number | undefined
+        const hp       = node.data('hp') as number | undefined
+
+        const accel = (rawAccel && rawAccel >= 1 && rawAccel <= 20) ? rawAccel : estimateAccel(hp)
+        const speed = (rawSpeed && rawSpeed >= 100 && rawSpeed <= 500) ? rawSpeed : estimateSpeed(hp)
+
+        let x = toX(accel)
+        let y = toY(speed)
+
+        // Jitter to prevent node pile-up (collision: 80px radius)
+        let tries = 0
+        while (tries < 24 && used.some(p => Math.abs(p.x - x) < 76 && Math.abs(p.y - y) < 76)) {
+          const angle = Math.random() * Math.PI * 2
+          const r = 80 + tries * 12
+          x = toX(accel) + Math.cos(angle) * r
+          y = toY(speed) + Math.sin(angle) * r
+          tries++
+        }
+        used.push({ x, y })
+        perfPos[node.id()] = { x, y }
+      })
+
+      // Node color: brand-based + dim nodes without A777 data
+      const PERF_BRAND_COLOR: Record<string, string> = {
+        ferrari: '#ff2800', lamborghini: '#e6b800', mclaren: '#FF8000',
+        bugatti: '#9333ea', koenigsegg: '#FFD700', pagani: '#c9a96e', rimac: '#00CFFF',
+        porsche: '#ffd700', astonmartin: '#006A4E', lotus: '#c8e228',
+        bmw: '#00d4ff', mercedes: '#b8b8b8', audi: '#e84040',
+        toyota: '#eb0a1e', lexus: '#8B6914', honda: '#cc0000',
+        nissan: '#c3002f', mazda: '#910f22', subaru: '#003399',
+        ford: '#0b2e6b', jaguar: '#C8A96E', maserati: '#1a4fc4',
+        'land-rover': '#005A2B', 'alfa-romeo': '#ce1126',
+      }
+      cy.nodes().forEach(n => {
+        const col  = PERF_BRAND_COLOR[n.data('brandId') as string ?? ''] ?? '#F97316'
+        const hasA = !!(n.data('a777TopSpeed') || n.data('a777Accel'))
+        n.style({
+          'border-color':    col,
+          'border-width':    hasA ? 3.5 : 2,
+          'border-opacity':  hasA ? 0.95 : 0.35,
+          'background-color': col + (hasA ? '22' : '0a'),
+        })
+      })
+
+      // Edges: only same-brand evolves_into (horizontal arrows within brand zone)
+      cy.edges().forEach(e => {
+        const tp = e.data('type') as string
+        const sameBrand = e.source().data('brandId') === e.target().data('brandId')
+        if (tp === 'evolves_into' && sameBrand) e.style({ opacity: 0.45, display: 'element' })
+        else e.style({ opacity: 0, display: 'none' })
+      })
+
+      // ── Overlay: quadrant zones + axis ticks ──────────────────────────────
+      const PERF_ZONES = [
+        { label: locale === 'ru' ? 'Гиперкары' : 'Hypercars',
+          accelMax: 3.5, speedMin: 350, color: '#ffd700' },
+        { label: locale === 'ru' ? 'Суперкары' : 'Supercars',
+          accelMax: 5.5, speedMin: 260, color: '#ff2800' },
+        { label: locale === 'ru' ? 'Спорткары' : 'Sports',
+          accelMax: 8.0, speedMin: 210, color: '#ff9500' },
+        { label: locale === 'ru' ? 'Бизнес GT' : 'GT',
+          accelMax: 12.0, speedMin: 170, color: '#a78bfa' },
+      ]
+
+      const perfEstZ = 0.38
+      const perfCW   = cy.container()?.clientWidth ?? 1200
+      const perfEstPX = (perfCW - CANVAS_W * perfEstZ) / 2
+      const perfEstPY = (height  - CANVAS_H * perfEstZ) / 2
+
+      const buildPerfOverlay = (pX: number, pY: number, z: number, cW: number) => {
+        // X-axis ticks: accel in seconds
+        const xLines: { hp: number; left: number }[] = []
+        for (let a = 2; a <= 18; a += 2) {
+          const xPx = toX(a) * z + pX
+          const left = xPx / cW * 100
+          if (left > 0 && left < 100) xLines.push({ hp: a, left })
+        }
+        setHpLines(xLines)
+
+        // Y-axis ticks: speed bands (reuse engineBands)
+        const yBands: PowerBand[] = []
+        const speedSteps = [100, 150, 200, 250, 300, 350, 400, 450]
+        for (let i = 0; i < speedSteps.length - 1; i++) {
+          const topSpd = speedSteps[i + 1]
+          const botSpd = speedSteps[i]
+          const topPct = Math.max(0, (toY(topSpd) * z + pY) / height * 100)
+          const botPct = Math.max(0, (toY(botSpd) * z + pY) / height * 100)
+          if (topPct < 100 && botPct > 0) {
+            yBands.push({
+              label: `${botSpd}–${topSpd} km/h`,
+              color: i % 2 === 0 ? '#ffffff' : '#888888',
+              top: topPct,
+              height: Math.max(0.5, botPct - topPct),
+            })
+          }
+        }
+        setEngineBands(yBands)
+
+        // Quadrant zone rectangles (top-right corner = fastest cars)
+        const zRects: PerfZoneRect[] = []
+        for (const zone of PERF_ZONES) {
+          const xLeftPct  = (toX(zone.accelMax) * z + pX) / cW * 100
+          const xRightPct = (toX(ACCEL_MIN)     * z + pX) / cW * 100
+          const yTopPct   = (toY(SPEED_MAX)      * z + pY) / height * 100
+          const yBotPct   = (toY(zone.speedMin)  * z + pY) / height * 100
+          const left   = Math.max(0, xLeftPct)
+          const right  = Math.max(0, 100 - xRightPct)
+          const top    = Math.max(0, yTopPct)
+          const bottom = Math.max(0, 100 - yBotPct)
+          if (left < 98 && right < 98 && top < 98 && bottom < 98)
+            zRects.push({ label: zone.label, color: zone.color, left, right, top, bottom })
+        }
+        setPerfZoneRects(zRects)
+      }
+
+      const perfLayout = cy.layout({
+        name: 'preset',
+        positions: (n: cytoscape.NodeSingular) => perfPos[n.id()] ?? { x: 0, y: 0 },
+        fit: true, padding: 60, animate: true, animationDuration: 700,
+      } as cytoscape.LayoutOptions)
+
+      perfLayout.one('layoutstop', () => {
+        const p = cy.pan(); const z = cy.zoom(); const cw = cy.container()?.clientWidth ?? perfCW
+        buildPerfOverlay(p.x, p.y, z, cw)
+        cy.off('pan zoom')
+        cy.on('pan zoom', () => {
+          const pp = cy.pan(); const zz = cy.zoom(); const cw2 = cy.container()?.clientWidth ?? cw
+          buildPerfOverlay(pp.x, pp.y, zz, cw2)
+        })
+      })
+      perfLayout.run()
+      buildPerfOverlay(perfEstPX, perfEstPY, perfEstZ, perfCW)
+      return
+    }
+
+    // ── Track layout: столбик на модель, сортировка по времени круга ─────────
+    if (l === 'track') {
+      cy.nodes().removeStyle(); cy.edges().removeStyle()
+      setEngineBands([]); setHpLines([]); setPlatformZones([]); setPlatformHulls([])
+      setEraCols([]); setGenRows([]); setBrandBands([]); setYearTicks([])
+      setZoneLabels([]); setDecadeLines([]); setPerfZoneRects([])
+      cy.off('pan zoom')
+
+      const parseSecs = (t: string | undefined): number => {
+        if (!t) return NaN
+        const m = t.match(/^(\d+):(\d+(?:\.\d+)?)$/)
+        return m ? parseInt(m[1]) * 60 + parseFloat(m[2]) : NaN
+      }
+      const fmtSecs = (secs: number): string => {
+        const m = Math.floor(secs / 60)
+        const s = (secs % 60).toFixed(2).padStart(5, '0')
+        return `${m}:${s}`
+      }
+
+      type Track = 'nurburgring' | 'topgear' | 'none'
+      type ColEntry = { id: string; label: string; secs: number; track: Track }
+      const withNurb: ColEntry[]   = []
+      const withTgOnly: ColEntry[] = []
+      const noData: ColEntry[]     = []
+
+      cy.nodes().forEach(node => {
+        const nurb  = parseSecs(node.data('a777Nurb')    as string | undefined)
+        const tg    = parseSecs(node.data('a777TopGear') as string | undefined)
+        const label = (node.data('label') as string) || node.id()
+        if (!isNaN(nurb))      withNurb.push({ id: node.id(), label, secs: nurb, track: 'nurburgring' })
+        else if (!isNaN(tg))   withTgOnly.push({ id: node.id(), label, secs: tg,  track: 'topgear' })
+        else                   noData.push({ id: node.id(), label, secs: NaN,    track: 'none' })
+      })
+
+      // Нюрбургринг (20.8км) и Top Gear трек (~2.8км) — разной длины, абсолютные
+      // секунды несравнимы напрямую → сортируем ВНУТРИ каждого трека отдельно,
+      // затем соединяем группами (Нюрбургринг — больше данных и престижнее → первым).
+      withNurb.sort((a, b) => a.secs - b.secs)
+      withTgOnly.sort((a, b) => a.secs - b.secs)
+
+      // Оси намеренно развёрнуты: строка = ранг (модель), длина столбика = время —
+      // а не наоборот. Раз ранг и значение больше НЕ делят одну ось, одинаковое время
+      // у двух моделей (напр. оба Gallardo — 7:52.00) больше не сталкивает их подписи:
+      // у каждой своя строка, вне зависимости от значения.
+      const ROW_H       = 32
+      const GROUP_GAP   = 44
+      const PAD_T_      = 50
+      const LABEL_W     = 210    // зона под имя модели слева от столбика
+      const CHART_LEFT  = LABEL_W + 24
+      const CHART_W     = 420    // доступная длина столбиков
+      const MIN_BAR_W   = CHART_W * 0.12   // даже у самого медленного остаётся видимый минимум
+
+      const colsMeta: { id: string; label: string; x: number; y: number; track: Track; secs: number }[] = []
+      let curY = PAD_T_
+      const groupStarts: { key: string; label: string; y: number }[] = []
+
+      const nurbSecs = withNurb.map(c => c.secs)
+      const tgSecs   = withTgOnly.map(c => c.secs)
+      const nurbMin  = nurbSecs.length ? Math.min(...nurbSecs) : 0
+      const nurbMax  = nurbSecs.length ? Math.max(...nurbSecs) : 1
+      const tgMin    = tgSecs.length ? Math.min(...tgSecs) : 0
+      const tgMax    = tgSecs.length ? Math.max(...tgSecs) : 1
+
+      const placeGroup = (entries: ColEntry[], mn: number, mx: number, groupKey?: string, groupLabel?: string) => {
+        if (!entries.length) return
+        if (groupKey) { groupStarts.push({ key: groupKey, label: groupLabel ?? '', y: curY }); curY += ROW_H * 0.75 }
+        entries.forEach(c => {
+          const y = curY + ROW_H / 2
+          const norm = mx > mn ? (c.secs - mn) / (mx - mn) : 0
+          // Длина столбика = само время (как обычный график длительности): больше
+          // секунд — длиннее столбик. 0 = быстрее всех (короткий, выше минимума),
+          // 1 = медленнее всех (длинный, во всю ширину).
+          const barLen = MIN_BAR_W + norm * (CHART_W - MIN_BAR_W)
+          const x = CHART_LEFT + barLen
+          colsMeta.push({ id: c.id, label: c.label, x, y, track: c.track, secs: c.secs })
+          curY += ROW_H
+        })
+        curY += GROUP_GAP
+      }
+      placeGroup(withNurb,   nurbMin, nurbMax, 'nurburgring', '🇩🇪 Нюрбургринг — короче = быстрее')
+      placeGroup(withTgOnly, tgMin,   tgMax,   'topgear',     '🇬🇧 Top Gear трек — короче = быстрее')
+
+      // "Нет данных" — только счётчик, без отдельной строки на каждую модель (см. ниже,
+      // почему подписи-имена без единой цифры сами по себе неинформативны). Ноды всё
+      // равно кликабельны — просто плотной решёткой, не растягивая canvas по высоте.
+      if (noData.length) {
+        groupStarts.push({ key: 'none', label: `Нет данных о трассе (${noData.length})`, y: curY })
+        curY += ROW_H * 0.75
+        const NO_DATA_COLS = 12
+        const NO_DATA_CELL = 16
+        noData.forEach((c, i) => {
+          const row = Math.floor(i / NO_DATA_COLS)
+          const col = i % NO_DATA_COLS
+          colsMeta.push({
+            id: c.id, label: c.label,
+            x: CHART_LEFT + col * NO_DATA_CELL,
+            y: curY + row * NO_DATA_CELL,
+            track: 'none', secs: NaN,
+          })
+        })
+        curY += Math.ceil(noData.length / NO_DATA_COLS) * NO_DATA_CELL
+      }
+
+      const CANVAS_W_T = CHART_LEFT + CHART_W + 80
+      const CANVAS_H_T = Math.max(400, curY + 40)
+
+      const trackPos: Record<string, { x: number; y: number }> = {}
+      const trackMap = new Map(colsMeta.map(c => [c.id, c]))
+      colsMeta.forEach(c => { trackPos[c.id] = { x: c.x, y: c.y } })
+
+      // Сами иконки-ноды (круг/пятиугольник) визуально убираем целиком — вместо них
+      // столбики рисует HTML-оверлей ниже. Нода остаётся в DOM невидимой: клик по её
+      // геометрии (это hit-test по координатам, не по отрендеренным пикселям) всё ещё
+      // работает и ведёт на страницу модели.
+      const TRACK_BRAND_COLOR: Record<string, string> = {
+        ferrari: '#ff2800', lamborghini: '#e6b800', mclaren: '#FF8000',
+        bugatti: '#9333ea', koenigsegg: '#FFD700', pagani: '#c9a96e',
+        porsche: '#ffd700', astonmartin: '#006A4E',
+        bmw: '#00d4ff', mercedes: '#b8b8b8', audi: '#e84040',
+        toyota: '#eb0a1e', lexus: '#8B6914', honda: '#cc0000',
+        nissan: '#c3002f', mazda: '#910f22', subaru: '#003399',
+        ford: '#0b2e6b', jaguar: '#C8A96E', maserati: '#1a4fc4',
+        lotus: '#c8e228', 'alfa-romeo': '#ce1126',
+      }
+      const trackBrandColorById = new Map<string, string>()
+      cy.nodes().forEach(n => {
+        const col = TRACK_BRAND_COLOR[n.data('brandId') as string ?? ''] ?? '#F97316'
+        trackBrandColorById.set(n.id(), col)
+        n.style({ opacity: 0 })
+      })
+
+      cy.edges().forEach(e => { e.style({ opacity: 0, display: 'none' }) })
+
+      // fit:true у Cytoscape масштабирует по МЕНЬШЕМУ из двух отношений (ширина/высота) —
+      // считаем оценку так же, иначе на списках с сотнями строк (высота >> ширины) первый
+      // (до layoutstop) рендер оверлея использовал бы завышенный zoom и "убегал" за экран.
+      const trkEstZ   = Math.max(0.05, Math.min(0.6, Math.min(900 / CANVAS_W_T, height / CANVAS_H_T)))
+      const trkCW     = cy.container()?.clientWidth ?? 1200
+      const trkEstPX  = (trkCW  - CANVAS_W_T * trkEstZ) / 2
+      const trkEstPY  = (height - CANVAS_H_T * trkEstZ) / 2
+
+      const TRACK_EMOJI: Record<Track, string> = { nurburgring: '🇩🇪', topgear: '🇬🇧', none: '' }
+
+      const buildTrackOverlay = (pX: number, pY: number, z: number, cW: number) => {
+        const baselineLeftPct = (CHART_LEFT * z + pX) / cW * 100
+        const cols: TrackCol[] = colsMeta.map(c => {
+          const barEndLeftPct = (c.x * z + pX) / cW * 100
+          return {
+            id:       c.id,
+            label:    c.label,
+            top:      (c.y * z + pY) / height * 100,
+            barLeft:  baselineLeftPct,
+            barWidth: Math.max(0, barEndLeftPct - baselineLeftPct),
+            time:     c.track === 'none' ? '' : `${TRACK_EMOJI[c.track]} ${fmtSecs(c.secs)}`,
+            track:    c.track,
+            color:    trackBrandColorById.get(c.id) ?? '#F97316',
+          }
+        })
+        setTrackCols(cols)
+        setTrackBaseline(baselineLeftPct)
+        setTrackGroupMarks(groupStarts.map(g => ({
+          key:   g.key,
+          label: g.label,
+          top:   (g.y * z + pY) / height * 100,
+        })))
+      }
+
+      const trackLayout = cy.layout({
+        name: 'preset',
+        positions: (n: cytoscape.NodeSingular) => trackPos[n.id()] ?? { x: CHART_LEFT, y: curY },
+        fit: true, padding: 60, animate: true, animationDuration: 700,
+      } as cytoscape.LayoutOptions)
+
+      trackLayout.one('layoutstop', () => {
+        const p = cy.pan(); const z = cy.zoom(); const cw = cy.container()?.clientWidth ?? trkCW
+        buildTrackOverlay(p.x, p.y, z, cw)
+        cy.off('pan zoom')
+        cy.on('pan zoom', () => {
+          const pp = cy.pan(); const zz = cy.zoom(); const cw2 = cy.container()?.clientWidth ?? cw
+          buildTrackOverlay(pp.x, pp.y, zz, cw2)
+        })
+      })
+      trackLayout.run()
+      buildTrackOverlay(trkEstPX, trkEstPY, trkEstZ, trkCW)
+      return
+    }
+
     // Reset all overlays for standard layouts
     // Restore node/edge styles (fork layout dims non-active brand)
     cy.nodes().removeStyle()
@@ -2146,6 +2675,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
 
       setZoneLabels([])
       setDecadeLines([])
+      setTrackCols([])
+      setTrackGroupMarks([])
       cy.off('pan zoom')
       cy.layout({
         name: 'preset',
@@ -2392,7 +2923,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       return
     }
 
-    setZoneLabels([]); setDecadeLines([])
+    setZoneLabels([]); setDecadeLines([]); setTrackCols([]); setTrackGroupMarks([])
     setEngineBands([]); setHpLines([])
     setEraCols([]); setGenRows([])
     cy.off('pan zoom')
@@ -2417,7 +2948,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
   useEffect(() => {
     if (!cyRef.current || data.nodes.length === 0) return
     const lyt = activeLayoutRef.current
-    const manualPos = lyt === 'cola' || lyt === 'fork' || lyt === 'eras' || lyt === 'sync' || lyt === 'zone'
+    const manualPos = lyt === 'cola' || lyt === 'fork' || lyt === 'eras' || lyt === 'sync' || lyt === 'zone' || lyt === 'perf' || lyt === 'track'
     if (!manualPos) return  // dagre/cose: автоматически по layout-пропу
     const delay = lyt === 'cola' ? 160 : 360  // тяжёлые preset — чуть позже (защита от частых ре-триггеров)
     const timer = setTimeout(() => {
@@ -2437,7 +2968,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
     return (
       <div
         className={`w-full rounded-2xl border border-white/8 flex items-center justify-center ${className}`}
-        style={{ height }}
+        style={{ height: height === 'full' ? '100%' : height }}
       >
         <div className="text-center">
           <Circle className="w-10 h-10 text-white/15 mx-auto mb-3" />
@@ -2712,14 +3243,24 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
           {/* ② Family rows: separators + name labels + lifespan bars (horizontal) */}
           {genRows.map((row, idx) => (
             <React.Fragment key={row.gen}>
-              {/* horizontal separator between adjacent rows */}
+              {/* pale zone fill matching row color */}
+              <div
+                className="absolute left-0 right-0"
+                style={{
+                  top:    Math.max(0, row.top) + '%',
+                  height: Math.max(0.5, row.height) + '%',
+                  background: `linear-gradient(90deg, ${row.color ?? '#ffffff'}0d 0%, ${row.color ?? '#ffffff'}05 40%, transparent 80%)`,
+                  pointerEvents: 'none',
+                }}
+              />
+              {/* dashed horizontal separator between adjacent rows */}
               {idx > 0 && (
                 <div
                   className="absolute left-0 right-0"
                   style={{
                     top: Math.max(0, row.top) + '%',
-                    height: '1px',
-                    background: 'linear-gradient(90deg,transparent 0%,rgba(255,255,255,0.13) 8%,rgba(255,255,255,0.13) 92%,transparent 100%)',
+                    height: 0,
+                    borderTop: `1px dashed ${row.color ?? '#ffffff'}40`,
                   }}
                 />
               )}
@@ -2841,22 +3382,15 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
               style={{
                 left:  band.left + '%',
                 width: band.width + '%',
-                // Чередование еле заметных серых тонов вместо ярких цветов бренда
                 background: idx % 2 === 0
                   ? 'rgba(255,255,255,0.022)'
                   : 'rgba(255,255,255,0.006)',
                 borderLeft: idx > 0 ? '1px solid rgba(255,255,255,0.10)' : 'none',
               }}
-            >
-              {/* Brand label at top — приглушённый серо-белый */}
-              <span
-                className="absolute top-2 left-0 right-0 text-center text-[10px] font-black uppercase tracking-widest"
-                style={{ color: 'rgba(255,255,255,0.42)', whiteSpace: 'nowrap', overflow: 'hidden' }}
-              >
-                {band.label}
-              </span>
-            </div>
+            />
           ))}
+
+          {/* ② Horizontal generation depth bands */}
 
           {/* ② Horizontal generation depth bands */}
           {genRows.map((band, idx) => {
@@ -2869,13 +3403,13 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
                 style={{
                   top:    Math.max(0, band.top) + '%',
                   height: Math.max(0.5, band.height) + '%',
-                  background: idx % 2 === 0 ? 'rgba(255,255,255,0.018)' : 'transparent',
+                  background: `linear-gradient(90deg, ${col}0e 0%, ${col}06 40%, transparent 80%)`,
                 }}
               >
                 {idx > 0 && (
                   <div className="absolute left-0 right-0" style={{
-                    top: 0, height: '2px',
-                    background: 'linear-gradient(90deg,' + col + ' 0%,' + col + 'aa 30%,' + col + '33 65%,transparent 100%)',
+                    top: 0, height: 0,
+                    borderTop: `1px dashed ${col}55`,
                   }} />
                 )}
                 <span
@@ -2892,8 +3426,165 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
             )
           })}
 
+          {/* ③ Brand labels on top — centered at band midpoint, rendered last */}
+          {brandBands.map((band) => (
+            <span
+              key={'lbl-' + band.brandId}
+              className="absolute text-[10px] font-black uppercase tracking-widest pointer-events-none"
+              style={{
+                top: '8px',
+                left: (band.left + band.width / 2) + '%',
+                transform: 'translateX(-50%)',
+                color: band.color ?? 'rgba(255,255,255,0.70)',
+                whiteSpace: 'nowrap',
+                textShadow: `0 0 8px ${band.color ?? '#fff'}55`,
+              }}
+            >
+              {band.label}
+            </span>
+          ))}
+
         </div>
       )}
+      {/* ── Форсаж А777: X=Разгон, Y=Скорость ───────────────────────────── */}
+      {(activeLayout === 'perf' || activeLayout === 'track') && perfZoneRects.length > 0 && (
+        <div className="absolute inset-0 pointer-events-none z-[9] overflow-hidden">
+          {(activeLayout === 'perf' ? [...perfZoneRects].reverse() : perfZoneRects).map((zone) => (
+            <div key={zone.label} className="absolute" style={{
+              left: `${zone.left}%`, right: `${zone.right}%`,
+              top: `${zone.top}%`, bottom: `${zone.bottom}%`,
+              background: zone.color + '0b',
+              border: `1px solid ${zone.color}25`,
+              borderRadius: '4px',
+            }}>
+              {/* perf: label at bottom-left; track: label at top-right (vertical strips) */}
+              <span className="absolute font-bold uppercase tracking-widest"
+                style={{
+                  fontSize: '9px',
+                  color: zone.color + '70',
+                  ...(activeLayout === 'perf'
+                    ? { bottom: '6px', left: '8px' }
+                    : { top: '6px', right: '6px', writingMode: 'vertical-rl', transform: 'rotate(180deg)' }),
+                }}>
+                {zone.label}
+              </span>
+            </div>
+          ))}
+        </div>
+      )}
+      {(activeLayout === 'perf' || activeLayout === 'track') && (engineBands.length > 0 || hpLines.length > 0) && (
+        <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden">
+          {/* Y-axis speed/TG bands */}
+          {engineBands.map((band, idx) => (
+            <div key={band.label + idx} className="absolute left-0 right-0" style={{
+              top: `${Math.max(0, band.top)}%`, height: `${Math.max(0.5, band.height)}%`,
+              background: idx % 2 === 0
+                ? `linear-gradient(90deg, ${band.color}12 0%, ${band.color}04 40%, transparent 75%)`
+                : 'transparent',
+            }}>
+              {idx > 0 && <div className="absolute left-0 right-0" style={{ top: 0, height: '1px', background: band.color + '38' }} />}
+              <span className="absolute px-1.5 py-0.5 rounded text-[9px] font-bold uppercase tracking-wider"
+                style={{ top: '2px', left: '6px', color: band.color, background: band.color + '18', whiteSpace: 'nowrap' }}>{band.label}</span>
+            </div>
+          ))}
+          {/* X-axis vertical ticks */}
+          {hpLines.map(line => (
+            <div key={line.hp} className="absolute top-0 bottom-0" style={{ left: `${line.left}%`, width: '1px', background: 'rgba(255,255,255,0.10)' }}>
+              <span className="absolute font-mono" style={{
+                top: '2px', left: '3px', fontSize: '8px',
+                color: 'rgba(255,255,255,0.38)', whiteSpace: 'nowrap',
+              }}>
+                {activeLayout === 'perf' ? `${line.hp}s` : `${line.hp}:00`}
+              </span>
+            </div>
+          ))}
+          {/* Corner label */}
+          <div className="absolute bottom-4 right-4 flex flex-col items-end gap-1">
+            {/* Zone legend */}
+            {perfZoneRects.length > 0 && (
+              <div className="flex flex-col gap-0.5 px-2 py-1.5 rounded-lg mb-1"
+                style={{ background: 'rgba(0,0,0,0.55)', border: '1px solid rgba(255,255,255,0.10)' }}>
+                {perfZoneRects.map(zone => (
+                  <div key={zone.label} className="flex items-center gap-1.5">
+                    <div className="w-2.5 h-2.5 rounded-sm flex-shrink-0"
+                      style={{ background: zone.color + '30', border: `1px solid ${zone.color}70` }} />
+                    <span className="text-[8px] font-bold uppercase tracking-widest"
+                      style={{ color: zone.color + 'cc' }}>{zone.label}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+            <span className="text-[9px] font-bold uppercase tracking-widest px-2 py-1 rounded-lg"
+              style={{ color: 'rgba(255,255,255,0.5)', background: 'rgba(0,0,0,0.5)', border: '1px solid rgba(255,255,255,0.12)' }}>
+              {activeLayout === 'perf'
+                ? (locale === 'ru' ? '← медленнее  |  быстрее →  (разгон, с)' : '← slower  |  faster →  (0-100 s)')
+                : (locale === 'ru' ? '← медленнее  |  быстрее →  (Нюрбургринг, мин)' : '← slower  |  faster →  (Nürburgring min)')}
+            </span>
+            <span className="text-[9px] font-semibold px-2 py-0.5 rounded"
+              style={{ color: 'rgba(255,255,255,0.30)', background: 'rgba(0,0,0,0.4)' }}>
+              {activeLayout === 'perf'
+                ? (locale === 'ru' ? '↑ быстрее (макс. скорость, км/ч) ↓ медленнее' : '↑ faster (top speed km/h) ↓ slower')
+                : (locale === 'ru' ? '↑ быстрее (Top Gear, с) ↓ медленнее' : '↑ faster (Top Gear track) ↓ slower')}
+            </span>
+          </div>
+        </div>
+      )}
+      {/* ── Трек: горизонтальные столбики, отсортировано по времени круга ──── */}
+      {activeLayout === 'track' && trackCols.length > 0 && (
+        <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden">
+          {/* Базовая линия — левый край "графика" (ось значений теперь горизонтальная) */}
+          <div className="absolute top-0 bottom-0" style={{
+            left: `${trackBaseline}%`, width: '1px',
+            background: 'rgba(255,255,255,0.18)',
+          }} />
+          {/* Заголовки групп: Нюрбургринг / Top Gear / нет данных — над своим блоком строк */}
+          {trackGroupMarks.map(mark => (
+            <span key={mark.key} className="absolute text-[9px] font-bold uppercase tracking-wider"
+              style={{ left: `${trackBaseline}%`, top: `${mark.top}%`, transform: 'translateY(-100%)', color: 'rgba(255,255,255,0.55)', whiteSpace: 'nowrap' }}>
+              {mark.label}
+            </span>
+          ))}
+          {/* Каждая модель — своя строка: имя слева (обычный текст, без поворота), столбик
+              вправо от базовой линии, время сразу за концом столбика. Ранг (какая это по
+              счёту строка) и значение (длина столбика) теперь на РАЗНЫХ осях — одинаковое
+              время у двух моделей (напр. оба Gallardo — 7:52.00) больше не сталкивает их
+              подписи, т.к. у каждой всегда своя, ничем не занятая строка. */}
+          {trackCols.map(col => (
+            <React.Fragment key={col.id}>
+              {col.track !== 'none' && (
+                <>
+                  <span className="absolute text-[9px]"
+                    style={{
+                      left: 0, width: `calc(${trackBaseline}% - 8px)`, top: `${col.top}%`,
+                      transform: 'translateY(-50%)', textAlign: 'right',
+                      whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
+                      color: 'rgba(255,255,255,0.75)',
+                    }}>
+                    {col.label}
+                  </span>
+                  {/* Столбик: заливка цветом бренда, правый кант — цвет трассы (Нюрбургринг/TG) */}
+                  <div className="absolute rounded-r-sm" style={{
+                    left: `${col.barLeft}%`, width: `${col.barWidth}%`, top: `${col.top}%`,
+                    height: '14px', transform: 'translateY(-50%)',
+                    background: `linear-gradient(90deg, ${col.color}b0, ${col.color}20)`,
+                    borderRight: `3px solid ${col.track === 'nurburgring' ? '#60a5fa' : '#fbbf24'}`,
+                  }} />
+                  <span className="absolute text-[8px] font-mono font-semibold px-0.5 rounded"
+                    style={{
+                      left: `calc(${col.barLeft + col.barWidth}% + 6px)`, top: `${col.top}%`,
+                      transform: 'translateY(-50%)', whiteSpace: 'nowrap',
+                      color: col.track === 'nurburgring' ? '#93c5fd' : '#fde68a',
+                      background: 'rgba(0,0,0,0.55)',
+                    }}>
+                    {col.time}
+                  </span>
+                </>
+              )}
+            </React.Fragment>
+          ))}
+        </div>
+      )}
+
       {/* Tooltip */}
       <AnimatePresence>
         {tooltip.visible && (
@@ -2974,7 +3665,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         </div>
       </div>
 
-      {/* Edge legend */}
+      {/* Edge + node type legend */}
       <div className="absolute bottom-3 left-3 z-20">
         <div className="flex flex-wrap gap-x-4 gap-y-1 p-2.5 rounded-xl glass border border-white/8">
           {Object.entries(EDGE_COLORS).slice(0, 4).map(([type, color]) => (
@@ -2985,6 +3676,24 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
               </span>
             </div>
           ))}
+          {/* Node type chips */}
+          <div className="w-px h-3 self-center" style={{ background: 'rgba(255,255,255,0.12)' }} />
+          <div className="flex items-center gap-1.5">
+            <div className="w-3 h-3 rounded-full" style={{ border: '2px dashed #38bdf8' }} />
+            <span className="text-[9px] font-mono text-white/30">{locale === 'ru' ? 'рестайлинг' : 'facelift'}</span>
+          </div>
+          <div className="flex items-center gap-1.5">
+            <div className="w-3 h-3 rounded-full" style={{ border: '2px dashed #f59e0b' }} />
+            <span className="text-[9px] font-mono text-white/30">{locale === 'ru' ? 'лимитед' : 'limited'}</span>
+          </div>
+          <div className="flex items-center gap-1.5">
+            <div className="w-3 h-3 rounded-full" style={{ border: '2px dashed #ef4444' }} />
+            <span className="text-[9px] font-mono text-white/30">{locale === 'ru' ? 'гонка (GT1-4)' : 'racing (GT1-4)'}</span>
+          </div>
+          <div className="flex items-center gap-1.5">
+            <div className="w-3 h-3 rounded-full" style={{ border: '2px dashed #6366f1' }} />
+            <span className="text-[9px] font-mono text-white/30">{locale === 'ru' ? 'ателье' : 'atelier'}</span>
+          </div>
         </div>
       </div>
     </div>
