@@ -895,6 +895,33 @@
       "scrapedAt": "2026-07-31T02:04:02.613Z"
     },
     {
+      "id": "jlp-2289599-2028-mercedes-amg-gt-ev-suv-design-specs-details-rev",
+      "name": "2028 Mercedes-AMG GT SUV One-Ups",
+      "year": 2028,
+      "imageUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-amg-gt-suv-one-ups-the-porsche-cayenne-turbo-electric-with-1153-hp/intro-1792250544.jpg",
+      "pageUrl": "https://www.jalopnik.com/2289599/2028-mercedes-amg-gt-ev-suv-design-specs-details-revealed/",
+      "description": "AMG&#39;s first standalone SUV is an EV powerhouse with all the same technology as its 4-Door Coupe sibling, plus even more interesting styling.",
+      "scrapedAt": "2026-10-17T20:04:01.868Z"
+    },
+    {
+      "id": "cad-news-a74163550-2028-mercedes-amg-gt-suv-revealed",
+      "name": "2028 Mercedes-AMG GT63 SUV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/94155de2-7969-4308-8610-5873ad75d8df.jpg",
+      "pageUrl": "https://www.caranddriver.com/news/a74163550/2028-mercedes-amg-gt-suv-revealed/",
+      "description": "It’s the first SUV AMG has developed in-house, and it inherits enhanced hardware from its 4-Door sedan counterpart.",
+      "scrapedAt": "2026-10-17T20:04:01.303Z"
+    },
+    {
+      "id": "cad-mercedes-amg-gt-suv",
+      "name": "2028 Mercedes-AMG GT SUV",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/5601d710-9597-4c7b-9812-5a96006ef5b2.jpg",
+      "pageUrl": "https://www.caranddriver.com/mercedes-amg/gt-suv",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-10-17T20:04:01.303Z"
+    },
+    {
       "id": "ncs-mercedes-benz-2027-amg_gt_4-door",
       "name": "Mercedes-Benz AMG GT 4-Door",
       "year": 2027,
@@ -938,33 +965,6 @@
       "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-vle/",
       "description": "Mercedes-Benz VLE embodies a completely new design with a low, streamlined silhouette and iconic aesthetics resulting in outstanding aerodynamics...",
       "scrapedAt": "2026-07-01T09:22:51.440Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2027-gls63_amg",
-      "name": "Mercedes-Benz GLS63 AMG",
-      "year": 2027,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLS63_AMG-2027-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-gls63_amg/",
-      "description": "With 450 kW (612 hp), the M177 EVO delivers the same output as its predecessor. Its maximum torque of 850 Nm is available across a wide engine-speed range from 2.500 to 4.500 rpm.",
-      "scrapedAt": "2026-07-01T09:22:51.440Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2027-gle63_s_amg_coupe",
-      "name": "Mercedes-Benz GLE63 S AMG Coupe",
-      "year": 2027,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLE63_S_AMG_Coupe-2027-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-gle63_s_amg_coupe/",
-      "description": "With the version of the M177 EVO presented in the new GLE 63 S, AMG is laying the foundation for a new generation of V8 engines that will be both more powerful and...",
-      "scrapedAt": "2026-07-01T09:22:51.440Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2027-s-class_maybach",
-      "name": "Mercedes-Benz S-Class Maybach",
-      "year": 2027,
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-S-Class_Maybach-2027-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-s-class_maybach/",
-      "description": "Meticulously curated materials and ambient lighting heighten the refined character of the Mercedes-Maybach S-Class. The new interior colour beech brown brings a refined...",
-      "scrapedAt": "2026-07-09T12:07:14.659Z"
     }
   ]
 }

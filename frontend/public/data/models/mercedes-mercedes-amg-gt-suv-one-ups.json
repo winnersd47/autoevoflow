@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-amg-gt-suv-one-ups",
+  "slug": "mercedes-mercedes-amg-gt-suv-one-ups",
+  "name": "2028 Mercedes-AMG GT SUV One-Ups",
+  "fullName": "2028 Mercedes-AMG GT SUV One-Ups",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "AMG&#39;s first standalone SUV is an EV powerhouse with all the same technology as its 4-Door Coupe sibling, plus even more interesting styling.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-amg-gt-suv-one-ups-the-porsche-cayenne-turbo-electric-with-1153-hp/intro-1792250544.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-amg-gt-suv-one-ups-the-porsche-cayenne-turbo-electric-with-1153-hp/intro-1792250544.jpg",
+  "tags": [
+    "new",
+    "2028"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2289599/2028-mercedes-amg-gt-ev-suv-design-specs-details-revealed/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-17T20:04:01.868Z",
+  "createdAt": "2026-10-17T20:04:11.592Z",
+  "updatedAt": "2026-10-17T20:04:11.592Z"
+}

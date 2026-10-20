@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-amg-gle-53-hybrid",
+  "slug": "mercedes-mercedes-amg-gle-53-hybrid",
+  "name": "2027 Mercedes-AMG GLE 53 Hybrid",
+  "fullName": "2027 Mercedes-AMG GLE 53 Hybrid",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "A plug-in hybrid powertrain, 45 miles of electric range and surprisingly smooth AMG tuning make this a very different kind of performance SUV.",
+  "generationCount": 1,
+  "heroImageUrl": "https://hips.hearstapps.com/hmg-prod/images/5abfdb44-3cac-4d3a-99f6-90274c3da011.jpg",
+  "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/5abfdb44-3cac-4d3a-99f6-90274c3da011.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.autoweek.com/news/a74140122/2027-mercedes-amg-gle-53-hybrid-drive-review/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-16T02:04:01.526Z",
+  "createdAt": "2026-10-16T02:04:11.487Z",
+  "updatedAt": "2026-10-16T02:04:11.488Z"
+}

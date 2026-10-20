@@ -1,8 +1,8 @@
 {
   "ok": false,
-  "lastCheck": "2026-10-15T12:03:52.867Z",
+  "lastCheck": "2026-10-20T11:48:52.318Z",
   "lastSuccess": "2026-10-14T06:33:53.203Z",
   "lastFailReason": "fetch failed",
-  "consecutiveFails": 118,
+  "consecutiveFails": 597,
   "consecutiveOk": 0
 }

@@ -2632,7 +2632,8 @@
       "segment": "compact",
       "zone": "hatchback",
       "hp": 150,
-      "engineType": "i4t"
+      "engineType": "i4t",
+      "modelSlug": "skoda-octavia"
     },
     {
       "id": "ferrari-308",
@@ -4911,7 +4912,7 @@
       "brandName": "Volkswagen",
       "bodyType": "suv",
       "segment": "midsize",
-      "zone": "hatchback",
+      "zone": "suv_mid",
       "hp": 299,
       "engineType": "ev"
     },
@@ -13421,13 +13422,13 @@
       "id": "ncs-skoda-2027-skoda-epiq",
       "label": "Skoda Epiq",
       "type": "generation",
-      "year": 2027,
+      "year": 2026,
       "brandId": "skoda",
-      "brandName": "Skoda",
+      "brandName": "Škoda",
       "codeName": "2027",
       "modelSlug": "skoda-epiq",
-      "bodyType": "coupe",
-      "segment": "other",
+      "bodyType": "suv",
+      "segment": "compact_suv",
       "zone": "midsize_sed",
       "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Skoda-Epiq-2027-wallpaper.jpg",
@@ -13436,7 +13437,7 @@
       "sourceUrl": "https://www.netcarshow.com/skoda/2027-epiq/",
       "isLatest": true,
       "scrapedAt": "2026-06-05T07:31:48.971Z",
-      "hp": 204
+      "hp": 215
     },
     {
       "id": "ncs-subaru-2027-subaru-getaway",
@@ -20344,7 +20345,7 @@
       "modelSlug": "gaz-pobeda",
       "bodyType": "sedan",
       "segment": "midsize",
-      "zone": "midsize_sed",
+      "zone": "exec_sed",
       "hp": 50,
       "engineType": "i4"
     },
@@ -20543,7 +20544,8 @@
       "segment": "suv_compact",
       "zone": "suv_compact",
       "hp": 83,
-      "engineType": "i4"
+      "engineType": "i4",
+      "note": "Узел покрывает обе версии текущего модельного ряда Legend: короткобазную 3-дверную (ВАЗ-21214) и длиннобазную 5-дверную (ВАЗ-2131, выпускается с 1995г как удлинённая версия 2121) — отдельного узла для 2131 не заводим: это кузовной вариант той же платформы/поколения, а не отдельное поколение (аналогично тому, что 2110/2111/2112 в этом графе тоже не разнесены по отдельным узлам)."
     },
     {
       "id": "lada-kalina",
@@ -20624,7 +20626,7 @@
       "id": "lada-niva-travel",
       "label": "Niva Travel",
       "type": "generation",
-      "year": 2020,
+      "year": 2002,
       "brandId": "lada",
       "brandName": "Lada",
       "codeName": "ВАЗ-2123",
@@ -20633,7 +20635,8 @@
       "segment": "suv_compact",
       "zone": "suv_compact",
       "hp": 123,
-      "engineType": "i4"
+      "engineType": "i4",
+      "note": "ВАЗ-2123 — отдельный проект СП GM-АвтоВАЗ (колёсная база 2.45м, НЕ растянутая версия 2121), разработан в 1998-2002г, продавался как \"Chevrolet Niva\" ПАРАЛЛЕЛЬНО с классической Нивой 20+ лет. После выхода GM из СП переименован 21.12.2020 в \"Lada Niva Travel\" (тогда же 2121/21214 стала \"Niva Legend\"). Год исправлен с 2020 (дата ребрендинга) на 2002 (реальный старт продаж) — иначе граф скрывает 18 лет истории под брендом Chevrolet."
     },
     {
       "id": "lada-evesta",
@@ -20645,10 +20648,10 @@
       "codeName": "e-Vesta",
       "modelSlug": "lada-evesta",
       "bodyType": "sedan",
-      "segment": "electric",
-      "zone": "electric",
+      "segment": "compact",
+      "zone": "midsize_sed",
       "hp": 136,
-      "engineType": "electric"
+      "engineType": "ev"
     },
     {
       "id": "uaz-469",
@@ -20760,19 +20763,20 @@
       "engineType": "v8-hybrid"
     },
     {
-      "id": "aurus-arsen",
-      "label": "Aurus Арсен",
+      "id": "aurus-arsenal",
+      "label": "Aurus Arsenal",
       "type": "generation",
       "year": 2021,
       "brandId": "aurus",
       "brandName": "Aurus",
       "codeName": "L783",
-      "modelSlug": "aurus-arsen",
-      "bodyType": "limousine",
-      "segment": "flagship",
-      "zone": "flagship_sed",
+      "modelSlug": "aurus-arsenal",
+      "bodyType": "van",
+      "segment": "luxury",
+      "zone": "suv_large",
       "hp": 598,
-      "engineType": "v8-hybrid"
+      "engineType": "v8-hybrid",
+      "note": "Представительский минивэн (не лимузин/седан-вариант Senat) со сдвижными дверями, на той же модульной платформе ЕМП/Kortezh. Код \"L783\" не подтверждён независимым источником — оставлен без изменений, под вопросом."
     },
     {
       "id": "gaz-volga-c40",
@@ -21002,7 +21006,7 @@
       "segment": "flagship",
       "zone": "flagship_sed",
       "hp": 517,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Флагман BYD; Blade-батарея; первый премиум-конкурент Tesla Model S от BYD"
     },
     {
@@ -21018,7 +21022,7 @@
       "segment": "compact",
       "zone": "hatchback",
       "hp": 177,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "e-Platform 3.0; доступный электрохэтч; топ продаж в 2023"
     },
     {
@@ -21034,7 +21038,7 @@
       "segment": "compact_suv",
       "zone": "suv_compact",
       "hp": 204,
-      "engineType": "electric"
+      "engineType": "ev"
     },
     {
       "id": "byd-seal-ev",
@@ -21049,7 +21053,7 @@
       "segment": "exec",
       "zone": "exec_sed",
       "hp": 523,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "e-Platform 3.0; конкурент Tesla Model 3; AWD 3.8s 0-100"
     },
     {
@@ -21065,7 +21069,7 @@
       "segment": "mini",
       "zone": "hatchback",
       "hp": 74,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Самый доступный EV BYD; от $10k; хит продаж"
     },
     {
@@ -21119,23 +21123,6 @@
       "note": "CMA-платформа (совместно Volvo/Geely); флагманский SUV"
     },
     {
-      "id": "geely-monjaro-kx11",
-      "label": "Geely Monjaro",
-      "type": "generation",
-      "year": 2022,
-      "brandId": "geely",
-      "brandName": "Geely",
-      "codeName": "KX11 / Xingyue L",
-      "modelSlug": "geely-monjaro",
-      "bodyType": "suv",
-      "segment": "large_suv",
-      "zone": "suv_large",
-      "hp": 238,
-      "engineType": "i4t",
-      "engineCC": 2000,
-      "note": "CMA-платформа; конкурент VW Touareg; лауреат наград дизайна 2022"
-    },
-    {
       "id": "geely-galaxy-l7",
       "label": "Geely Galaxy L7",
       "type": "generation",
@@ -21164,7 +21151,7 @@
       "segment": "hypercar",
       "zone": "hypercar",
       "hp": 1360,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Нюрбургринг-рекорд 6:45.9 (2016) для EV; 4 мотора; ~$1.2M; 45 экз.",
       "a777TopSpeed": 313,
       "a777Accel": 2.7,
@@ -21184,7 +21171,7 @@
       "segment": "large_suv",
       "zone": "suv_large",
       "hp": 644,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Первый серийный автомобиль NIO; технология Battery Swap",
       "a777TopSpeed": 250,
       "a777Accel": 4.4,
@@ -21203,7 +21190,7 @@
       "segment": "flagship",
       "zone": "flagship_sed",
       "hp": 653,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Флагманский EV седан; 150кВт·ч NEMI-батарея; 1000+ km запас"
     },
     {
@@ -21219,7 +21206,7 @@
       "segment": "exec",
       "zone": "exec_sed",
       "hp": 489,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Конкурент Tesla Model 3; второй по продажам седан NIO"
     },
     {
@@ -21254,7 +21241,7 @@
       "hp": 238,
       "engineType": "i4t",
       "engineCC": 2000,
-      "note": "CMA-платформа; бестселлер D-SUV в Китае 2022–23"
+      "note": "CMA-платформа; бестселлер D-SUV в Китае 2022-23; на экспортных рынках продаётся как \"Geely Monjaro\" (конкурент VW Touareg, лауреат наград дизайна 2022) — тот же автомобиль, не отдельная модель."
     },
     {
       "id": "zeekr-001",
@@ -21269,7 +21256,7 @@
       "segment": "exec",
       "zone": "exec_sed",
       "hp": 544,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Geely EV-суббренд; SEA-платформа; 544 л.с., 0-100 за 3.8s; shooting brake"
     },
     {
@@ -21285,7 +21272,7 @@
       "segment": "luxury_mpv",
       "zone": "luxury",
       "hp": 544,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Люксовый электро-минивэн; SEA-платформа; конкурент Lexus LM"
     },
     {
@@ -21516,7 +21503,7 @@
       "segment": "exec",
       "zone": "exec_sed",
       "hp": 316,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Конкурент Tesla Model 3; XNGP автопилот; 706 km CLTC запас хода"
     },
     {
@@ -21532,7 +21519,7 @@
       "segment": "large_suv",
       "zone": "suv_large",
       "hp": 551,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "800V 480kW зарядка (5 мин = 200km); флагман Xpeng; AWD 3.9s"
     },
     {
@@ -21548,7 +21535,7 @@
       "segment": "luxury_mpv",
       "zone": "luxury",
       "hp": 551,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Электро-минивэн; 800V; конкурент Li MEGA; XNGP L3 автопилот"
     },
     {
@@ -22408,7 +22395,7 @@
       "brandName": "Lada",
       "codeName": "Granta Cross",
       "modelSlug": "lada-granta-cross",
-      "bodyType": "hatchback",
+      "bodyType": "suv",
       "segment": "compact_suv",
       "zone": "suv_compact",
       "hp": 106,
@@ -23999,7 +23986,7 @@
     },
     {
       "id": "peu-205",
-      "label": "205 (1983)",
+      "label": "205",
       "year": 1983,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24014,7 +24001,7 @@
     },
     {
       "id": "peu-205-gti",
-      "label": "205 GTI (1984)",
+      "label": "205 GTI 1.6",
       "year": 1984,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24024,12 +24011,12 @@
       "bodyType": "hatchback",
       "segment": "sports",
       "zone": "sports",
-      "hp": 130,
+      "hp": 105,
       "engineType": "i4"
     },
     {
       "id": "peu-206",
-      "label": "206 (1998)",
+      "label": "206",
       "year": 1998,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24044,7 +24031,7 @@
     },
     {
       "id": "peu-206-rc",
-      "label": "206 RC (2003)",
+      "label": "206 RC",
       "year": 2003,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24059,7 +24046,7 @@
     },
     {
       "id": "peu-306",
-      "label": "306 (1993)",
+      "label": "306",
       "year": 1993,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24074,7 +24061,7 @@
     },
     {
       "id": "peu-306-gti6",
-      "label": "306 GTi-6 (1996)",
+      "label": "306 GTi-6",
       "year": 1996,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24089,7 +24076,7 @@
     },
     {
       "id": "peu-307",
-      "label": "307 (2001)",
+      "label": "307",
       "year": 2001,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24104,7 +24091,7 @@
     },
     {
       "id": "peu-308-1",
-      "label": "308 I (2007)",
+      "label": "308 I",
       "year": 2007,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24119,7 +24106,7 @@
     },
     {
       "id": "peu-308-2",
-      "label": "308 II (2014)",
+      "label": "308 II",
       "year": 2014,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24134,7 +24121,7 @@
     },
     {
       "id": "peu-308-gti",
-      "label": "308 GTi 270 (2015)",
+      "label": "308 GTi 270",
       "year": 2015,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24149,7 +24136,7 @@
     },
     {
       "id": "peu-308-3",
-      "label": "308 III (2021)",
+      "label": "308 III",
       "year": 2021,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24164,7 +24151,7 @@
     },
     {
       "id": "peu-208-1",
-      "label": "208 I (2012)",
+      "label": "208 I",
       "year": 2012,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24179,7 +24166,7 @@
     },
     {
       "id": "peu-208-gti",
-      "label": "208 GTi (2013)",
+      "label": "208 GTi",
       "year": 2013,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24194,7 +24181,7 @@
     },
     {
       "id": "peu-208-2",
-      "label": "208 II (2019)",
+      "label": "208 II",
       "year": 2019,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24209,7 +24196,7 @@
     },
     {
       "id": "peu-e208",
-      "label": "e-208 (2019)",
+      "label": "e-208",
       "year": 2019,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24224,7 +24211,7 @@
     },
     {
       "id": "peu-rcz",
-      "label": "RCZ (2010)",
+      "label": "RCZ",
       "year": 2010,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24239,7 +24226,7 @@
     },
     {
       "id": "peu-rcz-r",
-      "label": "RCZ R (2013)",
+      "label": "RCZ R",
       "year": 2013,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24254,7 +24241,7 @@
     },
     {
       "id": "peu-3008-1",
-      "label": "3008 I (2009)",
+      "label": "3008 I",
       "year": 2009,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24269,7 +24256,7 @@
     },
     {
       "id": "peu-3008-2",
-      "label": "3008 II (2016)",
+      "label": "3008 II",
       "year": 2016,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24284,7 +24271,7 @@
     },
     {
       "id": "peu-e3008",
-      "label": "e-3008 (2024)",
+      "label": "e-3008",
       "year": 2024,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24299,7 +24286,7 @@
     },
     {
       "id": "peu-5008-1",
-      "label": "5008 I (2009)",
+      "label": "5008 I",
       "year": 2009,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24314,7 +24301,7 @@
     },
     {
       "id": "peu-5008-2",
-      "label": "5008 II (2017)",
+      "label": "5008 II",
       "year": 2017,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24329,7 +24316,7 @@
     },
     {
       "id": "peu-508-1",
-      "label": "508 I (2011)",
+      "label": "508 I",
       "year": 2011,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24344,7 +24331,7 @@
     },
     {
       "id": "peu-508-2",
-      "label": "508 II (2018)",
+      "label": "508 II",
       "year": 2018,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -24359,7 +24346,7 @@
     },
     {
       "id": "ren-clio-1",
-      "label": "Clio I (1990)",
+      "label": "Clio I",
       "year": 1990,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24374,7 +24361,7 @@
     },
     {
       "id": "ren-clio-williams",
-      "label": "Clio Williams (1993)",
+      "label": "Clio Williams",
       "year": 1993,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24389,7 +24376,7 @@
     },
     {
       "id": "ren-clio-2",
-      "label": "Clio II (1998)",
+      "label": "Clio II",
       "year": 1998,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24404,7 +24391,7 @@
     },
     {
       "id": "ren-clio-3",
-      "label": "Clio III (2005)",
+      "label": "Clio III",
       "year": 2005,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24419,7 +24406,7 @@
     },
     {
       "id": "ren-clio-rs3",
-      "label": "Clio RS III 200 (2006)",
+      "label": "Clio RS III 197",
       "year": 2006,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24434,7 +24421,7 @@
     },
     {
       "id": "ren-clio-4",
-      "label": "Clio IV (2012)",
+      "label": "Clio IV",
       "year": 2012,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24449,7 +24436,7 @@
     },
     {
       "id": "ren-clio-5",
-      "label": "Clio V (2019)",
+      "label": "Clio V",
       "year": 2019,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24464,7 +24451,7 @@
     },
     {
       "id": "ren-megane-1",
-      "label": "Megane I (1995)",
+      "label": "Megane I",
       "year": 1995,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24479,7 +24466,7 @@
     },
     {
       "id": "ren-megane-2",
-      "label": "Megane II (2002)",
+      "label": "Megane II",
       "year": 2002,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24494,7 +24481,7 @@
     },
     {
       "id": "ren-megane-rs2",
-      "label": "Megane RS II 225 (2004)",
+      "label": "Megane RS II 225",
       "year": 2004,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24509,7 +24496,7 @@
     },
     {
       "id": "ren-megane-3",
-      "label": "Megane III (2009)",
+      "label": "Megane III",
       "year": 2009,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24524,7 +24511,7 @@
     },
     {
       "id": "ren-megane-rs3",
-      "label": "Megane RS III Trophy (2012)",
+      "label": "Megane RS III 265",
       "year": 2012,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24539,7 +24526,7 @@
     },
     {
       "id": "ren-megane-4",
-      "label": "Megane IV (2016)",
+      "label": "Megane IV",
       "year": 2016,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24554,7 +24541,7 @@
     },
     {
       "id": "ren-megane-rs4",
-      "label": "Megane RS Trophy-R (2019)",
+      "label": "Megane RS IV Trophy-R",
       "year": 2019,
       "brandId": "renault",
       "brandName": "Renault",
@@ -24569,7 +24556,7 @@
     },
     {
       "id": "alpine-a110-s",
-      "label": "Alpine A110 S (2019)",
+      "label": "Alpine A110 S",
       "year": 2019,
       "brandId": "alpine",
       "brandName": "Alpine",
@@ -25521,20 +25508,20 @@
       "type": "generation",
       "year": 2027,
       "brandId": "skoda",
-      "brandName": "Skoda",
+      "brandName": "Škoda",
       "codeName": "2027",
       "modelSlug": "skoda-peaq",
       "bodyType": "suv",
       "segment": "other",
       "zone": "suv_large",
-      "engineType": "i4t",
+      "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Skoda-Peaq-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Peaq-2027-thb.jpg",
       "description": "As the first Skoda model in the large SUV segment, the Peaq is also the biggest and most spacious SUV the brand has ever produced. With an overall length of 4,874 mm...",
       "sourceUrl": "https://www.netcarshow.com/skoda/2027-peaq/",
       "isLatest": true,
       "scrapedAt": "2026-07-01T09:22:51.440Z",
-      "hp": 320
+      "hp": 286
     },
     {
       "id": "ncs-mercedes-2027-vle",
@@ -27902,7 +27889,7 @@
     },
     {
       "id": "alpine-a110-1962",
-      "label": "Alpine A110 (1962)",
+      "label": "Alpine A110",
       "year": 1962,
       "brandId": "alpine",
       "brandName": "Alpine",
@@ -27917,8 +27904,8 @@
     },
     {
       "id": "alpine-a110-1600s",
-      "label": "Alpine A110 1600S (1968)",
-      "year": 1968,
+      "label": "Alpine A110 1600S",
+      "year": 1970,
       "brandId": "alpine",
       "brandName": "Alpine",
       "modelSlug": "alpine-a110-1600s",
@@ -27932,7 +27919,7 @@
     },
     {
       "id": "alpine-a310",
-      "label": "Alpine A310 (1971)",
+      "label": "Alpine A310",
       "year": 1971,
       "brandId": "alpine",
       "brandName": "Alpine",
@@ -27947,7 +27934,7 @@
     },
     {
       "id": "alpine-a610",
-      "label": "Alpine A610 Turbo (1991)",
+      "label": "Alpine A610 Turbo",
       "year": 1991,
       "brandId": "alpine",
       "brandName": "Alpine",
@@ -27962,7 +27949,7 @@
     },
     {
       "id": "alpine-a110-2017",
-      "label": "Alpine A110 (2017)",
+      "label": "Alpine A110",
       "year": 2017,
       "brandId": "alpine",
       "brandName": "Alpine",
@@ -27977,7 +27964,7 @@
     },
     {
       "id": "alpine-a110-r",
-      "label": "Alpine A110 R (2022)",
+      "label": "Alpine A110 R",
       "year": 2022,
       "brandId": "alpine",
       "brandName": "Alpine",
@@ -27993,7 +27980,7 @@
     },
     {
       "id": "alpine-a290",
-      "label": "Alpine A290 (2024)",
+      "label": "Alpine A290",
       "year": 2024,
       "brandId": "alpine",
       "brandName": "Alpine",
@@ -30827,7 +30814,7 @@
     },
     {
       "id": "citroen-2cv",
-      "label": "Citroën 2CV (1948)",
+      "label": "Citroën 2CV",
       "year": 1948,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30843,7 +30830,7 @@
     },
     {
       "id": "citroen-ds",
-      "label": "Citroën DS (1955)",
+      "label": "Citroën DS",
       "year": 1955,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30853,13 +30840,13 @@
       "bodyType": "sedan",
       "segment": "exec",
       "zone": "flagship_sed",
-      "hp": 109,
+      "hp": 75,
       "engineType": "i4",
-      "codeName": "DS 21 Pallas"
+      "codeName": "DS 19"
     },
     {
       "id": "citroen-gs",
-      "label": "Citroën GS (1970)",
+      "label": "Citroën GS",
       "year": 1970,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30874,7 +30861,7 @@
     },
     {
       "id": "citroen-cx",
-      "label": "Citroën CX (1974)",
+      "label": "Citroën CX",
       "year": 1974,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30890,7 +30877,7 @@
     },
     {
       "id": "citroen-bx",
-      "label": "Citroën BX (1982)",
+      "label": "Citroën BX",
       "year": 1982,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30900,13 +30887,13 @@
       "bodyType": "hatchback",
       "segment": "compact",
       "zone": "hatchback",
-      "hp": 125,
+      "hp": 160,
       "engineType": "i4",
       "codeName": "BX GTi 16V"
     },
     {
       "id": "citroen-ax",
-      "label": "Citroën AX (1986)",
+      "label": "Citroën AX",
       "year": 1986,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30922,7 +30909,7 @@
     },
     {
       "id": "citroen-xm",
-      "label": "Citroën XM (1989)",
+      "label": "Citroën XM",
       "year": 1989,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30938,7 +30925,7 @@
     },
     {
       "id": "citroen-xantia",
-      "label": "Citroën Xantia (1993)",
+      "label": "Citroën Xantia",
       "year": 1993,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30949,12 +30936,12 @@
       "segment": "compact",
       "zone": "hatchback",
       "hp": 167,
-      "engineType": "i4t",
-      "codeName": "Activa / V6"
+      "engineType": "i4",
+      "codeName": "Activa"
     },
     {
       "id": "citroen-saxo",
-      "label": "Citroën Saxo (1996)",
+      "label": "Citroën Saxo",
       "year": 1996,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30970,7 +30957,7 @@
     },
     {
       "id": "citroen-c5-x1",
-      "label": "Citroën C5 (2001)",
+      "label": "Citroën C5",
       "year": 2001,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -30985,7 +30972,7 @@
     },
     {
       "id": "citroen-c5-x2",
-      "label": "Citroën C5 Gen.2 (2008)",
+      "label": "Citroën C5 Gen.2",
       "year": 2008,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -31000,7 +30987,7 @@
     },
     {
       "id": "citroen-c3-1",
-      "label": "Citroën C3 (2002)",
+      "label": "Citroën C3",
       "year": 2002,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -31015,7 +31002,7 @@
     },
     {
       "id": "citroen-c4-1",
-      "label": "Citroën C4 (2004)",
+      "label": "Citroën C4",
       "year": 2004,
       "brandId": "citroen",
       "brandName": "Citroën",
@@ -31026,7 +31013,7 @@
       "segment": "compact",
       "zone": "hatchback",
       "hp": 180,
-      "engineType": "i4t",
+      "engineType": "i4",
       "codeName": "VTS"
     },
     {
@@ -31221,7 +31208,7 @@
     },
     {
       "id": "peugeot-106",
-      "label": "Peugeot 106 (1991)",
+      "label": "Peugeot 106",
       "year": 1991,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -31237,7 +31224,7 @@
     },
     {
       "id": "peugeot-407",
-      "label": "Peugeot 407 (2004)",
+      "label": "Peugeot 407",
       "year": 2004,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -32484,7 +32471,7 @@
     },
     {
       "id": "renault-r12",
-      "label": "Renault R12 (1969)",
+      "label": "Renault R12",
       "year": 1969,
       "brandId": "renault",
       "brandName": "Renault",
@@ -32500,7 +32487,7 @@
     },
     {
       "id": "renault-twingo-1",
-      "label": "Renault Twingo Gen.1 (1992)",
+      "label": "Renault Twingo Gen.1",
       "year": 1992,
       "brandId": "renault",
       "brandName": "Renault",
@@ -32516,7 +32503,7 @@
     },
     {
       "id": "renault-r5-1",
-      "label": "Renault R5 Gen.1 (1972)",
+      "label": "Renault R5 Gen.1",
       "year": 1972,
       "brandId": "renault",
       "brandName": "Renault",
@@ -32526,13 +32513,13 @@
       "bodyType": "hatchback",
       "segment": "subcompact",
       "zone": "hatchback",
-      "hp": 93,
-      "engineType": "i4t",
-      "codeName": "Turbo 2"
+      "hp": 64,
+      "engineType": "i4",
+      "codeName": "L / TL / GTL"
     },
     {
       "id": "peugeot-504",
-      "label": "Peugeot 504 (1968)",
+      "label": "Peugeot 504",
       "year": 1968,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -32544,11 +32531,11 @@
       "zone": "midsize_sed",
       "hp": 75,
       "engineType": "i4",
-      "codeName": "Ti / Coupé / Cabriolet"
+      "codeName": "GL / GR"
     },
     {
       "id": "peugeot-405",
-      "label": "Peugeot 405 (1987)",
+      "label": "Peugeot 405",
       "year": 1987,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -32559,12 +32546,12 @@
       "segment": "midsize",
       "zone": "midsize_sed",
       "hp": 160,
-      "engineType": "i4t",
-      "codeName": "Mi16 / T16 Pikes Peak"
+      "engineType": "i4",
+      "codeName": "Mi16"
     },
     {
       "id": "peugeot-406",
-      "label": "Peugeot 406 (1995)",
+      "label": "Peugeot 406",
       "year": 1995,
       "brandId": "peugeot",
       "brandName": "Peugeot",
@@ -32575,8 +32562,8 @@
       "segment": "midsize",
       "zone": "midsize_sed",
       "hp": 190,
-      "engineType": "i4t",
-      "codeName": "Coupé V6 / 406 Pack"
+      "engineType": "v6",
+      "codeName": "Coupé V6"
     },
     {
       "id": "byd-f3",
@@ -32639,7 +32626,7 @@
       "segment": "midsize",
       "zone": "suv_mid",
       "hp": 390,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "e-Platform 3.0 / CTB"
     },
     {
@@ -32655,7 +32642,7 @@
       "segment": "midsize",
       "zone": "suv_mid",
       "hp": 544,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "ES6 / 100kWh BPS"
     },
     {
@@ -32671,7 +32658,7 @@
       "segment": "midsize",
       "zone": "suv_mid",
       "hp": 483,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "EC6 Coupe SUV"
     },
     {
@@ -32687,7 +32674,7 @@
       "segment": "midsize",
       "zone": "estate",
       "hp": 489,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "ET5T / Touring"
     },
     {
@@ -32703,7 +32690,7 @@
       "segment": "compact",
       "zone": "midsize_sed",
       "hp": 196,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "P5 / SEPA2.0"
     },
     {
@@ -32719,7 +32706,7 @@
       "segment": "midsize",
       "zone": "suv_mid",
       "hp": 295,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "G6 / 800V SEPA2.0"
     },
     {
@@ -32735,7 +32722,7 @@
       "segment": "compact_suv",
       "zone": "suv_compact",
       "hp": 272,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "SEA-S / ME11"
     },
     {
@@ -32751,7 +32738,7 @@
       "segment": "exec",
       "zone": "exec_sed",
       "hp": 536,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "SEA-M / 800V"
     },
     {
@@ -33535,9 +33522,9 @@
       "modelSlug": "seres-sf5",
       "bodyType": "suv",
       "segment": "crossover",
-      "zone": "china_ev",
+      "zone": "suv_compact",
       "hp": 551,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "aito-m5",
@@ -33549,7 +33536,7 @@
       "modelSlug": "aito-m5",
       "bodyType": "suv",
       "segment": "crossover",
-      "zone": "china_ev",
+      "zone": "suv_compact",
       "hp": 365,
       "engineType": "PHEV"
     },
@@ -33563,7 +33550,7 @@
       "modelSlug": "aito-m7",
       "bodyType": "suv",
       "segment": "midsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 330,
       "engineType": "PHEV"
     },
@@ -33578,7 +33565,7 @@
       "modelSlug": "aito-m7",
       "bodyType": "suv",
       "segment": "midsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 380,
       "engineType": "PHEV"
     },
@@ -33592,7 +33579,7 @@
       "modelSlug": "aito-m9",
       "bodyType": "suv",
       "segment": "fullsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_large",
       "hp": 526,
       "engineType": "PHEV"
     },
@@ -33774,9 +33761,9 @@
       "modelSlug": "nio-el8",
       "bodyType": "suv",
       "segment": "fullsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_large",
       "hp": 653,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "nio-ec7",
@@ -33788,9 +33775,9 @@
       "modelSlug": "nio-ec7",
       "bodyType": "coupe_suv",
       "segment": "crossover",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 653,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "nio-et9",
@@ -33802,9 +33789,9 @@
       "modelSlug": "nio-et9",
       "bodyType": "sedan",
       "segment": "ultra_luxury",
-      "zone": "china_ev",
+      "zone": "flagship_sed",
       "hp": 900,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "nio-l60",
@@ -33816,9 +33803,9 @@
       "modelSlug": "nio-l60",
       "bodyType": "suv",
       "segment": "compact_suv",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 370,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "byd-sea-lion9",
@@ -33830,9 +33817,9 @@
       "modelSlug": "byd-sea-lion9",
       "bodyType": "suv",
       "segment": "fullsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_large",
       "hp": 579,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "byd-destroyer05",
@@ -33844,9 +33831,9 @@
       "modelSlug": "byd-destroyer05",
       "bodyType": "sedan",
       "segment": "compact",
-      "zone": "china_ev",
+      "zone": "midsize_sed",
       "hp": 397,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "byd-sea-hawk",
@@ -33858,24 +33845,25 @@
       "modelSlug": "byd-sea-hawk",
       "bodyType": "suv",
       "segment": "fullsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_large",
       "hp": 1200,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "xpeng-x9-2024",
       "label": "Xpeng X9",
       "type": "generation",
-      "year": 2024,
+      "year": 2025,
       "brandId": "xpeng",
       "brandName": "Xpeng",
       "codeName": "X9 2024",
       "modelSlug": "xpeng-x9",
       "bodyType": "mpv",
       "segment": "mpv",
-      "zone": "china_ev",
+      "zone": "luxury",
       "hp": 551,
-      "engineType": "BEV"
+      "engineType": "ev",
+      "note": "Рестайлинг апрель-2025 — 496 доработок (35% новых компонентов), 800V-архитектура, новый бампер/диски, старт продаж в Европе во 2П 2025г."
     },
     {
       "id": "xpeng-g9-2024",
@@ -33888,9 +33876,9 @@
       "modelSlug": "xpeng-g9",
       "bodyType": "suv",
       "segment": "midsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_large",
       "hp": 551,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "zeekr-mix",
@@ -33902,9 +33890,9 @@
       "modelSlug": "zeekr-mix",
       "bodyType": "mpv",
       "segment": "mpv",
-      "zone": "china_ev",
+      "zone": "luxury",
       "hp": 544,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "zeekr-7x",
@@ -33916,9 +33904,9 @@
       "modelSlug": "zeekr-7x",
       "bodyType": "suv",
       "segment": "midsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 475,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "dodge-viper-gen2-gts",
@@ -35281,7 +35269,7 @@
       "id": "citroen-traction",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "Traction Avant (1934)",
+      "label": "Traction Avant",
       "year": 1934,
       "hp": 56,
       "engineType": "gasoline",
@@ -35294,7 +35282,7 @@
       "id": "citroen-ami",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "Ami 6 (1961)",
+      "label": "Ami 6",
       "year": 1961,
       "hp": 22,
       "engineType": "gasoline",
@@ -35307,7 +35295,7 @@
       "id": "citroen-dyane",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "Dyane (1967)",
+      "label": "Dyane",
       "year": 1967,
       "hp": 28,
       "engineType": "gasoline",
@@ -35320,7 +35308,7 @@
       "id": "citroen-mehari",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "Mehari (1968)",
+      "label": "Mehari",
       "year": 1968,
       "hp": 28,
       "engineType": "gasoline",
@@ -35333,7 +35321,7 @@
       "id": "citroen-sm",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "SM (1970)",
+      "label": "SM",
       "year": 1970,
       "hp": 170,
       "engineType": "gasoline",
@@ -35346,7 +35334,7 @@
       "id": "citroen-visa",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "Visa (1978)",
+      "label": "Visa",
       "year": 1978,
       "hp": 65,
       "engineType": "gasoline",
@@ -35359,7 +35347,7 @@
       "id": "citroen-zx",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "ZX (1991)",
+      "label": "ZX",
       "year": 1991,
       "hp": 103,
       "engineType": "gasoline",
@@ -35372,7 +35360,7 @@
       "id": "citroen-xsara",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "Xsara (1997)",
+      "label": "Xsara",
       "year": 1997,
       "hp": 110,
       "engineType": "gasoline",
@@ -35385,7 +35373,7 @@
       "id": "citroen-berlingo",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "Berlingo (1996)",
+      "label": "Berlingo",
       "year": 1996,
       "hp": 75,
       "engineType": "gasoline",
@@ -35398,7 +35386,7 @@
       "id": "citroen-c1",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C1 (2005)",
+      "label": "C1",
       "year": 2005,
       "hp": 68,
       "engineType": "gasoline",
@@ -35411,7 +35399,7 @@
       "id": "citroen-c2",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C2 (2003)",
+      "label": "C2",
       "year": 2003,
       "hp": 109,
       "engineType": "gasoline",
@@ -35424,7 +35412,7 @@
       "id": "citroen-c6",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C6 (2005)",
+      "label": "C6",
       "year": 2005,
       "hp": 240,
       "engineType": "gasoline",
@@ -35437,7 +35425,7 @@
       "id": "citroen-c4-picasso",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C4 Picasso (2006)",
+      "label": "C4 Picasso",
       "year": 2006,
       "hp": 140,
       "engineType": "gasoline",
@@ -35450,7 +35438,7 @@
       "id": "citroen-c3-2",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C3 Gen.2 (2009)",
+      "label": "C3 Gen.2",
       "year": 2009,
       "hp": 120,
       "engineType": "gasoline",
@@ -35463,7 +35451,7 @@
       "id": "citroen-c3-3",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C3 Gen.3 (2016)",
+      "label": "C3 Gen.3",
       "year": 2016,
       "hp": 110,
       "engineType": "gasoline",
@@ -35476,7 +35464,7 @@
       "id": "citroen-c4-2",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C4 Gen.2 (2010)",
+      "label": "C4 Gen.2",
       "year": 2010,
       "hp": 155,
       "engineType": "gasoline",
@@ -35489,7 +35477,7 @@
       "id": "citroen-c4-cactus",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C4 Cactus (2014)",
+      "label": "C4 Cactus",
       "year": 2014,
       "hp": 110,
       "engineType": "gasoline",
@@ -35502,7 +35490,7 @@
       "id": "citroen-c3-aircross",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C3 Aircross (2017)",
+      "label": "C3 Aircross",
       "year": 2017,
       "hp": 130,
       "engineType": "gasoline",
@@ -35515,7 +35503,7 @@
       "id": "citroen-c5-aircross",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C5 Aircross (2017)",
+      "label": "C5 Aircross",
       "year": 2017,
       "hp": 225,
       "engineType": "hybrid",
@@ -35528,7 +35516,7 @@
       "id": "citroen-c4-3",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C4 Gen.3 (2020)",
+      "label": "C4 Gen.3",
       "year": 2020,
       "hp": 155,
       "engineType": "electric",
@@ -35541,7 +35529,7 @@
       "id": "citroen-c5-x",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "C5 X (2021)",
+      "label": "C5 X",
       "year": 2021,
       "hp": 225,
       "engineType": "hybrid",
@@ -35554,7 +35542,7 @@
       "id": "citroen-e-c3",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "ë-C3 (2024)",
+      "label": "ë-C3",
       "year": 2024,
       "hp": 113,
       "engineType": "electric",
@@ -35567,7 +35555,7 @@
       "id": "citroen-ds3",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "DS3 (2009)",
+      "label": "DS3",
       "year": 2009,
       "hp": 207,
       "engineType": "gasoline",
@@ -35580,7 +35568,7 @@
       "id": "citroen-ds4",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "DS4 (2011)",
+      "label": "DS4",
       "year": 2011,
       "hp": 200,
       "engineType": "gasoline",
@@ -35593,7 +35581,7 @@
       "id": "citroen-ds5",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "DS5 (2012)",
+      "label": "DS5",
       "year": 2012,
       "hp": 210,
       "engineType": "hybrid",
@@ -35609,11 +35597,12 @@
       "label": "Mini Mk2 (1967)",
       "year": 1967,
       "hp": 38,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Revised Mini with slightly larger rear window, wider grille, Hydrolastic suspension option. 411K units.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "mini-cooper-orig",
@@ -35622,11 +35611,12 @@
       "label": "Mini Cooper (1961)",
       "year": 1961,
       "hp": 55,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "John Cooper's performance Mini. 997cc → 1071cc. Won Monte Carlo Rally 1964, 1965, 1967.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "mini-cabrio-r52",
@@ -35635,11 +35625,12 @@
       "label": "Mini Cabrio R52 (2004)",
       "year": 2004,
       "hp": 115,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "cabrio",
       "type": "production",
       "description": "First BMW MINI convertible. Cloth soft-top. R52 platform shared with R50. 1.6L One/Cooper/Cooper S.",
-      "zone": "open_top"
+      "zone": "open_top",
+      "bodyType": "convertible"
     },
     {
       "id": "mini-clubman-r55",
@@ -35648,11 +35639,12 @@
       "label": "Mini Clubman R55 (2007)",
       "year": 2007,
       "hp": 175,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "wagon",
       "type": "production",
       "description": "Longer estate variant. Distinctive split \"barn doors\". R55 platform, 1.6L + JCW 211 HP option.",
-      "zone": "estate"
+      "zone": "estate",
+      "bodyType": "estate"
     },
     {
       "id": "mini-coupe-r58",
@@ -35661,11 +35653,12 @@
       "label": "Mini Coupé R58 (2011)",
       "year": 2011,
       "hp": 211,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "coupe",
       "type": "production",
       "description": "2-seat hard-top coupe. Swooping fastback roof. JCW 211 HP, Cooper S 184 HP. 30K units total.",
-      "zone": "gt_coupe"
+      "zone": "gt_coupe",
+      "bodyType": "coupe"
     },
     {
       "id": "mini-roadster-r59",
@@ -35674,11 +35667,12 @@
       "label": "Mini Roadster R59 (2012)",
       "year": 2012,
       "hp": 211,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "cabrio",
       "type": "production",
       "description": "2-seat open roadster. Retractable soft-top. JCW 211 HP. Last R-series body style. Limited production.",
-      "zone": "open_top"
+      "zone": "open_top",
+      "bodyType": "roadster"
     },
     {
       "id": "mini-paceman-r61",
@@ -35687,11 +35681,12 @@
       "label": "Mini Paceman R61 (2012)",
       "year": 2012,
       "hp": 218,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "suv",
       "type": "production",
       "description": "3-door Countryman coupé. JCW ALL4 218 HP AWD. Introduced upscale 3-door crossover concept. 2012–2016.",
-      "zone": "suv_compact"
+      "zone": "suv_compact",
+      "bodyType": "suv"
     },
     {
       "id": "mini-3door-f56",
@@ -35700,11 +35695,12 @@
       "label": "Mini 3-Door F56 (2013)",
       "year": 2013,
       "hp": 136,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "hatch",
       "type": "production",
       "description": "3rd gen BMW MINI. UKL1 platform (shared with BMW i3 and 2-series). 1.5L 3-cyl or 2.0L 4-cyl.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "mini-5door-f55",
@@ -35713,11 +35709,12 @@
       "label": "Mini 5-Door F55 (2014)",
       "year": 2014,
       "hp": 136,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "hatch",
       "type": "production",
       "description": "5-door hatch on F56 platform. Larger rear doors, practical family MINI. 1.5L Cooper 136 HP.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "mini-cabrio-f57",
@@ -35726,11 +35723,12 @@
       "label": "Mini Cabrio F57 (2015)",
       "year": 2015,
       "hp": 136,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "cabrio",
       "type": "production",
       "description": "3rd gen convertible. Electric folding soft-top. F56 platform, 1.5L/2.0L. 40% stiffer than R57.",
-      "zone": "open_top"
+      "zone": "open_top",
+      "bodyType": "convertible"
     },
     {
       "id": "mini-clubman-f54",
@@ -35739,11 +35737,12 @@
       "label": "Mini Clubman F54 (2015)",
       "year": 2015,
       "hp": 231,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "wagon",
       "type": "production",
       "description": "2nd gen Clubman. Much larger (+270mm). 4 side doors + 2 split rear. ALL4 AWD option 231 HP.",
-      "zone": "estate"
+      "zone": "estate",
+      "bodyType": "estate"
     },
     {
       "id": "mini-countryman-f60",
@@ -35752,11 +35751,12 @@
       "label": "Mini Countryman F60 (2017)",
       "year": 2017,
       "hp": 224,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "suv",
       "type": "production",
       "description": "2nd gen Countryman on UKL2. PHEV Cooper S E 224 HP. Plug-in hybrid first for MINI. Larger than R60.",
-      "zone": "suv_compact"
+      "zone": "suv_compact",
+      "bodyType": "suv"
     },
     {
       "id": "mini-jcw-f56",
@@ -35765,11 +35765,12 @@
       "label": "Mini JCW F56 (2015)",
       "year": 2015,
       "hp": 231,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "hatch",
       "type": "production",
       "description": "F56 gen JCW. 2.0L TwinPower Turbo, 231 HP. 0-60 in 6.3s. Brembo brakes, Aerodynamic Kit.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "mini-cooper-j01",
@@ -35778,11 +35779,12 @@
       "label": "Mini Cooper EV J01 (2024)",
       "year": 2024,
       "hp": 218,
-      "engineType": "electric",
+      "engineType": "ev",
       "category": "hatch",
       "type": "production",
       "description": "4th gen pure EV Mini. NEW platform, 218 HP / 295 HP John Cooper Works. 402 km range. 3-door only.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "saturn-sl",
@@ -36051,11 +36053,12 @@
       "label": "Smart Fortwo Gen.2 (2007)",
       "year": 2007,
       "hp": 84,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "city",
       "type": "production",
       "description": "W451. Wider, slightly longer Fortwo. 1.0L turbo Brabus 98 HP top. Softtop and Cabriolet versions. Improved ride.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "microcar"
     },
     {
       "id": "smart-roadster",
@@ -36064,11 +36067,12 @@
       "label": "Smart Roadster (2003)",
       "year": 2003,
       "hp": 82,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "cabrio",
       "type": "production",
       "description": "Open 2-seat roadster on Fortwo M160 0.7L turbo. Tridion cell structure. Coupe/Roadster variants. Cult following.",
-      "zone": "open_top"
+      "zone": "open_top",
+      "bodyType": "roadster"
     },
     {
       "id": "smart-forfour-1",
@@ -36077,11 +36081,12 @@
       "label": "Smart Forfour Gen.1 (2004)",
       "year": 2004,
       "hp": 95,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "4-door compact on Mitsubishi Colt W454 platform. 1.1–1.5L. Smart's first attempt at practicality. 2004–2006.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "smart-forfour-2",
@@ -36090,11 +36095,12 @@
       "label": "Smart Forfour Gen.2 (2014)",
       "year": 2014,
       "hp": 90,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "hatch",
       "type": "production",
       "description": "Renault Twingo III platform (rear-engine). 0.9L turbo 90 HP. 4-seat Smart. Electric Fortwo/Forfour launched 2017.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "smart-1",
@@ -36103,11 +36109,12 @@
       "label": "Smart #1 (2022)",
       "year": 2022,
       "hp": 272,
-      "engineType": "electric",
+      "engineType": "ev",
       "category": "suv",
       "type": "production",
       "description": "EV compact SUV. Geely SEA platform. 272 HP RWD or 428 HP AWD. 440 km WLTP. Joint venture Geely/Mercedes.",
-      "zone": "suv_compact"
+      "zone": "suv_compact",
+      "bodyType": "suv"
     },
     {
       "id": "smart-3",
@@ -36116,11 +36123,12 @@
       "label": "Smart #3 (2023)",
       "year": 2023,
       "hp": 272,
-      "engineType": "electric",
+      "engineType": "ev",
       "category": "suv",
       "type": "production",
       "description": "Coupe-SUV variant of #1. SEA platform, sloping fastback. BRABUS 428 HP. 455 km WLTP.",
-      "zone": "suv_compact"
+      "zone": "suv_compact",
+      "bodyType": "suv"
     },
     {
       "id": "dodge-copperhead",
@@ -37708,16 +37716,17 @@
       "modelSlug": "taitan-700",
       "type": "generation",
       "year": 2026,
-      "hp": 300,
-      "engineType": "PHEV",
-      "bodyType": "pickup",
+      "hp": 532,
+      "engineType": "erev",
+      "bodyType": "suv",
       "segment": "truck",
       "isFacelift": false,
       "isConcept": false,
       "isFuture": false,
       "imageUrl": null,
-      "zone": "cn",
-      "familyKey": "baic-taitan"
+      "zone": "offroad",
+      "familyKey": "baic-taitan",
+      "note": "Body-on-frame внедорожник (рама + несущий кузов), НЕ пикап. EREV: 1.5Т-генератор + 2 электромотора = 391кВт/532hp суммарно, CATL 49.4кВтч, чисто электрический запас 220км, общий — 1340км."
     },
     {
       "id": "ds-no7-2027",
@@ -37726,7 +37735,7 @@
       "brandName": "DS Automobiles",
       "modelSlug": "no7",
       "type": "generation",
-      "year": 2027,
+      "year": 2026,
       "hp": null,
       "engineType": "EV",
       "bodyType": "fastback",
@@ -37747,15 +37756,16 @@
       "type": "generation",
       "year": 2026,
       "hp": null,
-      "engineType": "EV",
-      "bodyType": "suv",
+      "engineType": "ev",
+      "bodyType": "hatchback",
       "segment": "compact-suv",
       "isFacelift": false,
       "isConcept": true,
       "isFuture": false,
       "imageUrl": null,
-      "zone": "cn",
-      "familyKey": "mg-go"
+      "zone": "hatchback",
+      "familyKey": "mg-go",
+      "note": "Концепт B-класса электрохэтчбека (Goodwood-2026), дизайн отсылает к MGB GT/Metro Turbo/ZR/EX4. Технические характеристики (батарея/мотор/запас хода) компания намеренно не раскрыла — серийная версия ожидается в 2027г."
     },
     {
       "id": "geely-galaxy-tt",
@@ -37765,16 +37775,17 @@
       "modelSlug": "galaxy-tt",
       "type": "generation",
       "year": 2027,
-      "hp": null,
-      "engineType": "EV",
+      "hp": 570,
+      "engineType": "ev",
       "bodyType": "coupe",
       "segment": "sport",
       "isFacelift": false,
       "isConcept": true,
       "isFuture": false,
       "imageUrl": null,
-      "zone": "cn",
-      "familyKey": "geely-galaxy"
+      "zone": "sports",
+      "familyKey": "geely-galaxy",
+      "note": "Электрокупе-седан, конкурент Xiaomi SU7/Zeekr 7GT/BYD Seal. 800V, 180кВт спереди + 245кВт сзади = 425кВт/570hp суммарно, 0-100 за 3.8с, LFP 75кВтч/650км CLTC."
     },
     {
       "id": "ncs-porsche-2027-911-gt3-s-c",
@@ -37939,7 +37950,7 @@
       "modelSlug": "volkswagen-id-cross",
       "bodyType": "crossover",
       "segment": "other",
-      "zone": "eu",
+      "zone": "suv_compact",
       "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.Cross-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.Cross-2027-thb.jpg",
@@ -37947,7 +37958,9 @@
       "sourceUrl": "https://www.netcarshow.com/volkswagen/2027-id.cross/",
       "isLatest": true,
       "scrapedAt": "2026-07-31T06:37:22.511Z",
-      "isFuture": true
+      "isFuture": true,
+      "hp": 208,
+      "note": "Младший электро-SUV на MEB+, альтернатива T-Cross (на 45мм длиннее). 3 версии: 85кВт/37кВтч (~317км), 99кВт/37кВтч (~306км), топ 155кВт/52кВтч (~427км, указан как hp)."
     },
     {
       "id": "ncs-lamborghini-2026-revuelto-impavido",
@@ -38256,12 +38269,12 @@
       "type": "generation",
       "year": 2006,
       "hp": 120,
-      "engineType": "ICE",
+      "engineType": "i4",
       "bodyType": "hatchback",
       "segment": "subcompact",
       "isFacelift": false,
       "isConcept": false,
-      "zone": "eu",
+      "zone": "hatchback",
       "familyKey": "mini-cooper",
       "a777TopSpeed": 221,
       "a777Accel": 6.7,
@@ -38279,12 +38292,12 @@
       "type": "generation",
       "year": 2006,
       "hp": 175,
-      "engineType": "ICE",
+      "engineType": "i4t",
       "bodyType": "hatchback",
       "segment": "subcompact",
       "isFacelift": false,
       "isConcept": false,
-      "zone": "eu",
+      "zone": "hatchback",
       "familyKey": "mini-cooper",
       "a777TopSpeed": 221,
       "a777Accel": 6.7,
@@ -38302,12 +38315,12 @@
       "type": "generation",
       "year": 2008,
       "hp": 211,
-      "engineType": "ICE",
+      "engineType": "i4t",
       "bodyType": "hatchback",
       "segment": "hot-hatch",
       "isFacelift": false,
       "isConcept": false,
-      "zone": "eu",
+      "zone": "hatchback",
       "familyKey": "mini-jcw"
     },
     {
@@ -39982,7 +39995,7 @@
       "thumbnailUrl": "https://www.netcarshow.com/R/Bugatti-Destrier-2026-thb.jpg"
     },
     {
-      "id": "ncs-volkswagen-2027-atlas-cross-sport",
+      "id": "vw-atlas-cross-sport-2",
       "label": "Volkswagen Atlas Cross Sport",
       "type": "generation",
       "year": 2027,
@@ -39993,10 +40006,11 @@
       "bodyType": "suv",
       "segment": "other",
       "zone": "suv_large",
-      "engineType": "v6",
+      "engineType": "i4t",
       "heroImageUrl": "https://www.netcarshow.com/Volkswagen-Atlas_Cross_Sport-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-Atlas_Cross_Sport-2027-thb.jpg",
-      "note": "2-рядная купе-версия VW Atlas — самой модели Atlas (база) в графе нет."
+      "note": "2-рядная купе-версия VW Atlas — самой модели Atlas (база) в графе нет.",
+      "hp": 282
     },
     {
       "id": "ncs-porsche-2026-911-turbo-s-land-down-under",
@@ -40170,7 +40184,7 @@
       "modelSlug": "seat-toledo",
       "bodyType": "sedan",
       "segment": "compact",
-      "zone": "compact_sed",
+      "zone": "midsize_sed",
       "hp": 90,
       "engineType": "i4",
       "note": "Первая полностью VW-Group-разработанная модель SEAT — платформа Golf Mk2/Passat."
@@ -40183,11 +40197,11 @@
       "year": 2012,
       "brandId": "seat",
       "brandName": "SEAT",
-      "codeName": "NH (MQB)",
+      "codeName": "NH (PQ25)",
       "modelSlug": "seat-toledo",
       "bodyType": "sedan",
       "segment": "compact",
-      "zone": "compact_sed",
+      "zone": "midsize_sed",
       "hp": 105,
       "engineType": "i4",
       "note": "Возрождение имени после 3-летнего перерыва (2009-2012); снят с производства в 2019-м окончательно."
@@ -40652,7 +40666,7 @@
       "brandId": "gac",
       "brandName": "GAC Motor",
       "modelSlug": "gac-m8",
-      "bodyType": "van",
+      "bodyType": "mpv",
       "segment": "mainstream",
       "zone": "suv_mid",
       "hp": 197,
@@ -40668,7 +40682,7 @@
       "brandId": "gac",
       "brandName": "GAC Motor",
       "modelSlug": "gac-m8",
-      "bodyType": "van",
+      "bodyType": "mpv",
       "segment": "mainstream",
       "zone": "suv_mid",
       "hp": 197,
@@ -40684,7 +40698,7 @@
       "brandId": "gac",
       "brandName": "GAC Motor",
       "modelSlug": "gac-e8",
-      "bodyType": "van",
+      "bodyType": "mpv",
       "segment": "mainstream",
       "zone": "suv_mid",
       "hp": 245,
@@ -41012,7 +41026,7 @@
       "modelSlug": "lucid-gravity",
       "bodyType": "suv",
       "segment": "suv_large",
-      "zone": "electric",
+      "zone": "suv_large",
       "hp": 1070,
       "engineType": "ev",
       "note": "Топ-трим линейки Gravity (Touring 560 -> Grand Touring 828 -> GT-S 1070 л.с.), объявлен авг.2026 на Monterey Car Week, $125,900, только США."
@@ -41022,17 +41036,17 @@
       "label": "Model Y L",
       "fullName": "Tesla Model Y L",
       "type": "generation",
-      "year": 2027,
+      "year": 2025,
       "brandId": "tesla",
       "brandName": "Tesla",
       "codeName": "Model Y L",
       "modelSlug": "tesla-model-y",
       "bodyType": "suv",
       "segment": "suv_mid",
-      "zone": "electric",
-      "hp": 500,
+      "zone": "suv_compact",
+      "hp": 456,
       "engineType": "ev",
-      "note": "Удлинённая (+150мм база) 6-местная версия Model Y на базе рефреша Juniper — сначала Китай (авг.2025), США с июля 2026 как MY2027, от $61,990. EPA 325 миль."
+      "note": "Удлинённая 6-местная версия для Китая, старт продаж — август 2025г (не 2027). 2 мотора AWD, 142кВт спереди + 198кВт сзади = 340кВт/456hp суммарно, 82кВтч LG, 751км CLTC."
     },
     {
       "id": "rivian-r1t-gen2",
@@ -41046,7 +41060,7 @@
       "modelSlug": "rivian-r1t",
       "bodyType": "pickup",
       "segment": "pickup",
-      "zone": "electric",
+      "zone": "pickup",
       "hp": 850,
       "engineType": "ev",
       "note": "Анонсировано июнь 2024, MY2025. Новые собственные моторы, полный редизайн платформы/электроники. Trimы: Dual 533-665 л.с., Tri-Motor 850 л.с. (топ на запуске), Quad-Motor 1025 л.с. добавлен MY2026."
@@ -41063,7 +41077,7 @@
       "modelSlug": "rivian-r1s",
       "bodyType": "suv",
       "segment": "suv_large",
-      "zone": "electric",
+      "zone": "suv_large",
       "hp": 850,
       "engineType": "ev",
       "note": "Тот же Gen.2 редизайн, что и R1T Gen.2 — новые моторы/платформа/электроника, MY2025."
@@ -41081,9 +41095,9 @@
       "bodyType": "suv",
       "segment": "offroad",
       "zone": "offroad",
-      "hp": 544,
-      "engineType": "phev",
-      "note": "Первый рамный хардкорный внедорожник у суббренда Trumpchi (не Aion). Показан май 2026, предзаказы с сент.2026. PHEV-система \"Xingyuan GMC 3.0\": 1.5T + электромоторы, суммарно до 400кВт (~544hp), 3 варианта батарей 28-46кВтч."
+      "hp": 536,
+      "engineType": "erev",
+      "note": "Первый хардкорный внедорожник Trumpchi (рама + подключаемый полный привод, тройная блокировка дифференциалов 100%). EREV-архитектура — 1.5Т работает ТОЛЬКО как генератор, колёса крутят 2 электромотора (536hp суммарно); чисто электрический запас хода 188км."
     },
     {
       "id": "geely-galaxy-zhanjian700",
@@ -41117,7 +41131,7 @@
       "zone": "midsize_sed",
       "hp": 254,
       "engineType": "phev",
-      "note": "Не то же самое, что Xingyue L (разные иероглифы 瑞/越 — скрапер перепутал транслитерацию). Новое поколение седана Xingrui, показан июль 2026, продажи с сент-дек.2026. Доступен 1.5T/2.0T ДВС и 1.5T PHEV."
+      "note": "Xingrui L PLUS — обновлённая версия Xingrui/Preface (та же линейка, экспортное имя Preface), добавлен PHEV-привод."
     },
     {
       "id": "am-vanquish-2024",
@@ -41219,16 +41233,17 @@
       "type": "generation",
       "year": 2027,
       "brandId": "skoda",
-      "brandName": "Skoda",
+      "brandName": "Škoda",
       "codeName": "2027",
       "modelSlug": "skoda-slavia",
       "bodyType": "sedan",
-      "segment": "other",
+      "segment": "compact",
       "zone": "midsize_sed",
       "engineType": "i4t",
       "heroImageUrl": "https://www.netcarshow.com/Skoda-Slavia-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Slavia-2027-thb.jpg",
-      "note": "Седан для развивающихся рынков (Индия и др.) — первое появление модели в графе."
+      "note": "Седан для развивающихся рынков (Индия и др.) — первое появление модели в графе.",
+      "hp": 150
     },
     {
       "id": "ncs-mercedes-2027-c-class-estate",
@@ -43613,7 +43628,7 @@
       "engineType": "ev"
     },
     {
-      "id": "ncs-volkswagen-2027-volkswagen-atlas-starts-at-53-795-in-can",
+      "id": "vw-atlas-2",
       "label": "Volkswagen Atlas II",
       "type": "generation",
       "year": 2027,
@@ -43630,8 +43645,9 @@
       "sourceUrl": "https://driving.ca/auto-news/news/2027-volkswagen-atlas-canadian-pricing-53795",
       "isLatest": true,
       "scrapedAt": "2026-08-19T20:04:01.038Z",
-      "engineType": "v6",
-      "note": "Канадский прайс-лист подтверждает: это все-новое 2-е поколение VW Atlas (3-рядный midsize SUV), от $53,795 CAD, старт продаж в дилерских центрах осенью 2026. bodyType/zone были ошибочно выставлены синком по умолчанию (coupe/midsize_sed) — 3-рядный SUV, не купе. Отдельной базовой ноды для Atlas Gen1 в графе нет — исторический пробел."
+      "engineType": "i4t",
+      "note": "2-е поколение, старт продаж — осень 2026 (MY2027). Платформа MQB Evo (впервые для Atlas — был отдельной крупной архитектурой), внешность сближена с Tiguan. Единственный мотор на старте — 2.0 TSI 282hp/8AT, FWD или 4Motion.",
+      "hp": 282
     },
     {
       "id": "ncs-audi-2027-q9",
@@ -63880,15 +63896,18 @@
       "brandName": "Volkswagen",
       "codeName": "2027",
       "modelSlug": "volkswagen-id-tiguan",
-      "bodyType": "coupe",
+      "bodyType": "suv",
       "segment": "other",
-      "zone": "midsize_sed",
+      "zone": "suv_mid",
       "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.Tiguan-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.Tiguan-2027-thb.jpg",
       "description": "Volkswagen has specifically incorporated customer requests into the development of the new ID.Tiguan, implementing countless enhancements and advanced technologies.",
       "sourceUrl": "https://www.netcarshow.com/volkswagen/2027-id.tiguan/",
       "isLatest": true,
-      "scrapedAt": "2026-10-09T11:18:53.774Z"
+      "scrapedAt": "2026-10-09T11:18:53.774Z",
+      "engineType": "ev",
+      "hp": 286,
+      "note": "Общее имя-преемник СРАЗУ для ID.4 и ID.5 (обе линейки сворачиваются под один нейминг) — платформа MEB+, до 600км запаса хода. 3 версии: 140кВт/~190hp (RWD), 210кВт/~286hp (RWD, указан), 220кВт суммарно/~299hp (4Motion AWD)."
     },
     {
       "id": "ncs-audi-2027-a6-allroad-uk",
@@ -64869,6 +64888,1103 @@
       "engineType": "v8",
       "isLimited": true,
       "note": "НЕ заводская модель — дилерский тюнинг-пакет от Randall Engineering (Меса, Аризона): в Gremlin X вместо 304 устанавливался флагманский 401 куб.дюйм (6.6 л) V8 от Javelin AMX (255 л.с. по методике SAE net, 1972 год), почти без доработок кузова. Название: '401' — объём мотора, 'X' — пакет Gremlin X, 'R' — Рэндалл (Randall). Построено всего ок. 21 экз. в 1972-74; AMC поставляла комплектующие дилеру, но от серийного производства отказалась из-за норм по выбросам/расходу. Источники: curbsideclassic.com 'Driveway Find: 1972 Gremlin 401-XR, Dealer Special With 6.6L Punch', jalopnik.com, autoevolution.com."
+    },
+    {
+      "id": "ncs-mercedes-2027-mercedes-amg-gle-53-hybrid",
+      "label": "2027 Mercedes-AMG GLE 53 Hybrid",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "mercedes",
+      "brandName": "Mercedes",
+      "codeName": "2027",
+      "modelSlug": "mercedes-mercedes-amg-gle-53-hybrid",
+      "bodyType": "suv",
+      "segment": "other",
+      "zone": "suv_mid",
+      "engineType": "ev",
+      "heroImageUrl": "https://hips.hearstapps.com/hmg-prod/images/5abfdb44-3cac-4d3a-99f6-90274c3da011.jpg",
+      "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/5abfdb44-3cac-4d3a-99f6-90274c3da011.jpg",
+      "description": "A plug-in hybrid powertrain, 45 miles of electric range and surprisingly smooth AMG tuning make this a very different kind of performance SUV.",
+      "sourceUrl": "https://www.autoweek.com/news/a74140122/2027-mercedes-amg-gle-53-hybrid-drive-review/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-16T02:04:01.526Z"
+    },
+    {
+      "id": "peu-205-gti-19",
+      "label": "205 GTI 1.9",
+      "fullName": "Peugeot 205 GTI 1.9",
+      "type": "generation",
+      "year": 1986,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "codeName": "1.9",
+      "modelSlug": "peugeot-205-gti-19",
+      "familyKey": "peu-205",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 130,
+      "engineType": "i4",
+      "note": "С дек.1986 рядом с 1.6 появилась версия 1.9Л — 130 л.с. (105 л.с. у 1.6 в 1984г.). Источник: evo.co.uk, autoexpress.co.uk buying guide 205 GTI."
+    },
+    {
+      "id": "peu-205-t16",
+      "label": "205 Turbo 16",
+      "fullName": "Peugeot 205 Turbo 16",
+      "type": "generation",
+      "year": 1984,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "codeName": "T16",
+      "modelSlug": "peugeot-205-turbo-16",
+      "familyKey": "peu-205",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 200,
+      "engineType": "i4t",
+      "isLimited": true,
+      "note": "Дорожная гомологационная версия для Group B — 200 штук, среднемоторный полный привод, 1.775Л турбо ~197-200 л.с. Источник: silodrome.com, supercarnostalgia.com."
+    },
+    {
+      "id": "peu-205-t16-evo2",
+      "label": "205 Turbo 16 Evolution 2",
+      "fullName": "Peugeot 205 Turbo 16 Evolution 2",
+      "type": "generation",
+      "year": 1986,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "codeName": "Evolution 2",
+      "modelSlug": "peugeot-205-t16-evo2",
+      "familyKey": "peu-205",
+      "bodyType": "hatchback",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 450,
+      "engineType": "i4t",
+      "isRacing": true,
+      "note": "Раллийная версия Group B — 450 л.с. (331кВт), новый турбо Garrett T31. Источник: automobile-catalog.com (331kW/450PS/444hp)."
+    },
+    {
+      "id": "peu-207",
+      "label": "207",
+      "fullName": "Peugeot 207",
+      "type": "generation",
+      "year": 2006,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "modelSlug": "peugeot-207",
+      "familyKey": "peu-206",
+      "bodyType": "hatchback",
+      "segment": "mainstream",
+      "zone": "hatchback",
+      "hp": 95,
+      "engineType": "i4",
+      "note": "Base-поколение между 206(1998) и 208(2012) — ранее полностью отсутствовало в графе (разрыв в цепочке суперминивэнов 205-206-207-208). Базовый мотор 1.4 VTi ~95 л.с."
+    },
+    {
+      "id": "peu-207-gti",
+      "label": "207 GTi",
+      "fullName": "Peugeot 207 GTi THP 175",
+      "type": "generation",
+      "year": 2007,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "codeName": "THP 175",
+      "modelSlug": "peugeot-207-gti",
+      "familyKey": "peu-206",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 175,
+      "engineType": "i4t",
+      "note": "1.6 THP (PSA-BMW Prince) турбо — 175 л.с. (150 л.с. у более ранней 207 1.6 THP не-GTi). Источник: parkers.co.uk, topgear.com."
+    },
+    {
+      "id": "peugeot-405-t16-pp",
+      "label": "405 T16 Pikes Peak",
+      "fullName": "Peugeot 405 Turbo 16 Pikes Peak",
+      "type": "generation",
+      "year": 1988,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "codeName": "T16 Pikes Peak",
+      "modelSlug": "peugeot-405-t16-pikes-peak",
+      "familyKey": "peugeot-405",
+      "bodyType": "coupe",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 600,
+      "engineType": "i4t",
+      "isRacing": true,
+      "note": "Чисто гоночный среднемоторный спецпроект Peugeot Talbot Sport для хиллклаймба Pikes Peak (победа Ари Ватанена 1988) и Париж-Дакар — НЕ Group B WRC (запрещена к 1987г.), ~600-660 л.с. по разным источникам. Источник: ultimatecarpage.com, hotcars.com."
+    },
+    {
+      "id": "peu-308-gti-250",
+      "label": "308 GTi 250",
+      "fullName": "Peugeot 308 GTi 250",
+      "type": "generation",
+      "year": 2015,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "codeName": "250",
+      "modelSlug": "peugeot-308-gti-250",
+      "familyKey": "peu-308",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 250,
+      "engineType": "i4t",
+      "note": "Младшая версия линейки 308 GTi (270 — старшая, уже есть в графе), оба 1.6 THP. Источник: autoevolution.com \"2015 Peugeot 308 GTi Confirmed, Will Have 250 or 270 HP\"."
+    },
+    {
+      "id": "peu-508-pse",
+      "label": "508 PSE",
+      "fullName": "Peugeot 508 Peugeot Sport Engineered",
+      "type": "generation",
+      "year": 2020,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "codeName": "PSE",
+      "modelSlug": "peugeot-508-pse",
+      "familyKey": "peu-508",
+      "bodyType": "sedan",
+      "segment": "exec",
+      "zone": "exec_sed",
+      "hp": 360,
+      "engineType": "i4h",
+      "note": "Первая и пока единственная модель под маркой PSE (Peugeot Sport Engineered) — гибрид 1.6 turbo + 2 электромотора, суммарно 360 л.с. (355hp), 0-100 за 5.2с. Источник: highmotor.com, autoevolution.com."
+    },
+    {
+      "id": "peu-308-hybrid225",
+      "label": "308 Hybrid 225",
+      "fullName": "Peugeot 308 Hybrid 225",
+      "type": "generation",
+      "year": 2021,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "codeName": "Hybrid 225",
+      "modelSlug": "peugeot-308-hybrid-225",
+      "familyKey": "peu-308",
+      "bodyType": "hatchback",
+      "segment": "mainstream",
+      "zone": "hatchback",
+      "hp": 222,
+      "engineType": "i4h",
+      "note": "ВАЖНО: заявленная в задании \"308 PSE\" НЕ существует — проект гибридной 308 PSE был officially отменён в сент.2021 (приоритет отдан электро e-308), PSE осталась эксклюзивом 508. Здесь добавлен реальный топ-гибрид 308 — Hybrid 225 (222 л.с.) как ближайший существующий аналог. Источник: largus.fr \"sans surprise, il n'y aura pas de sportive PSE\", autoevolution.com."
+    },
+    {
+      "id": "peugeot-107",
+      "label": "107",
+      "fullName": "Peugeot 107",
+      "type": "generation",
+      "year": 2005,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "modelSlug": "peugeot-107",
+      "familyKey": "peugeot-106",
+      "bodyType": "hatchback",
+      "segment": "subcompact",
+      "zone": "hatchback",
+      "hp": 67,
+      "engineType": "i4",
+      "note": "Городской хэтчбек-триплет на одной платформе с Toyota Aygo и Citroën C1 (1.0 VTi ~67-68hp). Реальный прямой преемник 106 (не 206 — см. исправление ребра e-peu-106-206). Отсутствовал в графе полностью. Источник: parkers.co.uk, wikipedia Peugeot 107."
+    },
+    {
+      "id": "peugeot-108",
+      "label": "108",
+      "fullName": "Peugeot 108",
+      "type": "generation",
+      "year": 2014,
+      "brandId": "peugeot",
+      "brandName": "Peugeot",
+      "modelSlug": "peugeot-108",
+      "familyKey": "peugeot-106",
+      "bodyType": "hatchback",
+      "segment": "subcompact",
+      "zone": "hatchback",
+      "hp": 82,
+      "engineType": "i4",
+      "note": "Преемник 107 в триплете с Toyota Aygo/Citroën C1 Gen.2. 1.2 PureTech топ-версия 82hp (база 1.0 VTi 68hp). Снята с производства в 2021г. без прямого преемника (нишу поглотила 208). Источник: ultimatespecs.com, autoevolution.com."
+    },
+    {
+      "id": "ren-clio-16v",
+      "label": "Clio 16V",
+      "fullName": "Renault Clio 16V",
+      "type": "generation",
+      "year": 1991,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "1.8 16V",
+      "modelSlug": "renault-clio-16v",
+      "familyKey": "ren-clio",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 135,
+      "engineType": "i4",
+      "note": "Первый по-настоящему спортивный Clio I, предшественник Williams (1993) — 1.8 16V, 135hp. Источник: evo.co.uk \"Renault Clio 16V (Mk1 1991-1995)\", auto-data.net."
+    },
+    {
+      "id": "ren-clio-rs172",
+      "label": "Clio RS 172",
+      "fullName": "Renault Clio II RS 172",
+      "type": "generation",
+      "year": 2000,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "172",
+      "modelSlug": "renault-clio-rs-172",
+      "familyKey": "ren-clio",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 172,
+      "engineType": "i4",
+      "note": "Полностью отсутствовавшее поколение Clio RS — между Williams(Clio I) и RS III 197(Clio III) в графе не было НИ ОДНОЙ ноды Clio II RS! F4R 2.0 16V, 172hp. Источник: Wikipedia Clio Renault Sport, fastestlaps.com."
+    },
+    {
+      "id": "ren-clio-rs182",
+      "label": "Clio RS 182",
+      "fullName": "Renault Clio II RS 182",
+      "type": "generation",
+      "year": 2004,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "182",
+      "modelSlug": "renault-clio-rs-182",
+      "familyKey": "ren-clio",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 182,
+      "engineType": "i4",
+      "note": "Рестайлинг-апгрейд RS172 в рамках того же Clio II, 2004-2005, 182hp. Источник: Wikipedia Clio Renault Sport."
+    },
+    {
+      "id": "ren-clio-v6-ph1",
+      "label": "Clio V6 Phase 1",
+      "fullName": "Renault Clio V6 Renault Sport Phase 1",
+      "type": "generation",
+      "year": 2001,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "Phase 1",
+      "modelSlug": "renault-clio-v6-ph1",
+      "familyKey": "ren-clio",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 230,
+      "engineType": "v6",
+      "isLimited": true,
+      "note": "Среднемоторный заднеприводный хот-хэтч на базе кузова Clio II — 2.9Л V6 (PSA L7X) в базе салона, продан в 1309 экз. (Phase1+2 суммарно 2822). 230hp, 0-100 за 6.7с. Источник: Wikipedia Renault Clio V6 RS, evo.co.uk."
+    },
+    {
+      "id": "ren-clio-v6-ph2",
+      "label": "Clio V6 Phase 2",
+      "fullName": "Renault Clio V6 Renault Sport Phase 2",
+      "type": "generation",
+      "year": 2003,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "Phase 2",
+      "modelSlug": "renault-clio-v6-ph2",
+      "familyKey": "ren-clio",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 255,
+      "engineType": "v6",
+      "isLimited": true,
+      "note": "Рестайлинг 2003г. — мощность поднята с 230 до 255hp, доработана подвеска/геометрия (убрали опасную избыточную поворачиваемость Phase1). Источник: rushmagazine.co.uk \"Clio V6 255 Review\"."
+    },
+    {
+      "id": "ren-clio-rs200cup",
+      "label": "Clio RS 200 Cup",
+      "fullName": "Renault Clio III RS 200 Cup",
+      "type": "generation",
+      "year": 2009,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "200 Cup",
+      "modelSlug": "renault-clio-rs-200-cup",
+      "familyKey": "ren-clio",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 200,
+      "engineType": "i4",
+      "note": "Рестайлинг-апгрейд Clio III RS 197→200 (Cup-шасси), 2009г. 2.0 16V NA. Источник: evo.co.uk \"evo car of the year 2009 - Renaultsport Clio 200 Cup\"."
+    },
+    {
+      "id": "ren-clio4-rs200",
+      "label": "Clio RS 200 Turbo EDC",
+      "fullName": "Renault Clio IV RS 200 Turbo EDC",
+      "type": "generation",
+      "year": 2013,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "200 Turbo EDC",
+      "modelSlug": "renault-clio-4-rs-200",
+      "familyKey": "ren-clio",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 200,
+      "engineType": "i4t",
+      "note": "Clio IV перешёл на даунсайзинг-турбо 1.6 (замена атмосферных 2.0 16V), только робот EDC (без МКПП). Ранее у Clio IV в графе не было НИ ОДНОЙ RS-ноды. Источник: ultimatespecs.com, autocar.co.uk."
+    },
+    {
+      "id": "ren-clio4-rs220trophy",
+      "label": "Clio RS 220 Trophy",
+      "fullName": "Renault Clio IV RS 220 Trophy",
+      "type": "generation",
+      "year": 2016,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "220 Trophy",
+      "modelSlug": "renault-clio-4-rs-220-trophy",
+      "familyKey": "ren-clio",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 220,
+      "engineType": "i4t",
+      "note": "+20hp к RS200 за счёт большего турбо и перепрошивки, 2016г. Источник: gtplanet.net \"First Drive Review: Renault Sport Clio 220 Trophy\"."
+    },
+    {
+      "id": "ren-megane-r26",
+      "label": "Megane RS R26",
+      "fullName": "Renault Megane II RS R26",
+      "type": "generation",
+      "year": 2006,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "F1 Team R26",
+      "modelSlug": "renault-megane-rs-r26",
+      "familyKey": "ren-megane",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 230,
+      "engineType": "i4t",
+      "note": "Рестайлинг-апгрейд RS225→230hp, назван в честь болида Renault F1 R26 (чемпион-2006). Источник: Wikipedia Renault Mégane RS, ultimatespecs.com."
+    },
+    {
+      "id": "ren-megane-r26r",
+      "label": "Megane RS R26.R",
+      "fullName": "Renault Megane II RS R26.R",
+      "type": "generation",
+      "year": 2008,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "R26.R",
+      "modelSlug": "renault-megane-rs-r26r",
+      "familyKey": "ren-megane",
+      "bodyType": "hatchback",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 230,
+      "engineType": "i4t",
+      "isLimited": true,
+      "note": "Облегчённая версия R26 для Нюрбургринга — 450 экземпляров, та же мощность 230hp, но без заднего сиденья/шумоизоляции. Предок концепции Trophy-R для след. поколений. Источник: Wikipedia Renault Mégane RS."
+    },
+    {
+      "id": "ren-megane-rs3-250",
+      "label": "Megane RS III 250",
+      "fullName": "Renault Megane III RS 250",
+      "type": "generation",
+      "year": 2009,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "250",
+      "modelSlug": "renault-megane-rs-250",
+      "familyKey": "ren-megane",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 250,
+      "engineType": "i4t",
+      "note": "Стартовая версия Megane III RS (2009) — ранее в графе был только 265 (2012), запуск линейки (250hp) отсутствовал. Источник: encycarpedia.com \"Megane RS 250 (2009-2012)\"."
+    },
+    {
+      "id": "ren-megane-rs3-275trophy",
+      "label": "Megane RS III 275 Trophy",
+      "fullName": "Renault Megane III RS 275 Trophy",
+      "type": "generation",
+      "year": 2014,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "275 Trophy",
+      "modelSlug": "renault-megane-rs-275-trophy",
+      "familyKey": "ren-megane",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 275,
+      "engineType": "i4t",
+      "note": "Лимитированная версия с Akrapovic/Öhlins, 275hp (271bhp). Источник: encycarpedia.com, fastestlaps.com."
+    },
+    {
+      "id": "ren-megane-rs3-275trophyr",
+      "label": "Megane RS III 275 Trophy-R",
+      "fullName": "Renault Megane III RS 275 Trophy-R",
+      "type": "generation",
+      "year": 2014,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "275 Trophy-R",
+      "modelSlug": "renault-megane-rs-275-trophy-r",
+      "familyKey": "ren-megane",
+      "bodyType": "hatchback",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 275,
+      "engineType": "i4t",
+      "isLimited": true,
+      "note": "ВАЖНО — это поколение III Trophy-R (2014, 250 экз., рекорд FWD Нюрбургринга 7:54.36), НЕ путать с совершенно другим поколением IV Trophy-R (2019, 300hp) — уже существующая нода ren-megane-rs4. Источник: motorauthority.com."
+    },
+    {
+      "id": "ren-megane-rs4-280",
+      "label": "Megane RS IV 280",
+      "fullName": "Renault Megane IV RS 280",
+      "type": "generation",
+      "year": 2018,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "280",
+      "modelSlug": "renault-megane-rs-280",
+      "familyKey": "ren-megane",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 280,
+      "engineType": "i4t",
+      "note": "Базовая версия IV поколения RS (1.8 turbo M4Rt) — ранее в графе Megane IV (mainstream, 130hp) соединялся сразу с Trophy-R(300hp) в обход базовой RS280. Источник: encycarpedia.com \"Megane RS 280 (2018-2020)\"."
+    },
+    {
+      "id": "ren-megane-rs4-trophy300",
+      "label": "Megane RS IV Trophy 300",
+      "fullName": "Renault Megane IV RS Trophy 300",
+      "type": "generation",
+      "year": 2018,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "Trophy 300",
+      "modelSlug": "renault-megane-rs-trophy-300",
+      "familyKey": "ren-megane",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 300,
+      "engineType": "i4t",
+      "note": "Trophy (не Trophy-R) — промежуточная ступень между RS280 и экстремальной Trophy-R, тот же 300hp мотор но без облегчения кузова. Источник: auto-data.net \"Renault Megane IV RS Trophy 1.8 (300 Hp)\"."
+    },
+    {
+      "id": "renault-r5-alpine-gordini",
+      "label": "R5 Alpine/Gordini",
+      "fullName": "Renault 5 Alpine (Gordini в Великобритании)",
+      "type": "generation",
+      "year": 1976,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "Alpine/Gordini",
+      "modelSlug": "renault-r5-alpine-gordini",
+      "familyKey": "renault-r5",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 93,
+      "engineType": "i4",
+      "note": "Тёплый хэтч-предшественник Turbo — атмосферный 1.4Л расточенный Cleon-Fonte, 93hp. Во Франции звался \"5 Alpine\" (конфликт с брендом Alpine), в Британии — \"5 Gordini\". НЕ путать с Turbo (другой слой, среднемоторный). Источник: ateupwithmotor.com."
+    },
+    {
+      "id": "renault-r5-turbo",
+      "label": "R5 Turbo",
+      "fullName": "Renault 5 Turbo",
+      "type": "generation",
+      "year": 1980,
+      "brandId": "renault",
+      "brandName": "Renault",
+      "codeName": "Turbo",
+      "modelSlug": "renault-r5-turbo",
+      "familyKey": "renault-r5",
+      "bodyType": "hatchback",
+      "segment": "sports",
+      "zone": "sports",
+      "hp": 160,
+      "engineType": "i4t",
+      "isLimited": true,
+      "note": "Среднемоторная заднеприводная гомологация Group B (кузов R5, но механика полностью иная) — 1.4Л турбо 160hp (158hp на 6000rpm), кузов из composite/алюминия. ВАЖНО: до этой правки нода-якорь renault-r5-1 ошибочно несла характеристики Turbo (codeName/engineType) при year=1972 — классический баг \"анкор=топ-трим\", как и просили перепроверить. Источник: ateupwithmotor.com \"Five by Five\", autoevolution.com."
+    },
+    {
+      "id": "citroen-ds21",
+      "label": "Citroën DS21",
+      "fullName": "Citroën DS21 Pallas",
+      "type": "generation",
+      "year": 1965,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "codeName": "DS21 Pallas",
+      "modelSlug": "citroen-ds21",
+      "familyKey": "citroen-ds",
+      "bodyType": "sedan",
+      "segment": "exec",
+      "zone": "flagship_sed",
+      "hp": 109,
+      "engineType": "i4",
+      "note": "Повышенно-мощная версия в рамках того же поколения DS (1955-1975) — вышла в 1965г. с мотором 2175см³, 106-109hp (DIN). Ранее эти характеристики ошибочно находились в самой базовой ноде citroen-ds (год 1955 — ещё до появления DS21!). Источник: conceptcarz.com 1965/1968 Citroen DS21."
+    },
+    {
+      "id": "citroen-visa-1000pistes",
+      "label": "Visa 1000 Pistes",
+      "fullName": "Citroën Visa 1000 Pistes",
+      "type": "generation",
+      "year": 1984,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "codeName": "1000 Pistes",
+      "modelSlug": "citroen-visa-1000-pistes",
+      "familyKey": "citroen-visa",
+      "bodyType": "hatchback",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 112,
+      "engineType": "i4",
+      "isLimited": true,
+      "note": "Первый полноприводный гомологационный Group B (XY8-based 1.36Л, 112hp дорожная версия; Evolution — до 145hp). Источник: passionnement-citroen.com, tech-racingcars.wikidot.com."
+    },
+    {
+      "id": "citroen-bx-4tc",
+      "label": "BX 4TC",
+      "fullName": "Citroën BX 4TC",
+      "type": "generation",
+      "year": 1986,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "codeName": "4TC",
+      "modelSlug": "citroen-bx-4tc",
+      "familyKey": "citroen-bx",
+      "bodyType": "sedan",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 200,
+      "engineType": "i4t",
+      "isLimited": true,
+      "note": "Неудачный Group B проект — турбо 2.14Л (Simca-Chrysler block) 200hp дорожная/~380hp гоночная версия, полный привод. Сошёл на Монте-Карло 1986, программа закрыта, большую часть ~200 авто Citroën выкупил и уничтожил. Источник: goodwood.com, Wikipedia Citroën BX 4TC."
+    },
+    {
+      "id": "citroen-xsara-kitcar",
+      "label": "Xsara Kit Car",
+      "fullName": "Citroën Xsara Kit Car",
+      "type": "generation",
+      "year": 1998,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "codeName": "F2 Kit Car",
+      "modelSlug": "citroen-xsara-kit-car",
+      "familyKey": "citroen-xsara",
+      "bodyType": "hatchback",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 280,
+      "engineType": "i4",
+      "isRacing": true,
+      "note": "Переднеприводный атмо Formula 2 Kit Car (до перехода на полноприводный WRC-регламент) — 2.0Л, 280hp, 2 победы в WRC в 1999г. Источник: Wikipedia Citroën Xsara Kit Car."
+    },
+    {
+      "id": "citroen-xsara-wrc",
+      "label": "Xsara WRC",
+      "fullName": "Citroën Xsara WRC",
+      "type": "generation",
+      "year": 2001,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "codeName": "WRC",
+      "modelSlug": "citroen-xsara-wrc",
+      "familyKey": "citroen-xsara",
+      "bodyType": "hatchback",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 315,
+      "engineType": "i4t",
+      "isRacing": true,
+      "note": "Полноприводный World Rally Car — турбо 2.0 XU7JP4, 315hp. 3 титула производителей подряд 2003-2005 (Лёб). Источник: Wikipedia Citroën Xsara WRC."
+    },
+    {
+      "id": "citroen-c4-wrc",
+      "label": "C4 WRC",
+      "fullName": "Citroën C4 WRC",
+      "type": "generation",
+      "year": 2007,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "codeName": "WRC",
+      "modelSlug": "citroen-c4-wrc",
+      "familyKey": "citroen-c4",
+      "bodyType": "hatchback",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 315,
+      "engineType": "i4t",
+      "isRacing": true,
+      "note": "Преемник Xsara WRC в чемпионате — тот же базовый турбо XU7JP4 2.0Л, 315hp. 4 титула пилотов подряд 2007-2010 (Лёб). Источник: Wikipedia Citroën C4 WRC, conceptcarz.com."
+    },
+    {
+      "id": "ds-3-crossback",
+      "label": "DS 3 Crossback",
+      "fullName": "DS 3 Crossback",
+      "type": "generation",
+      "year": 2019,
+      "brandId": "ds",
+      "brandName": "DS Automobiles",
+      "codeName": "PureTech 130",
+      "modelSlug": "ds-3-crossback",
+      "familyKey": "ds-3",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "zone": "suv_compact",
+      "hp": 131,
+      "engineType": "i4t",
+      "note": "Прямой преемник Citroën DS3 ПОСЛЕ выделения DS Automobiles в отдельный бренд (2014/2015) — первый по-настоящему новый продукт марки (не ребейдж), кроссовер-формат, 1.2 PureTech 130 (131hp) + версия E-Tense EV 136hp. Источник: motorauthority.com, parkers.co.uk."
+    },
+    {
+      "id": "ds-7-crossback",
+      "label": "DS 7 Crossback",
+      "fullName": "DS 7 Crossback",
+      "type": "generation",
+      "year": 2017,
+      "brandId": "ds",
+      "brandName": "DS Automobiles",
+      "codeName": "PureTech 225",
+      "modelSlug": "ds-7-crossback",
+      "familyKey": "ds-7",
+      "bodyType": "suv",
+      "segment": "luxury",
+      "zone": "suv_mid",
+      "hp": 225,
+      "engineType": "i4t",
+      "note": "Флагманский SUV бренда DS Automobiles — первая модель без исторического Citroën-предка под тем же именем, фактически приняла на себя роль флагмана после ухода DS5 с рынка. PureTech 225 (222hp), также E-Tense 4x4 PHEV 300hp. Источник: ultimatespecs.com, wikipedia DS 7."
+    },
+    {
+      "id": "ncs-mercedes-2028-mercedes-amg-gt-suv-one-ups",
+      "label": "2028 Mercedes-AMG GT SUV One-Ups",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "mercedes",
+      "brandName": "Mercedes",
+      "codeName": "2028",
+      "modelSlug": "mercedes-mercedes-amg-gt-suv-one-ups",
+      "bodyType": "suv",
+      "segment": "other",
+      "zone": "suv_mid",
+      "engineType": "ev",
+      "heroImageUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-amg-gt-suv-one-ups-the-porsche-cayenne-turbo-electric-with-1153-hp/intro-1792250544.jpg",
+      "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-amg-gt-suv-one-ups-the-porsche-cayenne-turbo-electric-with-1153-hp/intro-1792250544.jpg",
+      "description": "AMG&#39;s first standalone SUV is an EV powerhouse with all the same technology as its 4-Door Coupe sibling, plus even more interesting styling.",
+      "sourceUrl": "https://www.jalopnik.com/2289599/2028-mercedes-amg-gt-ev-suv-design-specs-details-revealed/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-17T20:04:01.868Z"
+    },
+    {
+      "id": "seat-toledo-mk2",
+      "label": "Toledo Mk2",
+      "fullName": "SEAT Toledo Mk2",
+      "type": "generation",
+      "year": 1998,
+      "brandId": "seat",
+      "brandName": "SEAT",
+      "codeName": "1M",
+      "modelSlug": "seat-toledo",
+      "bodyType": "sedan",
+      "segment": "compact",
+      "zone": "midsize_sed",
+      "hp": 125,
+      "engineType": "i4",
+      "note": "2-е поколение (Typ 1M, Париж-1998) — платформа Golf Mk4/PQ34 (VW Group A4), общая с León Mk1. Кузов — 4-дверный фастбек вместо хэтчбека Mk1. Флагманский бензин — 1.8 20V 125hp; также были 2.3 V5 и дизели 1.9 TDI до 110hp."
+    },
+    {
+      "id": "seat-toledo-mk3",
+      "label": "Toledo Mk3",
+      "fullName": "SEAT Toledo Mk3",
+      "type": "generation",
+      "year": 2004,
+      "brandId": "seat",
+      "brandName": "SEAT",
+      "codeName": "5P",
+      "modelSlug": "seat-toledo",
+      "bodyType": "sedan",
+      "segment": "compact",
+      "zone": "midsize_sed",
+      "hp": 170,
+      "engineType": "i4d",
+      "note": "3-е поколение (Typ 5P, Париж-2004), дизайн Вальтера де Сильва — платформа PQ35/\"A5\" (как Golf Mk5, Audi A3 8P, Octavia Mk2), кузов-гибрид седан/5-местный минивэн на базе Altea. Бензин 86-102 л.с. (1.4/1.6), дизели 105-170 л.с. — указано 170hp (2.0 TDI, топ-версия)."
+    },
+    {
+      "id": "skoda-fabia-2",
+      "label": "Škoda Fabia Mk2 (2007)",
+      "type": "generation",
+      "year": 2007,
+      "brandId": "skoda",
+      "brandName": "Škoda",
+      "modelSlug": "skoda-fabia-2",
+      "familyKey": "skoda-fabia",
+      "bodyType": "hatchback",
+      "segment": "city",
+      "zone": "hatchback",
+      "hp": 180,
+      "engineType": "i4t",
+      "note": "Женева-2007, платформа PQ24 (как и Mk1), более крупный кузов. Указана вершина линейки — vRS на уникальном 1.4 TSI \"twincharger\" (турбо+компрессор), 180hp, 0-100 за 7.3с. Продано 1.7 млн экз."
+    },
+    {
+      "id": "skoda-fabia-3",
+      "label": "Škoda Fabia Mk3 (2014)",
+      "type": "generation",
+      "year": 2014,
+      "brandId": "skoda",
+      "brandName": "Škoda",
+      "modelSlug": "skoda-fabia-3",
+      "familyKey": "skoda-fabia",
+      "bodyType": "hatchback",
+      "segment": "city",
+      "zone": "hatchback",
+      "hp": 110,
+      "engineType": "i4t",
+      "note": "Платформа PQ26 (гибрид PQ25+MQB). Единственное поколение Fabia БЕЗ версии vRS — Škoda официально отменила её из-за продаж <1% (на фоне успеха Octavia vRS); вместо этого косметический пакет \"Monte Carlo\" разошёлся тиражом 20 000 шт. при плане 3000. Топ-мотор — 1.2 TSI 110hp."
+    },
+    {
+      "id": "skoda-superb3",
+      "label": "Superb Mk3",
+      "fullName": "Škoda Superb Mk3",
+      "type": "generation",
+      "year": 2015,
+      "brandId": "skoda",
+      "brandName": "Škoda",
+      "codeName": "3V",
+      "modelSlug": "skoda-superb",
+      "bodyType": "sedan",
+      "segment": "executive",
+      "zone": "exec_sed",
+      "hp": 280,
+      "engineType": "i4t",
+      "note": "3-е поколение (Typ 3V) — первый Superb на модульной MQB (растянутая колёсная база). Диапазон бензин 1.4-2.0 TSI (125-280hp) и дизель 1.6-2.0 TDI (120-190hp); указан топ — 2.0 TSI 280hp 4×4. Фейслифт 2019г, выпуск до 2023/2025 (liftback допродавался дольше универсала)."
+    },
+    {
+      "id": "skoda-superb4",
+      "label": "Superb Mk4",
+      "fullName": "Škoda Superb Mk4",
+      "type": "generation",
+      "year": 2023,
+      "brandId": "skoda",
+      "brandName": "Škoda",
+      "modelSlug": "skoda-superb",
+      "bodyType": "sedan",
+      "segment": "executive",
+      "zone": "exec_sed",
+      "hp": 265,
+      "engineType": "i4t",
+      "note": "4-е (текущее) поколение, представлено в 2023г — удлинённая версия MQB Evo (как и Passat B9, выпускаются на одной линии). Топ-мотор ДВС — 2.0 TSI 265hp 4×4 (195кВт, EA888 evo4), 0-100 за 5.6с; есть и PHEV-версия."
+    },
+    {
+      "id": "skoda-oct-nx",
+      "label": "Octavia Mk4",
+      "fullName": "Škoda Octavia Mk4",
+      "type": "generation",
+      "year": 2019,
+      "brandId": "skoda",
+      "brandName": "Škoda",
+      "codeName": "A8",
+      "modelSlug": "skoda-octavia",
+      "bodyType": "hatchback",
+      "segment": "compact",
+      "zone": "hatchback",
+      "hp": 204,
+      "engineType": "i4t",
+      "note": "4-е (текущее) поколение (внутр. код A8/NX) — платформа MQB Evo, общая с Golf Mk8 и Audi A3. Диапазон 110-204hp (1.0/1.5 TSI, есть MHEV); указан топ ДВС без учёта vRS. Также есть PHEV iV и vRS-версии."
+    },
+    {
+      "id": "skoda-slavia-1",
+      "label": "Škoda Slavia (2022)",
+      "type": "generation",
+      "year": 2022,
+      "brandId": "skoda",
+      "brandName": "Škoda",
+      "modelSlug": "skoda-slavia",
+      "bodyType": "sedan",
+      "segment": "compact",
+      "zone": "midsize_sed",
+      "hp": 150,
+      "engineType": "i4t",
+      "note": "Дебют имени (возрождено из истории бренда) — компактный седан для Индии и ряда других рынков на платформе MQB-A0-IN, технический близнец VW Virtus. Топ-мотор 1.5 TSI EVO 150hp/DSG; базовый — 1.0 TSI 115hp. Узел-рестайлинг 2027г уже был в графе без этой базы."
+    },
+    {
+      "id": "mini-cabrio-r57",
+      "label": "Mini Cabrio R57 (2009)",
+      "type": "generation",
+      "year": 2009,
+      "brandId": "mini",
+      "brandName": "MINI",
+      "codeName": "R57",
+      "modelSlug": "mini-cabrio",
+      "bodyType": "convertible",
+      "segment": "mainstream",
+      "zone": "open_top",
+      "hp": 120,
+      "engineType": "i4",
+      "note": "Кабрио 2-го поколения (2009-2015) — от базовой 98hp до JCW 211hp (только 2009-10); указан Cooper 1.6 120hp. Единственный кабрио-кузов gen2, которого не было в графе (купе R58/родстер R59/Paceman R61/Countryman R60 уже были)."
+    },
+    {
+      "id": "mini-cooper-f66",
+      "label": "Mini Cooper F66 (2024)",
+      "type": "generation",
+      "year": 2024,
+      "brandId": "mini",
+      "brandName": "MINI",
+      "codeName": "F66",
+      "modelSlug": "mini-3door",
+      "bodyType": "hatchback",
+      "segment": "hot_hatch",
+      "zone": "hatchback",
+      "hp": 156,
+      "engineType": "i3t",
+      "note": "ДВС-версия текущего поколения — платформа FAAR (рестайлинг F56), выпускается НАРОЧНО внешне неотличимой от электрического J01, чтобы покупатель выбирал только тип привода. Cooper C (база) 156hp 1.5 турбо-3; Cooper S 204hp 2.0 турбо-4; JCW 231hp/7-ст. DCT (последний ДВС John Cooper Works). Указана база."
+    },
+    {
+      "id": "opel-kadett-b",
+      "label": "Kadett B (1965)",
+      "type": "generation",
+      "year": 1965,
+      "brandId": "opel",
+      "brandName": "Opel",
+      "modelSlug": "opel-kadett",
+      "bodyType": "sedan",
+      "segment": "compact",
+      "zone": "hatchback",
+      "hp": 75,
+      "engineType": "i4",
+      "note": "Полный диапазон моторов 993-1897см³, 44-102hp (указан средний характерный трим ~75hp, как у соседних C/D). Кузова — седан/фастбек/купе/универсал (хэтчбек появится только с поколением C). Платформа — донор для Manta A (1970) — ребро с неё раньше ошибочно шло от уже снятой с производства в 1965г Kadett A."
+    },
+    {
+      "id": "opel-astra-l",
+      "label": "Astra L (2021)",
+      "type": "generation",
+      "year": 2021,
+      "brandId": "opel",
+      "brandName": "Opel",
+      "codeName": "C02",
+      "modelSlug": "opel-astra",
+      "bodyType": "hatchback",
+      "segment": "compact",
+      "zone": "hatchback",
+      "hp": 180,
+      "engineType": "hybrid",
+      "note": "6-е (текущее) поколение — первая Astra на платформе EMP2 (Stellantis/PSA, НЕ CMP — та у меньшей Corsa F). Диапазон: 1.2 турбо-3 110hp, дизель 1.5 130hp, топ — PHEV 1.6 турбо 180hp (указан)."
+    },
+    {
+      "id": "opel-corsa-d",
+      "label": "Corsa D (2006)",
+      "type": "generation",
+      "year": 2006,
+      "brandId": "opel",
+      "brandName": "Opel",
+      "modelSlug": "opel-corsa",
+      "bodyType": "hatchback",
+      "segment": "compact",
+      "zone": "hatchback",
+      "hp": 150,
+      "engineType": "i4t",
+      "note": "Диапазон 59-207hp (топ — OPC 1.6 турбо 207hp); указан средний спортивный трим 1.6 турбо ~150hp."
+    },
+    {
+      "id": "opel-corsa-e",
+      "label": "Corsa E (2014)",
+      "type": "generation",
+      "year": 2014,
+      "brandId": "opel",
+      "brandName": "Opel",
+      "modelSlug": "opel-corsa",
+      "bodyType": "hatchback",
+      "segment": "compact",
+      "zone": "hatchback",
+      "hp": 115,
+      "engineType": "i3t",
+      "note": "Официально фейслифт D (та же платформа/поколение), а не новое поколение — добавлен новый мотор 1.0 турбо-3 (указан)."
+    },
+    {
+      "id": "opel-corsa-f",
+      "label": "Corsa F (2019)",
+      "type": "generation",
+      "year": 2019,
+      "brandId": "opel",
+      "brandName": "Opel",
+      "modelSlug": "opel-corsa",
+      "bodyType": "hatchback",
+      "segment": "compact",
+      "zone": "hatchback",
+      "hp": 136,
+      "engineType": "ev",
+      "note": "Текущее поколение — первое на платформе CMP (Stellantis), общей с Peugeot 208/DS3. Впервые есть полностью электрическая версия Corsa-e (указана: 136hp/50кВтч/330км WLTP) наравне с ДВС-линейкой."
+    },
+    {
+      "id": "tesla-model-x-plaid",
+      "label": "Tesla Model X Plaid (2021)",
+      "type": "generation",
+      "year": 2021,
+      "brandId": "tesla",
+      "brandName": "Tesla",
+      "modelSlug": "tesla-model-x",
+      "bodyType": "suv",
+      "segment": "suv_large",
+      "zone": "suv_large",
+      "hp": 1020,
+      "engineType": "ev",
+      "note": "Рестайлинг представлен ОДНОВРЕМЕННО с Model S Plaid (янв-2021, одна презентация) — новый салон/руль-штурвал, трёхмоторный Plaid (2 мотора сзади + 1 спереди), 0-96км/ч за 2.5с, 100кВтч/330 миль EPA."
+    },
+    {
+      "id": "mini-jcw-f66",
+      "label": "Mini JCW F66 (2024)",
+      "type": "generation",
+      "year": 2024,
+      "brandId": "mini",
+      "brandName": "MINI",
+      "codeName": "F66 JCW",
+      "modelSlug": "mini-3door",
+      "bodyType": "hatchback",
+      "segment": "hot_hatch",
+      "zone": "hatchback",
+      "hp": 231,
+      "engineType": "i4t",
+      "note": "Последний ДВС John Cooper Works — 2.0 турбо-4, 7-ст. DCT, 152мph. Электрический J01 JCW (252hp) быстрее по разгону, но ограничен 124mph."
+    },
+    {
+      "id": "uaz-simbir",
+      "label": "UAZ Simbir",
+      "type": "generation",
+      "year": 2000,
+      "brandId": "uaz",
+      "brandName": "UAZ",
+      "codeName": "UAZ-3162",
+      "modelSlug": "uaz-simbir",
+      "bodyType": "suv",
+      "segment": "suv_large",
+      "zone": "suv_large",
+      "hp": 128,
+      "engineType": "i4",
+      "note": "Удлинённая версия UAZ-3160 (1997) с мостами Spicer — рестайлинг кузова на той же раме/шасси линейки 469/31512, мотор ЗМЗ-409.10 2.7л/128лс. Официально заменена Patriot в 2005г как прямой преемник в модельном ряду."
+    },
+    {
+      "id": "moskvich-3",
+      "label": "Москвич 3",
+      "type": "generation",
+      "year": 2022,
+      "brandId": "moskvich",
+      "brandName": "Москвич",
+      "modelSlug": "moskvich-3",
+      "familyKey": "moskvich-3",
+      "bodyType": "suv",
+      "segment": "compact_suv",
+      "zone": "suv_compact",
+      "hp": 150,
+      "engineType": "i4t",
+      "note": "Ребейдж JAC Sehol X4 (экспортно — JAC JS4/Jiayue X4, КНР 2020). JAC не выделен отдельным брендом в графе — донор указан здесь, без кросс-брендового ребра. Производство — завод \"Москвич\" в Москве (бывшая площадка Renault), при поддержке КамАЗа; старт 23.11.2022."
+    },
+    {
+      "id": "moskvich-3e",
+      "label": "Москвич 3e",
+      "type": "generation",
+      "year": 2023,
+      "brandId": "moskvich",
+      "brandName": "Москвич",
+      "modelSlug": "moskvich-3",
+      "familyKey": "moskvich-3",
+      "bodyType": "suv",
+      "segment": "compact_suv",
+      "zone": "suv_compact",
+      "hp": 193,
+      "engineType": "ev",
+      "note": "Электроверсия на базе JAC Sehol E40X (тот же типоразмер кузова, что донор Москвич 3 — Sehol X4). 142кВт/340Нм, батарея 65.7кВтч, запас хода 410км (WLTP-подобный цикл), передний привод. Фигура \"~68лс\" из части источников — явный выброс/ошибка, отброшена, перепроверено по 5+ независимым дилерским сайтам."
+    },
+    {
+      "id": "moskvich-6",
+      "label": "Москвич 6",
+      "type": "generation",
+      "year": 2023,
+      "brandId": "moskvich",
+      "brandName": "Москвич",
+      "modelSlug": "moskvich-6",
+      "bodyType": "liftback",
+      "segment": "mainstream",
+      "zone": "midsize_sed",
+      "hp": 150,
+      "engineType": "i4t",
+      "note": "Ребейдж JAC Sehol A5 Plus (не JS6 — это сплав лифтбека Sehol A5 и \"оспортивленного\" Sehol Yao, донор представлен в КНР в 2021г). Кузов — лифтбек с поднимающейся дверью багажника, хотя в ОТТС ошибочно указан как \"5-дверный седан\". Представлен в апреле 2023г."
+    },
+    {
+      "id": "moskvich-8",
+      "label": "Москвич 8",
+      "type": "generation",
+      "year": 2024,
+      "brandId": "moskvich",
+      "brandName": "Москвич",
+      "modelSlug": "moskvich-8",
+      "bodyType": "suv",
+      "segment": "mid_suv",
+      "zone": "suv_mid",
+      "hp": 174,
+      "engineType": "i4t",
+      "note": "7-местный 3-рядный кроссовер, донор JAC Sehol X8 Plus (дебют в КНР в 2022г, там же мотор 184лс/300Нм). Для РФ-рынка тот же турбомотор 1.5л дефорсирован до 174лс(128кВт)/300Нм — указан РФ-спек. Только передний привод, полноприводной версии нет."
+    },
+    {
+      "id": "lada-2105",
+      "label": "ВАЗ-2105/2107",
+      "type": "generation",
+      "year": 1980,
+      "brandId": "lada",
+      "brandName": "Lada",
+      "codeName": "ВАЗ-2105",
+      "modelSlug": "lada-2105",
+      "bodyType": "sedan",
+      "segment": "compact",
+      "zone": "midsize_sed",
+      "hp": 75,
+      "engineType": "i4",
+      "note": "Рестайлинг \"классики\" (новая передняя/задняя оптика, торпедо) на платформе Fiat124/2101. 2105(1980) — замена базового 2101 (1.3-1.5л); 2107(1982) — замена 2103/2106 (изначально их же моторы 1.5/1.6л). Выпускались параллельно до 17.04.2012 (последний седан собран на ИжАвто). Полный диапазон модификаций 1.3-1.7л/64-90лс; указан распространённый трим 1.5-1.6л карбюратор ~75лс (экспортная \"Lada Riva\")."
+    },
+    {
+      "id": "lada-samara-2114",
+      "label": "Lada Samara-2 (ВАЗ-2113/2114/2115)",
+      "type": "generation",
+      "year": 1997,
+      "brandId": "lada",
+      "brandName": "Lada",
+      "codeName": "ВАЗ-2114",
+      "modelSlug": "lada-samara2",
+      "bodyType": "hatchback",
+      "segment": "compact",
+      "zone": "hatchback",
+      "hp": 81,
+      "engineType": "i4",
+      "note": "Глубокий рестайлинг 1-й Самары (новые бамперы/оптика/торпедо, тот же передний привод). Три кузова вышли на конвейер не одновременно: седан 2115 (опытная серия 1997, главный конвейер 2001, до дек.2012), 5-дв хэтчбек 2114 (2001, до дек.2013), 3-дв хэтчбек 2113 (2004-2013). Моторы: 1.5л/77лс (11183) и 1.6л 8-кл/81лс (21114/2116) до 2007г, позже 1.6л 16-кл/89лс (21124); указан самый массовый — 1.6л 8-кл."
+    },
+    {
+      "id": "ncs-skoda-2027-epiq",
+      "label": "Skoda Epiq",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "skoda",
+      "brandName": "Skoda",
+      "codeName": "2027",
+      "modelSlug": "skoda-epiq",
+      "bodyType": "coupe",
+      "segment": "other",
+      "zone": "midsize_sed",
+      "heroImageUrl": "https://www.netcarshow.com/Skoda-Epiq-2027-wallpaper.jpg",
+      "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Epiq-2027-thb.jpg",
+      "description": "Skoda Epiq is 4,171 mm long, 1,798 mm wide, and 1,581 mm high, with a wheelbase of 2,601 mm. It is available in six body colours, including Timiano Green...",
+      "sourceUrl": "https://www.netcarshow.com/skoda/2027-epiq/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-07T14:04:00.742Z"
     }
   ],
   "edges": [
@@ -66894,13 +68010,6 @@
       "target": "vw-passat-b1",
       "type": "shares_platform",
       "strength": 0.88
-    },
-    {
-      "id": "vwid-2",
-      "source": "vw-id3",
-      "target": "vw-id4",
-      "type": "influenced_by",
-      "strength": 0.7
     },
     {
       "id": "ms-a1",
@@ -70531,13 +71640,6 @@
       "strength": 0.85
     },
     {
-      "id": "sync-ev-skoda-oct3-ncs-skoda-2027-skoda-epiq",
-      "source": "skoda-oct3",
-      "target": "ncs-skoda-2027-skoda-epiq",
-      "type": "evolves_into",
-      "strength": 0.9
-    },
-    {
       "id": "au-s5-va1",
       "source": "audi-a5-8t",
       "target": "audi-s5-b8",
@@ -73107,21 +74209,21 @@
     },
     {
       "id": "lada-2103-evolves-2110",
-      "source": "lada-2103",
+      "source": "lada-2105",
       "target": "lada-2110",
       "type": "evolves_into",
       "strength": 0.78
     },
     {
       "id": "lada-samara-evolves-priora",
-      "source": "lada-samara-2108",
+      "source": "lada-2110",
       "target": "lada-priora",
       "type": "evolves_into",
       "strength": 0.75
     },
     {
       "id": "lada-samara-evolves-kalina",
-      "source": "lada-samara-2108",
+      "source": "lada-samara-2114",
       "target": "lada-kalina",
       "type": "evolves_into",
       "strength": 0.72
@@ -73135,7 +74237,7 @@
     },
     {
       "id": "lada-2110-evolves-vesta",
-      "source": "lada-2110",
+      "source": "lada-priora",
       "target": "lada-vesta",
       "type": "evolves_into",
       "strength": 0.76
@@ -73151,7 +74253,7 @@
       "id": "lada-niva-2121-evolves-travel",
       "source": "lada-niva-2121",
       "target": "lada-niva-travel",
-      "type": "evolves_into",
+      "type": "inspired_by",
       "strength": 0.8
     },
     {
@@ -73169,13 +74271,6 @@
       "strength": 0.9
     },
     {
-      "id": "uaz-hunter-influenced-patriot",
-      "source": "uaz-469",
-      "target": "uaz-patriot",
-      "type": "influenced_by",
-      "strength": 0.7
-    },
-    {
       "id": "uaz-patriot-facelift-fl",
       "source": "uaz-patriot",
       "target": "uaz-patriot-fl",
@@ -73185,8 +74280,8 @@
     {
       "id": "aurus-senat-variant-arsen",
       "source": "aurus-senat",
-      "target": "aurus-arsen",
-      "type": "variant_of",
+      "target": "aurus-arsenal",
+      "type": "derived_from",
       "strength": 0.88
     },
     {
@@ -73196,17 +74291,10 @@
       "type": "derived_from"
     },
     {
-      "id": "gaz-volga-m24-influenced-uaz-patriot",
-      "source": "gaz-volga-m24",
-      "target": "uaz-patriot",
-      "type": "inspired",
-      "strength": 0.4
-    },
-    {
       "id": "lada-niva-inspired-uaz-patriot",
       "source": "lada-niva-2121",
       "target": "uaz-patriot",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.55
     },
     {
@@ -73227,14 +74315,14 @@
       "id": "gaz-volga-c40-inspired-volga-k30",
       "source": "gaz-volga-c40",
       "target": "gaz-volga-k30",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.8
     },
     {
       "id": "gaz-volga-c40-inspired-volga-k40",
       "source": "gaz-volga-c40",
       "target": "gaz-volga-k40",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.8
     },
     {
@@ -73259,14 +74347,14 @@
       "id": "changan-cs35plus-evolves-cs55plus",
       "source": "changan-cs35-plus",
       "target": "changan-cs55-plus",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.7
     },
     {
       "id": "changan-cs55plus-evolves-cs75plus",
       "source": "changan-cs55-plus",
       "target": "changan-cs75-plus",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.65
     },
     {
@@ -73287,98 +74375,98 @@
       "id": "changan-cs55plus-inspired-oshan-x5plus",
       "source": "changan-cs55-plus",
       "target": "changan-oshan-x5-plus",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.65
     },
     {
       "id": "changan-uni-k-inspired-uni-z",
       "source": "changan-uni-k",
       "target": "changan-uni-z",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.75
     },
     {
       "id": "byd-tang-phev-inspired-han-ev",
       "source": "byd-tang-phev",
       "target": "byd-han-ev",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.7
     },
     {
       "id": "byd-han-ev-inspired-seal-ev",
       "source": "byd-han-ev",
       "target": "byd-seal-ev",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.75
     },
     {
       "id": "byd-dolphin-ev-evolves-seagull-ev",
       "source": "byd-dolphin-ev",
       "target": "byd-seagull-ev",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.65
     },
     {
       "id": "byd-atto3-inspired-seal-ev",
       "source": "byd-atto3-ev",
       "target": "byd-seal-ev",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
       "id": "geely-emgrand-ec7-inspired-atlas",
       "source": "geely-emgrand-ec7",
       "target": "geely-atlas-nl3",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.65
     },
     {
       "id": "geely-atlas-evolves-tugella",
       "source": "geely-atlas-nl3",
       "target": "geely-tugella-fx11",
-      "type": "evolves_into",
+      "type": "shares_platform",
       "strength": 0.75
     },
     {
       "id": "geely-tugella-inspired-monjaro",
       "source": "geely-tugella-fx11",
-      "target": "geely-monjaro-kx11",
-      "type": "evolves_into",
+      "target": "geely-xingyue-l",
+      "type": "shares_platform",
       "strength": 0.78
     },
     {
       "id": "geely-monjaro-inspired-galaxy-l7",
-      "source": "geely-monjaro-kx11",
+      "source": "geely-xingyue-l",
       "target": "geely-galaxy-l7",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.7
     },
     {
       "id": "geely-tugella-platform-lotus-eletre",
       "source": "geely-tugella-fx11",
       "target": "lotus-eletre",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.5
     },
     {
       "id": "nio-ep9-inspired-es8",
       "source": "nio-ep9",
       "target": "nio-es8",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.72
     },
     {
       "id": "nio-es8-inspired-et7",
       "source": "nio-es8",
       "target": "nio-et7",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.7
     },
     {
       "id": "nio-et7-inspired-et5",
       "source": "nio-et7",
       "target": "nio-et5",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.75
     },
     {
@@ -73391,8 +74479,8 @@
     {
       "id": "geely-preface-inspired-monjaro",
       "source": "geely-preface",
-      "target": "geely-monjaro-kx11",
-      "type": "inspired",
+      "target": "geely-xingyue-l",
+      "type": "inspired_by",
       "strength": 0.68
     },
     {
@@ -73403,31 +74491,24 @@
       "strength": 0.7
     },
     {
-      "id": "geely-monjaro-inspired-xingyue-l",
-      "source": "geely-monjaro-kx11",
-      "target": "geely-xingyue-l",
-      "type": "inspired",
-      "strength": 0.75
-    },
-    {
       "id": "geely-galaxy-inspired-zeekr-001",
       "source": "geely-galaxy-l7",
       "target": "zeekr-001",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.68
     },
     {
       "id": "zeekr-001-evolves-zeekr-009",
       "source": "zeekr-001",
       "target": "zeekr-009",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.72
     },
     {
       "id": "geely-tugella-inspired-lynk-co-01",
       "source": "geely-tugella-fx11",
       "target": "lynk-co-01",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.72
     },
     {
@@ -73441,7 +74522,7 @@
       "id": "lynk-co-08-inspired-zeekr-009",
       "source": "lynk-co-08",
       "target": "zeekr-009",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.62
     },
     {
@@ -73497,28 +74578,28 @@
       "id": "xpeng-p7-inspired-g9",
       "source": "xpeng-p7",
       "target": "xpeng-g9",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.65
     },
     {
       "id": "xpeng-g9-inspired-x9",
       "source": "xpeng-g9",
       "target": "xpeng-x9",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.68
     },
     {
       "id": "byd-tang-evolves-song-plus",
       "source": "byd-tang-phev",
       "target": "byd-song-plus-phev",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.72
     },
     {
       "id": "byd-tang-inspired-yangwang-u8",
       "source": "byd-tang-phev",
       "target": "byd-yangwang-u8",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.65
     },
     {
@@ -73819,7 +74900,7 @@
       "id": "gaz-m21-inspired-m22",
       "source": "gaz-volga-m21",
       "target": "gaz-volga-m22",
-      "type": "inspired",
+      "type": "variant_of",
       "strength": 0.9
     },
     {
@@ -73840,7 +74921,7 @@
       "id": "lada-granta-cross-inspired-xray",
       "source": "lada-granta-cross",
       "target": "lada-xray",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
@@ -74530,13 +75611,6 @@
       "strength": 0.85
     },
     {
-      "id": "e-peu-206-208",
-      "source": "peu-206",
-      "target": "peu-208-1",
-      "type": "inspired_by",
-      "strength": 0.5
-    },
-    {
       "id": "e-peu-208-1-gti",
       "source": "peu-208-1",
       "target": "peu-208-gti",
@@ -74663,25 +75737,11 @@
       "strength": 0.85
     },
     {
-      "id": "e-ren-meg3-rs3",
-      "source": "ren-megane-3",
-      "target": "ren-megane-rs3",
-      "type": "variant_of",
-      "strength": 0.9
-    },
-    {
       "id": "e-ren-meg3-4",
       "source": "ren-megane-3",
       "target": "ren-megane-4",
       "type": "evolves_into",
       "strength": 0.85
-    },
-    {
-      "id": "e-ren-meg4-rs4",
-      "source": "ren-megane-4",
-      "target": "ren-megane-rs4",
-      "type": "variant_of",
-      "strength": 0.9
     },
     {
       "id": "e-ren-w-rs2",
@@ -75373,7 +76433,7 @@
       "id": "e-tesla-m3-my",
       "source": "tesla-model-3-1",
       "target": "tesla-model-y-1",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.92
     },
     {
@@ -75401,7 +76461,7 @@
       "id": "e-riv-r1t-r1s",
       "source": "rivian-r1t",
       "target": "rivian-r1s",
-      "type": "inspired_by",
+      "type": "shares_platform",
       "strength": 0.92
     },
     {
@@ -76707,13 +77767,6 @@
       "strength": 0.9
     },
     {
-      "id": "e-op-ka-kc",
-      "source": "opel-kadett-a",
-      "target": "opel-kadett-c",
-      "type": "evolves_into",
-      "strength": 0.9
-    },
-    {
       "id": "e-op-kc-kd",
       "source": "opel-kadett-c",
       "target": "opel-kadett-d",
@@ -76820,7 +77873,7 @@
     },
     {
       "id": "e-op-ka-ma",
-      "source": "opel-kadett-a",
+      "source": "opel-kadett-b",
       "target": "opel-manta-a",
       "type": "derived_from",
       "strength": 0.85
@@ -77076,13 +78129,6 @@
       "target": "peugeot-106",
       "type": "inspired_by",
       "strength": 0.75
-    },
-    {
-      "id": "e-peu-106-206",
-      "source": "peugeot-106",
-      "target": "peu-206",
-      "type": "evolves_into",
-      "strength": 0.9
     },
     {
       "id": "e-peu-407-508",
@@ -77917,13 +78963,6 @@
       "strength": 0.95
     },
     {
-      "id": "e-cmfb-clio4-k13",
-      "source": "ren-clio-4",
-      "target": "nissan-micra-k13",
-      "type": "shares_platform",
-      "strength": 0.82
-    },
-    {
       "id": "e-cmfb-clio5-k14",
       "source": "ren-clio-5",
       "target": "nissan-micra-k14",
@@ -77936,13 +78975,6 @@
       "target": "nissan-micra-k14",
       "type": "evolves_into",
       "strength": 0.9
-    },
-    {
-      "id": "e-cmfc-meg3-qash",
-      "source": "ren-megane-3",
-      "target": "nissan-qashqai-j11",
-      "type": "shares_platform",
-      "strength": 0.85
     },
     {
       "id": "e-cmfc-meg4-qash",
@@ -78547,7 +79579,8 @@
       "id": "skoda-peaq-enyaq-der",
       "source": "skoda-enyaq",
       "target": "ncs-skoda-2027-peaq",
-      "type": "derived_from"
+      "type": "shares_platform",
+      "strength": 0.75
     },
     {
       "id": "bentley-exp10-conti4-ip",
@@ -79568,7 +80601,7 @@
       "id": "e-modely-juniper",
       "source": "tesla-model-y-1",
       "target": "tesla-model-y-juniper",
-      "type": "evolves_into",
+      "type": "facelifted_to",
       "strength": 0.95
     },
     {
@@ -81018,8 +82051,8 @@
       "id": "mini-se-j01",
       "source": "mini-cooper-se",
       "target": "mini-cooper-j01",
-      "type": "evolves_into",
-      "strength": 0.85
+      "type": "inspired_by",
+      "strength": 0.8
     },
     {
       "id": "vol-pv444-pv544",
@@ -81439,7 +82472,7 @@
       "id": "e-r5-1-etech",
       "source": "renault-r5-1",
       "target": "renault-r5-3-etech",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.85
     },
     {
@@ -81581,13 +82614,6 @@
       "target": "seat-ibiza-mk5",
       "type": "evolves_into",
       "strength": 0.85
-    },
-    {
-      "id": "e-toledo1-2012",
-      "source": "seat-toledo-mk1",
-      "target": "seat-toledo-2012",
-      "type": "inspired",
-      "strength": 0.6
     },
     {
       "id": "e-ateca-tarraco",
@@ -84125,8 +85151,8 @@
     },
     {
       "id": "vw-atlas-cross-sport-e1",
-      "source": "ncs-volkswagen-2027-volkswagen-atlas-starts-at-53-795-in-can",
-      "target": "ncs-volkswagen-2027-atlas-cross-sport",
+      "source": "vw-atlas-2",
+      "target": "vw-atlas-cross-sport-2",
       "type": "variant_of",
       "strength": 0.8
     },
@@ -88214,7 +89240,7 @@
     {
       "id": "vw-atlas-1-2",
       "source": "vw-atlas-1",
-      "target": "ncs-volkswagen-2027-volkswagen-atlas-starts-at-53-795-in-can",
+      "target": "vw-atlas-2",
       "type": "evolves_into",
       "strength": 0.9
     },
@@ -92968,6 +93994,581 @@
       "type": "inspired_by",
       "strength": 0.7,
       "note": "Dodge запустил Challenger в 1970 во многом как ответ на многолетний успех Barracuda у дилеров Plymouth (2-е поколение — с 1967). Направление связи исправлено относительно удалённого ребра e-barra2-chall: ранее граф утверждал 'Barracuda Gen.2 (1967) inspired_by Challenger (1970)', что хронологически невозможно — Challenger не существовал до 1970."
+    },
+    {
+      "id": "e-peu-205gti-19",
+      "source": "peu-205-gti",
+      "target": "peu-205-gti-19",
+      "type": "facelifted_to",
+      "strength": 0.85,
+      "note": "Тот же кузов/генерация 205 GTI, мотор 1.6→1.9Л (дек.1986)."
+    },
+    {
+      "id": "e-peu-205-t16",
+      "source": "peu-205",
+      "target": "peu-205-t16",
+      "type": "derived_from",
+      "strength": 0.75,
+      "note": "Гомологационный спецпроект Peugeot Talbot Sport на базе кузова 205 — радикально иная механика (среднемоторная 4WD)."
+    },
+    {
+      "id": "e-peu-205-t16-evo2",
+      "source": "peu-205-t16",
+      "target": "peu-205-t16-evo2",
+      "type": "derived_from",
+      "strength": 0.85,
+      "note": "Раллийная эволюция дорожной гомологации T16."
+    },
+    {
+      "id": "e-peu-206-207",
+      "source": "peu-206",
+      "target": "peu-207",
+      "type": "evolves_into",
+      "strength": 0.85,
+      "note": "Реальный преемник 206 в суперминивэн-линейке (заполняет разрыв 206→208)."
+    },
+    {
+      "id": "e-peu-207-208",
+      "source": "peu-207",
+      "target": "peu-208-1",
+      "type": "evolves_into",
+      "strength": 0.85,
+      "note": "207→208, восстанавливает непрерывную цепочку поколений."
+    },
+    {
+      "id": "e-peu-207-gti",
+      "source": "peu-207",
+      "target": "peu-207-gti",
+      "type": "variant_of",
+      "strength": 0.9,
+      "note": "Горячая версия THP 175 в рамках поколения 207."
+    },
+    {
+      "id": "e-peu-405-t16pp",
+      "source": "peugeot-405",
+      "target": "peugeot-405-t16-pp",
+      "type": "derived_from",
+      "strength": 0.7,
+      "note": "Чисто гоночный Pikes Peak/Дакар спецпроект на базе 405 — иная механика (среднемоторная)."
+    },
+    {
+      "id": "e-peu-308-2-gti250",
+      "source": "peu-308-2",
+      "target": "peu-308-gti-250",
+      "type": "variant_of",
+      "strength": 0.88,
+      "note": "Младшая версия 308 GTi (250hp) рядом с уже существующей 270hp."
+    },
+    {
+      "id": "e-peu-508-2-pse",
+      "source": "peu-508-2",
+      "target": "peu-508-pse",
+      "type": "variant_of",
+      "strength": 0.9,
+      "note": "Флагманская PSE-версия 508 II."
+    },
+    {
+      "id": "e-peu-308-3-hybrid225",
+      "source": "peu-308-3",
+      "target": "peu-308-hybrid225",
+      "type": "variant_of",
+      "strength": 0.85,
+      "note": "Топовый гибрид 308 III (замена несостоявшейся PSE)."
+    },
+    {
+      "id": "e-peu-106-107",
+      "source": "peugeot-106",
+      "target": "peugeot-107",
+      "type": "evolves_into",
+      "strength": 0.9,
+      "note": "Реальный преемник 106 в городской линейке A-сегмента (не 206 — другой сегмент/линейка)."
+    },
+    {
+      "id": "e-peu-107-108",
+      "source": "peugeot-107",
+      "target": "peugeot-108",
+      "type": "evolves_into",
+      "strength": 0.85,
+      "note": "107→108, тот же триплет-формат с Aygo/C1."
+    },
+    {
+      "id": "e-peu-107-c1",
+      "source": "peugeot-107",
+      "target": "citroen-c1",
+      "type": "shares_platform",
+      "strength": 0.9,
+      "note": "Классический PSA/Toyota трипл-платформенный альянс (Toyota Aygo/Peugeot 107/Citroën C1), оба запущены в 2005г. Нода Toyota Aygo в графе отсутствует — третье плечо триплета не удалось связать."
+    },
+    {
+      "id": "e-ren-clio1-16v",
+      "source": "ren-clio-1",
+      "target": "ren-clio-16v",
+      "type": "variant_of",
+      "strength": 0.88,
+      "note": "Первый спортивный Clio I (1991), параллельно с Williams(1993)."
+    },
+    {
+      "id": "e-ren-clio2-rs172",
+      "source": "ren-clio-2",
+      "target": "ren-clio-rs172",
+      "type": "variant_of",
+      "strength": 0.9,
+      "note": "Полностью отсутствовавшее поколение Clio RS (2000) — закрывает разрыв между Williams(Clio I) и RS III(Clio III)."
+    },
+    {
+      "id": "e-ren-clio-rs172-182",
+      "source": "ren-clio-rs172",
+      "target": "ren-clio-rs182",
+      "type": "facelifted_to",
+      "strength": 0.88,
+      "note": "Апгрейд мощности в рамках Clio II RS (172→182hp, 2004)."
+    },
+    {
+      "id": "e-ren-clio-rs182-rs3",
+      "source": "ren-clio-rs182",
+      "target": "ren-clio-rs3",
+      "type": "evolves_into",
+      "strength": 0.82,
+      "note": "Переход RS-линейки на новое поколение Clio III (182→197hp)."
+    },
+    {
+      "id": "e-ren-clio2-v6ph1",
+      "source": "ren-clio-2",
+      "target": "ren-clio-v6-ph1",
+      "type": "derived_from",
+      "strength": 0.75,
+      "note": "Среднемоторная заднеприводная переделка кузова Clio II — радикально иная механика, собиралась Tolix/Matra для Renault Sport."
+    },
+    {
+      "id": "e-ren-clio-v6ph1-ph2",
+      "source": "ren-clio-v6-ph1",
+      "target": "ren-clio-v6-ph2",
+      "type": "facelifted_to",
+      "strength": 0.85,
+      "note": "Рестайлинг 2003г., мощность 230→255hp, доработана подвеска."
+    },
+    {
+      "id": "e-ren-clio-rs3-200cup",
+      "source": "ren-clio-rs3",
+      "target": "ren-clio-rs200cup",
+      "type": "facelifted_to",
+      "strength": 0.85,
+      "note": "Рестайлинг Clio III RS, 197→200 Cup (2009)."
+    },
+    {
+      "id": "e-ren-clio4-rs200-variant",
+      "source": "ren-clio-4",
+      "target": "ren-clio4-rs200",
+      "type": "variant_of",
+      "strength": 0.9,
+      "note": "RS 200 Turbo EDC — топовый трим Clio IV (не продолжение RS-линии Clio III: прежнее ребро ошибочно хронологически цепляло RS 200 Cup Clio III к RS 200 Clio IV через evolves_into, из-за чего в дереве узел визуально занимал позицию целого поколения между Clio IV и Clio V, хотя прямой связи с базой Clio IV не было. Даунсайзинг атмо 2.0→турбо 1.6 — реальная смена мотора при переходе на новое поколение, но сам узел — трим Clio IV, а не отдельное звено цепи."
+    },
+    {
+      "id": "e-ren-clio4-rs200-220",
+      "source": "ren-clio4-rs200",
+      "target": "ren-clio4-rs220trophy",
+      "type": "facelifted_to",
+      "strength": 0.85,
+      "note": "Апгрейд турбины/прошивки в рамках Clio IV RS (200→220hp, 2016)."
+    },
+    {
+      "id": "e-ren-megrs2-r26",
+      "source": "ren-megane-rs2",
+      "target": "ren-megane-r26",
+      "type": "facelifted_to",
+      "strength": 0.85,
+      "note": "Апгрейд в честь чемпионского болида F1 R26 (225→230hp, 2006)."
+    },
+    {
+      "id": "e-ren-megr26-r26r",
+      "source": "ren-megane-r26",
+      "target": "ren-megane-r26r",
+      "type": "variant_of",
+      "strength": 0.88,
+      "note": "Облегчённая трек-версия R26 (450 экз., та же мощность)."
+    },
+    {
+      "id": "e-ren-meg3-rs250",
+      "source": "ren-megane-3",
+      "target": "ren-megane-rs3-250",
+      "type": "variant_of",
+      "strength": 0.9,
+      "note": "Стартовая версия Megane III RS (2009) — ранее отсутствовала, граф сразу вёл в 265(2012)."
+    },
+    {
+      "id": "e-ren-rs250-265",
+      "source": "ren-megane-rs3-250",
+      "target": "ren-megane-rs3",
+      "type": "facelifted_to",
+      "strength": 0.85,
+      "note": "Рестайлинг RS в рамках Megane III (250→265hp, 2012); нода ren-megane-rs3 переименована из ошибочного \"Trophy\" в верное \"265\"."
+    },
+    {
+      "id": "e-ren-rs265-275trophy",
+      "source": "ren-megane-rs3",
+      "target": "ren-megane-rs3-275trophy",
+      "type": "facelifted_to",
+      "strength": 0.85,
+      "note": "Лимитированный апгрейд 265→275 Trophy (2014)."
+    },
+    {
+      "id": "e-ren-275trophy-r",
+      "source": "ren-megane-rs3-275trophy",
+      "target": "ren-megane-rs3-275trophyr",
+      "type": "variant_of",
+      "strength": 0.88,
+      "note": "Облегчённая версия Trophy для рекорда Нюрбургринга (та же мощность 275hp)."
+    },
+    {
+      "id": "e-ren-meg4-rs280",
+      "source": "ren-megane-4",
+      "target": "ren-megane-rs4-280",
+      "type": "variant_of",
+      "strength": 0.9,
+      "note": "Базовая RS-версия Megane IV (2018) — ранее граф вёл сразу в Trophy-R(300hp), пропуская базовую RS280."
+    },
+    {
+      "id": "e-ren-rs280-trophy300",
+      "source": "ren-megane-rs4-280",
+      "target": "ren-megane-rs4-trophy300",
+      "type": "variant_of",
+      "strength": 0.85,
+      "note": "Версия Trophy (не Trophy-R) — промежуточная ступень, 300hp без облегчения кузова."
+    },
+    {
+      "id": "e-ren-trophy300-r",
+      "source": "ren-megane-rs4-trophy300",
+      "target": "ren-megane-rs4",
+      "type": "variant_of",
+      "strength": 0.88,
+      "note": "Экстремальная облегчённая Trophy-R (рекорд Нюрбургринга 7:40.1, 2019) — та же мощность 300hp, нода ren-megane-rs4 теперь явно названа Trophy-R."
+    },
+    {
+      "id": "e-r5-1-gordini",
+      "source": "renault-r5-1",
+      "target": "renault-r5-alpine-gordini",
+      "type": "variant_of",
+      "strength": 0.85,
+      "note": "Тёплая версия 1976г. в рамках того же поколения R5 (93hp)."
+    },
+    {
+      "id": "e-r5-1-turbo",
+      "source": "renault-r5-1",
+      "target": "renault-r5-turbo",
+      "type": "derived_from",
+      "strength": 0.75,
+      "note": "Радикальная переделка — среднемоторный заднеприводный Group B спецпроект на базе кузова R5, собирался в Alpine Dieppe."
+    },
+    {
+      "id": "e-dacia-sandero3-clio5",
+      "source": "dacia-sandero-3",
+      "target": "ren-clio-5",
+      "type": "shares_platform",
+      "strength": 0.88,
+      "note": "Прямые платформенные близнецы на CMF-B (оба 2019-2020) — ранее был только Logan III↔Clio V, Sandero (более близкий хэтчбек-аналог) не был связан."
+    },
+    {
+      "id": "e-cit-ds-ds21",
+      "source": "citroen-ds",
+      "target": "citroen-ds21",
+      "type": "facelifted_to",
+      "strength": 0.85,
+      "note": "Мотор-апгрейд в рамках одного поколения DS (1955-1975), DS21 вышла в 1965г."
+    },
+    {
+      "id": "e-cit-visa-1000p",
+      "source": "citroen-visa",
+      "target": "citroen-visa-1000pistes",
+      "type": "derived_from",
+      "strength": 0.75,
+      "note": "Полноприводный Group B гомологейшн на базе Visa — иная механика (4x4)."
+    },
+    {
+      "id": "e-cit-bx-4tc",
+      "source": "citroen-bx",
+      "target": "citroen-bx-4tc",
+      "type": "derived_from",
+      "strength": 0.75,
+      "note": "Турбо-4WD Group B спецпроект на базе BX."
+    },
+    {
+      "id": "e-cit-xsara-kitcar",
+      "source": "citroen-xsara",
+      "target": "citroen-xsara-kitcar",
+      "type": "derived_from",
+      "strength": 0.75,
+      "note": "Гоночный F2 Kit Car на базе дорожной Xsara."
+    },
+    {
+      "id": "e-cit-kitcar-wrc",
+      "source": "citroen-xsara-kitcar",
+      "target": "citroen-xsara-wrc",
+      "type": "evolves_into",
+      "strength": 0.82,
+      "note": "Переход регламента Kit Car→полноприводный World Rally Car (2001)."
+    },
+    {
+      "id": "e-cit-xsarawrc-c4wrc",
+      "source": "citroen-xsara-wrc",
+      "target": "citroen-c4-wrc",
+      "type": "evolves_into",
+      "strength": 0.8,
+      "note": "Преемственность заводской раллийной программы Citroën при смене базового авто (Xsara→C4, 2007)."
+    },
+    {
+      "id": "e-cit-ds3-ds3cb",
+      "source": "citroen-ds3",
+      "target": "ds-3-crossback",
+      "type": "derived_from",
+      "strength": 0.65,
+      "note": "Переход через спин-офф бренда DS Automobiles (2014/2015) — тот же модельный номер \"3\", но отдельный brandId \"ds\", новый кузов-кроссовер (2019)."
+    },
+    {
+      "id": "e-cit-ds5-ds7cb",
+      "source": "citroen-ds5",
+      "target": "ds-7-crossback",
+      "type": "inspired_by",
+      "strength": 0.55,
+      "note": "DS5 покинула рынок в 2015г., DS7(2017) фактически заняла место флагмана марки — слабая связь, НЕ прямая преемственность модели."
+    },
+    {
+      "id": "e-ds7cb-no7",
+      "source": "ds-7-crossback",
+      "target": "ds-no7-2027",
+      "type": "evolves_into",
+      "strength": 0.85,
+      "note": "Прямой преемник — DS N°7 (старт продаж 2026) заменяет DS 7 Crossback(2017) второй генерацией."
+    },
+    {
+      "id": "e-toledo-mk1-mk2",
+      "source": "seat-toledo-mk1",
+      "target": "seat-toledo-mk2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-toledo-mk2-mk3",
+      "source": "seat-toledo-mk2",
+      "target": "seat-toledo-mk3",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-toledo-mk3-2012",
+      "source": "seat-toledo-mk3",
+      "target": "seat-toledo-2012",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "e-golf4-toledomk2",
+      "source": "vw-golf4",
+      "target": "seat-toledo-mk2",
+      "type": "shares_platform",
+      "strength": 0.9
+    },
+    {
+      "id": "e-golf5-toledomk3",
+      "source": "vw-golf5",
+      "target": "seat-toledo-mk3",
+      "type": "shares_platform",
+      "strength": 0.9
+    },
+    {
+      "id": "e-fabia-mk1-mk2",
+      "source": "skoda-fabia-1",
+      "target": "skoda-fabia-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-fabia-mk2-mk3",
+      "source": "skoda-fabia-2",
+      "target": "skoda-fabia-3",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-fabia-mk3-mk4",
+      "source": "skoda-fabia-3",
+      "target": "skoda-fabia-4",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-superb-mk2-mk3",
+      "source": "skoda-superb2",
+      "target": "skoda-superb3",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-superb-mk3-mk4",
+      "source": "skoda-superb3",
+      "target": "skoda-superb4",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-oct3-octnx",
+      "source": "skoda-oct3",
+      "target": "skoda-oct-nx",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-slavia-1-fl2027",
+      "source": "skoda-slavia-1",
+      "target": "ncs-skoda-2027-slavia",
+      "type": "facelifted_to",
+      "strength": 0.9
+    },
+    {
+      "id": "e-id4-idtiguan",
+      "source": "vw-id4",
+      "target": "ncs-volkswagen-2027-id-tiguan",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "e-r56-r57cabrio",
+      "source": "mini-cooper-r56",
+      "target": "mini-cabrio-r57",
+      "type": "variant_of",
+      "strength": 0.85
+    },
+    {
+      "id": "e-f56-f66",
+      "source": "mini-3door-f56",
+      "target": "mini-cooper-f66",
+      "type": "evolves_into",
+      "strength": 0.88
+    },
+    {
+      "id": "e-op-ka-kb",
+      "source": "opel-kadett-a",
+      "target": "opel-kadett-b",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-op-kb-kc",
+      "source": "opel-kadett-b",
+      "target": "opel-kadett-c",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-op-astk-astl",
+      "source": "opel-astra-k",
+      "target": "opel-astra-l",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-op-cc-cd",
+      "source": "opel-corsa-c",
+      "target": "opel-corsa-d",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-op-cd-ce",
+      "source": "opel-corsa-d",
+      "target": "opel-corsa-e",
+      "type": "facelifted_to",
+      "strength": 0.92
+    },
+    {
+      "id": "e-op-ce-cf",
+      "source": "opel-corsa-e",
+      "target": "opel-corsa-f",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-mx-mxplaid",
+      "source": "tesla-model-x-1",
+      "target": "tesla-model-x-plaid",
+      "type": "facelifted_to",
+      "strength": 0.95
+    },
+    {
+      "id": "e-preface-xingruilplus",
+      "source": "geely-preface",
+      "target": "geely-xingrui-l-plus",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "e-f66-jcwf66",
+      "source": "mini-cooper-f66",
+      "target": "mini-jcw-f66",
+      "type": "variant_of",
+      "strength": 0.88
+    },
+    {
+      "id": "uaz-469-evolves-simbir",
+      "source": "uaz-469",
+      "target": "uaz-simbir",
+      "type": "evolves_into",
+      "strength": 0.75
+    },
+    {
+      "id": "uaz-simbir-evolves-patriot",
+      "source": "uaz-simbir",
+      "target": "uaz-patriot",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "azlk-2141-20-inspired-moskvich-3",
+      "source": "azlk-2141-20",
+      "target": "moskvich-3",
+      "type": "inspired_by",
+      "strength": 0.3
+    },
+    {
+      "id": "moskvich-3-variant-3e",
+      "source": "moskvich-3",
+      "target": "moskvich-3e",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "moskvich-3-inspired-6",
+      "source": "moskvich-3",
+      "target": "moskvich-6",
+      "type": "inspired_by",
+      "strength": 0.75
+    },
+    {
+      "id": "moskvich-3-inspired-8",
+      "source": "moskvich-3",
+      "target": "moskvich-8",
+      "type": "inspired_by",
+      "strength": 0.75
+    },
+    {
+      "id": "lada-2103-evolves-2105",
+      "source": "lada-2103",
+      "target": "lada-2105",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "lada-samara-evolves-samara2",
+      "source": "lada-samara-2108",
+      "target": "lada-samara-2114",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "lada-2101-shares-fiat124",
+      "source": "lada-2101",
+      "target": "fiat-124-spider-1966",
+      "type": "shares_platform",
+      "strength": 0.65
     }
   ]
 }

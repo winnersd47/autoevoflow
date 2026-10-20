@@ -666,6 +666,15 @@
   ],
   "latestCars": [
     {
+      "id": "cad-porsche-mission-s-2029",
+      "name": "2029 Porsche Mission S",
+      "year": 2029,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/882946eb-709b-43c0-8407-d43f44b7ef9e.jpg",
+      "pageUrl": "https://www.caranddriver.com/porsche/mission-s-2029",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-10-16T02:04:01.033Z"
+    },
+    {
       "id": "ncs-porsche-2027-cayenne_coupe_electric",
       "name": "Porsche Cayenne Coupe Electric",
       "year": 2027,
@@ -835,15 +844,6 @@
       "pageUrl": "https://www.netcarshow.com/porsche/2027-911_carrera_s_with_mt_package_us-version/",
       "description": "Porsche 911 Carrera S with MT Package prioritize the joy of driving over maximum acceleration while offering an even more powerful engine...",
       "scrapedAt": "2026-08-13T20:04:02.150Z"
-    },
-    {
-      "id": "cad-porsche-panamera-turbo-turbo-s-2027",
-      "name": "2027 Porsche Panamera Turbo E-Hybrid / Turbo S E-Hybrid",
-      "year": 2027,
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-panamera-turbo-s-e-hybrid-135-68e51e7fbbbe0.jpg",
-      "pageUrl": "https://www.caranddriver.com/porsche/panamera-turbo-turbo-s-2027",
-      "description": "Review, Pricing, and Specs",
-      "scrapedAt": "2026-08-17T20:04:01.106Z"
     }
   ]
 }

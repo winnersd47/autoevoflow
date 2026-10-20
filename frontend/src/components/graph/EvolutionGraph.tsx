@@ -752,6 +752,19 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
     const cy = cyRef.current
     if (!cy) return
 
+    // Живой найденный баг: страница /evolution передаёт height="full" (см. проп
+    // height?: number|'full'), а весь процентный расчёт оверлеев ниже (genRows/
+    // brandBands/zoneLabels/hpLines и т.д. — везде, где встречается "/ height *
+    // 100") делит именно на сырой height-проп. "full" / 100 даёт NaN, а
+    // NaN < 100 всегда false — из-за этого .filter(r => r.top < 100) в
+    // bldFkDepth() (и аналогичных билдерах) отсеивал ВСЕ строки целиком, и
+    // подписи поколений ("Основатели", "2-е пок." и т.д.) просто переставали
+    // рендериться — узлы/рёбра при этом рисуются нормально, т.к. у них своя,
+    // не завязанная на height, абсолютная пиксельная позиция через cytoscape.
+    // height здесь — ТОЛЬКО для этого процентного расчёта оверлеев; реальный
+    // CSS-размер контейнера (height==='full' → '100%') эта переменная не трогает.
+    const numH = containerRef.current?.clientHeight || (typeof height === 'number' ? height : 600)
+
     // ── Edge visibility per layout: show only contextually meaningful edges ─────
     const applyEdgeVisibility = (layoutKey: GraphLayoutType) => {
       cy.batch(() => {  // Single repaint for all edge changes
@@ -1036,8 +1049,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const buildEngineBands = (pY: number, z: number): void => {
         setEngineBands(engBandsVar.map(b => ({
           label: b.label, color: b.color,
-          top:    Math.max(0, (b.top * z + pY) / height * 100),
-          height: Math.max(0.3, b.height * z / height * 100),
+          top:    Math.max(0, (b.top * z + pY) / numH * 100),
+          height: Math.max(0.3, b.height * z / numH * 100),
         })))
       }
       // Вертикальные линии по бакетам мощности (л.с.)
@@ -1072,7 +1085,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
           const padded = pos.map(p => { const dx=p.x-cx, dy=p.y-cyy, d=Math.hypot(dx,dy)||1; return { x:p.x+dx/d*PAD, y:p.y+dy/d*PAD } })
           const hull = convexHull(padded)
           if (hull.length < 3) return null
-          const points = hull.map(p => `${(((p.x*z+pX)/cW)*100).toFixed(2)},${(((p.y*z+pY)/height)*100).toFixed(2)}`).join(' ')
+          const points = hull.map(p => `${(((p.x*z+pX)/cW)*100).toFixed(2)},${(((p.y*z+pY)/numH)*100).toFixed(2)}`).join(' ')
           return { color, points }
         }).filter(Boolean) as PlatHull[]
         setPlatformHulls(hulls)
@@ -1234,9 +1247,9 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const eModelH = curYE + 40
       const eFitPad = 40
       const eCEl = cy.container(); const eCW = eCEl ? eCEl.clientWidth : 1200
-      const eEstZ = Math.min((height - eFitPad*2)/eModelH, (eCW - eFitPad*2)/eModelW)
+      const eEstZ = Math.min((numH - eFitPad*2)/eModelH, (eCW - eFitPad*2)/eModelW)
       const eEstPX = (eCW - eModelW * eEstZ) / 2
-      const eEstPY = (height - eModelH * eEstZ) / 2
+      const eEstPY = (numH - eModelH * eEstZ) / 2
 
       const firstDecE = Math.ceil(eMinYear / 10) * 10
       const decListE: number[] = []
@@ -1255,8 +1268,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
           const r = brandRowRangeE[bid]; if (!r) return null
           return { brandId: bid, label: bid.charAt(0).toUpperCase() + bid.slice(1),
             color: BRAND_COLOR_E[bid] ?? '#ffffff',
-            left:  Math.max(0, (r.top  * z + pY) / height * 100),
-            width: Math.max(0.1, (r.bottom - r.top) * z / height * 100) }
+            left:  Math.max(0, (r.top  * z + pY) / numH * 100),
+            width: Math.max(0.1, (r.bottom - r.top) * z / numH * 100) }
         }).filter(Boolean) as BrandBand[]
 
       // Тики годов — на верхней оси (X)
@@ -1281,8 +1294,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
             gen: idx,
             label: famToLabel[famKey] ?? '',
             color, spanTop, spanHeight,
-            top:    Math.max(0, ((yC - FAM_W_E / 2) * z + pY) / height * 100),
-            height: Math.max(0.1, FAM_W_E * z / height * 100),
+            top:    Math.max(0, ((yC - FAM_W_E / 2) * z + pY) / numH * 100),
+            height: Math.max(0.1, FAM_W_E * z / numH * 100),
           }
         }).filter(c => c.top < 100)
 
@@ -1804,9 +1817,9 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const fkModelH = PAD_FK * 2 + (maxFkDepth + 1) * dynLevelH
       const fkFitPad = 50
       const fkCEl = cy.container(); const fkCW = fkCEl ? fkCEl.clientWidth : 1200
-      const fkEstZ = Math.min((height - fkFitPad*2)/fkModelH, (fkCW - fkFitPad*2)/fkModelW)
+      const fkEstZ = Math.min((numH - fkFitPad*2)/fkModelH, (fkCW - fkFitPad*2)/fkModelW)
       const fkEstPX = (fkCW - fkModelW * fkEstZ) / 2
-      const fkEstPY = (height - fkModelH * fkEstZ) / 2
+      const fkEstPY = (numH - fkModelH * fkEstZ) / 2
 
       // Русские порядковые для среднего рода единообразны на "-е" при любом числе
       // (2-е, 3-е, …, 11-е, 12-е — в отличие от английских 1st/2nd/3rd/4th),
@@ -1830,8 +1843,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         Array.from({ length: maxFkDepth + 1 }, (_, d) => ({
           gen: d,
           label: genLabelFK(d),
-          top:    Math.max(0, ((PAD_FK + d * dynLevelH) * z + pY) / height * 100),
-          height: Math.max(0.5, dynLevelH * z / height * 100),
+          top:    Math.max(0, ((PAD_FK + d * dynLevelH) * z + pY) / numH * 100),
+          height: Math.max(0.5, dynLevelH * z / numH * 100),
         })).filter(r => r.top < 100)
 
       const syncFkOverlay = (p: { x: number; y: number }, z: number, cW: number) => {
@@ -2161,16 +2174,16 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const sModelH = curY4 + PAD_TOP
       const sFitPad = 30
       const sCEl = cy.container(); const sCW = sCEl ? sCEl.clientWidth : 1200
-      const sEstZ  = Math.min((height - sFitPad*2)/sModelH, (sCW - sFitPad*2)/sModelW)
+      const sEstZ  = Math.min((numH - sFitPad*2)/sModelH, (sCW - sFitPad*2)/sModelW)
       const sEstPX = (sCW - sModelW * sEstZ) / 2
-      const sEstPY = (height - sModelH * sEstZ) / 2
+      const sEstPY = (numH - sModelH * sEstZ) / 2
 
       const buildArenaOverlay = (pY: number, pX: number, z: number, cW: number): void => {
         // Segment bands → engineBands
         setEngineBands(segBands4.map(b => ({
           label: b.label, color: b.color,
-          top:    Math.max(0, (b.top    * z + pY) / height * 100),
-          height: Math.max(0.3, b.height * z / height * 100),
+          top:    Math.max(0, (b.top    * z + pY) / numH * 100),
+          height: Math.max(0.3, b.height * z / numH * 100),
         })))
         // Year ticks every 5 years → hpLines
         const lines: { hp: number; left: number }[] = []
@@ -2183,7 +2196,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         setGenRows(brandTracks.map((bt, i) => ({
           gen: i,
           label: bt.label,
-          top:    Math.max(0, (bt.top * z + pY) / height * 100),
+          top:    Math.max(0, (bt.top * z + pY) / numH * 100),
           height: 1,
         })))
       }
@@ -2329,7 +2342,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const perfEstZ = 0.38
       const perfCW   = cy.container()?.clientWidth ?? 1200
       const perfEstPX = (perfCW - CANVAS_W * perfEstZ) / 2
-      const perfEstPY = (height  - CANVAS_H * perfEstZ) / 2
+      const perfEstPY = (numH  - CANVAS_H * perfEstZ) / 2
 
       const buildPerfOverlay = (pX: number, pY: number, z: number, cW: number) => {
         // X-axis ticks: accel in seconds
@@ -2347,8 +2360,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         for (let i = 0; i < speedSteps.length - 1; i++) {
           const topSpd = speedSteps[i + 1]
           const botSpd = speedSteps[i]
-          const topPct = Math.max(0, (toY(topSpd) * z + pY) / height * 100)
-          const botPct = Math.max(0, (toY(botSpd) * z + pY) / height * 100)
+          const topPct = Math.max(0, (toY(topSpd) * z + pY) / numH * 100)
+          const botPct = Math.max(0, (toY(botSpd) * z + pY) / numH * 100)
           if (topPct < 100 && botPct > 0) {
             yBands.push({
               label: `${botSpd}–${topSpd} km/h`,
@@ -2365,8 +2378,8 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         for (const zone of PERF_ZONES) {
           const xLeftPct  = (toX(zone.accelMax) * z + pX) / cW * 100
           const xRightPct = (toX(ACCEL_MIN)     * z + pX) / cW * 100
-          const yTopPct   = (toY(SPEED_MAX)      * z + pY) / height * 100
-          const yBotPct   = (toY(zone.speedMin)  * z + pY) / height * 100
+          const yTopPct   = (toY(SPEED_MAX)      * z + pY) / numH * 100
+          const yBotPct   = (toY(zone.speedMin)  * z + pY) / numH * 100
           const left   = Math.max(0, xLeftPct)
           const right  = Math.max(0, 100 - xRightPct)
           const top    = Math.max(0, yTopPct)
@@ -2533,10 +2546,10 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       // fit:true у Cytoscape масштабирует по МЕНЬШЕМУ из двух отношений (ширина/высота) —
       // считаем оценку так же, иначе на списках с сотнями строк (высота >> ширины) первый
       // (до layoutstop) рендер оверлея использовал бы завышенный zoom и "убегал" за экран.
-      const trkEstZ   = Math.max(0.05, Math.min(0.6, Math.min(900 / CANVAS_W_T, height / CANVAS_H_T)))
+      const trkEstZ   = Math.max(0.05, Math.min(0.6, Math.min(900 / CANVAS_W_T, numH / CANVAS_H_T)))
       const trkCW     = cy.container()?.clientWidth ?? 1200
       const trkEstPX  = (trkCW  - CANVAS_W_T * trkEstZ) / 2
-      const trkEstPY  = (height - CANVAS_H_T * trkEstZ) / 2
+      const trkEstPY  = (numH - CANVAS_H_T * trkEstZ) / 2
 
       const TRACK_EMOJI: Record<Track, string> = { nurburgring: '🇩🇪', topgear: '🇬🇧', none: '' }
 
@@ -2547,7 +2560,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
           return {
             id:       c.id,
             label:    c.label,
-            top:      (c.y * z + pY) / height * 100,
+            top:      (c.y * z + pY) / numH * 100,
             barLeft:  baselineLeftPct,
             barWidth: Math.max(0, barEndLeftPct - baselineLeftPct),
             time:     c.track === 'none' ? '' : `${TRACK_EMOJI[c.track]} ${fmtSecs(c.secs)}`,
@@ -2560,7 +2573,7 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
         setTrackGroupMarks(groupStarts.map(g => ({
           key:   g.key,
           label: g.label,
-          top:   (g.y * z + pY) / height * 100,
+          top:   (g.y * z + pY) / numH * 100,
         })))
       }
 
@@ -2873,18 +2886,18 @@ export const EvolutionGraph: React.FC<EvolutionGraphProps> = ({
       const modelW = PAD_L * 2 + decadeCount * DECADE_W
       const modelH = curY + PAD_T
       const FIT_PAD = 50
-      const scaleH = (height - FIT_PAD * 2) / Math.max(1, modelH)
+      const scaleH = (numH - FIT_PAD * 2) / Math.max(1, modelH)
       const scaleW = (containerW - FIT_PAD * 2) / Math.max(1, modelW)
       const estZ   = Math.min(scaleH, scaleW)
       const estPX  = (containerW - modelW * estZ) / 2
-      const estPY  = (height     - modelH * estZ) / 2 + FIT_PAD / 2
+      const estPY  = (numH       - modelH * estZ) / 2 + FIT_PAD / 2
 
       // Зональные полосы (горизонтальные): top/height в % от высоты контейнера
       const convBands3 = (pY: number, z: number): ZoneLabel[] =>
         zoneBands.map(b => ({
           ...b,
-          top:    Math.max(0, (b.top    * z + pY) / height * 100),
-          height: Math.max(0.3, b.height * z / height * 100),
+          top:    Math.max(0, (b.top    * z + pY) / numH * 100),
+          height: Math.max(0.3, b.height * z / numH * 100),
         }))
 
       // Декадные линии (вертикальные): left в % от ширины контейнера

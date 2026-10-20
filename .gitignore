@@ -56,3 +56,8 @@ tmp/
 # временные бэкапы графа (создавались перед рискованными правками)
 public/data/evolution/graph.backup-*.json
 **/graph.backup-*.json
+
+# Local Netlify folder
+.netlify
+
+.vercel

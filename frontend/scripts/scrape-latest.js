@@ -92,6 +92,24 @@ function slugify(s) {
   return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
 }
 
+// Живой найденный баг: простой slug.substring(0, N) резал посреди слова
+// ("...untamed-editi" вместо "...untamed-edition") — некрасиво и, хуже того,
+// небезопасно: два РАЗНЫХ длинных URL, совпадающих в первых N символах,
+// схлопнулись бы в один и тот же id (коллизия в published-ids.json/
+// published-stories.json). Режем по границе слова (до последнего "-" в
+// пределах лимита) и ВСЕГДА добавляем короткий хэш от полного slug —
+// уникальность гарантирована независимо от длины и совпадения префиксов.
+const crypto = require('crypto')
+function safeSlug(slug, maxLen) {
+  if (slug.length <= maxLen) return slug
+  const hash = crypto.createHash('md5').update(slug).digest('hex').slice(0, 6)
+  const budget = maxLen - hash.length - 1 // место под "-" + хэш
+  let cut = slug.slice(0, budget)
+  const lastDash = cut.lastIndexOf('-')
+  if (lastDash > budget * 0.6) cut = cut.slice(0, lastDash) // не обрезать больше трети бюджета ради границы слова
+  return `${cut}-${hash}`
+}
+
 // Извлекает чистое название модели из заголовка RSS-статьи.
 // "Tested: 2027 Ram 1500 TRX SRT—the Beast Is Back" → "2027 Ram 1500 TRX SRT"
 // "2027 Audi RS Q8" → "2027 Audi RS Q8"  (уже чистое)
@@ -173,7 +191,7 @@ function buildRssCar(prefix, sourceId, sourceLabel, i) {
   if (!name) return null
   const slug = i.link.replace(/^https?:\/\/[^/]+\//, '').replace(/\/$/, '').replace(/\//g, '-')
   return {
-    id:          `${prefix}-${slug.substring(0, 60)}`,
+    id:          `${prefix}-${safeSlug(slug, 60)}`,
     source:      sourceId,
     sourceLabel,
     brand:       i.brand,
@@ -206,7 +224,15 @@ async function scrapeNetCarShowPage(url, sourceTag) {
     const thumbRelPath = imgM[1]
     const pageRelPath  = nameM[1]
     const fullLinkText = nameM[2].trim()
-    const year         = yearM ? parseInt(yearM[1]) : null
+
+    // Пропускаем региональные варианты ([EU]/[US]/[UK]/[JDM]/[China] и т.п.) —
+    // по явной просьбе пользователя. netcarshow тегирует этим рыночные спецификации
+    // уже существующей модели (другие фары/бамперы/комплектация под конкретный
+    // регион), а не новый релиз — AI-история для такой карточки сочиняла
+    // "новую модель" из материала, который на деле про рядовой рыночный вариант.
+    if (/\[[A-Za-z]{2,5}\]\s*$/.test(fullLinkText)) continue
+
+    const year = yearM ? parseInt(yearM[1]) : null
     const description  = descM ? descM[1].replace(/<[^>]+>/g, '').trim() : ''
 
     const hrefParts = pageRelPath.replace(/^\/|\/$/g, '').split('/')
@@ -447,7 +473,7 @@ async function scrapeA777News() {
     const desc   = snippet.slice(0, 200)
 
     cars.push({
-      id:          `a777-${year}-${slug.substring(0, 55)}`,
+      id:          `a777-${year}-${safeSlug(slug, 55)}`,
       source:      'a777',
       sourceLabel: 'A777 Суперкары',
       brand,
@@ -485,7 +511,7 @@ async function scrapeA777Catalog() {
     if (!yearM || !BRAND_RE.test(rawText)) continue
     const brand = (rawText.match(BRAND_RE) || [''])[0]
     cars.push({
-      id:          `a777cat-${slug.substring(0, 60)}`,
+      id:          `a777cat-${safeSlug(slug, 60)}`,
       source:      'a777',
       sourceLabel: 'A777 Каталог',
       brand,

@@ -40,6 +40,8 @@ if (fs.existsSync(envPath)) {
 const LATEST_JSON      = path.join(__dirname, '../public/data/latest-cars.json')
 const GRAPH_JSON       = path.join(__dirname, '../public/data/evolution/graph.json')
 const PUBLISHED_IDS    = path.join(__dirname, '../public/data/published-ids.json')
+const PUBLISHED_STORIES = path.join(__dirname, '../public/data/published-stories.json')
+const MAX_PUBLISHED_STORIES = 60 // с запасом перекрывает окно между 6-часовыми прогонами
 
 // Второй (свободный/тизерный) канал — опционально
 const SECONDARY_CH = process.env.TELEGRAM_CHANNEL_SECONDARY || ''
@@ -220,11 +222,22 @@ function getGraphContext(car, graph) {
   const byId   = Object.fromEntries(graph.nodes.map(n => [n.id, n]))
   const brand  = graph.nodes.filter(n => n.brandId === brandId)
 
-  // Находим ноду с наибольшим совпадением по имени
+  // Находим ноду с наибольшим совпадением по имени.
+  // Живой найденный баг: "Hyundai Tucson N Line [EU]" матчился на узел "Sonata
+  // N Line" — токен "tucson" не совпал ни с одним узлом (Tucson в графе нет),
+  // но общее трим-слово "line" (от "N Line") дало score=1 и "выиграло" за
+  // неимением конкурентов. "N Line"/"Sport"/"GT"/"SE" и т.п. — короткие
+  // трим-суффиксы, общие для ДЕСЯТКОВ не связанных моделей одного бренда,
+  // их одиночное совпадение не означает совпадение модели. Требуем score≥2,
+  // либо единственный совпавший токен должен быть достаточно длинным (≥5
+  // символов) — короткие общие слова так совпасть в одиночку не могут, а
+  // настоящие названия моделей (tucson, sonata, telluride…) проходят свободно.
   const scored = brand.map(n => {
     const lbl = n.label.toLowerCase()
-    return { node: n, score: tokens.filter(t => lbl.includes(t)).length }
-  }).filter(x => x.score > 0).sort((a, b) => b.score - a.score)
+    const matchedTokens = tokens.filter(t => lbl.includes(t))
+    return { node: n, score: matchedTokens.length, matchedTokens }
+  }).filter(x => x.score >= 2 || (x.score === 1 && x.matchedTokens[0].length >= 5))
+    .sort((a, b) => b.score - a.score)
 
   const match = scored[0]?.node
 
@@ -613,29 +626,51 @@ async function callQwen(messages) {
 
 // ── OpenRouter (агрегатор — доступ к нескольким бесплатным моделям через один
 // API и один ключ, ещё один независимый запасной вариант) ────────────────────
+// Список актуальных :free-моделей взят напрямую из openrouter.ai/api/v1/models,
+// а не из возможно устаревшего поиска/документации (DeepSeek v3.1:free уже снят
+// с бесплатного каталога, отвечал 404). Живые найденные причины сбоя ОДНОЙ
+// конкретной модели не означают, что OpenRouter в целом недоступен — свободный
+// пул нестабилен по-разному для разных моделей/бэкендов в разное время (видел:
+// Nemotron 3 Ultra 550B — таймаут от размера; Gemma 4 31B — 429 shared-pool
+// rate-limit именно на upstream Google AI Studio; Nemotron Nano "reasoning" —
+// тоже таймаут, т.к. reasoning-модели сперва генерируют скрытые токены
+// размышления; LFM2.5 2.6B — иногда 200 OK с пустым content без ошибки).
+// Поэтому пробуем НЕСКОЛЬКО моделей С РАЗНЫХ бэкендов подряд за один вызов —
+// не только разный размер, но и разный upstream-пул, чтобы один перегруженный
+// провайдер не валил всю попытку.
+const OPENROUTER_FREE_MODELS = [
+  'liquid/lfm-2.5-2.6b:free',            // LiquidAI — свой бэкенд
+  'nvidia/nemotron-3-super-120b-a12b:free', // NVIDIA — свой бэкенд, НЕ reasoning-вариант
+  'poolside/laguna-s-2.1:free',          // Poolside — ещё один независимый бэкенд
+]
+
 async function callOpenRouter(messages) {
   const key = process.env.OPENROUTER_API_KEY
   if (!key || key.startsWith('your_')) return null
-  const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      Authorization: `Bearer ${key}`,
-      'Content-Type': 'application/json',
-      // Требуют OpenRouter для бесплатных моделей — без них могут резать лимиты сильнее.
-      'HTTP-Referer': 'https://autoevoflow.local',
-      'X-Title': 'AutoEvoFlow',
-    },
-    body: JSON.stringify({
-      model: 'deepseek/deepseek-chat-v3.1:free',
-      messages,
-      max_tokens: 1800,
-      temperature: 0.72,
-    }),
-    signal: AbortSignal.timeout(45_000),
-  })
-  if (!res.ok) throw new Error(`OpenRouter ${res.status}: ${await res.text()}`)
-  const data = await res.json()
-  return data.choices?.[0]?.message?.content ?? null
+
+  let lastErr
+  for (const model of OPENROUTER_FREE_MODELS) {
+    try {
+      const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${key}`,
+          'Content-Type': 'application/json',
+          // Требуют OpenRouter для бесплатных моделей — без них могут резать лимиты сильнее.
+          'HTTP-Referer': 'https://autoevoflow.local',
+          'X-Title': 'AutoEvoFlow',
+        },
+        body: JSON.stringify({ model, messages, max_tokens: 1800, temperature: 0.72 }),
+        signal: AbortSignal.timeout(60_000),
+      })
+      if (!res.ok) { lastErr = new Error(`OpenRouter ${model} ${res.status}: ${await res.text()}`); continue }
+      const data = await res.json()
+      const content = data.choices?.[0]?.message?.content
+      if (content) return content
+      lastErr = new Error(`OpenRouter ${model}: empty response`)
+    } catch (e) { lastErr = e }
+  }
+  throw lastErr || new Error('OpenRouter: all free models unavailable')
 }
 
 // ── Cerebras (бесплатный тариф, быстрый инференс Llama) ───────────────────────
@@ -675,6 +710,27 @@ async function callNvidia(messages) {
     signal: AbortSignal.timeout(45_000),
   })
   if (!res.ok) throw new Error(`NVIDIA NIM ${res.status}: ${await res.text()}`)
+  const data = await res.json()
+  return data.choices?.[0]?.message?.content ?? null
+}
+
+// ── Mistral AI (La Plateforme, бесплатный тариф Experiment) — европейская
+// инфраструктура, независимый аккаунт/биллинг от всех остальных ───────────────
+async function callMistral(messages) {
+  const key = process.env.MISTRAL_API_KEY
+  if (!key || key.startsWith('your_')) return null
+  const res = await fetch('https://api.mistral.ai/v1/chat/completions', {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      model: 'mistral-small-latest',
+      messages,
+      max_tokens: 1800,
+      temperature: 0.72,
+    }),
+    signal: AbortSignal.timeout(45_000),
+  })
+  if (!res.ok) throw new Error(`Mistral ${res.status}: ${await res.text()}`)
   const data = await res.json()
   return data.choices?.[0]?.message?.content ?? null
 }
@@ -989,24 +1045,106 @@ async function tgSendPhotoBuffer(params, imageUrl) {
 }
 
 // Slice HTML by VISIBLE char count, closing any open tags to avoid parse errors
-function safeSliceHTML(html, maxVisible) {
-  let vis = 0, i = 0
+function closeOpenTags(fragment) {
   const stack = []
-  while (i < html.length) {
-    if (html[i] === '<') {
-      const end = html.indexOf('>', i); if (end === -1) break
-      const tag = html.slice(i + 1, end).trim()
+  let i = 0
+  while (i < fragment.length) {
+    if (fragment[i] === '<') {
+      const end = fragment.indexOf('>', i); if (end === -1) break
+      const tag = fragment.slice(i + 1, end).trim()
       if (!tag.startsWith('/') && !tag.endsWith('/')) stack.push(tag.split(/\s/)[0])
       else if (tag.startsWith('/')) stack.pop()
       i = end + 1
+    } else i++
+  }
+  let out = fragment
+  while (stack.length) out += `</${stack.pop()}>`
+  return out
+}
+
+// Режет HTML по видимым символам (игнорируя теги при подсчёте), но НЕ посреди
+// слова/предложения. Живой найденный баг: прежний прямой character-cut рвал
+// текст ровно на maxVisible символе вне зависимости от границы слова ("Это
+// це" вместо "Это цена..."), т.к. слабые бесплатные AI-модели (см. цепочку
+// провайдеров в generateStory()) часто игнорируют инструкцию про длину поста
+// и выдают текст заметно длиннее лимита Telegram. Теперь откатываемся назад до
+// ближайшего конца предложения, а если такого нет в разумных пределах — до
+// границы слова, и добавляем "…", чтобы обрыв был явным, а не выглядел багом.
+function safeSliceHTML(html, maxVisible) {
+  let vis = 0, i = 0
+  let lastSentenceEnd = -1
+  let lastWordBreak = -1
+  let truncated = false
+  while (i < html.length) {
+    if (html[i] === '<') {
+      const end = html.indexOf('>', i); if (end === -1) break
+      i = end + 1
     } else {
-      if (vis >= maxVisible) break
+      if (vis >= maxVisible) { truncated = true; break }
+      const ch = html[i]
+      if ('.!?…'.includes(ch)) lastSentenceEnd = i + 1
+      else if (/\s/.test(ch)) lastWordBreak = i
       vis++; i++
     }
   }
-  let out = html.slice(0, i)
-  while (stack.length) out += `</${stack.pop()}>`
-  return out
+  if (!truncated) return html
+  const lookback = Math.floor(maxVisible * 0.4)
+  let cut = i
+  if (lastSentenceEnd > 0 && lastSentenceEnd >= cut - lookback) cut = lastSentenceEnd
+  else if (lastWordBreak > 0 && lastWordBreak >= cut - lookback) cut = lastWordBreak
+  return closeOpenTags(html.slice(0, cut).trimEnd()) + '…'
+}
+
+// Раньше у скрейпленных (не из графа) машин pageUrl всегда оставался null —
+// их некуда было вести ни на карточке /latest, ни из подписи в Telegram
+// (фолбэк шёл на общий раздел "Новинки", а не на страницу ИМЕННО этой
+// модели). Теперь у каждой публикации есть конкретная страница: /model/{id}
+// для реального узла графа (там богаче — таймлайн, граф эволюции), иначе —
+// собственная /latest/{id} (см. src/app/latest/[id]/page.tsx).
+function resolvePageUrl(car) {
+  const siteUrl = (process.env.SITE_URL || 'http://localhost:3000').replace(/\/$/, '')
+  if (car.source === 'graph' && car.pageUrl) return car.pageUrl
+  return `${siteUrl}/latest/${car.id}`
+}
+
+// Сохраняет готовый пост (тот же текст/картинка, что ушли в Telegram) в
+// public/data/published-stories.json — отдельно от published-ids.json
+// (который хранит только служебные id/ключи дедупликации, без самого контента).
+// Нужно, чтобы страница /latest на сайте могла показывать РЕАЛЬНО
+// опубликованные в VIP-канале посты (с AI-текстом и картинкой), а не сырой
+// нефильтрованный дамп скрапера без всякой связи с тем, что реально ушло в канал.
+function savePublishedStory(car, story) {
+  const modelKey = car._modelKey
+  if (!modelKey) return // нет ключа модели — нечего связывать с историей публикаций
+  let list = []
+  if (fs.existsSync(PUBLISHED_STORIES)) {
+    try { list = JSON.parse(fs.readFileSync(PUBLISHED_STORIES, 'utf-8')).stories || [] } catch {}
+  }
+  const idx = list.findIndex(s => s.modelKey === modelKey)
+  const prev = idx >= 0 ? list[idx] : null
+  // editCarPost НЕ трогает car.imageUrl/pageUrl (Telegram не даёт сменить тип
+  // сообщения через edit-методы) — без фолбэка на прежнюю запись правка поста
+  // стирала бы уже сохранённую картинку/ссылку на null.
+  const entry = {
+    modelKey,
+    id:          car.id,
+    brand:       car.brand,
+    brandSlug:   car.brandSlug,
+    name:        car.name || car.fullName,
+    fullName:    car.fullName || car.name,
+    year:        car.year || null,
+    story,                                               // тот же HTML (<b>/<i>), что в Telegram
+    imageUrl:    car.imageUrl || prev?.imageUrl || null,
+    pageUrl:     resolvePageUrl(car) || prev?.pageUrl || null,
+    source:      car.source,
+    sourceLabel: car.sourceLabel,
+    publishedAt: new Date().toISOString(),
+  }
+  if (idx >= 0) list[idx] = entry   // editCarPost — обновляем запись на месте
+  else list.unshift(entry)          // новая публикация — свежее сверху
+  list = list.slice(0, MAX_PUBLISHED_STORIES)
+  fs.mkdirSync(path.dirname(PUBLISHED_STORIES), { recursive: true })
+  fs.writeFileSync(PUBLISHED_STORIES, JSON.stringify({ stories: list, updatedAt: new Date().toISOString() }, null, 2))
 }
 
 function buildCaption(car, story) {
@@ -1014,12 +1152,9 @@ function buildCaption(car, story) {
                  (car.year ? `<i>${car.year} · ${car.brand}</i>\n\n` : `<i>${car.brand}</i>\n\n`)
 
   // Никогда не кредитуем внешний источник в посте — только ссылка на свой же
-  // проект. Для карточек из графа — прямая ссылка на конкретную модель; для
-  // скрейпленных новостей (ещё не в графе) — на раздел "Новинки".
-  const siteUrl = (process.env.SITE_URL || 'http://localhost:3000').replace(/\/$/, '')
-  const footerLink = car.source === 'graph' && car.pageUrl
-    ? `🔗 <a href="${car.pageUrl}">Открыть в AutoEvoFlow</a>`
-    : `🔗 <a href="${siteUrl}/latest">Смотреть на AutoEvoFlow</a>`
+  // проект, и всегда на страницу ИМЕННО этой модели (не на общий раздел
+  // "Новинки") — см. resolvePageUrl().
+  const footerLink = `🔗 <a href="${resolvePageUrl(car)}">Открыть в AutoEvoFlow</a>`
   const footer = `\n\n${footerLink}`
 
   return header + story + footer
@@ -1084,6 +1219,44 @@ async function editTelegramPost(car, story, channelId, messageId, hasPhoto) {
   }
 }
 
+// Эмодзи однозначно определяет, какой из 4 заголовков тут должен быть — не
+// полагаемся на то, что модель воспроизведёт его дословно без опечаток (живой
+// найденный баг: слабая бесплатная модель выдала "ЭВОЛЪЮЦИЯ" вместо
+// "ЭВОЛЮЦИЯ"). Вместо подстраховки regex'ом под конкретную опечатку — просто
+// принудительно подставляем канонический текст по эмодзи, какой бы текст
+// модель ни сгенерировала рядом с ним.
+const SECTION_HEADERS = {
+  '🏛': 'ИСТОРИЯ',
+  '🧬': 'ЭВОЛЮЦИЯ',
+  '⚡': 'ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ',
+  '🔮': 'ПРОГНОЗ',
+}
+
+// Живой найденный баг: модель иногда склеивает заголовок секции прямо в
+// предложение без переноса строки и жирного начертания — например
+// "🏛 ИСТОРИЕЙ ID.Tiguan стала попытка..." вместо "🏛 <b>ИСТОРИЯ</b>\nВ ...".
+// Безобидно само по себе, НО если это происходит сразу во ВСЕХ 4 секциях
+// (каждая — одна строка без внутренних переносов), то storyPreview() на
+// фронтенде (который вырезает строки-шапки целиком по шаблону
+// /^(emoji)\s+[^\n]+\n*/) вырезает ВСЕ 4 строки без остатка — карточка на
+// /latest оказывается полностью пустой. Эта же функция и regex (см.
+// SECTION_HEADER_RE ниже) продублированы из storyPreview() в
+// src/app/latest/page.tsx, т.к. это отдельный CLI-скрипт без общего модуля
+// с Next.js приложением — держать в синхроне при правках с обеих сторон.
+// Проверяем не "идеальна ли разметка" (жирные ⟨b⟩-шапки — это косметика,
+// не обязаны совпадать 1:1, см. разбор случая BMW 3-Series, где шапки без
+// жирного начертания прекрасно рендерятся), а именно РЕАЛЬНЫЙ симптом:
+// остаётся ли после вырезания шапок содержательный текст.
+const SECTION_HEADER_RE = /^(🏛|🧬|⚡|🔮)\s*(?:<[bi]>)?(?:ИСТОРИ[ЕЙЯИ]{1,2}|ЭВОЛ[ЮЪ]ЦИ[ЕЙЯИ]{1,2}|ЧТО\s+ДЕЛАЕТ\s+Е[ЁE]\s+ОСОБЕННОЙ|ПРОГНОЗ)(?:<\/[bi]>)?:?\s*/gmu
+function isWellFormedStory(text) {
+  const plain = sanitizeStory(text)
+    .replace(SECTION_HEADER_RE, '')
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+  return plain.length >= 80
+}
+
 // ─── Нормализация форматирования для Telegram HTML ───────────────────────────
 function sanitizeStory(text) {
   return text
@@ -1097,9 +1270,9 @@ function sanitizeStory(text) {
     .replace(/_(?!_)(.+?)(?<!_)_/g, '<i>$1</i>')
     // Markdown ## headers → bold line
     .replace(/^#{1,3}\s+(.+)$/gm, '<b>$1</b>')
-    // Section headers → bold (if not already)
-    .replace(/^(🏛|🧬|⚡|🔮)\s+([А-ЯA-Z][А-ЯёA-Z\s]{2,30})$/gm, (_, emoji, title) =>
-      `${emoji} <b>${title.trim()}</b>`
+    // Section headers → канонический текст по эмодзи (не то, что написала модель)
+    .replace(/^(🏛|🧬|⚡|🔮)\s+([А-ЯЁA-Z][А-ЯЁA-Z\s]{2,40})$/gm, (_, emoji) =>
+      `${emoji} <b>${SECTION_HEADERS[emoji]}</b>`
     )
     // Strip forbidden chars outside of tags: ~ [ ] ( ) only if clearly markdown
     .replace(/~~(.+?)~~/g, '$1')  // strikethrough
@@ -1109,24 +1282,24 @@ function sanitizeStory(text) {
 }
 
 // ─── Тизер для второго (свободного) канала ───────────────────────────────────
-// НЕ раскрывает полный текст истории (только первое предложение + характеристики)
+// НЕ раскрывает полный текст истории (только заголовок + CTA в основной канал).
+// Раньше сюда же добавлялись строки цепочки/л.с./типа мотора, но ТОЛЬКО когда
+// getGraphContext() находил совпадение в графе — отсюда разная длина/структура
+// карточки от поста к посту (живой найденный баг, замечен визуально: одни
+// тизеры короче, другие длиннее). Хуже того, ошибка сопоставления (см. фикс в
+// getGraphContext выше) могла протащить сюда данные ЧУЖОЙ модели. Теперь тизер
+// всегда одного вида, независимо от источника и наличия графового совпадения.
 async function publishTeaser(car, ctx) {
   if (!SECONDARY_CH) return
   const name  = car.name || car.fullName || ctx.matchedNode?.label || '?'
   const brand = car.brand || ctx.matchedNode?.brandName || '?'
   const year  = car.year  || ctx.matchedNode?.year || ''
-  const chain = ctx.matchedNode
-    ? [...ctx.ancestorChain, ctx.matchedNode].map(n => n.label).join(' → ')
-    : ''
 
   const lines = [
     `🚗 <b>${name}</b>  ${year ? `<i>${year} · ${brand}</i>` : `<i>${brand}</i>`}`,
+    '',
+    '<i>Полный разбор + хронология эволюции — в основном канале AutoEvoFlow</i>',
   ]
-  if (chain) lines.push(`🧬 ${chain}`)
-  if (ctx.matchedNode?.hp) lines.push(`⚡ <b>${ctx.matchedNode.hp} л.с.</b>`)
-  if (ctx.matchedNode?.engineType) lines.push(`🔋 <i>${ctx.matchedNode.engineType}</i>`)
-  lines.push('')
-  lines.push('<i>Полный разбор + хронология эволюции — в основном канале AutoEvoFlow</i>')
 
   const text = lines.join('\n')
   try {
@@ -1170,7 +1343,8 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 Gemini 2.5 Flash... ')
     try {
       story = await callGemini(messages)
-      if (story) { provider = 'Gemini'; console.log('✅') }
+      if (story && isWellFormedStory(story)) { provider = 'Gemini'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
 
@@ -1178,7 +1352,8 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 DeepSeek... ')
     try {
       story = await callDeepSeek(messages)
-      if (story) { provider = 'DeepSeek'; console.log('✅') }
+      if (story && isWellFormedStory(story)) { provider = 'DeepSeek'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
 
@@ -1186,7 +1361,8 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 YandexGPT... ')
     try {
       story = await callYandex(messages)
-      if (story) { provider = 'YandexGPT'; console.log('✅') }
+      if (story && isWellFormedStory(story)) { provider = 'YandexGPT'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
 
@@ -1194,15 +1370,17 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 Qwen Plus... ')
     try {
       story = await callQwen(messages)
-      if (story) { provider = 'Qwen'; console.log('✅') }
+      if (story && isWellFormedStory(story)) { provider = 'Qwen'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
 
   if (!story && process.env.OPENROUTER_API_KEY && !process.env.OPENROUTER_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 OpenRouter (DeepSeek free)... ')
+    process.stdout.write('  🤖 OpenRouter (неск. free-моделей)... ')
     try {
       story = await callOpenRouter(messages)
-      if (story) { provider = 'OpenRouter'; console.log('✅') }
+      if (story && isWellFormedStory(story)) { provider = 'OpenRouter'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
 
@@ -1210,7 +1388,8 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 Cerebras (Llama 3.3 70B)... ')
     try {
       story = await callCerebras(messages)
-      if (story) { provider = 'Cerebras'; console.log('✅') }
+      if (story && isWellFormedStory(story)) { provider = 'Cerebras'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
 
@@ -1218,7 +1397,17 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 NVIDIA NIM (Llama 3.3 70B)... ')
     try {
       story = await callNvidia(messages)
-      if (story) { provider = 'NVIDIA'; console.log('✅') }
+      if (story && isWellFormedStory(story)) { provider = 'NVIDIA'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
+    } catch (e) { console.log(`⚠️  ${e.message}`) }
+  }
+
+  if (!story && process.env.MISTRAL_API_KEY && !process.env.MISTRAL_API_KEY.startsWith('your_')) {
+    process.stdout.write('  🤖 Mistral Small... ')
+    try {
+      story = await callMistral(messages)
+      if (story && isWellFormedStory(story)) { provider = 'Mistral'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
 
@@ -1282,11 +1471,31 @@ async function publishCar(car, graph, channelId) {
   const sent = await publishToTelegram(car, story, channelId)
   console.log(`  ✅ Опубликовано [${provider}]`)
 
+  // Живой найденный баг: пост в Telegram УЖЕ ушёл (необратимо) в момент вызова
+  // выше — всё, что ниже, это второстепенные шаги (локальный кэш для /latest,
+  // тизер во второй канал). Раньше исключение в ЛЮБОМ из них улетало вызывающему
+  // коду НЕ ПОЙМАННЫМ — тот видел "publishCar упал" и пропускал пометку модели
+  // как опубликованной (publishedIds.add/persistPublishedIds в main()), хотя
+  // реальный пост в канале уже существовал. На следующем прогоне модель снова
+  // считалась новой и публиковалась повторно с заново сгенерированным (другим)
+  // текстом — отсюда дубли с разным содержанием в канале. Теперь сбой здесь
+  // только логируется, не мешая вызывающему коду корректно зафиксировать то,
+  // что публикация уже состоялась.
+  try {
+    savePublishedStory(car, story)
+  } catch (e) {
+    console.error(`  ⚠️  savePublishedStory упал (пост в Telegram уже отправлен, не влияет на дедупликацию): ${e.message}`)
+  }
+
   // Тизер во второй канал (с задержкой флуд-лимита) — но не когда полный пост И ТАК
   // ушёл в SECONDARY_CH (GENERAL_CHANNEL_SOURCES): тизер на самого себя же дублирует пост.
   if (SECONDARY_CH && channelId !== SECONDARY_CH) {
-    await new Promise(r => setTimeout(r, 1500))
-    await publishTeaser(car, ctx)
+    try {
+      await new Promise(r => setTimeout(r, 1500))
+      await publishTeaser(car, ctx)
+    } catch (e) {
+      console.error(`  ⚠️  publishTeaser упал (основной пост уже отправлен, не влияет на дедупликацию): ${e.message}`)
+    }
   }
 
   return sent
@@ -1308,6 +1517,11 @@ async function editCarPost(car, graph, channelId, record) {
 
   await editTelegramPost(car, story, channelId, record.messageId, record.hasPhoto)
   console.log(`  ✅ Отредактировано [${provider}]`)
+  try {
+    savePublishedStory(car, story)
+  } catch (e) {
+    console.error(`  ⚠️  savePublishedStory упал (правка в Telegram уже применена, не влияет на дедупликацию): ${e.message}`)
+  }
   return true
 }
 
@@ -1375,37 +1589,50 @@ async function dryRun(car, graph) {
   console.log('\n─── ГЕНЕРАЦИЯ ───')
   if (process.env.GEMINI_API_KEY && !process.env.GEMINI_API_KEY.startsWith('your_')) {
     process.stdout.write('Gemini 2.5 Flash... ')
-    try { story = await callGemini(messages); if (story) { provider = 'Gemini'; console.log('✅') } }
+    try { story = await callGemini(messages); if (story && isWellFormedStory(story)) { provider = 'Gemini'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.DEEPSEEK_API_KEY && !process.env.DEEPSEEK_API_KEY.startsWith('your_')) {
     process.stdout.write('DeepSeek... ')
-    try { story = await callDeepSeek(messages); if (story) { provider = 'DeepSeek'; console.log('✅') } }
+    try { story = await callDeepSeek(messages); if (story && isWellFormedStory(story)) { provider = 'DeepSeek'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.YANDEX_API_KEY && !process.env.YANDEX_API_KEY.startsWith('your_')) {
     process.stdout.write('YandexGPT... ')
-    try { story = await callYandex(messages); if (story) { provider = 'YandexGPT'; console.log('✅') } }
+    try { story = await callYandex(messages); if (story && isWellFormedStory(story)) { provider = 'YandexGPT'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.QWEN_API_KEY && !process.env.QWEN_API_KEY.startsWith('your_')) {
     process.stdout.write('Qwen Plus... ')
-    try { story = await callQwen(messages); if (story) { provider = 'Qwen'; console.log('✅') } }
+    try { story = await callQwen(messages); if (story && isWellFormedStory(story)) { provider = 'Qwen'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.OPENROUTER_API_KEY && !process.env.OPENROUTER_API_KEY.startsWith('your_')) {
-    process.stdout.write('OpenRouter (DeepSeek free)... ')
-    try { story = await callOpenRouter(messages); if (story) { provider = 'OpenRouter'; console.log('✅') } }
+    process.stdout.write('OpenRouter (неск. free-моделей)... ')
+    try { story = await callOpenRouter(messages); if (story && isWellFormedStory(story)) { provider = 'OpenRouter'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.CEREBRAS_API_KEY && !process.env.CEREBRAS_API_KEY.startsWith('your_')) {
     process.stdout.write('Cerebras (Llama 3.3 70B)... ')
-    try { story = await callCerebras(messages); if (story) { provider = 'Cerebras'; console.log('✅') } }
+    try { story = await callCerebras(messages); if (story && isWellFormedStory(story)) { provider = 'Cerebras'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.NVIDIA_API_KEY && !process.env.NVIDIA_API_KEY.startsWith('your_')) {
     process.stdout.write('NVIDIA NIM (Llama 3.3 70B)... ')
-    try { story = await callNvidia(messages); if (story) { provider = 'NVIDIA'; console.log('✅') } }
+    try { story = await callNvidia(messages); if (story && isWellFormedStory(story)) { provider = 'NVIDIA'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
+    catch (e) { console.log(`⚠️  ${e.message}`) }
+  }
+  if (!story && process.env.MISTRAL_API_KEY && !process.env.MISTRAL_API_KEY.startsWith('your_')) {
+    process.stdout.write('Mistral Small... ')
+    try { story = await callMistral(messages); if (story && isWellFormedStory(story)) { provider = 'Mistral'; console.log('✅') }
+      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story) {
@@ -1643,6 +1870,24 @@ async function main() {
   let published = 0
   let edited     = 0
 
+  // Сохраняем дедупликацию сразу после КАЖДОГО успешного поста/правки, а не
+  // одним файлом в самом конце всего прогона. Живой найденный баг: при записи
+  // только в конце — если процесс оборвётся/убьётся по таймауту где-то в
+  // середине цикла (что стало вероятнее с цепочкой из нескольких free-моделей
+  // OpenRouter по 60с каждая на один вызов), уже реально отправленные в
+  // Telegram посты теряли отметку "опубликовано" и уходили в повторную
+  // публикацию на следующем прогоне — отсюда дубли в канале.
+  const persistPublishedIds = () => {
+    fs.mkdirSync(path.dirname(PUBLISHED_IDS), { recursive: true })
+    fs.writeFileSync(PUBLISHED_IDS, JSON.stringify({
+      ids: [...publishedIds],
+      keys: [...publishedKeys],
+      records,
+      updatedAt: new Date().toISOString(),
+      total: publishedIds.size,
+    }, null, 2))
+  }
+
   for (let i = 0; i < toPublish.length; i++) {
     if (i > 0) await new Promise(r => setTimeout(r, 3500))
     const car = toPublish[i]
@@ -1664,6 +1909,7 @@ async function main() {
         }
       }
       published++
+      persistPublishedIds()
     } catch (e) {
       console.error(`  ❌ ${car.name || car.id}: ${e.message}`)
     }
@@ -1689,19 +1935,11 @@ async function main() {
         updatedAt: new Date().toISOString(),
       }
       edited++
+      persistPublishedIds()
     } catch (e) {
       console.error(`  ❌ ${car.name || car.id}: ${e.message}`)
     }
   }
-
-  fs.mkdirSync(path.dirname(PUBLISHED_IDS), { recursive: true })
-  fs.writeFileSync(PUBLISHED_IDS, JSON.stringify({
-    ids: [...publishedIds],
-    keys: [...publishedKeys],
-    records,
-    updatedAt: new Date().toISOString(),
-    total: publishedIds.size,
-  }, null, 2))
 
   console.log(`[publish-stories] ✅ Опубликовано ${published}/${toPublish.length}, отредактировано ${edited}/${toEdit.length}`)
   if (newGroups.length > toPublish.length)

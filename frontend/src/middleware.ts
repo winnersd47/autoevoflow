@@ -92,6 +92,6 @@ export const config = {
     // Исключаем статику Next (она отдаётся по /data, /images — НЕ /public!) и
     // публичные API-прокси, иначе граф (/data/evolution/graph.json) и картинки
     // ошибочно редиректятся на /login. Auth остаётся на dashboard/compare.
-    '/((?!_next/static|_next/image|favicon.ico|favicon.svg|data/|images/|api/car-image|api/netcarshow-image|api/latest-cars|api/analysis|api/auth).*)',
+    '/((?!_next/static|_next/image|favicon.ico|favicon.svg|data/|images/|api/car-image|api/netcarshow-image|api/latest-cars|api/published-stories|api/analysis|api/auth).*)',
   ],
 }

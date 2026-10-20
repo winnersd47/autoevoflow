@@ -17,6 +17,14 @@ import { exec } from 'child_process'
 import path from 'path'
 
 export const runtime = 'nodejs'
+// Живой найденный баг: без этого Next.js пытается статически сгенерировать
+// GET-роут при `next build` — реально дёргает scrape-latest.js (сетевые
+// запросы к RSS) ВО ВРЕМЯ СБОРКИ, виснет на внешних 403/таймаутах, триггерит
+// 60-секундный static-generation timeout, ретраится 3 раза и ВАЛИТ ВЕСЬ БИЛД
+// (воспроизведено локально, та же проблема будет на Vercel). force-dynamic
+// исключает роут из статической генерации — выполняется только по реальному
+// запросу, как и задумано для cron-эндпоинта.
+export const dynamic = 'force-dynamic'
 
 export async function GET(req: NextRequest) {
   // ── Auth check ──────────────────────────────────────────────────────────────

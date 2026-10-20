@@ -421,7 +421,54 @@
     "cad-chevrolet-trailblazer-2027",
     "cad-alfa-romeo-stelvio-2028",
     "jlp-2285823-2027-mercedes-amg-gle53-phev-first-drive-review",
-    "cad-photos-a74081882-2027-infiniti-qx65-autograph-test-interior-"
+    "cad-photos-a74081882-2027-infiniti-qx65-autograph-test-interior-",
+    "cad-photos-a74067707-2027-chevrolet-corvette-stingray-test-inter",
+    "cad-reviews-a74082944-2027-infiniti-qx65-autograph-test",
+    "cad-news-a74120983-2027-ford-bronco-updates-revealed",
+    "cad-reviews-a71317567-2027-volvo-ex60-drive",
+    "ncs-hyundai-2027-tucson_xrt_pro",
+    "aw-news-a74140122-2027-mercedes-amg-gle-53-hybrid-drive-review",
+    "cad-news-a74126337-2027-bmw-m760-xdrive-v8-revealed",
+    "cad-porsche-mission-s-2029",
+    "cad-photos-g70780985-2027-mercedes-benz-glc-ev-drive-interior-ga",
+    "ncs-cupra-2027-raval",
+    "ncs-ford-2027-bronco_rtr",
+    "ncs-bmw-2027-ix4_m60_xdrive",
+    "rat-reviews-a74093273-tested-2027-rolls-royce-spectre-series-ii-",
+    "ncs-mitsubishi-2027-eclipse_sportback",
+    "ncs-mercedes-benz-2027-c-class_ev_uk-version",
+    "ncs-pininfarina-2027-jas_tensei",
+    "ncs-lancia-2027-gamma",
+    "ncs-audi-2027-q7_uk-version",
+    "cad-reviews-a73332713-2027-tesla-model-y-l-launch-drive",
+    "ncs-volkswagen-2027-id.tiguan",
+    "jlp-2289599-2028-mercedes-amg-gt-ev-suv-design-specs-details-rev",
+    "cad-mercedes-amg-gt-suv",
+    "cad-news-a74163550-2028-mercedes-amg-gt-suv-revealed",
+    "ncs-audi-2027-a6_allroad_uk-version",
+    "ncs-porsche-2027-cayenne_s_coupe_electric_uk-version",
+    "ncs-smart-2027-2",
+    "ncs-byd-2027-atto_8",
+    "ncs-hyundai-2027-bayon",
+    "ncs-hyundai-2027-tucson_n_line_eu-version",
+    "ncs-maserati-2027-granturismo_trofeo",
+    "ncs-bmw-2027-i3",
+    "ncs-subaru-2027-wrx_gd25",
+    "ncs-subaru-2027-brz_zc15",
+    "ncs-bmw-2027-3-series",
+    "ncs-nissan-2027-pixo",
+    "ncs-skoda-2027-peaq",
+    "ncs-bmw-2027-m350_xdrive",
+    "cad-news-a74163676-2027-nissan-pathfinder-special-edition-40-yea",
+    "jlp-2278364-2027-mercedes-benz-gle-suv-facelift-gle450-gle580-gl",
+    "cad-news-a74184201-2027-ford-ranger-new-twin-turbo-3-liter-v-6",
+    "cad-news-a74183660-2027-kia-sorento-phev-price",
+    "carscoops-2290204-2027-jeep-cherokee-trailhawk-debut",
+    "cad-reviews-a73984038-2027-volkswagen-atlas-sel-premium-r-line-t",
+    "cad-photos-a73993839-2027-kia-ev3-gt-line-awd-test-interior-gall",
+    "cad-photos-a74037629-2027-mini-countryman-electric-untamed-editi",
+    "ncs-gmc-2027-sierra_1500",
+    "ncs-nissan-2027-rogue_hybrid"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -636,7 +683,54 @@
     "chevrolet__trailblazer__2027",
     "alfa-romeo__stelvio__2028",
     "mercedes__mercedes-amg-gle53-phev__2027",
-    "infiniti__qx65-autograph__2027"
+    "infiniti__qx65-autograph__2027",
+    "chevrolet__corvette-stingray__2027",
+    "infiniti__qx65__2027",
+    "ford__bronco-democratizes__2027",
+    "volvo__ex60__2027",
+    "hyundai__tucson-xrt-pro__2027",
+    "mercedes__mercedes-amg-gle-hybrid__2027",
+    "bmw__m760__2027",
+    "porsche__mission__2029",
+    "mercedes__glc-ev__2027",
+    "cupra__raval__2027",
+    "ford__bronco-rtr__2027",
+    "bmw__ix4-m60-xdrive__2027",
+    "rolls-royce__spectre-series-ii__2027",
+    "mitsubishi__eclipse-sportback__2027",
+    "mercedes__c-class-ev-[uk]__2027",
+    "pininfarina__jas-tensei__2027",
+    "lancia__gamma__2027",
+    "audi__q7-[uk]__2027",
+    "tesla__model-reinvents__2027",
+    "volkswagen__id.tiguan__2027",
+    "mercedes__mercedes-amg-gt-one-ups__2028",
+    "mercedes__mercedes-amg-gt__2028",
+    "mercedes__mercedes-amg-gt63__2028",
+    "audi__a6-allroad-[uk]__2027",
+    "porsche__cayenne-electric-[uk]__2027",
+    "smart____2027",
+    "byd__atto__2027",
+    "hyundai__bayon__2027",
+    "hyundai__tucson-line-[eu]__2027",
+    "maserati__granturismo-trofeo__2027",
+    "bmw__i3__2027",
+    "subaru__wrx-gd25__2027",
+    "subaru__brz-zc15__2027",
+    "bmw__3-series__2027",
+    "nissan__pixo__2027",
+    "skoda__peaq__2027",
+    "bmw__m350-xdrive__2027",
+    "nissan__pathfinder-toasts__2027",
+    "mercedes__gle-shows-where__2027",
+    "ford__ranger-appears__2027",
+    "kia__sorento-phev-now__2027",
+    "jeep__cherokee-finally__2027",
+    "volkswagen__atlas__2027",
+    "kia__ev3-gt-line__2027",
+    "mini__countryman-electric-untamed__2027",
+    "gmc__sierra__2027",
+    "nissan__rogue-hybrid__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -2376,8 +2470,431 @@
         "cad-photos-a74081882-2027-infiniti-qx65-autograph-test-interior-"
       ],
       "updatedAt": "2026-10-15T05:06:26.904Z"
+    },
+    "chevrolet__corvette-stingray__2027": {
+      "messageId": 214,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-photos-a74067707-2027-chevrolet-corvette-stingray-test-inter"
+      ],
+      "updatedAt": "2026-10-15T20:05:20.610Z"
+    },
+    "infiniti__qx65__2027": {
+      "messageId": 215,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-reviews-a74082944-2027-infiniti-qx65-autograph-test"
+      ],
+      "updatedAt": "2026-10-15T20:06:25.874Z"
+    },
+    "ford__bronco-democratizes__2027": {
+      "messageId": 216,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74120983-2027-ford-bronco-updates-revealed"
+      ],
+      "updatedAt": "2026-10-15T23:04:53.202Z"
+    },
+    "volvo__ex60__2027": {
+      "messageId": 217,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-reviews-a71317567-2027-volvo-ex60-drive"
+      ],
+      "updatedAt": "2026-10-15T23:05:46.741Z"
+    },
+    "hyundai__tucson-xrt-pro__2027": {
+      "messageId": 458,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-hyundai-2027-tucson_xrt_pro"
+      ],
+      "updatedAt": "2026-10-16T02:08:17.612Z"
+    },
+    "mercedes__mercedes-amg-gle-hybrid__2027": {
+      "messageId": 459,
+      "hasPhoto": false,
+      "channelId": "-1004431862248",
+      "ids": [
+        "aw-news-a74140122-2027-mercedes-amg-gle-53-hybrid-drive-review"
+      ],
+      "updatedAt": "2026-10-16T05:06:52.172Z"
+    },
+    "bmw__m760__2027": {
+      "messageId": 219,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74126337-2027-bmw-m760-xdrive-v8-revealed"
+      ],
+      "updatedAt": "2026-10-16T05:08:20.307Z"
+    },
+    "porsche__mission__2029": {
+      "messageId": 220,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-porsche-mission-s-2029"
+      ],
+      "updatedAt": "2026-10-16T08:05:24.044Z"
+    },
+    "mercedes__glc-ev__2027": {
+      "messageId": 222,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-photos-g70780985-2027-mercedes-benz-glc-ev-drive-interior-ga"
+      ],
+      "updatedAt": "2026-10-16T08:06:43.170Z"
+    },
+    "cupra__raval__2027": {
+      "messageId": 460,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-cupra-2027-raval"
+      ],
+      "updatedAt": "2026-10-16T08:08:13.200Z"
+    },
+    "ford__bronco-rtr__2027": {
+      "messageId": 461,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-ford-2027-bronco_rtr"
+      ],
+      "updatedAt": "2026-10-16T11:07:04.113Z"
+    },
+    "bmw__ix4-m60-xdrive__2027": {
+      "messageId": 463,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-bmw-2027-ix4_m60_xdrive"
+      ],
+      "updatedAt": "2026-10-16T14:08:16.818Z"
+    },
+    "rolls-royce__spectre-series-ii__2027": {
+      "messageId": 465,
+      "hasPhoto": false,
+      "channelId": "-1004431862248",
+      "ids": [
+        "rat-reviews-a74093273-tested-2027-rolls-royce-spectre-series-ii-"
+      ],
+      "updatedAt": "2026-10-17T02:05:18.173Z"
+    },
+    "mitsubishi__eclipse-sportback__2027": {
+      "messageId": 466,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-mitsubishi-2027-eclipse_sportback"
+      ],
+      "updatedAt": "2026-10-17T02:07:26.535Z"
+    },
+    "mercedes__c-class-ev-[uk]__2027": {
+      "messageId": 467,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-mercedes-benz-2027-c-class_ev_uk-version"
+      ],
+      "updatedAt": "2026-10-17T05:06:10.590Z"
+    },
+    "pininfarina__jas-tensei__2027": {
+      "messageId": 468,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-pininfarina-2027-jas_tensei"
+      ],
+      "updatedAt": "2026-10-17T05:07:38.723Z"
+    },
+    "lancia__gamma__2027": {
+      "messageId": 469,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-lancia-2027-gamma"
+      ],
+      "updatedAt": "2026-10-17T08:07:57.478Z"
+    },
+    "audi__q7-[uk]__2027": {
+      "messageId": 470,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-audi-2027-q7_uk-version"
+      ],
+      "updatedAt": "2026-10-17T11:07:54.375Z"
+    },
+    "tesla__model-reinvents__2027": {
+      "messageId": 234,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-reviews-a73332713-2027-tesla-model-y-l-launch-drive"
+      ],
+      "updatedAt": "2026-10-17T14:05:42.147Z"
+    },
+    "volkswagen__id.tiguan__2027": {
+      "messageId": 472,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-volkswagen-2027-id.tiguan"
+      ],
+      "updatedAt": "2026-10-17T14:06:56.577Z"
+    },
+    "mercedes__mercedes-amg-gt-one-ups__2028": {
+      "messageId": 473,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "jlp-2289599-2028-mercedes-amg-gt-ev-suv-design-specs-details-rev"
+      ],
+      "updatedAt": "2026-10-18T05:05:09.904Z"
+    },
+    "mercedes__mercedes-amg-gt__2028": {
+      "messageId": 238,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-mercedes-amg-gt-suv"
+      ],
+      "updatedAt": "2026-10-18T05:07:12.168Z"
+    },
+    "mercedes__mercedes-amg-gt63__2028": {
+      "messageId": 239,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74163550-2028-mercedes-amg-gt-suv-revealed"
+      ],
+      "updatedAt": "2026-10-18T08:05:27.261Z"
+    },
+    "audi__a6-allroad-[uk]__2027": {
+      "messageId": 474,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-audi-2027-a6_allroad_uk-version"
+      ],
+      "updatedAt": "2026-10-18T08:07:14.916Z"
+    },
+    "porsche__cayenne-electric-[uk]__2027": {
+      "messageId": 475,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-porsche-2027-cayenne_s_coupe_electric_uk-version"
+      ],
+      "updatedAt": "2026-10-18T08:08:55.303Z"
+    },
+    "smart____2027": {
+      "messageId": 476,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-smart-2027-2"
+      ],
+      "updatedAt": "2026-10-18T11:09:28.220Z"
+    },
+    "byd__atto__2027": {
+      "messageId": 477,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-byd-2027-atto_8"
+      ],
+      "updatedAt": "2026-10-18T14:07:06.253Z"
+    },
+    "hyundai__bayon__2027": {
+      "messageId": 478,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-hyundai-2027-bayon"
+      ],
+      "updatedAt": "2026-10-18T17:05:23.987Z"
+    },
+    "hyundai__tucson-line-[eu]__2027": {
+      "messageId": 479,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-hyundai-2027-tucson_n_line_eu-version"
+      ],
+      "updatedAt": "2026-10-19T02:05:30.709Z"
+    },
+    "maserati__granturismo-trofeo__2027": {
+      "messageId": 480,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-maserati-2027-granturismo_trofeo"
+      ],
+      "updatedAt": "2026-10-19T02:06:43.568Z"
+    },
+    "bmw__i3__2027": {
+      "messageId": 481,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-bmw-2027-i3"
+      ],
+      "updatedAt": "2026-10-19T02:08:08.751Z"
+    },
+    "subaru__wrx-gd25__2027": {
+      "messageId": 482,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-subaru-2027-wrx_gd25"
+      ],
+      "updatedAt": "2026-10-19T05:08:37.600Z"
+    },
+    "subaru__brz-zc15__2027": {
+      "messageId": 483,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-subaru-2027-brz_zc15"
+      ],
+      "updatedAt": "2026-10-19T05:10:01.513Z"
+    },
+    "bmw__3-series__2027": {
+      "messageId": 484,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-bmw-2027-3-series"
+      ],
+      "updatedAt": "2026-10-19T08:07:07.287Z"
+    },
+    "nissan__pixo__2027": {
+      "messageId": 485,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-nissan-2027-pixo"
+      ],
+      "updatedAt": "2026-10-19T11:06:27.747Z"
+    },
+    "skoda__peaq__2027": {
+      "messageId": 486,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-skoda-2027-peaq"
+      ],
+      "updatedAt": "2026-10-19T11:08:01.663Z"
+    },
+    "bmw__m350-xdrive__2027": {
+      "messageId": 487,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-bmw-2027-m350_xdrive"
+      ],
+      "updatedAt": "2026-10-19T14:06:49.920Z"
+    },
+    "nissan__pathfinder-toasts__2027": {
+      "messageId": 256,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74163676-2027-nissan-pathfinder-special-edition-40-yea"
+      ],
+      "updatedAt": "2026-10-20T02:07:07.257Z"
+    },
+    "mercedes__gle-shows-where__2027": {
+      "messageId": 488,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "jlp-2278364-2027-mercedes-benz-gle-suv-facelift-gle450-gle580-gl"
+      ],
+      "updatedAt": "2026-10-20T02:09:10.766Z"
+    },
+    "ford__ranger-appears__2027": {
+      "messageId": 258,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74184201-2027-ford-ranger-new-twin-turbo-3-liter-v-6"
+      ],
+      "updatedAt": "2026-10-20T05:05:09.377Z"
+    },
+    "kia__sorento-phev-now__2027": {
+      "messageId": 259,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74183660-2027-kia-sorento-phev-price"
+      ],
+      "updatedAt": "2026-10-20T05:07:04.011Z"
+    },
+    "jeep__cherokee-finally__2027": {
+      "messageId": 489,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "carscoops-2290204-2027-jeep-cherokee-trailhawk-debut"
+      ],
+      "updatedAt": "2026-10-20T05:09:14.321Z"
+    },
+    "volkswagen__atlas__2027": {
+      "messageId": 261,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-reviews-a73984038-2027-volkswagen-atlas-sel-premium-r-line-t"
+      ],
+      "updatedAt": "2026-10-20T08:06:05.820Z"
+    },
+    "kia__ev3-gt-line__2027": {
+      "messageId": 262,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-photos-a73993839-2027-kia-ev3-gt-line-awd-test-interior-gall"
+      ],
+      "updatedAt": "2026-10-20T08:08:24.712Z"
+    },
+    "mini__countryman-electric-untamed__2027": {
+      "messageId": 263,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-photos-a74037629-2027-mini-countryman-electric-untamed-editi"
+      ],
+      "updatedAt": "2026-10-20T08:10:16.414Z"
+    },
+    "gmc__sierra__2027": {
+      "messageId": 490,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-gmc-2027-sierra_1500"
+      ],
+      "updatedAt": "2026-10-20T11:04:55.455Z"
+    },
+    "nissan__rogue-hybrid__2027": {
+      "messageId": 491,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-nissan-2027-rogue_hybrid"
+      ],
+      "updatedAt": "2026-10-20T11:06:24.247Z"
     }
   },
-  "updatedAt": "2026-10-15T11:06:21.624Z",
-  "total": 422
+  "updatedAt": "2026-10-20T11:06:24.248Z",
+  "total": 469
 }

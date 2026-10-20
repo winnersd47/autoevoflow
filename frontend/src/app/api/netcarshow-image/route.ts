@@ -6,6 +6,10 @@
 import { NextRequest, NextResponse } from 'next/server'
 
 export const runtime = 'nodejs'
+// Без этого Next.js пытается статически сгенерировать этот GET-роут при
+// `next build`, реально обращаясь к netcarshow.com по сети во время сборки —
+// тот же класс бага, что уронил сборку на /api/cron/scrape (см. его комментарий).
+export const dynamic = 'force-dynamic'
 
 const ALLOWED_HOST = /^https:\/\/(www\.)?netcarshow\.com\//
 
