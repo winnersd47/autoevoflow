@@ -1,0 +1,52 @@
+name: AutoEvoFlow — Публикация новинок авто
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 10:00 MSK (UTC+3)
+  workflow_dispatch:        # ручной запуск из Actions → Run workflow
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install dependencies
+        working-directory: frontend
+        run: npm ci --ignore-scripts
+
+      - name: Publish new stories
+        working-directory: frontend/scripts
+        env:
+          TELEGRAM_BOT_TOKEN:        ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID:       ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_CHANNEL_SECONDARY: ${{ secrets.TELEGRAM_CHANNEL_SECONDARY }}
+          SITE_URL:                  ${{ secrets.SITE_URL }}
+          GEMINI_API_KEY:            ${{ secrets.GEMINI_API_KEY }}
+          DEEPSEEK_API_KEY:          ${{ secrets.DEEPSEEK_API_KEY }}
+          YANDEX_API_KEY:            ${{ secrets.YANDEX_API_KEY }}
+          YANDEX_FOLDER_ID:          ${{ secrets.YANDEX_FOLDER_ID }}
+          QWEN_API_KEY:              ${{ secrets.QWEN_API_KEY }}
+          OPENROUTER_API_KEY:        ${{ secrets.OPENROUTER_API_KEY }}
+          CEREBRAS_API_KEY:          ${{ secrets.CEREBRAS_API_KEY }}
+          NVIDIA_API_KEY:            ${{ secrets.NVIDIA_API_KEY }}
+          MISTRAL_API_KEY:           ${{ secrets.MISTRAL_API_KEY }}
+        run: node publish-new-stories.js
+
+      - name: Save published-ids.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data/published-ids.json || true
+          git diff --staged --quiet || \
+            git commit -m "chore: update published-ids [skip ci]" && \
+            git push
