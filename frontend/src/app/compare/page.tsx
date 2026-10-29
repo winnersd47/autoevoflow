@@ -10,22 +10,6 @@ import React, {
 import Image from 'next/image'
 import { motion, AnimatePresence, useMotionValue, useTransform } from 'framer-motion'
 import {
-  RadarChart,
-  PolarGrid,
-  PolarAngleAxis,
-  PolarRadiusAxis,
-  Radar,
-  ResponsiveContainer,
-  ScatterChart,
-  Scatter,
-  XAxis,
-  YAxis,
-  CartesianGrid,
-  Tooltip,
-  ZAxis,
-  Cell,
-} from 'recharts'
-import {
   ArrowLeftRight,
   Share2,
   Download,
@@ -643,140 +627,6 @@ function SpecsTable({ gen1, gen2 }: { gen1: Generation; gen2: Generation }) {
   )
 }
 
-// ─── Embedding Scatter Plot ───────────────────────────────────────────────────
-
-interface EmbeddingPoint {
-  x: number
-  y: number
-  label: string
-  isMain: boolean
-}
-
-function EmbeddingScatterPlot({
-  gen1Label,
-  gen2Label,
-}: {
-  gen1Label: string
-  gen2Label: string
-}) {
-  // Generate deterministic-looking neighbor points
-  const neighbors: EmbeddingPoint[] = Array.from({ length: 20 }, (_, i) => ({
-    x: Math.sin(i * 1.3 + 0.5) * 45 + 50 + (Math.cos(i * 2.1) * 20),
-    y: Math.cos(i * 1.7 + 1.2) * 40 + 50 + (Math.sin(i * 1.4) * 15),
-    label: `Neighbor ${i + 1}`,
-    isMain: false,
-  }))
-
-  const mainPoints: EmbeddingPoint[] = [
-    { x: 48, y: 52, label: gen1Label, isMain: true },
-    { x: 53, y: 47, label: gen2Label, isMain: true },
-  ]
-
-  const allPoints = [...neighbors, ...mainPoints]
-
-  const CustomDot = (props: {
-    cx?: number
-    cy?: number
-    payload?: EmbeddingPoint
-  }) => {
-    const { cx = 0, cy = 0, payload } = props
-    if (!payload) return null
-
-    if (payload.isMain) {
-      const isFirst = payload.label === gen1Label
-      return (
-        <g>
-          <circle
-            cx={cx}
-            cy={cy}
-            r={8}
-            fill={isFirst ? '#00d4ff' : '#ffd700'}
-            stroke={isFirst ? '#00d4ff' : '#ffd700'}
-            strokeWidth={2}
-            opacity={1}
-            style={{ filter: `drop-shadow(0 0 6px ${isFirst ? '#00d4ff' : '#ffd700'}80)` }}
-          />
-          <text
-            x={cx}
-            y={cy - 14}
-            textAnchor="middle"
-            fontSize={10}
-            fontWeight="bold"
-            fill={isFirst ? '#00d4ff' : '#ffd700'}
-            fontFamily="JetBrains Mono, monospace"
-          >
-            {payload.label}
-          </text>
-        </g>
-      )
-    }
-
-    return (
-      <circle
-        cx={cx}
-        cy={cy}
-        r={3.5}
-        fill="rgba(255,255,255,0.2)"
-        stroke="rgba(255,255,255,0.1)"
-        strokeWidth={1}
-      />
-    )
-  }
-
-  return (
-    <div className="w-full h-64">
-      <ResponsiveContainer width="100%" height="100%">
-        <ScatterChart margin={{ top: 20, right: 20, bottom: 20, left: 20 }}>
-          <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" />
-          <XAxis
-            type="number"
-            dataKey="x"
-            domain={[0, 100]}
-            tick={{ fill: 'rgba(255,255,255,0.2)', fontSize: 10 }}
-            axisLine={{ stroke: 'rgba(255,255,255,0.1)' }}
-            tickLine={false}
-            label={{ value: 'Embedding Dim 1 (PCA)', position: 'insideBottom', offset: -10, fill: 'rgba(255,255,255,0.25)', fontSize: 10 }}
-          />
-          <YAxis
-            type="number"
-            dataKey="y"
-            domain={[0, 100]}
-            tick={{ fill: 'rgba(255,255,255,0.2)', fontSize: 10 }}
-            axisLine={{ stroke: 'rgba(255,255,255,0.1)' }}
-            tickLine={false}
-            label={{ value: 'Embedding Dim 2', angle: -90, position: 'insideLeft', fill: 'rgba(255,255,255,0.25)', fontSize: 10 }}
-          />
-          <Tooltip
-            cursor={false}
-            content={({ payload }) => {
-              const p = payload?.[0]?.payload as EmbeddingPoint | undefined
-              if (!p || !p.isMain) return null
-              return (
-                <div className="px-3 py-2 rounded-xl text-xs font-medium border border-white/15"
-                  style={{ background: 'rgba(8,8,16,0.95)', backdropFilter: 'blur(12px)' }}>
-                  <div className="font-bold text-white">{p.label}</div>
-                  <div className="text-white/50 font-mono">({p.x.toFixed(1)}, {p.y.toFixed(1)})</div>
-                </div>
-              )
-            }}
-          />
-          <Scatter
-            data={allPoints}
-            shape={<CustomDot />}
-          >
-            {allPoints.map((entry, idx) => (
-              <Cell
-                key={idx}
-                fill={entry.isMain ? (entry.label === gen1Label ? '#00d4ff' : '#ffd700') : 'rgba(255,255,255,0.2)'}
-              />
-            ))}
-          </Scatter>
-        </ScatterChart>
-      </ResponsiveContainer>
-    </div>
-  )
-}
-
 // ─── Section Card ─────────────────────────────────────────────────────────────
 
 function SectionCard({
@@ -1193,21 +1043,6 @@ export default function ComparePage() {
                 </SectionCard>
               )}
 
-              {/* Embedding Scatter */}
-              {generation1 && generation2 && (
-                <SectionCard
-                  title={t('compare.embeddingSpace')}
-                  icon={<BarChart3 className="w-4 h-4" />}
-                >
-                  <EmbeddingScatterPlot
-                    gen1Label={`${generation1.model?.name ?? ''} ${generation1.codeName}`}
-                    gen2Label={`${generation2.model?.name ?? ''} ${generation2.codeName}`}
-                  />
-                  <p className="text-[11px] text-white/25 mt-2 text-center">
-                    {t('compare.embeddingCaption')}
-                  </p>
-                </SectionCard>
-              )}
             </div>
 
             {/* ── AI Narrative ──────────────────────────────────────────── */}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-q4-sportback-e-tron-uk",
+  "slug": "audi-q4-sportback-e-tron-uk",
+  "name": "Audi Q4 Sportback e-tron",
+  "fullName": "Audi Q4 Sportback e-tron",
+  "brandId": "audi",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Available as both SUV and Sportback, the enhanced Q4 e-tron combines a more assertive exterior with a more connected, intuitive cabin. Range increases to up to 360 miles...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-Q4_Sportback_e-tron_UK-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-Q4_Sportback_e-tron_UK-Version-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.410Z",
+  "updatedAt": "2026-10-29T11:36:10.410Z"
+}

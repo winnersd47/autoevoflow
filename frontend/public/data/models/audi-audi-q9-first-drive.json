@@ -1,0 +1,26 @@
+{
+  "id": "ncs-audi-audi-q9-first-drive",
+  "slug": "audi-audi-q9-first-drive",
+  "name": "2027 Audi Q9 First-Drive",
+  "fullName": "2027 Audi Q9 First-Drive",
+  "brandId": "audi",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Audi is finally ready to compete for American families with the all-new Q9 three-row SUV, and its rivals should take notice. The post 2027 Audi Q9 First-Drive Review: Audi’s Biggest SUV Beats BMW and ",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/untitled-0447_6afce2-e1793028067850-copy.jpg?quality=85",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/untitled-0447_6afce2-e1793028067850-copy.jpg?quality=85",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2027-audi-q9-first-drive-review",
+  "isLatest": true,
+  "scrapedAt": "2026-10-27T14:04:01.246Z",
+  "createdAt": "2026-10-27T14:04:04.008Z",
+  "updatedAt": "2026-10-27T14:04:04.011Z"
+}

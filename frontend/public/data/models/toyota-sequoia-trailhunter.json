@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-sequoia-trailhunter",
+  "slug": "toyota-sequoia-trailhunter",
+  "name": "Toyota Sequoia Trailhunter",
+  "fullName": "Toyota Sequoia Trailhunter",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Пакет \"Trailhunter\" (внедорожная комплектация: подвеска Old Man Emu, Multi-Terrain Select, Crawl Control, блокировка заднего диффа) для Toyota Sequoia. Реальный силовой агрегат — гибрид i-FORCE MAX: твин-турбо 3.4L V6 + электромотор, 437 л.с./583 lb-ft (с пакетом TRD Performance — 466 л.с.). Самой базовой модели Sequoia в графе нет — отдельный исторический пробел.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Toyota-Sequoia_Trailhunter-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Toyota-Sequoia_Trailhunter-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.411Z",
+  "updatedAt": "2026-10-29T11:36:10.411Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-mclaren-788hs",
+  "slug": "mclaren-788hs",
+  "name": "McLaren 788HS",
+  "fullName": "McLaren 788HS",
+  "brandId": "mclaren",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "McLaren 788HS features sculpted bodywork elements that provide the most advanced aerodynamic package ever applied to the platform, increasing downforce by 10% over 765LT...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/McLaren-788HS-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/McLaren-788HS-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.392Z",
+  "updatedAt": "2026-10-29T11:36:10.392Z"
+}

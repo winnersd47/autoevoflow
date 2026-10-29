@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-pathfinder-special-edition",
+  "slug": "nissan-nissan-pathfinder-special-edition",
+  "name": "Nissan Pathfinder Special Edition",
+  "fullName": "2027 Nissan Pathfinder Special Edition",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Intended to celebrate the nameplate's 40th year in the marketplace, the Nissan Pathfinder Special Edition pays homage to the first-generation Pathfinder...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Pathfinder_Special_Edition-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Pathfinder_Special_Edition-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/nissan/2027-pathfinder_special_edition/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-26T14:03:53.991Z",
+  "createdAt": "2026-10-26T14:03:55.694Z",
+  "updatedAt": "2026-10-26T14:03:55.695Z"
+}

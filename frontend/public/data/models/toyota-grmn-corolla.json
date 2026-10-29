@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-grmn-corolla",
+  "slug": "toyota-grmn-corolla",
+  "name": "Toyota GRMN Corolla",
+  "fullName": "Toyota GRMN Corolla",
+  "brandId": "toyota",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "GRMN Corolla represents the ultimate expression of the GR Corolla, engineered to deepen the connection between car and driver and inspire confidence even at the limits...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Toyota-GRMN_Corolla-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Toyota-GRMN_Corolla-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.309Z",
+  "updatedAt": "2026-10-29T11:36:10.309Z"
+}

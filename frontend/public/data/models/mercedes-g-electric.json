@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-g-electric",
+  "slug": "mercedes-g-electric",
+  "name": "G580 EQ",
+  "fullName": "G580 EQ",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "electric",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-EQG_Concept-2021-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-EQG_Concept-2021-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.324Z",
+  "updatedAt": "2026-10-29T11:36:10.324Z"
+}

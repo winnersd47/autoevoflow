@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-28",
+  "partA": {
+    "brand": "kia",
+    "selection": "Механических сигналов (generic engineType / нет bodyType / опечатки рёбер) по графу 0 — ручной аудит A1Б, выбран Kia (64 узла, ранее не проверялся)",
+    "before": { "nodes": 64, "edgesTouchingBrand": 67 },
+    "after": { "nodes": 73, "edgesTouchingBrand": 85, "orphans": 0 },
+    "fixes": [
+      "+ пропущенные поколения: Rio I (DC, 2000), Cerato/Spectra I (LD, 2003), Optima I (MS, 2000), Optima II/Magentis (MG, 2005)",
+      "+ пропущенные модели: K9/Quoris (KH, 2012), K9/K900 II (RJ, 2018), Tasman (2025), EV9 GT (2025), EV2 (2026)",
+      "исправлена сдвинутая нумерация K5/Optima: TF=Optima III, JF=Optima IV, DL3=Optima V (+codeName, год TF 2010, JF 2015)",
+      "удалено неверное shares_platform Santa Fe SM → Sorento I (Sorento BL рамный, на базе Terracan)",
+      "+9 shares_platform с Hyundai: Palisade↔Telluride ×2, Ioniq↔Niro I, Elantra HD/MD/AD/CN7↔Forte/K4, Elantra XD↔Cerato I, i30 PD↔Ceed III, Tucson NX5↔Sportage VI, + Sonata EF/NF↔Optima MS/MG, Genesis BH↔K9",
+      "Niro I engineType hybrid→i4h; Niro II анкор EV 204hp → HEV i4h 141hp (единая линия с Niro I)",
+      "Sorento I/II engineType v6→i4d (hp 140/194 соответствовали дизелям CRDi)"
+    ],
+    "script": "scripts/fix-kia-audit.js"
+  },
+  "partB": {
+    "nodesChecked": 193,
+    "scope": "scrapedAt за 8 дней + ncs-*-2025+ + last-graph-gap-run.json (19 узлов сегодняшнего прогона)",
+    "duplicatesRemoved": 14,
+    "duplicatesRemovedList": [
+      "ncs-bentley-2028-torcal + 4 заголовочных Torcal-дубля (есть bentley-torcal)",
+      "ncs-jaguar-2028-type-01, ncs-jaguar-2028-jaguar-type-01-ev (есть jaguar-type01)",
+      "ncs-mercedes-2028-mercedes-amg-gt-suv-one-ups",
+      "ncs-mercedes-2027-mercedes-amg-gle53-phev",
+      "ncs-skoda-2027-epiq",
+      "ncs-astonmartin-2028-martin-valen",
+      "ncs-bmw-2027-bmw-x5-first (обзор G65, ошибочно ev + evolves_into)",
+      "ncs-mercedes-2027-mercedes-benz-c-class-refresh (ошибочно evolves_into)",
+      "ncs-mercedes-2027-c-class-ev-uk (дубль merc-c-w206-ev)"
+    ],
+    "factsFixed": [
+      "AMG GLE 53 Hybrid: ev/null → i6h 577hp, suv_large, + variant_of от GLE W167 Phase II",
+      "C-Class W206 Phase II (2027): bodyType coupe→sedan; C-Class Estate coupe→wagon; merc-c-w206-ev 'Sedan'→'sedan'",
+      "Valhalla Spider: bodyType coupe→roadster, zone supercar→hypercar",
+      "Mach-E Trail: пустые поля → ev/suv/electric + variant_of от Mach-E",
+      "Pathfinder Special Edition: пустые поля → v6 284hp suv + привязка к R53",
+      "Lexus RZ 2027: пустые поля → ev 221hp suv + shares_platform с Toyota bZ4X",
+      "GLS 680 Maybach: ICE/eu → v8t/suv_large; GMA Le Mans GTR: ICE/uk → v12/hypercar",
+      "Koenigsegg Sadair's Spear: hybrid/eu → v8t/hypercar; Huayra Codalunga Speedster: ICE/eu → v12/hypercar",
+      "Lexus ES 350e/350h/500e: zone jp → exec_sed, ES 350h hybrid→i4h; Toyota Crown 2027 hybrid→i4h"
+    ],
+    "openIssues": [
+      "Скрейпер (sync-latest-to-project.js) возвращает удалённые дубли, если нечёткий дедуп brand+year+label не совпал: за время этого прогона вернулись X5 First, C-Class Refresh и Valen (удалены повторно). В latest-cars.json всё ещё лежат Torcal ×6, Type 01 ×3, AMG GT SUV One-Ups, GLE53, X5/iX5 First и т.п. — нужен постоянный список отклонённых id (например public/data/graph-dismissed-ids.json), который sync проверяет. Скрипт синка не правил — это отдельная автоматизация.",
+      "porsche-mission-s: engineType 'unknown' — силовая установка официально не раскрыта (только ДВС/гибрид, без EV), оставлено как есть",
+      "ncs-ferrari-2025-sc40: engineType 'hybrid', hp 830 при доноре 296 (654hp) — не проверено, нужна ручная сверка",
+      "Остаются ncs-сироты 2027 без полей у других брендов (Bronco RTR, iX4/iX3 M60 частично привязаны gap-fill, Pixo, G 580 EV, DBX GT, CLE 646 и др.) — работа для graph-gap-fill"
+    ]
+  },
+  "graph": { "nodes": 3938, "edges": 4157 },
+  "validatorStatus": "✅ Валидация пройдена — критических проблем нет (0 ERROR)"
+}

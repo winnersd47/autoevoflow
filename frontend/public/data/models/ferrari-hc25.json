@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-hc25",
+  "slug": "ferrari-hc25",
+  "name": "Ferrari HC25",
+  "fullName": "Ferrari HC25",
+  "brandId": "ferrari",
+  "bodyType": "roadster",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "One-off программы Ferrari Special Projects — представлен 15 мая 2026 на Ferrari Racing Days (трасса COTA, США). Донор шасси/двигателя подтверждён самой Ferrari: F8 Spider (мид-шип твин-турбо V8 3.9Л, 720 л.с.), но кузов полностью новый — двухобъёмный силуэт со сквозной несущей центральной лентой. Дизайн — Ferrari Design Studio под руководством Flavio Manzoni.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-HC25-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-HC25-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.317Z",
+  "updatedAt": "2026-10-29T11:36:10.317Z"
+}

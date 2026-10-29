@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-cx-6e",
+  "slug": "mazda-cx-6e",
+  "name": "Mazda CX-6e",
+  "fullName": "Mazda CX-6e",
+  "brandId": "mazda",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Экспортное имя китайской Mazda EZ-60 (СП Changan-Mazda), серийный электрокроссовер. Китай (EZ-60): старт продаж сент. 2025. Экспорт как CX-6e: Европа/Австралия — 2026-2027. Один электромотор 190кВт/258PS, 290Нм, батарея LFP 78кВтч, WLTP 484км, быстрая зарядка до 195кВт (10-80% за 24мин). Габариты 4.85×1.94×1.62м. Источник: paultan.org, Wikipedia (Mazda CX-6e), carexpert.com.au, electrive.com.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mazda-CX-6e-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mazda-CX-6e-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.437Z",
+  "updatedAt": "2026-10-29T11:36:10.437Z"
+}

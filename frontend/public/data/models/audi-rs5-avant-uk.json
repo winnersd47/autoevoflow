@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-rs5-avant-uk",
+  "slug": "audi-rs5-avant-uk",
+  "name": "Audi RS5 Avant",
+  "fullName": "Audi RS5 Avant",
+  "brandId": "audi",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With their characteristic flared wheel arches, striking detailing and sizeable wheels the latest Audi RS5 models make no secret of their tremendous performance potential.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-RS5_Avant_UK-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-RS5_Avant_UK-Version-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.359Z",
+  "updatedAt": "2026-10-29T11:36:10.359Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-aston-martin-vantage",
+  "slug": "aston-martin-vantage",
+  "name": "Aston Martin Vantage F1 Edition",
+  "fullName": "Aston Martin Vantage F1 Edition",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Спецверсия в честь возвращения Aston Martin в Формулу-1 (сезон 2021). Доработанный 4.0Т V8 — 535hp/505lb-ft (+32hp к базовой версии), новый передний сплиттер/аэро-флики/диффузор/антикрыло — суммарно 200кг прижимной силы к максимальной скорости против обычного Vantage. 0-62 за 3.6с, макс. 195mph. Продавалась 2021-2024.",
+  "generationCount": 16,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:37:44.523Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg/3840px-2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg/3840px-2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T11:37:44.525Z"
+}

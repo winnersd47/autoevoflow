@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-cla45-amg-4matic",
+  "slug": "mercedes-cla45-amg-4matic",
+  "name": "Mercedes-Benz CLA45 AMG 4Matic",
+  "fullName": "Mercedes-Benz CLA45 AMG 4Matic",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "CLA45 4Matic+ completes the sprint from standstill to 100 kmh in 2.7 seconds - a value that is equivalent to that of a super sports car.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-CLA45_AMG_4Matic-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-CLA45_AMG_4Matic-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.394Z",
+  "updatedAt": "2026-10-29T11:36:10.394Z"
+}

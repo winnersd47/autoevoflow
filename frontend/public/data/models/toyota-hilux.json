@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-hilux",
+  "slug": "toyota-hilux",
+  "name": "Toyota HiLux",
+  "fullName": "Toyota HiLux",
+  "brandId": "toyota",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "The design of the all-new Toyota HiLux - both inside and out - marks a step up from the previous generation, giving the model new proportions and an unmistakeable identity.",
+  "generationCount": 2,
+  "heroImageUrl": "https://www.netcarshow.com/Toyota-HiLux-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Toyota-HiLux-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.366Z",
+  "updatedAt": "2026-10-29T11:36:10.366Z"
+}

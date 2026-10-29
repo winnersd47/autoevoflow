@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-a6-etron",
+  "slug": "audi-a6-etron",
+  "name": "A6 e-tron",
+  "fullName": "A6 e-tron",
+  "brandId": "audi",
+  "bodyType": "sedan",
+  "segment": "electric",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 3,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-A6_Avant_e-tron_Concept-2022-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-A6_Avant_e-tron_Concept-2022-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.319Z",
+  "updatedAt": "2026-10-29T11:36:10.319Z"
+}

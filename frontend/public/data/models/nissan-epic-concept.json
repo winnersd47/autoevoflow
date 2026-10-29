@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-epic-concept",
+  "slug": "nissan-epic-concept",
+  "name": "Nissan Epic Concept",
+  "fullName": "Nissan Epic Concept",
+  "brandId": "nissan",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "The Nissan Epic Concept is an EV SUV perfectly suited for adventurous city couples who explore on weekends, with autonomous driving for both the city and...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Epic_Concept-2024-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Epic_Concept-2024-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.369Z",
+  "updatedAt": "2026-10-29T11:36:10.369Z"
+}

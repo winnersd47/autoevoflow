@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-luce",
+  "slug": "ferrari-luce",
+  "name": "Ferrari Luce",
+  "fullName": "Ferrari Luce",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Первый серийный электромобиль Ferrari. Показан под рабочим названием Elettrica на Capital Markets Day 9 окт. 2025 (шасси/техника), финальное имя Luce (\"свет\", ит.) и дизайн раскрыты в мае 2026. 4 полноценных места, несущая структурная батарея 122кВтч, 2 электромотора на ось (с F1-технологией Halbach), суммарно 1000+ л.с., 0-100 за 2.5с, запас хода ~530км. Поставки с окт. 2026.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-Luce-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-Luce-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.297Z",
+  "updatedAt": "2026-10-29T11:36:10.297Z"
+}

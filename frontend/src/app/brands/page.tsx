@@ -1,48 +1,19 @@
 'use client'
 
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { motion } from 'framer-motion'
 import { Search, Globe, Zap, TrendingUp } from 'lucide-react'
 import { useLocale } from '@/contexts/LocaleContext'
 
-const ALL_BRANDS = [
-  { name: 'BMW', country: 'Germany', founded: 1916, models: 48, tag: 'premium' },
-  { name: 'Mercedes-Benz', country: 'Germany', founded: 1926, models: 62, tag: 'luxury' },
-  { name: 'Audi', country: 'Germany', founded: 1909, models: 41, tag: 'premium' },
-  { name: 'Porsche', country: 'Germany', founded: 1931, models: 18, tag: 'sports' },
-  { name: 'Volkswagen', country: 'Germany', founded: 1937, models: 35, tag: 'mainstream' },
-  { name: 'Ferrari', country: 'Italy', founded: 1939, models: 52, tag: 'supercar' },
-  { name: 'Lamborghini', country: 'Italy', founded: 1963, models: 24, tag: 'supercar' },
-  { name: 'Alfa Romeo', country: 'Italy', founded: 1910, models: 38, tag: 'sports' },
-  { name: 'Maserati', country: 'Italy', founded: 1914, models: 16, tag: 'luxury' },
-  { name: 'Toyota', country: 'Japan', founded: 1937, models: 72, tag: 'mainstream' },
-  { name: 'Honda', country: 'Japan', founded: 1948, models: 58, tag: 'mainstream' },
-  { name: 'Nissan', country: 'Japan', founded: 1933, models: 44, tag: 'mainstream' },
-  { name: 'Mazda', country: 'Japan', founded: 1920, models: 31, tag: 'mainstream' },
-  { name: 'Subaru', country: 'Japan', founded: 1953, models: 22, tag: 'mainstream' },
-  { name: 'Lexus', country: 'Japan', founded: 1989, models: 28, tag: 'luxury' },
-  { name: 'Mitsubishi', country: 'Japan', founded: 1917, models: 26, tag: 'mainstream' },
-  { name: 'Ford', country: 'USA', founded: 1903, models: 55, tag: 'mainstream' },
-  { name: 'Chevrolet', country: 'USA', founded: 1911, models: 47, tag: 'mainstream' },
-  { name: 'Dodge', country: 'USA', founded: 1900, models: 22, tag: 'sports' },
-  { name: 'Cadillac', country: 'USA', founded: 1902, models: 31, tag: 'luxury' },
-  { name: 'Tesla', country: 'USA', founded: 2003, models: 8, tag: 'ev' },
-  { name: 'Rivian', country: 'USA', founded: 2009, models: 4, tag: 'ev' },
-  { name: 'Peugeot', country: 'France', founded: 1882, models: 39, tag: 'mainstream' },
-  { name: 'Renault', country: 'France', founded: 1899, models: 42, tag: 'mainstream' },
-  { name: 'Citroën', country: 'France', founded: 1919, models: 35, tag: 'mainstream' },
-  { name: 'Lotus', country: 'UK', founded: 1948, models: 7, tag: 'sports' },
-  { name: 'McLaren', country: 'UK', founded: 1963, models: 20, tag: 'supercar' },
-  { name: 'Aston Martin', country: 'UK', founded: 1913, models: 24, tag: 'luxury' },
-  { name: 'Bentley', country: 'UK', founded: 1919, models: 12, tag: 'luxury' },
-  { name: 'Rolls-Royce', country: 'UK', founded: 1906, models: 8, tag: 'luxury' },
-  { name: 'Jaguar', country: 'UK', founded: 1922, models: 28, tag: 'luxury' },
-  { name: 'Land Rover', country: 'UK', founded: 1948, models: 16, tag: 'premium' },
-  { name: 'Hyundai', country: 'S.Korea', founded: 1967, models: 38, tag: 'mainstream' },
-  { name: 'Kia', country: 'S.Korea', founded: 1944, models: 34, tag: 'mainstream' },
-  { name: 'Genesis', country: 'S.Korea', founded: 2015, models: 10, tag: 'luxury' },
-]
+interface BrandEntry {
+  id: string
+  name: string
+  country: string
+  founded: number
+  models: number
+  tag: string
+}
 
 const TAG_COLORS: Record<string, string> = {
   supercar: 'text-red-400 bg-red-400/10 border-red-400/30',
@@ -58,7 +29,17 @@ const TAGS = ['all', 'supercar', 'luxury', 'sports', 'premium', 'mainstream', 'e
 export default function BrandsPage() {
   const [search, setSearch] = useState('')
   const [activeTag, setActiveTag] = useState('all')
+  const [allBrands, setAllBrands] = useState<BrandEntry[]>([])
+  const [loading, setLoading] = useState(true)
   const { t } = useLocale()
+
+  useEffect(() => {
+    fetch('/api/brands')
+      .then(r => r.json())
+      .then(d => setAllBrands(d.brands ?? []))
+      .catch(() => setAllBrands([]))
+      .finally(() => setLoading(false))
+  }, [])
 
   const TAG_LABELS: Record<string, string> = {
     all: t('brands.tagAll'),
@@ -70,7 +51,7 @@ export default function BrandsPage() {
     ev: t('brands.tagEv'),
   }
 
-  const filtered = ALL_BRANDS.filter(b => {
+  const filtered = allBrands.filter(b => {
     const matchSearch = b.name.toLowerCase().includes(search.toLowerCase()) ||
                         b.country.toLowerCase().includes(search.toLowerCase())
     const matchTag = activeTag === 'all' || b.tag === activeTag
@@ -95,7 +76,7 @@ export default function BrandsPage() {
             {t('brands.heading')}
           </h1>
           <p className="text-text-secondary text-lg max-w-xl">
-            {t('brands.desc', { count: ALL_BRANDS.length })}
+            {t('brands.desc', { count: allBrands.length })}
           </p>
         </motion.div>
 
@@ -155,20 +136,30 @@ export default function BrandsPage() {
           </span>
         </motion.div>
 
+        {/* Loading skeleton */}
+        {loading && (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+            {Array.from({ length: 8 }).map((_, i) => (
+              <div key={i} className="h-[132px] rounded-2xl bg-white/[0.03] border border-white/8 animate-pulse" />
+            ))}
+          </div>
+        )}
+
         {/* Grid */}
+        {!loading && (
         <motion.div
           layout
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"
         >
           {filtered.map((brand, i) => (
             <motion.div
-              key={brand.name}
+              key={brand.id}
               layout
               initial={{ opacity: 0, scale: 0.95 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: i * 0.03, duration: 0.3 }}
             >
-              <Link href={`/brand/${brand.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}>
+              <Link href={`/brand/${brand.id}`}>
                 <div className="group p-5 rounded-2xl bg-white/[0.03] border border-white/8
                   hover:border-primary/30 hover:bg-primary/[0.04]
                   transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[0_8px_32px_rgba(0,212,255,0.1)]
@@ -212,8 +203,9 @@ export default function BrandsPage() {
             </motion.div>
           ))}
         </motion.div>
+        )}
 
-        {filtered.length === 0 && (
+        {!loading && filtered.length === 0 && (
           <div className="text-center py-24 text-text-muted">
             <Zap className="w-12 h-12 mx-auto mb-4 opacity-30" />
             <p className="text-lg">{t('brands.noResults')}</p>

@@ -2722,6 +2722,15 @@
       "scrapedAt": "2026-10-19T14:04:01.384Z"
     },
     {
+      "id": "ncs-nissan-2027-pathfinder_special_edition",
+      "name": "Nissan Pathfinder Special Edition",
+      "year": 2027,
+      "imageUrl": "https://www.netcarshow.com/Nissan-Pathfinder_Special_Edition-2027-wallpaper.jpg",
+      "pageUrl": "https://www.netcarshow.com/nissan/2027-pathfinder_special_edition/",
+      "description": "Intended to celebrate the nameplate's 40th year in the marketplace, the Nissan Pathfinder Special Edition pays homage to the first-generation Pathfinder...",
+      "scrapedAt": "2026-10-26T14:03:53.991Z"
+    },
+    {
       "id": "ncs-nissan-2026-terrano_suv_phev_concept",
       "name": "Nissan Terrano SUV PHEV Concept",
       "year": 2026,
@@ -2738,15 +2747,6 @@
       "pageUrl": "https://www.carscoops.com/2026/06/2027-nissan-frontier-pricing/",
       "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/2027-Nissan-Frontier-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-",
       "scrapedAt": "2026-06-16T07:53:02.800Z"
-    },
-    {
-      "id": "cad-news-a71770532-2026-nissan-frontier-america-250-badge",
-      "name": "2026 Nissan Frontier Celebrates America with Free Patriotic Badge",
-      "year": 2026,
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/da5b22e8-55f2-4b40-88e5-4039e9f8aa46.jpg",
-      "pageUrl": "https://www.caranddriver.com/news/a71770532/2026-nissan-frontier-america-250-badge/",
-      "description": "Not only is Nissan honoring our country's 250th birthday, but it has also now built 1 million Frontiers at its factory in Canton, Mississippi.",
-      "scrapedAt": "2026-07-01T09:22:51.321Z"
     }
   ]
 }

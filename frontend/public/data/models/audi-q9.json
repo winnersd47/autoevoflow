@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-q9",
+  "slug": "audi-q9",
+  "name": "Audi Q9",
+  "fullName": "Audi Q9",
+  "brandId": "audi",
+  "bodyType": "suv",
+  "segment": "full_size_suv",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Audi Q9 is unapologetically high status. Measuring 5.31m long, 2.21m wide, and 1.81m tall, with a wheelbase of 3.14m, it is the largest Audi of all time.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-Q9-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-Q9-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.432Z",
+  "updatedAt": "2026-10-29T11:36:10.432Z"
+}

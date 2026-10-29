@@ -1,0 +1,20 @@
+{
+  "id": "sync-hennessey-blackbird",
+  "slug": "hennessey-blackbird",
+  "name": "Hennessey Blackbird",
+  "fullName": "Hennessey Blackbird",
+  "brandId": "hennessey",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2030,
+  "isActive": true,
+  "description": "Hennessey Blackbird is a deliberate counterpoint to the hypercar world's drift toward greater weight, complexity, electrification, and digital mediation.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Hennessey-Blackbird-2030-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Hennessey-Blackbird-2030-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.414Z",
+  "updatedAt": "2026-10-29T11:36:10.414Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-mclaren-788hs-spider",
+  "slug": "mclaren-788hs-spider",
+  "name": "McLaren 788HS Spider",
+  "fullName": "McLaren 788HS Spider",
+  "brandId": "mclaren",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "McLaren 788HS features a 788PS 4.0-litre twin turbo V8, which combines with a 1,265kg dry weight to deliver a power-to-weight of 623PS per tonne...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/McLaren-788HS_Spider-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/McLaren-788HS_Spider-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.391Z",
+  "updatedAt": "2026-10-29T11:36:10.391Z"
+}

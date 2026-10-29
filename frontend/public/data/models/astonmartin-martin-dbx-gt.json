@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-martin-dbx-gt",
+  "slug": "astonmartin-martin-dbx-gt",
+  "name": "Aston Martin DBX GT",
+  "fullName": "Aston Martin DBX GT",
+  "brandId": "astonmartin",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Visually the Aston Martin DBX GT is distinguished by comprehensive exterior changes which emphasise the renowned form and proportions of Aston Martin's acclaimed SUV.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Aston_Martin-DBX_GT-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Aston_Martin-DBX_GT-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.457Z",
+  "updatedAt": "2026-10-29T11:36:10.457Z"
+}

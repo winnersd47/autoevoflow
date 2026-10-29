@@ -1,0 +1,20 @@
+{
+  "id": "sync-lexus-es-350e",
+  "slug": "lexus-es-350e",
+  "name": "Lexus ES 350e",
+  "fullName": "Lexus ES 350e",
+  "brandId": "lexus",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The ES uses a new Lexus battery electric system that has been developed with a focus on delivering an evolution of the Lexus Driving Signature that creates a sharpened...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-ES_350e-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-ES_350e-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.312Z",
+  "updatedAt": "2026-10-29T11:36:10.312Z"
+}

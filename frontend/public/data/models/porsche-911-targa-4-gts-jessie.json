@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-911-targa-4-gts-jessie",
+  "slug": "porsche-911-targa-4-gts-jessie",
+  "name": "Porsche 911 Targa 4 GTS Jessie",
+  "fullName": "Porsche 911 Targa 4 GTS Jessie",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Jessie's character is represented by a 532 hp 2026 911 Targa 4 GTS customized mostly by hand by the Sonderwunsch department. The interior of the 911 Targa 4 GTS is custom-made...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-911_Targa_4_GTS_Jessie-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-911_Targa_4_GTS_Jessie-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.329Z",
+  "updatedAt": "2026-10-29T11:36:10.329Z"
+}

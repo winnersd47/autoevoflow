@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-911-gt4-r",
+  "slug": "porsche-911-gt4-r",
+  "name": "Porsche 911 GT4 R",
+  "fullName": "Porsche 911 GT4 R",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Porsche 911 GT4 R builds on the technical foundation of the current Cup version, which is based on the road-legal 911 GT3 of the 992.2 generation.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-911_GT4_R-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-911_GT4_R-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.363Z",
+  "updatedAt": "2026-10-29T11:36:10.363Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-ix5-first",
+  "slug": "bmw-bmw-ix5-first",
+  "name": "2027 BMW iX5 First",
+  "fullName": "2027 BMW iX5 First",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The new BMW X5 comes in gas and electric forms. They're both good, but with super-fast charging and over 430 miles of range, the EV's a bit more special. The post 2027 BMW iX5 First Drive Review: Bett",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/BMW-iX5-09.jpg?quality=85&amp;w=2048",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/BMW-iX5-09.jpg?quality=85&amp;w=2048",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2027-bmw-ix5-first-drive-review-better-than-the-gas-one",
+  "isLatest": true,
+  "scrapedAt": "2026-10-22T20:04:01.092Z",
+  "createdAt": "2026-10-22T20:04:03.199Z",
+  "updatedAt": "2026-10-22T20:04:03.199Z"
+}

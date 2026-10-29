@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-veyron-la-maison-pur-sang-20-years",
+  "slug": "bugatti-veyron-la-maison-pur-sang-20-years",
+  "name": "Bugatti Veyron La Maison Pur Sang 20 Years",
+  "fullName": "Bugatti Veyron La Maison Pur Sang 20 Years",
+  "brandId": "bugatti",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Заводская реставрация ОДНОГО конкретного клиентского Veyron 16.4 (2005) руками реставрационного подразделения Bugatti \"La Maison Pur Sang\" к 20-летию модели (анонс авг. 2026). Двухцветная окраска Rouge Rembrandt (цвет с Tourbillon) + Petrol Blue (фирменный цвет Chiron), 3D-сетка воздухозаборников, разноразмерные колёса 20\"/21\", салон Magnolia со строчкой Moccasin. Один экземпляр — не отдельная производственная версия.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Bugatti-Veyron_La_Maison_Pur_Sang_20_Years-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Bugatti-Veyron_La_Maison_Pur_Sang_20_Years-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.427Z",
+  "updatedAt": "2026-10-29T11:36:10.427Z"
+}

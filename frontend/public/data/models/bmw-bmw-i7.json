@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-i7",
+  "slug": "bmw-bmw-i7",
+  "name": "BMW i7",
+  "fullName": "2027 BMW i7",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "2027 BMW 7-Series represents the most extensive model update ever undertaken by BMW. The BMW i7 captures the range's forward-looking premium character with particular flair...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-i7-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-i7-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/bmw/2027-i7/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-25T20:04:01.414Z",
+  "createdAt": "2026-10-25T20:04:02.772Z",
+  "updatedAt": "2026-10-25T20:04:02.772Z"
+}

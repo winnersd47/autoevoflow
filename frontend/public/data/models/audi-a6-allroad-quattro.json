@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-a6-allroad-quattro",
+  "slug": "audi-a6-allroad-quattro",
+  "name": "Audi A6 allroad quattro",
+  "fullName": "Audi A6 allroad quattro",
+  "brandId": "audi",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "It is clear at first glance how skillfully the new Audi A6 allroad combines elegance with off-road capabilities. The model boasts a consistently sporty yet rugged exterior...",
+  "generationCount": 2,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-A6_allroad_quattro-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-A6_allroad_quattro-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.360Z",
+  "updatedAt": "2026-10-29T11:36:10.360Z"
+}

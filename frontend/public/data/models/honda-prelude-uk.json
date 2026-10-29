@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-prelude-uk",
+  "slug": "honda-prelude-uk",
+  "name": "Honda Prelude",
+  "fullName": "Honda Prelude",
+  "brandId": "honda",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "When designing the new Prelude, Honda engineers wanted to emulate the grace and simplicity of modern gliders, offering clean surfaces that blend with carefully considered...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Honda-Prelude_UK-Version-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Honda-Prelude_UK-Version-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.314Z",
+  "updatedAt": "2026-10-29T11:36:10.314Z"
+}

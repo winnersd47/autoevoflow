@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-solitaire",
+  "slug": "bugatti-solitaire",
+  "name": "Bugatti F.K.P. Hommage",
+  "fullName": "Bugatti F.K.P. Hommage",
+  "brandId": "bugatti",
+  "bodyType": "roadster",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Второй в Programme Solitaire (после Brouillard) — трибьют Veyron (шасси №001) к 20-летию модели и памяти Ferdinand Karl Piëch, конструктора оригинального Veyron; агрегаты Chiron Super Sport. Представлен янв. 2026. Источник: autoblog, Wikipedia.",
+  "generationCount": 2,
+  "heroImageUrl": "https://www.netcarshow.com/Bugatti-Destrier-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Bugatti-Destrier-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.419Z",
+  "updatedAt": "2026-10-29T11:36:10.419Z"
+}

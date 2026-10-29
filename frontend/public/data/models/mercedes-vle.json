@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-vle",
+  "slug": "mercedes-vle",
+  "name": "Mercedes-Benz VLE",
+  "fullName": "Mercedes-Benz VLE",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Mercedes-Benz VLE embodies a completely new design with a low, streamlined silhouette and iconic aesthetics resulting in outstanding aerodynamics...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-VLE-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-VLE-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.360Z",
+  "updatedAt": "2026-10-29T11:36:10.360Z"
+}

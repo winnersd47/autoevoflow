@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-rs3-sportback-competition-limited-uk",
+  "slug": "audi-rs3-sportback-competition-limited-uk",
+  "name": "Audi RS3 Sportback competition limited",
+  "fullName": "Audi RS3 Sportback competition limited",
+  "brandId": "audi",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Dynamically, the RS3 competition limited is characterized by an adjustable coilover suspension, a stiffer rear stabilizer, the RS sport exhaust system, a top speed of 290 kmh...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-RS3_Sportback_competition_limited_UK-Version-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-RS3_Sportback_competition_limited_UK-Version-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.427Z",
+  "updatedAt": "2026-10-29T11:36:10.427Z"
+}

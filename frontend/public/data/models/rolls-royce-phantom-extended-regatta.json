@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-phantom-extended-regatta",
+  "slug": "rolls-royce-phantom-extended-regatta",
+  "name": "Rolls-Royce Phantom Regatta",
+  "fullName": "Rolls-Royce Phantom Regatta",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Подтверждено веб-поиском (press.rolls-roycemotorcars.com) — уникальный one-of-one bespoke-заказ Mulliner на базе Phantom Extended (EWB), дебютировал на Goodwood Festival of Speed 2026, тема — яхты/регаты южного побережья Англии (Solent). Тот же 6.75Л твин-турбо V12, 563 л.с./664 lb-ft, что и у базового Phantom EWB — не отдельная механическая версия, не отдельный кузов. zone/bodyType/engineType были ошибочно midsize_sed/coupe/i4t (артефакт скрейпера) — это полноразмерный флагманский седан. Источники: press.rolls-roycemotorcars.com, carscoops.com.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Phantom_Extended_Regatta-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Phantom_Extended_Regatta-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.384Z",
+  "updatedAt": "2026-10-29T11:36:10.384Z"
+}

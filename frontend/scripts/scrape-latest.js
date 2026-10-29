@@ -244,11 +244,18 @@ async function scrapeNetCarShowPage(url, sourceTag) {
     const baseKey  = thumbRelPath.replace('/R/', '').replace(/-thb\.jpg$/, '')
     const imageUrl = `https://www.netcarshow.com/${baseKey}-wallpaper.jpg`
 
+    // brandSlug содержит ровно столько слов (через _), сколько слов в реальном
+    // названии бренда на странице — надёжнее, чем "взять первое слово текста"
+    // (ломалось на двусловных брендах: "Land Rover Defender Vertex" отдавало
+    // brand="Land", потом это "Land" без "Rover" утекало дальше по пайплайну).
+    const brandWordCount = brandSlug.split('_').length
+    const brandName = fullLinkText.split(' ').slice(0, brandWordCount).join(' ')
+
     cars.push({
       id: `ncs-${brandSlug}-${modelSlug}`,
       source: sourceTag,
       sourceLabel: 'NetCarShow',
-      brand: fullLinkText.split(' ')[0],
+      brand: brandName,
       brandSlug,
       name: fullLinkText,
       fullName: year ? `${year} ${fullLinkText}` : fullLinkText,

@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-w16-mistral-blanc-eternel",
+  "slug": "bugatti-w16-mistral-blanc-eternel",
+  "name": "W16 Mistral Blanc Éternel",
+  "fullName": "W16 Mistral Blanc Éternel",
+  "brandId": "bugatti",
+  "bodyType": "roadster",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Именной one-off Sur Mesure — возрождение партнёрства Bugatti с мануфактурой фарфора KPM Berlin (та же тема, что у Veyron L'Or Blanc, 2011): настоящий фарфор в отделке кузова и салона. Источник: Bugatti Newsroom, netcarshow 2026.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Bugatti-W16_Mistral_Blanc_Eternel-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Bugatti-W16_Mistral_Blanc_Eternel-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.370Z",
+  "updatedAt": "2026-10-29T11:36:10.370Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-spectre-series-ii",
+  "slug": "rolls-royce-spectre-series-ii",
+  "name": "Spectre Series II",
+  "fullName": "Spectre Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Подтверждено веб-поиском — реальный рестайлинг, не дубль/не шум скрейпера: батарея 102→112 кВтч, запас хода WLTP +18% (627км/390 миль), новые 23\" диски, отделка Duality Twill. Мощность базовой (не Black Badge) версии в источниках не меняется относительно rr-spectre (577 л.с.) — прирост мощности, упоминаемый в прессе, относится к Black Badge Series II (см. соседний узел). Источники: autoevolution.com, carbuzz.com, bmwblog.com, pistonheads.com.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Spectre_Series_II-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Spectre_Series_II-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.296Z",
+  "updatedAt": "2026-10-29T11:36:10.296Z"
+}

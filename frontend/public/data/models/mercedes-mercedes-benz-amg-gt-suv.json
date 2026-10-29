@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-amg-gt-suv",
+  "slug": "mercedes-mercedes-benz-amg-gt-suv",
+  "name": "Mercedes-Benz AMG GT SUV",
+  "fullName": "2027 Mercedes-Benz AMG GT SUV",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Despite its sporty silhouette, the rear seat offers generous headroom and legroom as well as a comfortable seating position, making the AMG GT SUV ideal for long journeys.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_SUV-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-AMG_GT_SUV-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-amg_gt_suv/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-21T06:48:53.327Z",
+  "createdAt": "2026-10-21T06:49:01.580Z",
+  "updatedAt": "2026-10-21T06:49:01.580Z"
+}

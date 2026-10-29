@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-gle63-s-amg-coupe",
+  "slug": "mercedes-gle63-s-amg-coupe",
+  "name": "Mercedes-Benz GLE63 S AMG Coupe",
+  "fullName": "Mercedes-Benz GLE63 S AMG Coupe",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With the version of the M177 EVO presented in the new GLE 63 S, AMG is laying the foundation for a new generation of V8 engines that will be both more powerful and...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLE63_S_AMG_Coupe-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-GLE63_S_AMG_Coupe-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.362Z",
+  "updatedAt": "2026-10-29T11:36:10.362Z"
+}

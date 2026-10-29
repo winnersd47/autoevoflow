@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-ix3-m60-xdrive",
+  "slug": "bmw-ix3-m60-xdrive",
+  "name": "BMW iX3 M60 xDrive (Neue Klasse)",
+  "fullName": "BMW iX3 M60 xDrive (Neue Klasse)",
+  "brandId": "bmw",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Топовая M Performance-версия iX3 Neue Klasse, анонсирована в октябре 2026 вместе с iX4. Два мотора, 450 кВт/612 л.с., 875 Нм, адаптивная M-подвеска, электронно управляемая M-блокировка заднего дифференциала. Источник: bmwblog.com, bimmerlife.com, autoevolution.com (2026).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-iX3_M60_xDrive-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX3_M60_xDrive-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.465Z",
+  "updatedAt": "2026-10-29T11:36:10.465Z"
+}

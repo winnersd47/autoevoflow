@@ -1,0 +1,26 @@
+{
+  "id": "ncs-bmw-bmw-x5-first",
+  "slug": "bmw-bmw-x5-first",
+  "name": "2027 BMW X5 First",
+  "fullName": "2027 BMW X5 First",
+  "brandId": "bmw",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Ever wanted an EV but wished it wasn't electric? That's the vibe of the all-new gas-powered BMW X5. The post 2027 BMW X5 First Drive Review: They Made an EV With an Inline-6 appeared first on The Driv",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/BMW-X5-01.jpg?quality=85&amp;w=2048",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/BMW-X5-01.jpg?quality=85&amp;w=2048",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2027-bmw-x5-first-drive-review",
+  "isLatest": true,
+  "scrapedAt": "2026-10-22T20:04:01.092Z",
+  "createdAt": "2026-10-22T20:04:03.199Z",
+  "updatedAt": "2026-10-22T20:04:03.199Z"
+}

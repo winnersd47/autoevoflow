@@ -1,0 +1,26 @@
+{
+  "id": "ncs-ford-ford-mustang-mach-e-trail",
+  "slug": "ford-ford-mustang-mach-e-trail",
+  "name": "Ford Mustang Mach-E Trail",
+  "fullName": "2027 Ford Mustang Mach-E Trail",
+  "brandId": "ford",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Mustang Mach-E Trail features specially tuned suspension with front and rear passive struts and springs, providing additional ride height compared with Mustang Mach-E...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ford-Mustang_Mach-E_Trail-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ford-Mustang_Mach-E_Trail-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/ford/2027-mustang_mach-e_trail/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-22T20:04:02.949Z",
+  "createdAt": "2026-10-22T20:04:03.195Z",
+  "updatedAt": "2026-10-22T20:04:03.196Z"
+}

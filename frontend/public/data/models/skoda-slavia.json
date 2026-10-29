@@ -1,0 +1,20 @@
+{
+  "id": "sync-skoda-slavia",
+  "slug": "skoda-slavia",
+  "name": "Skoda Slavia",
+  "fullName": "Skoda Slavia",
+  "brandId": "skoda",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Седан для развивающихся рынков (Индия и др.) — первое появление модели в графе.",
+  "generationCount": 2,
+  "heroImageUrl": "https://www.netcarshow.com/Skoda-Slavia-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Slavia-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.426Z",
+  "updatedAt": "2026-10-29T11:36:10.426Z"
+}

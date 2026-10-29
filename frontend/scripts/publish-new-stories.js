@@ -41,6 +41,12 @@ const LATEST_JSON      = path.join(__dirname, '../public/data/latest-cars.json')
 const GRAPH_JSON       = path.join(__dirname, '../public/data/evolution/graph.json')
 const PUBLISHED_IDS    = path.join(__dirname, '../public/data/published-ids.json')
 const PUBLISHED_STORIES = path.join(__dirname, '../public/data/published-stories.json')
+// Реестр "какая реальная модель графа уже получала пост" — отдельно от
+// publishedKeys/records (те ключуются по modelKey СТАТЬИ, который у разных
+// источников про одну и ту же машину может не совпасть, напр. "q9-first-" у
+// The Drive против "q9" у NCS — поэтому не ловит межисточниковые дубли).
+// Этот реестр ключуется по ctx.matchedNode (реальный узел графа) — надёжнее.
+const MODEL_LINK_REGISTRY = path.join(__dirname, '../public/data/model-link-registry.json')
 const MAX_PUBLISHED_STORIES = 60 // с запасом перекрывает окно между 6-часовыми прогонами
 
 // Второй (свободный/тизерный) канал — опционально
@@ -214,9 +220,14 @@ function getGraphContext(car, graph) {
   // равно получала score=1 на ВСЕХ нодах бренда и "побеждала" по порядку в массиве —
   // например, спекулятивно матчилась на CTS Gen.1 (2003) просто потому что та шла первой.
   const brandWords = (car.brand || car.brandName || '').toLowerCase().split(/\s+/).filter(Boolean)
+  // Буква+цифра (q9, x3, m3, i4, rs3...) пропускаем даже при длине 2 — иначе
+  // "2027 Audi Q9 First-Drive" терял единственный значимый токен ("q9" короче
+  // порога >2), совпадений не находилось вообще, и пост уходил на /latest/
+  // вместо /model/audi-q9, хотя узел в графе есть (живой случай, 28.10.2026).
+  const SHORT_MODEL_CODE = /^[a-z]+\d+$/
   const tokens  = (car.name || car.fullName || '')
     .toLowerCase().split(/\s+/)
-    .filter(t => t.length > 2 && !/^\d{4}$/.test(t) && !/^the|and|new$/.test(t))
+    .filter(t => (t.length > 2 || SHORT_MODEL_CODE.test(t)) && !/^\d{4}$/.test(t) && !/^the|and|new$/.test(t))
     .filter(t => !brandWords.includes(t))
 
   const byId   = Object.fromEntries(graph.nodes.map(n => [n.id, n]))
@@ -236,7 +247,7 @@ function getGraphContext(car, graph) {
     const lbl = n.label.toLowerCase()
     const matchedTokens = tokens.filter(t => lbl.includes(t))
     return { node: n, score: matchedTokens.length, matchedTokens }
-  }).filter(x => x.score >= 2 || (x.score === 1 && x.matchedTokens[0].length >= 5))
+  }).filter(x => x.score >= 2 || (x.score === 1 && (x.matchedTokens[0].length >= 5 || SHORT_MODEL_CODE.test(x.matchedTokens[0]))))
     .sort((a, b) => b.score - a.score)
 
   const match = scored[0]?.node
@@ -1007,15 +1018,37 @@ async function fetchWikipediaImage(label, brand) {
 }
 
 // ─── Telegram API ─────────────────────────────────────────────────────────────
-async function tgRequest(method, body) {
-  const res = await fetch(`${tgBase()}/${method}`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(body),
-    signal: AbortSignal.timeout(15000),
-  })
+// НЕ ретраим сетевые таймауты/обрывы сами по себе — Telegram может уже принять
+// и отправить сообщение до того, как ответ дойдёт до нас (sendPhoto/sendMessage
+// не идемпотентны, повторный вызов = реальный дубль в канале, именно так уже
+// предположительно случилось один раз). Единственный случай, где повтор
+// безопасен и ожидаем протоколом — явный ответ Telegram {ok:false, error_code:429}
+// с retry_after: здесь Telegram точно НЕ обработал запрос, значит отправки не было.
+async function tgRequest(method, body, _retried = false) {
+  let res
+  try {
+    res = await fetch(`${tgBase()}/${method}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+      signal: AbortSignal.timeout(15000),
+    })
+  } catch (e) {
+    // Явная метка в сообщении об ошибке — чтобы при разборе логов было видно,
+    // что сообщение МОГЛО уйти (Telegram мог принять запрос раньше обрыва),
+    // в отличие от чёткого отказа Telegram (неверный chat_id, бан и т.п.).
+    throw new Error(`TG ${method}: сеть оборвалась ДО получения ответа (мог(ло) уйти, не уйти — неизвестно): ${e.message}`)
+  }
   const data = await res.json()
-  if (!data.ok) throw new Error(`TG ${method}: ${data.description}`)
+  if (!data.ok) {
+    if (!_retried && data.error_code === 429 && data.parameters?.retry_after) {
+      const waitMs = (data.parameters.retry_after + 1) * 1000
+      console.warn(`  ⏳ TG ${method}: flood control, жду ${waitMs / 1000}s и пробую ещё раз`)
+      await new Promise(r => setTimeout(r, waitMs))
+      return tgRequest(method, body, true)
+    }
+    throw new Error(`TG ${method}: ${data.description}`)
+  }
   return data
 }
 
@@ -1101,9 +1134,15 @@ function safeSliceHTML(html, maxVisible) {
 // модели). Теперь у каждой публикации есть конкретная страница: /model/{id}
 // для реального узла графа (там богаче — таймлайн, граф эволюции), иначе —
 // собственная /latest/{id} (см. src/app/latest/[id]/page.tsx).
-function resolvePageUrl(car) {
+function resolvePageUrl(car, matchedNode) {
   const siteUrl = (process.env.SITE_URL || 'http://localhost:3000').replace(/\/$/, '')
   if (car.source === 'graph' && car.pageUrl) return car.pageUrl
+  // matchedNode — результат getGraphContext(car, graph).matchedNode, найденный
+  // соответствующий узел графа (если есть). Раньше сюда ничего не передавалось,
+  // и функция реально никогда не возвращала /model/* для скрейпленных статей
+  // (car.source у них никогда не 'graph') — несмотря на комментарий выше,
+  // буквально обещающий именно такое поведение.
+  if (matchedNode) return `${siteUrl}/model/${matchedNode.modelSlug || matchedNode.id}`
   return `${siteUrl}/latest/${car.id}`
 }
 
@@ -1113,7 +1152,63 @@ function resolvePageUrl(car) {
 // Нужно, чтобы страница /latest на сайте могла показывать РЕАЛЬНО
 // опубликованные в VIP-канале посты (с AI-текстом и картинкой), а не сырой
 // нефильтрованный дамп скрапера без всякой связи с тем, что реально ушло в канал.
-function savePublishedStory(car, story) {
+// Идемпотентность тизера во SECONDARY_CH по modelKey — защита от повторного
+// "🚗 ..." в AutoEvoFlowGraphs, даже если publishCar по какой-то причине
+// отработает для одной и той же модели дважды (конкретную причину одного
+// такого случая — Cadillac Escalade-V 125th, 23.10.2026 — лог не объяснил:
+// планировщик отработал ровно один раз, в published-stories.json всего одна
+// запись, второго вызова publishTeaser в логе нет; раз причину не нашли,
+// подстраховываемся на уровне симптома).
+// ─── Реестр ссылок /model/{id} — одна реальная модель не должна получать
+// несколько постов от разных источников (напр. NetCarShow + The Drive про
+// один и тот же Audi Q9). NCS в приоритете: её материал всегда проходит,
+// остальные источники блокируются, если модель уже занята ЛЮБЫМ источником;
+// NCS блокируется, только если модель уже занята ДРУГОЙ публикацией NCS.
+function getModelLinkOwner(modelLinkKey) {
+  if (!modelLinkKey || !fs.existsSync(MODEL_LINK_REGISTRY)) return null
+  try {
+    const reg = JSON.parse(fs.readFileSync(MODEL_LINK_REGISTRY, 'utf-8'))
+    return reg[modelLinkKey] || null
+  } catch { return null }
+}
+
+function registerModelLink(modelLinkKey, car) {
+  if (!modelLinkKey) return
+  let reg = {}
+  if (fs.existsSync(MODEL_LINK_REGISTRY)) {
+    try { reg = JSON.parse(fs.readFileSync(MODEL_LINK_REGISTRY, 'utf-8')) } catch {}
+  }
+  reg[modelLinkKey] = {
+    source: car.source,
+    articleId: car.id,
+    articleTitle: car.name || car.fullName,
+    usedAt: new Date().toISOString(),
+  }
+  fs.mkdirSync(path.dirname(MODEL_LINK_REGISTRY), { recursive: true })
+  fs.writeFileSync(MODEL_LINK_REGISTRY, JSON.stringify(reg, null, 2))
+}
+
+function wasTeaserSent(modelKey) {
+  if (!modelKey) return false
+  if (!fs.existsSync(PUBLISHED_STORIES)) return false
+  try {
+    const list = JSON.parse(fs.readFileSync(PUBLISHED_STORIES, 'utf-8')).stories || []
+    return !!list.find(s => s.modelKey === modelKey)?.teaserSentAt
+  } catch { return false }
+}
+
+function markTeaserSent(modelKey) {
+  if (!modelKey || !fs.existsSync(PUBLISHED_STORIES)) return
+  try {
+    const data = JSON.parse(fs.readFileSync(PUBLISHED_STORIES, 'utf-8'))
+    const entry = (data.stories || []).find(s => s.modelKey === modelKey)
+    if (!entry) return
+    entry.teaserSentAt = new Date().toISOString()
+    fs.writeFileSync(PUBLISHED_STORIES, JSON.stringify(data, null, 2))
+  } catch {}
+}
+
+function savePublishedStory(car, story, matchedNode) {
   const modelKey = car._modelKey
   if (!modelKey) return // нет ключа модели — нечего связывать с историей публикаций
   let list = []
@@ -1135,7 +1230,7 @@ function savePublishedStory(car, story) {
     year:        car.year || null,
     story,                                               // тот же HTML (<b>/<i>), что в Telegram
     imageUrl:    car.imageUrl || prev?.imageUrl || null,
-    pageUrl:     resolvePageUrl(car) || prev?.pageUrl || null,
+    pageUrl:     resolvePageUrl(car, matchedNode) || prev?.pageUrl || null,
     source:      car.source,
     sourceLabel: car.sourceLabel,
     publishedAt: new Date().toISOString(),
@@ -1147,14 +1242,14 @@ function savePublishedStory(car, story) {
   fs.writeFileSync(PUBLISHED_STORIES, JSON.stringify({ stories: list, updatedAt: new Date().toISOString() }, null, 2))
 }
 
-function buildCaption(car, story) {
+function buildCaption(car, story, matchedNode) {
   const header = `<b>🚗 ${car.name || car.fullName}</b>\n` +
                  (car.year ? `<i>${car.year} · ${car.brand}</i>\n\n` : `<i>${car.brand}</i>\n\n`)
 
   // Никогда не кредитуем внешний источник в посте — только ссылка на свой же
   // проект, и всегда на страницу ИМЕННО этой модели (не на общий раздел
   // "Новинки") — см. resolvePageUrl().
-  const footerLink = `🔗 <a href="${resolvePageUrl(car)}">Открыть в AutoEvoFlow</a>`
+  const footerLink = `🔗 <a href="${resolvePageUrl(car, matchedNode)}">Открыть в AutoEvoFlow</a>`
   const footer = `\n\n${footerLink}`
 
   return header + story + footer
@@ -1162,8 +1257,8 @@ function buildCaption(car, story) {
 
 // Публикует новый пост. Возвращает { messageId, hasPhoto } — нужно для
 // последующего editCarPost, если по этой же модели найдётся уникальная инфа.
-async function publishToTelegram(car, story, channelId) {
-  const rawCaption = buildCaption(car, story)
+async function publishToTelegram(car, story, channelId, matchedNode) {
+  const rawCaption = buildCaption(car, story, matchedNode)
 
   if (car.imageUrl?.startsWith('http')) {
     // sendPhoto: try direct CDN URL first; if CDN blocks Telegram (anti-hotlink), download and upload buffer
@@ -1203,8 +1298,8 @@ async function publishToTelegram(car, story, channelId) {
 // Редактирует УЖЕ опубликованный пост новым (переработанным ИИ) текстом —
 // без смены картинки (Telegram не позволяет менять тип сообщения через edit,
 // и это не нужно: цель — дополнить факты, а не подменить фото).
-async function editTelegramPost(car, story, channelId, messageId, hasPhoto) {
-  const rawCaption = buildCaption(car, story)
+async function editTelegramPost(car, story, channelId, messageId, hasPhoto, matchedNode) {
+  const rawCaption = buildCaption(car, story, matchedNode)
   if (hasPhoto) {
     await tgRequest('editMessageCaption', {
       chat_id: channelId, message_id: messageId,
@@ -1433,6 +1528,16 @@ async function publishCar(car, graph, channelId) {
   console.log(`  📝 ${label}`)
 
   const ctx    = getGraphContext(car, graph)
+
+  // Межисточниковая защита от дублей по реальной модели графа (см. комментарий
+  // у getModelLinkOwner) — проверяем ДО генерации текста, чтобы не тратить
+  // AI-вызов на статью, которую всё равно отбросим.
+  const modelLinkKey = ctx.matchedNode ? (ctx.matchedNode.modelSlug || ctx.matchedNode.id) : null
+  const linkOwner = modelLinkKey ? getModelLinkOwner(modelLinkKey) : null
+  if (linkOwner && !(car.source === 'netcarshow' && linkOwner.source !== 'netcarshow')) {
+    throw new Error(`Модель уже публиковалась (источник: ${linkOwner.source}, /model/${modelLinkKey}) — пропуск, не дублируем контент про одну машину (приоритет у NCS)`)
+  }
+
   const format = pickFormat(car.id || label)
   const { story, research, provider } = await generateStory(car, ctx, format)
 
@@ -1468,7 +1573,7 @@ async function publishCar(car, graph, channelId) {
     }
   }
 
-  const sent = await publishToTelegram(car, story, channelId)
+  const sent = await publishToTelegram(car, story, channelId, ctx.matchedNode)
   console.log(`  ✅ Опубликовано [${provider}]`)
 
   // Живой найденный баг: пост в Telegram УЖЕ ушёл (необратимо) в момент вызова
@@ -1482,17 +1587,20 @@ async function publishCar(car, graph, channelId) {
   // только логируется, не мешая вызывающему коду корректно зафиксировать то,
   // что публикация уже состоялась.
   try {
-    savePublishedStory(car, story)
+    savePublishedStory(car, story, ctx.matchedNode)
   } catch (e) {
     console.error(`  ⚠️  savePublishedStory упал (пост в Telegram уже отправлен, не влияет на дедупликацию): ${e.message}`)
   }
+  if (modelLinkKey) registerModelLink(modelLinkKey, car)
 
   // Тизер во второй канал (с задержкой флуд-лимита) — но не когда полный пост И ТАК
   // ушёл в SECONDARY_CH (GENERAL_CHANNEL_SOURCES): тизер на самого себя же дублирует пост.
-  if (SECONDARY_CH && channelId !== SECONDARY_CH) {
+  // wasTeaserSent — идемпотентность по modelKey, см. комментарий у её определения.
+  if (SECONDARY_CH && channelId !== SECONDARY_CH && !wasTeaserSent(car._modelKey)) {
     try {
       await new Promise(r => setTimeout(r, 1500))
       await publishTeaser(car, ctx)
+      markTeaserSent(car._modelKey)
     } catch (e) {
       console.error(`  ⚠️  publishTeaser упал (основной пост уже отправлен, не влияет на дедупликацию): ${e.message}`)
     }
@@ -1515,10 +1623,10 @@ async function editCarPost(car, graph, channelId, record) {
   const format = pickFormat(car.id || label)
   const { story, provider } = await generateStory(car, ctx, format)
 
-  await editTelegramPost(car, story, channelId, record.messageId, record.hasPhoto)
+  await editTelegramPost(car, story, channelId, record.messageId, record.hasPhoto, ctx.matchedNode)
   console.log(`  ✅ Отредактировано [${provider}]`)
   try {
-    savePublishedStory(car, story)
+    savePublishedStory(car, story, ctx.matchedNode)
   } catch (e) {
     console.error(`  ⚠️  savePublishedStory упал (правка в Telegram уже применена, не влияет на дедупликацию): ${e.message}`)
   }

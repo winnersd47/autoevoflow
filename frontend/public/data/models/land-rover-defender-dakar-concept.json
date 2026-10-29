@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-defender-dakar-concept",
+  "slug": "land-rover-defender-dakar-concept",
+  "name": "Land Rover Defender Dakar Concept",
+  "fullName": "Land Rover Defender Dakar Concept",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Engineers have pushed the boundaries of what's possible for Defender Dakar, with uprated geometry, enhanced suspension, off-road body adaptations, rally-inspired interior...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Land_Rover-Defender_Dakar_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Land_Rover-Defender_Dakar_Concept-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.424Z",
+  "updatedAt": "2026-10-29T11:36:10.424Z"
+}

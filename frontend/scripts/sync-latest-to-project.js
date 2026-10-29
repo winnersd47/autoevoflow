@@ -17,6 +17,7 @@ const GRAPH_FILE  = path.join(ROOT, 'public/data/evolution/graph.json')
 const BRANDS_DIR  = path.join(ROOT, 'public/data/brands')
 const MODELS_DIR  = path.join(ROOT, 'public/data/models')
 const A777_CATALOG_FILE = path.join(ROOT, 'public/data/a777-catalog-cache.json')
+const DISMISSED_IDS_FILE = path.join(ROOT, 'public/data/graph-dismissed-ids.json')
 
 const A777_BRAND_MAP = require('./a777-brand-map.js')
 const { crawlBrandCatalog, lookupA777ForNode } = require('./a777-lib.js')
@@ -296,6 +297,19 @@ async function syncToGraph(latestCars) {
   const existingIds = new Set(graph.nodes.map(n => n.id))
   const existingEdgeIds = new Set(graph.edges.map(e => e.id))
 
+  // Постоянный список id, которые уже разбирали (вручную или аудитом) и
+  // признали дублями/мусором — в отличие от existingByBrandYear ниже, не
+  // забывается, когда ноду удаляют из графа. Живой найденный баг
+  // (29.10.2026): фуззи-дедуп по бренду+году ловит дубль, только пока нода
+  // ещё существует в графе; как только её удаляют, "этого id больше нет" —
+  // и следующий прогон скрапера приносит ровно то же самое обратно. За
+  // сутки так вернулось 11 из 14 дублей, вычищенных воскресным аудитом.
+  let dismissedIds = {}
+  if (fs.existsSync(DISMISSED_IDS_FILE)) {
+    try { dismissedIds = JSON.parse(fs.readFileSync(DISMISSED_IDS_FILE, 'utf8')) } catch {}
+  }
+  let skippedDismissed = 0
+
   // Время круга (Нюрбургринг/Top Gear) для новых нод — сразу при добавлении, не
   // отдельным ручным прогоном crawl-a777.js. Каталог по бренду кэшируется здесь
   // же (a777-catalog-cache.json) — новых нод за один прогон обычно единицы, так
@@ -325,6 +339,10 @@ async function syncToGraph(latestCars) {
     if (!car.year || !car.brandSlug || car.name.length > 80) continue
 
     const node   = makeGraphNode(car)
+
+    // Постоянный блок-лист — проверяем ДО всех остальных проверок, см. комментарий выше.
+    if (dismissedIds[node.id]) { skippedDismissed++; continue }
+
     // Дедуп по РЕАЛЬНОМУ id ноды (раньше candidateId строился иначе, чем node.id,
     // и не совпадал → одни и те же модели добавлялись дублями КАЖДЫЙ прогон).
     if (existingIds.has(node.id)) continue
@@ -393,11 +411,13 @@ async function syncToGraph(latestCars) {
 
   if (a777CatalogDirty) fs.writeFileSync(A777_CATALOG_FILE, JSON.stringify(a777Catalog, null, 2), 'utf8')
 
+  const skipSuffix = (skippedFuzzy ? `, пропущено как дубль: ${skippedFuzzy}` : '') +
+    (skippedDismissed ? `, пропущено из блок-листа: ${skippedDismissed}` : '')
   if (addedNodes > 0) {
     fs.writeFileSync(GRAPH_FILE, JSON.stringify(graph, null, 2), 'utf8')
-    console.log(`[graph] +${addedNodes} узлов, +${addedEdges} рёбер${skippedFuzzy ? `, пропущено как дубль: ${skippedFuzzy}` : ''}`)
+    console.log(`[graph] +${addedNodes} узлов, +${addedEdges} рёбер${skipSuffix}`)
   } else {
-    console.log(`[graph] нет новых узлов (${latestCars.length} проверено)${skippedFuzzy ? `, пропущено как дубль: ${skippedFuzzy}` : ''}`)
+    console.log(`[graph] нет новых узлов (${latestCars.length} проверено)${skipSuffix}`)
   }
   return addedNodes
 }

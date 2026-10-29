@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-vision-neue-klasse-x-concept",
+  "slug": "bmw-vision-neue-klasse-x-concept",
+  "name": "BMW Vision Neue Klasse X Concept",
+  "fullName": "BMW Vision Neue Klasse X Concept",
+  "brandId": "bmw",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "BMW Vision Neue Klasse X brings the aesthetics, technology, sustainability, and philosophy of the Neue Klasse to the Sports Activity Vehicles sector.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-Vision_Neue_Klasse_X_Concept-2024-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-Vision_Neue_Klasse_X_Concept-2024-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.368Z",
+  "updatedAt": "2026-10-29T11:36:10.368Z"
+}

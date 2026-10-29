@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-w16-mistral-le-retour-du-jeune-prince",
+  "slug": "bugatti-w16-mistral-le-retour-du-jeune-prince",
+  "name": "Bugatti W16 Mistral 'Le Retour du Jeune Prince'",
+  "fullName": "Bugatti W16 Mistral 'Le Retour du Jeune Prince'",
+  "brandId": "bugatti",
+  "bodyType": "roadster",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Именной one-off Sur Mesure (не серийная спецификация) — дань уважения Жану Бугатти: 'Le Retour du Jeune Prince' ('Возвращение молодого принца'), синяя ливрея с золотой полосой в духе Type 57. Источник: netcarshow, duPont Registry 2026.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Bugatti-W16_Mistral_Le_Retour_du_Jeune_Prince-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Bugatti-W16_Mistral_Le_Retour_du_Jeune_Prince-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.310Z",
+  "updatedAt": "2026-10-29T11:36:10.310Z"
+}

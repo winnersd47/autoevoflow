@@ -1,0 +1,26 @@
+{
+  "id": "ncs-mercedes-mercedes-benz-c-class-refresh",
+  "slug": "mercedes-mercedes-benz-c-class-refresh",
+  "name": "2027 Mercedes-Benz C-Class Refresh",
+  "fullName": "2027 Mercedes-Benz C-Class Refresh",
+  "brandId": "mercedes",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The updated C350 uses a revised 48-volt mild-hybrid system and gains a new AI-powered virtual assistant.",
+  "generationCount": 1,
+  "heroImageUrl": "https://hips.hearstapps.com/hmg-prod/images/04c07dd6-7993-47d7-94ab-f7bb4b8d59fa.jpg",
+  "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/04c07dd6-7993-47d7-94ab-f7bb4b8d59fa.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.autoweek.com/news/a74254779/2027-mercedes-benz-c-class-reveal/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-27T08:04:01.811Z",
+  "createdAt": "2026-10-27T08:04:02.752Z",
+  "updatedAt": "2026-10-27T08:04:02.753Z"
+}

@@ -44,18 +44,38 @@ async function tgRequest(method, body) {
   return data
 }
 
+function escapeRegex(s) {
+  return String(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
 function buildMessage(additions) {
   const lines = []
   lines.push(`🗂 <b>Обновление графа эволюции</b> — добавлено ${additions.length} ${plural(additions.length)}:`)
   lines.push('')
-  for (const a of additions) {
+  // По алфавиту (бренд, затем label) — раньше шло в порядке обработки
+  // скрипта, вперемешку по брендам.
+  const sorted = [...additions].sort((a, b) =>
+    (a.brandName || '').localeCompare(b.brandName || '') ||
+    (a.label || '').localeCompare(b.label || '')
+  )
+  for (const a of sorted) {
     // Некоторые label уже сами оканчиваются на "(год)" — не дублировать его.
     const labelHasYear = /\(\d{4}\)\s*$/.test(a.label || '')
     const year = (a.year && !labelHasYear) ? ` (${a.year})` : ''
-    lines.push(`• <b>${escapeHtml(a.brandName || '')} ${escapeHtml(a.label)}</b>${year}`)
+    // Часть узлов графа хранит label УЖЕ с брендом ("Škoda Epiq", "BYD Yang L
+    // / Atto 8", но и "2028 Bentley Torcal Breaks" — бренд НЕ в начале, после
+    // года), часть — вообще без бренда ("i7 G70 LCI", "AMG GT SUV"). Раньше
+    // проверялось только "бренд СТРОГО в начале" — не ловило второй случай,
+    // живой баг "Bentley 2028 Bentley Torcal..."/"Jaguar 2028 Jaguar Type 01
+    // EV..." в реальной рассылке. Теперь ищем бренд целым словом где угодно.
+    const brandName = a.brandName || ''
+    const labelHasBrand = brandName && new RegExp(`\\b${escapeRegex(brandName)}\\b`, 'i').test(a.label || '')
+    const prefix = labelHasBrand ? '' : `${escapeHtml(brandName)} `
+    lines.push(`• <b>${prefix}${escapeHtml(a.label)}</b>${year}`)
   }
+  const siteUrl = (process.env.SITE_URL || 'http://localhost:3000').replace(/\/$/, '')
   lines.push('')
-  lines.push('Подробности и связи — в интерактивном графе на сайте.')
+  lines.push(`🔗 <a href="${siteUrl}/evolution">Подробности и связи — в интерактивном графе на сайте</a>`)
   return lines.join('\n')
 }
 function plural(n) {

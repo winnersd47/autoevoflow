@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-mach-e-trail",
+  "slug": "ford-mustang-mach-e-trail",
+  "name": "Mustang Mach-E Trail",
+  "fullName": "Mustang Mach-E Trail",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Пакет Trail ($2295) только для Select eAWD 2027 МГ: +10/15 мм клиренса, рулевая рейка и 19\" диски от Rally, шины CrossClimate 2, розетки Pro Power 400W. Ориентирован на грунтовки, а не на ралли. Источник: motor1, electrive, KBB (окт. 2026).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ford-Mustang_Mach-E_Trail-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ford-Mustang_Mach-E_Trail-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.477Z",
+  "updatedAt": "2026-10-29T11:36:10.477Z"
+}

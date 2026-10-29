@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-gla",
+  "slug": "mercedes-gla",
+  "name": "2028 Mercedes-Benz GLA",
+  "fullName": "2028 Mercedes-Benz GLA",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Like its CLA and GLB siblings, the third-generation GLA has lots of tech, nicer looks and new powertrains - and it&#39;s RWD in electric form.",
+  "generationCount": 5,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-benz-gla-is-a-particularly-big-beefy-subcompact-with-ev-or-hybrid-power/intro-1785343560.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-benz-gla-is-a-particularly-big-beefy-subcompact-with-ev-or-hybrid-power/intro-1785343560.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.403Z",
+  "updatedAt": "2026-10-29T11:36:10.403Z"
+}

@@ -120,17 +120,17 @@ export async function fetchBrands(page = 1, limit = 50): Promise<PaginatedRespon
 }
 
 export async function fetchBrand(slug: string): Promise<Brand> {
-  const { data } = await apiClient.get<Brand>(`/api/v1/brands/${slug}`);
-  return data;
+  const { data } = await axios.get<{ brand: Brand }>(`/api/brands/${slug}`);
+  return data.brand;
 }
 
 export async function fetchBrandModels(slug: string): Promise<CarModel[]> {
-  const { data } = await apiClient.get<CarModel[]>(`/api/v1/brands/${slug}/models`);
-  return data;
+  const { data } = await axios.get<{ models: CarModel[] }>(`/api/brands/${slug}`);
+  return data.models;
 }
 
 export async function fetchBrandDNA(slug: string): Promise<DesignDNA> {
-  const { data } = await apiClient.get<DesignDNA>(`/api/v1/brands/${slug}/dna`);
+  const { data } = await axios.get<DesignDNA>(`/api/brands/${slug}/dna`);
   return data;
 }
 
@@ -141,13 +141,13 @@ export async function fetchBrandGraph(brandId: string): Promise<GraphData> {
 
 // Models
 export async function fetchModel(slug: string): Promise<CarModel> {
-  const { data } = await apiClient.get<CarModel>(`/api/v1/models/${slug}`);
-  return data;
+  const { data } = await axios.get<{ model: CarModel }>(`/api/models/${slug}`);
+  return data.model;
 }
 
 export async function fetchModelGenerations(slug: string): Promise<Generation[]> {
-  const { data } = await apiClient.get<Generation[]>(`/api/v1/models/${slug}/generations`);
-  return data;
+  const { data } = await axios.get<{ generations: Generation[] }>(`/api/models/${slug}`);
+  return data.generations;
 }
 
 export async function fetchModelEvolution(slug: string): Promise<GraphData> {
@@ -157,7 +157,7 @@ export async function fetchModelEvolution(slug: string): Promise<GraphData> {
 
 // Generations
 export async function fetchGeneration(id: string): Promise<Generation> {
-  const { data } = await apiClient.get<Generation>(`/api/v1/generations/${id}`);
+  const { data } = await axios.get<Generation>(`/api/generations/${id}`);
   return data;
 }
 
@@ -179,46 +179,42 @@ export async function getCrossBrandConnections(brandId: string): Promise<GraphDa
 }
 
 // Search
+//
+// Полноценный семантический/визуальный поиск (CLIP/DINOv2 эмбеддинги) живёт в
+// отдельном FastAPI-бэкенде, который требует Docker (Postgres+Neo4j+Redis) —
+// на этой машине не поднимается (нет виртуализации) и никогда не был
+// задеплоен. Текстовый поиск ("semantic" в UI, на деле обычный полнотекст)
+// переведён на локальный Next.js-роут /api/search, который читает тот же
+// статический graph.json, что и остальной сайт — работает всегда, в т.ч. на
+// Vercel. Visual/Multimodal реально нужен ИИ по картинке — без бэкенда
+// честно не работают, кидаем понятную ошибку вместо немого Network Error.
 export async function searchSemantic(query: string, filters?: SearchQuery["filters"], limit = 20): Promise<SearchResponse> {
-  const { data } = await apiClient.post<SearchResponse>("/api/v1/search/semantic", {
-    query,
-    filters,
-    limit,
-  });
+  const params = new URLSearchParams({ q: query, limit: String(limit) });
+  if (filters?.bodyTypes?.length) params.set("bodyTypes", filters.bodyTypes.join(","));
+  if (filters?.brandIds?.length) params.set("brandIds", filters.brandIds.join(","));
+  if (filters?.yearRange) {
+    params.set("yearFrom", String(filters.yearRange[0]));
+    params.set("yearTo", String(filters.yearRange[1]));
+  }
+  const { data } = await axios.get<SearchResponse>(`/api/search?${params.toString()}`);
   return data;
 }
 
-export async function searchVisual(imageFile: File, limit = 20): Promise<SearchResponse> {
-  const formData = new FormData();
-  formData.append("image", imageFile);
-  formData.append("limit", String(limit));
-  const { data } = await apiClient.post<SearchResponse>("/api/v1/search/visual", formData, {
-    headers: { "Content-Type": "multipart/form-data" },
-  });
-  return data;
+export async function searchVisual(_imageFile: File, _limit = 20): Promise<SearchResponse> {
+  throw new Error("Поиск по фото недоступен в этом развёртывании — нужен отдельный ИИ-бэкенд (CLIP/DINOv2), который сейчас не запущен.");
 }
 
 export async function searchMultimodal(
-  query: string,
-  imageFile: File,
-  filters?: SearchQuery["filters"],
-  limit = 20
+  _query: string,
+  _imageFile: File,
+  _filters?: SearchQuery["filters"],
+  _limit = 20
 ): Promise<SearchResponse> {
-  const formData = new FormData();
-  formData.append("query", query);
-  formData.append("image", imageFile);
-  if (filters) formData.append("filters", JSON.stringify(filters));
-  formData.append("limit", String(limit));
-  const { data } = await apiClient.post<SearchResponse>("/api/v1/search/multimodal", formData, {
-    headers: { "Content-Type": "multipart/form-data" },
-  });
-  return data;
+  throw new Error("Комбинированный поиск (текст + фото) недоступен в этом развёртывании — нужен отдельный ИИ-бэкенд, который сейчас не запущен.");
 }
 
 export async function getSearchSuggestions(query: string): Promise<string[]> {
-  const { data } = await apiClient.get<string[]>("/api/v1/search/suggestions", {
-    params: { q: query },
-  });
+  const { data } = await axios.get<string[]>(`/api/search/suggestions?q=${encodeURIComponent(query)}`);
   return data;
 }
 
@@ -241,7 +237,7 @@ export async function getAnalysis(
   entityId: string,
   analysisType?: AIAnalysisType
 ): Promise<AIAnalysis> {
-  const { data } = await apiClient.get<AIAnalysis>(`/api/v1/analysis/${entityType}/${entityId}`, {
+  const { data } = await axios.get<AIAnalysis>(`/api/analysis/${entityType}/${entityId}`, {
     params: { analysisType },
   });
   return data;
@@ -249,7 +245,7 @@ export async function getAnalysis(
 
 // Comparison
 export async function compareGenerations(id1: string, id2: string): Promise<ComparisonResult> {
-  const { data } = await apiClient.post<ComparisonResult>("/api/v1/compare/generations", {
+  const { data } = await axios.post<ComparisonResult>("/api/compare", {
     generationIdA: id1,
     generationIdB: id2,
   });

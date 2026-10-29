@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-ix3-long-wheelbase",
+  "slug": "bmw-ix3-long-wheelbase",
+  "name": "iX3 Neue Klasse (LWB)",
+  "fullName": "iX3 Neue Klasse (LWB)",
+  "brandId": "bmw",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The BMW Group is intensifying final testing for the BMW iX3 Long Wheelbase in China, putting the first Neue Klasse model developed specifically for Chinese...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-iX3_Long_Wheelbase-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX3_Long_Wheelbase-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.320Z",
+  "updatedAt": "2026-10-29T11:36:10.320Z"
+}

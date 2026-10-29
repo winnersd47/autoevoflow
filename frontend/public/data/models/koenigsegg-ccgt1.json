@@ -1,0 +1,20 @@
+{
+  "id": "sync-koenigsegg-ccgt1",
+  "slug": "koenigsegg-ccgt1",
+  "name": "Koenigsegg CCGT1",
+  "fullName": "Koenigsegg CCGT1",
+  "brandId": "koenigsegg",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Показан 13 авг. 2026 на Monterey Car Week. Построен на платформе CC850 (тот же 5.0T V8: 1280hp бензин/1600hp E85, 9-ступенчатая Light Speed Transmission со сцеплением и секвентальным рычагом). Первый в истории марки заводской Track Package — карбоновый каркас безопасности, ковши HANS, 6-точечные ремни, пневмодомкраты, трековая резина (съёмный комплект, машина остаётся дорожной). 70 экземпляров, уже распределены. Дань неудавшемуся гоночному CCGT 2007 года.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Koenigsegg-CCGT1-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Koenigsegg-CCGT1-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.421Z",
+  "updatedAt": "2026-10-29T11:36:10.421Z"
+}

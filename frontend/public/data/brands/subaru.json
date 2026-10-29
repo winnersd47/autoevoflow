@@ -781,6 +781,15 @@
       "scrapedAt": "2026-10-05T06:18:53.977Z"
     },
     {
+      "id": "cad-news-a74218284-2027-subaru-outback-pricing-new-base-model",
+      "name": "2027 Subaru Outback",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6570466a-f2fd-4b0f-bad3-cd0d5f66c9fd.jpeg",
+      "pageUrl": "https://www.caranddriver.com/news/a74218284/2027-subaru-outback-pricing-new-base-model/",
+      "description": "A new base model lowers the entry cost of getting behind the wheel of an Outback, and Subaru has also cut prices on almost every other trim across the lineup.",
+      "scrapedAt": "2026-10-22T20:04:01.497Z"
+    },
+    {
       "id": "ncs-subaru-2026-trailseeker",
       "name": "Subaru Trailseeker",
       "year": 2026,
@@ -842,15 +851,6 @@
       "pageUrl": "https://www.caranddriver.com/photos/g71932410/2026-subaru-wrx-drive-gallery/",
       "description": "See the interior and exterior of the 2026 Subaru WRX from every angle.",
       "scrapedAt": "2026-07-16T19:45:46.451Z"
-    },
-    {
-      "id": "td-car-reviews-2026-subaru-outback-wilderness-review",
-      "name": "2026 Subaru Outback Wilderness",
-      "year": 2026,
-      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/06/OUTBACK-HERO-copy.jpg?quality=85&amp;w=2048",
-      "pageUrl": "https://www.thedrive.com/car-reviews/2026-subaru-outback-wilderness-review",
-      "description": "Subaru knows what works, and it applied every bit of that knowledge to the new Outback. The post 2026 Subaru Outback Wilderness Review: So Good You&#8217;ll Forget How Bad It Looks appeared first on T",
-      "scrapedAt": "2026-08-10T14:04:01.477Z"
     }
   ]
 }

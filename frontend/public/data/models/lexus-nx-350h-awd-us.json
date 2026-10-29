@@ -1,0 +1,20 @@
+{
+  "id": "sync-lexus-nx-350h-awd-us",
+  "slug": "lexus-nx-350h-awd-us",
+  "name": "Lexus NX 350h AWD",
+  "fullName": "Lexus NX 350h AWD",
+  "brandId": "lexus",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Lexus NX PHEV retains essential driving feedback to provide a driving experience that fosters intuitive, confident communication between driver and vehicle.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-NX_350h_AWD_US-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-NX_350h_AWD_US-Version-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.433Z",
+  "updatedAt": "2026-10-29T11:36:10.433Z"
+}

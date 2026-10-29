@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-911-gt3-s-c",
+  "slug": "porsche-911-gt3-s-c",
+  "name": "Porsche 911 GT3 S-C",
+  "fullName": "Porsche 911 GT3 S-C",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Matching the black roof, the windscreen frame is finished in black film, giving the Porsche 911 GT3 SC its distinctive look, and the stone-chip protection film on the side...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-911_GT3_S-C-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-911_GT3_S-C-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.409Z",
+  "updatedAt": "2026-10-29T11:36:10.409Z"
+}

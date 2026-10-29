@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-s580-4matic-maybach-us",
+  "slug": "mercedes-s580-4matic-maybach-us",
+  "name": "Mercedes-Benz S580 4Matic Maybach",
+  "fullName": "Mercedes-Benz S580 4Matic Maybach",
+  "brandId": "mercedes",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "For the Mercedes-Maybach S-Class, a palette of more than 150 exterior paints and over 400 interior colours forms the foundation of bespoke creation.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-S580_4Matic_Maybach_US-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-S580_4Matic_Maybach_US-Version-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.415Z",
+  "updatedAt": "2026-10-29T11:36:10.415Z"
+}

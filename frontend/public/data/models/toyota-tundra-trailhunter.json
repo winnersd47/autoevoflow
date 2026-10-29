@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-tundra-trailhunter",
+  "slug": "toyota-tundra-trailhunter",
+  "name": "Toyota Tundra Trailhunter",
+  "fullName": "Toyota Tundra Trailhunter",
+  "brandId": "toyota",
+  "bodyType": "pickup",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "2027 Toyota Tundra introduces the new Trailhunter package, a rugged overlanding offering based on the SR5 grade and built for customers who want enhanced trail performance...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Toyota-Tundra_Trailhunter-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Toyota-Tundra_Trailhunter-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.412Z",
+  "updatedAt": "2026-10-29T11:36:10.412Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-frontier-sport-edition",
+  "slug": "nissan-frontier-sport-edition",
+  "name": "Nissan Frontier Sport Edition",
+  "fullName": "Nissan Frontier Sport Edition",
+  "brandId": "nissan",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Visual changes for the Sport Edition package are inspired by Frontier's popular PRO-X and PRO-4X grades, starting with a black lower front fascia, grille and mirrors...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Frontier_Sport_Edition-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Frontier_Sport_Edition-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.304Z",
+  "updatedAt": "2026-10-29T11:36:10.304Z"
+}

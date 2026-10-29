@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id-cross",
+  "slug": "volkswagen-id-cross",
+  "name": "Volkswagen ID.Cross",
+  "fullName": "Volkswagen ID.Cross",
+  "brandId": "volkswagen",
+  "bodyType": "crossover",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Младший электро-SUV на MEB+, альтернатива T-Cross (на 45мм длиннее). 3 версии: 85кВт/37кВтч (~317км), 99кВт/37кВтч (~306км), топ 155кВт/52кВтч (~427км, указан как hp).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.Cross-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.Cross-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.412Z",
+  "updatedAt": "2026-10-29T11:36:10.412Z"
+}

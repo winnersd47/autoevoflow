@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-amg-gt-suv",
+  "slug": "mercedes-amg-gt-suv",
+  "name": "Mercedes-AMG GT SUV",
+  "fullName": "Mercedes-AMG GT SUV",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Первый собственный полноразмерный SUV AMG — второй автомобиль на электроплатформе AMG.EA после нового AMG GT 4-Door. Премьера — 17 октября 2026, поставки GT 53 — с конца 2026 (от 112 350 евро в Германии). Версии GT 53/55/63; топ GT 63 — три аксиально-поточных мотора, 860 кВт (1153 л.с./1169 PS, в hp), 800 В, зарядка до 710 кВт, до 700 км. Источник: electrek.co, qz.com, thecarexpert.co.uk (2026). Узел ncs-mercedes-2028-mercedes-amg-gt-suv-one-ups — дубль этой же машины от скрапера.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_SUV-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-AMG_GT_SUV-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.476Z",
+  "updatedAt": "2026-10-29T11:36:10.476Z"
+}

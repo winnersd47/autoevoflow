@@ -1,0 +1,20 @@
+{
+  "id": "sync-lotus-evija",
+  "slug": "lotus-evija",
+  "name": "Lotus Evija",
+  "fullName": "Lotus Evija",
+  "brandId": "lotus",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Lotus Evija has been designed and engineered at Lotus' historic home in Hethel, UK, and production takes place in a dedicated on-site manufacturing facility.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lotus-Evija-2025-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lotus-Evija-2025-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.318Z",
+  "updatedAt": "2026-10-29T11:36:10.318Z"
+}

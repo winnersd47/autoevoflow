@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-defender-vertex",
+  "slug": "land-rover-defender-vertex",
+  "name": "Land Rover Defender Vertex",
+  "fullName": "Land Rover Defender Vertex",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Городской люкс-трим MY2027: кузовные бамперы/пороги в цвет (вместо чёрного пластика), увеличенная решётка, 22-дюйм. диски, 6-местная версия с капитанскими креслами 2-го ряда, экран Pivi Pro 11.4\", голосовой ассистент 'Hey Land Rover'. Доступен от D350/P400 (3.0 I6 MHEV, представленный здесь вариант — 395 л.с.) до P425 V8. Цены от $171 800 (I6) до $181 000 (V8). Источник: carexpert.com.au, autoguide.com, edmunds.com (июль 2026).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Land_Rover-Defender_Vertex-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Land_Rover-Defender_Vertex-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.392Z",
+  "updatedAt": "2026-10-29T11:36:10.392Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-cz26",
+  "slug": "ferrari-cz26",
+  "name": "Ferrari CZ26",
+  "fullName": "Ferrari CZ26",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "One-off по программе Ferrari Special Projects для американского заказчика — донор шасси и гибридного силового агрегата подтверждён: SF90 Stradale (V8 twin-turbo + 3 эл. мотора, 986 л.с.). Полностью новый кузов — ретро-футуристичный two-box силуэт с влиянием итальянского индастриал-дизайна 1970х, дизайн — Ferrari Design Studio под руководством Flavio Manzoni.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-CZ26-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-CZ26-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.422Z",
+  "updatedAt": "2026-10-29T11:36:10.422Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-super-n",
+  "slug": "honda-super-n",
+  "name": "Honda Super-N",
+  "fullName": "Honda Super-N",
+  "brandId": "honda",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Powered by a thin and lightweight 29.6kW lithium-ion battery, the Honda Super-N weighs just 1,097kg and delivers a 'combined' range of 128 miles (WLTP).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Honda-Super-N-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Honda-Super-N-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.364Z",
+  "updatedAt": "2026-10-29T11:36:10.364Z"
+}

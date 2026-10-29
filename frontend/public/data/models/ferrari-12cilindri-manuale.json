@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-12cilindri-manuale",
+  "slug": "ferrari-12cilindri-manuale",
+  "name": "Ferrari 12Cilindri Manuale",
+  "fullName": "Ferrari 12Cilindri Manuale",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Лимитированная серия 1499 экз. (число отсылает к литражу первого V12 Ferrari 1947г) — впервые за ~15 лет у Ferrari механическая КПП, но по системе Manuale By-Wire: педаль сцепления и рычаг с классической H-схемой физически НЕ связаны с трансмиссией (под капотом всё равно 8-ст. DCT), но датчики положения эмулируют баланс сцепления вплоть до возможности заглохнуть. Тот же атмосферный 6.5Л V12 (830 л.с.), что у базового 12Cilindri.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-12Cilindri_Manuale-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-12Cilindri_Manuale-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.384Z",
+  "updatedAt": "2026-10-29T11:36:10.384Z"
+}

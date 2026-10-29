@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-amg-gt-4-door",
+  "slug": "mercedes-amg-gt-4-door",
+  "name": "Mercedes-Benz AMG GT 4-Door",
+  "fullName": "Mercedes-Benz AMG GT 4-Door",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Новый электрический AMG GT 4-Door — первый автомобиль на собственной платформе AMG.EA (800 В, три аксиально-поточных мотора до 1153 л.с., 0-60 за 2.0с). Представлен 19 мая 2026 в Лос-Анджелесе; GT 55 — с конца 2026, GT 63 — начало 2027. До 2026-10-28 узел ошибочно имел engineType v8t/577 л.с. — ДВС у этой машины нет. Источник: jalopnik.com, autonews.com, kbb.com (2026).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_4-Door-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-AMG_GT_4-Door-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.329Z",
+  "updatedAt": "2026-10-29T11:36:10.329Z"
+}

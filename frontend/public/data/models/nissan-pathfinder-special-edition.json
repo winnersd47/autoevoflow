@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-pathfinder-special-edition",
+  "slug": "nissan-pathfinder-special-edition",
+  "name": "Nissan Pathfinder Special Edition",
+  "fullName": "Nissan Pathfinder Special Edition",
+  "brandId": "nissan",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Юбилейная версия к 40-летию Pathfinder: бордово-чёрный салон в честь оригинала 1987 г., 20\" чёрные диски. 3.5 V6 284hp. От $47 390, продажи с ноября 2026. Источник: nissannews, KBB.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Pathfinder_Special_Edition-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Pathfinder_Special_Edition-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.477Z",
+  "updatedAt": "2026-10-29T11:36:10.477Z"
+}

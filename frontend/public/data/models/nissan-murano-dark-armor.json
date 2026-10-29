@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-murano-dark-armor",
+  "slug": "nissan-murano-dark-armor",
+  "name": "Nissan Murano Dark Armor",
+  "fullName": "Nissan Murano Dark Armor",
+  "brandId": "nissan",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Внедорожная комплектация Dark Armor — новинка модельного 2027 года для текущего поколения Murano Z53 (с 2024), расположена между SL и Platinum. Несмотря на название, по отзывам прессы (autoevolution) не отличается принципиально более тёмной отделкой или дополнительной защитой кузова. Источник: Motor1, KBB, autoevolution 2026.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Murano_Dark_Armor-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Murano_Dark_Armor-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.425Z",
+  "updatedAt": "2026-10-29T11:36:10.425Z"
+}

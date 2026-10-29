@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-maybach-s",
+  "slug": "mercedes-maybach-s",
+  "name": "Mercedes-Benz S680 Maybach",
+  "fullName": "Mercedes-Benz S680 Maybach",
+  "brandId": "mercedes",
+  "bodyType": "sedan",
+  "segment": "ultra-luxury",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Топовая V12-версия Maybach S-Class W223 — битурбо 6.0 V12 (M279), suммарно 612PS/603hp, 900Нм. Показана вместе с остальной линейкой Maybach S223 в 2021г. (year в графе ранее ошибочно указывал 2027 — дату неверно унаследовал партией скрейпинга). Источник: netcarshow.com.",
+  "generationCount": 3,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-S680_Maybach_US-Version-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-S680_Maybach_US-Version-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.323Z",
+  "updatedAt": "2026-10-29T11:36:10.323Z"
+}

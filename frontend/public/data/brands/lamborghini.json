@@ -738,6 +738,24 @@
       "scrapedAt": "2026-09-02T20:04:01.627Z"
     },
     {
+      "id": "cad-photos-a74218841-2027-lamborghini-revuelto-sv-drive-cee4e9",
+      "name": "2027 Lamborghini Revuelto SV",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/85924b2e-4dfe-49b3-90a9-719928b07867.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a74218841/2027-lamborghini-revuelto-sv-drive-interior-gallery/",
+      "description": "See the interior of the 2027 Lamborghini Revuelto V-12 from every angle.",
+      "scrapedAt": "2026-10-26T20:04:01.534Z"
+    },
+    {
+      "id": "cad-lamborghini-revuelto",
+      "name": "2027 Lamborghini Revuelto",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/28e295fc-5dfe-4760-818c-2dda03d4599b.jpg",
+      "pageUrl": "https://www.caranddriver.com/lamborghini/revuelto",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-10-27T20:04:01.508Z"
+    },
+    {
       "id": "cad-photos-g71897774-2026-lamborghini-temerario-test-exterior-ga",
       "name": "2026 Lamborghini Temerario",
       "year": 2026,
@@ -825,24 +843,6 @@
       "imageUrl": "https://www.netcarshow.com/Lamborghini-Egoista_Concept-2013-wallpaper.jpg",
       "pageUrl": "https://www.netcarshow.com/lamborghini/2013-egoista_concept/",
       "description": "Powered by a 5.2-liter V10 engine supplying it with 600 horsepower, the Lamborghini Egoista is an intentionally extreme and unusual vehicle with absolutely...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-lamborghini-2012-urus_concept",
-      "name": "Lamborghini Urus Concept",
-      "year": 2012,
-      "imageUrl": "https://www.netcarshow.com/Lamborghini-Urus_Concept-2012-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/lamborghini/2012-urus_concept/",
-      "description": "At the 2012 Beijing Motor Show, Automobili Lamborghini presents the ultimate super athlete in the SUV segment. The Lamborghini Urus Concept is completely...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-lamborghini-2008-estoque_concept",
-      "name": "Lamborghini Estoque Concept",
-      "year": 2008,
-      "imageUrl": "https://www.netcarshow.com/Lamborghini-Estoque_Concept-2008-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/lamborghini/2008-estoque_concept/",
-      "description": "It is a Lamborghini like no other before it: a four-door sports car that sticks resolutely to its creed. The Lamborghini Estoque concept has everything...",
       "scrapedAt": "2026-06-05T07:31:49.539Z"
     }
   ]

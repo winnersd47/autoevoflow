@@ -1,0 +1,26 @@
+{
+  "id": "ncs-lexus-lexus-rz",
+  "slug": "lexus-lexus-rz",
+  "name": "2027 Lexus RZ",
+  "fullName": "2027 Lexus RZ",
+  "brandId": "lexus",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The 2027 Lexus RZ will begin arriving at dealerships early next year, with prices starting at under $50,000. <a data-layer-pagetype=\"post\" data-layer-pos",
+  "generationCount": 1,
+  "heroImageUrl": "https://electrek.co/wp-content/uploads/sites/3/2025/11/New-Lexus-RZ-prices.jpeg?quality=82&#038;strip=all&#038;w=1400",
+  "thumbnailUrl": "https://electrek.co/wp-content/uploads/sites/3/2025/11/New-Lexus-RZ-prices.jpeg?quality=82&#038;strip=all&#038;w=1400",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-26T20:04:03.022Z",
+  "createdAt": "2026-10-26T20:04:03.315Z",
+  "updatedAt": "2026-10-26T20:04:03.316Z"
+}

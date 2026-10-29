@@ -11,22 +11,6 @@
     "description": "Terrano PHEV Concept marks the return of an iconic nameplate. Equipped with the latest plug-in hybrid technology, the Terrano builds on Nissan's off-road heritage..."
   },
   {
-    "id": "ncs-skoda-2027-slavia",
-    "label": "Skoda Slavia",
-    "brandId": "skoda",
-    "brandName": "Skoda",
-    "year": 2027,
-    "engineType": "i4t"
-  },
-  {
-    "id": "ncs-lexus-2027-is-350-special-appearance-package",
-    "label": "Lexus IS 350 Special Appearance Package",
-    "brandId": "lexus",
-    "brandName": "Lexus",
-    "year": 2027,
-    "engineType": "i4t"
-  },
-  {
     "id": "ncs-lexus-2027-nx",
     "label": "Lexus NX",
     "brandId": "lexus",
@@ -76,14 +60,109 @@
     "description": "Pixo introduces a fresh interpretation of Nissan's design language for compact EVs. Its modern, progressive silhouette combines cube-inspired proportions with clean surfaces..."
   },
   {
-    "id": "ncs-bentley-2028-bentley-torcal-breaks",
-    "label": "2028 Bentley Torcal Breaks",
-    "brandId": "bentley",
-    "brandName": "Bentley",
+    "id": "ncs-mercedes-2027-mercedes-g-580-ev",
+    "label": "2027 Mercedes G 580 EV",
+    "brandId": "mercedes",
+    "brandName": "Mercedes",
+    "year": 2027,
+    "engineType": "ev",
+    "sourceUrl": "https://insideevs.com/news/809978/2027-mercedes-g-class-ev-more-range-nacs-port/",
+    "description": "The boxy electric SUV actually has two charging ports now, just like the new CLA EV."
+  },
+  {
+    "id": "ncs-maserati-2027-granturismo-trofeo",
+    "label": "Maserati GranTurismo Trofeo",
+    "brandId": "maserati",
+    "brandName": "Maserati",
+    "year": 2027,
+    "sourceUrl": "https://www.netcarshow.com/maserati/2027-granturismo_trofeo/",
+    "description": "The 590-hp Trofeo heightens the sporting character with forged Pegaso wheels, exposed carbon fibre, an Alcantara headliner, E-LSD and sports exhaust..."
+  },
+  {
+    "id": "ncs-astonmartin-2027-martin-dbx-gt",
+    "label": "Aston Martin DBX GT",
+    "brandId": "astonmartin",
+    "brandName": "Aston",
+    "year": 2027,
+    "sourceUrl": "https://www.netcarshow.com/aston_martin/2027-dbx_gt/",
+    "description": "Visually the Aston Martin DBX GT is distinguished by comprehensive exterior changes which emphasise the renowned form and proportions of Aston Martin's acclaimed SUV."
+  },
+  {
+    "id": "ncs-ford-2027-bronco-rtr",
+    "label": "Ford Bronco RTR",
+    "brandId": "ford",
+    "brandName": "Ford",
+    "year": 2027,
+    "sourceUrl": "https://www.netcarshow.com/ford/2027-bronco_rtr/",
+    "description": "Bronco RTR shifts the focus toward high-speed desert performance. The standard suspension is a unique wide track HOSS 1.0 suspension combining a suspension lift with 33-inch tires."
+  },
+  {
+    "id": "ncs-mercedes-2027-mercedes-benz-gle-shows-where-mercedes-sti",
+    "label": "2027 Mercedes-Benz GLE Shows Where Mercedes Still",
+    "brandId": "mercedes",
+    "brandName": "Mercedes-Benz",
+    "year": 2027,
+    "sourceUrl": "https://www.jalopnik.com/2278364/2027-mercedes-benz-gle-suv-facelift-gle450-gle580-gle500e-first-drive-review/",
+    "description": "Regardless of the digits following the letters GLE, its luxury identity is tangibly expressed through its mechanicals and uncompromising driving experience."
+  },
+  {
+    "id": "ncs-pininfarina-2027-jas-tensei",
+    "label": "Pininfarina JAS Tensei",
+    "brandId": "pininfarina",
+    "brandName": "Pininfarina",
+    "year": 2027,
+    "sourceUrl": "https://www.netcarshow.com/pininfarina/2027-jas_tensei/",
+    "description": "Styled by Pininfarina and engineered by JAS Motorsport, Tensei will be produced in an ultra-limited series at JAS Motorsport's Atelier in Arluno, near Milan."
+  },
+  {
+    "id": "ncs-audi-2027-a6-allroad-uk",
+    "label": "Audi A6 allroad [UK]",
+    "brandId": "audi",
+    "brandName": "Audi",
+    "year": 2027,
+    "engineType": "v6h",
+    "sourceUrl": "https://www.netcarshow.com/audi/2027-a6_allroad_uk-version/",
+    "description": "A6 allroad is available with a 3.0-liter V6 diesel engine and as an e-hybrid. Both drives are a perfect fit for the all-rounder. Whether it's a drive to a business meeting..."
+  },
+  {
+    "id": "ncs-audi-2027-q7-uk",
+    "label": "Audi Q7 [UK]",
+    "brandId": "audi",
+    "brandName": "Audi",
+    "year": 2027,
+    "sourceUrl": "https://www.netcarshow.com/audi/2027-q7_uk-version/",
+    "description": "Audi Q7 combines commanding road presence with a refined interior, advanced digital features and a highly efficient electrified diesel powertrain."
+  },
+  {
+    "id": "ncs-bmw-2027-i3",
+    "label": "BMW i3",
+    "brandId": "bmw",
+    "brandName": "BMW",
+    "year": 2027,
+    "hp": 463,
+    "engineType": "ev",
+    "sourceUrl": "https://www.netcarshow.com/bmw/2027-i3/",
+    "description": "As a representative of the new design language, the new BMW i3 is immediately recognisable as a BMW 3-Series - assured, dynamic and intelligent."
+  },
+  {
+    "id": "ncs-jaguar-2028-type-01",
+    "label": "Jaguar Type 01",
+    "brandId": "jaguar",
+    "brandName": "Jaguar",
     "year": 2028,
     "engineType": "ev",
-    "sourceUrl": "https://www.autoweek.com/news/a73868893/2028-bentley-torcal-reveal/",
-    "description": "After 107 years of building gasoline-powered luxury cars, Bentley enters the electric era with the all-new Torcal SUV."
+    "sourceUrl": "https://www.netcarshow.com/jaguar/2028-type_01/",
+    "description": "The creative engineering and singular focus behind this electric-only architecture is the enabler for both Type 01's distinctive proportions and captivating driving dynamics."
+  },
+  {
+    "id": "ncs-mercedes-2028-mercedes-amg-gt-suv-one-ups",
+    "label": "2028 Mercedes-AMG GT SUV One-Ups",
+    "brandId": "mercedes",
+    "brandName": "Mercedes",
+    "year": 2028,
+    "engineType": "ev",
+    "sourceUrl": "https://www.jalopnik.com/2289599/2028-mercedes-amg-gt-ev-suv-design-specs-details-revealed/",
+    "description": "AMG&#39;s first standalone SUV is an EV powerhouse with all the same technology as its 4-Door Coupe sibling, plus even more interesting styling."
   },
   {
     "id": "ncs-bentley-2028-torcal",
@@ -93,6 +172,26 @@
     "year": 2028,
     "sourceUrl": "https://www.netcarshow.com/bentley/2028-torcal/",
     "description": "Bentley Torcal, which measures five metres in length, is the shortest four-door in the model line-up yet offers exceptional interior space, with a 460 litre boot..."
+  },
+  {
+    "id": "ncs-jaguar-2028-jaguar-type-01-ev",
+    "label": "2028 Jaguar Type 01 EV",
+    "brandId": "jaguar",
+    "brandName": "Jaguar",
+    "year": 2028,
+    "engineType": "ev",
+    "sourceUrl": "https://www.jalopnik.com/2279539/2028-jaguar-type-01-ev-reveal-design-specs-details/",
+    "description": "Is everybody ready to be calm and normal about the new Jaguar yet?"
+  },
+  {
+    "id": "ncs-bentley-2028-bentley-torcal-breaks",
+    "label": "2028 Bentley Torcal Breaks",
+    "brandId": "bentley",
+    "brandName": "Bentley",
+    "year": 2028,
+    "engineType": "ev",
+    "sourceUrl": "https://www.autoweek.com/news/a73868893/2028-bentley-torcal-reveal/",
+    "description": "After 107 years of building gasoline-powered luxury cars, Bentley enters the electric era with the all-new Torcal SUV."
   },
   {
     "id": "ncs-bentley-2028-bentley-torcal-ev-charts-a-slightly-strange",
@@ -132,110 +231,5 @@
     "engineType": "ev",
     "sourceUrl": "https://www.jalopnik.com/2245102/2028-bentley-torcal-electric-suv-prototype-first-ride-review/",
     "description": "Smaller and cheaper than a Bentayga, the new Torcal is a Cayenne-based electric SUV that makes orchestral sounds and has more power than any Bentley before it."
-  },
-  {
-    "id": "ncs-bmw-2027-bmw-i3",
-    "label": "2027 BMW i3",
-    "brandId": "bmw",
-    "brandName": "BMW",
-    "year": 2027,
-    "engineType": "ev",
-    "sourceUrl": "https://electrek.co/2026/09/30/bmw-announces-2027-i3-prices-range-up-to-468-miles/",
-    "description": "BMW opened orders for the 2027 i3 early after strong initial demand. The all-new electric sedan can drive up to 468 miles on a single charge, but it’s not exactly"
-  },
-  {
-    "id": "ncs-mercedes-2027-mercedes-g-580-ev",
-    "label": "2027 Mercedes G 580 EV",
-    "brandId": "mercedes",
-    "brandName": "Mercedes",
-    "year": 2027,
-    "engineType": "ev",
-    "sourceUrl": "https://insideevs.com/news/809978/2027-mercedes-g-class-ev-more-range-nacs-port/",
-    "description": "The boxy electric SUV actually has two charging ports now, just like the new CLA EV."
-  },
-  {
-    "id": "ncs-bmw-2027-3-series",
-    "label": "BMW 3-Series",
-    "brandId": "bmw",
-    "brandName": "BMW",
-    "year": 2027,
-    "sourceUrl": "https://www.netcarshow.com/bmw/2027-3-series/",
-    "description": "BMW 3-Series with modern 2.5-box design is instantly recognisable as a BMW. Its silhouette showcases the signature BMW sporting proportions."
-  },
-  {
-    "id": "ncs-maserati-2027-granturismo-trofeo",
-    "label": "Maserati GranTurismo Trofeo",
-    "brandId": "maserati",
-    "brandName": "Maserati",
-    "year": 2027,
-    "sourceUrl": "https://www.netcarshow.com/maserati/2027-granturismo_trofeo/",
-    "description": "The 590-hp Trofeo heightens the sporting character with forged Pegaso wheels, exposed carbon fibre, an Alcantara headliner, E-LSD and sports exhaust..."
-  },
-  {
-    "id": "ncs-astonmartin-2027-martin-dbx-gt",
-    "label": "Aston Martin DBX GT",
-    "brandId": "astonmartin",
-    "brandName": "Aston",
-    "year": 2027,
-    "sourceUrl": "https://www.netcarshow.com/aston_martin/2027-dbx_gt/",
-    "description": "Visually the Aston Martin DBX GT is distinguished by comprehensive exterior changes which emphasise the renowned form and proportions of Aston Martin's acclaimed SUV."
-  },
-  {
-    "id": "ncs-ford-2027-bronco-rtr",
-    "label": "Ford Bronco RTR",
-    "brandId": "ford",
-    "brandName": "Ford",
-    "year": 2027,
-    "sourceUrl": "https://www.netcarshow.com/ford/2027-bronco_rtr/",
-    "description": "Bronco RTR shifts the focus toward high-speed desert performance. The standard suspension is a unique wide track HOSS 1.0 suspension combining a suspension lift with 33-inch tires."
-  },
-  {
-    "id": "ncs-jaguar-2028-jaguar-type-01-ev",
-    "label": "2028 Jaguar Type 01 EV",
-    "brandId": "jaguar",
-    "brandName": "Jaguar",
-    "year": 2028,
-    "engineType": "ev",
-    "sourceUrl": "https://www.jalopnik.com/2279539/2028-jaguar-type-01-ev-reveal-design-specs-details/",
-    "description": "Is everybody ready to be calm and normal about the new Jaguar yet?"
-  },
-  {
-    "id": "ncs-jaguar-2028-type-01",
-    "label": "Jaguar Type 01",
-    "brandId": "jaguar",
-    "brandName": "Jaguar",
-    "year": 2028,
-    "engineType": "ev",
-    "sourceUrl": "https://www.netcarshow.com/jaguar/2028-type_01/",
-    "description": "The creative engineering and singular focus behind this electric-only architecture is the enabler for both Type 01's distinctive proportions and captivating driving dynamics."
-  },
-  {
-    "id": "ncs-bmw-2027-ix4",
-    "label": "BMW iX4",
-    "brandId": "bmw",
-    "brandName": "BMW",
-    "year": 2027,
-    "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix4/",
-    "description": "BMW iX4 offers a whole new experience of BMW-typical driver orientation, ensuring the driver is always given the right information in the right place at the right time."
-  },
-  {
-    "id": "ncs-bmw-2027-ix3-m60-xdrive",
-    "label": "BMW iX3 M60 xDrive",
-    "brandId": "bmw",
-    "brandName": "BMW",
-    "year": 2027,
-    "hp": 612,
-    "engineType": "ev",
-    "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix3_m60_xdrive/",
-    "description": "BMW iX3 M60 xDrive has one electric motor at the front axle and one at the rear. Together, they generate maximum output of 450 kW (612 hp) and peak torque of 875 Nm (645 lb-ft)."
-  },
-  {
-    "id": "ncs-bmw-2027-ix4-m60-xdrive",
-    "label": "BMW iX4 M60 xDrive",
-    "brandId": "bmw",
-    "brandName": "BMW",
-    "year": 2027,
-    "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix4_m60_xdrive/",
-    "description": "The electronically limited top speed of the BMW iX4 M60 xDrive is 240 kmh (149 mph). The M Performance model has a maximum range of up to 777 kilometres (483 miles)."
   }
 ]

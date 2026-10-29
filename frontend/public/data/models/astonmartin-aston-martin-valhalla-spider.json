@@ -1,0 +1,26 @@
+{
+  "id": "ncs-astonmartin-aston-martin-valhalla-spider",
+  "slug": "astonmartin-aston-martin-valhalla-spider",
+  "name": "Aston Martin Valhalla Spider",
+  "fullName": "2028 Aston Martin Valhalla Spider",
+  "brandId": "astonmartin",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "Aston Martin Valhalla Spider shares the same 1079PS and 1100Nm of torque plug-in hybrid powertrain as Valhalla Coupe. Central to this is the 828PS 4.0-litre twin-turbo V8 engine.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Aston_Martin-Valhalla_Spider-2028-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Aston_Martin-Valhalla_Spider-2028-thb.jpg",
+  "tags": [
+    "new",
+    "2028"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/aston_martin/2028-valhalla_spider/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-28T02:04:01.405Z",
+  "createdAt": "2026-10-28T02:04:02.743Z",
+  "updatedAt": "2026-10-28T02:04:02.744Z"
+}

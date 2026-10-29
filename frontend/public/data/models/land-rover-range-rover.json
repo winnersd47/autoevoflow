@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-range-rover",
+  "slug": "land-rover-range-rover",
+  "name": "Range Rover Electric",
+  "fullName": "Range Rover Electric",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Офиц. данные JLR: 542 л.с./550PS (2 мотора), батарея 118.5 кВтч, 800В/350кВт зарядка, от $138k в США / £154,070 в Великобритании. Платформа — MLA-Flex (общая с ICE L460; НЕ EMA — EMA это отдельная, более компактная электроплатформа JLR для Velar Electric/Discovery 6). Разгон 0-100 за 4.3s (режим Dynamic Launch), обгон 50-75mph за 2.7s. Запас хода на момент финального анонса (сен. 2026) — 372 мили/~599км WLTP, уточняет более раннюю предпроизводственную оценку 333 мили/536км. Источники: JLR, autocar.co.uk, electriccarsreport.com, insideevs.com (сен.-окт. 2026).",
+  "generationCount": 9,
+  "heroImageUrl": "https://www.netcarshow.com/Land_Rover-Range_Rover_Electric-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Land_Rover-Range_Rover_Electric-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.345Z",
+  "updatedAt": "2026-10-29T11:36:10.345Z"
+}

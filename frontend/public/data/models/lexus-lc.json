@@ -1,0 +1,20 @@
+{
+  "id": "sync-lexus-lc",
+  "slug": "lexus-lc",
+  "name": "Lexus LC500 Phase II",
+  "fullName": "Lexus LC500 Phase II",
+  "brandId": "lexus",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 4,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-LF-1_Limitless_Concept-2018-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-LF-1_Limitless_Concept-2018-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.290Z",
+  "updatedAt": "2026-10-29T11:36:10.290Z"
+}

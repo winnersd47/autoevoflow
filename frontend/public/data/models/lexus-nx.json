@@ -1,0 +1,20 @@
+{
+  "id": "sync-lexus-nx",
+  "slug": "lexus-nx",
+  "name": "Lexus NX350",
+  "fullName": "Lexus NX350",
+  "brandId": "lexus",
+  "bodyType": "suv",
+  "segment": "premium_suv",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "",
+  "generationCount": 4,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-NX-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-NX-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.288Z",
+  "updatedAt": "2026-10-29T11:36:10.289Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lotus-emira-420-sport",
+  "slug": "lotus-emira-420-sport",
+  "name": "Lotus Emira 420 Sport",
+  "fullName": "Lotus Emira 420 Sport",
+  "brandId": "lotus",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Lotus Emira 420 Sport produces 420PS from a 2.0-litre turbocharged four-cylinder engine, accelerates from 0-62mph in 3.9 seconds and reaches a top speed of 186mph.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lotus-Emira_420_Sport-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lotus-Emira_420_Sport-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.296Z",
+  "updatedAt": "2026-10-29T11:36:10.296Z"
+}

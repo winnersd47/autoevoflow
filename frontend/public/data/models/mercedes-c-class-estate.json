@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-c-class-estate",
+  "slug": "mercedes-c-class-estate",
+  "name": "Mercedes-Benz C-Class Estate",
+  "fullName": "Mercedes-Benz C-Class Estate",
+  "brandId": "mercedes",
+  "bodyType": "wagon",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "C-Class Estate combines elegance with added everyday versatility. With its large and versatile load compartment, it offers greater flexibility and everyday practicality...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-C-Class_Estate-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-C-Class_Estate-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.427Z",
+  "updatedAt": "2026-10-29T11:36:10.427Z"
+}

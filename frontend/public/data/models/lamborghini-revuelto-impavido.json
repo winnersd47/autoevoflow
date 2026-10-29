@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-revuelto-impavido",
+  "slug": "lamborghini-revuelto-impavido",
+  "name": "Lamborghini Revuelto Impavido",
+  "fullName": "Lamborghini Revuelto Impavido",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "The Revuelto Impavido is offered in four exclusively defined configurations, each carrying a specific meaning rooted in samurai symbolism.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lamborghini-Revuelto_Impavido-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lamborghini-Revuelto_Impavido-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.413Z",
+  "updatedAt": "2026-10-29T11:36:10.413Z"
+}

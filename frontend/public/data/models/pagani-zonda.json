@@ -1,0 +1,20 @@
+{
+  "id": "sync-pagani-zonda",
+  "slug": "pagani-zonda",
+  "name": "Pagani Zonda Absolute Evo",
+  "fullName": "Pagani Zonda Absolute Evo",
+  "brandId": "pagani",
+  "bodyType": "roadster",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "Родстер Cinque, в 2018г. доработанный до статуса Absolute Evo: матовый оголённый карбон с итальянской триколор-полосой, механическая КПП, апгрейд до 760-спек (изначально мотор был идентичен Cinque). В некоторых непроверенных источниках встречается написание \"Absoluta\" — официальное имя Pagani именно \"Absolute\". Источник: supercars.net, classicdriver.com.",
+  "generationCount": 15,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:37:47.563Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5539.jpg/3840px-Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5539.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5539.jpg/3840px-Pagani_Zonda_C12_%27chassis_001%27_Genf_2019_1Y7A5539.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T11:37:47.563Z"
+}

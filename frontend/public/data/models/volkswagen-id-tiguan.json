@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id-tiguan",
+  "slug": "volkswagen-id-tiguan",
+  "name": "Volkswagen ID.Tiguan",
+  "fullName": "Volkswagen ID.Tiguan",
+  "brandId": "volkswagen",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Общее имя-преемник СРАЗУ для ID.4 и ID.5 (обе линейки сворачиваются под один нейминг) — платформа MEB+, до 600км запаса хода. 3 версии: 140кВт/~190hp (RWD), 210кВт/~286hp (RWD, указан), 220кВт суммарно/~299hp (4Motion AWD).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.Tiguan-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.Tiguan-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.471Z",
+  "updatedAt": "2026-10-29T11:36:10.471Z"
+}

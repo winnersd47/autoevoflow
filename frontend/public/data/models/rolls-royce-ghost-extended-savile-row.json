@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-ghost-extended-savile-row",
+  "slug": "rolls-royce-ghost-extended-savile-row",
+  "name": "Rolls-Royce Ghost Savile Row",
+  "fullName": "Rolls-Royce Ghost Savile Row",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Подтверждено веб-поиском (press.rolls-roycemotorcars.com) — уникальный one-of-one bespoke-заказ Mulliner на базе Ghost Extended (EWB), тема — британский костюмный пошив Savile Row (двухцветная Midnight Sapphire/English White, прострочка-\"ёлочка\" как у портных). Тот же 6.75Л твин-турбо V12, 563 л.с., что и базовый Ghost EWB. zone/bodyType/engineType были ошибочно midsize_sed/coupe/i4t (артефакт скрейпера). Источники: press.rolls-roycemotorcars.com, autoblog.com, autoevolution.com.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Ghost_Extended_Savile_Row-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Ghost_Extended_Savile_Row-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.393Z",
+  "updatedAt": "2026-10-29T11:36:10.393Z"
+}

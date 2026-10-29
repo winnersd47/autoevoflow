@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-pixo",
+  "slug": "nissan-pixo",
+  "name": "Nissan Pixo",
+  "fullName": "Nissan Pixo",
+  "brandId": "nissan",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Возрождение имени Pixo (ранее — ребейдж Suzuki Alto/Celerio, 2009-2013) — новый городской электромобиль A-класса, разработан совместно с Renault на базе нового Twingo (производство в Словении). Представлен в сентябре 2026, продажи в Европе — с начала 2027. Мотор 82 л.с., батарея LFP 27.5 кВтч, запас хода 259 км (WLTP), цена ожидается ниже 20 000 евро. Источник: motor1.com, Nissan Global Newsroom 2026.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Pixo-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Pixo-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.443Z",
+  "updatedAt": "2026-10-29T11:36:10.443Z"
+}

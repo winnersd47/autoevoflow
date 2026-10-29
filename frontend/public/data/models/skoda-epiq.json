@@ -1,0 +1,20 @@
+{
+  "id": "sync-skoda-epiq",
+  "slug": "skoda-epiq",
+  "name": "Škoda Epiq",
+  "fullName": "Škoda Epiq",
+  "brandId": "skoda",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Компактный электрокроссовер (4171 мм) на MEB+ — серийная версия концепта Epiq (март 2024), серийный показ — май 2026. Технически производное от VW ID.Cross (те же моторы). Три версии: 116/135/211 PS (114/133/208 л.с., в hp — топ Epiq 55 с NMC 55 кВтч, до ~440 км), младшие — LFP 38.5 кВтч. Источник: motor1.com, autoevolution.com, Wikipedia (2026). Узел ncs-skoda-2027-epiq — дубль этого же автомобиля от скрапера.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Skoda-Epiq-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Epiq-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.297Z",
+  "updatedAt": "2026-10-29T11:36:10.297Z"
+}

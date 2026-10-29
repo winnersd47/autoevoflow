@@ -1,20 +1,86 @@
 [
-  { "id": "chevy-camaro-gen7-sedan", "label": "Camaro Sedan", "brandName": "Chevrolet", "year": 2029 },
-  { "id": "lotus-esprit-type135", "label": "Esprit Type 135", "brandName": "Lotus", "year": 2028 },
-  { "id": "am-valen", "label": "Valen", "brandName": "Aston Martin", "year": 2028 },
-  { "id": "chevy-corvette-gsx", "label": "Corvette Grand Sport X", "brandName": "Chevrolet", "year": 2027 },
-  { "id": "bmw-m350-g50", "label": "M350 (G50)", "brandName": "BMW", "year": 2027 },
-  { "id": "mit-pajero-5", "label": "Pajero V (2027)", "brandName": "Mitsubishi", "year": 2027 },
-  { "id": "kia-sportage-6", "label": "Sportage VI (2028)", "brandName": "Kia", "year": 2028 },
-  { "id": "audi-a3-8y-fl", "label": "A3 8Y LCI", "brandName": "Audi", "year": 2027 },
-  { "id": "kia-ev3-gt", "label": "EV3 GT", "brandName": "Kia", "year": 2026 },
-  { "id": "kia-ev4-gt", "label": "EV4 GT", "brandName": "Kia", "year": 2026 },
-  { "id": "kia-ev5-gt", "label": "EV5 GT", "brandName": "Kia", "year": 2026 },
-  { "id": "hyu-tucson-5", "label": "Tucson NX5 (2027)", "brandName": "Hyundai", "year": 2027 },
-  { "id": "brabus-bodo", "label": "Bodo (исправлен бренд: Aston Martin → Brabus)", "brandName": "Brabus", "year": 2026 },
-  { "id": "brabus-bodo-cabriolet", "label": "Bodo Cabriolet (исправлен бренд: Aston Martin → Brabus)", "brandName": "Brabus", "year": 2027 },
-  { "id": "ncs-toyota-2027-sequoia-trailhunter", "label": "Sequoia Trailhunter (исправлен engineType i4t→v6h)", "brandName": "Toyota", "year": 2027 },
-  { "id": "ncs-ferrari-2026-cz26", "label": "CZ26 (найден и подключён донор: SF90 Stradale)", "brandName": "Ferrari", "year": 2026 },
-  { "id": "ncs-porsche-2026-flachbau-rs", "label": "Flachbau RS (донор уточнён в note: 911 GT2 RS 991.2)", "brandName": "Porsche", "year": 2026 },
-  { "id": "ncs-volkswagen-2027-volkswagen-atlas-starts-at-53-795-in-can", "label": "Atlas 2027 (исправлены bodyType/zone/engineType, подключён Cross Sport)", "brandName": "Volkswagen", "year": 2027 }
+  {
+    "id": "alfa-romeo-stelvio-2",
+    "label": "Stelvio (2028)",
+    "brandName": "Alfa Romeo",
+    "year": 2028
+  },
+  {
+    "id": "ram-ramcharger-suv",
+    "label": "Ram Ramcharger (2028)",
+    "brandName": "Ram",
+    "year": 2028
+  },
+  {
+    "id": "gmc-hummer-ev-suv",
+    "label": "GMC Hummer EV SUV",
+    "brandName": "GMC",
+    "year": 2024
+  },
+  {
+    "id": "cadillac-escalade-v-collector",
+    "label": "Escalade-V Collector Series",
+    "brandName": "Cadillac",
+    "year": 2027
+  },
+  {
+    "id": "volvo-xc40-1-fl",
+    "label": "Volvo XC40 Facelift (2028)",
+    "brandName": "Volvo",
+    "year": 2028
+  },
+  {
+    "id": "bmw-m760-g70-lci",
+    "label": "M760 xDrive (G70 LCI)",
+    "brandName": "BMW",
+    "year": 2027
+  },
+  {
+    "id": "ncs-jaguar-2028-type-01",
+    "label": "Jaguar Type 01",
+    "brandName": "Jaguar",
+    "year": 2028
+  },
+  {
+    "id": "ncs-jaguar-2028-jaguar-type-01-ev",
+    "label": "2028 Jaguar Type 01 EV",
+    "brandName": "Jaguar",
+    "year": 2028
+  },
+  {
+    "id": "ncs-bentley-2028-torcal",
+    "label": "Bentley Torcal",
+    "brandName": "Bentley",
+    "year": 2028
+  },
+  {
+    "id": "ncs-bentley-2028-bentley-torcal-breaks",
+    "label": "2028 Bentley Torcal Breaks",
+    "brandName": "Bentley",
+    "year": 2028
+  },
+  {
+    "id": "ncs-bentley-2028-bentley-torcal-first-ride",
+    "label": "2028 Bentley Torcal First Ride",
+    "brandName": "Bentley",
+    "year": 2028
+  },
+  {
+    "id": "ncs-bentley-2028-bentley-torcal-aims-to-capture-that-tangibl",
+    "label": "2028 Bentley Torcal Aims To Capture That Tangible",
+    "brandName": "Bentley",
+    "year": 2028
+  },
+  {
+    "id": "ncs-bmw-2027-i3",
+    "label": "BMW i3",
+    "brandName": "BMW",
+    "year": 2027
+  },
+  {
+    "id": "ncs-nissan-2027-pathfinder-special-edition",
+    "label": "Nissan Pathfinder Special Edition",
+    "brandName": "Nissan",
+    "year": 2027
+  }
 ]

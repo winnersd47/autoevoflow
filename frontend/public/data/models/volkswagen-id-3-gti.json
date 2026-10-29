@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id-3-gti",
+  "slug": "volkswagen-id-3-gti",
+  "name": "Volkswagen ID.3 GTI",
+  "fullName": "Volkswagen ID.3 GTI",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "The electric drive motor of the ID.3 GTI delivers exactly 240 kW (326 PS) to the rear axle. Especially impressive is the maximum torque of 545 Nm.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Volkswagen-ID.3_GTI-2028-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Volkswagen-ID.3_GTI-2028-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.442Z",
+  "updatedAt": "2026-10-29T11:36:10.442Z"
+}

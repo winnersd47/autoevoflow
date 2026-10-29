@@ -11,6 +11,21 @@ import { BrandDNARadar, type RadarSeries } from "@/components/graph/BrandDNARada
 import AIAnalysisPanel from "@/components/ui/AIAnalysisPanel";
 import type { CarModel } from "@/lib/types";
 
+// ─── Склонение "поколение" по числу (ru) / generation(s) (en) ─────────────────
+// 201 поколений — грамматически неверно (числа на "1", кроме "11", требуют
+// именительный ед.ч.: "201 поколение"). Обычные плейсхолдеры со строкой-
+// константой этого не учитывают, поэтому считаем форму отдельно только для
+// этой карточки, не трогая остальной i18n.
+
+function pluralizeGenerations(n: number, locale: "ru" | "en"): string {
+  if (locale === "en") return n === 1 ? "generation" : "generations";
+  const mod10 = n % 10;
+  const mod100 = n % 100;
+  if (mod10 === 1 && mod100 !== 11) return "поколение";
+  if (mod10 >= 2 && mod10 <= 4 && (mod100 < 12 || mod100 > 14)) return "поколения";
+  return "поколений";
+}
+
 // ─── Country flag emoji helper ────────────────────────────────────────────────
 
 function countryFlag(code: string): string {
@@ -40,7 +55,7 @@ function BrandPageSkeleton() {
 
 export default function BrandPage({ params }: { params: { slug: string } }) {
   const { slug } = params;
-  const { t } = useLocale();
+  const { t, locale } = useLocale();
 
   const { data: apiBrand, isLoading: brandLoading } = useBrand(slug);
   const { data: apiModels, isLoading: modelsLoading } = useBrandModels(slug);
@@ -274,7 +289,10 @@ export default function BrandPage({ params }: { params: { slug: string } }) {
                   {t("brand.evolutionGraph")}
                 </h3>
                 <p className="text-text-secondary text-sm">
-                  {t("brand.evolutionGraphDesc", { count: brand.generationCount })}
+                  {t("brand.evolutionGraphDesc", {
+                    count: brand.generationCount,
+                    word: pluralizeGenerations(brand.generationCount, locale),
+                  })}
                 </p>
               </div>
             </Link>

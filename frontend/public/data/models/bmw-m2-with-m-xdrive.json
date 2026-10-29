@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-m2-with-m-xdrive",
+  "slug": "bmw-m2-with-m-xdrive",
+  "name": "M2 xDrive (G87)",
+  "fullName": "M2 xDrive (G87)",
+  "brandId": "bmw",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The combination of the M xDrive all-wheel-drive system and Active M Differential gives the new BMW M2 with M xDrive further improved sprinting power.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-M2_with_M_xDrive-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-M2_with_M_xDrive-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.295Z",
+  "updatedAt": "2026-10-29T11:36:10.295Z"
+}

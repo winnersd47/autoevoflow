@@ -1,0 +1,20 @@
+{
+  "id": "sync-lexus-is-350-special-appearance-package",
+  "slug": "lexus-is-350-special-appearance-package",
+  "name": "Lexus IS 350 Special Appearance Package",
+  "fullName": "Lexus IS 350 Special Appearance Package",
+  "brandId": "lexus",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Прощальная спецверсия на базе IS350 F Sport (поколение XE30 Phase II): атмосферный 3.5L V6, 311 л.с./280 фунт-фут, цвет \"Envious\", 19\" диски BBS, пакет Handling (адаптивная подвеска, Torsen LSD на RWD). 350 экз. для Северной Америки. Источник: pressroom.lexus.com, motorweek.org.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lexus-IS_350_Special_Appearance_Package-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-IS_350_Special_Appearance_Package-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.431Z",
+  "updatedAt": "2026-10-29T11:36:10.431Z"
+}

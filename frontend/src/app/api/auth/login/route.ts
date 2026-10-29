@@ -1,5 +1,8 @@
 import { NextResponse } from 'next/server'
-import { BACKEND_URL, setAccessCookie, setRefreshCookie, fetchProfile, toAuthUser } from '@/lib/auth-cookies'
+import {
+  setAccessCookie, setRefreshCookie, fetchProfile, toAuthUser,
+  verifyAdminCredentials, signAccessToken, signRefreshToken,
+} from '@/lib/auth-cookies'
 
 export async function POST(req: Request) {
   let body: { email?: string; password?: string }
@@ -12,26 +15,22 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'Email and password are required' }, { status: 400 })
   }
 
-  const backendRes = await fetch(`${BACKEND_URL}/api/v1/auth/login`, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ email: body.email, password: body.password }),
-    cache: 'no-store',
-  })
-
-  if (!backendRes.ok) {
-    const detail = await backendRes.json().catch(() => ({}))
+  if (!process.env.ADMIN_EMAIL || !process.env.ADMIN_PASSWORD_HASH) {
     return NextResponse.json(
-      { error: detail.detail ?? 'Invalid credentials' },
-      { status: backendRes.status },
+      { error: 'Админ-аккаунт ещё не настроен — запустите scripts/set-admin-password.js' },
+      { status: 503 },
     )
   }
+  if (!verifyAdminCredentials(body.email, body.password)) {
+    return NextResponse.json({ error: 'Invalid credentials' }, { status: 401 })
+  }
 
-  const tokens = (await backendRes.json()) as { access_token: string; refresh_token: string }
-  const profile = await fetchProfile(tokens.access_token)
+  const accessToken = await signAccessToken()
+  const refreshToken = await signRefreshToken()
+  const profile = await fetchProfile(accessToken)
 
   const res = NextResponse.json({ user: profile ? toAuthUser(profile) : null })
-  setAccessCookie(res, tokens.access_token)
-  setRefreshCookie(res, tokens.refresh_token)
+  setAccessCookie(res, accessToken)
+  setRefreshCookie(res, refreshToken)
   return res
 }

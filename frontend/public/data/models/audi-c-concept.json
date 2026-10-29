@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-c-concept",
+  "slug": "audi-c-concept",
+  "name": "Audi C Concept",
+  "fullName": "Audi C Concept",
+  "brandId": "audi",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Inspired by the Auto Union Type C (1936) and the third-generation Audi A6 (2004), it has a clear, upright form that conveys presence and identity.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Audi-C_Concept-2025-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Audi-C_Concept-2025-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.367Z",
+  "updatedAt": "2026-10-29T11:36:10.367Z"
+}

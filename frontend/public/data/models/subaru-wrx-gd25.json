@@ -1,0 +1,20 @@
+{
+  "id": "sync-subaru-wrx-gd25",
+  "slug": "subaru-wrx-gd25",
+  "name": "Subaru WRX GD25",
+  "fullName": "Subaru WRX GD25",
+  "brandId": "subaru",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Subaru WRX GD25 honors the first edition of the WRX to arrive in the U.S. in 2002, which utilized a chassis codenamed &quot;GD&quot;. It is painted exclusively in World Rally Blue...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Subaru-WRX_GD25-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Subaru-WRX_GD25-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.458Z",
+  "updatedAt": "2026-10-29T11:36:10.458Z"
+}

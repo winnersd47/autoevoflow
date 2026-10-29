@@ -1,0 +1,20 @@
+{
+  "id": "sync-mclaren-mcl-6gt-concept",
+  "slug": "mclaren-mcl-6gt-concept",
+  "name": "McLaren McL 6GT Concept",
+  "fullName": "McLaren McL 6GT Concept",
+  "brandId": "mclaren",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Концепт McLaren — по названию отсылает к гоночному наследию бренда (аналог MSO/GT-направления).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/McLaren-McL_6GT_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/McLaren-McL_6GT_Concept-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.422Z",
+  "updatedAt": "2026-10-29T11:36:10.422Z"
+}

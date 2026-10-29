@@ -1,0 +1,20 @@
+{
+  "id": "sync-skoda-peaq",
+  "slug": "skoda-peaq",
+  "name": "Skoda Peaq",
+  "fullName": "Skoda Peaq",
+  "brandId": "skoda",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "As the first Skoda model in the large SUV segment, the Peaq is also the biggest and most spacious SUV the brand has ever produced. With an overall length of 4,874 mm...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Skoda-Peaq-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Peaq-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.360Z",
+  "updatedAt": "2026-10-29T11:36:10.360Z"
+}

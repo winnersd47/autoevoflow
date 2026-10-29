@@ -1,0 +1,20 @@
+{
+  "id": "sync-subaru-brz-zc15",
+  "slug": "subaru-brz-zc15",
+  "name": "Subaru BRZ ZC15",
+  "fullName": "Subaru BRZ ZC15",
+  "brandId": "subaru",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Subaru BRZ ZC15 is a tribute to the first-generation BRZ, which arrived in 2012 on a chassis codenamed &quot;ZC.&quot; The 2027 BRZ ZC15 is painted exclusively in brilliant Ceramic White...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Subaru-BRZ_ZC15-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Subaru-BRZ_ZC15-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.458Z",
+  "updatedAt": "2026-10-29T11:36:10.458Z"
+}

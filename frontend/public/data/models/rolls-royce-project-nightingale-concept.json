@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-project-nightingale-concept",
+  "slug": "rolls-royce-project-nightingale-concept",
+  "name": "Rolls-Royce Project Nightingale Concept",
+  "fullName": "Rolls-Royce Project Nightingale Concept",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Подтверждено официальным пресс-релизом press.rolls-roycemotorcars.com — реальный проект, не выдумка скрейпера. \"Project Nightingale\" — коучбилд-коллекция Rolls-Royce: двухместный открытый электромобиль, дизайн в духе ар-деко/Streamline Moderne, отсылка к 16EX/17EX (1920-30е). Ограничен 100 клиентскими экземплярами (поставки с 2028), доступен только по приглашению — малая коммерческая коучбилд-серия, а не одноразовый шоу-кар. Переклассифицирован по аналогии с rr-sweptail/rr-boattail/rr-droptail-*: zone concept→open_top, codeName→Coachbuild, isConcept снят, isLimited=true. Источники: press.rolls-roycemotorcars.com, robbreport.com, autoblog.com.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Project_Nightingale_Concept-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Project_Nightingale_Concept-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.363Z",
+  "updatedAt": "2026-10-29T11:36:10.363Z"
+}

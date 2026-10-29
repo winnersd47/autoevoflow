@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-ix4",
+  "slug": "bmw-ix4",
+  "name": "BMW iX4 (Neue Klasse)",
+  "fullName": "BMW iX4 (Neue Klasse)",
+  "brandId": "bmw",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Первый iX4 — электрический кросс-купе на платформе Neue Klasse, производное от iX3 NK (как X4 от X3). Представлен 7 октября 2026, рыночный старт — март 2027. iX4 50 xDrive: два мотора, 469 л.с./645 Нм (в hp), батарея 108.7 кВтч, до ~690 км (428 миль). Позже — M60 xDrive (612 л.с.). Источник: bmwgroup.com, autoevolution.com, jalopnik.com (2026).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-iX4-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX4-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.465Z",
+  "updatedAt": "2026-10-29T11:36:10.465Z"
+}

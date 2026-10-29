@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-296-gt-modificata",
+  "slug": "ferrari-296-gt-modificata",
+  "name": "Ferrari 296 GT Modificata",
+  "fullName": "Ferrari 296 GT Modificata",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The soul of the 296 GT Modificata is the rear-mid mounted 2,992 cc 120deg V6 internal combustion engine that maintains the same architecture and design...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Ferrari-296_GT_Modificata-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Ferrari-296_GT_Modificata-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.442Z",
+  "updatedAt": "2026-10-29T11:36:10.442Z"
+}

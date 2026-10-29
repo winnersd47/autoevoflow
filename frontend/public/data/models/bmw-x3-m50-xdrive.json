@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-x3-m50-xdrive",
+  "slug": "bmw-x3-m50-xdrive",
+  "name": "BMW X3 M50 xDrive",
+  "fullName": "BMW X3 M50 xDrive",
+  "brandId": "bmw",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "BMW X3 M50 xDrive models benefit from the performance improvements, which are not dependent on the Black Package. This engine meets all the stipulations of the Euro 7...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-X3_M50_xDrive-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-X3_M50_xDrive-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.456Z",
+  "updatedAt": "2026-10-29T11:36:10.456Z"
+}

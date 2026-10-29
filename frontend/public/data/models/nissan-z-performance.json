@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-z-performance",
+  "slug": "nissan-z-performance",
+  "name": "Nissan Z Performance",
+  "fullName": "Nissan Z Performance",
+  "brandId": "nissan",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Комплектация Z Performance — спортивный пакет текущего поколения Z (RZ34, с 2022): усиленная подвеска, LSD, увеличенные тормоза. Для модельного 2027 года инженеры обновили амортизаторы (монотрубные большего диаметра) для улучшения демпфирования. Источник: netcarshow.com, пресс-материалы Nissan.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Z_Performance-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Z_Performance-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.411Z",
+  "updatedAt": "2026-10-29T11:36:10.411Z"
+}

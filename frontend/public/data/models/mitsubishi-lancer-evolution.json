@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-lancer-evolution",
+  "slug": "mitsubishi-lancer-evolution",
+  "name": "Mitsubishi Lancer Evolution Final Edition",
+  "fullName": "Mitsubishi Lancer Evolution Final Edition",
+  "brandId": "mitsubishi",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Прощальная лимитированная серия Evo X для Северной Америки (1600 экз.), объявлена Mitsubishi как 'самая мощная серийная Evolution за всю историю' — 303 л.с./305 lb-ft (рост с 291 л.с. у обычного GSR) за счёт менее ограничительного выхлопа и новой прошивки, 5-ст. МКПП. Производство Lancer Evolution прекращено в 2015г. Источники: пресс-релизы media.mitsubishicars.com (2015).",
+  "generationCount": 16,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:37:46.003Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2017-04-02_Mitsubishi_Lancer_Evolution_X_MR_SST_14_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2017-04-02_Mitsubishi_Lancer_Evolution_X_MR_SST_14_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T11:37:46.003Z"
+}

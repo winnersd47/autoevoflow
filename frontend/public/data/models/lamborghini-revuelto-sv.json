@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-revuelto-sv",
+  "slug": "lamborghini-revuelto-sv",
+  "name": "Lamborghini Revuelto SV",
+  "fullName": "Lamborghini Revuelto SV",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Revuelto SV embodies the quintessential Lamborghini philosophy, where design and performance merge seamlessly. It stands as an uncompromising expression of performance, design...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Lamborghini-Revuelto_SV-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Lamborghini-Revuelto_SV-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.423Z",
+  "updatedAt": "2026-10-29T11:36:10.423Z"
+}

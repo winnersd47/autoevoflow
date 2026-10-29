@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-gls-680-maybach",
+  "slug": "mercedes-gls-680-maybach",
+  "name": "Mercedes-Benz GLS 680 Maybach",
+  "fullName": "Mercedes-Benz GLS 680 Maybach",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Mercedes-Maybach GLS has been refined with one clear objective: to convey even greater status and presence through precision and design quality.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLS_680_Maybach-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-GLS_680_Maybach-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.412Z",
+  "updatedAt": "2026-10-29T11:36:10.412Z"
+}

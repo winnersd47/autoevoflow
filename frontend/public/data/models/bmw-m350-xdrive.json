@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-m350-xdrive",
+  "slug": "bmw-m350-xdrive",
+  "name": "BMW M350 xDrive",
+  "fullName": "BMW M350 xDrive",
+  "brandId": "bmw",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Under the bonnet of the BMW M350 xDrive is a 3.0-litre petrol unit that benefits from a 48V mild hybrid system complete with crankshaft-driven starter generator...",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/BMW-M350_xDrive-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/BMW-M350_xDrive-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.456Z",
+  "updatedAt": "2026-10-29T11:36:10.456Z"
+}

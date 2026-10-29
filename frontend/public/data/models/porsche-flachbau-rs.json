@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-flachbau-rs",
+  "slug": "porsche-flachbau-rs",
+  "name": "Porsche Flachbau RS",
+  "fullName": "Porsche Flachbau RS",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Sonderwunsch-проект (совместно с Manthey) на базе 911 GT2 RS (991.2) с пакетом Weissach, экземпляр 2018г. Реинтерпретация классического \"Flachbau\" (плоский нос) в духе гоночных 935 конца 1970-х: новые передние крылья, 3-ярусная головная оптика вместо круглых фар, антикрыло в стиле GT3 R Rennsport, салон облегчён (снята мультимедиа/шумоизоляция). Единственный экземпляр по заказу одного клиента, доп. заказы не открыты.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Porsche-Flachbau_RS-2026-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Porsche-Flachbau_RS-2026-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.423Z",
+  "updatedAt": "2026-10-29T11:36:10.423Z"
+}

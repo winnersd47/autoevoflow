@@ -13286,7 +13286,8 @@
       "sourceUrl": "https://www.netcarshow.com/rolls-royce/2027-spectre_black_badge_series_ii/",
       "isLatest": true,
       "scrapedAt": "2026-06-05T07:31:48.971Z",
-      "hp": 650
+      "hp": 670,
+      "note": "Подтверждено веб-поиском (autoevolution.com, carbuzz.com, bmwblog.com) — реальный среднециклевой рестайлинг Series II (2027): батарея 102→112 кВтч, запас хода WLTP +18% (627км/390 миль), заряд быстрее на 14%, новые 23\" диски, отделка Duality Twill. Black Badge Series II в режиме Infinity Mode выдаёт до 680 PS/670 л.с. — самый мощный серийный Rolls-Royce в истории (было ошибочно указано 650 л.с.)."
     },
     {
       "id": "ncs-rolls-royce-2027-rolls-royce-spectre-series-ii",
@@ -13307,7 +13308,8 @@
       "sourceUrl": "https://www.netcarshow.com/rolls-royce/2027-spectre_series_ii/",
       "isLatest": true,
       "scrapedAt": "2026-06-05T07:31:48.971Z",
-      "hp": 577
+      "hp": 577,
+      "note": "Подтверждено веб-поиском — реальный рестайлинг, не дубль/не шум скрейпера: батарея 102→112 кВтч, запас хода WLTP +18% (627км/390 миль), новые 23\" диски, отделка Duality Twill. Мощность базовой (не Black Badge) версии в источниках не меняется относительно rr-spectre (577 л.с.) — прирост мощности, упоминаемый в прессе, относится к Black Badge Series II (см. соседний узел). Источники: autoevolution.com, carbuzz.com, bmwblog.com, pistonheads.com."
     },
     {
       "id": "ncs-audi-2027-audi-rs5-sedan",
@@ -13420,7 +13422,7 @@
     },
     {
       "id": "ncs-skoda-2027-skoda-epiq",
-      "label": "Skoda Epiq",
+      "label": "Škoda Epiq",
       "type": "generation",
       "year": 2026,
       "brandId": "skoda",
@@ -13429,7 +13431,7 @@
       "modelSlug": "skoda-epiq",
       "bodyType": "suv",
       "segment": "compact_suv",
-      "zone": "midsize_sed",
+      "zone": "suv_compact",
       "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Skoda-Epiq-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Epiq-2027-thb.jpg",
@@ -13437,7 +13439,9 @@
       "sourceUrl": "https://www.netcarshow.com/skoda/2027-epiq/",
       "isLatest": true,
       "scrapedAt": "2026-06-05T07:31:48.971Z",
-      "hp": 215
+      "hp": 208,
+      "fullName": "Škoda Epiq",
+      "note": "Компактный электрокроссовер (4171 мм) на MEB+ — серийная версия концепта Epiq (март 2024), серийный показ — май 2026. Технически производное от VW ID.Cross (те же моторы). Три версии: 116/135/211 PS (114/133/208 л.с., в hp — топ Epiq 55 с NMC 55 кВтч, до ~440 км), младшие — LFP 38.5 кВтч. Источник: motor1.com, autoevolution.com, Wikipedia (2026). Узел ncs-skoda-2027-epiq — дубль этого же автомобиля от скрапера."
     },
     {
       "id": "ncs-subaru-2027-subaru-getaway",
@@ -13602,8 +13606,8 @@
       "modelSlug": "lexus-es-500e-awd",
       "bodyType": "sedan",
       "segment": "other",
-      "zone": "jp",
-      "engineType": "EV",
+      "zone": "exec_sed",
+      "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Lexus-ES_500e_AWD-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-ES_500e_AWD-2026-thb.jpg",
       "description": "ES 500e is equipped with Lexus' DIRECT4 intelligent electric all-wheel drive system. This provides continuous adjustment of drive torque distribution to all four wheels...",
@@ -13623,8 +13627,8 @@
       "modelSlug": "lexus-es-350e",
       "bodyType": "sedan",
       "segment": "other",
-      "zone": "jp",
-      "engineType": "EV",
+      "zone": "exec_sed",
+      "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Lexus-ES_350e-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-ES_350e-2026-thb.jpg",
       "description": "The ES uses a new Lexus battery electric system that has been developed with a focus on delivering an evolution of the Lexus Driving Signature that creates a sharpened...",
@@ -13644,8 +13648,8 @@
       "modelSlug": "lexus-es-350h",
       "bodyType": "sedan",
       "segment": "other",
-      "zone": "jp",
-      "engineType": "hybrid",
+      "zone": "exec_sed",
+      "engineType": "i4h",
       "heroImageUrl": "https://www.netcarshow.com/Lexus-ES_350h-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Lexus-ES_350h-2026-thb.jpg",
       "description": "ES 350h is the first models to be powered by sixth generation Lexus hybrid technology. The self-charging hybrid system combines a 2.5-litre four-cylinder petrol engine...",
@@ -15584,14 +15588,15 @@
       "bodyType": "coupe",
       "segment": "other",
       "zone": "sports",
-      "engineType": "v8t",
+      "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_4-Door-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-AMG_GT_4-Door-2027-thb.jpg",
       "description": "Mercedes-AMG continues its impressive tradition of high-performance drivetrains and is ushering in a new level of performance in the Mercedes-AMG GT 4-Door Coupe.",
       "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-amg_gt_4-door/",
       "isLatest": true,
       "scrapedAt": "2026-06-10T19:39:03.186Z",
-      "hp": 577
+      "hp": 1153,
+      "note": "Новый электрический AMG GT 4-Door — первый автомобиль на собственной платформе AMG.EA (800 В, три аксиально-поточных мотора до 1153 л.с., 0-60 за 2.0с). Представлен 19 мая 2026 в Лос-Анджелесе; GT 55 — с конца 2026, GT 63 — начало 2027. До 2026-10-28 узел ошибочно имел engineType v8t/577 л.с. — ДВС у этой машины нет. Источник: jalopnik.com, autonews.com, kbb.com (2026)."
     },
     {
       "id": "ncs-porsche-2026-911-targa-4-gts-jessie",
@@ -15646,7 +15651,8 @@
       "zone": "concept",
       "hp": 400,
       "engineType": "v8t",
-      "isConcept": true
+      "isConcept": true,
+      "note": "Концепт Женева-2015, дизайн-исследование нового языка Bentley. Подтверждено независимо (conceptcarz.com, autoevolution.com, motorauthority.com) — вдохновил именно 3-е поколение Continental GT (2018, GT3): фары/решётка и задние \"плечи\" предсерийного GT3 прямо повторяют EXP 10 Speed 6, а не 4-е поколение (2025, GT4), как было указано ранее (ребро inspired_by переориентировано gt4→gt3). Серийной модели \"Speed 6\" не существует."
     },
     {
       "id": "bentley-exp100gt",
@@ -15665,7 +15671,8 @@
       "isConcept": true,
       "a777TopSpeed": 300,
       "a777Accel": 2.5,
-      "a777Torque": 1500
+      "a777Torque": 1500,
+      "note": "EXP 100 GT (представлен 10 июля 2019 к 100-летию марки) — видение GT-автомобиля 2035г.: полностью электрический, 0-60mph за 2.5с, запас хода ~700км, автономное вождение. Дизайн вдохновлён НЕ Mulsanne (ошибочное ребро удалено — источниками не подтверждается), а историческими моделями: задние \"плечи\" — отсылка к R-Type Continental (1952), круглые фары, перетекающие в решётку, — отсылка к 4½ Litre Blower (1929); медь/алюминий в отделке — дань материалам авиадвигателя W.O. Bentley времён Первой мировой. Прямой серийный преемник публично не подтверждён; связь с Torcal (2026, SUV на платформе PPE/Porsche Cayenne Electric) источниками НЕ подтверждается (разные кузова и платформы) — не добавляю. Источники: bentleymotors.com, designboom.com, motor1.com, en.wikipedia.org/wiki/Bentley_EXP_100_GT."
     },
     {
       "id": "audi-q7-4m",
@@ -19234,7 +19241,8 @@
       "hp": 100,
       "engineType": "i4",
       "modelSlug": "chrysler-voyager-1",
-      "familyKey": "chrysler-minivan"
+      "familyKey": "chrysler-minivan",
+      "note": "Поколения 2-5 (1991/1996/2001/2008) этого минивэна в графе отдельными Chrysler-узлами не представлены осознанно: вся линейка поколений уже полностью смоделирована через dodge-caravan-1..5 (та же физическая платформа каждого цикла, shares_platform уже стоит на этом узле), а \"Town & Country\" все эти годы был не отдельной моделью/поколением, а топовым тримом/под-брендом ТОЙ ЖЕ генерации минивэна (с 1990г.) — отдельного chrysler-town-country-* узла нет и намеренно не добавлялся, чтобы не дублировать Dodge-цепочку псевдо-поколениями по именам трима. В 2017 Voyager и Town & Country одновременно заменены на Pacifica (см. evolves_into) — 32-летний интервал ребра отражает реальный факт, что Chrysler-сторона этого семейства моделировалась по бренду-владельцу платформы (Dodge), а не дублировалась от узла к узлу."
     },
     {
       "id": "chrysler-pacifica",
@@ -20055,14 +20063,18 @@
       "year": 2025,
       "brandId": "land-rover",
       "brandName": "Land Rover",
-      "codeName": "EMA",
+      "codeName": "MLA-Flex",
       "modelSlug": "land-rover-range-rover",
       "bodyType": "suv",
       "segment": "luxury_suv",
       "zone": "electric",
       "hp": 542,
       "engineType": "ev",
-      "note": "Офиц. данные JLR: 542 л.с. (2 мотора), батарея 118.5 кВтч, запас хода 333 мили/536км WLTP, 800В/350кВт зарядка, старт продаж H2 2026, от $138k в США. (Ранее в графе стояла оценка 493 л.с. — заменена на офиц. цифру после реального анонса.)"
+      "note": "Офиц. данные JLR: 542 л.с./550PS (2 мотора), батарея 118.5 кВтч, 800В/350кВт зарядка, от $138k в США / £154,070 в Великобритании. Платформа — MLA-Flex (общая с ICE L460; НЕ EMA — EMA это отдельная, более компактная электроплатформа JLR для Velar Electric/Discovery 6). Разгон 0-100 за 4.3s (режим Dynamic Launch), обгон 50-75mph за 2.7s. Запас хода на момент финального анонса (сен. 2026) — 372 мили/~599км WLTP, уточняет более раннюю предпроизводственную оценку 333 мили/536км. Источники: JLR, autocar.co.uk, electriccarsreport.com, insideevs.com (сен.-окт. 2026).",
+      "heroImageUrl": "https://www.netcarshow.com/Land_Rover-Range_Rover_Electric-2027-wallpaper.jpg",
+      "thumbnailUrl": "https://www.netcarshow.com/R/Land_Rover-Range_Rover_Electric-2027-thb.jpg",
+      "sourceUrl": "https://www.netcarshow.com/land_rover/2027-range_rover_electric/",
+      "description": "Range Rover Electric will complete 0-60mph in as little as 4.3 seconds, with power enabling overtaking speeds from 50-75mph in as little as 2.7 seconds."
     },
     {
       "id": "lr-rrs-l320",
@@ -21487,7 +21499,7 @@
       "segment": "luxury_mpv",
       "zone": "luxury",
       "hp": 400,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Первый чистый EV Li Auto; 800V суперзарядка; 12 мин до 500km; MPV"
     },
     {
@@ -21957,9 +21969,9 @@
       "modelSlug": "dodge-charger-ev",
       "bodyType": "fastback",
       "segment": "electric_muscle",
-      "zone": "electric",
+      "zone": "gt_coupe",
       "hp": 670,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "800V \"Fratzonic\" имитатор выхлопа; конец эпохи HEMI → начало Banshee EV платформы"
     },
     {
@@ -23423,7 +23435,8 @@
       "segment": "mainstream",
       "zone": "suv_mid",
       "hp": 140,
-      "engineType": "v6"
+      "engineType": "i4d",
+      "note": "Рамный SUV (BL) на базе Hyundai Terracan — НЕ на платформе Santa Fe (общая платформа появилась только с XM 2009). Моторы 2.4 I4, 3.5 V6 (192hp), 2.5 CRDi (140hp, указан). Источник: Wikipedia."
     },
     {
       "id": "kia-sorento-2",
@@ -23438,7 +23451,8 @@
       "segment": "mainstream",
       "zone": "suv_mid",
       "hp": 194,
-      "engineType": "v6"
+      "engineType": "i4d",
+      "note": "XM — первый несущий Sorento, платформа общая с Hyundai Santa Fe CM. Указан дизель 2.2 CRDi (197PS/194hp); бензин 2.4 I4 и 3.5 V6 (276hp) в США. Источник: Wikipedia."
     },
     {
       "id": "kia-sorento-3",
@@ -23472,8 +23486,8 @@
     },
     {
       "id": "kia-k5-1",
-      "label": "Optima II (2011)",
-      "year": 2011,
+      "label": "K5 I / Optima III (2010)",
+      "year": 2010,
       "brandId": "kia",
       "brandName": "Kia",
       "modelSlug": "kia-k5",
@@ -23483,12 +23497,14 @@
       "segment": "mainstream",
       "zone": "exec_sed",
       "hp": 197,
-      "engineType": "i4t"
+      "engineType": "i4t",
+      "codeName": "TF",
+      "note": "Первая модель под именем K5 (в Корее, май 2010), в мире — 3-е поколение Optima. Платформа Hyundai Sonata YF; дизайн Петера Шрайера. Ранее ошибочно подписана как \"Optima II\"."
     },
     {
       "id": "kia-k5-2",
-      "label": "Optima III (2016)",
-      "year": 2016,
+      "label": "K5 II / Optima IV (2015)",
+      "year": 2015,
       "brandId": "kia",
       "brandName": "Kia",
       "modelSlug": "kia-k5",
@@ -23498,11 +23514,13 @@
       "segment": "mainstream",
       "zone": "exec_sed",
       "hp": 180,
-      "engineType": "i4t"
+      "engineType": "i4t",
+      "codeName": "JF",
+      "note": "2-е поколение K5 / 4-е Optima (июль 2015), платформа Hyundai Sonata LF. Ранее ошибочно подписана как \"Optima III\"."
     },
     {
       "id": "kia-k5-3",
-      "label": "K5 / Optima IV (2020)",
+      "label": "K5 III / Optima V (2020)",
       "year": 2020,
       "brandId": "kia",
       "brandName": "Kia",
@@ -23513,7 +23531,9 @@
       "segment": "mainstream",
       "zone": "exec_sed",
       "hp": 180,
-      "engineType": "i4t"
+      "engineType": "i4t",
+      "codeName": "DL3",
+      "note": "3-е поколение K5 (премьера дек. 2019) — имя Optima упразднено и в экспорте. Платформа N3, общая с Sonata DN8. Ранее ошибочно подписана как \"Optima IV\"."
     },
     {
       "id": "kia-stinger-1",
@@ -25677,7 +25697,7 @@
       "brandName": "BMW",
       "codeName": "2027",
       "modelSlug": "bmw-ix5",
-      "bodyType": "hatchback",
+      "bodyType": "suv",
       "segment": "other",
       "zone": "electric",
       "hp": 570,
@@ -25698,7 +25718,7 @@
       "brandName": "BMW",
       "codeName": "2027",
       "modelSlug": "bmw-x5-m60e",
-      "bodyType": "coupe",
+      "bodyType": "suv",
       "segment": "other",
       "zone": "flagship_sed",
       "engineType": "i4t",
@@ -25761,11 +25781,11 @@
       "year": 2026,
       "brandId": "rolls-royce",
       "brandName": "Rolls-Royce",
-      "codeName": "2026",
+      "codeName": "Coachbuild",
       "modelSlug": "rolls-royce-project-nightingale-concept",
       "bodyType": "convertible",
       "segment": "other",
-      "zone": "concept",
+      "zone": "open_top",
       "engineType": "ev",
       "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Project_Nightingale_Concept-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Project_Nightingale_Concept-2026-thb.jpg",
@@ -25773,8 +25793,9 @@
       "sourceUrl": "https://www.netcarshow.com/rolls-royce/2026-project_nightingale_concept/",
       "isLatest": true,
       "scrapedAt": "2026-07-01T09:22:51.579Z",
-      "isConcept": true,
-      "hp": 600
+      "hp": 600,
+      "isLimited": true,
+      "note": "Подтверждено официальным пресс-релизом press.rolls-roycemotorcars.com — реальный проект, не выдумка скрейпера. \"Project Nightingale\" — коучбилд-коллекция Rolls-Royce: двухместный открытый электромобиль, дизайн в духе ар-деко/Streamline Moderne, отсылка к 16EX/17EX (1920-30е). Ограничен 100 клиентскими экземплярами (поставки с 2028), доступен только по приглашению — малая коммерческая коучбилд-серия, а не одноразовый шоу-кар. Переклассифицирован по аналогии с rr-sweptail/rr-boattail/rr-droptail-*: zone concept→open_top, codeName→Coachbuild, isConcept снят, isLimited=true. Источники: press.rolls-roycemotorcars.com, robbreport.com, autoblog.com."
     },
     {
       "id": "ncs-morgan-2026-midsummer-coupe",
@@ -26228,7 +26249,7 @@
       "segment": "compact",
       "zone": "suv_compact",
       "hp": 141,
-      "engineType": "hybrid"
+      "engineType": "i4h"
     },
     {
       "id": "kia-niro-2",
@@ -26242,8 +26263,9 @@
       "bodyType": "suv",
       "segment": "compact",
       "zone": "suv_compact",
-      "hp": 204,
-      "engineType": "ev"
+      "hp": 141,
+      "engineType": "i4h",
+      "note": "2-е поколение (SG2), три версии: HEV 1.6 GDi 141hp (указан как основная линия, как у Niro I), PHEV 183hp и Niro EV 204hp/64.8 кВтч. Ранее анкор ошибочно был EV-версией."
     },
     {
       "id": "kia-xceed-1",
@@ -30237,7 +30259,7 @@
       "segment": "ev",
       "zone": "hatchback",
       "hp": 63,
-      "engineType": "electric",
+      "engineType": "ev",
       "codeName": "HA3W"
     },
     {
@@ -30297,17 +30319,20 @@
       "brandName": "Rolls-Royce",
       "codeName": "2026",
       "modelSlug": "rolls-royce-phantom-extended-regatta",
-      "bodyType": "coupe",
+      "bodyType": "sedan",
       "segment": "other",
-      "zone": "midsize_sed",
-      "engineType": "i4t",
+      "zone": "flagship_sed",
+      "engineType": "v12t",
       "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Phantom_Extended_Regatta-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Phantom_Extended_Regatta-2026-thb.jpg",
       "description": "The exterior of the motor car is finished in Regatta Blue, a deep marine tone, over a lower body of English White, applied as a hand-laid two-tone treatment...",
       "sourceUrl": "https://www.netcarshow.com/rolls-royce/2026-phantom_extended_regatta/",
       "isLatest": true,
       "scrapedAt": "2026-07-03T12:09:09.837Z",
-      "hp": 563
+      "hp": 563,
+      "fullName": "Rolls-Royce Phantom Regatta",
+      "isLimited": true,
+      "note": "Подтверждено веб-поиском (press.rolls-roycemotorcars.com) — уникальный one-of-one bespoke-заказ Mulliner на базе Phantom Extended (EWB), дебютировал на Goodwood Festival of Speed 2026, тема — яхты/регаты южного побережья Англии (Solent). Тот же 6.75Л твин-турбо V12, 563 л.с./664 lb-ft, что и у базового Phantom EWB — не отдельная механическая версия, не отдельный кузов. zone/bodyType/engineType были ошибочно midsize_sed/coupe/i4t (артефакт скрейпера) — это полноразмерный флагманский седан. Источники: press.rolls-roycemotorcars.com, carscoops.com."
     },
     {
       "id": "ncs-ferrari-2027-12cilindri-manuale",
@@ -32770,7 +32795,7 @@
       "segment": "flagship",
       "zone": "flagship_sed",
       "hp": 748,
-      "engineType": "BEV",
+      "engineType": "ev",
       "codeName": "SEA / Z10"
     },
     {
@@ -33041,7 +33066,7 @@
       "brandId": "land-rover",
       "brandName": "Land Rover",
       "codeName": "2027",
-      "modelSlug": "land-rover-rover-defender-vertex",
+      "modelSlug": "land-rover-defender-vertex",
       "bodyType": "suv",
       "segment": "other",
       "zone": "suv_large",
@@ -33086,17 +33111,20 @@
       "brandName": "Rolls-Royce",
       "codeName": "2026",
       "modelSlug": "rolls-royce-ghost-extended-savile-row",
-      "bodyType": "coupe",
+      "bodyType": "sedan",
       "segment": "other",
-      "zone": "midsize_sed",
-      "engineType": "i4t",
+      "zone": "flagship_sed",
+      "engineType": "v12t",
       "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Ghost_Extended_Savile_Row-2026-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Ghost_Extended_Savile_Row-2026-thb.jpg",
       "description": "Ghost Savile Row's exterior colourway is inspired by the combination of a navy suit and white dress shirt - a restrained pairing that became the foundation of British tailoring.",
       "sourceUrl": "https://www.netcarshow.com/rolls-royce/2026-ghost_extended_savile_row/",
       "isLatest": true,
       "scrapedAt": "2026-07-09T12:07:14.659Z",
-      "hp": 563
+      "hp": 563,
+      "fullName": "Rolls-Royce Ghost Savile Row",
+      "isLimited": true,
+      "note": "Подтверждено веб-поиском (press.rolls-roycemotorcars.com) — уникальный one-of-one bespoke-заказ Mulliner на базе Ghost Extended (EWB), тема — британский костюмный пошив Savile Row (двухцветная Midnight Sapphire/English White, прострочка-\"ёлочка\" как у портных). Тот же 6.75Л твин-турбо V12, 563 л.с., что и базовый Ghost EWB. zone/bodyType/engineType были ошибочно midsize_sed/coupe/i4t (артефакт скрейпера). Источники: press.rolls-roycemotorcars.com, autoblog.com, autoevolution.com."
     },
     {
       "id": "ncs-pagani-2026-huayra-70-derecho",
@@ -33473,7 +33501,7 @@
       "codeName": "CLA EV",
       "modelSlug": "mercedes-cla-ev",
       "hp": 268,
-      "engineType": "electric",
+      "engineType": "ev",
       "bodyType": "coupe",
       "segment": "compact_luxury",
       "zone": "sport"
@@ -33538,7 +33566,7 @@
       "segment": "crossover",
       "zone": "suv_compact",
       "hp": 365,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "aito-m7",
@@ -33552,7 +33580,7 @@
       "segment": "midsize_suv",
       "zone": "suv_mid",
       "hp": 330,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "aito-m7-2023",
@@ -33567,7 +33595,7 @@
       "segment": "midsize_suv",
       "zone": "suv_mid",
       "hp": 380,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "aito-m9",
@@ -33581,7 +33609,7 @@
       "segment": "fullsize_suv",
       "zone": "suv_large",
       "hp": 526,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "denza-d9",
@@ -33593,9 +33621,9 @@
       "modelSlug": "denza-d9",
       "bodyType": "mpv",
       "segment": "mpv",
-      "zone": "china_ev",
+      "zone": "luxury",
       "hp": 435,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "denza-n7",
@@ -33607,9 +33635,9 @@
       "modelSlug": "denza-n7",
       "bodyType": "suv",
       "segment": "crossover",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 475,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "denza-n8",
@@ -33621,9 +33649,9 @@
       "modelSlug": "denza-n8",
       "bodyType": "suv",
       "segment": "midsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_large",
       "hp": 536,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "denza-z9gt",
@@ -33635,9 +33663,9 @@
       "modelSlug": "denza-z9gt",
       "bodyType": "fastback",
       "segment": "sports_gt",
-      "zone": "china_ev",
+      "zone": "gt_coupe",
       "hp": 952,
-      "engineType": "PHEV"
+      "engineType": "phev"
     },
     {
       "id": "li-auto-l8",
@@ -33649,9 +33677,9 @@
       "modelSlug": "li-auto-l8",
       "bodyType": "suv",
       "segment": "midsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_large",
       "hp": 449,
-      "engineType": "EREV"
+      "engineType": "erev"
     },
     {
       "id": "li-auto-l6",
@@ -33663,9 +33691,9 @@
       "modelSlug": "li-auto-l6",
       "bodyType": "suv",
       "segment": "compact_suv",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 400,
-      "engineType": "EREV"
+      "engineType": "erev"
     },
     {
       "id": "hiphi-x",
@@ -33677,9 +33705,9 @@
       "modelSlug": "hiphi-x",
       "bodyType": "suv",
       "segment": "fullsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_large",
       "hp": 551,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "hiphi-z",
@@ -33691,9 +33719,9 @@
       "modelSlug": "hiphi-z",
       "bodyType": "coupe",
       "segment": "gt",
-      "zone": "china_ev",
+      "zone": "gt_coupe",
       "hp": 597,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "hiphi-y",
@@ -33705,9 +33733,9 @@
       "modelSlug": "hiphi-y",
       "bodyType": "suv",
       "segment": "midsize_suv",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 476,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "avatr-11",
@@ -33719,9 +33747,9 @@
       "modelSlug": "avatr-11",
       "bodyType": "suv",
       "segment": "crossover",
-      "zone": "china_ev",
+      "zone": "suv_mid",
       "hp": 425,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "avatr-12",
@@ -33733,9 +33761,9 @@
       "modelSlug": "avatr-12",
       "bodyType": "sedan",
       "segment": "executive",
-      "zone": "china_ev",
+      "zone": "flagship_sed",
       "hp": 578,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "avatr-07",
@@ -33747,9 +33775,9 @@
       "modelSlug": "avatr-07",
       "bodyType": "sedan",
       "segment": "midsize",
-      "zone": "china_ev",
+      "zone": "exec_sed",
       "hp": 476,
-      "engineType": "BEV"
+      "engineType": "ev"
     },
     {
       "id": "nio-el8",
@@ -33976,7 +34004,8 @@
       "a777TopSpeed": 239,
       "a777Accel": 7.2,
       "a777Torque": 529,
-      "a777Weight": 1807
+      "a777Weight": 1807,
+      "note": "Проверено 2026-10: текущее поколение (WD) НЕ прекращено без преемника — выпуск продлён минимум до MY2028. Поколение 4 (кодовое D6U, заявлено контрактом UAW 2023г.) перенесено на 2029+, публичных данных по дизайну/силовым установкам пока нет — не добавляю как узел (та же логика, что для Copperhead: не фабриковать неподтверждённое). Источники: moparinsiders.com, topspeed.com, hellcat.org forum (производственные анонсы Stellantis), доступ 2026-10-21."
     },
     {
       "id": "dodge-neon-gen1",
@@ -34667,7 +34696,7 @@
     },
     {
       "id": "ram-1500-roush",
-      "label": "Ram Roush",
+      "label": "Ram 1500 Direct Connection by Roush (2027)",
       "type": "generation",
       "year": 2027,
       "brandId": "ram",
@@ -34675,9 +34704,10 @@
       "modelSlug": "ram-1500-roush",
       "bodyType": "pickup",
       "segment": "full_size_truck",
-      "zone": "performance",
-      "hp": 540,
-      "engineType": "petrol_v8_supercharged"
+      "zone": "pickup",
+      "hp": 395,
+      "engineType": "v8",
+      "note": "Официальное имя — \"Ram 1500 Direct Connection by Roush\". Атмосферный 5.7L Hemi V8, 395лс/410 lb-ft, мост 3.92, электронная блокировка заднего диффа — БЕЗ наддува (пакет Roush это подвеска/внедорожный апгрейд: 2.0\" coil-over, 33\" шины, не форсировка мотора). Позиционируется как \"младший TRX\". Старт продаж $78960."
     },
     {
       "id": "ncs-toyota-2027-toyota-crown",
@@ -34691,7 +34721,7 @@
       "bodyType": "crossover",
       "segment": "other",
       "zone": "midsize_sed",
-      "engineType": "hybrid",
+      "engineType": "i4h",
       "heroImageUrl": "",
       "thumbnailUrl": "",
       "description": "The Limited trim gets the new system, while the Platinum's turbocharged hybrid is all about performance",
@@ -34725,14 +34755,15 @@
       "fullName": "Ariel Atom (Gen 1)",
       "year": 2000,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4",
       "hp": 160,
       "category": "supercar",
       "type": "production",
       "description": "Original Ariel Atom. Tubular spaceframe, no bodywork. Honda VTEC 1.8L, 160–215 HP. 0-60 in 3.5s. Donor for Rezvani Beast.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster"
     },
     {
       "id": "lotus-elise",
@@ -34741,14 +34772,15 @@
       "fullName": "Lotus Elise",
       "year": 1996,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4",
       "hp": 192,
       "category": "sports",
       "type": "production",
       "description": "British lightweight aluminium sports car. Donor platform for Rezvani Beast Alpha family.",
       "brandId": "lotus",
       "brandName": "Lotus",
-      "zone": "sports"
+      "zone": "sports",
+      "bodyType": "roadster"
     },
     {
       "id": "rezvani-beast-gen1",
@@ -34757,14 +34789,15 @@
       "fullName": "Rezvani Beast",
       "year": 2015,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "i4s",
       "hp": 500,
       "category": "supercar",
       "type": "production",
       "description": "First Rezvani model. Open-wheel supercar on Ariel Atom chassis with custom carbon body. 500 HP supercharged K24 Honda engine.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster"
     },
     {
       "id": "rezvani-beast-x",
@@ -34773,14 +34806,15 @@
       "fullName": "Rezvani Beast X",
       "year": 2016,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "hp": 700,
       "category": "supercar",
       "type": "production",
       "description": "700 HP twin-turbo Cosworth 2.5L on Ariel Atom chassis. Limited 5 units. $325K.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster"
     },
     {
       "id": "rezvani-beast-alpha",
@@ -34789,14 +34823,15 @@
       "fullName": "Rezvani Beast Alpha",
       "year": 2016,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "i4s",
       "hp": 500,
       "category": "supercar",
       "type": "production",
       "description": "Hardtop coupe on Lotus Elise chassis. Sidewinder dihedral doors. $95K.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "coupe"
     },
     {
       "id": "rezvani-beast-alpha-x",
@@ -34805,14 +34840,15 @@
       "fullName": "Rezvani Beast Alpha X Blackbird",
       "year": 2018,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "hp": 700,
       "category": "supercar",
       "type": "production",
       "description": "700 HP twin-turbo Cosworth on Lotus Elise chassis. Carbon body. $325K. 0-60 in 2.9s.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "coupe"
     },
     {
       "id": "rezvani-beast-gen2",
@@ -34821,14 +34857,15 @@
       "fullName": "Rezvani Beast 2024",
       "year": 2024,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8t",
       "hp": 1000,
       "category": "supercar",
       "type": "production",
       "description": "1000 HP twin-turbo 6.2L V8 on Chevrolet Corvette C8 platform. Dragon Wings doors. 20 units worldwide. $485K.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "coupe"
     },
     {
       "id": "rezvani-tank-gen1",
@@ -34837,14 +34874,15 @@
       "fullName": "Rezvani Tank",
       "year": 2017,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8s",
       "hp": 707,
       "category": "suv",
       "type": "production",
       "description": "First Rezvani tactical SUV on Jeep Wrangler JK. 707 HP Hellcat V8 option. Military-grade protection packages.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "suv"
     },
     {
       "id": "rezvani-tank-military",
@@ -34853,14 +34891,15 @@
       "fullName": "Rezvani Tank Military Edition",
       "year": 2018,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8s",
       "hp": 707,
       "category": "suv",
       "type": "production",
       "description": "Tank with Level 7 ballistic armor, Kevlar fuel tank, bomb blast floor, night vision. $295K. Jeep Wrangler JK base.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "suv"
     },
     {
       "id": "rezvani-tank-x",
@@ -34869,14 +34908,15 @@
       "fullName": "Rezvani Tank X",
       "year": 2020,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8s",
       "hp": 1000,
       "category": "suv",
       "type": "production",
       "description": "1000+ HP Dodge Demon 6.2L V8. Jeep Wrangler JL platform. EMP protection, thermal night vision. $349K.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "suv"
     },
     {
       "id": "rezvani-tank-hybrid",
@@ -34885,14 +34925,15 @@
       "fullName": "Rezvani Tank Hybrid",
       "year": 2023,
       "country": "USA",
-      "engineType": "hybrid",
+      "engineType": "phev",
       "hp": 375,
       "category": "suv",
       "type": "production",
       "description": "PHEV Tank on Jeep Wrangler 4xe platform. 375 HP combined, 30-mile EV range. First Rezvani hybrid.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "suv"
     },
     {
       "id": "rezvani-tank-2026",
@@ -34901,14 +34942,15 @@
       "fullName": "Rezvani Tank 2026",
       "year": 2026,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8s",
       "hp": 1000,
       "category": "suv",
       "type": "production",
       "description": "Refreshed Tank. Up to 1000 HP. Jeep Wrangler current gen. Starts at $185K.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "suv"
     },
     {
       "id": "rezvani-hercules",
@@ -34917,14 +34959,15 @@
       "fullName": "Rezvani Hercules 6x6",
       "year": 2021,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8s",
       "hp": 1300,
       "category": "truck",
       "type": "production",
       "description": "6x6 tactical pickup on Jeep Gladiator JT frame. 7.0L supercharged V8 top option (1300 HP). $225K+ base. 6WD capable.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "pickup"
+      "zone": "pickup",
+      "bodyType": "pickup"
     },
     {
       "id": "rezvani-hercules-military",
@@ -34933,14 +34976,15 @@
       "fullName": "Rezvani Hercules 6x6 Military",
       "year": 2021,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8s",
       "hp": 1300,
       "category": "truck",
       "type": "production",
       "description": "Hercules with full military armor package. Level 7 ballistics, EMP, smoke screen. 1300 HP. Most powerful production 6x6.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "pickup"
+      "zone": "pickup",
+      "bodyType": "pickup"
     },
     {
       "id": "rezvani-vengeance",
@@ -34949,14 +34993,15 @@
       "fullName": "Rezvani Vengeance",
       "year": 2023,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8s",
       "hp": 682,
       "category": "suv",
       "type": "production",
       "description": "Full-size luxury tactical SUV on Cadillac Escalade GM T1 platform. 682 HP supercharged V8. 8 passengers. $249K.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "suv"
     },
     {
       "id": "rezvani-knight",
@@ -34965,14 +35010,15 @@
       "fullName": "Rezvani Knight",
       "year": 2025,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8t",
       "hp": 1000,
       "category": "suv",
       "type": "production",
       "description": "Armored super-SUV on customer Lamborghini Urus. 1000 HP twin-turbo V8. Military EMP/smoke options. 100 units.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "suv"
     },
     {
       "id": "rezvani-dune",
@@ -34981,14 +35027,15 @@
       "fullName": "Rezvani Dune",
       "year": 2026,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v10s",
       "hp": 800,
       "category": "supercar",
       "type": "production",
-      "description": "7-unit off-road supercar on Lamborghini Huracan Sterrato. 5.2L NA V10, 4.5\" lift. Sand/mud/rock/Baja/snow modes. Mid-engine.",
+      "description": "7-unit off-road supercar on Lamborghini Huracan Sterrato. Supercharged 5.2L V10 (VF Engineering, ~190hp over stock N/A Sterrato), 4.5\" lift. Sand/mud/rock/Baja/snow modes. Mid-engine.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "coupe"
     },
     {
       "id": "rezvani-fortress",
@@ -34997,14 +35044,15 @@
       "fullName": "Rezvani Fortress",
       "year": 2027,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "v8s",
       "hp": 850,
       "category": "truck",
       "type": "production",
       "description": "Tactical pickup on Ford F-150 Raptor R. 850 HP supercharged 5.2L V8. 40-inch tires, 15\" clearance. 100 units. $285K+.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "pickup"
+      "zone": "pickup",
+      "bodyType": "pickup"
     },
     {
       "id": "rezvani-retro-rr1",
@@ -35013,14 +35061,15 @@
       "fullName": "Rezvani Retro RR1",
       "year": 2024,
       "country": "USA",
-      "engineType": "gasoline",
+      "engineType": "flat6t",
       "hp": 750,
       "category": "supercar",
       "type": "production",
       "description": "Rezvani Retro sub-brand. Porsche 935-inspired body on Porsche 911 (992). 750 HP Turbo S flat-6. 50 units. 0-60 in 2.0s.",
       "brandId": "rezvani",
       "brandName": "Rezvani",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "coupe"
     },
     {
       "id": "ariel-atom-2",
@@ -35029,14 +35078,15 @@
       "fullName": "Ariel Atom 2",
       "year": 2003,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4s",
       "hp": 245,
       "category": "supercar",
       "type": "production",
       "description": "Revised suspension and bodywork. Supercharged Honda 1.8L VTEC option: 245 HP. Still 0-60 under 3.0s. Lighter than original.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster"
     },
     {
       "id": "ariel-atom-3",
@@ -35045,14 +35095,15 @@
       "fullName": "Ariel Atom 3",
       "year": 2007,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4s",
       "hp": 265,
       "category": "supercar",
       "type": "production",
       "description": "Third gen. Honda K20 2.0L with optional supercharger: 265 HP. Improved aero, double-wishbone suspension. 550 kg.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster"
     },
     {
       "id": "ariel-atom-3s",
@@ -35061,14 +35112,15 @@
       "fullName": "Ariel Atom 3.5",
       "year": 2012,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4s",
       "hp": 350,
       "category": "supercar",
       "type": "production",
       "description": "Supercharged Honda 2.0L, 350 HP in R spec. 6-speed sequential option. Larger diffuser and sidepods.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster"
     },
     {
       "id": "ariel-atom-4",
@@ -35077,14 +35129,15 @@
       "fullName": "Ariel Atom 4",
       "year": 2019,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "hp": 320,
       "category": "supercar",
       "type": "production",
       "description": "Complete redesign. Honda 2.0L VTEC Turbo (Civic Type R engine), 320 HP. New chromoly spaceframe. 0-60 in 2.8s. $88K+",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster"
     },
     {
       "id": "ariel-atom-4r",
@@ -35093,14 +35146,15 @@
       "fullName": "Ariel Atom 4R",
       "year": 2022,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "hp": 500,
       "category": "supercar",
       "type": "production",
       "description": "Track-focused Atom 4. Turbocharged 2.0L, 500 HP. Active aerodynamics, motorsport ABS/TC. 0-60 in 2.4s. 50 units/year.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster"
     },
     {
       "id": "ariel-nomad",
@@ -35109,14 +35163,15 @@
       "fullName": "Ariel Nomad",
       "year": 2015,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4",
       "hp": 235,
       "category": "offroad",
       "type": "production",
       "description": "Off-road open-wheel buggy derived from Atom. Honda 2.4L iVTEC, 235 HP. Long-travel suspension, 17\" ground clearance.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "roadster"
     },
     {
       "id": "ariel-nomad-r",
@@ -35125,14 +35180,15 @@
       "fullName": "Ariel Nomad R",
       "year": 2020,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4s",
       "hp": 340,
       "category": "offroad",
       "type": "production",
       "description": "Supercharged Nomad. Honda 2.0L + supercharger, 340 HP. Larger dampers, race spec shocks. 0-60 in 3.4s off-road ready.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "roadster"
     },
     {
       "id": "ariel-nomad-2",
@@ -35141,14 +35197,15 @@
       "fullName": "Ariel Nomad 2",
       "year": 2021,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "hp": 310,
       "category": "offroad",
       "type": "production",
       "description": "Updated Nomad platform. New Honda 2.0L Turbo (Atom 4 engine), 310 HP. Revised suspension kinematics, carbon fibre dash.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "roadster"
     },
     {
       "id": "ariel-hipercar",
@@ -35157,14 +35214,15 @@
       "fullName": "Ariel Hipercar",
       "year": 2023,
       "country": "UK",
-      "engineType": "electric",
+      "engineType": "erev",
       "hp": 1180,
       "category": "hypercar",
       "type": "production",
       "description": "1180 HP all-electric hypercar. 4 motors (one per wheel). 0-60 in 2.4s. Lightweight carbon chassis. Ultra-compact 62 kWh battery. 100 units planned.",
       "brandId": "ariel",
       "brandName": "Ariel",
-      "zone": "hypercar"
+      "zone": "hypercar",
+      "bodyType": "coupe"
     },
     {
       "id": "lotus-seven",
@@ -35173,14 +35231,15 @@
       "fullName": "Lotus Seven",
       "year": 1957,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4",
       "hp": 75,
       "category": "sports",
       "type": "production",
       "description": "Colin Chapman's minimalist open-wheel sports car. Tube spaceframe, no roof. 75–100 HP. Blueprint for all British ultralight track cars. Rights sold to Caterham 1973.",
       "brandId": "lotus",
       "brandName": "Lotus",
-      "zone": "sports"
+      "zone": "sports",
+      "bodyType": "roadster"
     },
     {
       "id": "ktm-x-bow",
@@ -35189,14 +35248,16 @@
       "fullName": "KTM X-Bow",
       "year": 2008,
       "country": "Austria",
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "hp": 240,
       "category": "supercar",
       "type": "production",
       "description": "Austrian open-wheel road car by motorcycle maker KTM. Audi 2.0L TFSI 240 HP. Carbon tub monocoque. Inspired by Ariel Atom concept. 0-60 in 3.9s.",
       "brandId": "ktm",
       "brandName": "KTM",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster",
+      "note": "Audi 2.0 TFSI турбо-4 (общий донор с TT/A4), открытая 2-местная карбоновая капсула без крыши/дверей."
     },
     {
       "id": "ktm-x-bow-gt2",
@@ -35205,14 +35266,16 @@
       "fullName": "KTM X-Bow GT2",
       "year": 2023,
       "country": "Austria",
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "hp": 450,
       "category": "supercar",
       "type": "production",
       "description": "Race-spec X-Bow. Enclosed carbon body, FIA GT2 class. 450 HP Audi 2.5 TFSI 5-cylinder. Sequential gearbox. $380K.",
       "brandId": "ktm",
       "brandName": "KTM",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "coupe",
+      "note": "GT2 — закрытая гоночная версия (появилась крыша/кокпит под FIA GT2), более поздний Audi 2.5 TFSI."
     },
     {
       "id": "bac-mono",
@@ -35221,14 +35284,16 @@
       "fullName": "BAC Mono",
       "year": 2011,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4",
       "hp": 285,
       "category": "supercar",
       "type": "production",
       "description": "British single-seater road-legal track car. Ford-based 2.3L 285 HP. Carbon monocoque. 570 kg. Inspired by Atom's open-wheel concept but with enclosed cockpit.",
       "brandId": "bac",
       "brandName": "BAC",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster",
+      "note": "Атмосферный Ford Duratec 2.3 в тюнинге Cosworth, 13.1:1 степень сжатия, 7700 об/мин. Одноместный монокок из карбона/стали, 614 кг."
     },
     {
       "id": "bac-mono-r",
@@ -35237,14 +35302,16 @@
       "fullName": "BAC Mono R",
       "year": 2019,
       "country": "UK",
-      "engineType": "gasoline",
+      "engineType": "i4",
       "hp": 340,
       "category": "supercar",
       "type": "production",
       "description": "340 HP Ford-based 2.3L EcoBoost. Full carbon-fibre body panels (graphene-enhanced). 555 kg. 0-60 in 2.7s. Road legal.",
       "brandId": "bac",
       "brandName": "BAC",
-      "zone": "supercar"
+      "zone": "supercar",
+      "bodyType": "roadster",
+      "note": "Тот же атмосферный блок Duratec/Cosworth, более агрессивная настройка и облегчение кузова."
     },
     {
       "id": "ncs-honda-2026-honda-jazz-e-hev",
@@ -35272,11 +35339,12 @@
       "label": "Traction Avant",
       "year": 1934,
       "hp": 56,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "sedan",
       "type": "production",
       "description": "World's first mass-produced FWD car. 11CV 1.9L. Hydropneumatic brakes. Revolutionized automotive design. 760K units built.",
-      "zone": "exec_sed"
+      "zone": "exec_sed",
+      "bodyType": "sedan"
     },
     {
       "id": "citroen-ami",
@@ -35285,11 +35353,12 @@
       "label": "Ami 6",
       "year": 1961,
       "hp": 22,
-      "engineType": "gasoline",
+      "engineType": "flat2",
       "category": "hatch",
       "type": "production",
       "description": "Economy 2CV-based car with reverse-raked rear window. 0.6L air-cooled twin. 1.08M units.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "sedan"
     },
     {
       "id": "citroen-dyane",
@@ -35298,11 +35367,12 @@
       "label": "Dyane",
       "year": 1967,
       "hp": 28,
-      "engineType": "gasoline",
+      "engineType": "flat2",
       "category": "hatch",
       "type": "production",
-      "description": "Practical 2CV successor. 5-door hatch, flat-4 air-cooled. 1.44M units 1967–1983.",
-      "zone": "hatchback"
+      "description": "Practical 2CV successor. 5-door hatch, flat-2 air-cooled. 1.44M units 1967–1983.",
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-mehari",
@@ -35311,11 +35381,12 @@
       "label": "Mehari",
       "year": 1968,
       "hp": 28,
-      "engineType": "gasoline",
+      "engineType": "flat2",
       "category": "offroad",
       "type": "production",
       "description": "Open-top ABS plastic-bodied 4x4 on 2CV chassis. 4-door, 144K units. Beloved beach/military utility.",
-      "zone": "offroad"
+      "zone": "offroad",
+      "bodyType": "convertible"
     },
     {
       "id": "citroen-sm",
@@ -35324,11 +35395,12 @@
       "label": "SM",
       "year": 1970,
       "hp": 170,
-      "engineType": "gasoline",
+      "engineType": "v6",
       "category": "gt",
       "type": "production",
       "description": "GT grand tourer with Maserati V6 2.7L. Hydropneumatic suspension, self-centering steering. 13K units.",
-      "zone": "gt_coupe"
+      "zone": "gt_coupe",
+      "bodyType": "coupe"
     },
     {
       "id": "citroen-visa",
@@ -35337,11 +35409,12 @@
       "label": "Visa",
       "year": 1978,
       "hp": 65,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Front-wheel-drive supermini. 1.0–1.4L engines including diesel. Replaced LNA. 1.35M units.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-zx",
@@ -35350,11 +35423,12 @@
       "label": "ZX",
       "year": 1991,
       "hp": 103,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Compact hatch/estate. 1.1–2.0L, diesel option. Won 1991 Paris-Dakar. Replaced BX in compact segment.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-xsara",
@@ -35363,11 +35437,12 @@
       "label": "Xsara",
       "year": 1997,
       "hp": 110,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Successor to ZX. 1.4–2.0L petrol + diesel. WRC rally success 2003. Also Picasso MPV variant.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-berlingo",
@@ -35376,11 +35451,12 @@
       "label": "Berlingo",
       "year": 1996,
       "hp": 75,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "van",
       "type": "production",
       "description": "Multi-purpose compact van/passenger car. 1.1–2.0L. Three generations 1996–present. Light commercial icon.",
-      "zone": "workhorse"
+      "zone": "workhorse",
+      "bodyType": "van"
     },
     {
       "id": "citroen-c1",
@@ -35389,11 +35465,12 @@
       "label": "C1",
       "year": 2005,
       "hp": 68,
-      "engineType": "gasoline",
+      "engineType": "i3",
       "category": "city",
       "type": "production",
       "description": "City car on Toyota Aygo/Peugeot 107 platform. 1.0L petrol/diesel. Two generations 2005–2022.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-c2",
@@ -35402,11 +35479,12 @@
       "label": "C2",
       "year": 2003,
       "hp": 109,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "3-door supermini replacing Saxo. 1.1–1.6L + VTS hot version 125 HP. 2003–2009.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-c6",
@@ -35415,11 +35493,12 @@
       "label": "C6",
       "year": 2005,
       "hp": 240,
-      "engineType": "gasoline",
+      "engineType": "v6t",
       "category": "sedan",
       "type": "production",
       "description": "Flagship executive saloon reviving DS spirit. Hydropneumatic suspension. V6 2.7 HDi BiTurbo 240 HP. 23K units.",
-      "zone": "flagship_sed"
+      "zone": "flagship_sed",
+      "bodyType": "sedan"
     },
     {
       "id": "citroen-c4-picasso",
@@ -35428,11 +35507,12 @@
       "label": "C4 Picasso",
       "year": 2006,
       "hp": 140,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "mpv",
       "type": "production",
       "description": "Compact MPV. Panoramic windscreen, 7-seat option. 1.6–2.0L THP/HDi. Became SpaceTourer later.",
-      "zone": "estate"
+      "zone": "estate",
+      "bodyType": "mpv"
     },
     {
       "id": "citroen-c3-2",
@@ -35441,11 +35521,12 @@
       "label": "C3 Gen.2",
       "year": 2009,
       "hp": 120,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Second gen C3. More dynamic design, 1.4–1.6L petrol/diesel. DS3 sub-brand sibling.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-c3-3",
@@ -35454,11 +35535,12 @@
       "label": "C3 Gen.3",
       "year": 2016,
       "hp": 110,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "hatch",
       "type": "production",
       "description": "Third gen. Airbump body protection, Inspir3d personalization. 1.2 PureTech. Becomes global car.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-c4-2",
@@ -35467,11 +35549,12 @@
       "label": "C4 Gen.2",
       "year": 2010,
       "hp": 155,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "hatch",
       "type": "production",
       "description": "Second gen C4. 3/5-door, Cactus DNA begins. 1.2–2.0L. Hidden C-pillar design.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-c4-cactus",
@@ -35480,11 +35563,12 @@
       "label": "C4 Cactus",
       "year": 2014,
       "hp": 110,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "crossover",
       "type": "production",
       "description": "Crossover with iconic Airbump panels. 1.2 PureTech 110. Award-winning minimalist interior.",
-      "zone": "suv_compact"
+      "zone": "suv_compact",
+      "bodyType": "crossover"
     },
     {
       "id": "citroen-c3-aircross",
@@ -35493,11 +35577,12 @@
       "label": "C3 Aircross",
       "year": 2017,
       "hp": 130,
-      "engineType": "gasoline",
+      "engineType": "i3t",
       "category": "suv",
       "type": "production",
       "description": "B-segment crossover. 1.2 PureTech 110/130. Modular cabin, 17 personalization combos.",
-      "zone": "suv_compact"
+      "zone": "suv_compact",
+      "bodyType": "suv"
     },
     {
       "id": "citroen-c5-aircross",
@@ -35506,11 +35591,12 @@
       "label": "C5 Aircross",
       "year": 2017,
       "hp": 225,
-      "engineType": "hybrid",
+      "engineType": "phev",
       "category": "suv",
       "type": "production",
       "description": "D-segment SUV flagship. Progressive Hydraulic Cushions. PHEV 225 HP. Sold in 60+ countries.",
-      "zone": "suv_mid"
+      "zone": "suv_mid",
+      "bodyType": "suv"
     },
     {
       "id": "citroen-c4-3",
@@ -35518,12 +35604,13 @@
       "brandName": "Citroën",
       "label": "C4 Gen.3",
       "year": 2020,
-      "hp": 155,
-      "engineType": "electric",
+      "hp": 136,
+      "engineType": "ev",
       "category": "hatch",
       "type": "production",
       "description": "ë-C4: first Citroën pure EV on CMP platform. 134 HP electric, 350 km range. Also 1.2 PureTech ICE.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-c5-x",
@@ -35532,24 +35619,27 @@
       "label": "C5 X",
       "year": 2021,
       "hp": 225,
-      "engineType": "hybrid",
+      "engineType": "phev",
       "category": "sedan",
       "type": "production",
       "description": "Fastback crossover. Avant-garde fastback-SUV body. PHEV 225 HP, EV-only 50 km. Replaces C6.",
-      "zone": "exec_sed"
+      "zone": "exec_sed",
+      "bodyType": "fastback"
     },
     {
       "id": "citroen-e-c3",
       "brandId": "citroen",
       "brandName": "Citroën",
-      "label": "ë-C3",
+      "label": "C3 Gen.4",
       "year": 2024,
       "hp": 113,
-      "engineType": "electric",
+      "engineType": "ev",
       "category": "hatch",
       "type": "production",
       "description": "Entry-level EV for emerging markets. Smart Car platform, 44 kWh, 320 km range. Starts at €23,300.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback",
+      "note": "Ребро от C3 Gen.3 было variant_of (как будто просто EV-трим) — ОШИБКА: подтверждено (citroenvie.com \"Citroën Introduces 4th Generation C3\", пресс-релизы Stellantis), это самостоятельное 4-е поколение C3 на новой платформе Smart Car Platform (не CMP, на которой построено Gen.3) — глобальная модель (Европа/Индия/Лат.Америка, там же база для Basalt/нового C3 Aircross). Переименован \"ë-C3\"→\"C3 Gen.4\" для единообразия с Gen.2/Gen.3; серийное имя ë-C3 сохранено в note. Ребро перетипизировано evolves_into."
     },
     {
       "id": "citroen-ds3",
@@ -35558,11 +35648,12 @@
       "label": "DS3",
       "year": 2009,
       "hp": 207,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "hatch",
       "type": "production",
       "description": "Premium sub-brand hot hatch. 1.6 THP 207 HP (Racing). Launched DS premium sub-brand. Became DS 3.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-ds4",
@@ -35571,11 +35662,12 @@
       "label": "DS4",
       "year": 2011,
       "hp": 200,
-      "engineType": "gasoline",
+      "engineType": "i4t",
       "category": "hatch",
       "type": "production",
       "description": "Cross-hatch on C4 platform. 2.0 THP 200 HP top. Distinctive side-window style. DS sub-brand.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "citroen-ds5",
@@ -35588,7 +35680,8 @@
       "category": "hatch",
       "type": "production",
       "description": "Premium hatch flagship of DS sub-brand. Hybrid4 200+30 HP AWD. Launched DS into China with success.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "mini-classic-mk2",
@@ -35793,11 +35886,12 @@
       "label": "Saturn SL (1990)",
       "year": 1990,
       "hp": 85,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "sedan",
       "type": "production",
       "description": "Saturn's inaugural model. FWD polymer body panels. 1.9L SOHC/DOHC. S-series platform. Defined Saturn identity.",
-      "zone": "midsize_sed"
+      "zone": "midsize_sed",
+      "bodyType": "sedan"
     },
     {
       "id": "saturn-sc",
@@ -35806,11 +35900,12 @@
       "label": "Saturn SC (1990)",
       "year": 1990,
       "hp": 85,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "coupe",
       "type": "production",
       "description": "2-door coupe variant of S-series. 1.9L, sporty compact. 3rd door (driver side) on SC2 version.",
-      "zone": "gt_coupe"
+      "zone": "gt_coupe",
+      "bodyType": "coupe"
     },
     {
       "id": "saturn-sw",
@@ -35819,11 +35914,12 @@
       "label": "Saturn SW (1993)",
       "year": 1993,
       "hp": 85,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "wagon",
       "type": "production",
       "description": "Station wagon S-series. Practical addition to Saturn lineup. Same 1.9L engine, SOHC/DOHC.",
-      "zone": "estate"
+      "zone": "estate",
+      "bodyType": "wagon"
     },
     {
       "id": "saturn-ls",
@@ -35832,11 +35928,12 @@
       "label": "Saturn L-Series (1999)",
       "year": 1999,
       "hp": 140,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "sedan",
       "type": "production",
       "description": "Larger GM Epsilon platform sedan/wagon. 2.2L Ecotec I4 or 3.0L V6. Competed with Camry/Accord.",
-      "zone": "midsize_sed"
+      "zone": "midsize_sed",
+      "bodyType": "sedan"
     },
     {
       "id": "saturn-vue",
@@ -35845,11 +35942,12 @@
       "label": "Saturn Vue Gen.1 (2001)",
       "year": 2001,
       "hp": 181,
-      "engineType": "gasoline",
+      "engineType": "v6",
       "category": "suv",
       "type": "production",
       "description": "Saturn's first SUV. Unique steel space-frame + polymer panels. AWD available. 2.2L/3.5L V6.",
-      "zone": "suv_compact"
+      "zone": "suv_compact",
+      "bodyType": "suv"
     },
     {
       "id": "saturn-ion",
@@ -35858,11 +35956,12 @@
       "label": "Saturn Ion (2002)",
       "year": 2002,
       "hp": 140,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "sedan",
       "type": "production",
       "description": "Delta platform compact. Replaced SL/SC. Unique center instrument cluster. 2.2L Ecotec.",
-      "zone": "midsize_sed"
+      "zone": "midsize_sed",
+      "bodyType": "sedan"
     },
     {
       "id": "saturn-relay",
@@ -35871,11 +35970,12 @@
       "label": "Saturn Relay (2004)",
       "year": 2004,
       "hp": 200,
-      "engineType": "gasoline",
+      "engineType": "v6",
       "category": "van",
       "type": "production",
       "description": "GMT201 platform minivan. Shared with Chevrolet Uplander/Buick Terraza. 3.5L V6. 2004–2007.",
-      "zone": "workhorse"
+      "zone": "workhorse",
+      "bodyType": "van"
     },
     {
       "id": "saturn-aura",
@@ -35884,11 +35984,12 @@
       "label": "Saturn Aura (2006)",
       "year": 2006,
       "hp": 224,
-      "engineType": "gasoline",
+      "engineType": "v6",
       "category": "sedan",
       "type": "production",
       "description": "Epsilon II platform midsize. Replaced LS. 3.6L V6 224 HP. Motor Trend Car of the Year 2007.",
-      "zone": "midsize_sed"
+      "zone": "midsize_sed",
+      "bodyType": "sedan"
     },
     {
       "id": "saturn-outlook",
@@ -35897,11 +35998,12 @@
       "label": "Saturn Outlook (2006)",
       "year": 2006,
       "hp": 281,
-      "engineType": "gasoline",
+      "engineType": "v6",
       "category": "suv",
       "type": "production",
       "description": "Lambda platform 3-row crossover. 3.6L V6 281 HP. Shared with GMC Acadia/Chevy Traverse. 8-seat.",
-      "zone": "suv_large"
+      "zone": "suv_large",
+      "bodyType": "suv"
     },
     {
       "id": "saturn-vue-2",
@@ -35909,12 +36011,13 @@
       "brandName": "Saturn",
       "label": "Saturn Vue Gen.2 (2007)",
       "year": 2007,
-      "hp": 222,
-      "engineType": "hybrid",
+      "hp": 172,
+      "engineType": "i4h",
       "category": "suv",
       "type": "production",
       "description": "Theta platform 2nd gen Vue. Green Line hybrid 4-cyl. 2-mode hybrid available. Shared with Chevrolet Equinox.",
-      "zone": "suv_compact"
+      "zone": "suv_compact",
+      "bodyType": "suv"
     },
     {
       "id": "saturn-astra",
@@ -35923,11 +36026,12 @@
       "label": "Saturn Astra (2007)",
       "year": 2007,
       "hp": 138,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Opel Astra H rebadged for USA. Only Saturn hatchback. 1.8L DOHC. Brief life 2007–2009, praised for handling.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "scion-xa",
@@ -35936,11 +36040,12 @@
       "label": "Scion xA (2003)",
       "year": 2003,
       "hp": 103,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Subcompact hatch. Toyota Ist platform. 1.5L VVT-i 103 HP. US youth-brand launch model alongside xB.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "scion-xb-1",
@@ -35949,11 +36054,12 @@
       "label": "Scion xB Gen.1 (2003)",
       "year": 2003,
       "hp": 103,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Iconic boxy microvan on Toyota Ist/bB platform. 1.5L 103 HP. Cult status. 0 options — full price only.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "scion-tc-1",
@@ -35962,11 +36068,12 @@
       "label": "Scion tC Gen.1 (2004)",
       "year": 2004,
       "hp": 160,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "coupe",
       "type": "production",
       "description": "Sports coupe on Avensis Verso platform. 2.4L 160 HP. Panoramic glass roof. Scion's best-seller.",
-      "zone": "gt_coupe"
+      "zone": "gt_coupe",
+      "bodyType": "coupe"
     },
     {
       "id": "scion-xd",
@@ -35975,11 +36082,12 @@
       "label": "Scion xD (2007)",
       "year": 2007,
       "hp": 128,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Sporty subcompact replacing xA. Toyota ist-based. 1.8L 128 HP. Sportier drive, more interior space.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "scion-xb-2",
@@ -35988,11 +36096,12 @@
       "label": "Scion xB Gen.2 (2007)",
       "year": 2007,
       "hp": 158,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Larger 2nd gen xB on Toyota Zelas/Corolla platform. 2.4L 158 HP. Divisive among xB fans for size increase.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "scion-tc-2",
@@ -36001,11 +36110,12 @@
       "label": "Scion tC Gen.2 (2010)",
       "year": 2010,
       "hp": 180,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "coupe",
       "type": "production",
       "description": "2.5L Camry-derived 180 HP. 6-speed manual. Panel-roof option. Sportier than Gen.1 with refined dynamics.",
-      "zone": "gt_coupe"
+      "zone": "gt_coupe",
+      "bodyType": "coupe"
     },
     {
       "id": "scion-iq",
@@ -36014,11 +36124,12 @@
       "label": "Scion iQ (2011)",
       "year": 2011,
       "hp": 94,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "city",
       "type": "production",
       "description": "Toyota iQ rebadge. Ultra-compact 3+1 seat city car. 1.3L 94 HP. Front Passenger Airbag eliminated for design.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "microcar"
     },
     {
       "id": "scion-ia",
@@ -36027,11 +36138,12 @@
       "label": "Scion iA (2015)",
       "year": 2015,
       "hp": 106,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "sedan",
       "type": "production",
       "description": "Mazda2-based subcompact sedan. 1.5L SkyActiv 106 HP. Final Scion. Became Toyota Yaris iA when brand folded 2016.",
-      "zone": "midsize_sed"
+      "zone": "midsize_sed",
+      "bodyType": "sedan"
     },
     {
       "id": "scion-im",
@@ -36040,11 +36152,12 @@
       "label": "Scion iM (2015)",
       "year": 2015,
       "hp": 137,
-      "engineType": "gasoline",
+      "engineType": "i4",
       "category": "hatch",
       "type": "production",
       "description": "Toyota Auris-based hatchback. 1.8L Valvematic 137 HP. Became Toyota Corolla iM. Last new Scion model.",
-      "zone": "hatchback"
+      "zone": "hatchback",
+      "bodyType": "hatchback"
     },
     {
       "id": "smart-fortwo-2",
@@ -36138,14 +36251,15 @@
       "fullName": "Dodge Copperhead",
       "year": 2029,
       "hp": null,
-      "engineType": "v8",
+      "engineType": null,
       "category": "sports",
       "type": "generation",
       "isFuture": true,
       "bodyType": "roadster",
       "segment": "supercar",
       "zone": "supercar",
-      "description": "Planned Dodge Copperhead – spiritual successor to the Viper, not yet officially revealed"
+      "description": "Planned Dodge Copperhead — спортивный флагман SRT, позиционируется прессой как духовный преемник Viper (сам Dodge это так не называет). Показан журналистам на Investor Day, серийные характеристики не раскрыты.",
+      "note": "hp и engineType намеренно оставлены null/неизвестны — реальный паблик-рекорд на 2026-10 содержит прямой конфликт источников: шеф SRT Тим Кунискис отверг гибридный V8 и подтвердил ДВС, но детали не раскрыл; Car and Driver склоняется к V8; MotorTrend пишет про «выбор из Hurricane I6 или V8»; The Drive прямо допускает, что V8 может не быть вообще, и спорит даже платформу (не точно STLA Large/не точно на базе Charger). Было engineType:\"v8\" без опоры в фактах — убрано. Источники: caranddriver.com, motortrend.com, thedrive.com, autoguide.com, moparinsiders.com (доступ 2026-10-21, перепроверено двумя независимыми запросами)."
     },
     {
       "id": "toyota-gr-mr2-2029",
@@ -36172,7 +36286,7 @@
       "fullName": "BMW M3 EV",
       "year": 2028,
       "hp": 700,
-      "engineType": "electric",
+      "engineType": "ev",
       "category": "sports",
       "type": "generation",
       "isFuture": true,
@@ -36198,7 +36312,7 @@
       "zone": "suv_large",
       "description": "Bentley Torcal – third SUV model below Bentayga, officially teased but not yet revealed",
       "modelSlug": "bentley-torcal",
-      "note": "Первый полностью электрический Bentley и второй SUV бренда (ниже Bentayga по позиционированию), официально представлен 23 сентября 2026 (тизер — 6 июля 2026). Название — от скальных образований Эль-Торкаль-де-Антекера в Испании. Платформа Premium Platform Electric (PPE), тесно связана с Porsche Cayenne Electric. Базовая версия: 821 PS/810 л.с., 1194 Нм, батарея 113 кВтч, запас хода WLTP ок. 604 км/375 миль, макс. 250 км/ч. Продажи стартуют в 2027, цены от ~$200 000. Топ-версия Torcal S — отдельный узел bentley-torcal-s. Источники: en.wikipedia.org/wiki/Bentley_Torcal, carscoops.com, forbes.com, electrek.co, thedrive.com."
+      "note": "Первый полностью электрический Bentley и второй SUV бренда (ниже Bentayga по позиционированию), официально представлен 23 сентября 2026 (тизер — 6 июля 2026). Название — от скальных образований Эль-Торкаль-де-Антекера в Испании. Платформа Premium Platform Electric (PPE), тесно связана с Porsche Cayenne Electric. Базовая версия: 821 PS/810 л.с., 1194 Нм, батарея 113 кВтч, запас хода WLTP ок. 604 км/375 миль, макс. 250 км/ч. Продажи стартуют в 2027, цены от ~$200 000. Топ-версия Torcal S — отдельный узел bentley-torcal-s. Источники: en.wikipedia.org/wiki/Bentley_Torcal, carscoops.com, forbes.com, electrek.co, thedrive.com. Доп. обзоры (из удалённых дублей скрейпера): autoweek.com, jalopnik.com (2 статьи), thedrive.com, netcarshow.com."
     },
     {
       "id": "merc-e60-amg-w124",
@@ -37382,8 +37496,8 @@
       "brandName": "Mercedes-Benz",
       "year": 2027,
       "hp": 408,
-      "engineType": "EV",
-      "bodyType": "Sedan",
+      "engineType": "ev",
+      "bodyType": "sedan",
       "segment": "premium_midsize",
       "codeName": "W206 EV",
       "zone": "exec_sed"
@@ -37395,13 +37509,14 @@
       "brandName": "Dodge",
       "year": 2026,
       "hp": 420,
-      "engineType": "I6 Hurricane TT",
+      "engineType": "i6t",
       "bodyType": "coupe",
       "segment": "muscle",
       "codeName": "Sixpack",
       "zone": "gt_coupe",
       "modelSlug": "dodge-charger",
-      "type": "generation"
+      "type": "generation",
+      "engineCC": 2993
     },
     {
       "id": "gmc-sierra-ev",
@@ -37503,7 +37618,7 @@
       "type": "generation",
       "year": 2025,
       "hp": 402,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "roadster",
       "segment": "sports",
       "isFacelift": false,
@@ -37524,7 +37639,7 @@
       "type": "generation",
       "year": 2025,
       "hp": 402,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "coupe",
       "segment": "sports",
       "isFacelift": false,
@@ -37564,7 +37679,7 @@
       "type": "generation",
       "year": 2028,
       "hp": null,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "coupe",
       "segment": "supercar",
       "isFacelift": false,
@@ -37583,7 +37698,7 @@
       "type": "generation",
       "year": 2027,
       "hp": null,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "coupe",
       "segment": "sport",
       "isFacelift": false,
@@ -37602,7 +37717,7 @@
       "type": "generation",
       "year": 2029,
       "hp": null,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "suv",
       "segment": "super-suv",
       "isFacelift": false,
@@ -37621,7 +37736,7 @@
       "type": "generation",
       "year": 2027,
       "hp": null,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "coupe",
       "segment": "sport",
       "isFacelift": false,
@@ -37640,7 +37755,7 @@
       "type": "generation",
       "year": 2028,
       "hp": null,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "coupe",
       "segment": "supercar",
       "isFacelift": false,
@@ -37679,7 +37794,7 @@
       "type": "generation",
       "year": 2027,
       "hp": null,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "suv",
       "segment": "compact-suv",
       "isFacelift": false,
@@ -37698,7 +37813,7 @@
       "type": "generation",
       "year": 2025,
       "hp": null,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "coupe",
       "segment": "supercar",
       "isFacelift": false,
@@ -37737,7 +37852,7 @@
       "type": "generation",
       "year": 2026,
       "hp": null,
-      "engineType": "EV",
+      "engineType": "ev",
       "bodyType": "fastback",
       "segment": "luxury",
       "isFacelift": false,
@@ -37929,8 +38044,8 @@
       "modelSlug": "mercedes-gls-680-maybach",
       "bodyType": "suv",
       "segment": "other",
-      "zone": "eu",
-      "engineType": "ICE",
+      "zone": "suv_large",
+      "engineType": "v8t",
       "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-GLS_680_Maybach-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-GLS_680_Maybach-2027-thb.jpg",
       "description": "Mercedes-Maybach GLS has been refined with one clear objective: to convey even greater status and presence through precision and design quality.",
@@ -38034,8 +38149,8 @@
       "modelSlug": "gordon-murray-automotive-le-mans",
       "bodyType": "coupe",
       "segment": "other",
-      "zone": "uk",
-      "engineType": "ICE",
+      "zone": "hypercar",
+      "engineType": "v12",
       "heroImageUrl": "",
       "thumbnailUrl": "",
       "description": "2026 Gordon Murray Automotive Le Mans GTR Уникальный характер модели определяется неповторимым языком дизайна SV, который гармонично сочетает в себе аэродинамическую эффективность и неподвластную врем",
@@ -38081,8 +38196,8 @@
       "modelSlug": "koenigsegg-sadairs-spear",
       "bodyType": "roadster",
       "segment": "supercar",
-      "zone": "eu",
-      "engineType": "hybrid",
+      "zone": "hypercar",
+      "engineType": "v8t",
       "heroImageUrl": "",
       "thumbnailUrl": "",
       "description": "2025 Koenigsegg Sadairs Spear (#256) Koenigsegg Sadairs Spear — воплощение инженерного совершенства и дань семейным традициям, представляющий собой новый этап в эволюции производительности бренда. Это",
@@ -38184,8 +38299,8 @@
       "modelSlug": "pagani-huayra-codalunga-speedster",
       "bodyType": "roadster",
       "segment": "supercar",
-      "zone": "eu",
-      "engineType": "ICE",
+      "zone": "hypercar",
+      "engineType": "v12",
       "heroImageUrl": "",
       "thumbnailUrl": "",
       "description": "2025 Pagani Huayra Codalunga Speedster Внешний дизайн притягивает взгляд своей продуманной экспрессией. Передние фары органично вписаны в контур бампера, рядом с которым расположился тонко настроенный",
@@ -38209,14 +38324,15 @@
       "type": "generation",
       "year": 2027,
       "hp": null,
-      "engineType": "PHEV",
+      "engineType": "phev",
       "bodyType": "suv",
-      "segment": "suv",
+      "segment": "mid_suv",
       "isFacelift": false,
       "isConcept": false,
       "isFuture": true,
-      "zone": "eu",
-      "familyKey": "land-rover-discovery"
+      "zone": "suv_large",
+      "familyKey": "land-rover-discovery",
+      "note": "Платформа подтверждена как EMA (электро-архитектура с опцией PHEV/range-extender), а не MLA, как предполагалось ранее — смену курса подтвердил экс-CEO JLR Адриан Марделл (Auto Express, 2023). Ориентировочный выход к дилерам — 2028г. Точные мощность и силовая установка серийной версии официально ещё не объявлены (окт. 2026), hp намеренно оставлен пустым. Источники: autocar.co.uk, carexpert.com.au, roverparts.com."
     },
     {
       "id": "pagani-huayra-roadster",
@@ -39060,10 +39176,11 @@
       "segment": "muscle",
       "zone": "gt_coupe",
       "hp": 600,
-      "engineType": "I6 Hurricane TT",
+      "engineType": "i6t",
       "description": "Топ-трим нового Sixpack Charger — на 50 л.с. мощнее Scat Pack, почти на уровне Hellcat. 2-Door и 4-Door технически идентичны (тот же привод/мощность), разница только в кузове.",
       "isLimited": true,
-      "note": "Launch Edition — ограниченный первый релиз (эксклюзивные цвета/графика/колёса), других широких релизов Super Bee пока не анонсировано."
+      "note": "Launch Edition 2027г. — изначально заявлялся как ограниченный первый релиз; с 08.2026 подтверждено расширение выпуска Super Bee на MY2028 для широкой аудитории (TFLcar, CarPro, PRNewswire). isLimited=true верно описывает именно Launch Edition, не модель в целом.",
+      "engineCC": 2993
     },
     {
       "id": "ncs-subaru-2026-subaru-outback-wilderness",
@@ -39165,9 +39282,9 @@
       "modelSlug": "dodge-charger-ev",
       "bodyType": "sedan",
       "segment": "electric_muscle",
-      "zone": "electric",
+      "zone": "gt_coupe",
       "hp": 670,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "800V \"Fratzonic\" имитатор выхлопа; конец эпохи HEMI → начало Banshee EV платформы"
     },
     {
@@ -39183,7 +39300,8 @@
       "segment": "muscle",
       "zone": "gt_coupe",
       "hp": 420,
-      "engineType": "I6 Hurricane TT"
+      "engineType": "i6t",
+      "engineCC": 2993
     },
     {
       "id": "dodge-charger-super-bee-4dr",
@@ -39198,10 +39316,11 @@
       "segment": "muscle",
       "zone": "gt_coupe",
       "hp": 600,
-      "engineType": "I6 Hurricane TT",
+      "engineType": "i6t",
       "description": "Технически идентичен 2-Door версии (тот же привод/мощность) — отличие только в кузове.",
       "isLimited": true,
-      "note": "Launch Edition — ограниченный первый релиз (эксклюзивные цвета/графика/колёса), других широких релизов Super Bee пока не анонсировано."
+      "note": "Технически идентичен 2-Door версии. Launch Edition 2027г. — с 08.2026 подтверждено расширение выпуска на MY2028 для широкой аудитории (TFLcar, CarPro, PRNewswire).",
+      "engineCC": 2993
     },
     {
       "id": "dodge-charger-srt-hellcat-redeye",
@@ -39627,7 +39746,7 @@
       "segment": "subcompact",
       "zone": "hatchback",
       "hp": 150,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Ретро-дизайн отсылает к круглым фарам оригинала 1972-го, а не к Supercinq; European Car of the Year 2025."
     },
     {
@@ -40064,7 +40183,7 @@
       "segment": "compact_suv",
       "zone": "suv_mid",
       "hp": 340,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Купе-кроссовер на той же MEB-платформе, что Born; топ-версия VZ с двумя моторами."
     },
     {
@@ -40236,7 +40355,7 @@
       "segment": "hypercar",
       "zone": "supercar",
       "hp": 1000,
-      "engineType": "electric",
+      "engineType": "ev",
       "isConcept": true,
       "note": "Ноябрь 2024: Jaguar объявил о свёртывании ВСЕГО текущего модельного ряда ради перезапуска как чисто электрический люкс-бренд с 2026-го (\"Copy Nothing\"). Type 00 — первый концепт нового направления, заявлено 430 миль запаса хода и 1000 л.с.; серийный 4-дверный GT ожидается в 2026-м."
     },
@@ -40787,7 +40906,7 @@
       "brandId": "land-rover",
       "brandName": "Land Rover",
       "codeName": "2026",
-      "modelSlug": "land-rover-rover-defender-dakar-concept",
+      "modelSlug": "land-rover-defender-dakar-concept",
       "bodyType": "suv",
       "segment": "other",
       "zone": "suv_mid",
@@ -40859,14 +40978,14 @@
     },
     {
       "id": "ncs-mercedes-2027-mercedes-c-class-updated",
-      "label": "2027 Mercedes C-Class Updated",
+      "label": "C-Class W206 Phase II (2027)",
       "type": "generation",
       "year": 2027,
       "brandId": "mercedes",
       "brandName": "Mercedes-Benz",
       "codeName": "2027",
       "modelSlug": "mercedes-mercedes-c-class-updated",
-      "bodyType": "coupe",
+      "bodyType": "sedan",
       "segment": "other",
       "zone": "midsize_sed",
       "engineType": "i4t",
@@ -40875,7 +40994,8 @@
       "description": "The new C-Class will hit dealerships in the first half of 2027 with updated looks and Mercedes&#39; latest tech, including the new MB Operating System.",
       "sourceUrl": "https://www.jalopnik.com/2238456/2027-mercedes-benz-c-class-updated-with-new-looks/",
       "isLatest": true,
-      "scrapedAt": "2026-08-17T20:04:01.389Z"
+      "scrapedAt": "2026-08-17T20:04:01.389Z",
+      "note": "Рестайлинг W206 (2027 МГ): новая оптика/решётка, обновлённые моторы с 48В mild-hybrid. Источник: jalopnik, autoweek (дубль-узел \"C-Class Refresh\" удалён)."
     },
     {
       "id": "porsche-panamera-972-mk3",
@@ -41254,7 +41374,7 @@
       "brandName": "Mercedes-Benz",
       "codeName": "2027",
       "modelSlug": "mercedes-c-class-estate",
-      "bodyType": "coupe",
+      "bodyType": "wagon",
       "segment": "other",
       "zone": "estate",
       "engineType": "i4t",
@@ -41319,7 +41439,7 @@
       "segment": "hypercar",
       "zone": "supercar",
       "hp": 1016,
-      "engineType": "electric",
+      "engineType": "ev",
       "note": "Официальное имя серийной версии концепта Type 00. Показан 6 окт. 2026 в Нью-Йорке: 3 электромотора AWD (платформа JEA), 1016 л.с./1007 фунт-фут суммарно, архитектура 850В, батарея 118 кВтч, 0-60 за 3.1s, запас хода WLTP >700км/435 миль, подзарядка 15 мин → +321км. Производство на заводе Solihull (Великобритания) стартует в 2027-м, от £130k (~$170K). Источник: Motor1, Autocar India, electriccarsreport.com (окт. 2026)."
     },
     {
@@ -41416,7 +41536,7 @@
       "bodyType": "wagon",
       "segment": "exec",
       "zone": "concept",
-      "engineType": "electric",
+      "engineType": "ev",
       "isConcept": true,
       "note": "Показан на автосалоне в Пекине, апр. 2026, вместе с Concept 8. Флагманский шутинг-брейк/седан, предвестник преемника 508. Полностью электрический, серия ожидается ~2027."
     },
@@ -41432,7 +41552,7 @@
       "bodyType": "mpv",
       "segment": "other",
       "zone": "concept",
-      "engineType": "electric",
+      "engineType": "ev",
       "isConcept": true,
       "note": "Исследовательский концепт от подразделения Renault \"Garage Futurama\" (март 2026) — не прямой предвестник серийной модели, а изучение UX/салона на серийной платформе RGEV Medium 2.0. Модульный салон 4.5м, steer-by-wire, датчик алкоголя, панорамный экран openR. Намекает на направление Espace/Mégane после 2030."
     },
@@ -41448,7 +41568,7 @@
       "bodyType": "other",
       "segment": "other",
       "zone": "concept",
-      "engineType": "electric",
+      "engineType": "ev",
       "isConcept": true,
       "note": "Показан на автосалоне в Пекине, апр. 2026. Первое у Geely беспилотное такси уровня L4 полностью собственной разработки — салон vis-a-vis, ИИ-модель Step3.5 (196B параметров) + вычислитель H9 (1400 TOPS), 43 сенсора/лидары. Коммерческая версия для CaoCao Mobility планируется на 2027."
     },
@@ -41463,9 +41583,9 @@
       "modelSlug": "denza-z",
       "bodyType": "coupe",
       "segment": "sports_gt",
-      "zone": "china_ev",
+      "zone": "supercar",
       "hp": 1604,
-      "engineType": "BEV",
+      "engineType": "ev",
       "note": "2-местный гиперкар-халo, показан на Goodwood FoS 2026 — ДРУГАЯ машина, чем 4-местный Z9 GT (не производная). Трёхмоторный, 1604 л.с. combined, батарея 76 кВтч, 409км WLTP, 0-62 за 2.25с, от £142,900."
     },
     {
@@ -41479,9 +41599,9 @@
       "modelSlug": "denza-z",
       "bodyType": "targa",
       "segment": "sports_gt",
-      "zone": "china_ev",
+      "zone": "open_top",
       "hp": 1604,
-      "engineType": "BEV",
+      "engineType": "ev",
       "note": "Открытая версия Denza Z, та же платформа/силовая установка. 400км WLTP (чуть меньше купе из-за веса крыши), от £159,900."
     },
     {
@@ -41495,15 +41615,15 @@
       "modelSlug": "denza-z",
       "bodyType": "coupe",
       "segment": "sports_gt",
-      "zone": "china_ev",
+      "zone": "racing",
       "hp": 1604,
-      "engineType": "BEV",
+      "engineType": "ev",
       "note": "Трек-версия Denza Z, та же платформа. Самая быстрая в линейке: 0-62 за 1.96с, ~349км/ч макс. скорость, от £172,900."
     },
     {
       "id": "denza-bao5",
-      "label": "Bao 5",
-      "fullName": "Denza Bao 5",
+      "label": "Denza B5",
+      "fullName": "Denza B5 (BYD Fang Cheng Bao Bao 5)",
       "type": "generation",
       "year": 2026,
       "brandId": "denza",
@@ -41511,10 +41631,10 @@
       "modelSlug": "denza-bao5",
       "bodyType": "suv",
       "segment": "offroad",
-      "zone": "china_ev",
+      "zone": "offroad",
       "hp": 544,
-      "engineType": "PHEV",
-      "note": "Внедорожный PHEV, другая суббренд-линейка чем D/N/Z (в некоторых рынках маркируется \"B5\"). 1.5T + два мотора, 544 л.с. combined, ~90км запас хода на электротяге, от £69,500."
+      "engineType": "phev",
+      "note": "Изначально выпускалась суббрендом BYD Fangchengbao (方程豹) как «Bao 5» (ноя-2023) — первая модель на платформе DMO Super Hybrid. С 2025г версия для экспортных рынков продаётся под маркой Denza как «B5». В графе — экспортная Denza-версия."
     },
     {
       "id": "kgsegg-ccgt",
@@ -45790,7 +45910,7 @@
       "brandId": "alfa-romeo",
       "brandName": "Alfa Romeo",
       "modelSlug": "alfa-sauber-f1",
-      "bodyType": "coupe",
+      "bodyType": "Race Car",
       "segment": "racing",
       "zone": "racing",
       "hp": 1000,
@@ -53269,134 +53389,16 @@
       "note": "Топовая версия первого полностью электрического Bentley — 888 PS/876 л.с., разгон 0-100 за 2.8с (у базовой версии — 3.3с при 821 PS/810 л.с.). Общая для обеих версий батарея 113 кВтч (запас хода WLTP ок. 604 км/375 миль), платформа Premium Platform Electric (общая с Porsche Cayenne Electric), зарядка до 400 кВт (10-80% менее чем за 20 минут). Представлена 23 сентября 2026. Источники: carscoops.com, forbes.com, electrek.co, designnews.com."
     },
     {
-      "id": "ncs-bentley-2028-bentley-torcal-breaks",
-      "label": "2028 Bentley Torcal Breaks",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "bentley",
-      "brandName": "Bentley",
-      "codeName": "2028",
-      "modelSlug": "bentley-bentley-torcal-breaks",
-      "bodyType": "suv",
-      "segment": "other",
-      "zone": "suv_mid",
-      "engineType": "ev",
-      "heroImageUrl": "https://hips.hearstapps.com/hmg-prod/images/02fd6786-4fd6-4c66-8d79-9a9f88d77246.png",
-      "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/02fd6786-4fd6-4c66-8d79-9a9f88d77246.png",
-      "description": "After 107 years of building gasoline-powered luxury cars, Bentley enters the electric era with the all-new Torcal SUV.",
-      "sourceUrl": "https://www.autoweek.com/news/a73868893/2028-bentley-torcal-reveal/",
-      "isLatest": true,
-      "scrapedAt": "2026-09-30T08:04:01.570Z"
-    },
-    {
-      "id": "ncs-bentley-2028-torcal",
-      "label": "Bentley Torcal",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "bentley",
-      "brandName": "Bentley",
-      "codeName": "2028",
-      "modelSlug": "bentley-torcal",
-      "bodyType": "coupe",
-      "segment": "other",
-      "zone": "midsize_sed",
-      "heroImageUrl": "https://www.netcarshow.com/Bentley-Torcal-2028-wallpaper.jpg",
-      "thumbnailUrl": "https://www.netcarshow.com/R/Bentley-Torcal-2028-thb.jpg",
-      "description": "Bentley Torcal, which measures five metres in length, is the shortest four-door in the model line-up yet offers exceptional interior space, with a 460 litre boot...",
-      "sourceUrl": "https://www.netcarshow.com/bentley/2028-torcal/",
-      "isLatest": true,
-      "scrapedAt": "2026-09-30T08:04:01.543Z"
-    },
-    {
-      "id": "ncs-bentley-2028-bentley-torcal-ev-charts-a-slightly-strange",
-      "label": "2028 Bentley Torcal EV Charts A Slightly Strange-Looking",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "bentley",
-      "brandName": "Bentley",
-      "codeName": "2028",
-      "modelSlug": "bentley-bentley-torcal-ev-charts-a-slightly-strange-looking",
-      "bodyType": "suv",
-      "segment": "other",
-      "zone": "suv_mid",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.jalopnik.com/img/gallery/2028-bentley-torcal-ev-charts-a-slightly-strange-looking-path-into-the-future/intro-1790185355.jpg",
-      "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2028-bentley-torcal-ev-charts-a-slightly-strange-looking-path-into-the-future/intro-1790185355.jpg",
-      "description": "This new electric SUV has up to 876 horsepower, 400-kW fast-charging, lots of advanced tech and a funky design that does feel properly Bentley.",
-      "sourceUrl": "https://www.jalopnik.com/2266740/2028-bentley-torcal-ev-suv-reveal-design-specs-details/",
-      "isLatest": true,
-      "scrapedAt": "2026-09-24T20:04:01.822Z"
-    },
-    {
-      "id": "ncs-astonmartin-2028-martin-valen",
-      "label": "Aston Martin Valen",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "astonmartin",
-      "brandName": "Aston",
-      "codeName": "2028",
-      "modelSlug": "astonmartin-martin-valen",
-      "bodyType": "coupe",
-      "segment": "supercar",
-      "zone": "supercar",
-      "heroImageUrl": "https://www.netcarshow.com/Aston_Martin-Valen-2028-wallpaper.jpg",
-      "thumbnailUrl": "https://www.netcarshow.com/R/Aston_Martin-Valen-2028-thb.jpg",
-      "description": "Aston Martin Valen is a significant departure from what has gone before; sharply sculpted lines to reflect the aggressive dynamics, an attacking stance...",
-      "sourceUrl": "https://www.netcarshow.com/aston_martin/2028-valen/",
-      "isLatest": true,
-      "scrapedAt": "2026-09-03T08:04:01.260Z"
-    },
-    {
-      "id": "ncs-bentley-2028-bentley-torcal-first-ride",
-      "label": "2028 Bentley Torcal First Ride",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "bentley",
-      "brandName": "Bentley",
-      "codeName": "2028",
-      "modelSlug": "bentley-bentley-torcal-first-ride",
-      "bodyType": "hatchback",
-      "segment": "other",
-      "zone": "electric",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/08/Torcal-2.jpg?quality=85&amp;w=2048",
-      "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/08/Torcal-2.jpg?quality=85&amp;w=2048",
-      "description": "Bentley wants to stick the landing with its first EV. I rode in a Torcal, and here's what I noticed. The post 2028 Bentley Torcal First Ride: A Luxury EV that Moves to a Different Beat appeared first ",
-      "sourceUrl": "https://www.thedrive.com/car-reviews/2028-bentley-torcal-first-ride-a-luxury-ev-that-moves-to-a-different-beat",
-      "isLatest": true,
-      "scrapedAt": "2026-08-29T08:04:00.908Z"
-    },
-    {
-      "id": "ncs-bentley-2028-bentley-torcal-aims-to-capture-that-tangibl",
-      "label": "2028 Bentley Torcal Aims To Capture That Tangible",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "bentley",
-      "brandName": "Bentley",
-      "codeName": "2028",
-      "modelSlug": "bentley-bentley-torcal-aims-to-capture-that-tangible",
-      "bodyType": "suv",
-      "segment": "other",
-      "zone": "suv_mid",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.jalopnik.com/img/gallery/2028-bentley-torcal-aims-to-capture-that-tangible-bentley-feeling/intro-1787787165.jpg",
-      "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2028-bentley-torcal-aims-to-capture-that-tangible-bentley-feeling/intro-1787787165.jpg",
-      "description": "Smaller and cheaper than a Bentayga, the new Torcal is a Cayenne-based electric SUV that makes orchestral sounds and has more power than any Bentley before it.",
-      "sourceUrl": "https://www.jalopnik.com/2245102/2028-bentley-torcal-electric-suv-prototype-first-ride-review/",
-      "isLatest": true,
-      "scrapedAt": "2026-08-28T14:04:01.615Z"
-    },
-    {
       "id": "ncs-bmw-2027-bmw-i3",
-      "label": "2027 BMW i3",
+      "label": "i3 (NA0)",
       "type": "generation",
       "year": 2027,
       "brandId": "bmw",
       "brandName": "BMW",
-      "codeName": "2027",
+      "codeName": "NA0",
       "modelSlug": "bmw-bmw-i3",
-      "bodyType": "hatchback",
-      "segment": "other",
+      "bodyType": "sedan",
+      "segment": "premium_compact",
       "zone": "electric",
       "engineType": "ev",
       "heroImageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/09/BMW-2027-i3-price.jpeg?quality=82&#038;strip=all&#038;w=1400",
@@ -53404,7 +53406,10 @@
       "description": "BMW opened orders for the 2027 i3 early after strong initial demand. The all-new electric sedan can drive up to 468 miles on a single charge, but it’s not exactly",
       "sourceUrl": "https://electrek.co/2026/09/30/bmw-announces-2027-i3-prices-range-up-to-468-miles/",
       "isLatest": true,
-      "scrapedAt": "2026-09-30T20:04:01.728Z"
+      "scrapedAt": "2026-09-30T20:04:01.728Z",
+      "fullName": "BMW i3 (NA0)",
+      "hp": 463,
+      "note": "Электроседан на платформе Neue Klasse (800 В), часть 8-го поколения 3-series наряду с механически не связанным G50. Представлен 18 марта 2026, производство i3 50 xDrive в Мюнхене с августа 2026, в США — 1-е полугодие 2027. Стартовая версия 50 xDrive: 463 л.с./476 фунт-фут (в hp), WLTP до ~900 км, DC до 400 кВт. Позже: 335-603 л.с. Предшественник по Wikipedia — BMW i4 (G26). С i3 (I01, 2013) общее только имя. Источник: motor1.com, electrek.co, Wikipedia (2026)."
     },
     {
       "id": "maserati-qp2",
@@ -57159,22 +57164,26 @@
     },
     {
       "id": "ncs-bmw-2027-3-series",
-      "label": "BMW 3-Series",
+      "label": "3 Series G50",
       "type": "generation",
       "year": 2027,
       "brandId": "bmw",
       "brandName": "BMW",
-      "codeName": "2027",
+      "codeName": "G50",
       "modelSlug": "bmw-3-series",
-      "bodyType": "coupe",
-      "segment": "other",
+      "bodyType": "sedan",
+      "segment": "premium_compact",
       "zone": "midsize_sed",
       "heroImageUrl": "https://www.netcarshow.com/BMW-3-Series-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/BMW-3-Series-2027-thb.jpg",
       "description": "BMW 3-Series with modern 2.5-box design is instantly recognisable as a BMW. Its silhouette showcases the signature BMW sporting proportions.",
       "sourceUrl": "https://www.netcarshow.com/bmw/2027-3-series/",
       "isLatest": true,
-      "scrapedAt": "2026-10-05T06:18:53.977Z"
+      "scrapedAt": "2026-10-05T06:18:53.977Z",
+      "fullName": "BMW 3 Series (G50)",
+      "hp": 255,
+      "engineType": "i4h",
+      "note": "8-е поколение 3-series с ДВС, представлено 30 сентября 2026. Глубоко переработанная платформа CLAR (не Neue Klasse), но дизайн и салон в стиле Neue Klasse. 48-вольтовый мягкий гибрид стандартно: 330 (B48, 255 л.с./295 фунт-фут; буква «i» из названий убрана) и M350 xDrive (B58, 437 л.с.). Продаётся параллельно с механически не родственным электрическим i3 (NA0). Источник: bimmerfile.com, paultan.org, Wikipedia (2026)."
     },
     {
       "id": "ncs-bmw-2027-m350-xdrive",
@@ -57185,7 +57194,7 @@
       "brandName": "BMW",
       "codeName": "2027",
       "modelSlug": "bmw-m350-xdrive",
-      "bodyType": "coupe",
+      "bodyType": "sedan",
       "segment": "other",
       "zone": "midsize_sed",
       "engineType": "i4h",
@@ -57224,7 +57233,7 @@
       "brandName": "BMW",
       "codeName": "2027",
       "modelSlug": "bmw-x3-m50-xdrive",
-      "bodyType": "coupe",
+      "bodyType": "suv",
       "segment": "other",
       "zone": "midsize_sed",
       "heroImageUrl": "https://www.netcarshow.com/BMW-X3_M50_xDrive-2027-wallpaper.jpg",
@@ -60930,66 +60939,6 @@
       "note": "Преемник бренда 'SVAutobiography' для нового поколения L460 — название упростили до просто 'SV'. BMW-сурсинговый 4.4L твин-турбо V8 MHEV, бейдж P615 (615 PS/606 hp), 553 фунт-фут, 0-60 за 4.3s, 23-дюйм. карбоновые колёса, карбоновый капот. Источник: autoevolution, carscoops, automobile-catalog."
     },
     {
-      "id": "ncs-jaguar-2028-jaguar-type-01-ev",
-      "label": "2028 Jaguar Type 01 EV",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "jaguar",
-      "brandName": "Jaguar",
-      "codeName": "2028",
-      "modelSlug": "jaguar-jaguar-type-01-ev",
-      "bodyType": "hatchback",
-      "segment": "other",
-      "zone": "electric",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.jalopnik.com/img/gallery/2028-jaguar-type-01-ev-revealed-with-1015-hp-a-400-mile-range-and-even-wilder-looks-than-the-concept/intro-1791325552.jpg",
-      "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2028-jaguar-type-01-ev-revealed-with-1015-hp-a-400-mile-range-and-even-wilder-looks-than-the-concept/intro-1791325552.jpg",
-      "description": "Is everybody ready to be calm and normal about the new Jaguar yet?",
-      "sourceUrl": "https://www.jalopnik.com/2279539/2028-jaguar-type-01-ev-reveal-design-specs-details/",
-      "isLatest": true,
-      "scrapedAt": "2026-10-07T14:04:01.490Z"
-    },
-    {
-      "id": "ncs-jaguar-2028-type-01",
-      "label": "Jaguar Type 01",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "jaguar",
-      "brandName": "Jaguar",
-      "codeName": "2028",
-      "modelSlug": "jaguar-type-01",
-      "bodyType": "hatchback",
-      "segment": "other",
-      "zone": "electric",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.netcarshow.com/Jaguar-Type_01-2028-wallpaper.jpg",
-      "thumbnailUrl": "https://www.netcarshow.com/R/Jaguar-Type_01-2028-thb.jpg",
-      "description": "The creative engineering and singular focus behind this electric-only architecture is the enabler for both Type 01's distinctive proportions and captivating driving dynamics.",
-      "sourceUrl": "https://www.netcarshow.com/jaguar/2028-type_01/",
-      "isLatest": true,
-      "scrapedAt": "2026-10-07T14:04:00.774Z"
-    },
-    {
-      "id": "ncs-land-rover-2027-rover-range-rover-electric",
-      "label": "Land Rover Range Rover Electric",
-      "type": "generation",
-      "year": 2027,
-      "brandId": "land-rover",
-      "brandName": "Land",
-      "codeName": "2027",
-      "modelSlug": "land-rover-rover-range-rover-electric",
-      "bodyType": "hatchback",
-      "segment": "other",
-      "zone": "electric",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.netcarshow.com/Land_Rover-Range_Rover_Electric-2027-wallpaper.jpg",
-      "thumbnailUrl": "https://www.netcarshow.com/R/Land_Rover-Range_Rover_Electric-2027-thb.jpg",
-      "description": "Range Rover Electric will complete 0-60mph in as little as 4.3 seconds, with power enabling overtaking speeds from 50-75mph in as little as 2.7 seconds.",
-      "sourceUrl": "https://www.netcarshow.com/land_rover/2027-range_rover_electric/",
-      "isLatest": true,
-      "scrapedAt": "2026-10-07T14:04:00.742Z"
-    },
-    {
       "id": "cadillac-escalade-2",
       "label": "Cadillac Escalade",
       "type": "generation",
@@ -61354,54 +61303,38 @@
       "note": "Первый электрический Cadillac с индексом 'V' — представлен для 2026 модельного года, суммарная мощность двухмоторной AWD-установки 615 л.с. Расширяет суббренд V-Series на EV-линейку вслед за ICE V-Series (CT4-V/CT5-V Blackwing) и Escalade-V. Источник: slashgear.com (по материалам Cadillac, 2026 МГ)."
     },
     {
-      "id": "ncs-mercedes-2027-c-class-ev-uk",
-      "label": "Mercedes-Benz C-Class EV [UK]",
-      "type": "generation",
-      "year": 2027,
-      "brandId": "mercedes",
-      "brandName": "Mercedes-Benz",
-      "codeName": "2027",
-      "modelSlug": "mercedes-c-class-ev-uk",
-      "bodyType": "hatchback",
-      "segment": "other",
-      "zone": "electric",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-C-Class_EV_UK-Version-2027-wallpaper.jpg",
-      "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-C-Class_EV_UK-Version-2027-thb.jpg",
-      "description": "Electric C-Class has a range of up to 762 kilometres (WLTP) thanks to high aerodynamics and innovations such as the heat pump and the one-box braking system with a recuperation...",
-      "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-c-class_ev_uk-version/",
-      "isLatest": true,
-      "scrapedAt": "2026-10-07T20:04:00.725Z"
-    },
-    {
       "id": "ncs-bmw-2027-ix4",
-      "label": "BMW iX4",
+      "label": "iX4",
       "type": "generation",
       "year": 2027,
       "brandId": "bmw",
       "brandName": "BMW",
       "codeName": "2027",
       "modelSlug": "bmw-ix4",
-      "bodyType": "coupe",
+      "bodyType": "suv",
       "segment": "other",
-      "zone": "midsize_sed",
+      "zone": "electric",
       "heroImageUrl": "https://www.netcarshow.com/BMW-iX4-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX4-2027-thb.jpg",
       "description": "BMW iX4 offers a whole new experience of BMW-typical driver orientation, ensuring the driver is always given the right information in the right place at the right time.",
       "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix4/",
       "isLatest": true,
-      "scrapedAt": "2026-10-08T02:04:01.581Z"
+      "scrapedAt": "2026-10-08T02:04:01.581Z",
+      "fullName": "BMW iX4 (Neue Klasse)",
+      "hp": 469,
+      "engineType": "ev",
+      "note": "Первый iX4 — электрический кросс-купе на платформе Neue Klasse, производное от iX3 NK (как X4 от X3). Представлен 7 октября 2026, рыночный старт — март 2027. iX4 50 xDrive: два мотора, 469 л.с./645 Нм (в hp), батарея 108.7 кВтч, до ~690 км (428 миль). Позже — M60 xDrive (612 л.с.). Источник: bmwgroup.com, autoevolution.com, jalopnik.com (2026)."
     },
     {
       "id": "ncs-bmw-2027-ix3-m60-xdrive",
-      "label": "BMW iX3 M60 xDrive",
+      "label": "iX3 M60 xDrive",
       "type": "generation",
       "year": 2027,
       "brandId": "bmw",
       "brandName": "BMW",
       "codeName": "2027",
       "modelSlug": "bmw-ix3-m60-xdrive",
-      "bodyType": "hatchback",
+      "bodyType": "suv",
       "segment": "other",
       "zone": "electric",
       "hp": 612,
@@ -61411,26 +61344,32 @@
       "description": "BMW iX3 M60 xDrive has one electric motor at the front axle and one at the rear. Together, they generate maximum output of 450 kW (612 hp) and peak torque of 875 Nm (645 lb-ft).",
       "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix3_m60_xdrive/",
       "isLatest": true,
-      "scrapedAt": "2026-10-08T02:04:00.866Z"
+      "scrapedAt": "2026-10-08T02:04:00.866Z",
+      "fullName": "BMW iX3 M60 xDrive (Neue Klasse)",
+      "note": "Топовая M Performance-версия iX3 Neue Klasse, анонсирована в октябре 2026 вместе с iX4. Два мотора, 450 кВт/612 л.с., 875 Нм, адаптивная M-подвеска, электронно управляемая M-блокировка заднего дифференциала. Источник: bmwblog.com, bimmerlife.com, autoevolution.com (2026)."
     },
     {
       "id": "ncs-bmw-2027-ix4-m60-xdrive",
-      "label": "BMW iX4 M60 xDrive",
+      "label": "iX4 M60 xDrive",
       "type": "generation",
       "year": 2027,
       "brandId": "bmw",
       "brandName": "BMW",
       "codeName": "2027",
       "modelSlug": "bmw-ix4-m60-xdrive",
-      "bodyType": "coupe",
+      "bodyType": "suv",
       "segment": "other",
-      "zone": "midsize_sed",
+      "zone": "electric",
       "heroImageUrl": "https://www.netcarshow.com/BMW-iX4_M60_xDrive-2027-wallpaper.jpg",
       "thumbnailUrl": "https://www.netcarshow.com/R/BMW-iX4_M60_xDrive-2027-thb.jpg",
       "description": "The electronically limited top speed of the BMW iX4 M60 xDrive is 240 kmh (149 mph). The M Performance model has a maximum range of up to 777 kilometres (483 miles).",
       "sourceUrl": "https://www.netcarshow.com/bmw/2027-ix4_m60_xdrive/",
       "isLatest": true,
-      "scrapedAt": "2026-10-08T02:04:00.749Z"
+      "scrapedAt": "2026-10-08T02:04:00.749Z",
+      "fullName": "BMW iX4 M60 xDrive",
+      "hp": 612,
+      "engineType": "ev",
+      "note": "Топовая версия iX4 Neue Klasse, выходит вскоре после старта iX4 в марте 2027. 450 кВт/612 л.с., 875 Нм, 0-100 за 3.9с, ограничение 240 км/ч, WLTP до 777 км; адаптивная M-подвеска и M-блокировка заднего дифференциала. Источник: autoevolution.com, bmwblog.com (2026)."
     },
     {
       "id": "lincoln-town-car-2",
@@ -63949,26 +63888,6 @@
       "scrapedAt": "2026-10-10T02:04:00.884Z"
     },
     {
-      "id": "ncs-mercedes-2027-mercedes-amg-gle53-phev",
-      "label": "2027 Mercedes-AMG GLE53 PHEV",
-      "type": "generation",
-      "year": 2027,
-      "brandId": "mercedes",
-      "brandName": "Mercedes",
-      "codeName": "2027",
-      "modelSlug": "mercedes-mercedes-amg-gle53-phev",
-      "bodyType": "hatchback",
-      "segment": "other",
-      "zone": "electric",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-mercedes-amg-gle53-phev-is-plug-in-performance-done-properly/intro-1791919070.jpg",
-      "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-mercedes-amg-gle53-phev-is-plug-in-performance-done-properly/intro-1791919070.jpg",
-      "description": "With 577 horsepower and a 45-mile EV-only driving range, the updated Mercedes-AMG GLE53 might be Golidlocks&#39; pick of the lineup.",
-      "sourceUrl": "https://www.jalopnik.com/2285823/2027-mercedes-amg-gle53-phev-first-drive-review/",
-      "isLatest": true,
-      "scrapedAt": "2026-10-15T02:04:01.481Z"
-    },
-    {
       "id": "olds-442-2",
       "label": "442 Gen.2",
       "fullName": "Oldsmobile 442",
@@ -64891,7 +64810,7 @@
     },
     {
       "id": "ncs-mercedes-2027-mercedes-amg-gle-53-hybrid",
-      "label": "2027 Mercedes-AMG GLE 53 Hybrid",
+      "label": "AMG GLE 53 Hybrid (2027)",
       "type": "generation",
       "year": 2027,
       "brandId": "mercedes",
@@ -64900,14 +64819,16 @@
       "modelSlug": "mercedes-mercedes-amg-gle-53-hybrid",
       "bodyType": "suv",
       "segment": "other",
-      "zone": "suv_mid",
-      "engineType": "ev",
+      "zone": "suv_large",
+      "engineType": "i6h",
       "heroImageUrl": "https://hips.hearstapps.com/hmg-prod/images/5abfdb44-3cac-4d3a-99f6-90274c3da011.jpg",
       "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod/images/5abfdb44-3cac-4d3a-99f6-90274c3da011.jpg",
       "description": "A plug-in hybrid powertrain, 45 miles of electric range and surprisingly smooth AMG tuning make this a very different kind of performance SUV.",
       "sourceUrl": "https://www.autoweek.com/news/a74140122/2027-mercedes-amg-gle-53-hybrid-drive-review/",
       "isLatest": true,
-      "scrapedAt": "2026-10-16T02:04:01.526Z"
+      "scrapedAt": "2026-10-16T02:04:01.526Z",
+      "hp": 577,
+      "note": "AMG GLE 53 стал полноценным PHEV: 3.0 I6 турбо + электромотор 181hp, суммарно 577hp/553 lb-ft. Часть обновления GLE 2027 МГ. Источник: motor1, autoblog, jalopnik."
     },
     {
       "id": "peu-205-gti-19",
@@ -65466,7 +65387,7 @@
       "codeName": "4TC",
       "modelSlug": "citroen-bx-4tc",
       "familyKey": "citroen-bx",
-      "bodyType": "sedan",
+      "bodyType": "hatchback",
       "segment": "racing",
       "zone": "racing",
       "hp": 200,
@@ -65510,7 +65431,7 @@
       "hp": 315,
       "engineType": "i4t",
       "isRacing": true,
-      "note": "Полноприводный World Rally Car — турбо 2.0 XU7JP4, 315hp. 3 титула производителей подряд 2003-2005 (Лёб). Источник: Wikipedia Citroën Xsara WRC."
+      "note": "Полноприводный World Rally Car — турбо 2.0 XU7JP4, 315hp. 3 титула производителей подряд 2003-2005. Личные титулы Лёба на этой машине — 2004-2006 (в 2003г. Citroën взял производительский титул, но Лёб уступил чемпионат пилотов на 1 очко — ранее в note ошибочно связывался весь диапазон 2003-2005 с Лёбом). Источники: Wikipedia Citroën Xsara WRC, 2003/2004/2005 World Rally Championship."
     },
     {
       "id": "citroen-c4-wrc",
@@ -65566,26 +65487,6 @@
       "hp": 225,
       "engineType": "i4t",
       "note": "Флагманский SUV бренда DS Automobiles — первая модель без исторического Citroën-предка под тем же именем, фактически приняла на себя роль флагмана после ухода DS5 с рынка. PureTech 225 (222hp), также E-Tense 4x4 PHEV 300hp. Источник: ultimatespecs.com, wikipedia DS 7."
-    },
-    {
-      "id": "ncs-mercedes-2028-mercedes-amg-gt-suv-one-ups",
-      "label": "2028 Mercedes-AMG GT SUV One-Ups",
-      "type": "generation",
-      "year": 2028,
-      "brandId": "mercedes",
-      "brandName": "Mercedes",
-      "codeName": "2028",
-      "modelSlug": "mercedes-mercedes-amg-gt-suv-one-ups",
-      "bodyType": "suv",
-      "segment": "other",
-      "zone": "suv_mid",
-      "engineType": "ev",
-      "heroImageUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-amg-gt-suv-one-ups-the-porsche-cayenne-turbo-electric-with-1153-hp/intro-1792250544.jpg",
-      "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2028-mercedes-amg-gt-suv-one-ups-the-porsche-cayenne-turbo-electric-with-1153-hp/intro-1792250544.jpg",
-      "description": "AMG&#39;s first standalone SUV is an EV powerhouse with all the same technology as its 4-Door Coupe sibling, plus even more interesting styling.",
-      "sourceUrl": "https://www.jalopnik.com/2289599/2028-mercedes-amg-gt-ev-suv-design-specs-details-revealed/",
-      "isLatest": true,
-      "scrapedAt": "2026-10-17T20:04:01.868Z"
     },
     {
       "id": "seat-toledo-mk2",
@@ -65968,23 +65869,920 @@
       "note": "Глубокий рестайлинг 1-й Самары (новые бамперы/оптика/торпедо, тот же передний привод). Три кузова вышли на конвейер не одновременно: седан 2115 (опытная серия 1997, главный конвейер 2001, до дек.2012), 5-дв хэтчбек 2114 (2001, до дек.2013), 3-дв хэтчбек 2113 (2004-2013). Моторы: 1.5л/77лс (11183) и 1.6л 8-кл/81лс (21114/2116) до 2007г, позже 1.6л 16-кл/89лс (21124); указан самый массовый — 1.6л 8-кл."
     },
     {
-      "id": "ncs-skoda-2027-epiq",
-      "label": "Skoda Epiq",
+      "id": "ncs-mercedes-2027-amg-gt-suv",
+      "label": "AMG GT SUV",
       "type": "generation",
       "year": 2027,
-      "brandId": "skoda",
-      "brandName": "Skoda",
+      "brandId": "mercedes",
+      "brandName": "Mercedes-Benz",
       "codeName": "2027",
-      "modelSlug": "skoda-epiq",
-      "bodyType": "coupe",
-      "segment": "other",
-      "zone": "midsize_sed",
-      "heroImageUrl": "https://www.netcarshow.com/Skoda-Epiq-2027-wallpaper.jpg",
-      "thumbnailUrl": "https://www.netcarshow.com/R/Skoda-Epiq-2027-thb.jpg",
-      "description": "Skoda Epiq is 4,171 mm long, 1,798 mm wide, and 1,581 mm high, with a wheelbase of 2,601 mm. It is available in six body colours, including Timiano Green...",
-      "sourceUrl": "https://www.netcarshow.com/skoda/2027-epiq/",
+      "modelSlug": "mercedes-amg-gt-suv",
+      "bodyType": "suv",
+      "segment": "luxury_suv",
+      "zone": "suv_mid",
+      "heroImageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_SUV-2027-wallpaper.jpg",
+      "thumbnailUrl": "https://www.netcarshow.com/R/Mercedes-Benz-AMG_GT_SUV-2027-thb.jpg",
+      "description": "Despite its sporty silhouette, the rear seat offers generous headroom and legroom as well as a comfortable seating position, making the AMG GT SUV ideal for long journeys.",
+      "sourceUrl": "https://www.netcarshow.com/mercedes-benz/2027-amg_gt_suv/",
       "isLatest": true,
-      "scrapedAt": "2026-10-07T14:04:00.742Z"
+      "scrapedAt": "2026-10-21T06:48:53.327Z",
+      "fullName": "Mercedes-AMG GT SUV",
+      "hp": 1153,
+      "engineType": "ev",
+      "note": "Первый собственный полноразмерный SUV AMG — второй автомобиль на электроплатформе AMG.EA после нового AMG GT 4-Door. Премьера — 17 октября 2026, поставки GT 53 — с конца 2026 (от 112 350 евро в Германии). Версии GT 53/55/63; топ GT 63 — три аксиально-поточных мотора, 860 кВт (1153 л.с./1169 PS, в hp), 800 В, зарядка до 710 кВт, до 700 км. Источник: electrek.co, qz.com, thecarexpert.co.uk (2026). Узел ncs-mercedes-2028-mercedes-amg-gt-suv-one-ups — дубль этой же машины от скрапера."
+    },
+    {
+      "id": "chrysler-sebring-2",
+      "label": "Chrysler Sebring Gen.2 (2001)",
+      "year": 2001,
+      "brandId": "chrysler",
+      "brandName": "Chrysler",
+      "modelSlug": "chrysler-sebring",
+      "familyKey": "chrysler-sebring",
+      "type": "generation",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "zone": "midsize_sed",
+      "hp": 200,
+      "engineType": "v6",
+      "codeName": "JR (седан/кабрио) / Eclipse-платформа (купе)",
+      "note": "Кузова: купе (платформа-потомок Mitsubishi Eclipse, снято с продаж в 2005), седан и кабриолет (Chrysler JR — наследник Cirrus). Указан топ-мотор 2.7L V6 200лс/193 lb-ft (седан/кабрио, 4-ст. АКПП)."
+    },
+    {
+      "id": "chrysler-sebring-3",
+      "label": "Chrysler Sebring Gen.3 (2007)",
+      "year": 2007,
+      "brandId": "chrysler",
+      "brandName": "Chrysler",
+      "modelSlug": "chrysler-sebring",
+      "familyKey": "chrysler-sebring",
+      "type": "generation",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "zone": "midsize_sed",
+      "hp": 235,
+      "engineType": "v6",
+      "codeName": "JS",
+      "note": "Платформа JS — родная платформа-близнец Dodge Avenger Gen.2/R/T (тот же 3.5L V6 235лс/232 lb-ft на топ-триме Limited, см. shares_platform). Седан с 2007, кабриолет добавлен в 2008; купе в этом поколении больше не предлагалось. Последнее поколение под именем Sebring — в 2011 заменено на Chrysler 200."
+    },
+    {
+      "id": "chrysler-200-2",
+      "label": "Chrysler 200 Gen.2 (2015)",
+      "year": 2015,
+      "brandId": "chrysler",
+      "brandName": "Chrysler",
+      "modelSlug": "chrysler-200",
+      "familyKey": "chrysler-200",
+      "type": "generation",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "zone": "midsize_sed",
+      "hp": 295,
+      "engineType": "v6",
+      "codeName": "CUSW",
+      "note": "Полностью новая платформа CUSW (Fiat Compact US Wide) — та же, что у Jeep Cherokee KL (см. shares_platform), 9-ст. АКПП. Топ-мотор 3.6L Pentastar V6 295лс (база — 2.4L I4 184лс). В 2016 CEO FCA Серджо Маркионне объявил снятие с производства (слабые продажи седана на фоне спроса на кроссоверы/пикапы); выпуск завершён в 2017г БЕЗ прямой замены в модельном ряду — после этого у Chrysler остались только 300/Pacifica/Voyager, а с декабря 2023 (см. Last Call) — только минивэны Pacifica/Voyager."
+    },
+    {
+      "id": "chrysler-300-last-call",
+      "label": "Chrysler 300C Last Call (2023)",
+      "year": 2023,
+      "brandId": "chrysler",
+      "brandName": "Chrysler",
+      "modelSlug": "chrysler-300",
+      "familyKey": "chrysler-300",
+      "type": "generation",
+      "bodyType": "sedan",
+      "segment": "full-size",
+      "zone": "gt_coupe",
+      "hp": 485,
+      "engineType": "v8",
+      "isLimited": true,
+      "note": "Финальная спецсерия, закрывающая 12-летний цикл платформы LD (2011-2023) — 6.4L Hemi V8 485лс/574 lb-ft, всего 2200 экз. (2000 США + 200 Канада), раскуплены за 12 часов. Последний автомобиль Chrysler с атмосферным Hemi V8; последний экземпляр сошёл с конвейера Brampton (Онтарио) 8 декабря 2023г., после чего завод встал на переоснастку под электроплатформу. Подтверждает, что между 300(LX,2004)→300(LD,2011)→SRT8(2012) НЕТ пропущенного 3-го поколения — это один очень долгий модельный цикл LD."
+    },
+    {
+      "id": "jeep-cherokee-sj",
+      "label": "Jeep Cherokee SJ (1974)",
+      "year": 1974,
+      "brandId": "jeep",
+      "brandName": "Jeep",
+      "modelSlug": "jeep-cherokee-sj",
+      "familyKey": "jeep-cherokee",
+      "type": "generation",
+      "bodyType": "suv",
+      "segment": "offroad",
+      "zone": "suv_large",
+      "hp": 195,
+      "engineType": "v8n",
+      "codeName": "SJ",
+      "note": "Первое поколение Cherokee вообще — 2-дверная \"спортивная\" версия того же шасси SJ, что и Wagoneer SJ (1962, см. shares_platform), 4-дверная версия добавлена в 1977. Топ-мотор 360 cu in (5.9L) V8 4-barrel, 195лс (SAE net)/295 lb-ft. Выпускалась 1974-1983 (197338 экз.), в 1984 напрямую сменена на XJ."
+    },
+    {
+      "id": "jeep-cherokee-km",
+      "label": "Cherokee KM (2026)",
+      "year": 2026,
+      "brandId": "jeep",
+      "brandName": "Jeep",
+      "modelSlug": "jeep-cherokee-km",
+      "familyKey": "jeep-cherokee",
+      "type": "generation",
+      "bodyType": "suv",
+      "segment": "other",
+      "zone": "suv_mid",
+      "hp": 210,
+      "engineType": "hybrid",
+      "codeName": "KM",
+      "note": "Возрождение имени после паузы: KL снят с производства в конце февраля 2023 (простой завода Belvidere, Иллинойс). KM анонсирован в мае 2025, рыночно — \"2026 Jeep Cherokee\", сборка на заводе Toluca (Мексика, НЕ Belvidere). Только гибрид: новый для Jeep в Сев. Америке турбо 1.6L I4 + 2 электромотора, суммарно 210лс/230 lb-ft, запас хода >800км. Платформа STLA Large (не STLA Medium, вопреки части ранних слухов)."
+    },
+    {
+      "id": "jeep-compass-2025",
+      "label": "Compass (2025)",
+      "year": 2025,
+      "brandId": "jeep",
+      "brandName": "Jeep",
+      "modelSlug": "jeep-compass",
+      "type": "generation",
+      "bodyType": "suv",
+      "segment": "other",
+      "zone": "suv_compact",
+      "hp": 195,
+      "engineType": "hybrid",
+      "note": "Полностью новое поколение, платформа STLA Medium (общая с Peugeot 3008/5008, Opel/Vauxhall Grandland, DS7, Citroën C5 Aircross). Представлено весной 2025 (Европа), производство — завод Мельфи (Италия). Линейка: e-Hybrid 145лс (мягкий гибрид, база), e-Hybrid Plug-in 195лс (указан как топ-ICE-трим), полностью электрические версии до 375лс/650км (4WD) — BEV-варианты отдельным узлом не выделены (вне исходного чек-листа, кандидат на будущий точечный фикс)."
+    },
+    {
+      "id": "dodge-charger-scatpack",
+      "label": "Charger Scat Pack 2-Door",
+      "fullName": "Dodge Charger Scat Pack",
+      "type": "generation",
+      "year": 2026,
+      "brandId": "dodge",
+      "brandName": "Dodge",
+      "codeName": "Sixpack",
+      "modelSlug": "dodge-charger",
+      "bodyType": "coupe",
+      "segment": "muscle",
+      "zone": "gt_coupe",
+      "hp": 550,
+      "engineType": "i6t",
+      "engineCC": 2993,
+      "description": "Средний трим: тот же твин-турбо Hurricane I6, что и R/T, но в настройке High Output (550 л.с./531 lb-ft) — между R/T (420, Standard Output) и Super Bee (600, HO+)."
+    },
+    {
+      "id": "dodge-charger-scatpack-4dr",
+      "label": "Charger Scat Pack 4-Door",
+      "type": "generation",
+      "year": 2026,
+      "brandId": "dodge",
+      "brandName": "Dodge",
+      "codeName": "Sixpack",
+      "modelSlug": "dodge-charger",
+      "bodyType": "sedan",
+      "segment": "muscle",
+      "zone": "gt_coupe",
+      "hp": 550,
+      "engineType": "i6t",
+      "engineCC": 2993,
+      "description": "Технически идентичен 2-Door версии — отличие только в кузове."
+    },
+    {
+      "id": "dodge-avenger-2-base",
+      "label": "Avenger Gen.2",
+      "fullName": "Dodge Avenger SE",
+      "type": "generation",
+      "year": 2008,
+      "brandId": "dodge",
+      "brandName": "Dodge",
+      "codeName": "JS Avenger",
+      "modelSlug": "dodge-avenger-2",
+      "familyKey": "dodge-avenger",
+      "bodyType": "sedan",
+      "segment": "midsize",
+      "zone": "midsize_sed",
+      "hp": 173,
+      "engineType": "petrol_i4",
+      "engineCC": 2400,
+      "note": "2-е поколение (2008-2014), базовый трим SE/SXT: 2.4L I4 World Engine, 173 л.с./166 lb-ft, 4-ст. АКПП, FWD. Топ-трим R/T (3.5L V6, 235hp) — см. отдельный узел dodge-avenger-2 — вынесен через variant_of; ранее R/T ошибочно был единственным узлом на всё поколение. Источники: Stellantis Media press kit 2008, jdpower.com, auto123.com."
+    },
+    {
+      "id": "dodge-journey",
+      "label": "Journey",
+      "fullName": "Dodge Journey SE",
+      "type": "generation",
+      "year": 2009,
+      "brandId": "dodge",
+      "brandName": "Dodge",
+      "codeName": "JC Journey",
+      "modelSlug": "dodge-journey",
+      "bodyType": "suv",
+      "segment": "midsize_suv",
+      "zone": "suv_mid",
+      "hp": 173,
+      "engineType": "petrol_i4",
+      "engineCC": 2400,
+      "note": "Единственное поколение JC (2009-2020). Базовый трим SE: 2.4L I4, 173 л.с./166 lb-ft, 4-ст. АКПП, FWD. Топ-трим R/T (3.5L→3.6L Pentastar с 2011) — см. dodge-journey-rt/-rt-2011 — вынесен через variant_of; ранее R/T ошибочно был единственным узлом на всё поколение. Источники: carsdirect.com, cars.com, edmunds.com."
+    },
+    {
+      "id": "dodge-nitro",
+      "label": "Nitro",
+      "fullName": "Dodge Nitro SXT",
+      "type": "generation",
+      "year": 2007,
+      "brandId": "dodge",
+      "brandName": "Dodge",
+      "codeName": "KA Nitro",
+      "modelSlug": "dodge-nitro",
+      "bodyType": "suv",
+      "segment": "compact_suv",
+      "zone": "suv_compact",
+      "hp": 210,
+      "engineType": "petrol_v6",
+      "engineCC": 3700,
+      "note": "Единственное поколение KA (2007-2011/2012), на платформе Jeep KK (общая с Jeep Liberty). Базовый трим на старте (SXT): 3.7L V6, 210 л.с./235 lb-ft — четырёхцилиндровой версии не было вообще. Топ-трим R/T (4.0L V6, 260hp) — см. dodge-nitro-rt — вынесен через variant_of; ранее R/T ошибочно был единственным узлом на всё поколение. Источники: cars.com, carfax.com, thecarconnection.com."
+    },
+    {
+      "id": "ram-promaster-city-1",
+      "label": "Ram ProMaster City (2015)",
+      "year": 2015,
+      "brandId": "ram",
+      "brandName": "Ram",
+      "modelSlug": "ram-promaster-city",
+      "familyKey": "ram-promaster-city",
+      "type": "generation",
+      "bodyType": "van",
+      "segment": "commercial",
+      "zone": "pickup",
+      "hp": 178,
+      "engineType": "i4",
+      "note": "Ребейдж Fiat Doblò — компактный коммерческий фургон, 2.4L Tigershark I4 178лс/174 lb-ft, 9-ст. АКПП, колёсная база 122.4in. Снят с продаж в 2022г. Преемник — возрождённая ProMaster City (2027) на другой платформе (см. evolves_into)."
+    },
+    {
+      "id": "ram-promaster-ev",
+      "label": "Ram ProMaster EV (2024)",
+      "year": 2024,
+      "brandId": "ram",
+      "brandName": "Ram",
+      "modelSlug": "ram-promaster",
+      "familyKey": "ram-promaster",
+      "type": "generation",
+      "bodyType": "van",
+      "segment": "commercial",
+      "zone": "pickup",
+      "hp": 268,
+      "engineType": "ev",
+      "note": "Первый серийный электрофургон Ram — тот же кузов/поколение, что и ICE ProMaster (2014, донор Fiat Ducato), электропривод передних колёс, 110кВтч батарея (с 2025 м.г.), до 162 миль (260км) запаса хода WLTP-подобного цикла. Источники: electrek.com, kbb.com, autoblog.com (2025-2026)."
+    },
+    {
+      "id": "citroen-ami-electric",
+      "label": "Ami (2020)",
+      "type": "generation",
+      "year": 2020,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "modelSlug": "citroen-ami-electric",
+      "familyKey": "citroen-ami-electric",
+      "bodyType": "microcar",
+      "segment": "micro",
+      "zone": "hatchback",
+      "hp": 8,
+      "engineType": "ev",
+      "note": "Безлицензионный электроквадрицикл (мотор 6кВт/8лс, батарея 5.5кВтч, ~75км WMTC, макс. 45км/ч) — возрождение нейма Ami спустя 59 лет, НЕ новое поколение седана Ami 6 (1961): иной класс ТС, нет инженерной преемственности. Источники: Wikipedia \"Citroën Ami (electric vehicle)\", drivingelectric.com — мощность перепроверена вторым поиском (автомобиль-catalog давал расходящиеся 9кВт/12лс — отклонено как менее достоверное, 3 независимых источника сходятся на 6кВт/8лс)."
+    },
+    {
+      "id": "citroen-ds3-wrc",
+      "label": "DS3 WRC",
+      "fullName": "Citroën DS3 WRC",
+      "type": "generation",
+      "year": 2011,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "codeName": "WRC",
+      "modelSlug": "citroen-ds3-wrc",
+      "familyKey": "citroen-ds3",
+      "bodyType": "hatchback",
+      "segment": "racing",
+      "zone": "racing",
+      "hp": 300,
+      "engineType": "i4t",
+      "isRacing": true,
+      "note": "Преемник C4 WRC в чемпионате (новый регламент WRC-2011: специально спроектированный турбо-1.6 вместо атмо-2.0 на базе серийного блока; 220кВт/300лс). На базе дорожной DS3 (2009) — ещё под брендом Citroën, DS Automobiles отделился только в 2014-2015 (та же логика, что у ds3/ds4/ds5 в этом кластере). 2 титула производителей и 2 титула пилотов Лёба подряд (2011-2012), включая рекордный 9-й подряд личный титул в 2012г. Источники: Wikipedia Citroën DS3 WRC, ultimatecarpage.com."
+    },
+    {
+      "id": "citroen-c5-aircross-2",
+      "label": "C5 Aircross Gen.2",
+      "type": "generation",
+      "year": 2025,
+      "brandId": "citroen",
+      "brandName": "Citroën",
+      "modelSlug": "citroen-c5-aircross-gen2",
+      "familyKey": "citroen-c5-aircross",
+      "bodyType": "suv",
+      "segment": "suv_mid",
+      "zone": "suv_mid",
+      "hp": 225,
+      "engineType": "phev",
+      "note": "Второе поколение (продажи в Европе со 2П 2025) — новая платформа STLA Medium (Stellantis) взамен EMP2 у Gen.1. Линейка: гибрид 145лс (1.2 турбо-3 + e-DCS, 0.9кВтч), PHEV 225лс (1.6 турбо-4 + мотор 125лс, ~86-100км электрозапас), позже добавлена электроверсия. Указан топ-PHEV для сопоставимости с Gen.1 (тоже 225, ранее неточно \"hybrid\" вместо \"phev\"). Источники: media.stellantis.com, parkers.co.uk, auto-data.net — проверено 2026-10-21."
+    },
+    {
+      "id": "ncs-ford-2027-mustang-mach-e-trail",
+      "label": "Mustang Mach-E Trail",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "ford",
+      "brandName": "Ford",
+      "codeName": "2027",
+      "modelSlug": "ford-mustang-mach-e-trail",
+      "bodyType": "suv",
+      "segment": "other",
+      "zone": "electric",
+      "heroImageUrl": "https://www.netcarshow.com/Ford-Mustang_Mach-E_Trail-2027-wallpaper.jpg",
+      "thumbnailUrl": "https://www.netcarshow.com/R/Ford-Mustang_Mach-E_Trail-2027-thb.jpg",
+      "description": "Mustang Mach-E Trail features specially tuned suspension with front and rear passive struts and springs, providing additional ride height compared with Mustang Mach-E...",
+      "sourceUrl": "https://www.netcarshow.com/ford/2027-mustang_mach-e_trail/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-22T20:04:02.949Z",
+      "engineType": "ev",
+      "note": "Пакет Trail ($2295) только для Select eAWD 2027 МГ: +10/15 мм клиренса, рулевая рейка и 19\" диски от Rally, шины CrossClimate 2, розетки Pro Power 400W. Ориентирован на грунтовки, а не на ралли. Источник: motor1, electrive, KBB (окт. 2026)."
+    },
+    {
+      "id": "fiat-ducato-3",
+      "label": "Fiat Ducato Gen.3",
+      "fullName": "Fiat Ducato Gen.3",
+      "type": "generation",
+      "year": 2006,
+      "brandId": "fiat",
+      "brandName": "Fiat",
+      "codeName": "X250",
+      "modelSlug": "fiat-ducato",
+      "bodyType": "van",
+      "segment": "commercial",
+      "zone": "pickup",
+      "hp": 180,
+      "engineType": "i4t",
+      "note": "Третье поколение Ducato (платформа X250, дебют сент.2006 как MY2007, выпускается по наст. время) — крупный коммерческий фургон. С мая 2014 (MY2014) поставляется в США/Канаду как Ram ProMaster (см. rebadged_as) — тот же кузов/платформа, адаптация под Северную Америку: усиленная подвеска под дороги NAFTA, другая решётка/фары, эксклюзивный для Ram мотор 3.6L Pentastar V6 284лс (в Европе не предлагался) вместо дизелей. Дизель Iveco/Sofim F1C Multijet 2.0-3.0L, 100-180лс (указан топ). Электроверсия E-Ducato — с апр.2021 (47/79кВтч, 90кВт/120лс), обновлена в рамках фейслифта окт.2023/MY2024 до 110кВтч/200кВт/270лс — идентичный пакет у Ram ProMaster EV (2024): тот же кузов/поколение, связь через уже существующее ребро ram-promaster-1→ram-promaster-ev (variant_of), отдельное кросс-брендовое ребро для EV не добавляю. Источники: en.wikipedia.org (Fiat Ducato, Ram ProMaster), promasterforum.com, news.ycombinator.com, autoevolution.com, insideevs.com, electrive.com — проверено веб-поиском окт.2026."
+    },
+    {
+      "id": "fiat-doblo-2",
+      "label": "Fiat Doblò Gen.2",
+      "fullName": "Fiat Doblò Gen.2",
+      "type": "generation",
+      "year": 2010,
+      "brandId": "fiat",
+      "brandName": "Fiat",
+      "codeName": "Type 263",
+      "modelSlug": "fiat-doblo",
+      "bodyType": "van",
+      "segment": "commercial",
+      "zone": "pickup",
+      "hp": 135,
+      "engineType": "i4t",
+      "note": "Второе поколение Doblò (Type 263, дебют дек.2009/нач.2010) — компактный коммерческий фургон. С MY2015 поставлялся в США/Канаду как Ram ProMaster City (см. rebadged_as) — тот же кузов/платформа Doblò (донор — именно фейслифт 2015г.: новая приборная панель, фары, решётка), эксклюзивный для NA мотор 2.4L Tigershark I4 179лс (в Европе не предлагался) вместо дизелей, сборка на заводе Tofaş в Турции. Дизель Multijet 1.3-2.0L, 90-135лс (указан топ). Doblò снят с продаж в Европе в сент.2022; синхронно Ram прекратил ProMaster City после MY2022. Важно: возрождённая в 2027г. ProMaster City — это НЕ ребейдж Doblò: новая генерация построена на другой, более крупной платформе Stellantis, общей с Citroën Jumpy/Dispatch, Peugeot Expert, Fiat Scudo, Toyota Proace (см. уже существующую note на ram-promaster-city-2, независимо подтверждено). Само третье поколение Doblò (2022, платформа K9) тоже сменило архитектуру — но на ребейдж Citroën Berlingo, и к ProMaster City отношения не имеет. Источники: en.wikipedia.org (Fiat Doblò, Ram ProMaster City), greencarcongress.com, jalopnik.com, kbb.com, autos.yahoo.com, foxnews.com, universe.byu.edu — проверено веб-поиском окт.2026."
+    },
+    {
+      "id": "ncs-bmw-2027-i7",
+      "label": "i7 G70 LCI",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "codeName": "G70e LCI",
+      "modelSlug": "bmw-i7",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "zone": "electric",
+      "heroImageUrl": "https://www.netcarshow.com/BMW-i7-2027-wallpaper.jpg",
+      "thumbnailUrl": "https://www.netcarshow.com/R/BMW-i7-2027-thb.jpg",
+      "description": "2027 BMW 7-Series represents the most extensive model update ever undertaken by BMW. The BMW i7 captures the range's forward-looking premium character with particular flair...",
+      "sourceUrl": "https://www.netcarshow.com/bmw/2027-i7/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-25T20:04:01.414Z",
+      "fullName": "BMW i7 (G70 LCI)",
+      "hp": 449,
+      "engineType": "ev",
+      "isFacelift": true,
+      "note": "Рестайлинг i7 (G70) — «самое масштабное обновление модели в истории BMW» по словам компании, представлен 22 апреля 2026, продажи с лета 2026 как 2027 МГ. Батарея на цилиндрических ячейках 6-го поколения (112.5 кВтч полезно), DC-зарядка до 250 кВт, запас хода до 728 км. Версии i7 50 xDrive 449 л.с. (в hp), 60 xDrive 536 л.с., M70 xDrive 680 л.с. Источник: autoevolution.com, bmwblog.com, Wikipedia (2026)."
+    },
+    {
+      "id": "ncs-nissan-2027-pathfinder-special-edition",
+      "label": "Nissan Pathfinder Special Edition",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "nissan",
+      "brandName": "Nissan",
+      "codeName": "2027",
+      "modelSlug": "nissan-pathfinder-special-edition",
+      "bodyType": "suv",
+      "segment": "mid_suv",
+      "zone": "suv_mid",
+      "heroImageUrl": "https://www.netcarshow.com/Nissan-Pathfinder_Special_Edition-2027-wallpaper.jpg",
+      "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Pathfinder_Special_Edition-2027-thb.jpg",
+      "description": "Intended to celebrate the nameplate's 40th year in the marketplace, the Nissan Pathfinder Special Edition pays homage to the first-generation Pathfinder...",
+      "sourceUrl": "https://www.netcarshow.com/nissan/2027-pathfinder_special_edition/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-26T14:03:53.991Z",
+      "hp": 284,
+      "engineType": "v6",
+      "isLimited": true,
+      "note": "Юбилейная версия к 40-летию Pathfinder: бордово-чёрный салон в честь оригинала 1987 г., 20\" чёрные диски. 3.5 V6 284hp. От $47 390, продажи с ноября 2026. Источник: nissannews, KBB."
+    },
+    {
+      "id": "ncs-lexus-2027-lexus-rz",
+      "label": "Lexus RZ (2027)",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "lexus",
+      "brandName": "Lexus",
+      "codeName": "2027",
+      "modelSlug": "lexus-lexus-rz",
+      "bodyType": "suv",
+      "segment": "other",
+      "zone": "electric",
+      "heroImageUrl": "https://electrek.co/wp-content/uploads/sites/3/2025/11/New-Lexus-RZ-prices.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "thumbnailUrl": "https://electrek.co/wp-content/uploads/sites/3/2025/11/New-Lexus-RZ-prices.jpeg?quality=82&#038;strip=all&#038;w=1400",
+      "description": "The 2027 Lexus RZ will begin arriving at dealerships early next year, with prices starting at under $50,000. <a data-layer-pagetype=\"post\" data-layer-pos",
+      "sourceUrl": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-26T20:04:03.022Z",
+      "engineType": "ev",
+      "hp": 221,
+      "note": "Обновлённый RZ 2027 МГ: RZ 350e FWD 221hp/79.6 кВтч до 301 мили (указан), RZ 450e AWD 308hp, RZ 550e F Sport 402hp. От $47 495. Платформа e-TNGA, общая с Toyota bZ4X. Источник: electrek, carbuzz (окт. 2026)."
+    },
+    {
+      "id": "ncs-astonmartin-2028-valhalla-spider",
+      "label": "Aston Martin Valhalla Spider",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "astonmartin",
+      "brandName": "Aston Martin",
+      "codeName": "2028",
+      "modelSlug": "astonmartin-valhalla-spider",
+      "bodyType": "roadster",
+      "segment": "supercar",
+      "zone": "hypercar",
+      "hp": 1079,
+      "engineType": "v8h",
+      "heroImageUrl": "https://www.netcarshow.com/Aston_Martin-Valhalla_Spider-2028-wallpaper.jpg",
+      "thumbnailUrl": "https://www.netcarshow.com/R/Aston_Martin-Valhalla_Spider-2028-thb.jpg",
+      "description": "Aston Martin Valhalla Spider shares the same 1079PS and 1100Nm of torque plug-in hybrid powertrain as Valhalla Coupe. Central to this is the 828PS 4.0-litre twin-turbo V8 engine.",
+      "sourceUrl": "https://www.netcarshow.com/aston_martin/2028-valhalla_spider/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-28T02:04:01.405Z"
+    },
+    {
+      "id": "lr-rrs-electric",
+      "label": "Range Rover Sport Electric",
+      "fullName": "Range Rover Sport Electric",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "land-rover",
+      "brandName": "Land Rover",
+      "codeName": "L461 EV",
+      "modelSlug": "land-rover-range-rover-sport",
+      "bodyType": "suv",
+      "segment": "luxury_suv",
+      "zone": "electric",
+      "hp": 542,
+      "engineType": "ev",
+      "note": "Второй электромобиль Range Rover — электрическая версия текущего поколения Range Rover Sport (L461, платформа MLA-Flex, общая с Range Rover Electric). Прототип показан на Goodwood FoS 16 июля 2026, полная премьера — октябрь 2026. Два мотора, полный привод, 542 л.с./627 фунт-фут, батарея 119 кВтч, 0-60 миль/ч за 4.3с, WLTP ~378 миль, активные стабилизаторы, подруливающая задняя ось. Год 2027 — старт продаж (в США идёт как 2028 модельный год). Источник: robbreport.com, wardsauto.com, automotiveaddicts.com (2026)."
+    },
+    {
+      "id": "volvo-xc60-2-fl",
+      "label": "Volvo XC60 Gen2 Facelift (2027)",
+      "fullName": "Volvo XC60 Gen2 Facelift",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "volvo",
+      "brandName": "Volvo",
+      "modelSlug": "volvo-xc60-2",
+      "familyKey": "volvo-xc60",
+      "bodyType": "suv",
+      "segment": "exec",
+      "zone": "suv_mid",
+      "hp": 455,
+      "engineType": "phev",
+      "isFacelift": true,
+      "note": "Крупное обновление 2-го поколения XC60 (не новое поколение) — представлено в сентябре 2026 вместе с обновлённым XC90. Новые решётка, бампер, капот, передние крылья, переосмысленные ДХО «Молот Тора», Gemini AI в салоне. Главное — новый T8 PHEV: 2.0 турбо + более мощный электромотор и батарея 37.9 кВтч, 455 л.с./523 фунт-фут, 0-60 за 4.5с, до 78 миль на электричестве (рекорд среди PHEV в США). Год 2027 — старт продаж в начале 2027 (в США — 2028 модельный год). Источник: motor1.com, autoblog.com, tflcar.com (2026)."
+    },
+    {
+      "id": "smart-2",
+      "label": "Smart #2 (2027)",
+      "fullName": "Smart #2",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "smart",
+      "brandName": "Smart",
+      "modelSlug": "smart-2",
+      "bodyType": "microcar",
+      "segment": "micro",
+      "zone": "hatchback",
+      "hp": 80,
+      "engineType": "ev",
+      "note": "Возвращение двухместного сити-кара Smart — духовный наследник Fortwo (производство W453 завершено в 2024). Премьера — Парижский автосалон, 12 октября 2026; продажи в Европе — 1-е полугодие 2027. Дизайн Mercedes, новая платформа Electric Compact Architecture (ECA) СП Mercedes/Geely, сборка в Китае. Задний мотор 80 л.с./130 Нм, LFP 35.8 кВтч, WLTP до 290 км, длина 2746 мм, масса 1140 кг, цена от ~20 000 евро. Источник: motor1.com, carscoops.com, autoevolution.com (2026)."
+    },
+    {
+      "id": "hyu-ioniq3",
+      "label": "IONIQ 3 (2026)",
+      "fullName": "Hyundai IONIQ 3",
+      "type": "generation",
+      "year": 2026,
+      "brandId": "hyundai",
+      "brandName": "Hyundai",
+      "modelSlug": "hyundai-ioniq-3",
+      "familyKey": "hyu-ioniq3",
+      "bodyType": "hatchback",
+      "segment": "mainstream",
+      "zone": "electric",
+      "hp": 147,
+      "engineType": "ev",
+      "note": "Компактный электрохэтчбек (B/C-сегмент) для Европы — новая модель, представлена в апреле 2026 (Milan Design Week), производство в Турции с августа 2026. Платформа E-GMP в 400-вольтовом исполнении. Мощность 133-147 л.с. (в hp указана версия Standard Range), WLTP 344-496 км. Источник: motor1.com, topgear.com.ph, Wikipedia (2026)."
+    },
+    {
+      "id": "hyu-bayon-1",
+      "label": "Bayon BC3 (2021)",
+      "fullName": "Hyundai Bayon",
+      "type": "generation",
+      "year": 2021,
+      "brandId": "hyundai",
+      "brandName": "Hyundai",
+      "codeName": "BC3 CUV",
+      "modelSlug": "hyundai-bayon",
+      "familyKey": "hyu-bayon",
+      "bodyType": "suv",
+      "segment": "mainstream",
+      "zone": "suv_compact",
+      "hp": 100,
+      "engineType": "i3t",
+      "note": "Первое поколение Bayon — городской кроссовер B-сегмента для Европы на базе i20 (BC3), представлен в марте 2021. Базовый мотор 1.0 T-GDi 100 л.с. (опорное значение), также 1.0 T-GDi 48V mild hybrid 120 л.с. и атмосферный 1.2. Добавлен как предшественник Bayon 2-го поколения (2027). Источник: Wikipedia, hyundai.news."
+    },
+    {
+      "id": "hyu-bayon-2",
+      "label": "Bayon Gen.2 (2027)",
+      "fullName": "Hyundai Bayon",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "hyundai",
+      "brandName": "Hyundai",
+      "modelSlug": "hyundai-bayon",
+      "familyKey": "hyu-bayon",
+      "bodyType": "suv",
+      "segment": "mainstream",
+      "zone": "suv_compact",
+      "hp": 115,
+      "engineType": "i3t",
+      "note": "Полностью новое 2-е поколение (не рестайлинг) — мировая премьера на Парижском автосалоне в октябре 2026, продажи — 2027. Длиннее на 65 мм (4245 мм) и шире на 35 мм, более угловатый «внедорожный» дизайн, два изогнутых экрана 12.3\", Digital Key 2.0. На старте 1.0 T-GDi 90/115 л.с. (в hp — топ), в 2027 добавится первый полный гибрид 1.6 HEV 138 л.с. Источник: motor1.com, autoevolution.com (2026)."
+    },
+    {
+      "id": "lancia-gamma-2026",
+      "label": "Lancia Gamma (2026)",
+      "fullName": "Lancia Gamma",
+      "type": "generation",
+      "year": 2026,
+      "brandId": "lancia",
+      "brandName": "Lancia",
+      "modelSlug": "lancia-gamma",
+      "bodyType": "suv",
+      "segment": "exec",
+      "zone": "suv_mid",
+      "hp": 375,
+      "engineType": "ev",
+      "note": "Новый флагман возрождённой Lancia — кроссовер-фастбэк на платформе Stellantis STLA Medium (та же, что у Peugeot 3008/e-3008 III и DS No.7), производство в Мельфи. Премьера — май 2026, заказы с осени 2026. Гибрид 145 л.с. и электроверсии 230/245/375 л.с. (в hp — топовая AWD), запас хода до 740 км. Имя Gamma возрождено (оригинальная Gamma 1976-1984 в графе отсутствует). Источник: carscoops.com, arenaev.com, Wikipedia (2026)."
+    },
+    {
+      "id": "infiniti-qx65",
+      "label": "QX65",
+      "fullName": "Infiniti QX65",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "infiniti",
+      "brandName": "Infiniti",
+      "modelSlug": "infiniti-qx65",
+      "familyKey": "infiniti-qx60",
+      "bodyType": "suv",
+      "segment": "exec",
+      "zone": "suv_large",
+      "hp": 268,
+      "engineType": "i4t",
+      "note": "Двухрядный кросс-купе («фастбэк») на базе QX60 2-го поколения — та же платформа и тот же 2.0 VC-Turbo 268 л.с./286 фунт-фут, 9АКПП, полный привод стандартно. Отличие — покатая крыша и только 2 ряда сидений. Представлен в 2026 как 2027 модельный год, продажи с лета 2026. Структурно аналог пары QX50→QX55 (derived_from). Источник: motor1.com, usa.infinitinews.com (2026)."
+    },
+    {
+      "id": "byd-tang-l",
+      "label": "BYD Tang L / Atto 8",
+      "fullName": "BYD Tang L (экспорт: Atto 8)",
+      "type": "generation",
+      "year": 2025,
+      "brandId": "byd",
+      "brandName": "BYD",
+      "modelSlug": "byd-tang-l",
+      "bodyType": "suv",
+      "segment": "large_suv",
+      "zone": "suv_large",
+      "hp": 764,
+      "engineType": "ev",
+      "note": "Флагманский 7-местный SUV на 1000-вольтовой Super e-Platform (в Китае — Tang L, с 2025). Экспортная электроверсия Atto 8 представлена на Парижском автосалоне в октябре 2026, продажи в Европе — 1 кв. 2027: заднеприводная 456 л.с. и полноприводная 764 л.с. (в hp), батарея Blade 2.0 115 кВтч, зарядка 10-97% за 9 минут (Flash Charging), WLTP до 653 км. Год 2025 — старт Tang L в Китае. Источник: carnewschina.com, electrek.co, Wikipedia (2026)."
+    },
+    {
+      "id": "porsche-mission-s",
+      "label": "Porsche Mission S",
+      "fullName": "Porsche Mission S Concept",
+      "type": "generation",
+      "year": 2026,
+      "brandId": "porsche",
+      "brandName": "Porsche",
+      "modelSlug": "porsche-mission-s",
+      "bodyType": "coupe",
+      "segment": "hypercar",
+      "zone": "concept",
+      "engineType": "unknown",
+      "isConcept": true,
+      "note": "Дизайн-концепт среднемоторного суперкара, представлен 15 октября 2026 в Нью-Йорке (Квинс). Предвещает новую ПОСТОЯННУЮ серийную линейку над 911 (ориентировочно 2029 модельный год). Отсылки: круглые фары 911, нос 911 GT1, крыша 959, горизонтальный вентилятор как у 917; аналоговый салон без центрального экрана. Силовая установка не раскрыта — по словам CEO Михаэля Ляйтерса, электроверсии не будет (ДВС/гибрид/PHEV). Источник: robbreport.com, edmunds.com, octane-magazine.com (2026)."
+    },
+    {
+      "id": "ncs-bmw-2027-i3",
+      "label": "BMW i3",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "codeName": "NA0",
+      "modelSlug": "bmw-i3",
+      "bodyType": "sedan",
+      "segment": "premium_compact",
+      "zone": "electric",
+      "heroImageUrl": "https://www.netcarshow.com/BMW-i3-2027-wallpaper.jpg",
+      "thumbnailUrl": "https://www.netcarshow.com/R/BMW-i3-2027-thb.jpg",
+      "description": "As a representative of the new design language, the new BMW i3 is immediately recognisable as a BMW 3-Series - assured, dynamic and intelligent.",
+      "sourceUrl": "https://www.netcarshow.com/bmw/2027-i3/",
+      "isLatest": true,
+      "scrapedAt": "2026-10-22T14:04:07.579Z",
+      "hp": 463,
+      "engineType": "ev",
+      "note": "Дубль уже отслеживаемого и связанного ncs-bmw-2027-bmw-i3 (\"i3 (NA0)\") — тот же электроседан на платформе Neue Klasse (463 л.с., 50 xDrive), другая статья netcarshow. Ребро не добавлено (повторная запись той же модели). Исправлен тот же bodyType-баг (coupe→sedan), что и на сиблинге в прошлом прогоне."
+    },
+    {
+      "id": "alfa-romeo-stelvio-2",
+      "label": "Stelvio (2028)",
+      "fullName": "Alfa Romeo Stelvio (2-е поколение)",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "alfa-romeo",
+      "brandName": "Alfa Romeo",
+      "codeName": "STLA Large",
+      "modelSlug": "alfa-romeo-stelvio-2",
+      "familyKey": "alfa-stelvio",
+      "bodyType": "suv",
+      "segment": "exec",
+      "zone": "suv_mid",
+      "hp": 480,
+      "engineType": "phev",
+      "note": "Полностью новое 2-е поколение Stelvio — впервые на платформе Stellantis STLA Large (не эволюция родной Giorgio), общей с новой Giulia. CEO Alfa Romeo Санто Фичили подтвердил перенос запуска на 2028 г. (изначально планировался electric-only запуск в 2027-м, затем отказались от EV-only стратегии). Стартовый ДВС — турбо-четвёрка Hurricane 2.0 (Stellantis) в PHEV-исполнении, 300 л.с. на моторе + суммарная целевая отдача гибридной системы 450-480 л.с. (в hp — верхняя оценка); отдельно заявлен полностью электрический Quadrifoglio с тремя моторами (оценочно 600-700+ л.с.). Платформа поддерживает 400В и 800В архитектуру, батареи 85-118 кВтч, запас хода до 800 км WLTP. Точные финальные цифры производства по состоянию на конец окт. 2026 ещё не раскрыты официально — hp ориентировочный. Источник: carscoops.com, carexpert.com.au, allmotornews.com (2026)."
+    },
+    {
+      "id": "ram-ramcharger-suv",
+      "label": "Ram Ramcharger (2028)",
+      "fullName": "Ram Ramcharger SUV",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "ram",
+      "brandName": "Ram",
+      "modelSlug": "ram-ramcharger-suv",
+      "familyKey": "ram-1500",
+      "bodyType": "suv",
+      "segment": "suv_large",
+      "zone": "suv_large",
+      "hp": 395,
+      "engineType": "v8",
+      "note": "Возрождение классического имени Ramcharger (SUV на базе пикапа, выпускался 1974-1993) — новый полноразмерный 3-рядный внедорожник на платформе Ram 1500, подтверждён на Investor Day Stellantis в 2026 г., старт производства — 2028 модельный год. Базовый мотор — атмосферный HEMI 5.7 V8 395 л.с. (в hp, как у ram-1500-6), опционально HEMI 6.4 V8 ~470 л.с.; уже подтверждена топовая версия SRT с наддувным 6.2 Hellcat V8 (~777 л.с./680 фунт-фут). Также заявлена версия с удлинённым запасом хода (range-extender/EREV) — отдельная модель от уже выпускаемого пикапа Ram 1500 Ramcharger EREV (старт продаж в 2026-м, в графе пока не отслеживается отдельно). Источник: insideevs.com, motor1.com, hotcars.com, autoguide.com (2026)."
+    },
+    {
+      "id": "gmc-hummer-ev-suv",
+      "label": "GMC Hummer EV SUV",
+      "fullName": "GMC Hummer EV SUV",
+      "type": "generation",
+      "year": 2024,
+      "brandId": "gmc",
+      "brandName": "GMC",
+      "codeName": "Hummer EV SUV / BT1 (Ultium)",
+      "modelSlug": "gmc-hummer-ev-suv",
+      "familyKey": "gmc-hummer",
+      "bodyType": "suv",
+      "segment": "suv_large",
+      "zone": "suv_large",
+      "hp": 830,
+      "engineType": "ev",
+      "note": "Отдельный от пикапа 5-местный (2-рядный) внедорожный кузов на той же платформе Ultium/BT1 — первые поставки начались в начале 2024 (MY2024), вслед за пикапом (2021/2022). Версии: 2X (2 мотора, 625 л.с.) и 3X (3 мотора, 830 л.с./11500 фунт-фут, в hp — топ), запас хода 298-314 миль. В отличие от пикапа, для SUV производитель официально не заявлял форсированный режим «1000 л.с.» (WTF) — максимум серийной версии 830 л.с. Кандидат из скрейпа был датирован 2027 г. (рутинная статья о модельном обновлении), но сама модель на рынке с 2024-го — год в узле соответствует реальному старту продаж. Источник: Wikipedia (GMC Hummer EV), gmauthority.com, cars.usnews.com, truecar.com."
+    },
+    {
+      "id": "cadillac-escalade-v-collector",
+      "label": "Escalade-V Collector Series",
+      "fullName": "Cadillac Escalade-V 125th Anniversary Collector Series",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "cadillac",
+      "brandName": "Cadillac",
+      "codeName": "Escalade-V 125th Anniversary / T1XX",
+      "modelSlug": "cadillac-escalade-v-collector",
+      "familyKey": "cadillac-escalade",
+      "bodyType": "suv",
+      "segment": "luxury_performance",
+      "zone": "suv_large",
+      "hp": 682,
+      "engineType": "v8s",
+      "isLimited": true,
+      "note": "Лимитированная серия (252 экз.) в честь 125-летия Cadillac, представлена в окт. 2026 как модель 2027 г. Механически идентична базовой Escalade-V (тот же наддувный 6.2 V8 R2650, 682 л.с./653 фунт-фут, hp не меняется) — отличия чисто косметические: эксклюзивные цвета кузова (Midnight Stone Frost/Vibrant White Tricoat), 24\" кованые диски, синие суппорты, карбоновая отделка, именная табличка с номером, выбор VIN/серийного номера. Цена от $239 000. Источник: news.cadillac.com, gmauthority.com, carscoops.com, kbb.com (окт. 2026)."
+    },
+    {
+      "id": "volvo-xc40-1-fl",
+      "label": "Volvo XC40 Facelift (2028)",
+      "fullName": "Volvo XC40 Facelift",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "volvo",
+      "brandName": "Volvo",
+      "modelSlug": "volvo-xc40",
+      "familyKey": "volvo-xc40",
+      "bodyType": "suv",
+      "segment": "compact",
+      "zone": "suv_compact",
+      "hp": 247,
+      "engineType": "i4t",
+      "isFacelift": true,
+      "note": "Крупный рестайлинг 1-го поколения XC40 (не новая платформа/не новое поколение) — выход в начале 2027 как модель 2028 г. (модельный год 2027 пропущен). Новая передняя/задняя оптика (утончённый «Молот Тора»), вертикальный экран 11.2\" (было 9\"), Google-интеграция с Gemini AI. Вся линейка переходит на единый турбо 2.0 mild-hybrid (был опциональным для 2026 г.) — для AWD-версии 247 л.с./258 фунт-фут (в hp, аналог прежнего B5); более слабый 194-сильный мотор снят с производства. Чисто электрическая версия этого кузова продаётся отдельно как Volvo EX40 (уже в графе, volvo-ex40-1). Источник: kbb.com, edmunds.com, cars.usnews.com, carbuzz.com (2026)."
+    },
+    {
+      "id": "bmw-m760-g70-lci",
+      "label": "M760 xDrive (G70 LCI)",
+      "fullName": "BMW M760 xDrive (G70 LCI)",
+      "codeName": "G70 LCI M760",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "bmw",
+      "brandName": "BMW",
+      "modelSlug": "bmw-7-series",
+      "bodyType": "sedan",
+      "segment": "luxury",
+      "zone": "flagship_sed",
+      "hp": 570,
+      "engineType": "v8t",
+      "note": "Возврат V8 во флагманский 7-series — часть большого рестайлинга G70 (LCI), представленного в окт. 2026 вместе с i7 LCI (см. ncs-bmw-2027-i7). M760 xDrive сменяет 760i xDrive (536 л.с., I6 mild-hybrid) в роли топовой ДВС-версии: твин-турбо V8 4.4, 570 л.с. (в hp). Остальная ДВС-линейка LCI: 735i 282 л.с. (RWD, часть рынков), 740 xDrive 394 л.с. (I6 mild-hybrid), 750e xDrive PHEV 483 л.с. комбинированно, M760e PHEV 603 л.с./800 Нм. Источник: bmwblog.com, motor1.com (окт. 2026)."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "subcompact",
+      "id": "kia-rio-1",
+      "label": "Rio I (2000)",
+      "fullName": "Kia Rio I (DC)",
+      "year": 2000,
+      "codeName": "DC",
+      "modelSlug": "kia-rio",
+      "familyKey": "kia-rio",
+      "bodyType": "hatchback",
+      "zone": "hatchback",
+      "hp": 96,
+      "engineType": "i4",
+      "note": "Первое поколение Rio — заменило сразу две модели: Pride (лицензионный Ford Festiva) и Avella. Седан и универсал/хэтчбек Rio Cinco, моторы 1.3/1.5/1.6 (75-104hp); указан 1.5 96hp. Источник: Wikipedia, cars-data.com."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "mainstream",
+      "id": "kia-cerato-1",
+      "label": "Cerato / Spectra (2003)",
+      "fullName": "Kia Cerato / Spectra (LD)",
+      "year": 2003,
+      "codeName": "LD",
+      "modelSlug": "kia-k4",
+      "familyKey": "kia-k4",
+      "bodyType": "sedan",
+      "zone": "midsize_sed",
+      "hp": 141,
+      "engineType": "i4",
+      "note": "Первая Cerato (в Сев. Америке — Spectra/Spectra5 с 2004 МГ), платформа общая с Hyundai Elantra XD, моторы Beta II. Диапазон 1.5-2.0 (101-141hp); указан 2.0. Сменила Sephia/Spectra, сменена Forte/Cerato TD (2008). Источник: Wikipedia, automobile-catalog.com."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "mainstream",
+      "id": "kia-optima-ms",
+      "label": "Optima I (2000)",
+      "fullName": "Kia Optima / Magentis I (MS)",
+      "year": 2000,
+      "codeName": "MS",
+      "modelSlug": "kia-k5",
+      "familyKey": "kia-k5",
+      "bodyType": "sedan",
+      "zone": "exec_sed",
+      "hp": 169,
+      "engineType": "v6",
+      "note": "Первая Optima (вне США — Magentis) — по сути перелицованная Hyundai Sonata EF. Моторы 1.8/2.0 I4 (131-147hp) и 2.5/2.7 V6; указан 2.5 V6 169hp. Источник: Wikipedia (Kia K5), automobile-catalog.com."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "mainstream",
+      "id": "kia-optima-mg",
+      "label": "Optima II / Magentis (2005)",
+      "fullName": "Kia Optima II / Magentis / Lotze (MG)",
+      "year": 2005,
+      "codeName": "MG",
+      "modelSlug": "kia-k5",
+      "familyKey": "kia-k5",
+      "bodyType": "sedan",
+      "zone": "exec_sed",
+      "hp": 185,
+      "engineType": "v6",
+      "note": "Второе поколение (в Корее — Lotze, в мире — Magentis), запуск ноябрь 2005, платформа Hyundai Sonata NF. I4 2.0/2.4 и V6 2.5/2.7; указан 2.7 V6 185hp (после рестайлинга 2008 — до 193hp). Источник: Wikipedia (Kia Magentis), automobile-catalog.com."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "luxury",
+      "id": "kia-k9-1",
+      "label": "K9 / Quoris (2012)",
+      "fullName": "Kia K9 / Quoris / K900 (KH)",
+      "year": 2012,
+      "codeName": "KH",
+      "modelSlug": "kia-k9",
+      "familyKey": "kia-k9",
+      "bodyType": "sedan",
+      "zone": "flagship_sed",
+      "hp": 334,
+      "engineType": "v6",
+      "note": "Заднеприводный флагман на платформе Hyundai Genesis BH. На старте — V6 3.3 (300hp) и 3.8 (334hp, указан как основной); 5.0 V8 Tau (420hp) добавлен в 2014 и стал единственным мотором K900 в США. Источник: Wikipedia, automobile-catalog.com."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "luxury",
+      "id": "kia-k9-2",
+      "label": "K9 / K900 II (2018)",
+      "fullName": "Kia K9 / K900 II (RJ)",
+      "year": 2018,
+      "codeName": "RJ",
+      "modelSlug": "kia-k9",
+      "familyKey": "kia-k9",
+      "bodyType": "sedan",
+      "zone": "flagship_sed",
+      "hp": 365,
+      "engineType": "v6t",
+      "note": "2-е поколение. В Корее V6 3.8 (315hp), V6 3.3 twin-turbo (365hp) и V8 5.0; в США K900 — только 3.3TT 365hp (указан), V8 убран. Продажи в США свернуты после 2020 МГ. Источник: Wikipedia, KBB, MotorWeek."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "mainstream",
+      "id": "kia-tasman",
+      "label": "Kia Tasman (2025)",
+      "fullName": "Kia Tasman",
+      "year": 2025,
+      "codeName": "TK",
+      "modelSlug": "kia-tasman",
+      "familyKey": "kia-tasman",
+      "bodyType": "pickup",
+      "zone": "pickup",
+      "hp": 281,
+      "engineType": "i4t",
+      "note": "Первый среднеразмерный рамный пикап Kia (премьера окт. 2024 в Джидде, продажи 2025 — Корея, Австралия, Ближний Восток; в США не поставляется). Бензин 2.5T 281hp (в Корее 277hp) и дизель 2.2 CRDi; 8АКПП. Рама — собственная, по сообщениям прессы, развитие конструкции Mohave — единственного другого рамного Kia. Источник: Wikipedia, motor1, Hagerty."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "exec_sports",
+      "id": "kia-ev9-gt",
+      "label": "EV9 GT",
+      "fullName": "Kia EV9 GT",
+      "year": 2025,
+      "codeName": "MV",
+      "modelSlug": "kia-ev9",
+      "familyKey": "kia-ev9",
+      "bodyType": "suv",
+      "zone": "suv_large",
+      "hp": 501,
+      "engineType": "ev",
+      "note": "Производительная версия EV9: два мотора, 374 кВт (501-509 л.с. в зависимости от рынка/норматива), электронно-управляемая подвеска, e-LSD, Virtual Gear Shift. Запуск в Корее фев. 2025, Европа/США — 2026 МГ. Источник: Kia press office, Edmunds, electrek."
+    },
+    {
+      "type": "generation",
+      "brandId": "kia",
+      "brandName": "Kia",
+      "segment": "compact",
+      "id": "kia-ev2",
+      "label": "Kia EV2 (2026)",
+      "fullName": "Kia EV2",
+      "year": 2026,
+      "modelSlug": "kia-ev2",
+      "familyKey": "kia-ev2",
+      "bodyType": "suv",
+      "zone": "suv_compact",
+      "hp": 133,
+      "engineType": "ev",
+      "note": "Самый младший электрокроссовер Kia (B-сегмент) для Европы, производство в Жилине (Словакия), продажи с весны 2026. 99.5 кВт/133 л.с. (Standard), старшие версии до ~146 л.с. Дизайн по канонам EV3/EV4. Источник: automobile-catalog.com, auto-data.net."
     }
   ],
   "edges": [
@@ -72938,14 +73736,14 @@
       "id": "f-mus-mache",
       "source": "ford-mustang-s550",
       "target": "ford-mustang-mache",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.7
     },
     {
       "id": "f-gt40-05",
       "source": "ford-gt40",
       "target": "ford-gt-2005",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.9
     },
     {
@@ -73015,7 +73813,7 @@
       "id": "f-rs200",
       "source": "ford-escort",
       "target": "ford-rs200",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
@@ -74016,7 +74814,7 @@
       "id": "lr-ev-l460-ev",
       "source": "lr-rr-l460",
       "target": "lr-rr-electric",
-      "type": "evolves_into",
+      "type": "variant_of",
       "strength": 0.8
     },
     {
@@ -74079,7 +74877,7 @@
       "id": "lr-ev-fl2-ds",
       "source": "lr-freelander2",
       "target": "lr-disco-sport",
-      "type": "evolves_into",
+      "type": "inspired_by",
       "strength": 0.85
     },
     {
@@ -74126,9 +74924,9 @@
     },
     {
       "id": "bmw-m3e30-insp-m1road",
-      "source": "bmw-m3-e30",
-      "target": "bmw-m1-road",
-      "type": "inspired",
+      "source": "bmw-m1-road",
+      "target": "bmw-m3-e30",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
@@ -74156,7 +74954,7 @@
       "id": "ncs-lotus-evija-inspired-emira",
       "source": "ncs-lotus-2025-lotus-evija",
       "target": "lotus-emira",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.72
     },
     {
@@ -74515,7 +75313,7 @@
       "id": "lynk-co-01-inspired-lynk-co-03",
       "source": "lynk-co-01",
       "target": "lynk-co-03",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.7
     },
     {
@@ -74529,21 +75327,21 @@
       "id": "lynk-co-01-evolves-lynk-co-08",
       "source": "lynk-co-01",
       "target": "lynk-co-08",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.65
     },
     {
       "id": "haval-h6-gen3-inspired-jolion",
       "source": "haval-h6-gen3",
       "target": "haval-jolion",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.78
     },
     {
       "id": "haval-h9-inspired-tank-300",
       "source": "haval-h9",
       "target": "tank-300",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.8
     },
     {
@@ -74564,14 +75362,14 @@
       "id": "li-l9-inspired-l7",
       "source": "li-auto-l9",
       "target": "li-auto-l7",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.85
     },
     {
       "id": "li-l7-inspired-mega",
       "source": "li-auto-l7",
       "target": "li-auto-mega",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
@@ -74809,7 +75607,7 @@
       "id": "dark-horse-inspired-gtd",
       "source": "ford-mustang-dark-horse",
       "target": "ford-mustang-gtd",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.68
     },
     {
@@ -74844,7 +75642,7 @@
       "id": "gt500-s550-inspired-gtd",
       "source": "ford-shelby-gt500",
       "target": "ford-mustang-gtd",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.75
     },
     {
@@ -76568,13 +77366,6 @@
       "target": "jeep-grand-cherokee-wl",
       "type": "evolves_into",
       "strength": 0.9
-    },
-    {
-      "id": "e-jeep-lr-cross",
-      "source": "jeep-cherokee-xj",
-      "target": "jeep-wrangler-jl",
-      "type": "inspired_by",
-      "strength": 0.5
     },
     {
       "id": "e-pont-gto1-2004",
@@ -78543,13 +79334,6 @@
       "type": "derived_from"
     },
     {
-      "id": "e-chr-seb-200",
-      "source": "chrysler-sebring-1",
-      "target": "chrysler-200-1",
-      "type": "evolves_into",
-      "strength": 0.9
-    },
-    {
       "id": "e-chr-c300-pt",
       "source": "chrysler-c300",
       "target": "chrysler-pt-cruiser",
@@ -78714,7 +79498,7 @@
       "id": "e-lco-08-z10",
       "source": "lynk-co-08",
       "target": "lynk-co-z10",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
@@ -79159,13 +79943,6 @@
       "strength": 0.95
     },
     {
-      "id": "e-nlg-sf1-sor1",
-      "source": "hyu-santa-fe-1",
-      "target": "kia-sorento-1",
-      "type": "shares_platform",
-      "strength": 0.88
-    },
-    {
       "id": "e-nlg-sf2-sor2",
       "source": "hyu-santa-fe-2",
       "target": "kia-sorento-2",
@@ -79585,7 +80362,7 @@
     {
       "id": "bentley-exp10-conti4-ip",
       "source": "bentley-exp10-speed6",
-      "target": "bentley-conti-gt4",
+      "target": "bentley-conti-gt3",
       "type": "inspired_by"
     },
     {
@@ -79598,7 +80375,7 @@
       "id": "ford-mav-ranger-insp",
       "source": "ford-ranger-t5",
       "target": "ford-maverick",
-      "type": "inspired"
+      "type": "inspired_by"
     },
     {
       "id": "changan-univ-unik-der",
@@ -79640,12 +80417,6 @@
       "id": "bmw-mnk-m3-insp",
       "source": "bmw-m3-g80",
       "target": "ncs-bmw-2026-m-neue-klasse-concept",
-      "type": "inspired_by"
-    },
-    {
-      "id": "bentley-exp100-mul-ip",
-      "source": "bentley-mulsanne",
-      "target": "bentley-exp100gt",
       "type": "inspired_by"
     },
     {
@@ -80391,7 +81162,7 @@
       "id": "e-gt350-legacy",
       "source": "ford-shelby-gt350-1965",
       "target": "ford-shelby-gt350-s550",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.75
     },
     {
@@ -81680,7 +82451,7 @@
       "id": "lotus-seven-s4-caterham",
       "source": "lotus-seven-s4",
       "target": "caterham-seven",
-      "type": "evolved_into",
+      "type": "rebadged_as",
       "strength": 0.95
     },
     {
@@ -82253,7 +83024,7 @@
     {
       "id": "e-charger-sixpack-superbee",
       "source": "dodge-charger-sixpack-4dr",
-      "target": "dodge-charger-super-bee-4dr",
+      "target": "dodge-charger-scatpack-4dr",
       "type": "variant_of",
       "strength": 0.85
     },
@@ -84110,28 +84881,28 @@
       "id": "lynk-co-01-inspired-lynk-co-02",
       "source": "lynk-co-01",
       "target": "lynk-co-02",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
       "id": "lynk-co-01-inspired-lynk-co-06",
       "source": "lynk-co-01",
       "target": "lynk-co-06",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
       "id": "lynk-co-01-inspired-lynk-co-07",
       "source": "lynk-co-01",
       "target": "lynk-co-07",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
       "id": "lynk-co-01-inspired-lynk-co-09",
       "source": "lynk-co-01",
       "target": "lynk-co-09",
-      "type": "inspired",
+      "type": "inspired_by",
       "strength": 0.6
     },
     {
@@ -85041,7 +85812,7 @@
       "id": "e-cit-c3-3-ec3",
       "source": "citroen-c3-3",
       "target": "citroen-e-c3",
-      "type": "variant_of",
+      "type": "evolves_into",
       "strength": 0.8
     },
     {
@@ -90864,7 +91635,7 @@
     {
       "id": "e-avenger1-avenger2",
       "source": "dodge-avenger-1",
-      "target": "dodge-avenger-2",
+      "target": "dodge-avenger-2-base",
       "type": "inspired_by",
       "strength": 0.5
     },
@@ -90877,22 +91648,22 @@
     },
     {
       "id": "e-avenger2-journey-platform",
-      "source": "dodge-avenger-2",
-      "target": "dodge-journey-rt",
+      "source": "dodge-avenger-2-base",
+      "target": "dodge-journey",
       "type": "shares_platform",
       "strength": 0.75
     },
     {
       "id": "e-caliber-nitro",
       "source": "dodge-caliber",
-      "target": "dodge-nitro-rt",
+      "target": "dodge-nitro",
       "type": "inspired_by",
       "strength": 0.4
     },
     {
       "id": "e-nitro-journey",
-      "source": "dodge-nitro-rt",
-      "target": "dodge-journey-rt",
+      "source": "dodge-nitro",
+      "target": "dodge-journey",
       "type": "inspired_by",
       "strength": 0.45
     },
@@ -92094,13 +92865,6 @@
       "strength": 0.9
     },
     {
-      "id": "sync-ev-lr-rr-l460-ncs-land-rover-2027-rover-range-rover-electric",
-      "source": "lr-rr-l460",
-      "target": "ncs-land-rover-2027-rover-range-rover-electric",
-      "type": "evolves_into",
-      "strength": 0.9
-    },
-    {
       "id": "e-cad-esc1-2",
       "source": "cadillac-escalade-1",
       "target": "cadillac-escalade-2",
@@ -92281,13 +93045,6 @@
       "target": "cadillac-lyriq-v",
       "type": "variant_of",
       "strength": 0.92
-    },
-    {
-      "id": "sync-ev-merc-c-w206-ncs-mercedes-2027-c-class-ev-uk",
-      "source": "merc-c-w206",
-      "target": "ncs-mercedes-2027-c-class-ev-uk",
-      "type": "evolves_into",
-      "strength": 0.9
     },
     {
       "id": "e-towncar-1-2",
@@ -94569,6 +95326,666 @@
       "target": "fiat-124-spider-1966",
       "type": "shares_platform",
       "strength": 0.65
+    },
+    {
+      "id": "e-chr-seb1-seb2",
+      "source": "chrysler-sebring-1",
+      "target": "chrysler-sebring-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-chr-seb2-seb3",
+      "source": "chrysler-sebring-2",
+      "target": "chrysler-sebring-3",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-chr-seb3-200",
+      "source": "chrysler-sebring-3",
+      "target": "chrysler-200-1",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-chr-seb3-avenger2-platform",
+      "source": "chrysler-sebring-3",
+      "target": "dodge-avenger-2-base",
+      "type": "shares_platform",
+      "strength": 0.95
+    },
+    {
+      "id": "e-chr-200-1-2",
+      "source": "chrysler-200-1",
+      "target": "chrysler-200-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-chr-200-2-cherokeekl-platform",
+      "source": "jeep-cherokee-kl",
+      "target": "chrysler-200-2",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "e-chr-300srt8-lastcall",
+      "source": "chrysler-300-srt8",
+      "target": "chrysler-300-last-call",
+      "type": "variant_of",
+      "strength": 0.85
+    },
+    {
+      "id": "e-jeep-wagoneersj-cherokeesj-platform",
+      "source": "jeep-wagoneer-sj",
+      "target": "jeep-cherokee-sj",
+      "type": "shares_platform",
+      "strength": 0.9
+    },
+    {
+      "id": "e-jeep-cherokeesj-xj",
+      "source": "jeep-cherokee-sj",
+      "target": "jeep-cherokee-xj",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-jeep-cherokeekl-km",
+      "source": "jeep-cherokee-kl",
+      "target": "jeep-cherokee-km",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-jeep-compassmp-2025",
+      "source": "jeep-compass-mp",
+      "target": "jeep-compass-2025",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-scatpack-superbee-4dr",
+      "source": "dodge-charger-scatpack-4dr",
+      "target": "dodge-charger-super-bee-4dr",
+      "type": "variant_of",
+      "strength": 0.85
+    },
+    {
+      "id": "e-scatpack-4dr-2dr",
+      "source": "dodge-charger-scatpack-4dr",
+      "target": "dodge-charger-scatpack",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "e-avenger2-base-rt",
+      "source": "dodge-avenger-2-base",
+      "target": "dodge-avenger-2",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "e-journey-base-rt",
+      "source": "dodge-journey",
+      "target": "dodge-journey-rt",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "e-nitro-base-rt",
+      "source": "dodge-nitro",
+      "target": "dodge-nitro-rt",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "e-ram-promastercity-1-2",
+      "source": "ram-promaster-city-1",
+      "target": "ram-promaster-city-2",
+      "type": "evolves_into",
+      "strength": 0.7
+    },
+    {
+      "id": "e-ram-promaster-1-ev",
+      "source": "ram-promaster-1",
+      "target": "ram-promaster-ev",
+      "type": "variant_of",
+      "strength": 0.85
+    },
+    {
+      "id": "bentley-rtype-exp100-ip",
+      "source": "bentley-rtype",
+      "target": "bentley-exp100gt",
+      "type": "inspired_by",
+      "strength": 0.6
+    },
+    {
+      "id": "bentley-blower-exp100-ip",
+      "source": "bentley-blower",
+      "target": "bentley-exp100gt",
+      "type": "inspired_by",
+      "strength": 0.5
+    },
+    {
+      "id": "lr-fl2-evoque-insp",
+      "source": "lr-freelander2",
+      "target": "lr-evoque-l538",
+      "type": "inspired_by",
+      "strength": 0.7
+    },
+    {
+      "id": "sci-xb1-xb2",
+      "source": "scion-xb-1",
+      "target": "scion-xb-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "sci-tc1-tc2",
+      "source": "scion-tc-1",
+      "target": "scion-tc-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "sci-xa-xd",
+      "source": "scion-xa",
+      "target": "scion-xd",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "sci-frs-brz",
+      "source": "scion-frs",
+      "target": "subaru-brz-zc6",
+      "type": "shares_platform",
+      "strength": 0.92
+    },
+    {
+      "id": "mazda2-sci-ia",
+      "source": "mazda-2-dj",
+      "target": "scion-ia",
+      "type": "rebadged_as",
+      "strength": 0.95
+    },
+    {
+      "id": "rz-gladiator-hercules",
+      "source": "jeep-gladiator",
+      "target": "rezvani-hercules",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-wranglerjl-tankx",
+      "source": "jeep-wrangler-jl",
+      "target": "rezvani-tank-x",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-4xe-tankhybrid",
+      "source": "jeep-wrangler-4xe",
+      "target": "rezvani-tank-hybrid",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-escaladev-vengeance",
+      "source": "cadillac-escalade-v",
+      "target": "rezvani-vengeance",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-urus-knight",
+      "source": "lambo-urus",
+      "target": "rezvani-knight",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-sterrato-dune",
+      "source": "lambo-huracan-sterrato",
+      "target": "rezvani-dune",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-raptorr-fortress",
+      "source": "ford-f150-raptor-r",
+      "target": "rezvani-fortress",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-911turbos-retrorr1",
+      "source": "p911-992-turbo-s",
+      "target": "rezvani-retro-rr1",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-elise-beastalpha",
+      "source": "lotus-elise-s3",
+      "target": "rezvani-beast-alpha",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-elise-beastalphax",
+      "source": "lotus-elise-s3",
+      "target": "rezvani-beast-alpha-x",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "rz-c8-beastgen2",
+      "source": "chevy-corvette-c8",
+      "target": "rezvani-beast-gen2",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "e-cit-ami-amielectric",
+      "source": "citroen-ami",
+      "target": "citroen-ami-electric",
+      "type": "inspired_by",
+      "strength": 0.8
+    },
+    {
+      "id": "e-cit-c4wrc-ds3wrc",
+      "source": "citroen-c4-wrc",
+      "target": "citroen-ds3-wrc",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "e-cit-ds3-ds3wrc",
+      "source": "citroen-ds3",
+      "target": "citroen-ds3-wrc",
+      "type": "derived_from",
+      "strength": 0.75
+    },
+    {
+      "id": "e-cit-c5aircross-g1-g2",
+      "source": "citroen-c5-aircross",
+      "target": "citroen-c5-aircross-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-fiat-ducato3-rampromaster1",
+      "source": "fiat-ducato-3",
+      "target": "ram-promaster-1",
+      "type": "rebadged_as",
+      "strength": 0.9
+    },
+    {
+      "id": "e-fiat-doblo2-rampromastercity1",
+      "source": "fiat-doblo-2",
+      "target": "ram-promaster-city-1",
+      "type": "rebadged_as",
+      "strength": 0.9
+    },
+    {
+      "id": "sync-var-am-valhalla-ncs-astonmartin-2028-valhalla-spider",
+      "source": "am-valhalla",
+      "target": "ncs-astonmartin-2028-valhalla-spider",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "lr-rrs-l461-to-electric",
+      "source": "lr-rrs-l461",
+      "target": "lr-rrs-electric",
+      "type": "variant_of",
+      "strength": 0.85
+    },
+    {
+      "id": "lr-rr-electric-rrs-electric-platform",
+      "source": "lr-rr-electric",
+      "target": "lr-rrs-electric",
+      "type": "shares_platform",
+      "strength": 0.8
+    },
+    {
+      "id": "volvo-xc60-2-facelift",
+      "source": "volvo-xc60-2",
+      "target": "volvo-xc60-2-fl",
+      "type": "facelifted_to",
+      "strength": 0.9
+    },
+    {
+      "id": "smt-fw3-2num",
+      "source": "smart-fortwo-3",
+      "target": "smart-2",
+      "type": "evolves_into",
+      "strength": 0.75,
+      "note": "Не прямой преемник по платформе (новая ECA), но тот же продуктовый слот — двухместный городской микрокар бренда."
+    },
+    {
+      "id": "hyu-ioniq5-ioniq3-platform",
+      "source": "hyu-ioniq5",
+      "target": "hyu-ioniq3",
+      "type": "shares_platform",
+      "strength": 0.6
+    },
+    {
+      "id": "hyu-bayon-1-2",
+      "source": "hyu-bayon-1",
+      "target": "hyu-bayon-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "peu-e3008-lancia-gamma-platform",
+      "source": "peu-e3008",
+      "target": "lancia-gamma-2026",
+      "type": "shares_platform",
+      "strength": 0.7
+    },
+    {
+      "id": "inf-qx60-gen2-qx65-derived",
+      "source": "infiniti-qx60-gen2-vcturbo",
+      "target": "infiniti-qx65",
+      "type": "derived_from",
+      "strength": 0.88
+    },
+    {
+      "id": "byd-tang-phev-tang-l",
+      "source": "byd-tang-phev",
+      "target": "byd-tang-l",
+      "type": "inspired_by",
+      "strength": 0.6,
+      "note": "Tang L — отдельная, более крупная модель семейства Tang на новой платформе; обычный Tang продолжает выпускаться, поэтому не evolves_into."
+    },
+    {
+      "id": "porsche-918-mission-s",
+      "source": "porsche-918",
+      "target": "porsche-mission-s",
+      "type": "inspired_by",
+      "strength": 0.6
+    },
+    {
+      "id": "bmw-i7-g70-lci",
+      "source": "bmw-i7-g70",
+      "target": "ncs-bmw-2027-i7",
+      "type": "facelifted_to",
+      "strength": 0.9
+    },
+    {
+      "id": "bmw-g20-fl-to-g50",
+      "source": "bmw-g20-fl",
+      "target": "ncs-bmw-2027-3-series",
+      "type": "evolves_into",
+      "strength": 0.92
+    },
+    {
+      "id": "bmw-g50-m350",
+      "source": "ncs-bmw-2027-3-series",
+      "target": "bmw-m350-g50",
+      "type": "variant_of",
+      "strength": 0.88
+    },
+    {
+      "id": "bmw-i4-g26-to-i3-na0",
+      "source": "bmw-i4-g26",
+      "target": "ncs-bmw-2027-bmw-i3",
+      "type": "evolves_into",
+      "strength": 0.8
+    },
+    {
+      "id": "bmw-ix3-nk-m60",
+      "source": "ncs-bmw-2027-ix3-long-wheelbase",
+      "target": "ncs-bmw-2027-ix3-m60-xdrive",
+      "type": "variant_of",
+      "strength": 0.88
+    },
+    {
+      "id": "bmw-ix3-nk-ix4-derived",
+      "source": "ncs-bmw-2027-ix3-long-wheelbase",
+      "target": "ncs-bmw-2027-ix4",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "bmw-ix4-nk-m60",
+      "source": "ncs-bmw-2027-ix4",
+      "target": "ncs-bmw-2027-ix4-m60-xdrive",
+      "type": "variant_of",
+      "strength": 0.88
+    },
+    {
+      "id": "vw-idcross-skoda-epiq-platform",
+      "source": "ncs-volkswagen-2027-id-cross",
+      "target": "ncs-skoda-2027-skoda-epiq",
+      "type": "shares_platform",
+      "strength": 0.8
+    },
+    {
+      "id": "merc-amg-gt4-ev-gt-suv-platform",
+      "source": "ncs-mercedes-2027-amg-gt-4-door",
+      "target": "ncs-mercedes-2027-amg-gt-suv",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "alfa-stelvio-1-2",
+      "source": "alfa-romeo-stelvio",
+      "target": "alfa-romeo-stelvio-2",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "ram-1500-6-ramcharger-suv",
+      "source": "ram-1500-6",
+      "target": "ram-ramcharger-suv",
+      "type": "derived_from",
+      "strength": 0.8
+    },
+    {
+      "id": "gmc-hummer-ev-suv-derived",
+      "source": "gmc-hummer-ev",
+      "target": "gmc-hummer-ev-suv",
+      "type": "derived_from",
+      "strength": 0.85
+    },
+    {
+      "id": "cad-escv-collector",
+      "source": "cadillac-escalade-v",
+      "target": "cadillac-escalade-v-collector",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "volvo-xc40-1-facelift",
+      "source": "volvo-xc40-1",
+      "target": "volvo-xc40-1-fl",
+      "type": "facelifted_to",
+      "strength": 0.9
+    },
+    {
+      "id": "bmw-7g70-m760-lci",
+      "source": "bmw-7-g70",
+      "target": "bmw-m760-g70-lci",
+      "type": "facelifted_to",
+      "strength": 0.9
+    },
+    {
+      "id": "nissan-pf-r53-special-edition",
+      "source": "nissan-pathfinder-r53",
+      "target": "ncs-nissan-2027-pathfinder-special-edition",
+      "type": "variant_of",
+      "strength": 0.85
+    },
+    {
+      "id": "e-rio-1-2",
+      "source": "kia-rio-1",
+      "target": "kia-rio-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-k4-0-1",
+      "source": "kia-cerato-1",
+      "target": "kia-forte-1",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-nc-el3-cer1",
+      "source": "hyu-elantra-3",
+      "target": "kia-cerato-1",
+      "type": "shares_platform",
+      "strength": 0.8
+    },
+    {
+      "id": "e-k5-ms-mg",
+      "source": "kia-optima-ms",
+      "target": "kia-optima-mg",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-k5-mg-1",
+      "source": "kia-optima-mg",
+      "target": "kia-k5-1",
+      "type": "evolves_into",
+      "strength": 0.85
+    },
+    {
+      "id": "e-n3-son3-optms",
+      "source": "hyu-sonata-3",
+      "target": "kia-optima-ms",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "e-n3-son4-optmg",
+      "source": "hyu-sonata-4",
+      "target": "kia-optima-mg",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "e-k9-1-2",
+      "source": "kia-k9-1",
+      "target": "kia-k9-2",
+      "type": "evolves_into",
+      "strength": 0.9
+    },
+    {
+      "id": "e-gbh-k9-1",
+      "source": "hyu-genesis-bh",
+      "target": "kia-k9-1",
+      "type": "shares_platform",
+      "strength": 0.75
+    },
+    {
+      "id": "e-mohave-tasman",
+      "source": "kia-mohave-fl",
+      "target": "kia-tasman",
+      "type": "inspired_by",
+      "strength": 0.4
+    },
+    {
+      "id": "e-ev9-gt",
+      "source": "kia-ev9",
+      "target": "kia-ev9-gt",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "e-ev3-ev2",
+      "source": "kia-ev3",
+      "target": "kia-ev2",
+      "type": "inspired_by",
+      "strength": 0.6
+    },
+    {
+      "id": "e-pal1-tel1",
+      "source": "hyu-palisade-1",
+      "target": "kia-telluride-1",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "e-pal2-tel2",
+      "source": "hyu-palisade-2",
+      "target": "kia-telluride-2",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "e-ioniq-niro1",
+      "source": "hyu-ioniq-classic",
+      "target": "kia-niro-1",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "e-nc-el4-fo1",
+      "source": "hyu-elantra-4",
+      "target": "kia-forte-1",
+      "type": "shares_platform",
+      "strength": 0.8
+    },
+    {
+      "id": "e-nc-el5-fo2",
+      "source": "hyu-elantra-5",
+      "target": "kia-forte-2",
+      "type": "shares_platform",
+      "strength": 0.8
+    },
+    {
+      "id": "e-nc-el6-fo3",
+      "source": "hyu-elantra-6",
+      "target": "kia-forte-3",
+      "type": "shares_platform",
+      "strength": 0.8
+    },
+    {
+      "id": "e-nc-el7-k4",
+      "source": "hyu-elantra-7",
+      "target": "kia-k4",
+      "type": "shares_platform",
+      "strength": 0.8
+    },
+    {
+      "id": "e-i30pd-ceed3",
+      "source": "hyu-i30-pd",
+      "target": "kia-ceed-3",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "e-nsuv-tuc5-sp6",
+      "source": "hyu-tucson-5",
+      "target": "kia-sportage-6",
+      "type": "shares_platform",
+      "strength": 0.85
+    },
+    {
+      "id": "e-gle167fl-53h",
+      "source": "merc-gle-w167-fl",
+      "target": "ncs-mercedes-2027-mercedes-amg-gle-53-hybrid",
+      "type": "variant_of",
+      "strength": 0.85
+    },
+    {
+      "id": "e-mache-trail",
+      "source": "ford-mustang-mache",
+      "target": "ncs-ford-2027-mustang-mach-e-trail",
+      "type": "variant_of",
+      "strength": 0.8
+    },
+    {
+      "id": "e-bz4x-rz",
+      "source": "toyota-bz4x",
+      "target": "ncs-lexus-2027-lexus-rz",
+      "type": "shares_platform",
+      "strength": 0.8
     }
   ]
 }

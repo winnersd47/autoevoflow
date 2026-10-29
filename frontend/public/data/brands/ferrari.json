@@ -938,6 +938,15 @@
       "scrapedAt": "2026-10-07T14:04:00.774Z"
     },
     {
+      "id": "cad-photos-a74166664-2027-ferrari-12cilindri-manuale-e20264",
+      "name": "2027 Ferrari 12Cilindri Manuale",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/cabddf15-937f-4a43-a68d-5cdc4760ecd4.jpg",
+      "pageUrl": "https://www.caranddriver.com/photos/a74166664/2027-ferrari-12cilindri-manuale-drive-interior-gallery/",
+      "description": "See the interior of the 2027 Ferrari 12Cilindri Manuale from every angle.",
+      "scrapedAt": "2026-10-21T14:04:01.279Z"
+    },
+    {
       "id": "ncs-ferrari-2026-hc25",
       "name": "Ferrari HC25",
       "year": 2026,
@@ -980,15 +989,6 @@
       "imageUrl": null,
       "pageUrl": "https://www.a777aa77.ru/news/",
       "description": "2025 Ferrari Amalfi Ferrari Amalfi — инновационное купе 2+ berlinetta, в котором гармонично переплетаются традиции и современные технологии. Модель продолжает легендарную линейку спортивных автомобиле",
-      "scrapedAt": "2026-07-31T06:37:22.269Z"
-    },
-    {
-      "id": "a777-2025-ferrari-ferrari-296",
-      "name": "Ferrari 296",
-      "year": 2025,
-      "imageUrl": null,
-      "pageUrl": "https://www.a777aa77.ru/news/",
-      "description": "2025 Ferrari 296 Speciale A Аэродинамическое совершенство Ferrari 296 Speciale A воплощено в каждой детали его внешнего дизайна. Передний бампер представляет собой произведение инженерного искусства, ",
       "scrapedAt": "2026-07-31T06:37:22.269Z"
     }
   ]

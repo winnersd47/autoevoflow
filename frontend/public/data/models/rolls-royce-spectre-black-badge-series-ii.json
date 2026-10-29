@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-spectre-black-badge-series-ii",
+  "slug": "rolls-royce-spectre-black-badge-series-ii",
+  "name": "Spectre Black Badge II",
+  "fullName": "Spectre Black Badge II",
+  "brandId": "rolls-royce",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Подтверждено веб-поиском (autoevolution.com, carbuzz.com, bmwblog.com) — реальный среднециклевой рестайлинг Series II (2027): батарея 102→112 кВтч, запас хода WLTP +18% (627км/390 миль), заряд быстрее на 14%, новые 23\" диски, отделка Duality Twill. Black Badge Series II в режиме Infinity Mode выдаёт до 680 PS/670 л.с. — самый мощный серийный Rolls-Royce в истории (было ошибочно указано 650 л.с.).",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Rolls-Royce-Spectre_Black_Badge_Series_II-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Rolls-Royce-Spectre_Black_Badge_Series_II-2027-thb.jpg",
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T11:36:10.295Z",
+  "updatedAt": "2026-10-29T11:36:10.295Z"
+}
