@@ -1142,7 +1142,12 @@ function resolvePageUrl(car, matchedNode) {
   // и функция реально никогда не возвращала /model/* для скрейпленных статей
   // (car.source у них никогда не 'graph') — несмотря на комментарий выше,
   // буквально обещающий именно такое поведение.
-  if (matchedNode) return `${siteUrl}/model/${matchedNode.modelSlug || matchedNode.id}`
+  // matchedNode.id (не modelSlug) — несколько постов про РАЗНЫЕ поколения одной
+  // модели (MK1 2007, MK49 2027...) иначе вели бы на ОДИН и тот же /model/{slug},
+  // и Telegram кэширует превью по URL — разные машины показывали бы одну и ту же
+  // ссылку/превью. /api/models/[id] понимает id конкретного узла (резолвит в его
+  // modelSlug-группу) так же, как и голый modelSlug — см. route.ts.
+  if (matchedNode) return `${siteUrl}/model/${matchedNode.id}`
   return `${siteUrl}/latest/${car.id}`
 }
 

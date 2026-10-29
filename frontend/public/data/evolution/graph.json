@@ -66783,6 +66783,25 @@
       "hp": 133,
       "engineType": "ev",
       "note": "Самый младший электрокроссовер Kia (B-сегмент) для Европы, производство в Жилине (Словакия), продажи с весны 2026. 99.5 кВт/133 л.с. (Standard), старшие версии до ~146 л.с. Дизайн по канонам EV3/EV4. Источник: automobile-catalog.com, auto-data.net."
+    },
+    {
+      "id": "ncs-honda-2027-honda-hr-v",
+      "label": "2027 Honda HR-V",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "honda",
+      "brandName": "Honda",
+      "codeName": "2027",
+      "modelSlug": "honda-honda-hr-v",
+      "bodyType": "coupe",
+      "segment": "other",
+      "zone": "midsize_sed",
+      "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/20260913_193640.jpeg?quality=85",
+      "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/20260913_193640.jpeg?quality=85",
+      "description": "After a week driving the 2027 Honda HR-V, we're wondering: Is this what small cars look like now, and going forward? Is this what people want? The post 2027 Honda HR-V Review: Practical, Slow, Not as ",
+      "sourceUrl": "https://www.thedrive.com/car-reviews/2027-honda-hrv-review",
+      "isLatest": true,
+      "scrapedAt": "2026-10-29T14:04:01.673Z"
     }
   ],
   "edges": [

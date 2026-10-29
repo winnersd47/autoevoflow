@@ -58,7 +58,16 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
     return NextResponse.json({ error: 'graph data unavailable' }, { status: 500 })
   }
 
-  const group = nodes.filter(n => (n.modelSlug || n.id) === key)
+  // [id] — это либо "голый" modelSlug (ссылки с /brand/[slug] на всю линейку),
+  // либо id КОНКРЕТНОГО узла (ссылки из публикаций — см. resolvePageUrl в
+  // publish-new-stories.js: нужен уникальный URL на поколение, а не общий на
+  // модель, иначе Telegram кэширует одно превью на разные машины). Сначала
+  // проверяем конкретный узел и резолвим в его реальную modelSlug-группу —
+  // отображение то же самое (вся линейка), просто URL уникален для каждого
+  // поста и однозначно указывает именно на упомянутую в нём машину.
+  const exactNode = nodes.find(n => n.id === key)
+  const groupKey = exactNode ? (exactNode.modelSlug || exactNode.id) : key
+  const group = nodes.filter(n => (n.modelSlug || n.id) === groupKey)
   if (group.length === 0) {
     return NextResponse.json({ error: 'model not found' }, { status: 404 })
   }

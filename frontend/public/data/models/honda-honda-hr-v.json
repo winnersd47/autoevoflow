@@ -1,0 +1,26 @@
+{
+  "id": "ncs-honda-honda-hr-v",
+  "slug": "honda-honda-hr-v",
+  "name": "2027 Honda HR-V",
+  "fullName": "2027 Honda HR-V",
+  "brandId": "honda",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "After a week driving the 2027 Honda HR-V, we're wondering: Is this what small cars look like now, and going forward? Is this what people want? The post 2027 Honda HR-V Review: Practical, Slow, Not as ",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/20260913_193640.jpeg?quality=85",
+  "thumbnailUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/20260913_193640.jpeg?quality=85",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.thedrive.com/car-reviews/2027-honda-hrv-review",
+  "isLatest": true,
+  "scrapedAt": "2026-10-29T14:04:01.673Z",
+  "createdAt": "2026-10-29T14:04:03.459Z",
+  "updatedAt": "2026-10-29T14:04:03.461Z"
+}

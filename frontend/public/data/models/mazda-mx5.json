@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-mx5",
+  "slug": "mazda-mx5",
+  "name": "MX-5 30th Anniversary Edition",
+  "fullName": "MX-5 30th Anniversary Edition",
+  "brandId": "mazda",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "isActive": true,
+  "description": "Юбилейная серия к 30-летию MX-5 (2019): эксклюзивный цвет Racing Orange, диски Rays ZE40 17\", тормоза Brembo, амортизаторы Bilstein. Тираж 3000 экз. по миру. Мотор серийный 2.0L SkyActiv-G — 181 л.с. (как ND2 Club/GT). Источник: carenthusiast.com, practicalmotoring.com.au, kbb.com.",
+  "generationCount": 13,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T13:56:58.185Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Mazda_Roadster_%28MX-5%29_by_Negawa_Bridge_%28cropped%29.jpg/3840px-Mazda_Roadster_%28MX-5%29_by_Negawa_Bridge_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Mazda_Roadster_%28MX-5%29_by_Negawa_Bridge_%28cropped%29.jpg/3840px-Mazda_Roadster_%28MX-5%29_by_Negawa_Bridge_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T13:56:58.186Z"
+}

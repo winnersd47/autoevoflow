@@ -29,6 +29,23 @@ const MODELS_DIR = path.join(ROOT, 'public/data/models')
 const args = process.argv.slice(2)
 const LIMIT = Number((args.find(a => a.startsWith('--limit=')) || '').split('=')[1] || Infinity)
 
+// Живой найденный баг: фоновый прогон за ~100 запросов словил rate-limit
+// Wikipedia ("You are making too many requests...") — это ПРОСТОЙ ТЕКСТ, не
+// JSON, так что JSON.parse кидал исключение, try/catch в вызывающем коде его
+// молча проглатывал как "картинка не найдена", и ВСЕ последующие сотни
+// моделей тоже тихо проваливались (лимит не снимался сам, раз ничего не
+// ждало) — процент находок обвалился с 50% до 7%. Теперь при обнаружении
+// текста лимита выставляем глобальный "период охлаждения" — ПЕРЕД каждым
+// запросом ждём его окончания, вместо того чтобы долбить API и копить лимит.
+let rateLimitedUntil = 0
+async function waitOutRateLimit() {
+  const wait = rateLimitedUntil - Date.now()
+  if (wait > 0) {
+    console.log(`  ⏳ Wikipedia/Commons rate-limit — жду ${Math.ceil(wait / 1000)}s...`)
+    await new Promise(r => setTimeout(r, wait))
+  }
+}
+
 function httpGet(url, timeoutMs = 10000) {
   return new Promise((resolve, reject) => {
     const timer = setTimeout(() => reject(new Error('timeout')), timeoutMs)
@@ -47,7 +64,12 @@ function httpGet(url, timeoutMs = 10000) {
         }
         let data = ''
         res.on('data', c => data += c)
-        res.on('end', () => done(data))
+        res.on('end', () => {
+          if (/too many requests/i.test(data)) {
+            rateLimitedUntil = Date.now() + 60_000
+          }
+          done(data)
+        })
       })
       req.on('error', err => done('', err))
     } catch (err) { done('', err) }
@@ -58,12 +80,14 @@ const VEHICLE_RE = /\b(car|vehicle|automobile|truck|pickup|suv|sedan|van|electri
 
 async function wikiImageByQuery(query) {
   try {
+    await waitOutRateLimit()
     const q = encodeURIComponent(query)
     const searchRaw = await httpGet(`https://en.wikipedia.org/w/api.php?action=opensearch&search=${q}&limit=4&namespace=0&format=json`)
     const [, titles] = JSON.parse(searchRaw)
     if (!titles?.length) return null
     for (const title of titles.slice(0, 4)) {
       try {
+        await waitOutRateLimit()
         const slug = encodeURIComponent(title.replace(/ /g, '_'))
         const raw = await httpGet(`https://en.wikipedia.org/api/rest_v1/page/summary/${slug}`)
         const data = JSON.parse(raw)
@@ -126,6 +150,7 @@ async function guessNetCarShowImage(label, brand, year) {
 // для трим-уровней/рестайлингов отдельно от базовой модели).
 async function searchCommonsImage(query) {
   try {
+    await waitOutRateLimit()
     const q = encodeURIComponent(`${query} car`)
     const raw = await httpGet(`https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${q}&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url|mime&format=json`)
     const data = JSON.parse(raw)
@@ -223,7 +248,7 @@ async function main() {
       notFound++
       console.log('—')
     }
-    await sleep(400) // вежливая пауза к Wikipedia API
+    await sleep(1200) // вежливая пауза — раньше 400ms, словили rate-limit через ~100 моделей
   }
 
   console.log(`\nГотово: обработано ${processed}, найдено картинок ${found}, не найдено ${notFound}, уже было ${skippedHasImage}`)

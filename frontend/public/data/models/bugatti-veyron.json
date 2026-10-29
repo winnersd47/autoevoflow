@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-veyron",
+  "slug": "bugatti-veyron",
+  "name": "Veyron Grand Sport Vitesse Rembrandt Bugatti",
+  "fullName": "Veyron Grand Sport Vitesse Rembrandt Bugatti",
+  "brandId": "bugatti",
+  "bodyType": "roadster",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Четвёртое издание 'Les Légendes' (Женева, март 2014), 3 экз. Посвящено скульптору Рембрандту Бугатти, брату Этторе, автору фигурки 'Танцующего слона' на рычаге КПП. Источник: Bugatti Newsroom, gtspirit.",
+  "generationCount": 12,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T13:57:01.136Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T13:57:01.136Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-911",
+  "slug": "porsche-911",
+  "name": "Porsche 911 Turbo S T-Hybrid (992.2)",
+  "fullName": "Porsche 911 Turbo S T-Hybrid (992.2)",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Самый мощный серийный 911 в истории — 701 л.с., два eTurbo (у GTS — один). Система T-Hybrid, представлен 2026г.",
+  "generationCount": 11,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:04:08.685Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg/3840px-1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg/3840px-1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:04:08.685Z"
+}

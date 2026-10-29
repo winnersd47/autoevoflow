@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "Lexus ES — sedan, produced since 2026.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Lexus_ES_350_%28GSZ10%29_IMG_4332.jpg/3840px-Lexus_ES_350_%28GSZ10%29_IMG_4332.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Lexus_ES_350_%28GSZ10%29_IMG_4332.jpg/3840px-Lexus_ES_350_%28GSZ10%29_IMG_4332.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "sedan",
     "lexus"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:05:17.678Z",
   "generations": [
     {
       "id": "gen-lexus-es-2026-0",

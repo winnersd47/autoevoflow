@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-impala",
+  "slug": "chev-impala",
+  "name": "Impala Gen.10",
+  "fullName": "Impala Gen.10",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1958,
+  "isActive": true,
+  "description": "Финальное поколение (2014-2020) — архитектура GM Epsilon II (E2XX), общая с Cadillac XTS/Buick LaCrosse; официально снова \"полноразмерный\" класс. 3.6L LFX V6, 305hp SAE. Последний экземпляр сошёл с конвейера 27 февраля 2020г. на заводе Detroit-Hamtramck (который затем переоборудовали под электромобили).",
+  "generationCount": 10,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T13:57:59.698Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/3840px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/3840px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T13:57:59.700Z"
+}

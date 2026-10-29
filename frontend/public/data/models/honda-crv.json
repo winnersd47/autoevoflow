@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-crv",
+  "slug": "honda-crv",
+  "name": "CR-V RN1 6th",
+  "fullName": "CR-V RN1 6th",
+  "brandId": "honda",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "",
+  "generationCount": 11,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T13:57:02.644Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Honda_CR-V_e-HEV_Elegance_AWD_%28VI%29_%E2%80%93_f_14072024.jpg/3840px-Honda_CR-V_e-HEV_Elegance_AWD_%28VI%29_%E2%80%93_f_14072024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Honda_CR-V_e-HEV_Elegance_AWD_%28VI%29_%E2%80%93_f_14072024.jpg/3840px-Honda_CR-V_e-HEV_Elegance_AWD_%28VI%29_%E2%80%93_f_14072024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T13:57:02.644Z"
+}

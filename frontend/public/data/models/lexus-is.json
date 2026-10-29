@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "Lexus IS — sedan, produced since 2026.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg/3840px-2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg/3840px-2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "sedan",
     "lexus"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:05:15.191Z",
   "generations": [
     {
       "id": "gen-lexus-is-2026-0",

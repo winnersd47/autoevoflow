@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "The Porsche 356 (1948-1965) was the first Porsche, built by Ferry Porsche using Volkswagen Beetle components. Its evolution through Pre-A, A, B, and C series laid every engineering principle that the 911 would inherit — rear-engine layout, torsion bar suspension, and a philosophy of continuous refinement over revolution.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Joest_WSC95.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Joest_WSC95.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "coupe",
     "porsche"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T13:59:14.562Z",
   "generations": [
     {
       "id": "gen-porsche-356-1",

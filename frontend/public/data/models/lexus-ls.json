@@ -1,0 +1,20 @@
+{
+  "id": "sync-lexus-ls",
+  "slug": "lexus-ls",
+  "name": "Lexus LS 500 Phase II",
+  "fullName": "Lexus LS 500 Phase II",
+  "brandId": "lexus",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "isActive": true,
+  "description": "",
+  "generationCount": 10,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:05:11.382Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg/3840px-2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg/3840px-2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:05:11.382Z"
+}

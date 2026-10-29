@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-db12",
+  "slug": "astonmartin-db12",
+  "name": "Aston Martin DB12 S Volante",
+  "fullName": "Aston Martin DB12 S Volante",
+  "brandId": "astonmartin",
+  "bodyType": "convertible",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Более мощная трим-версия \"S\" (690 л.с./590 lb-ft против ~671 у базового DB12) в кузове Volante (кабриолет). 4.0Т V8, 0-60 за 3.4с, 202 mph. Заказы открыты в 2026, поставки с Q1 2026.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T13:59:41.392Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aston_Martin_DB12_1X7A1921.jpg/3840px-Aston_Martin_DB12_1X7A1921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aston_Martin_DB12_1X7A1921.jpg/3840px-Aston_Martin_DB12_1X7A1921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T13:59:41.392Z"
+}

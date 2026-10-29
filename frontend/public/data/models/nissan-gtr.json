@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-gtr",
+  "slug": "nissan-gtr",
+  "name": "GT-R R35",
+  "fullName": "GT-R R35",
+  "brandId": "nissan",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:00:00.629Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2009-2010_Nissan_GT-R_%28R35%29_coupe_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/2009-2010_Nissan_GT-R_%28R35%29_coupe_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:00:00.629Z"
+}

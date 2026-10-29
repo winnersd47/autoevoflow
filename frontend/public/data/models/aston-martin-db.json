@@ -1,0 +1,20 @@
+{
+  "id": "sync-aston-martin-db",
+  "slug": "aston-martin-db",
+  "name": "DB12",
+  "fullName": "DB12",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1958,
+  "isActive": true,
+  "description": "",
+  "generationCount": 11,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T13:57:03.298Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aston_Martin_DB12_1X7A1921.jpg/3840px-Aston_Martin_DB12_1X7A1921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aston_Martin_DB12_1X7A1921.jpg/3840px-Aston_Martin_DB12_1X7A1921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T13:57:03.298Z"
+}

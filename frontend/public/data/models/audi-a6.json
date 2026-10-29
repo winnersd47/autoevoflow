@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "Audi A6 — sedan, produced since 2019.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Audi_A6_Avant_e-tron_%E2%80%93_f_18042025.jpg/3840px-Audi_A6_Avant_e-tron_%E2%80%93_f_18042025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Audi_A6_Avant_e-tron_%E2%80%93_f_18042025.jpg/3840px-Audi_A6_Avant_e-tron_%E2%80%93_f_18042025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "sedan",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T13:58:02.297Z",
   "generations": [
     {
       "id": "gen-audi-a6-2019-0",

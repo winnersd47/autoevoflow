@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Mercedes-Benz A-Class (1997-present) brought the three-pointed star to the compact hatchback segment. Its W168 sandwich floor was revolutionary; the W177 became the best-selling premium compact globally.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mercedes-Benz_A_180_Urban_%28W_176%29_%E2%80%93_Frontansicht%2C_30._November_2014%2C_Ratingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mercedes-Benz_A_180_Urban_%28W_176%29_%E2%80%93_Frontansicht%2C_30._November_2014%2C_Ratingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "hatchback",
     "mercedes"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:06:25.406Z",
   "generations": [
     {
       "id": "gen-mercedes-a-class-1",

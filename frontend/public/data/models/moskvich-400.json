@@ -1,0 +1,20 @@
+{
+  "id": "sync-moskvich-400",
+  "slug": "moskvich-400",
+  "name": "Москвич-401",
+  "fullName": "Москвич-401 (1954)",
+  "brandId": "moskvich",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1946,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:01:36.390Z",
+  "heroImageUrl": "https://www.netcarshow.com/Москвич_/_АЗЛК-Москвич-401_(1954)-1954-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/Москвич_/_АЗЛК-Москвич-401_(1954)-1954-wallpaper.jpg",
+  "updatedAt": "2026-10-29T14:01:36.390Z"
+}

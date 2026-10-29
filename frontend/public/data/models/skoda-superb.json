@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Skoda Superb (2001-present) shares its platform with the VW Passat and Audi A4 while delivering more rear passenger space than either. The name revives a pre-war Skoda model.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://www.netcarshow.com/Škoda-Superb_Mk4-2023-wallpaper.jpg",
+  "heroImageUrl": "https://www.netcarshow.com/Škoda-Superb_Mk4-2023-wallpaper.jpg",
   "tags": [
     "sedan",
     "skoda"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T13:59:17.533Z",
   "generations": [
     {
       "id": "gen-skoda-superb-1",

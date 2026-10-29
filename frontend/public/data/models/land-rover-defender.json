@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-defender",
+  "slug": "land-rover-defender",
+  "name": "Land Rover Defender Dakar",
+  "fullName": "Land Rover Defender Dakar",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1983,
+  "isActive": true,
+  "description": "Подтверждённая серийная версия концепта Dakar (2026) — доступна для резервирования с начала 2027. Основана на гоночном Defender D7X-R (победитель класса Dakar Rally 2026). 4.4T V8 без гоночных ограничений по регламенту, 20\" колёса, дорожный выхлоп, 2+2 салон.",
+  "generationCount": 11,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:04:06.465Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg/3840px-2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg/3840px-2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:04:06.466Z"
+}

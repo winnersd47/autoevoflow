@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-rx7",
+  "slug": "mazda-rx7",
+  "name": "RX-7 FD Spirit R",
+  "fullName": "RX-7 FD Spirit R",
+  "brandId": "mazda",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "Финальная лимитированная серия FD3S перед снятием с производства в авг. 2002: Type A (2-местный, МКПП, 1044 экз.), Type B (2+2, МКПП, 420 экз.), Type C (АКПП, 40 экз.) — всего 1504 экз. 13B-REW, 280PS (JDM Series-8 потолок). Источник: jdmbuysell.com, classic.com, rx7club.com.",
+  "generationCount": 9,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:05:13.418Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:05:13.418Z"
+}

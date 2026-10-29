@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-prius",
+  "slug": "toyota-prius",
+  "name": "Prius ZVW55",
+  "fullName": "Prius ZVW55",
+  "brandId": "toyota",
+  "bodyType": "hatchback",
+  "segment": "hybrid",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "",
+  "generationCount": 8,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:06:27.530Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg/3840px-Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg/3840px-Toyota_Prius_2.0_HEV_Limited_%28V%29_%E2%80%93_f_18112022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:06:27.530Z"
+}

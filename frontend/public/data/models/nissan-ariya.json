@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-ariya",
+  "slug": "nissan-ariya",
+  "name": "Ariya Nismo",
+  "fullName": "Ariya Nismo",
+  "brandId": "nissan",
+  "bodyType": "suv",
+  "segment": "electric",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Nismo-версия Ariya — представлена в январе 2024 (Tokyo Auto Salon), в продаже в Японии с 2024, в Европе с января 2025 (первый серийный электрический Nismo в Европе). Топ-версия B9 e-4ORCE: 91 кВтч, 320 кВт (429 л.с.). Источник: Nissan Global Newsroom, hotcars.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:01:03.956Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/The_frontview_of_Nissan_DAA-HV37_SKYLINE_HYBRID_GT_Type_SP_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/The_frontview_of_Nissan_DAA-HV37_SKYLINE_HYBRID_GT_Type_SP_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:01:03.956Z"
+}

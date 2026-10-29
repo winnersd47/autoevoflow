@@ -1,0 +1,20 @@
+{
+  "id": "sync-lexus-rc-f",
+  "slug": "lexus-rc-f",
+  "name": "Lexus RC F Phase II",
+  "fullName": "Lexus RC F Phase II",
+  "brandId": "lexus",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Рестайлинг представлен в янв. 2019 (MY2020), на год позже фейслифта обычного RC (2018) — раздельный цикл обновления. Тот же 5.0L V8, мощность выросла с 467 до 472 л.с. (389→395 фунт-фут) за счёт изменённого впуска, выше передаточное число главной пары (3.13 вместо 2.93). Источник: slashgear.com, thedrive.com, media.lexus.ca.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:00:02.580Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg/3840px-2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg/3840px-2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:00:02.580Z"
+}
