@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-safari",
+  "slug": "gmc-safari",
+  "name": "GMC Safari",
+  "fullName": "GMC Safari",
+  "brandId": "gmc",
+  "bodyType": "van",
+  "segment": "van",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "Заднеприводный (с опцией AWD) минивэн на грузовой платформе, выпускался 1985-2005гг. одним поколением (без смены платформы, только рестайлинги — передняя 'аэро'-морда в 1995г.). Единственный мотор поздних лет — 4.3L V6 Vortec, 190hp/250 lb-ft, 4-ступенчатый автомат — стабильно с середины 1990-х до снятия с производства в 2005г. Источники: autoevolution.com/gmc/safari, autopadre.com/horsepower-and-torque/gmc-safari, cars.com/research/gmc-safari-2005. Платформенный близнец Chevrolet Astro — тот пока не представлен в графе, cross-brand ребро не добавляем. ДОБАВЛЕНО: Safari отсутствовал в графе.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:14:03.420Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1994_Chevrolet_Astro%2C_front_%282%29_6.14.21.jpg/3840px-1994_Chevrolet_Astro%2C_front_%282%29_6.14.21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/1994_Chevrolet_Astro%2C_front_%282%29_6.14.21.jpg/3840px-1994_Chevrolet_Astro%2C_front_%282%29_6.14.21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:14:03.420Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-2",
+  "slug": "buick-regal-2",
+  "name": "Buick Regal Gen.2",
+  "fullName": "Buick Regal Gen.2",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "Уменьшенный заднеприводный кузов G-body (общий с Chevrolet Monte Carlo/Oldsmobile Cutlass Supreme/Pontiac Grand Prix). База — атмосферные 3.8L V6 / 305 V8; с 1978г. опционально доступен Turbo Regal — первый турбированный Buick V6: 150hp (2bbl) или 165hp (4bbl). Эта база-генерация позже породила культовую линейку Grand National/GNX/T-Type/Turbo-T (см. отдельные variant_of узлы). Источник: musclecarclub.com (Buick Grand National and Regal T-Type).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:07:59.827Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:07:59.827Z"
+}

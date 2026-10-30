@@ -12,12 +12,19 @@
   "isActive": true,
   "description": "NIO ET9 — флагманский ультра-люкс BEV-седан. 900 л.с., задняя стeer-by-wire, скайлайт-крыша, Tianxuan кожа, система управления SkyRide Pro. Конкурент Rolls-Royce Spectre и Mercedes Maybach EQS 680.",
   "generationCount": 1,
-  "thumbnailUrl": null,
-  "heroImageUrl": null,
-  "tags": ["sedan", "bev", "nio", "china", "ultra-luxury", "flagship"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Nio_ET9_MY2025_IMG01.jpg/3840px-Nio_ET9_MY2025_IMG01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Nio_ET9_MY2025_IMG01.jpg/3840px-Nio_ET9_MY2025_IMG01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "sedan",
+    "bev",
+    "nio",
+    "china",
+    "ultra-luxury",
+    "flagship"
+  ],
   "aiAnalysisAvailable": true,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T17:52:47.874Z",
   "analysis": {
     "id": "analysis-nio-et9-001",
     "entityType": "model",
@@ -39,7 +46,7 @@
         "id": "ins-02",
         "category": "Engineering",
         "text": "SkyRide Pro обеспечивает управляемый диапазон демпфирования 0–5 500 Н/м. Для сравнения: Porsche PDCC (Dynamic Chassis Control) — пассивная система, переключаемая между двумя фиксированными настройками.",
-        "confidence": 0.90,
+        "confidence": 0.9,
         "importance": "high"
       },
       {
@@ -76,7 +83,10 @@
     "processingTimeMs": 4120,
     "createdAt": "2026-07-18T13:00:00Z",
     "isCached": true,
-    "metadata": { "modelVersion": "yandexgpt-pro", "language": "ru" }
+    "metadata": {
+      "modelVersion": "yandexgpt-pro",
+      "language": "ru"
+    }
   },
   "generations": [
     {
@@ -90,9 +100,16 @@
       "endYear": null,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["sedan"],
-      "engineTypes": ["BEV"],
-      "markets": ["china", "europe"],
+      "bodyTypes": [
+        "sedan"
+      ],
+      "engineTypes": [
+        "BEV"
+      ],
+      "markets": [
+        "china",
+        "europe"
+      ],
       "description": "NIO ET9 — ультра-люкс BEV-седан. Платформа NT3.0, 900 л.с., 0–100 за 2,9 с, steer-by-wire, SkyRide Pro. Battery swap совместимость.",
       "thumbnailUrl": null,
       "heroImageUrl": null,
@@ -106,7 +123,13 @@
         "driveType": "AWD",
         "transmission": "automatic"
       },
-      "tags": ["sedan", "bev", "2025", "ultra-luxury", "flagship"],
+      "tags": [
+        "sedan",
+        "bev",
+        "2025",
+        "ultra-luxury",
+        "flagship"
+      ],
       "aiAnalysisAvailable": false,
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"

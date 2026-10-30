@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-blackwood",
+  "slug": "lincoln-blackwood",
+  "name": "Lincoln Blackwood",
+  "fullName": "Lincoln Blackwood",
+  "brandId": "lincoln",
+  "bodyType": "pickup",
+  "segment": "luxury_pickup",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Полностью отсутствовавший в графе узел — ультра-нишевый \"люкс-пикап\" Lincoln, единственный год выпуска (сентябрь 2000 - август 2002, продавался как MY2002), всего ~3356-3383 экземпляров. Передняя часть и платформа от Navigator 1-го поколения (UN173/Blackwood на базе F-150/Expedition), несъёмный тонкостенный кузов-пикап с фальш-панелями под дерево и несъёмной крышкой кузова с электроприводом — только RWD, только чёрный цвет кузова. Мотор — 5.4L Triton V8, 300 л.с./355-365 фунт-фут. Связь с Navigator Gen.1 — shares_platform (общая платформа, а не donor для тюнера). Источники: Wikipedia (Lincoln Blackwood), carfax.com, cars.com specs.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:04.598Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/2002_Lincoln_Blackwood_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/2002_Lincoln_Blackwood_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:05:04.598Z"
+}

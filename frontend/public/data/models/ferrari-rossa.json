@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-rossa",
+  "slug": "ferrari-rossa",
+  "name": "Ferrari Rossa by Pininfarina",
+  "fullName": "Ferrari Rossa by Pininfarina",
+  "brandId": "ferrari",
+  "bodyType": "concept",
+  "segment": "concept",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Концепт Pininfarina (Кен Окуяма) к 70-летию ателье — Парижский салон 2000. На базе 550 Maranello (тот же 5.5Л V12, 485hp), бар× кузов без крыши, дань уважения 250 Testa Rossa 1957г. НЕ путать с отдельной серийной \"550 Barchetta Pininfarina\" (448 экз., представлена там же и тогда же, но другая машина с обычным тентом).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:50:08.247Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:50:08.247Z"
+}

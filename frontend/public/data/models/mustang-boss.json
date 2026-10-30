@@ -1,0 +1,20 @@
+{
+  "id": "sync-mustang-boss",
+  "slug": "mustang-boss",
+  "name": "Boss 302 2012",
+  "fullName": "Boss 302 2012",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "muscle_car",
+  "primaryMarket": "global",
+  "startYear": 1969,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:02:58.970Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg/3840px-Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg/3840px-Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:02:58.970Z"
+}

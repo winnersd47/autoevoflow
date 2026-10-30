@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-sportage",
+  "slug": "kia-sportage",
+  "name": "Kia Sportage VI",
+  "fullName": "Kia Sportage VI",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Следующее поколение, замечено на шпионских фото без камуфляжа (сент. 2026) — более угловатый силуэт с отсылками к Range Rover Sport, вертикальная головная оптика. Платформа общая с новым Tucson (NX5): длиннее на 60мм, колёсная база +30мм. Новая мультимедиа Pleos Connect (до 17\"). Гибридная версия выходит первой, производство стартует в 2026 на Kia Metaplant (Джорджия, США) — на рынке ближе к концу 2027/началу 2028 модельного года.",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:10:59.289Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2025_Kia_Sportage_S_front_only.jpg/3840px-2025_Kia_Sportage_S_front_only.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2025_Kia_Sportage_S_front_only.jpg/3840px-2025_Kia_Sportage_S_front_only.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:10:59.289Z"
+}

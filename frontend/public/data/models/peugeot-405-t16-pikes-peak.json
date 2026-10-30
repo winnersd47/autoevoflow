@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-405-t16-pikes-peak",
+  "slug": "peugeot-405-t16-pikes-peak",
+  "name": "Peugeot 405 Turbo 16 Pikes Peak",
+  "fullName": "Peugeot 405 Turbo 16 Pikes Peak",
+  "brandId": "peugeot",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "Чисто гоночный среднемоторный спецпроект Peugeot Talbot Sport для хиллклаймба Pikes Peak (победа Ари Ватанена 1988) и Париж-Дакар — НЕ Group B WRC (запрещена к 1987г.), ~600-660 л.с. по разным источникам. Источник: ultimatecarpage.com, hotcars.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:18:46.288Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/3840px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/3840px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:18:46.288Z"
+}

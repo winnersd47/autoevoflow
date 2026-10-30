@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lesabre-5",
+  "slug": "buick-lesabre-5",
+  "name": "Buick LeSabre Gen.5",
+  "fullName": "Buick LeSabre Gen.5",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Значительное уменьшение размеров (платформа B, как и Riviera Gen.5 того же года), отказ от 455. Топ-опция — Oldsmobile-built 403cid V8, 185hp (аналогично Riviera/Electra того периода), базовый — Buick 350 V8, 155hp. Источник: carbuzz.com (данные по платформе B 1977г., общей для Riviera/LeSabre/Electra).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:24.106Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1975_Buick_LeSabre_Custom_Landau_Hardtop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1975_Buick_LeSabre_Custom_Landau_Hardtop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:06:24.106Z"
+}

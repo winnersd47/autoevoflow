@@ -1,0 +1,20 @@
+{
+  "id": "sync-chrysler-300m",
+  "slug": "chrysler-300m",
+  "name": "Chrysler 300M",
+  "fullName": "Chrysler 300M (1998)",
+  "brandId": "chrysler",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:44:14.064Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/2002-2004_Chrysler_300M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/2002-2004_Chrysler_300M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:44:14.064Z"
+}

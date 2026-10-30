@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-ds5",
+  "slug": "citroen-ds5",
+  "name": "DS5",
+  "fullName": "DS5",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "Premium hatch flagship of DS sub-brand. Hybrid4 200+30 HP AWD. Launched DS into China with success.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:53.047Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:10:53.047Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-miura-p400s",
+  "slug": "lamborghini-miura-p400s",
+  "name": "Lamborghini Miura P400 S",
+  "fullName": "Lamborghini Miura P400 S",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "Турин, нояб. 1968 — первый рестайлинг Miura: новые распредвалы подняли мощность до 370hp, более жёсткое шасси, хромированные накладки на арках, улучшенный салон (эл.стеклоподъёмники, кондиционер опционально). Источник: официальные спецификации Lamborghini/Wikipedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:27:18.217Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/3840px-1971_Lamborghini_Miura_P400_SV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/3840px-1971_Lamborghini_Miura_P400_SV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:27:18.217Z"
+}

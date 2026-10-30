@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-escalade-v-collector",
+  "slug": "cadillac-escalade-v-collector",
+  "name": "Cadillac Escalade-V 125th Anniversary Collector Series",
+  "fullName": "Cadillac Escalade-V 125th Anniversary Collector Series",
+  "brandId": "cadillac",
+  "bodyType": "suv",
+  "segment": "luxury_performance",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Лимитированная серия (252 экз.) в честь 125-летия Cadillac, представлена в окт. 2026 как модель 2027 г. Механически идентична базовой Escalade-V (тот же наддувный 6.2 V8 R2650, 682 л.с./653 фунт-фут, hp не меняется) — отличия чисто косметические: эксклюзивные цвета кузова (Midnight Stone Frost/Vibrant White Tricoat), 24\" кованые диски, синие суппорты, карбоновая отделка, именная табличка с номером, выбор VIN/серийного номера. Цена от $239 000. Источник: news.cadillac.com, gmauthority.com, carscoops.com, kbb.com (окт. 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:28:53.918Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:28:53.918Z"
+}

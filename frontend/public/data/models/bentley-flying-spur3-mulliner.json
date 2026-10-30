@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-flying-spur3-mulliner",
+  "slug": "bentley-flying-spur3-mulliner",
+  "name": "Bentley Flying Spur Mulliner",
+  "fullName": "Bentley Flying Spur Mulliner",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Именная топовая спецификация Mulliner для седана 3-го поколения ('вершина 4-дверных Bentley'), представлена в 2021. Доступна с W12 (626 л.с.) или V8 (542 л.с.); электрические откидные столики в задних дверях, двойная ромбовидная решётка. Источник: bentleymedia.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:35:41.622Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg/3840px-Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg/3840px-Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:35:41.622Z"
+}

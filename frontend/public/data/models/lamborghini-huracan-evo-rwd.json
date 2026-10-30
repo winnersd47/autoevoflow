@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-evo-rwd",
+  "slug": "lamborghini-huracan-evo-rwd",
+  "name": "Lamborghini Huracán EVO RWD",
+  "fullName": "Lamborghini Huracán EVO RWD",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Февр. 2020 — заднеприводная версия EVO (наследник линии LP580-2), 610hp, более острый/скользящий характер без переднего привода. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:20:52.059Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:20:52.059Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-golf-r32",
+  "slug": "volkswagen-golf-r32",
+  "name": "Golf R32 Mk5",
+  "fullName": "Golf R32 Mk5",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "hot_hatch",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:03:05.268Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/1996-1998_Volkswagen_Golf_%281H%29_CL_5-door_hatchback_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/1996-1998_Volkswagen_Golf_%281H%29_CL_5-door_hatchback_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:03:05.268Z"
+}

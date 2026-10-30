@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-147-gta",
+  "slug": "alfa-romeo-147-gta",
+  "name": "147 GTA",
+  "fullName": "147 GTA (2002)",
+  "brandId": "alfa-romeo",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:40:19.240Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Arese_Museo_Storico_Alfa_Romeo_1965_Giulia_Sprint_GTA_1.jpg/3840px-Arese_Museo_Storico_Alfa_Romeo_1965_Giulia_Sprint_GTA_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Arese_Museo_Storico_Alfa_Romeo_1965_Giulia_Sprint_GTA_1.jpg/3840px-Arese_Museo_Storico_Alfa_Romeo_1965_Giulia_Sprint_GTA_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:40:19.240Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-p1800",
+  "slug": "volvo-p1800",
+  "name": "Volvo P1800",
+  "fullName": "Volvo P1800 (1961)",
+  "brandId": "volvo",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:33:27.727Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/1969_P1800_S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/1969_P1800_S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:33:27.727Z"
+}

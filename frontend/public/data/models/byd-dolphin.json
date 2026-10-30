@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-dolphin",
+  "slug": "byd-dolphin",
+  "name": "BYD Dolphin",
+  "fullName": "BYD Dolphin",
+  "brandId": "byd",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "e-Platform 3.0; доступный электрохэтч; топ продаж в 2023",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:26:54.759Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2021_BYD_Dolphin_EV_%28front%29.jpg/3840px-2021_BYD_Dolphin_EV_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2021_BYD_Dolphin_EV_%28front%29.jpg/3840px-2021_BYD_Dolphin_EV_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:26:54.759Z"
+}

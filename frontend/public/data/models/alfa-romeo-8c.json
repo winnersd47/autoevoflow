@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-8c",
+  "slug": "alfa-romeo-8c",
+  "name": "8C Competizione",
+  "fullName": "8C Competizione (2007)",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:41:29.182Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/AR8C-Competizione.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/AR8C-Competizione.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:41:29.182Z"
+}

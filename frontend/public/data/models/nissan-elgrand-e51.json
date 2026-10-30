@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-elgrand-e51",
+  "slug": "nissan-elgrand-e51",
+  "name": "Elgrand E51",
+  "fullName": "Elgrand E51",
+  "brandId": "nissan",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Второе поколение Elgrand (E51) — на рынке с 2002, полностью новая платформа и более округлый дизайн, два сдвижных двери, 7-8 мест. V6 3.5L VQ35DE (247 л.с.). Самое массовое поколение Elgrand на вторичном рынке РФ/СНГ. Источник: Wikipedia, auto-data.net.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:50:10.227Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg/3840px-2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg/3840px-2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:50:10.227Z"
+}

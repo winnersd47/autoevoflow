@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-silverado-zr2-bison",
+  "slug": "chev-silverado-zr2-bison",
+  "name": "Chevrolet Silverado ZR2 Bison",
+  "fullName": "Chevrolet Silverado ZR2 Bison",
+  "brandId": "chevrolet",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Заводская коллаборация с AEV (American Expedition Vehicles) — усиленные бамперы AEV с улучшенными углами въезда/съезда, доп. защита днища, передняя точка эвакуации. Тот же 6.2L V8, что у обычного ZR2.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:06:11.271Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:06:11.271Z"
+}

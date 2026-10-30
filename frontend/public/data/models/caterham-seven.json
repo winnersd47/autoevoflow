@@ -1,0 +1,20 @@
+{
+  "id": "sync-caterham-seven",
+  "slug": "caterham-seven",
+  "name": "Seven",
+  "fullName": "Seven",
+  "brandId": "caterham",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:53:03.360Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2010_Caterham_7_Roadsport_175_1.6.jpg/3840px-2010_Caterham_7_Roadsport_175_1.6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/2010_Caterham_7_Roadsport_175_1.6.jpg/3840px-2010_Caterham_7_Roadsport_175_1.6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:53:03.360Z"
+}

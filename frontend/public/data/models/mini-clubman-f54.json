@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-clubman-f54",
+  "slug": "mini-clubman-f54",
+  "name": "Mini Clubman F54",
+  "fullName": "Mini Clubman F54 (2015)",
+  "brandId": "mini",
+  "bodyType": "estate",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "2nd gen Clubman. Much larger (+270mm). 4 side doors + 2 split rear. ALL4 AWD option 231 HP.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:13:17.041Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/MINI_Clubman_%28MSP16%29.jpg/3840px-MINI_Clubman_%28MSP16%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/MINI_Clubman_%28MSP16%29.jpg/3840px-MINI_Clubman_%28MSP16%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:13:17.041Z"
+}

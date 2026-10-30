@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-giulietta",
+  "slug": "alfa-giulietta",
+  "name": "Giulietta",
+  "fullName": "Giulietta (2010)",
+  "brandId": "alfa-romeo",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:54:06.409Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg/3840px-1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg/3840px-1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:54:06.409Z"
+}

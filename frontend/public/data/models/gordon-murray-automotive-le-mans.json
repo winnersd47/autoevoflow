@@ -1,0 +1,20 @@
+{
+  "id": "sync-gordon-murray-automotive-le-mans",
+  "slug": "gordon-murray-automotive-le-mans",
+  "name": "GMA Le Mans GTR",
+  "fullName": "GMA Le Mans GTR",
+  "brandId": "gma",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "2026 Gordon Murray Automotive Le Mans GTR Уникальный характер модели определяется неповторимым языком дизайна SV, который гармонично сочетает в себе аэродинамическую эффективность и неподвластную врем",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:29:41.178Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2024_GMA_T.50_SCD24.jpg/3840px-2024_GMA_T.50_SCD24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2024_GMA_T.50_SCD24.jpg/3840px-2024_GMA_T.50_SCD24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:29:41.178Z"
+}

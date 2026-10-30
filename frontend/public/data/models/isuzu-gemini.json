@@ -1,0 +1,20 @@
+{
+  "id": "sync-isuzu-gemini",
+  "slug": "isuzu-gemini",
+  "name": "Isuzu Gemini Gen.1",
+  "fullName": "Isuzu Gemini Gen.1 (1974)",
+  "brandId": "isuzu",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1974,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:38:10.962Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/YokohamaGateTower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/YokohamaGateTower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:38:10.962Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-valour",
+  "slug": "astonmartin-valour",
+  "name": "Aston Martin Valiant",
+  "fullName": "Aston Martin Valiant",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Явно описана Aston Martin как \"эволюция Valour\" — более экстремальная, лёгкая, трек-ориентированная версия, задуманная по личному заказу Фернандо Алонсо. Reveal 26 июня 2024, публичный дебют на Goodwood FoS с Алонсо за рулём. 5.2Т V12 + механика, 745PS (Aston официально не публикует hp — ~735hp расчётная конвертация), 383кг прижимной силы. 38 экземпляров, все распроданы.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:06:33.871Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg/3840px-2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg/3840px-2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:06:33.871Z"
+}

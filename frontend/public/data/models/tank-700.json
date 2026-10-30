@@ -1,0 +1,20 @@
+{
+  "id": "sync-tank-700",
+  "slug": "tank-700",
+  "name": "GWM Tank 700",
+  "fullName": "GWM Tank 700",
+  "brandId": "haval",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Флагман линейки Tank — продажи в Китае с февр. 2024г. 3.0Т V6 + электромотор (PHEV), суммарно 516hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:51:24.743Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2014_Haval_H1_BL.jpg/3840px-2014_Haval_H1_BL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2014_Haval_H1_BL.jpg/3840px-2014_Haval_H1_BL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:51:24.743Z"
+}

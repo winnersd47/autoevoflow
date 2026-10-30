@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-dawn",
+  "slug": "rolls-royce-dawn",
+  "name": "Dawn",
+  "fullName": "Dawn",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:38:25.374Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:38:25.374Z"
+}

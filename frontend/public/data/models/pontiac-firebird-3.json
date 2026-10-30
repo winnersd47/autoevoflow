@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-firebird-3",
+  "slug": "pontiac-firebird-3",
+  "name": "Firebird Gen.3",
+  "fullName": "Firebird Gen.3",
+  "brandId": "pontiac",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "В 1982г. Trans Am предлагался только с 305 V8: базовый карбюраторный LG4 (145 л.с.) или Cross-Fire Injection LU5 (165 л.с., показан здесь). Более высокие рейтинги (190-215 л.с.) появились позже, на TPI-версиях 1985-87гг. Источник: thirdgen.org, gm-efi.com (GM EFI's Guide to the 3rd-Gen Pontiac Firebird).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:59:39.201Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/El_Dorado%2C_KS_67042%2C_USA_-_panoramio_%2837%29.jpg/3840px-El_Dorado%2C_KS_67042%2C_USA_-_panoramio_%2837%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/El_Dorado%2C_KS_67042%2C_USA_-_panoramio_%2837%29.jpg/3840px-El_Dorado%2C_KS_67042%2C_USA_-_panoramio_%2837%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:59:39.201Z"
+}

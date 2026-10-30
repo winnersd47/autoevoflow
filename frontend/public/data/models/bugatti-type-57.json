@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-type-57",
+  "slug": "bugatti-type-57",
+  "name": "Type 57",
+  "fullName": "Type 57",
+  "brandId": "bugatti",
+  "bodyType": "coupe",
+  "segment": "heritage",
+  "primaryMarket": "global",
+  "startYear": 1934,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:29:06.765Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bugatti_Type_57_Atalante_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bugatti_Type_57_Atalante_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:29:06.765Z"
+}

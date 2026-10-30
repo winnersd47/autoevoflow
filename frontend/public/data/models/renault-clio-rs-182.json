@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-clio-rs-182",
+  "slug": "renault-clio-rs-182",
+  "name": "Renault Clio II RS 182",
+  "fullName": "Renault Clio II RS 182",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Рестайлинг-апгрейд RS172 в рамках того же Clio II, 2004-2005, 182hp. Источник: Wikipedia Clio Renault Sport.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:19:01.785Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:19:01.785Z"
+}

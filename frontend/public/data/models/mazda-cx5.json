@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-cx5",
+  "slug": "mazda-cx5",
+  "name": "CX-5 Gen.3",
+  "fullName": "CX-5 Gen.3 (2026)",
+  "brandId": "mazda",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "3-е поколение CX-5 (KI), премьера 10.07.2025, продажи с MY2026. Единственный мотор на старте — атмосферный SkyActiv-G 2.5 (187 л.с./185 фунт-фут), 6-АКПП, i-Activ AWD; турбоверсия KF-поколения (256 л.с.) не предлагается. Кузов длиннее предыдущего поколения на ~11см. Hybrid (Skyactiv-Z) анонсирован на MY2027. Источник: news.mazdausa.com, walser.com, automobile-catalog.com.",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:14:24.803Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mazda_EZ-60_EREV_China_2026-03-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mazda_EZ-60_EREV_China_2026-03-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:14:24.803Z"
+}

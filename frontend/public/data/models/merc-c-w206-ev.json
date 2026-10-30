@@ -1,0 +1,20 @@
+{
+  "id": "sync-merc-c-w206-ev",
+  "slug": "merc-c-w206-ev",
+  "name": "C-Class EV W206",
+  "fullName": "C-Class EV W206",
+  "brandId": "mercedes",
+  "bodyType": "sedan",
+  "segment": "premium_midsize",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:22:47.326Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2008_Mercedes-Benz_C300_4MATIC_Sport_Sedan%2C_07-29-2022.jpg/3840px-2008_Mercedes-Benz_C300_4MATIC_Sport_Sedan%2C_07-29-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/2008_Mercedes-Benz_C300_4MATIC_Sport_Sedan%2C_07-29-2022.jpg/3840px-2008_Mercedes-Benz_C300_4MATIC_Sport_Sedan%2C_07-29-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:22:47.326Z"
+}

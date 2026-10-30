@@ -1,0 +1,20 @@
+{
+  "id": "sync-alpine-a110-r",
+  "slug": "alpine-a110-r",
+  "name": "Alpine A110 R",
+  "fullName": "Alpine A110 R",
+  "brandId": "alpine",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:02:17.232Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alpine_A110_S_Automesse_Ludwigsburg_2022_1X7A5946.jpg/3840px-Alpine_A110_S_Automesse_Ludwigsburg_2022_1X7A5946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alpine_A110_S_Automesse_Ludwigsburg_2022_1X7A5946.jpg/3840px-Alpine_A110_S_Automesse_Ludwigsburg_2022_1X7A5946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:02:17.232Z"
+}

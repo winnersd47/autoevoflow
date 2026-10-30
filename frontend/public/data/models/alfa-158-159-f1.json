@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-158-159-f1",
+  "slug": "alfa-158-159-f1",
+  "name": "Alfa Romeo Alfetta 158/159 (Формула 1)",
+  "fullName": "Alfa Romeo Alfetta 158/159 (Формула 1)",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1950,
+  "isActive": true,
+  "description": "Доминация в первые 2 сезона чемпионата мира Ф1. Наддувная рядная \"восьмёрка\" 1.5L: ~350hp (1950, модель 158) → 425hp @ 9300rpm (1951, эволюция 159, наддув до ~42psi). 1950 — Джузеппе Фарина выиграл самый первый чемпионский титул Ф1 на 158, Alfa заняла весь подиум чемпионата (Фарина/Фанджо/Фаджоли). 1951 — Хуан-Мануэль Фанхио выиграл титул на доработанной 159 (подвеска De Dion, облегчённая рама). После сезона-1951 Alfa снялась с Гран-при — непобеждённой заводской командой оба чемпионских года.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:32.449Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1978_Alfa_Romeo_Alfetta_GTV_%287254572400%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1978_Alfa_Romeo_Alfetta_GTV_%287254572400%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:07:32.449Z"
+}

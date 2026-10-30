@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-genesis-dh",
+  "slug": "hyundai-genesis-dh",
+  "name": "Hyundai Genesis DH",
+  "fullName": "Hyundai Genesis DH (2014)",
+  "brandId": "hyundai",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:46:22.004Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2015_Hyundai_Genesis_3.8L_front.jpg/3840px-2015_Hyundai_Genesis_3.8L_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2015_Hyundai_Genesis_3.8L_front.jpg/3840px-2015_Hyundai_Genesis_3.8L_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:46:22.004Z"
+}

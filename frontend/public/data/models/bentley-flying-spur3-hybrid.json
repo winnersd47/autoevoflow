@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-flying-spur3-hybrid",
+  "slug": "bentley-flying-spur3-hybrid",
+  "name": "Bentley Flying Spur Hybrid",
+  "fullName": "Bentley Flying Spur Hybrid",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Первый гибридный Flying Spur, представлен в июле 2021. 2.9-литровый твин-турбо V6 (410 л.с.) + электромотор 134 л.с. = 536 л.с. суммарно, 553 фунт-фут; батарея 14.1 кВтч, запас хода на электротяге более 40 км. Разгон 0-100 за 4.1с — на уровне V8-версии. Источники: autocar.co.uk, topgear.com, forbes.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:35:39.184Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg/3840px-Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg/3840px-Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:35:39.184Z"
+}

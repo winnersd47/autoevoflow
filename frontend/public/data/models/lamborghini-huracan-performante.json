@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-performante",
+  "slug": "lamborghini-huracan-performante",
+  "name": "Lamborghini Huracán Performante",
+  "fullName": "Lamborghini Huracán Performante",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Женева, март 2017 — трек-версия с активной аэродинамикой ALA (Aerodinamica Lamborghini Attiva), 640hp (+30 к базе), рекорд Нюрбургринга для серийных авто на момент дебюта (6:52.01). Технологии ALA позже перешли в EVO. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:19:45.305Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:19:45.305Z"
+}

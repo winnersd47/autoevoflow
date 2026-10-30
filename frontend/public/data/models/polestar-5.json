@@ -1,0 +1,20 @@
+{
+  "id": "sync-polestar-5",
+  "slug": "polestar-5",
+  "name": "Polestar 5",
+  "fullName": "Polestar 5",
+  "brandId": "polestar",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Флагманский GT — производственная реализация концепта Precept (2020) почти без изменений дизайна. Первая у Polestar 800В архитектура, склеенная алюминиевая платформа, батарея 112кВтч. Dual Motor — 738hp, версия Performance — 872hp/0-100 за 3.2с. Cd 0.24.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:09:52.767Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:09:52.767Z"
+}

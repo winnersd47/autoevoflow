@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-junior-ibrida",
+  "slug": "alfa-junior-ibrida",
+  "name": "Alfa Romeo Junior Ibrida",
+  "fullName": "Alfa Romeo Junior Ibrida",
+  "brandId": "alfa-romeo",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Базовая (не электрическая) силовая установка Junior — турбо 1.2L I3 + 48V mild-hybrid стартер-генератор, суммарно 136hp, только передний привод, 6-ступ. роботизированная КПП (e-DCT). Самая доступная версия линейки, по продажам в большинстве рынков ЕС опережает электрическую Elettrica.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:39:28.331Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg/3840px-Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg/3840px-Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:39:28.331Z"
+}

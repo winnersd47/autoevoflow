@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-bx-4tc",
+  "slug": "citroen-bx-4tc",
+  "name": "Citroën BX 4TC",
+  "fullName": "Citroën BX 4TC",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "Неудачный Group B проект — турбо 2.14Л (Simca-Chrysler block) 200hp дорожная/~380hp гоночная версия, полный привод. Сошёл на Монте-Карло 1986, программа закрыта, большую часть ~200 авто Citroën выкупил и уничтожил. Источник: goodwood.com, Wikipedia Citroën BX 4TC.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:22:39.671Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Citro%C3%ABn_BX_4TC_Evolution_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Citro%C3%ABn_BX_4TC_Evolution_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:22:39.671Z"
+}

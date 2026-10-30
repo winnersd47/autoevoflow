@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-diablo-vt-6-0",
+  "slug": "lamborghini-diablo-vt-6-0",
+  "name": "Lamborghini Diablo VT 6.0",
+  "fullName": "Lamborghini Diablo VT 6.0",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "2000-2001 — финальный рестайлинг Diablo перед сменой на Murciélago: новый передний бампер/фары, увеличенный до 6.0Л V12, AWD, 550hp. Источник: официальные технические каталоги (automobile-catalog).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:26:04.287Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:26:04.287Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-alpine-a110-1962",
+  "slug": "alpine-a110-1962",
+  "name": "Alpine A110",
+  "fullName": "Alpine A110",
+  "brandId": "alpine",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1962,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:01:07.033Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Renault_Alpine_A_110_%28Sp%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Renault_Alpine_A_110_%28Sp%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:01:07.033Z"
+}

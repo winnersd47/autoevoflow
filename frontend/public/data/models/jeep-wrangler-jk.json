@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-wrangler-jk",
+  "slug": "jeep-wrangler-jk",
+  "name": "Jeep Wrangler Moab Edition",
+  "fullName": "Jeep Wrangler Moab Edition",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Лимитированная спецверсия на базе Sahara (2- и 4-дверная), позиционировалась между Sahara и Rubicon — первая НЕ-Rubicon версия с опциональным блокируемым задним дифференциалом, 17\" колёса Rubicon, бамперы AEV; 3.6L Pentastar 285 л.с. Источники: jeepspecs.com, windingroad.com, torquenews.com (2013).",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:22:35.880Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Jeep_JK_Wrangler_Sahara_2-Door_Convertible.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Jeep_JK_Wrangler_Sahara_2-Door_Convertible.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:22:35.880Z"
+}

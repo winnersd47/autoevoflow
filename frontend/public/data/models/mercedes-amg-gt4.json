@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-amg-gt4",
+  "slug": "mercedes-amg-gt4",
+  "name": "AMG GT 4-door",
+  "fullName": "AMG GT 4-door",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:31:25.127Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg/3840px-Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg/3840px-Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:31:25.127Z"
+}

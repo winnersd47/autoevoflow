@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-murcielago-lp650-4-roadster",
+  "slug": "lamborghini-murcielago-lp650-4-roadster",
+  "name": "Lamborghini Murciélago LP650-4 Roadster",
+  "fullName": "Lamborghini Murciélago LP650-4 Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "2009-2010 — прощальное лимитированное издание открытого Murciélago перед сменой на Aventador, форсирован до 650hp (+10 к LP640 Roadster). Лимит 31 экз. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:24:41.656Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lamborghini_Murci%C3%A9lago_LP-640_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lamborghini_Murci%C3%A9lago_LP-640_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:24:41.656Z"
+}

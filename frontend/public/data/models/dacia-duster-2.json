@@ -1,0 +1,20 @@
+{
+  "id": "sync-dacia-duster-2",
+  "slug": "dacia-duster-2",
+  "name": "Dacia Duster Gen.2",
+  "fullName": "Dacia Duster Gen.2 (2018)",
+  "brandId": "dacia",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:35:50.532Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dacia_Duster_Salon_de_l%27Auto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dacia_Duster_Salon_de_l%27Auto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:35:50.532Z"
+}

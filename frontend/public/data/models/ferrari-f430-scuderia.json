@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-f430-scuderia",
+  "slug": "ferrari-f430-scuderia",
+  "name": "F430 Scuderia",
+  "fullName": "F430 Scuderia",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:06:16.563Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:06:16.563Z"
+}

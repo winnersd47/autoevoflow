@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-capri-ev",
+  "slug": "ford-capri-ev",
+  "name": "Capri (2024 EV)",
+  "fullName": "Capri (2024 EV)",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:01:25.297Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ford_Capri_%282024%29_Autofr%C3%BChling_Ulm_2025_DSC_8721.jpg/3840px-Ford_Capri_%282024%29_Autofr%C3%BChling_Ulm_2025_DSC_8721.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Ford_Capri_%282024%29_Autofr%C3%BChling_Ulm_2025_DSC_8721.jpg/3840px-Ford_Capri_%282024%29_Autofr%C3%BChling_Ulm_2025_DSC_8721.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:01:25.297Z"
+}

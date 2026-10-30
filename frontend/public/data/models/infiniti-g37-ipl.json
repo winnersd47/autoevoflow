@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-g37-ipl",
+  "slug": "infiniti-g37-ipl",
+  "name": "Infiniti IPL G Coupe",
+  "fullName": "Infiniti IPL G Coupe",
+  "brandId": "infiniti",
+  "bodyType": "coupe",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Первый halo-продукт нового суббренда Infiniti Performance Line (предшественник \"Red Sport\"). 3.7L VQ37VHR V6, форсирован до 348 л.с./276 фунт-фут, доработанная подвеска (+20%/+10% жёсткость пружин спереди/сзади), LSD, 19\" диски. Источник: edmunds.com, autoevolution.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:15:18.941Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:15:18.941Z"
+}

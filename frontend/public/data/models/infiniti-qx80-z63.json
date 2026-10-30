@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-qx80-z63",
+  "slug": "infiniti-qx80-z63",
+  "name": "Infiniti QX80 (Z63)",
+  "fullName": "Infiniti QX80 (Z63)",
+  "brandId": "infiniti",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Полностью новое 3-е поколение QX80 (2025), код Z63 на новой раме Y63 (общая с новым поколением Nissan Patrol/Armada). Атмосферный 5.6L V8 заменён на твин-турбо 3.5L V6 VR35DDTT — 450 л.с./516 фунт-фут (+50 л.с./+100+ фунт-фут к предыдущему поколению), 9-ступенчатый автомат вместо 7-ступенчатого. Источник: motorauthority.com, carbuzz.com, fordauthority.com, businesswire.com (официальный анонс 04.03.2024).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:17:32.394Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2019_Infiniti_QX80_Limited_in_Moonstone_White%2C_front_left.jpg/3840px-2019_Infiniti_QX80_Limited_in_Moonstone_White%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2019_Infiniti_QX80_Limited_in_Moonstone_White%2C_front_left.jpg/3840px-2019_Infiniti_QX80_Limited_in_Moonstone_White%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:17:32.394Z"
+}

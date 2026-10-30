@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-kadett-e",
+  "slug": "opel-kadett-e",
+  "name": "Kadett E",
+  "fullName": "Kadett E (1984)",
+  "brandId": "opel",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:26:43.416Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Opel_Kadett_B_4-door_at_Schaffen-Diest_Fly-drive_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Opel_Kadett_B_4-door_at_Schaffen-Diest_Fly-drive_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:26:43.416Z"
+}

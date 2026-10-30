@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-9",
+  "slug": "ford-f150-9",
+  "name": "Ford F-150 Gen.9",
+  "fullName": "Ford F-150 Gen.9",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Девятое поколение (1992-96, у коллекционеров \"OBS\") — последнее поколение F-150 на единой платформе с тяжёлыми Super Duty до их разделения в 1999г. V8 5.0L (302ci) EFI — 185-205hp в зависимости от года выпуска; топовый бензиновый V8 5.8L — до 240hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:46.745Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:46.745Z"
+}

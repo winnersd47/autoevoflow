@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-concept-6",
+  "slug": "peugeot-concept-6",
+  "name": "Peugeot Concept 6",
+  "fullName": "Peugeot Concept 6",
+  "brandId": "peugeot",
+  "bodyType": "wagon",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Показан на автосалоне в Пекине, апр. 2026, вместе с Concept 8. Флагманский шутинг-брейк/седан, предвестник преемника 508. Полностью электрический, серия ожидается ~2027.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:43:05.057Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Peugeot_Inception_Concept_Auto_Zuerich_2023_1X7A1200.jpg/3840px-Peugeot_Inception_Concept_Auto_Zuerich_2023_1X7A1200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Peugeot_Inception_Concept_Auto_Zuerich_2023_1X7A1200.jpg/3840px-Peugeot_Inception_Concept_Auto_Zuerich_2023_1X7A1200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:43:05.057Z"
+}

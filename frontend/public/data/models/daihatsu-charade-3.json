@@ -1,0 +1,20 @@
+{
+  "id": "sync-daihatsu-charade-3",
+  "slug": "daihatsu-charade-3",
+  "name": "Daihatsu Charade Gen.3",
+  "fullName": "Daihatsu Charade Gen.3 (1987)",
+  "brandId": "daihatsu",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Топ-версия GTti — первый в мире серийный турбомотор объёмом 1.0Л (CB70, турбина IHI RHB51), 103hp/130Нм, 0-60 за 8с. Та же линейка GTti продолжилась и в Gen.4.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:58:46.263Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/7th_generation_Daihatsu_Mira_01.jpg/3840px-7th_generation_Daihatsu_Mira_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/7th_generation_Daihatsu_Mira_01.jpg/3840px-7th_generation_Daihatsu_Mira_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:58:46.263Z"
+}

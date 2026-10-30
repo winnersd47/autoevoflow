@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-exp10-speed6",
+  "slug": "bentley-exp10-speed6",
+  "name": "EXP 10 Speed 6 Concept",
+  "fullName": "EXP 10 Speed 6 Concept",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Концепт Женева-2015, дизайн-исследование нового языка Bentley. Подтверждено независимо (conceptcarz.com, autoevolution.com, motorauthority.com) — вдохновил именно 3-е поколение Continental GT (2018, GT3): фары/решётка и задние \"плечи\" предсерийного GT3 прямо повторяют EXP 10 Speed 6, а не 4-е поколение (2025, GT4), как было указано ранее (ребро inspired_by переориентировано gt4→gt3). Серийной модели \"Speed 6\" не существует.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:44:20.149Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg/3840px-2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg/3840px-2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:44:20.149Z"
+}

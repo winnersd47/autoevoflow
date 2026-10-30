@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev2",
+  "slug": "kia-ev2",
+  "name": "Kia EV2",
+  "fullName": "Kia EV2",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Самый младший электрокроссовер Kia (B-сегмент) для Европы, производство в Жилине (Словакия), продажи с весны 2026. 99.5 кВт/133 л.с. (Standard), старшие версии до ~146 л.с. Дизайн по канонам EV3/EV4. Источник: automobile-catalog.com, auto-data.net.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:28:57.710Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kia_EV2_IMG_8443.jpg/3840px-Kia_EV2_IMG_8443.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kia_EV2_IMG_8443.jpg/3840px-Kia_EV2_IMG_8443.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:28:57.710Z"
+}

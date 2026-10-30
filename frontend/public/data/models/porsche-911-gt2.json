@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-911-gt2",
+  "slug": "porsche-911-gt2",
+  "name": "Porsche 911 GT2 (997)",
+  "fullName": "Porsche 911 GT2 (997)",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "Более традиционный дизайн кузова, вариативная геометрия турбин (снижение турбоямы), титановый глушитель. 3.6L твин-турбо flat-6, 530 л.с./505 lb-ft, 0-100 за 3.7с, 329 км/ч.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:36:58.937Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Porsche_991_GT2_RS_%2841654760692%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Porsche_991_GT2_RS_%2841654760692%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:36:58.937Z"
+}

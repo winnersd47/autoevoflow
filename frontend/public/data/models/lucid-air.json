@@ -1,0 +1,20 @@
+{
+  "id": "sync-lucid-air",
+  "slug": "lucid-air",
+  "name": "Lucid Air",
+  "fullName": "Lucid Air (2021)",
+  "brandId": "lucid",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:57:19.968Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lucid_Showroom_Miami_Worldcenter_29_June_2023_-_2.jpg/3840px-Lucid_Showroom_Miami_Worldcenter_29_June_2023_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lucid_Showroom_Miami_Worldcenter_29_June_2023_-_2.jpg/3840px-Lucid_Showroom_Miami_Worldcenter_29_June_2023_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:57:19.968Z"
+}

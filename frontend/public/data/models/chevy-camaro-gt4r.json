@@ -1,0 +1,20 @@
+{
+  "id": "sync-chevy-camaro-gt4r",
+  "slug": "chevy-camaro-gt4r",
+  "name": "Chevrolet Camaro GT4.R",
+  "fullName": "Chevrolet Camaro GT4.R",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Клиентский гоночный автомобиль класса GT4, построен Pratt & Miller. LT1 6.2L V8 (сухой картер), до 480hp, 6-ст. секвентальная Xtrac, Öhlins, Brembo. Действующая программа — IMSA Michelin Pilot Challenge / Pirelli World Challenge. Сменила гоночный Camaro Z/28.R поколения Gen.5. ~$259000.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:00:14.265Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:00:14.265Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-giulia-gta",
+  "slug": "alfa-romeo-giulia-gta",
+  "name": "Alfa Romeo Giulia GTA",
+  "fullName": "Alfa Romeo Giulia GTA",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Юбилейная спецсерия к 110-летию Alfa Romeo, представлена одновременно с GTAm в сентябре 2020г. Тот же форсированный до 540hp 2.9 би-турбо V6 (доработка турбин/выхлопа/диффузора относительно 510hp Quadrifoglio), но GTA — 4-местная ДОРОЖНАЯ версия с обычным салоном, тогда как GTAm — 2-местная трековая с каркасом безопасности и облегчением. Суммарный тираж GTA+GTAm — 500 экз. на обе версии ВМЕСТЕ (не по 500 каждой), поставки заказчикам с 2021г. Имя — прямая отсылка к легендарной гоночной Giulia Sprint GTA 1965г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:39:20.557Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Alfa_Romeo_Giulia_Super_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Alfa_Romeo_Giulia_Super_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:39:20.557Z"
+}

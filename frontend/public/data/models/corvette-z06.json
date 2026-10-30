@@ -1,0 +1,20 @@
+{
+  "id": "sync-corvette-z06",
+  "slug": "corvette-z06",
+  "name": "Corvette C8 Z06",
+  "fullName": "Corvette C8 Z06",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1963,
+  "isActive": true,
+  "description": "LT6 flat-plane crank 5.5L атмо; 670 л.с. при 8600 rpm; формульный звук; 0-100 за 2.6s",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:15:37.560Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Chevrolet_Corvette_Z06_-_Flickr_-_Alexandre_Pr%C3%A9vot_%287%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Chevrolet_Corvette_Z06_-_Flickr_-_Alexandre_Pr%C3%A9vot_%287%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:15:37.560Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-neon-srt",
+  "slug": "dodge-neon-srt",
+  "name": "Neon SRT-4",
+  "fullName": "Neon SRT-4",
+  "brandId": "dodge",
+  "bodyType": "sedan",
+  "segment": "hot_hatch",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:54:04.571Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Electric_Blue_SRT4_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Electric_Blue_SRT4_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:54:04.571Z"
+}

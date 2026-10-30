@@ -1,0 +1,20 @@
+{
+  "id": "sync-geely-galaxy-zhanjian700",
+  "slug": "geely-galaxy-zhanjian700",
+  "name": "Geely Galaxy Zhanjian 700 (Cruiser 700)",
+  "fullName": "Geely Galaxy Zhanjian 700 (Cruiser 700)",
+  "brandId": "geely",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "战舰700 — боксовый off-road SUV, отдельная модель линейки Galaxy (не переименование L7/TT). Концепт апр.2025, серия 2026, экспорт в UK подтверждён янв.2026. 3-моторный PHEV, суммарно ~830кВт/1113 л.с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:40:43.849Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Geely_Galaxy_Starship_7_007.jpg/3840px-Geely_Galaxy_Starship_7_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Geely_Galaxy_Starship_7_007.jpg/3840px-Geely_Galaxy_Starship_7_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:40:43.849Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-sian",
+  "slug": "lamborghini-sian",
+  "name": "Siàn Roadster",
+  "fullName": "Siàn Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:49:12.702Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Lamborghini_Sian_at_IAA_2019_IMG_0332.jpg/3840px-Lamborghini_Sian_at_IAA_2019_IMG_0332.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Lamborghini_Sian_at_IAA_2019_IMG_0332.jpg/3840px-Lamborghini_Sian_at_IAA_2019_IMG_0332.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:49:12.703Z"
+}

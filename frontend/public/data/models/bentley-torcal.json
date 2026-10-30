@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-torcal",
+  "slug": "bentley-torcal",
+  "name": "Bentley Torcal",
+  "fullName": "Bentley Torcal",
+  "brandId": "bentley",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Первый полностью электрический Bentley и второй SUV бренда (ниже Bentayga по позиционированию), официально представлен 23 сентября 2026 (тизер — 6 июля 2026). Название — от скальных образований Эль-Торкаль-де-Антекера в Испании. Платформа Premium Platform Electric (PPE), тесно связана с Porsche Cayenne Electric. Базовая версия: 821 PS/810 л.с., 1194 Нм, батарея 113 кВтч, запас хода WLTP ок. 604 км/375 миль, макс. 250 км/ч. Продажи стартуют в 2027, цены от ~$200 000. Топ-версия Torcal S — отдельный узел bentley-torcal-s. Источники: en.wikipedia.org/wiki/Bentley_Torcal, carscoops.com, forbes.com, electrek.co, thedrive.com. Доп. обзоры (из удалённых дублей скрейпера): autoweek.com, jalopnik.com (2 статьи), thedrive.com, netcarshow.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:20:26.591Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:20:26.591Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-daihatsu-charade-926r",
+  "slug": "daihatsu-charade-926r",
+  "name": "Daihatsu Charade 926R De Tomaso (прототип Group B)",
+  "fullName": "Daihatsu Charade 926R De Tomaso (прототип Group B)",
+  "brandId": "daihatsu",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "НИКОГДА не гонялся и не пошёл в серию. Заднемоторный/заднеприводный прототип (необычно для Daihatsu) под самый малообъёмный класс Group B — B/9. Турбо 926cc I3 DOHC 12V, 120PS, широкие \"блистерные\" арки, мех. блокировка диффа, ~800кг. Показан на Tokyo Motor Show 1985. Для омологации Group A требовалось 5000 серийных экземпляров — проект закрыт после запрета Group B в 1986г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:59:01.258Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/1991_Daihatsu_Charade_SG_Sedan_cropped.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/1991_Daihatsu_Charade_SG_Sedan_cropped.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:59:01.258Z"
+}

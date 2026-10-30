@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-07",
+  "slug": "lynk-co-07",
+  "name": "Lynk & Co 07 EM-P",
+  "fullName": "Lynk & Co 07 EM-P",
+  "brandId": "lynk-co",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Второй седан бренда (после 03), размер Camry. Базовая EM-P версия — 1.5Т + мотор(ы), суммарно ~280кВт/375hp, 3-ст. DHT. Топовая спецверсия EM-P разгонялась до 585hp, а версия-универсал \"07 GT\" (2026) — 523hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:23.508Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:57:23.508Z"
+}

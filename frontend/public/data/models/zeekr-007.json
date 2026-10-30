@@ -1,0 +1,20 @@
+{
+  "id": "sync-zeekr-007",
+  "slug": "zeekr-007",
+  "name": "Zeekr 007",
+  "fullName": "Zeekr 007 (2024)",
+  "brandId": "zeekr",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:47:51.559Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20230329_Zeekr_delivery_center_at_Xinhuihu_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20230329_Zeekr_delivery_center_at_Xinhuihu_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:47:51.559Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-amarok-1",
+  "slug": "vw-amarok-1",
+  "name": "VW Amarok Gen1",
+  "fullName": "VW Amarok Gen1 (2010)",
+  "brandId": "volkswagen",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:16:40.929Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/VW_Amarok_3.0_TDI_4Motion_Style_%28II%29_%E2%80%93_f_05072025.jpg/3840px-VW_Amarok_3.0_TDI_4Motion_Style_%28II%29_%E2%80%93_f_05072025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/VW_Amarok_3.0_TDI_4Motion_Style_%28II%29_%E2%80%93_f_05072025.jpg/3840px-VW_Amarok_3.0_TDI_4Motion_Style_%28II%29_%E2%80%93_f_05072025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:16:40.929Z"
+}

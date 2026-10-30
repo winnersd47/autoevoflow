@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-348-gtb",
+  "slug": "ferrari-348-gtb",
+  "name": "348 GTB",
+  "fullName": "348 GTB",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Обновление модельного 1993 года — новое имя GTB (вместо tb) отражает техническую ревизию (голова блока, впуск), мощность выросла до 320 л.с. Производилась около года (1993-94) до смены на F355.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:14:40.601Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:14:40.601Z"
+}

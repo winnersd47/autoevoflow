@@ -12,12 +12,17 @@
   "isActive": false,
   "description": "The Maserati 3200 GT (1998–2002) was the first Maserati developed under Ferrari ownership. Styled by Giugiaro with distinctive boomerang tail-lights, it used a twin-turbocharged 3.2-litre V8 producing 370 hp. The 3200 GT signalled Maserati's commercial revival and laid the platform for the Quattroporte V.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "maserati", "classic", "heritage"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "coupe",
+    "maserati",
+    "classic",
+    "heritage"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:26:35.887Z",
   "generations": [
     {
       "id": "gen-maserati-3200-gt-1",
@@ -30,9 +35,15 @@
       "endYear": 2002,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "description": "The Maserati 3200 GT (1998–2002) was the first Maserati developed under Ferrari ownership. Styled by Giugiaro with distinctive boomerang tail-lights, it used a twin-turbocharged 3.2-litre V8 producing 370 hp. The 3200 GT signalled Maserati's commercial revival and laid the platform for the Quattroporte V.",
       "thumbnailUrl": "",
       "heroImageUrl": "",

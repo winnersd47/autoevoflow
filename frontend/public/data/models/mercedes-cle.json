@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-cle",
+  "slug": "mercedes-cle",
+  "name": "CLE C236",
+  "fullName": "CLE C236",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:33:47.236Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mercedes-Benz_W214_1X7A1841.jpg/3840px-Mercedes-Benz_W214_1X7A1841.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mercedes-Benz_W214_1X7A1841.jpg/3840px-Mercedes-Benz_W214_1X7A1841.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:33:47.236Z"
+}

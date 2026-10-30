@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-destroyer05",
+  "slug": "byd-destroyer05",
+  "name": "BYD Destroyer 05",
+  "fullName": "BYD Destroyer 05",
+  "brandId": "byd",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:53:56.764Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Douglas_A-1_Skyraider_%28AD-4NA%2C_126965%29_%287911148090%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Douglas_A-1_Skyraider_%28AD-4NA%2C_126965%29_%287911148090%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:53:56.764Z"
+}

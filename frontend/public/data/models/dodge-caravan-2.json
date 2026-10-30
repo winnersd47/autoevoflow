@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-caravan-2",
+  "slug": "dodge-caravan-2",
+  "name": "Dodge Grand Caravan ES",
+  "fullName": "Dodge Grand Caravan ES",
+  "brandId": "dodge",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "2-е поколение (1991-1995), новый кузов AS; топ-трим ES с 3.8L V6, 162 л.с. Источники: iseecars.com Dodge Grand Caravan generations, Wikipedia (доступ 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:54:07.813Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/1985_Voyager_LE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/1985_Voyager_LE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:54:07.813Z"
+}

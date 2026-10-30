@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-xb-1",
+  "slug": "scion-xb-1",
+  "name": "Scion xB Gen.1",
+  "fullName": "Scion xB Gen.1 (2003)",
+  "brandId": "scion",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Iconic boxy microvan on Toyota Ist/bB platform. 1.5L 103 HP. Cult status. 0 options — full price only.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:16:50.110Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2008_Scion_xB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2008_Scion_xB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:16:50.110Z"
+}

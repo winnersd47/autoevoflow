@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-4-denali",
+  "slug": "gmc-yukon-4-denali",
+  "name": "GMC Yukon Denali",
+  "fullName": "GMC Yukon Denali",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "6.2L V8 EcoTec3 (L86), 420 л.с. — та же силовая установка, что у Sierra Denali Gen.3 (gmc-sierra-3-denali) на той же платформе K2XX. Источник: carsforsale.com/car-reviews/gmc-yukon-overview (\"the Denali version was powered by a 6.2-litre V8 engine producing 420 hp\").",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:34.525Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:34.525Z"
+}

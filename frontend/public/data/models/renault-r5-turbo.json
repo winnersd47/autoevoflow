@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-r5-turbo",
+  "slug": "renault-r5-turbo",
+  "name": "Renault 5 Turbo",
+  "fullName": "Renault 5 Turbo",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "Среднемоторная заднеприводная гомологация Group B (кузов R5, но механика полностью иная) — 1.4Л турбо 160hp (158hp на 6000rpm), кузов из composite/алюминия. ВАЖНО: до этой правки нода-якорь renault-r5-1 ошибочно несла характеристики Turbo (codeName/engineType) при year=1972 — классический баг \"анкор=топ-трим\", как и просили перепроверить. Источник: ateupwithmotor.com \"Five by Five\", autoevolution.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:22:33.929Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Renault_5_E-Tech_Electric_DSC_7279.jpg/3840px-Renault_5_E-Tech_Electric_DSC_7279.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Renault_5_E-Tech_Electric_DSC_7279.jpg/3840px-Renault_5_E-Tech_Electric_DSC_7279.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:22:33.929Z"
+}

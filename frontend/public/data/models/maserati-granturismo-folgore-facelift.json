@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-granturismo-folgore-facelift",
+  "slug": "maserati-granturismo-folgore-facelift",
+  "name": "Maserati GranTurismo Mk2 Folgore Facelift",
+  "fullName": "Maserati GranTurismo Mk2 Folgore Facelift",
+  "brandId": "maserati",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Мощность без изменений (751hp), запас хода увеличен до ~250+ миль (было 242 мили у версии '26). Исправлено 2026-08-27 независимой проверкой: изначально указанные 268 миль/+29 миль реально относятся к Grecale Folgore (другая модель, SUV), не к GranTurismo — перепутано при первом исследовании.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:46:29.128Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:46:29.128Z"
+}

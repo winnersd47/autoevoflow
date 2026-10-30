@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-prado-70",
+  "slug": "toyota-prado-70",
+  "name": "Toyota Land Cruiser Prado J70",
+  "fullName": "Toyota Land Cruiser Prado J70",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "off_road",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "Prado выделен в самостоятельную линейку в 1990 из комфортных комплектаций Land Cruiser 70 Series («Light-Duty»). Турбодизель 3.0L (1KZ-T/2L-TE) — ок. 105-125 л.с.; на части рынков также бензиновые 2.4L 22R-E и 3.0L V6 3VZ-E. Отдельная от «тяжёлых» LC60/LC80 линейка для экспортных рынков (Австралия, Ближний Восток, Африка, Азия), в графе не была представлена вовсе — только тёзка Land Cruiser Prado у Lexus (lexus-gx).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:46:31.477Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg/3840px-2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg/3840px-2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:46:31.477Z"
+}

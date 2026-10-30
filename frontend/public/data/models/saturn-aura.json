@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-aura",
+  "slug": "saturn-aura",
+  "name": "Saturn Aura",
+  "fullName": "Saturn Aura (2006)",
+  "brandId": "saturn",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Epsilon II platform midsize. Replaced LS. 3.6L V6 224 HP. Motor Trend Car of the Year 2007.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:15:40.361Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Saturn_Aura_XR_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Saturn_Aura_XR_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:15:40.361Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-de-tomaso-p72",
+  "slug": "de-tomaso-p72",
+  "name": "P72",
+  "fullName": "P72",
+  "brandId": "de-tomaso",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:49:22.180Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/1990_De_Tomaso_Pantera_GT5_S_LC23.jpg/3840px-1990_De_Tomaso_Pantera_GT5_S_LC23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/1990_De_Tomaso_Pantera_GT5_S_LC23.jpg/3840px-1990_De_Tomaso_Pantera_GT5_S_LC23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:49:22.180Z"
+}

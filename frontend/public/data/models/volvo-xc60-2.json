@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-xc60-2",
+  "slug": "volvo-xc60-2",
+  "name": "Volvo XC60 Gen2 Facelift",
+  "fullName": "Volvo XC60 Gen2 Facelift",
+  "brandId": "volvo",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Крупное обновление 2-го поколения XC60 (не новое поколение) — представлено в сентябре 2026 вместе с обновлённым XC90. Новые решётка, бампер, капот, передние крылья, переосмысленные ДХО «Молот Тора», Gemini AI в салоне. Главное — новый T8 PHEV: 2.0 турбо + более мощный электромотор и батарея 37.9 кВтч, 455 л.с./523 фунт-фут, 0-60 за 4.5с, до 78 миль на электричестве (рекорд среди PHEV в США). Год 2027 — старт продаж в начале 2027 (в США — 2028 модельный год). Источник: motor1.com, autoblog.com, tflcar.com (2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:55:41.069Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg/3840px-2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg/3840px-2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:55:41.069Z"
+}

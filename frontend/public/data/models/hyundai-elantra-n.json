@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-elantra-n",
+  "slug": "hyundai-elantra-n",
+  "name": "Elantra N",
+  "fullName": "Elantra N",
+  "brandId": "hyundai",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:36:26.047Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/BHA_Hyundai_33_WGI22.jpg/3840px-BHA_Hyundai_33_WGI22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/BHA_Hyundai_33_WGI22.jpg/3840px-BHA_Hyundai_33_WGI22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:36:26.047Z"
+}

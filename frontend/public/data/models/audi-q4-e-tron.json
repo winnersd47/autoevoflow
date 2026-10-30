@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi Q4 e-tron (2021–present), on the Volkswagen Group MEB platform shared with the VW ID.4 and Skoda Enyaq, is Audi's volume electric SUV. The Q4 e-tron GT coupe variant adds a sportier profile. Its 77 kWh battery and rear/AWD options represent the accessible tier of Audi's EV strategy.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/2021_Audi_Q4_e-tron_Sport_35.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/2021_Audi_Q4_e-tron_Sport_35.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "suv",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:29:01.466Z",
   "generations": [
     {
       "id": "gen-audi-q4-e-tron-1",

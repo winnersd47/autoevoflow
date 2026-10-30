@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-power-wagon-orig",
+  "slug": "dodge-power-wagon-orig",
+  "name": "Power Wagon 1945",
+  "fullName": "Power Wagon 1945",
+  "brandId": "dodge",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1945,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:52:23.871Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/1948_Dodge_Power_Wagon_Pick-Up_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/1948_Dodge_Power_Wagon_Pick-Up_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:52:23.871Z"
+}

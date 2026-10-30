@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-f3",
+  "slug": "byd-f3",
+  "name": "BYD F3",
+  "fullName": "BYD F3 (2005)",
+  "brandId": "byd",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:45:31.907Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2009_BYD_F3_1.5L%2C_front_8.3.18.jpg/3840px-2009_BYD_F3_1.5L%2C_front_8.3.18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2009_BYD_F3_1.5L%2C_front_8.3.18.jpg/3840px-2009_BYD_F3_1.5L%2C_front_8.3.18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:45:31.907Z"
+}

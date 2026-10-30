@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-dbs-superleggera",
+  "slug": "astonmartin-dbs-superleggera",
+  "name": "Aston Martin DBS 770 Ultimate",
+  "fullName": "Aston Martin DBS 770 Ultimate",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Финальная прощальная серия перед снятием DBS Superleggera с производства — 770PS/759hp (имя — от мощности), самый мощный серийный Aston Martin на момент выхода. Ограниченный тираж.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:25:05.611Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1968_Aston_Martin_DBS_Vantage_LC25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1968_Aston_Martin_DBS_Vantage_LC25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:25:05.611Z"
+}

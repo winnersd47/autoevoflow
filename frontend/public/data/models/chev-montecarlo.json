@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-montecarlo",
+  "slug": "chev-montecarlo",
+  "name": "Monte Carlo Gen.6",
+  "fullName": "Monte Carlo Gen.6",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Финальное поколение (W-body GMX230/231). SS 2006-07 — 5.3 LS4 V8 (поперечно), 303hp — первый V8 в Monte Carlo с 1988г. Снята с производства в 2007г.",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:12:06.853Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Isuzu_Trooper_--_03-16-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Isuzu_Trooper_--_03-16-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:12:06.853Z"
+}

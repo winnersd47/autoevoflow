@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-mission-s",
+  "slug": "porsche-mission-s",
+  "name": "Porsche Mission S Concept",
+  "fullName": "Porsche Mission S Concept",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Дизайн-концепт среднемоторного суперкара, представлен 15 октября 2026 в Нью-Йорке (Квинс). Предвещает новую ПОСТОЯННУЮ серийную линейку над 911 (ориентировочно 2029 модельный год). Отсылки: круглые фары 911, нос 911 GT1, крыша 959, горизонтальный вентилятор как у 917; аналоговый салон без центрального экрана. Силовая установка не раскрыта — по словам CEO Михаэля Ляйтерса, электроверсии не будет (ДВС/гибрид/PHEV). Источник: robbreport.com, edmunds.com, octane-magazine.com (2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:27:44.423Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Porsche_Mission_S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Porsche_Mission_S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:27:44.423Z"
+}

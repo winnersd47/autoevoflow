@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-nova",
+  "slug": "chev-nova",
+  "name": "Nova Gen.4",
+  "fullName": "Nova Gen.4",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1962,
+  "isActive": true,
+  "description": "350 V8, 165-170hp (смог-эра). В 1976г. топ-трим переименован в \"Concours\" (в пику Ford Granada). Сменена переднеприводной Citation в 1980г.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:26:14.744Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/1963_Chevrolet_Chevy_II_300_4-door_sedan%2C_front_left%2C_06-14-2025.jpg/3840px-1963_Chevrolet_Chevy_II_300_4-door_sedan%2C_front_left%2C_06-14-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/1963_Chevrolet_Chevy_II_300_4-door_sedan%2C_front_left%2C_06-14-2025.jpg/3840px-1963_Chevrolet_Chevy_II_300_4-door_sedan%2C_front_left%2C_06-14-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:26:14.744Z"
+}

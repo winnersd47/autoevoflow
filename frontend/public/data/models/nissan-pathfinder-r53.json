@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-pathfinder-r53",
+  "slug": "nissan-pathfinder-r53",
+  "name": "Nissan Pathfinder Gen.5",
+  "fullName": "Nissan Pathfinder Gen.5 (2022)",
+  "brandId": "nissan",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Пятое поколение Pathfinder (R53) — на рынке с 2022 модельного года, возврат к угловатому «боксовому» дизайну (отсылка к первому поколению WD21), впервые 9-ступенчатый АКПП (ZF) вместо вариатора. Тот же V6 3.5L (284 л.с.). Источник: Wikipedia, carbuzz.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:50:08.068Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg/3840px-2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg/3840px-2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:50:08.068Z"
+}

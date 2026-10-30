@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-fathom",
+  "slug": "ford-fathom",
+  "name": "Ford Fathom",
+  "fullName": "Ford Fathom",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Официально анонсирован Ford 6 авг. 2026 — первая модель на новой платформе Ford Universal EV Platform (UEV), разработанной выделенной инженерной группой с нуля (в отличие от F-150 Lightning, переделанного из ДВС-платформы). Габаритами сопоставим с Maverick — компактнее и доступнее Lightning. От $28,350 ($29,945 с доставкой), больше пассажирского объёма чем у RAV4, фрунк + кузов. Мощность пока не раскрыта. Старт производства Q1 2027. Пришёл на смену отменённому проекту 'T3' (тяжёлый электропикап для BlueOval City).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:42:56.743Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/3840px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/3840px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:42:56.743Z"
+}

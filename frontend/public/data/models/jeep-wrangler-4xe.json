@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-wrangler-4xe",
+  "slug": "jeep-wrangler-4xe",
+  "name": "Jeep Wrangler 4xe",
+  "fullName": "Jeep Wrangler 4xe (2021)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:58:31.362Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg/3840px-Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg/3840px-Jeep_Wrangler_Unlimited_%28JL%29_PHEV_IMG_5808.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:58:31.362Z"
+}

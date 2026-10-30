@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi S8 (1994–present) is the performance flagship saloon. The D2 pioneered the aluminium Space Frame in series production (1994); the D5 uses a twin-turbocharged 4.0-litre V8 with 48V mild-hybrid and active suspension. Each generation represents the apex of Audi's technology.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Audi_S8_-_Tokyo_Motor_Show_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Audi_S8_-_Tokyo_Motor_Show_2013_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "sedan",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:43:49.912Z",
   "generations": [
     {
       "id": "gen-audi-s8-1",

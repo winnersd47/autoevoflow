@@ -1,0 +1,20 @@
+{
+  "id": "sync-xpeng-p5",
+  "slug": "xpeng-p5",
+  "name": "Xpeng P5",
+  "fullName": "Xpeng P5 (2021)",
+  "brandId": "xpeng",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:47:46.569Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2021_XPeng_P5.jpg/3840px-2021_XPeng_P5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2021_XPeng_P5.jpg/3840px-2021_XPeng_P5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:47:46.569Z"
+}

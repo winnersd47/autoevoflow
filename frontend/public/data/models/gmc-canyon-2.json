@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-canyon-2",
+  "slug": "gmc-canyon-2",
+  "name": "GMC Canyon",
+  "fullName": "GMC Canyon",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Платформа GMT31XX (впервые для США/Канады, ранее применялась на международном Chevrolet/Holden Colorado с 2011г.). 305hp — действительно 3.6L V6 (LFX), подтверждено (engineType='v6' здесь корректен, в отличие от Gen.1 и Gen.3 — см. их note). Источники: gmauthority.com/blog/gm/gmc/canyon/2015-canyon, kbb.com/gmc/canyon/2015 (3.6L V6 305hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:16:43.838Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg/3840px-2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg/3840px-2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:16:43.838Z"
+}

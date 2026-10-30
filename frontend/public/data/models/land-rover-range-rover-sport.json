@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-range-rover-sport",
+  "slug": "land-rover-range-rover-sport",
+  "name": "Range Rover Sport Electric",
+  "fullName": "Range Rover Sport Electric",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Второй электромобиль Range Rover — электрическая версия текущего поколения Range Rover Sport (L461, платформа MLA-Flex, общая с Range Rover Electric). Прототип показан на Goodwood FoS 16 июля 2026, полная премьера — октябрь 2026. Два мотора, полный привод, 542 л.с./627 фунт-фут, батарея 119 кВтч, 0-60 миль/ч за 4.3с, WLTP ~378 миль, активные стабилизаторы, подруливающая задняя ось. Год 2027 — старт продаж (в США идёт как 2028 модельный год). Источник: robbreport.com, wardsauto.com, automotiveaddicts.com (2026).",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:20:23.073Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg/3840px-2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg/3840px-2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:20:23.074Z"
+}

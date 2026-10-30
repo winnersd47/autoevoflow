@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-xc60-2-pe",
+  "slug": "volvo-xc60-2-pe",
+  "name": "Volvo XC60 Polestar Engineered",
+  "fullName": "Volvo XC60 Polestar Engineered",
+  "brandId": "volvo",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Версия Polestar Engineered для XC60 Gen2 — анонсирована одновременно с V60 Polestar Engineered (лето 2020, MY2020/2021). Серийный T8 Twin Engine PHEV с доработанным ПО — 415 л.с./494 lb-ft на момент запуска (позже, с MY2022, мощность всей линейки T8 Polestar Engineered поднята до 455 л.с. новым электромотором — в этом узле отражён launch-спек). Источники: motorauthority.com, edmunds.com (2021 Volvo XC60 T8 Polestar Engineered).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:02:19.286Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:02:19.286Z"
+}

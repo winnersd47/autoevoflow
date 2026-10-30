@@ -1,0 +1,20 @@
+{
+  "id": "sync-zenvo-st1",
+  "slug": "zenvo-st1",
+  "name": "ST1",
+  "fullName": "ST1",
+  "brandId": "zenvo",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:47:06.507Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/2009_Zenvo_ST1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/2009_Zenvo_ST1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:47:06.507Z"
+}

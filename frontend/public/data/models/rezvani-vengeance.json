@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-vengeance",
+  "slug": "rezvani-vengeance",
+  "name": "Rezvani Vengeance",
+  "fullName": "Rezvani Vengeance",
+  "brandId": "rezvani",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Full-size luxury tactical SUV on Cadillac Escalade GM T1 platform. 682 HP supercharged V8. 8 passengers. $249K.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:02:18.371Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:02:18.371Z"
+}

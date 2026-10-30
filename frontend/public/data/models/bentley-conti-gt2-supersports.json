@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-conti-gt2-supersports",
+  "slug": "bentley-conti-gt2-supersports",
+  "name": "Bentley Continental Supersports",
+  "fullName": "Bentley Continental Supersports (2017)",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Прощальный тираж 2-го поколения, представлен в январе 2017 (продажи 2017-2018, 710 экземпляров + кабриолет-версия). Форсированный W12 — 710 PS/700 л.с., 1017 Нм, самый быстрый серийный 4-местный автомобиль в мире на момент выпуска (336 км/ч), разгон 0-100 за 3.4с. Источники: bentleymedia.com, forbes.com, autoindustriya.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:34:29.479Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:34:29.479Z"
+}

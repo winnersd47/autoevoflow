@@ -1,0 +1,20 @@
+{
+  "id": "sync-daihatsu-terios-3",
+  "slug": "daihatsu-terios-3",
+  "name": "Daihatsu Terios Gen.3",
+  "fullName": "Daihatsu Terios Gen.3 (2017)",
+  "brandId": "daihatsu",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Полностью новая платформа (общая с Daihatsu Xenia/Toyota Avanza). Мотор 2NR-VE 1.5L, 104PS/136Нм. Бейдж-инженерный близнец — Toyota Rush (та же платформа, тот же мотор; узла Toyota Rush пока нет в графе).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:58:51.040Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2018_Daihatsu_Terios_1.5_R_Deluxe_wagon_%28F800RG%3B_01-12-2019%29%2C_South_Tangerang.jpg/3840px-2018_Daihatsu_Terios_1.5_R_Deluxe_wagon_%28F800RG%3B_01-12-2019%29%2C_South_Tangerang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2018_Daihatsu_Terios_1.5_R_Deluxe_wagon_%28F800RG%3B_01-12-2019%29%2C_South_Tangerang.jpg/3840px-2018_Daihatsu_Terios_1.5_R_Deluxe_wagon_%28F800RG%3B_01-12-2019%29%2C_South_Tangerang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:58:51.040Z"
+}

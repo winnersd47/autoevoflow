@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-ami-electric",
+  "slug": "citroen-ami-electric",
+  "name": "Ami",
+  "fullName": "Ami (2020)",
+  "brandId": "citroen",
+  "bodyType": "microcar",
+  "segment": "micro",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Безлицензионный электроквадрицикл (мотор 6кВт/8лс, батарея 5.5кВтч, ~75км WMTC, макс. 45км/ч) — возрождение нейма Ami спустя 59 лет, НЕ новое поколение седана Ami 6 (1961): иной класс ТС, нет инженерной преемственности. Источники: Wikipedia \"Citroën Ami (electric vehicle)\", drivingelectric.com — мощность перепроверена вторым поиском (автомобиль-catalog давал расходящиеся 9кВт/12лс — отклонено как менее достоверное, 3 независимых источника сходятся на 6кВт/8лс).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:25:21.378Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/2021_Citroen_Ami.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/2021_Citroen_Ami.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:25:21.378Z"
+}

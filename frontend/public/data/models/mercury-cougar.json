@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercury-cougar",
+  "slug": "mercury-cougar",
+  "name": "Mercury Cougar Gen.1",
+  "fullName": "Mercury Cougar Gen.1 (1967)",
+  "brandId": "mercury",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:37:02.249Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/1969_Mercury_Cougar_2d_HT%2C_front_right.jpg/3840px-1969_Mercury_Cougar_2d_HT%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/1969_Mercury_Cougar_2d_HT%2C_front_right.jpg/3840px-1969_Mercury_Cougar_2d_HT%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:37:02.249Z"
+}

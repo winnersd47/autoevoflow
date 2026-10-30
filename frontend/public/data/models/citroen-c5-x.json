@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-c5-x",
+  "slug": "citroen-c5-x",
+  "name": "C5 X",
+  "fullName": "C5 X",
+  "brandId": "citroen",
+  "bodyType": "fastback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Fastback crossover. Avant-garde fastback-SUV body. PHEV 225 HP, EV-only 50 km. Replaces C6.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:46.610Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/3840px-Citroen_C4_%282020%29_1X7A5851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/3840px-Citroen_C4_%282020%29_1X7A5851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:10:46.610Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-brera",
+  "slug": "alfa-romeo-brera",
+  "name": "Brera",
+  "fullName": "Brera (2005)",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:41:26.955Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg/3840px-Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg/3840px-Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:41:26.955Z"
+}

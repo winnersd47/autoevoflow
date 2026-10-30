@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-phantom8-fl",
+  "slug": "rolls-royce-phantom8-fl",
+  "name": "Phantom VIII Series II",
+  "fullName": "Phantom VIII Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:35:07.185Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/3840px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/3840px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:35:07.185Z"
+}

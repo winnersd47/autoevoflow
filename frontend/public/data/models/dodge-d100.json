@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-d100",
+  "slug": "dodge-d100",
+  "name": "D-100 1961",
+  "fullName": "D-100 1961",
+  "brandId": "dodge",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:52:25.721Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/2021_Dodge_Durango_GT_%28facelift%29%2C_front_6.21.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/2021_Dodge_Durango_GT_%28facelift%29%2C_front_6.21.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:52:25.721Z"
+}

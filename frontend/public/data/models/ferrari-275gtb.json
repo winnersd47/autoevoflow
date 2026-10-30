@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-275gtb",
+  "slug": "ferrari-275gtb",
+  "name": "Ferrari 275 GTB",
+  "fullName": "Ferrari 275 GTB (1964)",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1964,
+  "isActive": true,
+  "description": "Дизайн — Pininfarina.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:22:47.247Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:22:47.247Z"
+}

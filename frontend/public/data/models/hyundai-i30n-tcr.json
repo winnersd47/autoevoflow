@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-i30n-tcr",
+  "slug": "hyundai-i30n-tcr",
+  "name": "Hyundai i30 N TCR",
+  "fullName": "Hyundai i30 N TCR",
+  "brandId": "hyundai",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Соперник Lynk & Co 03 TCR в WTCR. Мотор Theta II (G4KH) турбо I4, 350hp/460Нм, 6-ст. Xtrac, 1265кг. Принёс Hyundai самый первый чемпионский титул WTCR (2018) — до дебюта Lynk & Co. Работал через BRC Racing Team. Дорожная база — Hyundai i30 N (PD, с 2017) — уже представлена в графе отдельным узлом; ребро derived_from добавлено (узел ранее ошибочно считался без родителя).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:34.403Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Hyundai%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1445%29.jpg/3840px-Hyundai%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1445%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Hyundai%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1445%29.jpg/3840px-Hyundai%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1445%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:57:34.403Z"
+}

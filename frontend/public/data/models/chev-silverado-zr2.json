@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-silverado-zr2",
+  "slug": "chev-silverado-zr2",
+  "name": "Chevrolet Silverado 1500 ZR2",
+  "fullName": "Chevrolet Silverado 1500 ZR2",
+  "brandId": "chevrolet",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "6.2L V8, 420hp/460lb-ft (есть и дизель 3.0L Duramax, 305hp). 33\" внедорожные шины, электронные блокировки диффов, off-road режим. Конкурент Ford F-150 Raptor/Ram TRX.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:06:08.883Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:06:08.883Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-prado-250",
+  "slug": "toyota-prado-250",
+  "name": "Toyota Land Cruiser",
+  "fullName": "2026 Toyota Land Cruiser",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Это Land Cruiser Prado 5-го поколения (J250, презентован в 2023 г.), который с MY2024 продаётся в США/Канаде под укороченным историческим именем «Land Cruiser» (не путать с глобальным флагманом Land Cruiser 300 — тот в Северной Америке не продаётся с 2021 г.). Силовой агрегат — гибрид i-FORCE MAX, турбо 2.4L I4 + электромотор, 326 л.с./465 lb-ft. Источник: Toyota Newsroom, июль 2023.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:33:31.435Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:33:31.435Z"
+}

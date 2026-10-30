@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-6gs",
+  "slug": "buick-regal-6gs",
+  "name": "Buick Regal GS",
+  "fullName": "Buick Regal GS",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Новый кузов-лифтбек Sportback (+ универсал TourX на том же поколении, без версии GS) на базе Opel Insignia B/Holden Commodore (платформа E2XX). GS — твин-турбо 3.6L V6, 310hp, полный привод, 9-ст. автомат. Последнее поколение Regal — модель снята с производства в США в 2020г. Источник: gmauthority.com (2018 Buick Regal GS specifications), foxnews.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:16.227Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:16.227Z"
+}

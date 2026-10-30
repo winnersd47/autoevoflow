@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-vue",
+  "slug": "saturn-vue",
+  "name": "Saturn Vue Gen.1",
+  "fullName": "Saturn Vue Gen.1 (2001)",
+  "brandId": "saturn",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "Saturn's first SUV. Unique steel space-frame + polymer panels. AWD available. 2.2L/3.5L V6.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:14:33.448Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2008_Saturn_Vue_XE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2008_Saturn_Vue_XE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:14:33.448Z"
+}

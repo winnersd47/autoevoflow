@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-kona-n",
+  "slug": "hyundai-kona-n",
+  "name": "Hyundai Kona N",
+  "fullName": "Hyundai Kona N",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Производительная N-версия Kona (платформа OS), представлена февр. 2021, в продаже с середины 2021. Турбо 2.0L T-GDI, 276 л.с. / 392 Нм, 8-ст. мокрый DCT, электронный дифференциал повышенного трения, 0-100 за 5.5с. Снята с производства в 2023 вместе со сменой поколения базовой модели (для SX2 версии N не анонсировано). Часть N-линейки (i30 N, Elantra N, Veloster N, Kona N, i20 N), требующей отдельного внимания по заданию.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:51:15.936Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg/3840px-Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg/3840px-Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:51:15.936Z"
+}

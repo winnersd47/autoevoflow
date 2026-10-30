@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-prelude",
+  "slug": "honda-prelude",
+  "name": "Honda Prelude Gen.1",
+  "fullName": "Honda Prelude Gen.1 (1978)",
+  "brandId": "honda",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:24:10.217Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toranomon_Alcea_Tower_26Dec2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toranomon_Alcea_Tower_26Dec2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:24:10.217Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-espace-2",
+  "slug": "renault-espace-2",
+  "name": "Renault Espace II",
+  "fullName": "Renault Espace II",
+  "brandId": "renault",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "Всё ещё композитный кузов от Matra; топ-версия Quadra — 2.9 V6 с полным приводом.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:34:37.809Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/3840px-2015-present_Renault_Espace_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/3840px-2015-present_Renault_Espace_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:34:37.809Z"
+}

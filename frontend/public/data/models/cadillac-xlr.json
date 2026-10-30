@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-xlr",
+  "slug": "cadillac-xlr",
+  "name": "Cadillac XLR",
+  "fullName": "Cadillac XLR",
+  "brandId": "cadillac",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:17:53.549Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Black_Cadillac_XLR%3B_Hastings%2C_MN_%2841324714390%29_%28cropped%29.jpg/3840px-Black_Cadillac_XLR%3B_Hastings%2C_MN_%2841324714390%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Black_Cadillac_XLR%3B_Hastings%2C_MN_%2841324714390%29_%28cropped%29.jpg/3840px-Black_Cadillac_XLR%3B_Hastings%2C_MN_%2841324714390%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:17:53.549Z"
+}

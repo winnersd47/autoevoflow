@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-terrain-1",
+  "slug": "gmc-terrain-1",
+  "name": "GMC Terrain",
+  "fullName": "GMC Terrain",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Первое поколение Terrain — компактный кроссовер на платформе Theta, заменил GMC Envoy в линейке (см. inspired_by edge от gmc-envoy-1). При запуске (MY2010) топовый мотор — 3.0L V6, 264hp; с MY2013 заменён на более мощный 3.6L V6, 301hp/272 lb-ft (лучше тянул прицеп). Здесь указан поздний/топовый вариант поколения. Источники: cargurus.com/research/articles/gmc-terrain-buying-guide, enclaveforum.net/threads (2013 Terrain 3.6L 301hp), usnews.com/cars-trucks/gmc/terrain/2013/performance. ДОБАВЛЕНО: Terrain полностью отсутствовал в графе GMC.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:13:56.042Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:13:56.042Z"
+}

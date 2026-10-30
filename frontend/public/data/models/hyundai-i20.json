@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-i20",
+  "slug": "hyundai-i20",
+  "name": "Hyundai i20",
+  "fullName": "Hyundai i20",
+  "brandId": "hyundai",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Третье поколение i20 (BC3), в продаже с 2020 (Европа и развивающиеся рынки, в США не поставляется). Базовый мотор 1.2 MPI атмосферный, 84 л.с. (опорное значение узла); также 1.0 T-GDI (100-120 л.с., частично с мягким гибридом). Добавлено как базовое поколение для уже существовавшего в графе узла i20 N, у которого не было родителя.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:51:17.693Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hyundai_i20_%28III%2C_Facelift%29_%E2%80%93_f_11102025.jpg/3840px-Hyundai_i20_%28III%2C_Facelift%29_%E2%80%93_f_11102025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hyundai_i20_%28III%2C_Facelift%29_%E2%80%93_f_11102025.jpg/3840px-Hyundai_i20_%28III%2C_Facelift%29_%E2%80%93_f_11102025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:51:17.693Z"
+}

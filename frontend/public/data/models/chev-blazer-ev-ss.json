@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-blazer-ev-ss",
+  "slug": "chev-blazer-ev-ss",
+  "name": "Chevrolet Blazer EV SS",
+  "fullName": "Chevrolet Blazer EV SS",
+  "brandId": "chevrolet",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "615hp/650lb-ft, полный привод, запас хода 302мили EPA, от $62062. Первое применение бейджа SS на электромобиле Chevrolet — и первый SS вообще в текущей линейке Blazer.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:01:27.035Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/2024_Chevrolet_Blazer_EV_2LT_AWD_in_Summit_White%2C_front_right%2C_2024-03-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/2024_Chevrolet_Blazer_EV_2LT_AWD_in_Summit_White%2C_front_right%2C_2024-03-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:01:27.035Z"
+}

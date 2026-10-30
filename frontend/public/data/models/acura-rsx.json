@@ -1,0 +1,20 @@
+{
+  "id": "sync-acura-rsx",
+  "slug": "acura-rsx",
+  "name": "Acura RSX",
+  "fullName": "Acura RSX",
+  "brandId": "acura",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Прямой преемник Integra в США/Канаде (2002-2006), в остальном мире — Honda Integra (DC5). Базовый мотор K20A3, 160 л.с. В графе отсутствовал целиком — цепочка шла напрямую от DC2 Type R (1997) к возрождённой Integra (2023), пропуская целое поколение. Источник: autoevolution.com, Wikipedia (Acura RSX).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:16:00.355Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Acura_RSX_--_10-04-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Acura_RSX_--_10-04-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:16:00.355Z"
+}

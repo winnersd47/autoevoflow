@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-starion",
+  "slug": "mitsubishi-starion",
+  "name": "Mitsubishi Starion ESI-R",
+  "fullName": "Mitsubishi Starion ESI-R",
+  "brandId": "mitsubishi",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "Единственное поколение заднеприводного турбо-купе Starion (1982-1989), отсутствовавшее в графе. Узкий кузов продавался с 1982г. (2.0/2.6 турбо, ~170 л.с.), в 1986г. появился широкий кузов ESI-R (в США и части рынков — Chrysler/Dodge/Plymouth Conquest TSi, тот же автомобиль под другим бейджем; нода Conquest в графе отсутствует, кросс-брендовое ребро не создано) с интеркулером на 2.6 G54B. К 1988г. давление наддува подняли до 10psi, мощность выросла до пиковых 188 л.с./234 lb-ft — это и есть указанная характеристика узла. ESI-R выиграл серию SCCA Escort Endurance 1987г. и суточную гонку Nelson Ledges. Источники: Wikipedia 'Mitsubishi Starion', hagerty.com, forza.fandom.com, classic.com (VIN JMAA187A...).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:57:41.498Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1988_Mitsubishi_Starion_Turbo_2.0_Front_%281%29.jpg/3840px-1988_Mitsubishi_Starion_Turbo_2.0_Front_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1988_Mitsubishi_Starion_Turbo_2.0_Front_%281%29.jpg/3840px-1988_Mitsubishi_Starion_Turbo_2.0_Front_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:57:41.498Z"
+}

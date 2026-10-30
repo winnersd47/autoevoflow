@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-countach-quattrovalvole",
+  "slug": "lamborghini-countach-quattrovalvole",
+  "name": "Lamborghini Countach 5000 Quattrovalvole",
+  "fullName": "Lamborghini Countach 5000 Quattrovalvole",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "1985 — увеличенный до 5.2Л, 4 клапана на цилиндр (Quattrovalvole), 455hp на европейской версии с карбюраторами Weber; американские машины с впрыском Bosch K-Jetronic из-за норм выброса — только 420hp. Источник: официальные спецификации Lamborghini/Wikipedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:27:11.738Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:27:11.738Z"
+}

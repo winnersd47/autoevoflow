@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-diablo-gt",
+  "slug": "lamborghini-diablo-gt",
+  "name": "Lamborghini Diablo GT",
+  "fullName": "Lamborghini Diablo GT",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "1999 — увеличенный до 6.0Л V12, RWD, кузовной аэрокомплект, 583hp. Лимит 80 экз. Источник: официальные спецификации Lamborghini/Wikipedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:26:02.679Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:26:02.679Z"
+}

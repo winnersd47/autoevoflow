@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-lp580-2-spyder",
+  "slug": "lamborghini-huracan-lp580-2-spyder",
+  "name": "Lamborghini Huracán LP580-2 Spyder",
+  "fullName": "Lamborghini Huracán LP580-2 Spyder",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "2016 — открытая заднеприводная версия LP580-2, тот же 580hp 5.2Л V10. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:19:43.467Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:19:43.467Z"
+}

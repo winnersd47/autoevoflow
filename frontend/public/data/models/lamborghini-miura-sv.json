@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-miura-sv",
+  "slug": "lamborghini-miura-sv",
+  "name": "Lamborghini Miura P400 SV",
+  "fullName": "Lamborghini Miura P400 SV",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "Женева, март 1971 — финальная и самая быстрая серийная Miura: 385hp, раздельная смазка двигателя/КПП, LSD, переработанная подвеска, расширенные задние арки под более широкую резину (без фирменных \"ресничек\" фар). Источник: официальные спецификации Lamborghini/Wikipedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:27:19.855Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/3840px-1971_Lamborghini_Miura_P400_SV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/3840px-1971_Lamborghini_Miura_P400_SV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:27:19.855Z"
+}

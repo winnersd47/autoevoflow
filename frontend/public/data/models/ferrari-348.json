@@ -12,10 +12,16 @@
   "isActive": false,
   "description": "The Ferrari 348 (1989–1994) introduced longitudinal engine mounting and a 5-speed gearbox — significant mechanical advances that were somewhat obscured by an initially difficult handling balance that Ferrari corrected mid-production.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "ferrari", "mid-engine", "v8", "classic"],
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "tags": [
+    "coupe",
+    "ferrari",
+    "mid-engine",
+    "v8",
+    "classic"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z"
+  "updatedAt": "2026-10-29T15:21:52.698Z"
 }

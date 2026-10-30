@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-ram-hd-1",
+  "slug": "dodge-ram-hd-1",
+  "name": "Ram HD Gen.1",
+  "fullName": "Ram HD Gen.1",
+  "brandId": "dodge",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:53:34.894Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1990_Dodge_Ram_350_Maxi%2C_front_right.jpg/3840px-1990_Dodge_Ram_350_Maxi%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1990_Dodge_Ram_350_Maxi%2C_front_right.jpg/3840px-1990_Dodge_Ram_350_Maxi%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:53:34.894Z"
+}

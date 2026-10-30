@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-205-turbo-16",
+  "slug": "peugeot-205-turbo-16",
+  "name": "Peugeot 205 Turbo 16",
+  "fullName": "Peugeot 205 Turbo 16",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Дорожная гомологационная версия для Group B — 200 штук, среднемоторный полный привод, 1.775Л турбо ~197-200 л.с. Источник: silodrome.com, supercarnostalgia.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:17:37.721Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/3840px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/3840px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:17:37.721Z"
+}

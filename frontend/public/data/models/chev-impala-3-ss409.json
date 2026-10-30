@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-impala-3-ss409",
+  "slug": "chev-impala-3-ss409",
+  "name": "Chevrolet Impala SS 409",
+  "fullName": "Chevrolet Impala SS 409 (1961)",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "RPO 240 Impala SS дебютировал в феврале 1961г. как опция всего за $53.80 (спецотделка, усиленная подвеска и тормоза, спиннеры на колёсных колпаках). Топ-мотор — легендарный 409ci V8, 360hp при 5800 об/мин (409 lb-ft при 3600) — та самая \"she's real fine, my 409\" у Beach Boys. Из всех SS-Impala 1961г. лишь 142 экз. получили именно 409-й мотор. Источник: chevyhardcore.com, barrett-jackson.com, Wikipedia (Super Sport).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:54:02.206Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/3840px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/3840px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:54:02.206Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-207-gti",
+  "slug": "peugeot-207-gti",
+  "name": "Peugeot 207 GTi THP 175",
+  "fullName": "Peugeot 207 GTi THP 175",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "1.6 THP (PSA-BMW Prince) турбо — 175 л.с. (150 л.с. у более ранней 207 1.6 THP не-GTi). Источник: parkers.co.uk, topgear.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:18:44.004Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG/3840px-1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG/3840px-1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:18:44.004Z"
+}

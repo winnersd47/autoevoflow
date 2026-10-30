@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-flying-spur3-v8",
+  "slug": "bentley-flying-spur3-v8",
+  "name": "Bentley Flying Spur V8",
+  "fullName": "Bentley Flying Spur V8",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "V8-версия 3-го поколения — 4.0-литровый твин-турбо V8, 542 л.с., 770 Нм, разгон 0-100 за 4.1с, макс. 318 км/ч. Более лёгкая и манёвренная альтернатива W12-версии. Источники: cars.com, autoevolution.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:34:36.514Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg/3840px-Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg/3840px-Bentley_Flying_Spur_W12_Speed_%282019%29_1X7A1636.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:34:36.514Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-k5",
+  "slug": "kia-k5",
+  "name": "Kia K5 GT (DL3)",
+  "fullName": "Kia K5 GT (DL3)",
+  "brandId": "kia",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Производительный трим K5 (DL3), представлен в начале 2021 (MY2021). Турбомотор 2.5 T-GDI Smartstream — 290 л.с./311 фунт-фут, 8-ступ. DCT (только передний привод), разгон 0-100 км/ч за 5.8с. source: MotorWeek, Kia USA (2021).",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:11:01.372Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2022_Kia_K5_GT-Line_in_Pacific_Blue%2C_Front_Left%2C_09-05-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2022_Kia_K5_GT-Line_in_Pacific_Blue%2C_Front_Left%2C_09-05-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:11:01.372Z"
+}

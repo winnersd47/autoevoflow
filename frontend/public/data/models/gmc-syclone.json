@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-syclone",
+  "slug": "gmc-syclone",
+  "name": "GMC Syclone (культовый турбо-AWD пикап)",
+  "fullName": "GMC Syclone (культовый турбо-AWD пикап)",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "performance",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "Культовый высокопроизводительный пикап на базе компактной GMC Sonoma (S-15), выпускался только в 1991г. (2995 экземпляров). Турбированный 4.3L V6 LB4 (интеркулер, 14psi наддув, спецпоршни), 280hp/350 lb-ft, полный привод, 4-ступенчатый АКПП 4L60 — разгон 0-100км/ч за 4.6с, в 1991г. это был самый быстрый серийный пикап в мире (обгонял даже Ferrari 348 в разгоне на тест-драйве Car and Driver). Источники: en.wikipedia.org/wiki/GMC_Syclone, tfltruck.com/2018/05/truck-rewind-gmc-syclone-1991-awd-turbo, howstuffworks.com/1991-1992-gmc-syclone. Базовая GMC Sonoma (S-15) не представлена в графе отдельно (вне списка охватываемых линеек ТЗ), поэтому derived_from к ней не создаём — вместо этого связываем Syclone и Typhoon между собой (общий турбомотор/привод).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:14:05.994Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/1991GMCSyclone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/1991GMCSyclone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:14:05.994Z"
+}

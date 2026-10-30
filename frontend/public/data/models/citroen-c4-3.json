@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-c4-3",
+  "slug": "citroen-c4-3",
+  "name": "C4 Gen.3",
+  "fullName": "C4 Gen.3",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "ë-C4: first Citroën pure EV on CMP platform. 134 HP electric, 350 km range. Also 1.2 PureTech ICE.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:44.919Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/3840px-Citroen_C4_%282020%29_1X7A5851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/3840px-Citroen_C4_%282020%29_1X7A5851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:10:44.919Z"
+}

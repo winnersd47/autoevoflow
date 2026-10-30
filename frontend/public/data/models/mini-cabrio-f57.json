@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-cabrio-f57",
+  "slug": "mini-cabrio-f57",
+  "name": "Mini Cabrio F57",
+  "fullName": "Mini Cabrio F57 (2015)",
+  "brandId": "mini",
+  "bodyType": "convertible",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "3rd gen convertible. Electric folding soft-top. F56 platform, 1.5L/2.0L. 40% stiffer than R57.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:12:14.541Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/3840px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/3840px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:12:14.541Z"
+}

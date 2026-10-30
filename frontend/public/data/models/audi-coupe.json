@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-coupe",
+  "slug": "audi-coupe",
+  "name": "Coupé B4 (S2)",
+  "fullName": "Coupé B4 (S2)",
+  "brandId": "audi",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:30:55.023Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Audi_Coup%C3%A9_2.3E_B3%2C_silver%2C_front_left_side.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Audi_Coup%C3%A9_2.3E_B3%2C_silver%2C_front_left_side.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:30:55.023Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-f355-gts",
+  "slug": "ferrari-f355-gts",
+  "name": "F355 GTS",
+  "fullName": "F355 GTS",
+  "brandId": "ferrari",
+  "bodyType": "targa",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "Тарга-версия F355 со съёмной жёсткой панелью крыши, убираемой за спинки кресел. В продаже с 1995-го, тот же 3.5Л V8 (375 л.с., 380 PS).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:14:51.490Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1973_Ferrari_Daytona_365_GTB4_Blue_LC22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1973_Ferrari_Daytona_365_GTB4_Blue_LC22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:14:51.490Z"
+}

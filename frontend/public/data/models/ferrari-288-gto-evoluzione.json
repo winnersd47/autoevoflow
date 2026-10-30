@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-288-gto-evoluzione",
+  "slug": "ferrari-288-gto-evoluzione",
+  "name": "Ferrari 288 GTO Evoluzione",
+  "fullName": "Ferrari 288 GTO Evoluzione",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "5-6 прототипов (источники расходятся) для несостоявшейся программы Group B — Ferrari свернула проект после отмены группы B в раллийном чемпионате в 1986-м. Кузов из карбона/кевлара, увеличенный наддув, ~650 л.с. против 400 у серийной 288 GTO. Наработки Evoluzione легли в основу F40 (1987) — по сути прямой технический предшественник.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:13:36.801Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ferrari_288_GTO_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Ferrari_288_GTO_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:13:36.801Z"
+}

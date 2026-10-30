@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-aventador-ultimae",
+  "slug": "lamborghini-aventador-ultimae",
+  "name": "Lamborghini Aventador LP780-4 Ultimae",
+  "fullName": "Lamborghini Aventador LP780-4 Ultimae",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Дек. 2021 — финальная и самая мощная серийная Aventador (780hp), прощание с чистым атмосферным V12 без гибридизации перед Revuelto. Лимит 350 купе. Источник: официальный пресс-релиз Lamborghini 2021.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:18:34.152Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:18:34.152Z"
+}

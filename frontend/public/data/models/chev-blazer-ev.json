@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-blazer-ev",
+  "slug": "chev-blazer-ev",
+  "name": "Blazer EV",
+  "fullName": "Blazer EV",
+  "brandId": "chevrolet",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:10:46.680Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/2024_Chevrolet_Blazer_EV_2LT_AWD_in_Summit_White%2C_front_right%2C_2024-03-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/2024_Chevrolet_Blazer_EV_2LT_AWD_in_Summit_White%2C_front_right%2C_2024-03-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:10:46.680Z"
+}

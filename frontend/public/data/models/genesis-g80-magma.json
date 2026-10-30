@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-g80-magma",
+  "slug": "genesis-g80-magma",
+  "name": "G80 Magma",
+  "fullName": "G80 Magma",
+  "brandId": "genesis",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Лимитированная серия — 20 экземпляров, эксклюзивно для Ближнего Востока (гл. обр. ОАЭ); показан на New York Auto Show 2025, производство подтверждено на мероприятии в пустыне ОАЭ в конце янв. 2026. 3.5L твин-турбо V6, форсирован до 525hp (+150 л.с. к обычной G80 3.5T 375hp) — самый мощный серийный седан в истории Genesis; 0-60 за 3.4с, макс. скорость 164 миль/ч. Построен на обновлённом (рестайлинг 2024/2025) кузове RG3. Отдельно существует EV-концепт 'G80 EV Magma' под той же программой Magma — его характеристики в открытых источниках на момент аудита смешиваются/дублируются с данными X Gran Berlinetta (явная контаминация в агрегаторах), поэтому в граф НЕ добавлен до появления чистого источника. Источники: carbuzz.com 'The Genesis G80 Magma Sports Sedan Packs 525 HP For Just 20 Lucky Buyers', thekoreancarblog.com 'Genesis G80 Magma Specs Unveiled: 3.5 TT V6 with 525 HP', carscoops.com 'Genesis Built An M5 Rival That Makes A Ferrari Look Mass-Produced'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:44:02.515Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Genesis_G80_IAA_2021_1X7A0229.jpg/3840px-Genesis_G80_IAA_2021_1X7A0229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Genesis_G80_IAA_2021_1X7A0229.jpg/3840px-Genesis_G80_IAA_2021_1X7A0229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:44:02.515Z"
+}

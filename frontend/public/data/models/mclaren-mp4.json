@@ -1,0 +1,20 @@
+{
+  "id": "sync-mclaren-mp4",
+  "slug": "mclaren-mp4",
+  "name": "McLaren MP4-12C Spider",
+  "fullName": "McLaren MP4-12C Spider",
+  "brandId": "mclaren",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Родстер-версия MP4-12C с мягкой убираемой крышей (17 сек на открытие/закрытие). Тот же 3.8 твин-турбо V8 (M838T), 625PS/616hp — чуть мощнее раннего купе. Представлен в 2012г.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:46:13.072Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/McLaren_MP4-12C_%E2%80%93_Frontansicht_%281%29%2C_30._August_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/McLaren_MP4-12C_%E2%80%93_Frontansicht_%281%29%2C_30._August_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:46:13.072Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-telluride",
+  "slug": "kia-telluride",
+  "name": "Kia Telluride II",
+  "fullName": "Kia Telluride II",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Полностью новое поколение, впервые показано в 2026: платформа длиннее (колёсная база 116.9\" vs 114.2\", длина 199.2\" vs 196.9\"). V6 полностью снят — впервые только турбомоторы: 2.5T (274 л.с./311 фунт-фут, базовый) и 2.5T-гибрид (329 л.с., заявлен как топ-версия, экономичность ок. 35 mpg combined — указан анкором). Дизайн более угловатый/'квадратный'. source: Edmunds, KBB, Consumer Reports (2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:11:21.627Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2022_Kia_Telluride_EX_%28facelift%29%2C_front_4.16.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2022_Kia_Telluride_EX_%28facelift%29%2C_front_4.16.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:11:21.627Z"
+}

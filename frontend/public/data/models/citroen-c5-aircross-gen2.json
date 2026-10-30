@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-c5-aircross-gen2",
+  "slug": "citroen-c5-aircross-gen2",
+  "name": "C5 Aircross Gen.2",
+  "fullName": "C5 Aircross Gen.2",
+  "brandId": "citroen",
+  "bodyType": "suv",
+  "segment": "suv_mid",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Второе поколение (продажи в Европе со 2П 2025) — новая платформа STLA Medium (Stellantis) взамен EMP2 у Gen.1. Линейка: гибрид 145лс (1.2 турбо-3 + e-DCS, 0.9кВтч), PHEV 225лс (1.6 турбо-4 + мотор 125лс, ~86-100км электрозапас), позже добавлена электроверсия. Указан топ-PHEV для сопоставимости с Gen.1 (тоже 225, ранее неточно \"hybrid\" вместо \"phev\"). Источники: media.stellantis.com, parkers.co.uk, auto-data.net — проверено 2026-10-21.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:26:26.314Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg/3840px-Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg/3840px-Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:26:26.314Z"
+}

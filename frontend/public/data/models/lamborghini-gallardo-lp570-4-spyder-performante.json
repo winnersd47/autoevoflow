@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-gallardo-lp570-4-spyder-performante",
+  "slug": "lamborghini-gallardo-lp570-4-spyder-performante",
+  "name": "Lamborghini Gallardo LP570-4 Spyder Performante",
+  "fullName": "Lamborghini Gallardo LP570-4 Spyder Performante",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Лос-Анджелес, нояб. 2010 — открытая облегчённая версия, аналог Superleggera без крыши, 570hp. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:23:30.924Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:23:30.924Z"
+}

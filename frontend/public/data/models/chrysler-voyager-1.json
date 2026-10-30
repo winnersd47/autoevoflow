@@ -1,0 +1,20 @@
+{
+  "id": "sync-chrysler-voyager-1",
+  "slug": "chrysler-voyager-1",
+  "name": "Voyager (1-е пок.)",
+  "fullName": "Voyager (1-е пок.)",
+  "brandId": "chrysler",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Поколения 2-5 (1991/1996/2001/2008) этого минивэна в графе отдельными Chrysler-узлами не представлены осознанно: вся линейка поколений уже полностью смоделирована через dodge-caravan-1..5 (та же физическая платформа каждого цикла, shares_platform уже стоит на этом узле), а \"Town & Country\" все эти годы был не отдельной моделью/поколением, а топовым тримом/под-брендом ТОЙ ЖЕ генерации минивэна (с 1990г.) — отдельного chrysler-town-country-* узла нет и намеренно не добавлялся, чтобы не дублировать Dodge-цепочку псевдо-поколениями по именам трима. В 2017 Voyager и Town & Country одновременно заменены на Pacifica (см. evolves_into) — 32-летний интервал ребра отражает реальный факт, что Chrysler-сторона этого семейства моделировалась по бренду-владельцу платформы (Dodge), а не дублировалась от узла к узлу.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:16:04.703Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Chrysler_Voyager_front_20080419.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Chrysler_Voyager_front_20080419.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:16:04.703Z"
+}

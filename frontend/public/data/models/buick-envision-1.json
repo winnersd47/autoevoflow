@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-envision-1",
+  "slug": "buick-envision-1",
+  "name": "Buick Envision Gen.1",
+  "fullName": "Buick Envision Gen.1",
+  "brandId": "buick",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Первый китайский автомобиль GM, официально продаваемый в США (с лета 2016г.). Топ-мотор — 2.0L turbo I4, 252hp/260 фунт-фут (версия для Северной Америки); базовый — 2.5L атмосферный I4, 197hp. Источник: gmauthority.com, wikipedia (Buick Envision).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:25.506Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg/3840px-2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg/3840px-2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:25.506Z"
+}

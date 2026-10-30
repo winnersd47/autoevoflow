@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-ims-concept",
+  "slug": "nissan-ims-concept",
+  "name": "Nissan IMs Concept",
+  "fullName": "Nissan IMs Concept",
+  "brandId": "nissan",
+  "bodyType": "concept",
+  "segment": "concept",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:33:44.632Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nissan_Yokohama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nissan_Yokohama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:33:44.632Z"
+}

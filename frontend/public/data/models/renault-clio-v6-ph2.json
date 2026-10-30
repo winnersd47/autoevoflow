@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-clio-v6-ph2",
+  "slug": "renault-clio-v6-ph2",
+  "name": "Renault Clio V6 Renault Sport Phase 2",
+  "fullName": "Renault Clio V6 Renault Sport Phase 2",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Рестайлинг 2003г. — мощность поднята с 230 до 255hp, доработана подвеска/геометрия (убрали опасную избыточную поворачиваемость Phase1). Источник: rushmagazine.co.uk \"Clio V6 255 Review\".",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:19:07.109Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:19:07.109Z"
+}

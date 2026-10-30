@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-mohave",
+  "slug": "kia-mohave",
+  "name": "Kia Mohave 'The Masterpiece'",
+  "fullName": "Kia Mohave 'The Masterpiece'",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "off_road",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Масштабный рестайлинг 'The Masterpiece', представлен в Корее в сент. 2019 (MY2020) — новые бамперы/решётка/фары и салон при сохранении рамного шасси HM. Турбодизель 3.0 V6 — 249 л.с., 8-ступ. автомат, полный привод. source: кор. пресс-релизы Kia, cararac.com (2019-2020).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:12:24.249Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2022_Kia_K5_GT-Line_in_Pacific_Blue%2C_Front_Left%2C_09-05-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2022_Kia_K5_GT-Line_in_Pacific_Blue%2C_Front_Left%2C_09-05-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:12:24.249Z"
+}

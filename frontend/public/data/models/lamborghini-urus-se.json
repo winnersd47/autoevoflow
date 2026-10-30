@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-urus-se",
+  "slug": "lamborghini-urus-se",
+  "name": "Lamborghini Urus SE",
+  "fullName": "Lamborghini Urus SE",
+  "brandId": "lamborghini",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Дек. 2024 — первый гибридный (PHEV) Urus: 4.0Л би-турбо V8 + электромотор, суммарно 800CV/789hp, заряд ~ 60км на электротяге. Заменил чисто бензиновые Urus S/Performante в модельном ряду. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:21:14.009Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/3840px-Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/3840px-Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:21:14.009Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-p911-gt3-rs-992",
+  "slug": "p911-gt3-rs-992",
+  "name": "911 GT3 RS 992",
+  "fullName": "911 GT3 RS 992",
+  "brandId": "porsche",
+  "bodyType": "Coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:22:52.892Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Porsche_992_GT3_1X7A0323.jpg/3840px-Porsche_992_GT3_1X7A0323.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Porsche_992_GT3_1X7A0323.jpg/3840px-Porsche_992_GT3_1X7A0323.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:22:52.892Z"
+}

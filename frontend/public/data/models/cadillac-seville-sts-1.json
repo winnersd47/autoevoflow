@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-seville-sts-1",
+  "slug": "cadillac-seville-sts-1",
+  "name": "Cadillac Seville STS",
+  "fullName": "Cadillac Seville STS",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Поколение K-body (1992-1997) — Seville STS дебютировал в 1992г. с атмосферным 4.9L V8 (200hp), но уже в начале 1993 модельного года получил новый Northstar 4.6L V8 (L37) — 295hp/290 lb-ft, первый по-настоящему 'мирового уровня' мотор Cadillac, ставший определяющим для поколения (в узле — он). 4-ст. АКПП с адаптивным управлением. Источник: motogallery.com, encycarpedia.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:02:30.103Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/5th_Cadillac_Seville_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/5th_Cadillac_Seville_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:02:30.103Z"
+}

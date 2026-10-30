@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-enclave",
+  "slug": "buick-enclave",
+  "name": "Buick Enclave Gen.1",
+  "fullName": "Buick Enclave Gen.1",
+  "brandId": "buick",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Первый кроссовер Buick, платформа GM Lambda (общая с GMC Acadia/Chevrolet Traverse/Saturn Outlook — см. существующее ребро shares_platform к saturn-outlook). При запуске в 2008г. 3.6L V6 (LY7) выдавал 275hp; с 2009г. после добавления изменяемых фаз газораспределения и прямого впрыска — 288hp/270 фунт-фут (текущее значение узла — пиковое в рамках поколения). Источник: truedelta.com, autopadre.com (Buick Enclave horsepower history).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:34:32.152Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg/3840px-2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg/3840px-2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:34:32.152Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-vanquish-classic",
+  "slug": "astonmartin-vanquish-classic",
+  "name": "Aston Martin Vanquish",
+  "fullName": "Aston Martin Vanquish (2012)",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "Полностью новое поколение (2012) — тот же 5.9Л V12 NA (доработанный), 565hp на старте, карбоновые панели кузова и воздухозаборники по мотивам One-77. Топ-версия Vanquish S (2017) — до ~595-600hp, финальная перед уходом имени на паузу в 2018-м.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:06:35.592Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg/3840px-Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg/3840px-Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:06:35.592Z"
+}

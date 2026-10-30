@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lacrosse-2",
+  "slug": "buick-lacrosse-2",
+  "name": "Buick LaCrosse Gen.2",
+  "fullName": "Buick LaCrosse Gen.2",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Новое поколение, крупнее предыдущего, единая платформа для рынков США/Китая; V8-версия Super не вернулась. Топ-трим CXS — 3.6L V6, изначально 280hp (2010), после рестайлинга 2012г. (прямой впрыск) — 303hp. Источник: grassrootsmotorsports.com, consumerguide.com (2010-14 Buick LaCrosse).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:20.230Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2010_Buick_LaCrosse_2_--_09-07-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2010_Buick_LaCrosse_2_--_09-07-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:09:20.230Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-kuga",
+  "slug": "kuga",
+  "name": "Kuga Mk2",
+  "fullName": "Kuga Mk2",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:54:08.117Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg/3840px-2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg/3840px-2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:54:08.117Z"
+}

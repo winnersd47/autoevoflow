@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-karmann-ghia",
+  "slug": "volkswagen-karmann-ghia",
+  "name": "Karmann Ghia",
+  "fullName": "Karmann Ghia",
+  "brandId": "volkswagen",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1955,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:03:54.668Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/1958_Volkswagen_Type_14_Karmann.jpg/3840px-1958_Volkswagen_Type_14_Karmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/1958_Volkswagen_Type_14_Karmann.jpg/3840px-1958_Volkswagen_Type_14_Karmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:03:54.668Z"
+}

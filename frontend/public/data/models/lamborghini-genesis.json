@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-genesis",
+  "slug": "lamborghini-genesis",
+  "name": "Lamborghini Bertone Genesis",
+  "fullName": "Lamborghini Bertone Genesis",
+  "brandId": "lamborghini",
+  "bodyType": "concept",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "Огромный gullwing-концепт-минивэн Bertone (Марк Дешам) — Турин 1988. V12 Quattrovalvole от Countach, 455hp. Без прямых серийных потомков — Urus (десятилетия спустя) построен на совсем другой платформе/эпохе, не связан.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:49:00.342Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:49:00.342Z"
+}

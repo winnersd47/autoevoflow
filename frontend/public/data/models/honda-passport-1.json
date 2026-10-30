@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-passport-1",
+  "slug": "honda-passport-1",
+  "name": "Honda Passport",
+  "fullName": "Honda Passport (1994)",
+  "brandId": "honda",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "Первый Passport — результат альянса Honda-Isuzu, фактический ребейдж Isuzu Rodeo (рама, кузов, моторы идентичны) для выхода дилерской сети Honda в сегмент body-on-frame SUV. 2.6L I4 120 л.с. или 3.2L V6 175 л.с.; после рестайлинга 1998 года мощность V6 выросла до 205 л.с. Снят с производства в 2002 году вместе с Rodeo.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:50:05.119Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg/3840px-2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg/3840px-2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:50:05.119Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-tang",
+  "slug": "byd-tang",
+  "name": "BYD Tang PHEV",
+  "fullName": "BYD Tang PHEV",
+  "brandId": "byd",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "505 л.с. PHEV; пионер plug-in SUV в Китае",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:25:49.498Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2020_BYD_Song_Plus_DM-i.jpg/3840px-2020_BYD_Song_Plus_DM-i.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2020_BYD_Song_Plus_DM-i.jpg/3840px-2020_BYD_Song_Plus_DM-i.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:25:49.498Z"
+}

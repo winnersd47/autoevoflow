@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-escalade-3",
+  "slug": "cadillac-escalade-3",
+  "name": "Cadillac Escalade",
+  "fullName": "Cadillac Escalade",
+  "brandId": "cadillac",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Третье поколение (2007-2014, GMT900, тот же кузов что у Tahoe/Yukon/Suburban Gen.3) — новый 6.2L V8 (L94) с изменяемыми фазами газораспределения, 403hp/417 lb-ft (почти +60hp к предшественнику), 6-ст. АКПП. Флагман полноразмерных люкс-SUV в США того периода. Источник: motorworldcadillac.com, jdpower.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:02:24.349Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:02:24.349Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-taurus",
+  "slug": "ford-taurus",
+  "name": "Ford Taurus Gen.5",
+  "fullName": "Ford Taurus Gen.5",
+  "brandId": "ford",
+  "bodyType": "sedan",
+  "segment": "midsize_sed",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Переходное поколение — фактически ребрендинг Ford Five Hundred (2005-07, платформа Volvo P2/D3, крупнее Taurus Gen.4) обратно в имя \"Taurus\" на 2008 м.г.: новая передняя/задняя оптика и бамперы, слабый 3.0L V6 203hp заменён на Duratec 3.5L V6 263hp, новая 6-АКПП. Шасси унаследовано от Five Hundred, а не разработано с нуля — отсюда скачок в зону exec_sed (крупнее Gen.1-4). Предшествует полностью новому Gen.6 (2010).",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:18:03.186Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2010_Ford_Taurus_Limited_1_--_10-31-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2010_Ford_Taurus_Limited_1_--_10-31-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:18:03.186Z"
+}

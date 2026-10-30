@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-ram-srt10",
+  "slug": "dodge-ram-srt10",
+  "name": "Ram SRT-10",
+  "fullName": "Ram SRT-10",
+  "brandId": "dodge",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:53:32.603Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2017_Ram_1500_Express_Crew_Cab%2C_front_left%2C_09-02-2022.jpg/3840px-2017_Ram_1500_Express_Crew_Cab%2C_front_left%2C_09-02-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2017_Ram_1500_Express_Crew_Cab%2C_front_left%2C_09-02-2022.jpg/3840px-2017_Ram_1500_Express_Crew_Cab%2C_front_left%2C_09-02-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:53:32.603Z"
+}

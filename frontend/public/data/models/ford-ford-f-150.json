@@ -11,8 +11,8 @@
   "isActive": true,
   "description": "The King Ranch and Platinum are once again available with the 5.0-liter Coyote, and Ford is rolling out a new base engine for the F-150. The post 2027 Ford F-150 Ditches 2.7L EcoBoost, Adds V8 Back to",
   "generationCount": 1,
-  "heroImageUrl": "",
-  "thumbnailUrl": "",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "new",
     "2027"
@@ -22,5 +22,5 @@
   "isLatest": true,
   "scrapedAt": "2026-08-04T20:04:01.518Z",
   "createdAt": "2026-08-04T20:04:02.352Z",
-  "updatedAt": "2026-08-04T20:04:02.352Z"
+  "updatedAt": "2026-10-29T18:32:19.439Z"
 }

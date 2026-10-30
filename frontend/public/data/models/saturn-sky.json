@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-sky",
+  "slug": "saturn-sky",
+  "name": "Saturn Sky",
+  "fullName": "Saturn Sky (2007)",
+  "brandId": "saturn",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:47:58.908Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/PontiacSolstice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/PontiacSolstice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:47:58.908Z"
+}

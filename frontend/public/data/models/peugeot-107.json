@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-107",
+  "slug": "peugeot-107",
+  "name": "Peugeot 107",
+  "fullName": "Peugeot 107",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Городской хэтчбек-триплет на одной платформе с Toyota Aygo и Citroën C1 (1.0 VTi ~67-68hp). Реальный прямой преемник 106 (не 206 — см. исправление ребра e-peu-106-206). Отсутствовал в графе полностью. Источник: parkers.co.uk, wikipedia Peugeot 107.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:18:54.462Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2002_Peugeot_206_LX_1.4_Front.jpg/3840px-2002_Peugeot_206_LX_1.4_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2002_Peugeot_206_LX_1.4_Front.jpg/3840px-2002_Peugeot_206_LX_1.4_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:18:54.462Z"
+}

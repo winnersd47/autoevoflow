@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-cx3",
+  "slug": "mazda-cx3",
+  "name": "CX-3 DK Phase II",
+  "fullName": "CX-3 DK Phase II",
+  "brandId": "mazda",
+  "bodyType": "suv",
+  "segment": "subcompact_suv",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Рестайлинг CX-3 (MY2018): обновлённый салон, G-Vectoring Control Plus, мощность SkyActiv-G 2.0 выросла до 123 л.с. Снят с продаж в США после MY2021; в Японии производство завершено в феврале 2026 (преемник — новая модель к 2027г.), в Таиланде/Мексике продолжает выпускаться. Источник: jdpower.com, cars-data.com, paultan.org (новость о прекращении продаж в Японии, 2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:12:30.778Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/3840px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/3840px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:12:30.778Z"
+}

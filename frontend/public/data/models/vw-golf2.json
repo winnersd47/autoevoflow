@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-golf2",
+  "slug": "vw-golf2",
+  "name": "Golf Mk2",
+  "fullName": "Golf Mk2",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1983,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:20:32.968Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2020_Volkswagen_Golf_Style_1.5_Front.jpg/3840px-2020_Volkswagen_Golf_Style_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2020_Volkswagen_Golf_Style_1.5_Front.jpg/3840px-2020_Volkswagen_Golf_Style_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:20:32.968Z"
+}

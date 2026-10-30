@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-thunderbird",
+  "slug": "ford-thunderbird",
+  "name": "T-Bird 2002",
+  "fullName": "T-Bird 2002",
+  "brandId": "ford",
+  "bodyType": "roadster",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1955,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:49:40.508Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg/3840px-1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg/3840px-1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:49:40.508Z"
+}

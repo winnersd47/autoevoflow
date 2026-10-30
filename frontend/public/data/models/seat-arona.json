@@ -1,0 +1,20 @@
+{
+  "id": "sync-seat-arona",
+  "slug": "seat-arona",
+  "name": "SEAT Arona",
+  "fullName": "SEAT Arona (2017)",
+  "brandId": "seat",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:11:57.890Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2018_SEAT_Arona_SE_Technology_TSi_1.0_Front_%281%29.jpg/3840px-2018_SEAT_Arona_SE_Technology_TSi_1.0_Front_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2018_SEAT_Arona_SE_Technology_TSi_1.0_Front_%281%29.jpg/3840px-2018_SEAT_Arona_SE_Technology_TSi_1.0_Front_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:11:57.890Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-cupra-leon",
+  "slug": "cupra-leon",
+  "name": "Cupra León",
+  "fullName": "Cupra León",
+  "brandId": "cupra",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Вышла в 2020-м вместе с Formentor — первая волна моделей после того, как Cupra стала отдельным брендом от SEAT.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:36:58.891Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:36:58.891Z"
+}

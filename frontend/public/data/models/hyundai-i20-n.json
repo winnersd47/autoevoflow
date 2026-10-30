@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-i20-n",
+  "slug": "hyundai-i20-n",
+  "name": "Hyundai i20 N",
+  "fullName": "Hyundai i20 N",
+  "brandId": "hyundai",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Hot hatch на базе i20 (BC3), представлен окт. 2020, в продаже с 2021 (только Европа). Турбо 1.6L T-GDI, 204 PS / 201 hp, 304 Нм, 6-ст. механика, электронный дифференциал повышенного трения, 0-100 за 6.7с. Часть N-линейки (i30 N, Elantra N, Veloster N, Kona N, i20 N), требующей отдельного внимания по заданию.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:51:19.571Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hyundai_i20N_Rally1_No.11_in_2022_FIA_World_Rally_Championship_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hyundai_i20N_Rally1_No.11_in_2022_FIA_World_Rally_Championship_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:51:19.571Z"
+}

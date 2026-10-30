@@ -1,0 +1,20 @@
+{
+  "id": "sync-chevy-camaro-z28r",
+  "slug": "chevy-camaro-z28r",
+  "name": "Chevrolet Camaro Z/28.R",
+  "fullName": "Chevrolet Camaro Z/28.R",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Заводской клиентский гонщик Pratt & Miller на базе дорожного Z/28 (тот же LS7 7.0L, 505hp, сухой картер). Дебют январь 2014, победа во 2-м же старте (Себринг). IMSA Continental Tire GS-класс 2014-16 (55 побед, 2 титула производителя) + Pirelli World Challenge GTS 2015-16 (титул 2015, Michael Cooper). Сменена Camaro GT4.R (2017) под официальные SRO GT4-правила.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:03:47.159Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/3840px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/3840px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:03:47.159Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-x-concept",
+  "slug": "genesis-x-concept",
+  "name": "Genesis X Concept",
+  "fullName": "Genesis X Concept",
+  "brandId": "genesis",
+  "bodyType": "coupe",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Концепт-купе на электротяге, впервые показан в конце марта 2021г. — заложил дизайн-язык 'Two Lines' для последующих серийных моделей (GV60/GV70/GV80 поколения 2021+). Электромоторы (AWD, permanent magnet synchronous reluctance motor) — точная мощность официально НЕ раскрывалась Genesis; hp=360 в узле следует считать неподтверждённой оценкой СМИ, а не офиц. ТТХ. Положил начало 'трилогии X' — далее X Speedium Coupe (апр. 2022) и X Convertible (2022, не 2023), ни один из которых не раскрывал hp/техданные официально, поэтому оба НЕ добавлены отдельными узлами (см. summary). Источники: paultan.org 'Genesis X Concept: stunning electric coupe revealed', en.wikipedia.org Genesis X, conceptcarz.com '2021 Genesis X Concept'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:19:10.107Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Genesis_X_Concept_%283%29.jpg/3840px-Genesis_X_Concept_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Genesis_X_Concept_%283%29.jpg/3840px-Genesis_X_Concept_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:19:10.107Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-qx56",
+  "slug": "infiniti-qx56",
+  "name": "Infiniti QX56 (JA60)",
+  "fullName": "Infiniti QX56 (JA60)",
+  "brandId": "infiniti",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Первое поколение полноразмерного флагманского SUV Infiniti (2004-2010), код платформы JA60, рама общая с Nissan Armada/Titan (F-Alpha). Мотор 5.6L VK56DE V8, 320 л.с./393 фунт-фут, 5-ступенчатый автомат. Источник: wheel-size.com, automobile-catalog.com, jdpower.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:17:30.061Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:17:30.061Z"
+}

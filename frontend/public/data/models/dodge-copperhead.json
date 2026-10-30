@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-copperhead",
+  "slug": "dodge-copperhead",
+  "name": "Dodge Copperhead",
+  "fullName": "Dodge Copperhead",
+  "brandId": "dodge",
+  "bodyType": "roadster",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2029,
+  "isActive": true,
+  "description": "hp и engineType намеренно оставлены null/неизвестны — реальный паблик-рекорд на 2026-10 содержит прямой конфликт источников: шеф SRT Тим Кунискис отверг гибридный V8 и подтвердил ДВС, но детали не раскрыл; Car and Driver склоняется к V8; MotorTrend пишет про «выбор из Hurricane I6 или V8»; The Drive прямо допускает, что V8 может не быть вообще, и спорит даже платформу (не точно STLA Large/не точно на базе Charger). Было engineType:\"v8\" без опоры в фактах — убрано. Источники: caranddriver.com, motortrend.com, thedrive.com, autoguide.com, moparinsiders.com (доступ 2026-10-21, перепроверено двумя независимыми запросами).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:19:18.142Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/1997_Dodge_Copperhead_Concept_%2831787457061%29_%28cropped%29.jpg/3840px-1997_Dodge_Copperhead_Concept_%2831787457061%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/1997_Dodge_Copperhead_Concept_%2831787457061%29_%28cropped%29.jpg/3840px-1997_Dodge_Copperhead_Concept_%2831787457061%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:19:18.143Z"
+}

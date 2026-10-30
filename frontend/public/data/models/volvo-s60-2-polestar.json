@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-s60-2-polestar",
+  "slug": "volvo-s60-2-polestar",
+  "name": "Volvo S60 Polestar",
+  "fullName": "Volvo S60 Polestar",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Первый серийный автомобиль под брендом Polestar Performance (тогда ещё независимая шведская компания-партнёр Volvo, контрольный пакет выкуплен Volvo в 2015г.) — рядный турбо-6 3.0 (B6304T4), форсированный до 345 л.с./369 lb-ft (изначально рассматривались 367 л.с., но ограничили ради надёжности), полный привод, амортизаторы Öhlins, 0-100 за ~5.0с. Источники: autoguide.com (2015 Volvo S60 Polestar review), carbuzz.com, auto123.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:01:10.100Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:01:10.100Z"
+}

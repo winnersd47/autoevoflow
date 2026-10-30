@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-849-testarossa-spider",
+  "slug": "ferrari-849-testarossa-spider",
+  "name": "849 Testarossa Spider",
+  "fullName": "849 Testarossa Spider",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Спайдер-версия 849 Testarossa с убираемой жёсткой крышей (складывается за 14с на ходу до 45 км/ч) — представлена 9 сентября 2025. Тот же гибридный агрегат: V8 твин-турбо 830 л.с. + 3 электромотора = 1050 л.с. суммарно, абсолютный рекорд мощности для серийного Ferrari. Основной узел 'ferrari-849-testarossa' ранее ошибочно содержал именно эти данные спайдера вместо купе — см. nodeFixes.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:17:11.742Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ferrari_Testarossa_IMG_3043.jpg/3840px-Ferrari_Testarossa_IMG_3043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Ferrari_Testarossa_IMG_3043.jpg/3840px-Ferrari_Testarossa_IMG_3043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:17:11.742Z"
+}

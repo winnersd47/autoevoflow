@@ -1,0 +1,20 @@
+{
+  "id": "sync-li-auto-l6",
+  "slug": "li-auto-l6",
+  "name": "Li L6",
+  "fullName": "Li L6",
+  "brandId": "li-auto",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:51:31.756Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Li_Auto_L9_IMG001.jpg/3840px-Li_Auto_L9_IMG001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Li_Auto_L9_IMG001.jpg/3840px-Li_Auto_L9_IMG001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:51:31.756Z"
+}

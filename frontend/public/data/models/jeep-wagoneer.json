@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-wagoneer",
+  "slug": "jeep-wagoneer",
+  "name": "Wagoneer WS",
+  "fullName": "Wagoneer WS",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1962,
+  "isActive": true,
+  "description": "Единственный серийный мотор — 5.7L HEMI V8 eTorque (48-вольтовый mild-hybrid) 392 л.с./404 lb-ft, 8-АКПП; опционально 6.4L 392 HEMI V8 471 л.с. на старших тримах (см. Grand Wagoneer WS). V6 в линейке Wagoneer WS не предлагался. Источники: auto-data.net, tfltruck.com, dodgeofwinterhaven.net (2022).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:00:30.315Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg/3840px-2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg/3840px-2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:00:30.315Z"
+}

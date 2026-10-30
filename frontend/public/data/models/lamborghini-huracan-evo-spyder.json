@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-evo-spyder",
+  "slug": "lamborghini-huracan-evo-spyder",
+  "name": "Lamborghini Huracán EVO Spyder",
+  "fullName": "Lamborghini Huracán EVO Spyder",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Лос-Анджелес, нояб. 2019 — открытая версия EVO, тот же 640hp 5.2Л V10 с LDVI (Lamborghini Dinamica Veicolo Integrata). Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:20:49.512Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:20:49.512Z"
+}

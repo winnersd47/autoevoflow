@@ -1,0 +1,20 @@
+{
+  "id": "sync-hiphi-z",
+  "slug": "hiphi-z",
+  "name": "HiPhi Z",
+  "fullName": "HiPhi Z",
+  "brandId": "hiphi",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:51:35.365Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2023_HiPhi_Z_%28front%29.jpg/3840px-2023_HiPhi_Z_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2023_HiPhi_Z_%28front%29.jpg/3840px-2023_HiPhi_Z_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:51:35.365Z"
+}

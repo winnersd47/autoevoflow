@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-s10-blazer",
+  "slug": "chev-s10-blazer",
+  "name": "S-10 Blazer Gen.1",
+  "fullName": "S-10 Blazer Gen.1",
+  "brandId": "chevrolet",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 1983,
+  "isActive": true,
+  "description": "Компактный внедорожник на платформе пикапа S-10 — младший брат полноразмерного K5 Blazer (сосуществовали параллельно, не сменяют друг друга). 2.8L V6, 110hp SAE net. Только 2-дверный до 1991г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:59:03.627Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1979_Chevrolet_K5_Blazer_Cheyenne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1979_Chevrolet_K5_Blazer_Cheyenne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:59:03.627Z"
+}

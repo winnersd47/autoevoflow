@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-mark6",
+  "slug": "bentley-mark6",
+  "name": "Mark VI",
+  "fullName": "Mark VI",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1946,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:45:43.693Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bentley_%282542314380%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bentley_%282542314380%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:45:43.693Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-xm",
+  "slug": "citroen-xm",
+  "name": "Citroën XM",
+  "fullName": "Citroën XM",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:31:45.784Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:31:45.784Z"
+}

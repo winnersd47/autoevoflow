@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-turbot",
+  "slug": "buick-regal-turbot",
+  "name": "Buick Regal Turbo-T",
+  "fullName": "Buick Regal Turbo-T",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Облегчённая версия T-Type с пакетом опций WE4 — тот же турбомотор, что у Grand National 1987г. (245hp/355 фунт-фут), но за счёт меньшего веса (алюминиевые детали, упрощённая комплектация) показывал более острую динамику. Выпущено 1547 экз. в 1987г. Источник: musclecarclub.com, gnttype.org (T-Type, Grand National, GNX Production Figures).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:08:07.917Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:08:07.917Z"
+}

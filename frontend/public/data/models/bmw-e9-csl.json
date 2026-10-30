@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-e9-csl",
+  "slug": "bmw-e9-csl",
+  "name": "BMW 3.0 CSL",
+  "fullName": "BMW 3.0 CSL (1971)",
+  "brandId": "bmw",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:24:19.071Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BMWE9CSc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/BMWE9CSc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:24:19.071Z"
+}

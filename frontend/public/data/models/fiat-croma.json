@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-croma",
+  "slug": "fiat-croma",
+  "name": "Fiat Croma",
+  "fullName": "Fiat Croma (1985)",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:40:35.751Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fiat_Cronos_1.8_16V_E.Torq_Precision.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fiat_Cronos_1.8_16V_E.Torq_Precision.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:40:35.751Z"
+}

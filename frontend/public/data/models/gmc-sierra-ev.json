@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-ev",
+  "slug": "gmc-sierra-ev",
+  "name": "GMC Sierra EV Denali Edition 1",
+  "fullName": "GMC Sierra EV Denali Edition 1",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "GMC Sierra EV Denali Edition 1 (2024): 754 л.с./785 lb-ft (режим Max Power), платформа GM BT1 (Ultium), батарея 205 kWh, запас хода 440 миль (EPA-оценка GM), 0-96 км/ч за 4.5с, буксировка до 10000 фунтов, фирменные функции CrabWalk и MultiPro MidGate. Источники: news.gmc.com/newsroom.../0416-sierra-ev, carbuzz.com/news/2024-gmc-sierra-ev-denali-edition-1-unveiled-with-754-horsepower, cartimeline.com (Sierra EV BT1CG specs).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:22:49.229Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:22:49.229Z"
+}

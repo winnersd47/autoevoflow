@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-512-bbi",
+  "slug": "ferrari-512-bbi",
+  "name": "512 BBi",
+  "fullName": "512 BBi",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 1981,
+  "isActive": true,
+  "description": "Финальная версия Berlinetta Boxer — карбюраторы заменены на электронный впрыск Bosch K-Jetronic (индекс i), мощность снизилась до 340 л.с. из-за ужесточения норм по выбросам. 1007 экз., 1981-1984. В 1984-м сменена на Testarossa.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:13:35.101Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/1979_Ferrari_512_BB_in_Rosso_Chiaro%2C_front_left_%28Greenwich_2025%29.jpg/3840px-1979_Ferrari_512_BB_in_Rosso_Chiaro%2C_front_left_%28Greenwich_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/1979_Ferrari_512_BB_in_Rosso_Chiaro%2C_front_left_%28Greenwich_2025%29.jpg/3840px-1979_Ferrari_512_BB_in_Rosso_Chiaro%2C_front_left_%28Greenwich_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:13:35.101Z"
+}

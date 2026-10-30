@@ -1,0 +1,20 @@
+{
+  "id": "sync-saleen-s1",
+  "slug": "saleen-s1",
+  "name": "S1",
+  "fullName": "S1",
+  "brandId": "saleen",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:55:27.708Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Petersen_Museum_%2852042602572%29.jpg/3840px-Petersen_Museum_%2852042602572%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Petersen_Museum_%2852042602572%29.jpg/3840px-Petersen_Museum_%2852042602572%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:55:27.708Z"
+}

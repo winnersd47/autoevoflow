@@ -1,0 +1,20 @@
+{
+  "id": "sync-polestar-2-perf",
+  "slug": "polestar-2-perf",
+  "name": "Polestar 2 Performance Pack",
+  "fullName": "Polestar 2 Performance Pack",
+  "brandId": "polestar",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "455hp/546lb-ft (двухмоторная версия + пакет Performance — Öhlins, Brembo), 0-60 за 4.1с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:09:56.316Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:09:56.316Z"
+}

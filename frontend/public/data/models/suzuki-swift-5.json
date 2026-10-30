@@ -1,0 +1,20 @@
+{
+  "id": "sync-suzuki-swift-5",
+  "slug": "suzuki-swift-5",
+  "name": "Suzuki Swift Gen.5",
+  "fullName": "Suzuki Swift Gen.5 (2017)",
+  "brandId": "suzuki",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:32:07.296Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Suzuki_Swift_%282024%29_hybrid_DSC_6076.jpg/3840px-Suzuki_Swift_%282024%29_hybrid_DSC_6076.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Suzuki_Swift_%282024%29_hybrid_DSC_6076.jpg/3840px-Suzuki_Swift_%282024%29_hybrid_DSC_6076.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:32:07.296Z"
+}

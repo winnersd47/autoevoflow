@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-348-spider",
+  "slug": "ferrari-348-spider",
+  "name": "348 Spider",
+  "fullName": "348 Spider",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Первый со времён 365 GTS4 Daytona (1969) полностью открытый (без дуги/тарга-панели) двухместный Ferrari — показан в феврале 1993-го. 1090 экз. до 1995-го. Тот же обновлённый 3.4Л V8 (320 л.с.), что у GTB/GTS.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:14:44.651Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/2012-02-26_Piero_Ferrari_at_Museo_Enzo_Ferrari%2C_Modena.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/2012-02-26_Piero_Ferrari_at_Museo_Enzo_Ferrari%2C_Modena.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:14:44.651Z"
+}

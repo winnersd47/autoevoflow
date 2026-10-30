@@ -1,0 +1,20 @@
+{
+  "id": "sync-suzuki-jimny-4",
+  "slug": "suzuki-jimny-4",
+  "name": "Suzuki Jimny Gen.4",
+  "fullName": "Suzuki Jimny Gen.4 (2018)",
+  "brandId": "suzuki",
+  "bodyType": "suv",
+  "segment": "off_road",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:32:12.737Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:32:12.737Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-jaguar-type01",
+  "slug": "jaguar-type01",
+  "name": "Jaguar Type 01",
+  "fullName": "Jaguar Type 01",
+  "brandId": "jaguar",
+  "bodyType": "sedan",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Официальное имя серийной версии концепта Type 00. Показан 6 окт. 2026 в Нью-Йорке: 3 электромотора AWD (платформа JEA), 1016 л.с./1007 фунт-фут суммарно, архитектура 850В, батарея 118 кВтч, 0-60 за 3.1s, запас хода WLTP >700км/435 миль, подзарядка 15 мин → +321км. Производство на заводе Solihull (Великобритания) стартует в 2027-м, от £130k (~$170K). Источник: Motor1, Autocar India, electriccarsreport.com (окт. 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:41:52.973Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Jaguar_Type_01_Front_at_London_Showroom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Jaguar_Type_01_Front_at_London_Showroom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:41:52.973Z"
+}

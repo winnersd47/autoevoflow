@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-giulia-gta",
+  "slug": "alfa-giulia-gta",
+  "name": "Alfa Romeo Giulia Sprint GTA",
+  "fullName": "Alfa Romeo Giulia Sprint GTA",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "GTA = 'Gran Turismo Alleggerita' (облегчённая) — омологационная спецверсия Sprint GT для Группы 2: стальные навесные панели заменены алюминиевыми, новая ГБЦ с двумя свечами на цилиндр (twin-plug). Дорожная версия ('Stradale') — около 115PS@6000об (1570см³ I4, тот же блок что у Sprint GT); заводская гоночная подготовка Autodelta выжимала из него уже около 170hp@7800об. Всего построено 500 экз. (1965-1969) для омологации. Имя унаследовано полвека спустя современными спецверсиями Giulia GTA/GTAm (2020-21).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:40:35.212Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alfa_Romeo_GT_1300_Junior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alfa_Romeo_GT_1300_Junior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:40:35.212Z"
+}

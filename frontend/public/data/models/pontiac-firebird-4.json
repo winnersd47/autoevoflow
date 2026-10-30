@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-firebird-4",
+  "slug": "pontiac-firebird-4",
+  "name": "Pontiac Trans Am Collector Edition",
+  "fullName": "Pontiac Trans Am Collector Edition",
+  "brandId": "pontiac",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "К 35-летию Firebird и одновременно последний год выпуска нэймплейта вообще: менее 2000 экземпляров, эксклюзивная окраска Collector Yellow, пакет WS6, LS1 5.7L — 325 л.с. Эту финальную серию иногда условно относят к 'Y2K'-эпохе последних Trans Am, хотя формально выпущена в 2002г., а не в 2000-м (в 2000 модельном году топовым был WS6 на 320 л.с.; в 1999г. — отдельный 30th Anniversary Pace Car на 325 л.с.). Источник: supercars.net (2002 Pontiac Firebird Trans Collector's Edition), journal.classiccars.com.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:33:32.326Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TransAm1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TransAm1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:33:32.326Z"
+}

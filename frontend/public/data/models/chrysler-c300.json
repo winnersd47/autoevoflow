@@ -1,0 +1,20 @@
+{
+  "id": "sync-chrysler-c300",
+  "slug": "chrysler-c300",
+  "name": "Chrysler C-300 Letter Series",
+  "fullName": "Chrysler C-300 Letter Series (1955)",
+  "brandId": "chrysler",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1955,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:23:01.354Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2000_Chrysler_Cirrus_LX%2C_front_left%2C_09-09-2023.jpg/3840px-2000_Chrysler_Cirrus_LX%2C_front_left%2C_09-09-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2000_Chrysler_Cirrus_LX%2C_front_left%2C_09-09-2023.jpg/3840px-2000_Chrysler_Cirrus_LX%2C_front_left%2C_09-09-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:23:01.354Z"
+}

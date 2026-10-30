@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-sienna-3",
+  "slug": "toyota-sienna-3",
+  "name": "Toyota Sienna 3rd Generation (XL30)",
+  "fullName": "Toyota Sienna 3rd Generation (XL30)",
+  "brandId": "toyota",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Третье поколение (2010, MY2011) — самое долгое поколение Sienna (10 лет без смены). Базовый 2.7L I4 (1AR-FE) — 187 л.с.; топовый 3.5L V6 (2GR-FE) — 266 л.с. (296 л.с. после рестайлинга 2017-2020 гг.).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:48:52.892Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:48:52.892Z"
+}

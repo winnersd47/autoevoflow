@@ -1,0 +1,20 @@
+{
+  "id": "sync-zenvo-aurora-tur",
+  "slug": "zenvo-aurora-tur",
+  "name": "Aurora Tur",
+  "fullName": "Aurora Tur",
+  "brandId": "zenvo",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:48:12.205Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2024_Zenvo_Aurora_Tur.jpg/3840px-2024_Zenvo_Aurora_Tur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2024_Zenvo_Aurora_Tur.jpg/3840px-2024_Zenvo_Aurora_Tur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:48:12.205Z"
+}

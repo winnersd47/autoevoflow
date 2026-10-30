@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-pajero-evolution",
+  "slug": "mitsubishi-pajero-evolution",
+  "name": "Mitsubishi Pajero Evolution",
+  "fullName": "Mitsubishi Pajero Evolution",
+  "brandId": "mitsubishi",
+  "bodyType": "suv",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Гомологационный спецвыпуск Pajero II (широкий кузов) для класса T2 ралли-рейда Дакар, выпускался 1997-1999г., тираж ~2500-2693 экз. Атмосферный 3.5 V6 6G74 с MIVEC и раздельным впускным коллектором выдавал заявленные 280 л.с. (джентльменское соглашение, как у Evo/GTO/Galant VR-4) при 6500 об/мин — редлайн поднят на 1000 об/мин за счёт облегчённых клапанов. Независимая многорычажная задняя подвеска вместо неразрезного моста серийного Pajero II. На шасси этой машины построены победные дакаровские прототипы Pajero/Montero конца 1990х. Источники: Wikipedia 'Mitsubishi Pajero Evolution', silodrome.com, carscoops.com, nengun.com (V55W).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:57:38.896Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mitsubishi_V98_Pajero_Long_Body_Super_Exceed_3200_DI-D.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mitsubishi_V98_Pajero_Long_Body_Super_Exceed_3200_DI-D.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:57:38.896Z"
+}

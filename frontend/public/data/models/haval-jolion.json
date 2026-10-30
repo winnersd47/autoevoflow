@@ -1,0 +1,20 @@
+{
+  "id": "sync-haval-jolion",
+  "slug": "haval-jolion",
+  "name": "Haval Jolion",
+  "fullName": "Haval Jolion",
+  "brandId": "haval",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Lemon-платформа; хит экспорта (РФ, Австралия, Ближний Восток)",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:30:33.399Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_Great_Wall_Haval_Jolion_%28front%29.jpg/3840px-2020_Great_Wall_Haval_Jolion_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_Great_Wall_Haval_Jolion_%28front%29.jpg/3840px-2020_Great_Wall_Haval_Jolion_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:30:33.399Z"
+}

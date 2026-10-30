@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-ypsilon",
+  "slug": "lancia-ypsilon",
+  "name": "Lancia Ypsilon Gen.1",
+  "fullName": "Lancia Ypsilon Gen.1 (1996)",
+  "brandId": "lancia",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:42:55.551Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lancia_Ypsilon_%282024%29_Front_1_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lancia_Ypsilon_%282024%29_Front_1_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:42:55.551Z"
+}

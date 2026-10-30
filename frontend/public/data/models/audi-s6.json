@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi S6 (1994–present) is the performance version of the A6, combining executive saloon practicality with enhanced performance. Key generations include the C5 (quattroed 4.2-litre V8) and the current C8 with a 3.0-litre turbocharged V6 MHEV.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Audi_S6_Avant_C8_IMG_4309.jpg/3840px-Audi_S6_Avant_C8_IMG_4309.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Audi_S6_Avant_C8_IMG_4309.jpg/3840px-Audi_S6_Avant_C8_IMG_4309.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "sedan",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:42:45.762Z",
   "generations": [
     {
       "id": "gen-audi-s6-1",

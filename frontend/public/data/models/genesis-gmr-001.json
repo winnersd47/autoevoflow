@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-gmr-001",
+  "slug": "genesis-gmr-001",
+  "name": "Genesis GMR-001",
+  "fullName": "Genesis GMR-001",
+  "brandId": "genesis",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "LMDh-прототип гоночного подразделения Genesis Magma Racing — твин-турбо 3.2L V8 'G8MR' (создан на базе архитектуры турбо-I4 раллийного Hyundai i20 N Rally1, ок. 60% общих деталей) + стандартизированный для класса Hypercar гибрид-блок Bosch MGU 50кВт/67hp. Суммарно 680hp/637Нм (уточнено с ранее указанных 670hp). Дебют в FIA WEC — сезон 2026, IMSA GTP — с 2027г. Карбоновый монокок на базе LMP2, вес 1030кг. Источники: en.wikipedia.org Genesis GMR-001, en.wikipedia.org Genesis G8MR engine, motor1.com 'Genesis Has a New Twin-Turbo V-8'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:44:06.092Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/24_Heures_du_Mans_2026_Hypercar_No._17_Genesis_GMR-001-Hypercar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/24_Heures_du_Mans_2026_Hypercar_No._17_Genesis_GMR-001-Hypercar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:44:06.092Z"
+}

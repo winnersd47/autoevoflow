@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-gv60-magma",
+  "slug": "genesis-gv60-magma",
+  "name": "GV60 Magma",
+  "fullName": "GV60 Magma",
+  "brandId": "genesis",
+  "bodyType": "suv",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Первая СЕРИЙНАЯ модель суббренда Genesis Magma (аналог BMW M / Mercedes-AMG) — анонс 20 нояб. 2025 на MY2027, старт продаж в США 30 июля 2026. 2 мотора AWD: 601hp/546 lb-ft в норм. режиме, 641hp/583 lb-ft в Boost Mode (до 10 сек); батарея 84 кВтч (как у GV60 Performance AWD). 0-60 за 3.4с, макс. скорость 164 миль/ч. MSRP США $69 950. Источники: genesisnewsusa.com 'GENESIS REVEALS U.S. PRICING FOR GV60 MAGMA, BRAND'S FIRST HIGH-PERFORMANCE MODEL', autoblog.com 'Genesis GV60 Magma Is Coming to the U.S. With Over 600 HP', theweeklydriver.com NYIAS 2026 coverage.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:44:04.195Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Genesis_GV60_1X7A5760.jpg/3840px-Genesis_GV60_1X7A5760.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Genesis_GV60_1X7A5760.jpg/3840px-Genesis_GV60_1X7A5760.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:44:04.195Z"
+}

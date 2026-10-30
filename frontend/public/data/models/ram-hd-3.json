@@ -1,0 +1,20 @@
+{
+  "id": "sync-ram-hd-3",
+  "slug": "ram-hd-3",
+  "name": "Ram 2500 HD Gen3",
+  "fullName": "Ram 2500 HD Gen3 (2010)",
+  "brandId": "ram",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:53:44.008Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Ram_3500_Heavy_Duty_Turbo_Diesel_with_Cummins_engine_front_NYIAS_2019.jpg/3840px-2019_Ram_3500_Heavy_Duty_Turbo_Diesel_with_Cummins_engine_front_NYIAS_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Ram_3500_Heavy_Duty_Turbo_Diesel_with_Cummins_engine_front_NYIAS_2019.jpg/3840px-2019_Ram_3500_Heavy_Duty_Turbo_Diesel_with_Cummins_engine_front_NYIAS_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:53:44.008Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-v60-2",
+  "slug": "volvo-v60-2",
+  "name": "Volvo V60 (Gen2, SPA2)",
+  "fullName": "Volvo V60 (Gen2, SPA2)",
+  "brandId": "volvo",
+  "bodyType": "estate",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Второе поколение V60 (2018) на платформе SPA2, общей с S60 Gen3 — ранее в графе отсутствовало (пропуск поколения: V60 Gen1 2010г. не имел продолжения). Топ ICE-версия на старте продаж — T6 AWD (2.0 турбо+компрессор I4, R-Design Platinum) — 302 л.с./295 lb-ft, 0-100 за 5.4с. Источники: edmunds.com, truecar.com, usnews.com (2018 Volvo V60 T6 AWD R-Design Platinum specs).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:01:14.507Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:01:14.507Z"
+}

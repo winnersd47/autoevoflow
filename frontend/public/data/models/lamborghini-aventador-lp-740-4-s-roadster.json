@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-aventador-lp-740-4-s-roadster",
+  "slug": "lamborghini-aventador-lp-740-4-s-roadster",
+  "name": "Lamborghini Aventador LP740-4 S Roadster",
+  "fullName": "Lamborghini Aventador LP740-4 S Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Открытая версия Aventador S — Лос-Анджелес, нояб. 2017. Те же 740hp и полноуправляемое шасси (LRS 4-колёсное рулевое), что у купе S. Источник: официальные пресс-материалы Lamborghini 2017.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:18:29.635Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:18:29.635Z"
+}

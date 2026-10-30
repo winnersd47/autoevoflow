@@ -1,0 +1,20 @@
+{
+  "id": "sync-corvette",
+  "slug": "corvette",
+  "name": "Corvette C8",
+  "fullName": "Corvette C8",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1953,
+  "isActive": true,
+  "description": "LT2 среднемоторный — революция 67 лет спустя; 8DCT; 0-100 за 2.9s за $60k",
+  "generationCount": 8,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:07:34.892Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2023_6_Hours_of_Spa-Francorchamps_Corvette_Racing_Chevrolet_Corvette_C8.R_No.33_%28DSC00037%29.jpg/3840px-2023_6_Hours_of_Spa-Francorchamps_Corvette_Racing_Chevrolet_Corvette_C8.R_No.33_%28DSC00037%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2023_6_Hours_of_Spa-Francorchamps_Corvette_Racing_Chevrolet_Corvette_C8.R_No.33_%28DSC00037%29.jpg/3840px-2023_6_Hours_of_Spa-Francorchamps_Corvette_Racing_Chevrolet_Corvette_C8.R_No.33_%28DSC00037%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:07:34.892Z"
+}

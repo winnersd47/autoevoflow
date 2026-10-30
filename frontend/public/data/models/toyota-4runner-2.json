@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-4runner-2",
+  "slug": "toyota-4runner-2",
+  "name": "Toyota 4Runner 2nd Generation",
+  "fullName": "Toyota 4Runner 2nd Generation (1989)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "isActive": true,
+  "description": "Второе поколение (1989) — впервые цельный кузов SUV вместо пикапа Hilux/Surf со съёмным кунгом, как у 1-го поколения. Топовый мотор — 3.0L V6 3VZ-E, 150 л.с.; версии с 2.4L I4 слабее. В графе ранее отсутствовало вместе с 3-м и 4-м поколениями — цепочка 1984→2009 перескакивала сразу через 3 поколения (системное срезающее ребро e-toy-4run1-5).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:47:40.192Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg/3840px-2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg/3840px-2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:47:40.192Z"
+}

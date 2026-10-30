@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-bentayga-ewb",
+  "slug": "bentley-bentayga-ewb",
+  "name": "Bentayga EWB",
+  "fullName": "Bentayga EWB",
+  "brandId": "bentley",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:43:15.123Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/3840px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/3840px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:43:15.123Z"
+}

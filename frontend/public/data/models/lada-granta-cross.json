@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-granta-cross",
+  "slug": "lada-granta-cross",
+  "name": "Lada Granta Cross",
+  "fullName": "Lada Granta Cross",
+  "brandId": "lada",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Приподнятый хэтчбек на базе Granta; клиренс 203 мм; полный привод опционально; отвечал на XRAY Cross; популярен на бездорожье",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:35:12.553Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lada_Granta_%282018_facelift%29_in_Tomsk_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lada_Granta_%282018_facelift%29_in_Tomsk_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:35:12.553Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-caravan-5",
+  "slug": "dodge-caravan-5",
+  "name": "Dodge Grand Caravan SXT",
+  "fullName": "Dodge Grand Caravan SXT",
+  "brandId": "dodge",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "5-е и последнее поколение (2008-2020), только длиннобазный Grand Caravan. На старте топ-мотор 4.0L V6 SXT, 251 л.с. (2008-2010); с 2011 заменён на 3.6L Pentastar (283 л.с.) — доминирующая версия до конца выпуска в 2020. Ок. 2012 появился трим R/T (апперанс-пакет, не отдельный мотор; к 2017 переименован в GT). Источники: Wikipedia, Stellantis Media (доступ 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:54:13.207Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2011_Dodge_Grand_Caravan_Mainstreet_--_02-17-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2011_Dodge_Grand_Caravan_Mainstreet_--_02-17-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:54:13.207Z"
+}

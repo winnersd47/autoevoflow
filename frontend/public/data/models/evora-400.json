@@ -1,0 +1,20 @@
+{
+  "id": "sync-evora-400",
+  "slug": "evora-400",
+  "name": "Evora 400",
+  "fullName": "Evora 400",
+  "brandId": "lotus",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:32:15.867Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg/3840px-2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg/3840px-2017_Lotus_Evora_400%2C_sky_blue%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:32:15.867Z"
+}

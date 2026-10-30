@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-xsara-kit-car",
+  "slug": "citroen-xsara-kit-car",
+  "name": "Citroën Xsara Kit Car",
+  "fullName": "Citroën Xsara Kit Car",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "Переднеприводный атмо Formula 2 Kit Car (до перехода на полноприводный WRC-регламент) — 2.0Л, 280hp, 2 победы в WRC в 1999г. Источник: Wikipedia Citroën Xsara Kit Car.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:22:41.505Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/26_e_Rallye_du_Rouergue_1999_Philippe_Bugalski_Jean-Paul_Chiaroni_CITROEN_XSARA_KIT_CAR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/26_e_Rallye_du_Rouergue_1999_Philippe_Bugalski_Jean-Paul_Chiaroni_CITROEN_XSARA_KIT_CAR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:22:41.505Z"
+}

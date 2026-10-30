@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-3-denali",
+  "slug": "gmc-sierra-3-denali",
+  "name": "GMC Sierra Denali 1500",
+  "fullName": "GMC Sierra Denali 1500",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "luxury_truck",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Платформа K2XX. Denali получила новый 6.2L V8 EcoTec3 L86 — 420 л.с./450 lb-ft (direct injection, Active Fuel Management, VVT). Источники: gmauthority.com/blog/2013/05 (оценка 420hp), gmauthority.com/blog/2013/09 (первый тест-драйв). Базовая Sierra Gen3 (gmc-sierra-3) того же поколения идёт с 5.3L V8, 355hp — Denali чётко отделена по мотору.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:17.997Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:12:17.997Z"
+}

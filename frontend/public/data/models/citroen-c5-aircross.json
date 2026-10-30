@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-c5-aircross",
+  "slug": "citroen-c5-aircross",
+  "name": "C5 Aircross",
+  "fullName": "C5 Aircross",
+  "brandId": "citroen",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "D-segment SUV flagship. Progressive Hydraulic Cushions. PHEV 225 HP. Sold in 60+ countries.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:43.437Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg/3840px-Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg/3840px-Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:10:43.437Z"
+}

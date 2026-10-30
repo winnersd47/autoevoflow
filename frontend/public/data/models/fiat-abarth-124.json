@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-abarth-124",
+  "slug": "fiat-abarth-124",
+  "name": "Abarth 124 Spider",
+  "fullName": "Abarth 124 Spider (2016)",
+  "brandId": "fiat",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:03:28.293Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fiat_Abarth_750_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fiat_Abarth_750_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:03:28.293Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-relay",
+  "slug": "saturn-relay",
+  "name": "Saturn Relay",
+  "fullName": "Saturn Relay (2004)",
+  "brandId": "saturn",
+  "bodyType": "van",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "GMT201 platform minivan. Shared with Chevrolet Uplander/Buick Terraza. 3.5L V6. 2004–2007.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:15:38.479Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Saturn_Relay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Saturn_Relay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:15:38.479Z"
+}

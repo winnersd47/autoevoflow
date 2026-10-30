@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-450s-costin-zagato",
+  "slug": "maserati-450s-costin-zagato",
+  "name": "Maserati 450S Costin-Zagato",
+  "fullName": "Maserati 450S Costin-Zagato",
+  "brandId": "maserati",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1957,
+  "isActive": true,
+  "description": "One-off аэродинамическое купе — инженер Фрэнк Костин спроектировал низкий фастбэк-кузов по заказу Стирлинга Мосса для Ле-Мана 1957г., построено Zagato в спешке, ОТДЕЛЬНО от стандартного родстера 450S работы Fantuzzi (не в графе). Именно ЭТА машина носит прозвище \"Il Mostro\" (\"Монстр\") — за необычные угловатые аэродинамические формы кузова (а не стандартный родстер Fantuzzi, как ошибочно указывало предыдущее описание). За рулём Стирлинг Мосс/Гарри Шелл лидировали гонку, сошли на подходе ко 2-му месту. Исправлено 2026-09-30 веб-проверкой (zagato-cars.com, curbsideclassic.com и др. независимо подтверждают привязку прозвища именно к Costin-Zagato).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:51:19.181Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Maserati_Mod%C3%A8ne_0002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Maserati_Mod%C3%A8ne_0002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:51:19.181Z"
+}

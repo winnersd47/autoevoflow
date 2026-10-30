@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lesabre",
+  "slug": "buick-lesabre",
+  "name": "Buick LeSabre Gen.1",
+  "fullName": "Buick LeSabre Gen.1",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1959,
+  "isActive": true,
+  "description": "Первое поколение — самая доступная из полноразмерных линеек Buick 1959г. (ниже Invicta/Electra). Стандартный 364cid V8 — 250hp (есть и экономичная версия 235hp); топ — опциональный power-pack (4bbl карбюратор, двойной выхлоп) — 300hp. Источник: conceptcarz.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:33:27.442Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:33:27.442Z"
+}

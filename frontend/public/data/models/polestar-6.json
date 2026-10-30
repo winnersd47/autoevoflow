@@ -1,0 +1,20 @@
+{
+  "id": "sync-polestar-6",
+  "slug": "polestar-6",
+  "name": "Polestar 6",
+  "fullName": "Polestar 6 (2026)",
+  "brandId": "polestar",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:56:14.939Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:56:14.939Z"
+}

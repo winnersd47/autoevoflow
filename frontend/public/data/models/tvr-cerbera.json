@@ -1,0 +1,20 @@
+{
+  "id": "sync-tvr-cerbera",
+  "slug": "tvr-cerbera",
+  "name": "Cerbera",
+  "fullName": "Cerbera",
+  "brandId": "tvr",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:52:56.158Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/TVR_Cerbera_Speed_Six_02.jpg/3840px-TVR_Cerbera_Speed_Six_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/TVR_Cerbera_Speed_Six_02.jpg/3840px-TVR_Cerbera_Speed_Six_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:52:56.158Z"
+}

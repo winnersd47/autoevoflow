@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-mark6",
+  "slug": "lincoln-mark6",
+  "name": "Lincoln Continental Mark VI",
+  "fullName": "Lincoln Continental Mark VI",
+  "brandId": "lincoln",
+  "bodyType": "coupe",
+  "segment": "personal_luxury",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "Пропущенное звено цепи Mark V→Mark VII — без него ребро Mark V→Mark VII перескочило бы через реально существовавшее поколение (баг «пропуск поколения»). Downsizing 1980г.: Mark VI перешёл на новую платформу Panther (та же, что и Town Car/обычный Continental седан того же года), уникален в серии Mark тем, что продавался и как купе, и как 4-дверный седан. Двигатели 1980г.: 302cid (4.9L, 129-132 л.с.) или опционально 351cid Windsor (5.8L, 140 л.с., только в 1980г.) — в узле топовый вариант. С 1981г. остался только 302. Источники: Wikipedia (Lincoln Continental Mark VI), conceptcarz (1980 Lincoln Continental).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:04:51.612Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1989_Lincoln_Mark_VII_LSC%2C_front_left%2C_03-24-2023.jpg/3840px-1989_Lincoln_Mark_VII_LSC%2C_front_left%2C_03-24-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1989_Lincoln_Mark_VII_LSC%2C_front_left%2C_03-24-2023.jpg/3840px-1989_Lincoln_Mark_VII_LSC%2C_front_left%2C_03-24-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:04:51.612Z"
+}

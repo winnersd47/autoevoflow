@@ -1,0 +1,20 @@
+{
+  "id": "sync-urus",
+  "slug": "urus",
+  "name": "Lamborghini Urus EV",
+  "fullName": "Lamborghini Urus EV",
+  "brandId": "lamborghini",
+  "bodyType": "suv",
+  "segment": "super-suv",
+  "primaryMarket": "global",
+  "startYear": 2029,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:25:12.553Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/3840px-Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/3840px-Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:25:12.553Z"
+}

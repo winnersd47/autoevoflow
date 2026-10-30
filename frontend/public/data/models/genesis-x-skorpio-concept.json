@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-x-skorpio-concept",
+  "slug": "genesis-x-skorpio-concept",
+  "name": "Genesis X Skorpio Concept",
+  "fullName": "Genesis X Skorpio Concept",
+  "brandId": "genesis",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "НЕ связан с трилогией Genesis X Concept/Speedium Coupe/Convertible (2021-2023, GT-дизайн) — показан 27 янв. 2026 в пустыне ОАЭ как часть новой концепт-стратегии бренда. Экстремальный внедорожный концепт: трубчатый каркас, каркас безопасности, 40\" колёса, V8 1100 л.с./850 lb-ft. Genesis подтвердил очень ограниченный тираж, заказы уже принимаются.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:42:59.161Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Genesis_X_Concept_%283%29.jpg/3840px-Genesis_X_Concept_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Genesis_X_Concept_%283%29.jpg/3840px-Genesis_X_Concept_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:42:59.161Z"
+}

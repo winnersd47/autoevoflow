@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-carisma",
+  "slug": "mitsubishi-carisma",
+  "name": "Mitsubishi Carisma",
+  "fullName": "Mitsubishi Carisma",
+  "brandId": "mitsubishi",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "Единственное поколение (1995-2004), совместная разработка с Volvo (платформа NedCar, Нидерланды — родственна Volvo S40/V40, нода Volvo в графе отсутствует, кросс-брендовое ребро не создано). Топ-мотор — атмосферный 1.8 GDI (4G93), 125 л.с. Существовала также редкая тюнинг-версия с мотором от Lancer Evo VI (~280 л.с., переделка под маркой Ralliart-подобных ателье) — не включена в граф как недостаточно подтверждённая серийная модель. Источники: Wikipedia 'Mitsubishi Carisma', encycarpedia.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:57:45.129Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mitsubishi_Carisma_front_20071205.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mitsubishi_Carisma_front_20071205.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:57:45.129Z"
+}

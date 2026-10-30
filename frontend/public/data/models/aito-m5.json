@@ -1,0 +1,20 @@
+{
+  "id": "sync-aito-m5",
+  "slug": "aito-m5",
+  "name": "Aito M5",
+  "fullName": "Aito M5",
+  "brandId": "aito",
+  "bodyType": "suv",
+  "segment": "crossover",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:50:19.497Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/AITO_M7_II_008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/AITO_M7_II_008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:50:19.497Z"
+}

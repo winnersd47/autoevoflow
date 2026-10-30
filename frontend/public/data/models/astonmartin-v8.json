@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-v8",
+  "slug": "astonmartin-v8",
+  "name": "Aston Martin V8",
+  "fullName": "Aston Martin V8",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 1972,
+  "isActive": true,
+  "description": "Прямой преемник DBSV8 (переименован в 1972 со сменой на сдвоенные галогенные фары, новую решётку и впрыск Bosch вместо карбюраторов). 5.3Л V8, дизайн — William Towns. Series 1: механический впрыск, 320hp/325PS, 490Нм. Производился сериями 1-5 до 1989г., мощность к финальным Vantage/Zagato версиям выросла до ~432hp (см. am-v8-zagato). Ранее в графе отсутствовал как узел, хотя на него прямо ссылается note дочернего am-v8-zagato ('отдельная историческая дыра').",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:28:27.151Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/1974_Aston_Martin_V8_Vantage.jpg/3840px-1974_Aston_Martin_V8_Vantage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/1974_Aston_Martin_V8_Vantage.jpg/3840px-1974_Aston_Martin_V8_Vantage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:28:27.151Z"
+}

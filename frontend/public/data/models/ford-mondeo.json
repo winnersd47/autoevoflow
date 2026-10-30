@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mondeo",
+  "slug": "ford-mondeo",
+  "name": "Ford Mondeo Titanium X 2.5T",
+  "fullName": "Ford Mondeo Titanium X 2.5T",
+  "brandId": "ford",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Топовая перформанс-версия Mk4, доступна в отделках Ghia/Titanium/Titanium X — турбированная рядная пятёрка Volvo-происхождения (2.5L B5254T3, Ford называет её '2.5 Duratec'), 217-220hp/320Нм, 0-100 за 7.5с. НЕ V6 (исправлено: ранее engineType был ошибочно 'v6', а hp завышен до 240). Базовая массовая версия Mk4 вынесена в отдельный узел ford-mondeo-mk4 (2.0 Duratec, 145hp).",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:11:04.116Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Ford_Mondeo_Turnier_2.0_EcoBlue_ST-Line_%28V%2C_Facelift%29_%E2%80%93_f_18042021.jpg/3840px-Ford_Mondeo_Turnier_2.0_EcoBlue_ST-Line_%28V%2C_Facelift%29_%E2%80%93_f_18042021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Ford_Mondeo_Turnier_2.0_EcoBlue_ST-Line_%28V%2C_Facelift%29_%E2%80%93_f_18042021.jpg/3840px-Ford_Mondeo_Turnier_2.0_EcoBlue_ST-Line_%28V%2C_Facelift%29_%E2%80%93_f_18042021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:11:04.116Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-dbx",
+  "slug": "astonmartin-dbx",
+  "name": "Aston Martin DBX S",
+  "fullName": "Aston Martin DBX S",
+  "brandId": "astonmartin",
+  "bodyType": "suv",
+  "segment": "premium_suv",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "\"Возвращение S\" — новый топ-трим 2026г., легче и мощнее DBX707: 727PS/717hp/900Нм. Сейчас сосуществует с DBX707 (\"Two styles: DBX707 and DBX S\" на astonmartin.com).",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:35:54.634Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg/3840px-2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg/3840px-2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:35:54.634Z"
+}

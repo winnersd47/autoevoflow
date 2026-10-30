@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-diablo-vt-roadster",
+  "slug": "lamborghini-diablo-vt-roadster",
+  "name": "Lamborghini Diablo VT Roadster",
+  "fullName": "Lamborghini Diablo VT Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "1995 — открытая версия VT со съёмной жёсткой панелью крыши, первый открытый Lamborghini со времён Countach. Та же механика 492hp AWD. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:25:58.281Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:25:58.281Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-sonata-n-line",
+  "slug": "hyundai-sonata-n-line",
+  "name": "Sonata N Line",
+  "fullName": "Sonata N Line",
+  "brandId": "hyundai",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:36:24.261Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2024_Hyundai_Sonata_SEL%2C_front_right.jpg/3840px-2024_Hyundai_Sonata_SEL%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/2024_Hyundai_Sonata_SEL%2C_front_right.jpg/3840px-2024_Hyundai_Sonata_SEL%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:36:24.261Z"
+}

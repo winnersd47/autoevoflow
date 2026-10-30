@@ -1,0 +1,20 @@
+{
+  "id": "sync-jaguar-f-type-svr",
+  "slug": "jaguar-f-type-svr",
+  "name": "Jaguar F-Type 75",
+  "fullName": "Jaguar F-Type 75",
+  "brandId": "jaguar",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Юбилейное издание к 75-летию Jaguar; последняя спецверсия перед полным снятием F-Type с производства в 2024-м.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:20:24.935Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg/3840px-2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg/3840px-2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:20:24.935Z"
+}

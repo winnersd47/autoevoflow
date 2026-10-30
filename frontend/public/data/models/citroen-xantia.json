@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-xantia",
+  "slug": "citroen-xantia",
+  "name": "Citroën Xantia",
+  "fullName": "Citroën Xantia",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:31:47.902Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/1996_Citro%C3%ABn_Xantia_VSX_hatchback_%282015-11-11%29_01.jpg/3840px-1996_Citro%C3%ABn_Xantia_VSX_hatchback_%282015-11-11%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/1996_Citro%C3%ABn_Xantia_VSX_hatchback_%282015-11-11%29_01.jpg/3840px-1996_Citro%C3%ABn_Xantia_VSX_hatchback_%282015-11-11%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:31:47.902Z"
+}

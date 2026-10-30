@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-grancabrio-modena-facelift",
+  "slug": "maserati-grancabrio-modena-facelift",
+  "name": "Maserati GranCabrio Mk2 Modena Facelift",
+  "fullName": "Maserati GranCabrio Mk2 Modena Facelift",
+  "brandId": "maserati",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Тот же рестайлинг 2027г., что у GranTurismo/GranCabrio Trofeo и GranTurismo Modena — новые воздухозаборники передка, аэродинамические шторки, светлые линзы задних фонарей (стиль MCPura), обновлённый салон и PRND-селектор с металлической отделкой. Мощность базового Modena без изменений (483hp) — входной трим GranCabrio Mk2 остаётся в линейке и после обновления.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:38:14.100Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:38:14.100Z"
+}

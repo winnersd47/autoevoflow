@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-3000gt",
+  "slug": "mitsubishi-3000gt",
+  "name": "3000GT VR-4",
+  "fullName": "3000GT VR-4",
+  "brandId": "mitsubishi",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:54:26.091Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mitsubishi_3000GT_--_03-21-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mitsubishi_3000GT_--_03-21-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:54:26.091Z"
+}

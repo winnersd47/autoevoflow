@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-vue-2",
+  "slug": "saturn-vue-2",
+  "name": "Saturn Vue Gen.2",
+  "fullName": "Saturn Vue Gen.2 (2007)",
+  "brandId": "saturn",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Theta platform 2nd gen Vue. Green Line hybrid 4-cyl. 2-mode hybrid available. Shared with Chevrolet Equinox.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:15:43.717Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2008_Saturn_Vue_XE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2008_Saturn_Vue_XE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:15:43.717Z"
+}

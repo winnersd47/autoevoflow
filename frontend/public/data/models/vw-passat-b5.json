@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-passat-b5",
+  "slug": "vw-passat-b5",
+  "name": "VW Passat B5",
+  "fullName": "VW Passat B5 (1996)",
+  "brandId": "volkswagen",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:15:30.459Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1998_Volkswagen_Passat_S_TDi_1.9_Front.jpg/3840px-1998_Volkswagen_Passat_S_TDi_1.9_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1998_Volkswagen_Passat_S_TDi_1.9_Front.jpg/3840px-1998_Volkswagen_Passat_S_TDi_1.9_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:15:30.459Z"
+}

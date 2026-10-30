@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-2",
+  "slug": "ford-f150-2",
+  "name": "Ford F-150 Gen.2",
+  "fullName": "Ford F-150 Gen.2",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1953,
+  "isActive": true,
+  "description": "Второе поколение (1953-56) — первый полный рестайл кузова после войны; впервые грузовые серии разделены по тоннажу (F-100/F-250/F-350 вместо F-1...F-8). Рядная 6-ка 101hp стандартно, Flathead V8 100hp опционально на старте; с 1954-55гг. — новый OHV V8 239ci \"Y-block\" (\"Power King\"), сменивший довоенную конструкцию мотора.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:36.602Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:36.602Z"
+}

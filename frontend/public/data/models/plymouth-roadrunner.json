@@ -1,0 +1,20 @@
+{
+  "id": "sync-plymouth-roadrunner",
+  "slug": "plymouth-roadrunner",
+  "name": "Road Runner",
+  "fullName": "Road Runner",
+  "brandId": "plymouth",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "Анкор поколения исправлен: hp=426 (путаница объёма мотора в куб.дюймах с реальными 425 л.с.) и codeName='Superbird' (имя другой, более поздней модели) ошибочно хранились на базовом узле. Базовая комплектация — 383 Super Commando V8, 335 л.с. Показатели a777TopSpeed/a777Accel/a777Torque (210 км/ч, 6.6с, 665 Н·м), по факту соответствующие 426 Hemi (490 фунт-фут = 664 Н·м), перенесены на новый узел plymouth-roadrunner-hemi.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:59:14.719Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Plymouth_Road_Runner_1969_5312706.jpg/3840px-Plymouth_Road_Runner_1969_5312706.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Plymouth_Road_Runner_1969_5312706.jpg/3840px-Plymouth_Road_Runner_1969_5312706.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:59:14.719Z"
+}

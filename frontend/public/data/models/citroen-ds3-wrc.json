@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-ds3-wrc",
+  "slug": "citroen-ds3-wrc",
+  "name": "Citroën DS3 WRC",
+  "fullName": "Citroën DS3 WRC",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Преемник C4 WRC в чемпионате (новый регламент WRC-2011: специально спроектированный турбо-1.6 вместо атмо-2.0 на базе серийного блока; 220кВт/300лс). На базе дорожной DS3 (2009) — ещё под брендом Citroën, DS Automobiles отделился только в 2014-2015 (та же логика, что у ds3/ds4/ds5 в этом кластере). 2 титула производителей и 2 титула пилотов Лёба подряд (2011-2012), включая рекордный 9-й подряд личный титул в 2012г. Источники: Wikipedia Citroën DS3 WRC, ultimatecarpage.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:26:23.914Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:26:23.914Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-aston-martin-dbr22",
+  "slug": "aston-martin-dbr22",
+  "name": "DBR22",
+  "fullName": "DBR22",
+  "brandId": "astonmartin",
+  "bodyType": "roadster",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:33:33.270Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Aston_Martin_DBR22_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Aston_Martin_DBR22_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:33:33.270Z"
+}

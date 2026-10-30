@@ -1,0 +1,20 @@
+{
+  "id": "sync-chrysler-300",
+  "slug": "chrysler-300",
+  "name": "Chrysler 300C Last Call",
+  "fullName": "Chrysler 300C Last Call (2023)",
+  "brandId": "chrysler",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Финальная спецсерия, закрывающая 12-летний цикл платформы LD (2011-2023) — 6.4L Hemi V8 485лс/574 lb-ft, всего 2200 экз. (2000 США + 200 Канада), раскуплены за 12 часов. Последний автомобиль Chrysler с атмосферным Hemi V8; последний экземпляр сошёл с конвейера Brampton (Онтарио) 8 декабря 2023г., после чего завод встал на переоснастку под электроплатформу. Подтверждает, что между 300(LX,2004)→300(LD,2011)→SRT8(2012) НЕТ пропущенного 3-го поколения — это один очень долгий модельный цикл LD.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:04:10.765Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg/3840px-2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg/3840px-2016_Chrysler_300_Limited_AWD_front_4.22.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:04:10.765Z"
+}

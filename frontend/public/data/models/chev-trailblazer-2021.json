@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-trailblazer-2021",
+  "slug": "chev-trailblazer-2021",
+  "name": "Chevrolet Trailblazer",
+  "fullName": "Chevrolet Trailblazer (2021)",
+  "brandId": "chevrolet",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Ривайвл имени спустя 12 лет после снятия midsize TrailBlazer (2009) — теперь субкомпакт-кроссовер на платформе GM VSS-F (родственна Trax/Buick Encore GX), технически не связан со старым поколением. Базовый турбо 1.2L/137hp (FWD, вариатор) или старший турбо 1.3L/155hp (доступен AWD, 9-ст. АКПП). Источник: Wikipedia (Chevrolet Trailblazer crossover), consumerguide.com, kbb.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:54:04.017Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/99-02_Chevrolet_Blazer_TrailBlazer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/99-02_Chevrolet_Blazer_TrailBlazer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:54:04.017Z"
+}

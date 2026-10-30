@@ -1,0 +1,20 @@
+{
+  "id": "sync-mb-vklasse-w638",
+  "slug": "mb-vklasse-w638",
+  "name": "V-Klasse W638",
+  "fullName": "V-Klasse W638",
+  "brandId": "mercedes",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:10:06.979Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mercedes-Benz_W463_G_350_BlueTEC_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mercedes-Benz_W463_G_350_BlueTEC_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:10:06.979Z"
+}

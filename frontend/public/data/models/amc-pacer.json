@@ -1,0 +1,20 @@
+{
+  "id": "sync-amc-pacer",
+  "slug": "amc-pacer",
+  "name": "Pacer",
+  "fullName": "Pacer",
+  "brandId": "amc",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1975,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:43:07.390Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1975_AMC_Pacer_base_model_frontleftside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1975_AMC_Pacer_base_model_frontleftside.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:43:07.390Z"
+}

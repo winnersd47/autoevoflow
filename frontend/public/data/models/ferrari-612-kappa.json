@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-612-kappa",
+  "slug": "ferrari-612-kappa",
+  "name": "Ferrari 612 Kappa",
+  "fullName": "Ferrari 612 Kappa",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "One-off Pininfarina для американского коллекционера Питера Каликова — дебют на Villa d'Este 2006. Сохраняет конструкцию 612 Scaglietti (5.7Л V12, 540hp), но с эксклюзивной алюминиевой отделкой кузова ручной работы.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:50:14.126Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:50:14.126Z"
+}

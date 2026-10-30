@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-electra-6",
+  "slug": "buick-electra-6",
+  "name": "Buick Electra T-Type",
+  "fullName": "Buick Electra T-Type",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "Финальное поколение Electra — переход на передний привод (платформа C, unibody). Топ-трим T-Type (1985-87) — атмосферный 3.8L V6, НЕ турбированный (в отличие от одноимённого Regal T-Type той же эпохи — важно не путать!), мощность росла от 125hp (1985) до 150hp (1987). В 1991г. модель переименована в Park Avenue на обновлённой платформе. Источник: automobile-catalog.com (1985-1987 Buick Electra T-Type), hagerty.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:40.452Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1967_Buick_Electra_225_Custom_4-door_hardtop%2C_front_left%2C_06-14-2024.jpg/3840px-1967_Buick_Electra_225_Custom_4-door_hardtop%2C_front_left%2C_06-14-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/1967_Buick_Electra_225_Custom_4-door_hardtop%2C_front_left%2C_06-14-2024.jpg/3840px-1967_Buick_Electra_225_Custom_4-door_hardtop%2C_front_left%2C_06-14-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:06:40.452Z"
+}

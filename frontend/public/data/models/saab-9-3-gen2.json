@@ -1,0 +1,20 @@
+{
+  "id": "sync-saab-9-3-gen2",
+  "slug": "saab-9-3-gen2",
+  "name": "Saab 9-3 Gen.2",
+  "fullName": "Saab 9-3 Gen.2 (2002)",
+  "brandId": "saab",
+  "bodyType": "sedan",
+  "segment": "mid",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:29:29.873Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/1993_Saab_900_SE_Turbo_2.0_Front.jpg/3840px-1993_Saab_900_SE_Turbo_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/1993_Saab_900_SE_Turbo_2.0_Front.jpg/3840px-1993_Saab_900_SE_Turbo_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:29:29.873Z"
+}

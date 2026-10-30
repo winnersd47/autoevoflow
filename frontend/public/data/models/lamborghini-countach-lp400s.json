@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-countach-lp400s",
+  "slug": "lamborghini-countach-lp400s",
+  "name": "Lamborghini Countach LP400S",
+  "fullName": "Lamborghini Countach LP400S",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "1978 — первый значительный рестайлинг Countach: широкие колёсные арки (дизайн Bertone/Гандини), шины Pirelli P7, опциональный задний спойлер. Мощность того же 4.0Л V12 практически не изменилась (~375hp), но масса и ширина выросли. Выпущено 466 экз. Источник: официальные спецификации Lamborghini/Wikipedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:26:06.574Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:26:06.574Z"
+}

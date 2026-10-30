@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-145-146",
+  "slug": "alfa-145-146",
+  "name": "Alfa Romeo 145 (3-дв.) / 146 (5-дв.)",
+  "fullName": "Alfa Romeo 145 (3-дв.) / 146 (5-дв.)",
+  "brandId": "alfa-romeo",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "Прямой предок 147 (не 155 — то ошибочное ребро в графе исправлено). Платформа Fiat Group \"Tipo Due\" (общая с Fiat Tipo/Bravo/Brava). На старте — боксёрные моторы Alfasud (последние боксёры в истории Alfa!), с 1996г. — рядные Twin Spark. Топ-версия 145 Quadrifoglio / 146 Ti (Cloverleaf на рынке UK) — 2.0 Twin Spark, 150-155PS.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:28.045Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:07:28.045Z"
+}

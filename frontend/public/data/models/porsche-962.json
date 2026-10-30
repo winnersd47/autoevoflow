@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-962",
+  "slug": "porsche-962",
+  "name": "Porsche 962",
+  "fullName": "Porsche 962",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "track",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Преемник 956, адаптирован под регламент IMSA GTP (США) и группу C. Тот же 2.65L твин-турбо flat-6, ~620 л.с. (до 750 в самых мощных версиях). Победы на Ле-Мане 1986-87, один из самых массово успешных прототипов в истории.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:16.514Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:12:16.514Z"
+}

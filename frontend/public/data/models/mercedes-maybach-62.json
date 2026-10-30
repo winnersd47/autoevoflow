@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-maybach-62",
+  "slug": "mercedes-maybach-62",
+  "name": "Maybach 62",
+  "fullName": "Maybach 62",
+  "brandId": "mercedes",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:31:32.456Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mercedes_Maybach_57_and_62.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mercedes_Maybach_57_and_62.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:31:32.456Z"
+}

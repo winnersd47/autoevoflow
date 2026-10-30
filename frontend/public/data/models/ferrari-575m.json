@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-575m",
+  "slug": "ferrari-575m",
+  "name": "Ferrari 575M Maranello",
+  "fullName": "Ferrari 575M Maranello (2002)",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:22:50.544Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ferrari575M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ferrari575M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:22:50.544Z"
+}

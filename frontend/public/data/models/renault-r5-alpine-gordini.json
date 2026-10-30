@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-r5-alpine-gordini",
+  "slug": "renault-r5-alpine-gordini",
+  "name": "Renault 5 Alpine (Gordini в Великобритании)",
+  "fullName": "Renault 5 Alpine (Gordini в Великобритании)",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1976,
+  "isActive": true,
+  "description": "Тёплый хэтч-предшественник Turbo — атмосферный 1.4Л расточенный Cleon-Fonte, 93hp. Во Франции звался \"5 Alpine\" (конфликт с брендом Alpine), в Британии — \"5 Gordini\". НЕ путать с Turbo (другой слой, среднемоторный). Источник: ateupwithmotor.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:21:31.711Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Renault_Alpine_V6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Renault_Alpine_V6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:21:31.711Z"
+}

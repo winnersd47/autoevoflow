@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-rendezvous-1",
+  "slug": "buick-rendezvous-1",
+  "name": "Buick Rendezvous Ultra AWD",
+  "fullName": "Buick Rendezvous Ultra AWD",
+  "brandId": "buick",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Единственное поколение, кроссовер на платформе U-body (общей с Pontiac Aztek). Базовый мотор — 3.4L V6, 185hp; топ-трим Ultra AWD (добавлен в 2004г.) — 3.6L V6 DOHC, 245hp/235 фунт-фут. Источник: auto123.com (2004 Buick Rendezvous Ultra AWD specs).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:10:41.055Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/02-03_Buick_Rendezvous.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/02-03_Buick_Rendezvous.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:10:41.055Z"
+}

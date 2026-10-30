@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-850",
+  "slug": "volvo-850",
+  "name": "Volvo 850 R",
+  "fullName": "Volvo 850 R",
+  "brandId": "volvo",
+  "bodyType": "estate",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "Прямой преемник лимитированного T5-R (выпускался только в 1995 модельном году) — с весны 1996г. переименован в 850 R для MY1996-97, тот же турбомотор 2.3 I5 (B5234T5), 250 л.с./350Нм на МКПП с LSD, 0-100 за 6.7с. Последняя R-версия перед переименованием 850 в S70/V70 в 1997г. Источники: Volvotips.com (T-5R and 850R), encycarpedia (Volvo 850 R specs 1996-1997).",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:33:18.902Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Volvo-Iron-Mark-Black.svg/960px-Volvo-Iron-Mark-Black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Volvo-Iron-Mark-Black.svg/960px-Volvo-Iron-Mark-Black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:33:18.902Z"
+}

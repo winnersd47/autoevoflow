@@ -1,0 +1,20 @@
+{
+  "id": "sync-seat-leon3",
+  "slug": "seat-leon3",
+  "name": "SEAT León Mk3",
+  "fullName": "SEAT León Mk3",
+  "brandId": "seat",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:21:46.677Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:21:46.677Z"
+}

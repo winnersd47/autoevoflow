@@ -1,0 +1,20 @@
+{
+  "id": "sync-saleen-s7-tt",
+  "slug": "saleen-s7-tt",
+  "name": "S7 Twin Turbo",
+  "fullName": "S7 Twin Turbo",
+  "brandId": "saleen",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:55:25.815Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Saleen_S7_%288228619567%29.jpg/3840px-Saleen_S7_%288228619567%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Saleen_S7_%288228619567%29.jpg/3840px-Saleen_S7_%288228619567%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:55:25.815Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-encore-gx",
+  "slug": "buick-encore-gx",
+  "name": "Buick Encore GX",
+  "fullName": "Buick Encore GX",
+  "brandId": "buick",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "НЕ рестайлинг Encore, а отдельная более крупная модель, продаётся параллельно с обычным Encore. Платформа VSS-F (общая с Chevrolet Trailblazer 2021+). Топ-мотор — 1.3L turbo I3, 155hp/174 фунт-фут (базовый — 1.2L turbo I3, 137hp). Источник: wikipedia (Buick Encore GX).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:31.158Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2020_Buick_Encore_GX_Select_AWD%2C_front_left.jpg/3840px-2020_Buick_Encore_GX_Select_AWD%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2020_Buick_Encore_GX_Select_AWD%2C_front_left.jpg/3840px-2020_Buick_Encore_GX_Select_AWD%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:31.158Z"
+}

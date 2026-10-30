@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-s40-v50",
+  "slug": "volvo-s40-v50",
+  "name": "Volvo S40/V50 (Gen2)",
+  "fullName": "Volvo S40/V50 (Gen2)",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Второе поколение, седан S40 и универсал V50 на одной платформе Ford C1 (общей с Ford Focus Mk2/Mazda3) — первый переднеприводной Volvo compact без участия Mitsubishi. Топ-версия T5 AWD (2.5 турбо I5) — 220 л.с./236 lb-ft, 0-100 за 7.1с. Источник: auto-data.net (Volvo S40 II 2.5 20V T5 220Hp AWD).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:58:55.669Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg/3840px-2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg/3840px-2008_Volvo_S40_S_Diesel_Automatic_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:58:55.669Z"
+}

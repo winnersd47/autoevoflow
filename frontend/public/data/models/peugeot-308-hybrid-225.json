@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-308-hybrid-225",
+  "slug": "peugeot-308-hybrid-225",
+  "name": "Peugeot 308 Hybrid 225",
+  "fullName": "Peugeot 308 Hybrid 225",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "ВАЖНО: заявленная в задании \"308 PSE\" НЕ существует — проект гибридной 308 PSE был officially отменён в сент.2021 (приоритет отдан электро e-308), PSE осталась эксклюзивом 508. Здесь добавлен реальный топ-гибрид 308 — Hybrid 225 (222 л.с.) как ближайший существующий аналог. Источник: largus.fr \"sans surprise, il n'y aura pas de sportive PSE\", autoevolution.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:18:52.628Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Peugeot_3008_HYbrid4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Peugeot_3008_HYbrid4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:18:52.628Z"
+}

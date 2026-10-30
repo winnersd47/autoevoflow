@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-continental-r",
+  "slug": "bentley-continental-r",
+  "name": "Continental R",
+  "fullName": "Continental R",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:39:43.267Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/2000_Bentley_Continental_R.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/2000_Bentley_Continental_R.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:39:43.267Z"
+}

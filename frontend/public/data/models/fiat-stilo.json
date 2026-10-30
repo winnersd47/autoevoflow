@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-stilo",
+  "slug": "fiat-stilo",
+  "name": "Fiat Stilo",
+  "fullName": "Fiat Stilo (2001)",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:40:41.624Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fiat_Stilo_front_20080711.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Fiat_Stilo_front_20080711.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:40:41.625Z"
+}

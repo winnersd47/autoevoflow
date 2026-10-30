@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-208-gti",
+  "slug": "peugeot-208-gti",
+  "name": "208 GTi",
+  "fullName": "208 GTi",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:39:00.994Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG/3840px-1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG/3840px-1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:39:00.994Z"
+}

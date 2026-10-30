@@ -1,0 +1,20 @@
+{
+  "id": "sync-de-tomaso-mangusta",
+  "slug": "de-tomaso-mangusta",
+  "name": "Mangusta",
+  "fullName": "Mangusta",
+  "brandId": "de-tomaso",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:48:16.146Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/1970_DeTomaso_Mangusta_in_Silver%2C_front_left_%28Greenwich_2024%29.jpg/3840px-1970_DeTomaso_Mangusta_in_Silver%2C_front_left_%28Greenwich_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/1970_DeTomaso_Mangusta_in_Silver%2C_front_left_%28Greenwich_2024%29.jpg/3840px-1970_DeTomaso_Mangusta_in_Silver%2C_front_left_%28Greenwich_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:48:16.146Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-tempest",
+  "slug": "pontiac-tempest",
+  "name": "Pontiac Tempest",
+  "fullName": "Pontiac Tempest",
+  "brandId": "pontiac",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "GTO родился в 1964-м как перформанс-пакет именно Tempest, только потом стал отдельной моделью.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:35:49.732Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/1967_Pontiac_Tempest_%2817481430724%29.jpg/3840px-1967_Pontiac_Tempest_%2817481430724%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/1967_Pontiac_Tempest_%2817481430724%29.jpg/3840px-1967_Pontiac_Tempest_%2817481430724%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:35:49.732Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-clio-williams",
+  "slug": "renault-clio-williams",
+  "name": "Clio Williams",
+  "fullName": "Clio Williams",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:39:09.561Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg/3840px-Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg/3840px-Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:39:09.561Z"
+}

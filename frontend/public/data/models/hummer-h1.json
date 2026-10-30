@@ -1,0 +1,20 @@
+{
+  "id": "sync-hummer-h1",
+  "slug": "hummer-h1",
+  "name": "Hummer H1",
+  "fullName": "Hummer H1 (1992)",
+  "brandId": "hummer",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:00:50.017Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2007_Hummer_H3_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2007_Hummer_H3_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:00:50.017Z"
+}

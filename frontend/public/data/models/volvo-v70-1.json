@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-v70-1",
+  "slug": "volvo-v70-1",
+  "name": "Volvo V70",
+  "fullName": "Volvo V70",
+  "brandId": "volvo",
+  "bodyType": "estate",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Переименованный универсал 850 (с 1997г.), платформа P80 — тот же турбо-I5 2.3 (T5), что и у седана S70 (см. volvo-s70-v70). Прямой предок XC70 (1997, приподнятая полноприводная версия) и V70 Gen2 (2000, новая платформа P2). Выделен отдельным узлом из прежнего объединённого 'S70/V70' для единообразия с более поздними поколениями.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:07:16.587Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/3rd_Volvo_V70_--_09-18-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/3rd_Volvo_V70_--_09-18-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:07:16.587Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-geely-emgrand-ec7",
+  "slug": "geely-emgrand-ec7",
+  "name": "Geely Emgrand EC7",
+  "fullName": "Geely Emgrand EC7",
+  "brandId": "geely",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "Первый флагманский седан Geely; 1 млн проданных",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:27:04.181Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Moscow%2C_Geely_Emgrand_%282nd_gen%29_Aug_2025_01_%28cropped%29.jpg/3840px-Moscow%2C_Geely_Emgrand_%282nd_gen%29_Aug_2025_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Moscow%2C_Geely_Emgrand_%282nd_gen%29_Aug_2025_01_%28cropped%29.jpg/3840px-Moscow%2C_Geely_Emgrand_%282nd_gen%29_Aug_2025_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:27:04.181Z"
+}

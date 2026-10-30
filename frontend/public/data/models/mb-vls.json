@@ -1,0 +1,20 @@
+{
+  "id": "sync-mb-vls",
+  "slug": "mb-vls",
+  "name": "VLS Maybach",
+  "fullName": "VLS Maybach",
+  "brandId": "mercedes",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:11:17.111Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/1988_Mercedes-Benz_300d_Diesel_Automatic_3.0_Front.jpg/3840px-1988_Mercedes-Benz_300d_Diesel_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/1988_Mercedes-Benz_300d_Diesel_Automatic_3.0_Front.jpg/3840px-1988_Mercedes-Benz_300d_Diesel_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:11:17.111Z"
+}

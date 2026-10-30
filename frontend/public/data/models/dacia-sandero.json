@@ -1,0 +1,20 @@
+{
+  "id": "sync-dacia-sandero",
+  "slug": "dacia-sandero",
+  "name": "Dacia Sandero Gen.1",
+  "fullName": "Dacia Sandero Gen.1 (2008)",
+  "brandId": "dacia",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:35:45.626Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2023_Dacia_Sandero_III_DSC_6012.jpg/3840px-2023_Dacia_Sandero_III_DSC_6012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2023_Dacia_Sandero_III_DSC_6012.jpg/3840px-2023_Dacia_Sandero_III_DSC_6012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:35:45.626Z"
+}

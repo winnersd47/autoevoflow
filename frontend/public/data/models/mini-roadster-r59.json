@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-roadster-r59",
+  "slug": "mini-roadster-r59",
+  "name": "Mini Roadster R59",
+  "fullName": "Mini Roadster R59 (2012)",
+  "brandId": "mini",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "2-seat open roadster. Retractable soft-top. JCW 211 HP. Last R-series body style. Limited production.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:11:05.498Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/2012_Mini_John_Cooper_Works_Coupe_--_11-26-2011_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/2012_Mini_John_Cooper_Works_Coupe_--_11-26-2011_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:11:05.498Z"
+}

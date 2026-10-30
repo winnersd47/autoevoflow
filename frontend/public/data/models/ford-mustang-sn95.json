@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-sn95",
+  "slug": "ford-mustang-sn95",
+  "name": "Mustang SN95",
+  "fullName": "Mustang SN95",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:57:43.547Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Ford_Mustang_GT_5.0_facelift.jpg/3840px-2019_Ford_Mustang_GT_5.0_facelift.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Ford_Mustang_GT_5.0_facelift.jpg/3840px-2019_Ford_Mustang_GT_5.0_facelift.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:57:43.548Z"
+}

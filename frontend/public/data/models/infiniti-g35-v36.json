@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-g35-v36",
+  "slug": "infiniti-g35-v36",
+  "name": "Infiniti G37 Sedan",
+  "fullName": "Infiniti G37 Sedan",
+  "brandId": "infiniti",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Седан получил имя и мотор G37 только в 2009 МГ — через год после купе G37 (2008). Та же платформа V36, что у седана G35 2007 года, но новый VQ37VHR «VVEL» 3.7L — 328 л.с./269 фунт-фут (+22 л.с. к 306-сильному G35 Sedan). Источник: carsdirect.com, allcarcentral.com (официальный спецлист 2009 G37 Sedan), thecarconnection.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:17:09.945Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:17:09.945Z"
+}

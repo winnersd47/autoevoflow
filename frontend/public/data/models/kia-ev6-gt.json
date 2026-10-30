@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev6-gt",
+  "slug": "kia-ev6-gt",
+  "name": "EV6 GT",
+  "fullName": "EV6 GT (2023)",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Рестайлинг EV6 (дебют нояб. 2024, LA Auto Show, MY2025): мощность в режиме GT поднята до 641 л.с./568 фунт-фут (обычный режим — 601 л.с.) против 576-585 л.с. у домодельной версии — добавлены Virtual Gear Shift (имитация переключения передач) и звук 'двигателя'. По паспортным данным сопоставим с Hyundai Ioniq 5 N. source: carscoops, insideevs, topspeed (2024-2025).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:38:43.940Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2021_Kia_EV6_GT-Line_S.jpg/3840px-2021_Kia_EV6_GT-Line_S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2021_Kia_EV6_GT-Line_S.jpg/3840px-2021_Kia_EV6_GT-Line_S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:38:43.940Z"
+}

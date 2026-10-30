@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-caliber",
+  "slug": "dodge-caliber",
+  "name": "Dodge Caliber SRT4",
+  "fullName": "Dodge Caliber SRT4",
+  "brandId": "dodge",
+  "bodyType": "hatchback",
+  "segment": "hot_hatch",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "2.4L турбо I4 (интеркулер, турбина Mitsubishi TD04), 285 л.с. при 6400 об/мин, 265 lb-ft при 5600; 6-ст. МКПП, передний привод; 0-60 за 6.4s, 1/4 мили 15.0s/97mph. Преемник Neon SRT-4 в компактном performance-сегменте Dodge; выпускался только 2008-2009 МГ. Источники: Stellantis Media press kit, MotorWeek road test, auto123.com technical specs (доступ 2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:02:53.373Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Dodge_Caliber_--_09-07-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Dodge_Caliber_--_09-07-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:02:53.373Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-g37",
+  "slug": "infiniti-g37",
+  "name": "Infiniti G37 Coupe",
+  "fullName": "Infiniti G37 Coupe",
+  "brandId": "infiniti",
+  "bodyType": "coupe",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:41:36.178Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:41:36.178Z"
+}

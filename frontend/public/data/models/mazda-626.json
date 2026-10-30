@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-626",
+  "slug": "mazda-626",
+  "name": "Mazda 626 GF",
+  "fullName": "Mazda 626 GF",
+  "brandId": "mazda",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1979,
+  "isActive": true,
+  "description": "Mazda 626 (GF), 5-е и финальное поколение, 1997-2002. Моторы 1.8-2.0L, 89-134 л.с. В 2002г. нейминг 626 заменён на Mazda6 (GG) по всему модельному ряду. Источник: Wikipedia (Mazda 626), automobile-catalog.com.",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:12:10.833Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:12:10.833Z"
+}

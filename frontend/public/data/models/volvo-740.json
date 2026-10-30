@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-740",
+  "slug": "volvo-740",
+  "name": "Volvo 740",
+  "fullName": "Volvo 740 (1984)",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "ИСПРАВЛЕНО: engineType был 'i4t' (турбо) при hp=115 — это мощность атмосферного 2.3 B230F (114 л.с.), реального мотора базовой 740 GLE старта продаж (1984г.); версии Turbo (B230FT) продавались отдельно и давали от 156 до 200 л.с. engineType исправлен на 'i4'. Источники: enginecode.uk, carsart.net.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:07:12.809Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Volvo-Iron-Mark-Black.svg/960px-Volvo-Iron-Mark-Black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Volvo-Iron-Mark-Black.svg/960px-Volvo-Iron-Mark-Black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:07:12.809Z"
+}

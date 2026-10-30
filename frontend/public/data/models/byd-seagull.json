@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-seagull",
+  "slug": "byd-seagull",
+  "name": "BYD Seagull",
+  "fullName": "BYD Seagull",
+  "brandId": "byd",
+  "bodyType": "hatchback",
+  "segment": "mini",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Самый доступный EV BYD; от $10k; хит продаж",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:27:01.850Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2023_%D0%92YD_Seagull_%28front%29.jpg/3840px-2023_%D0%92YD_Seagull_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2023_%D0%92YD_Seagull_%28front%29.jpg/3840px-2023_%D0%92YD_Seagull_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:27:01.850Z"
+}

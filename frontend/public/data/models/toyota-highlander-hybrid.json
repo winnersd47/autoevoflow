@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-highlander-hybrid",
+  "slug": "toyota-highlander-hybrid",
+  "name": "Toyota Highlander Hybrid (XU20)",
+  "fullName": "Toyota Highlander Hybrid (XU20)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Дебютировал в 2005 (MY2006) — первый в мире серийный гибридный внедорожник с 3 рядами сидений. Система THS-II: 3.3L V6 (3MZ-FE) + два электромотора, суммарно 268 л.с., полный привод e-Four без механической связи с задней осью. Значимая историческая веха линейки, поэтому выделена отдельным узлом согласно правилу «один явный пробел на линейку».",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:45:20.360Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:45:20.360Z"
+}

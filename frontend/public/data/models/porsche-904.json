@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-904",
+  "slug": "porsche-904",
+  "name": "Porsche 904 GTS",
+  "fullName": "Porsche 904 GTS (1963)",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1963,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:22:40.553Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:22:40.553Z"
+}

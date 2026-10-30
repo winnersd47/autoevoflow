@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-126",
+  "slug": "fiat-126",
+  "name": "Fiat 126",
+  "fullName": "Fiat 126",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "microcar",
+  "primaryMarket": "global",
+  "startYear": 1972,
+  "isActive": true,
+  "description": "Прямой преемник 500 Nuova в роли самого доступного авто Fiat. 594cc I2 (воздушное охлаждение), 23hp. Выпускался до 2000г. (Польша).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:51:28.184Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/FiatMirafiori6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/FiatMirafiori6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:51:28.184Z"
+}

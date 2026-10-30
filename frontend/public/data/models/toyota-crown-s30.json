@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-crown-s30",
+  "slug": "toyota-crown-s30",
+  "name": "Toyota Crown S30",
+  "fullName": "Toyota Crown S30 (1955)",
+  "brandId": "toyota",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1955,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:08:26.835Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_Crown_Sedan_FCEV.jpg/3840px-Toyota_Crown_Sedan_FCEV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_Crown_Sedan_FCEV.jpg/3840px-Toyota_Crown_Sedan_FCEV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:08:26.835Z"
+}

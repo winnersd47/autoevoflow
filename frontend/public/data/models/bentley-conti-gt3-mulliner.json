@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-conti-gt3-mulliner",
+  "slug": "bentley-conti-gt3-mulliner",
+  "name": "Bentley Continental GT Mulliner",
+  "fullName": "Bentley Continental GT Mulliner",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Именная топовая спецификация Mulliner для 3-го поколения ('новая вершина роскоши'), впервые показана 17-22 сентября 2020 на Salon Privé (модельный год 2021). Доступна как с W12 (626 л.с.), так и с V8 (542 л.с.) — это не отдельный мотор, а комплектация: решётка 'Double Diamond', стёганая кожа 'diamond-in-diamond'. Источники: carscoops.com, bentleymedia.com, carbuzz.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:34:23.716Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:34:23.716Z"
+}

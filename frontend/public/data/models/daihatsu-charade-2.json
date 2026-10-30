@@ -1,0 +1,20 @@
+{
+  "id": "sync-daihatsu-charade-2",
+  "slug": "daihatsu-charade-2",
+  "name": "Daihatsu Charade Gen.2",
+  "fullName": "Daihatsu Charade Gen.2 (1983)",
+  "brandId": "daihatsu",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1983,
+  "isActive": true,
+  "description": "1.0L атмо I3, 52hp. 3- и 5-дверный хэтчбек, была и дизельная версия (37hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:58:44.657Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/7th_generation_Daihatsu_Mira_01.jpg/3840px-7th_generation_Daihatsu_Mira_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/7th_generation_Daihatsu_Mira_01.jpg/3840px-7th_generation_Daihatsu_Mira_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:58:44.657Z"
+}

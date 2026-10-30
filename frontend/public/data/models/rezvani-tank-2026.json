@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-tank-2026",
+  "slug": "rezvani-tank-2026",
+  "name": "Rezvani Tank 2026",
+  "fullName": "Rezvani Tank 2026",
+  "brandId": "rezvani",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Refreshed Tank. Up to 1000 HP. Jeep Wrangler current gen. Starts at $185K.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:01:10.876Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:01:10.876Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-sea-hawk",
+  "slug": "byd-sea-hawk",
+  "name": "BYD Sea Hawk",
+  "fullName": "BYD Sea Hawk",
+  "brandId": "byd",
+  "bodyType": "suv",
+  "segment": "fullsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:53:58.726Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2023_%D0%92YD_Seagull_%28front%29.jpg/3840px-2023_%D0%92YD_Seagull_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2023_%D0%92YD_Seagull_%28front%29.jpg/3840px-2023_%D0%92YD_Seagull_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:53:58.726Z"
+}

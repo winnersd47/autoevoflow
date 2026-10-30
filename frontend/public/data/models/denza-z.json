@@ -1,0 +1,20 @@
+{
+  "id": "sync-denza-z",
+  "slug": "denza-z",
+  "name": "Denza Z",
+  "fullName": "Denza Z",
+  "brandId": "denza",
+  "bodyType": "coupe",
+  "segment": "sports_gt",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "2-местный гиперкар-халo, показан на Goodwood FoS 2026 — ДРУГАЯ машина, чем 4-местный Z9 GT (не производная). Трёхмоторный, 1604 л.с. combined, батарея 76 кВтч, 409км WLTP, 0-62 за 2.25с, от £142,900.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:35:52.769Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Denza_Z_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Denza_Z_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:35:52.769Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-isuzu-trooper",
+  "slug": "isuzu-trooper",
+  "name": "Isuzu Trooper Gen.1",
+  "fullName": "Isuzu Trooper Gen.1 (1981)",
+  "brandId": "isuzu",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1981,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:38:17.113Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Isuzu_Trooper_--_03-16-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Isuzu_Trooper_--_03-16-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:38:17.113Z"
+}

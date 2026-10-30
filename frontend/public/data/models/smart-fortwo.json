@@ -1,0 +1,20 @@
+{
+  "id": "sync-smart-fortwo",
+  "slug": "smart-fortwo",
+  "name": "Smart Fortwo Gen.1",
+  "fullName": "Smart Fortwo Gen.1 (1998)",
+  "brandId": "smart",
+  "bodyType": "microcar",
+  "segment": "micro",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:37:06.919Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Smart_Fortwo_EQ_Car2goStuttgart_IMG_0750.jpg/3840px-Smart_Fortwo_EQ_Car2goStuttgart_IMG_0750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Smart_Fortwo_EQ_Car2goStuttgart_IMG_0750.jpg/3840px-Smart_Fortwo_EQ_Car2goStuttgart_IMG_0750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:37:06.919Z"
+}

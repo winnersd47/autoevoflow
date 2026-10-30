@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-veloster-n",
+  "slug": "hyundai-veloster-n",
+  "name": "Veloster N",
+  "fullName": "Veloster N (2019)",
+  "brandId": "hyundai",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:37:35.103Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2019_Hyundai_Veloster_Turbo_in_Ignite_Flame%2C_Front_Left%2C_06-26-2022.jpg/3840px-2019_Hyundai_Veloster_Turbo_in_Ignite_Flame%2C_Front_Left%2C_06-26-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2019_Hyundai_Veloster_Turbo_in_Ignite_Flame%2C_Front_Left%2C_06-26-2022.jpg/3840px-2019_Hyundai_Veloster_Turbo_in_Ignite_Flame%2C_Front_Left%2C_06-26-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:37:35.103Z"
+}

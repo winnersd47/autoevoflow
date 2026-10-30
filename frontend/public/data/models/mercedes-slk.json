@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "The Mercedes-Benz SLK (1996-2022, renamed SLC in 2016) was a compact roadster with a folding metal hardtop — a technical novelty at launch that became the template for the segment.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2015_Mercedes-Benz_SLK250_AMG_Sport_CDi_BlueTec_2.1_Front.jpg/3840px-2015_Mercedes-Benz_SLK250_AMG_Sport_CDi_BlueTec_2.1_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2015_Mercedes-Benz_SLK250_AMG_Sport_CDi_BlueTec_2.1_Front.jpg/3840px-2015_Mercedes-Benz_SLK250_AMG_Sport_CDi_BlueTec_2.1_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "convertible",
     "mercedes"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:29:36.705Z",
   "generations": [
     {
       "id": "gen-mercedes-slk-1",

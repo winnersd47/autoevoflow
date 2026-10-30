@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-bronco-4",
+  "slug": "ford-bronco-4",
+  "name": "Ford Bronco Gen.4",
+  "fullName": "Ford Bronco Gen.4",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Четвёртое поколение (1987-91) — аэродинамический рестайл кузова вслед за F-150. Впервые электронный впрыск (EFI): V8 302 Windsor — 185hp (138kW/270Нм), топовый V8 351 Windsor EFI — 210hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:53:57.467Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ford_Bronco_New_Energy_005.jpg/3840px-Ford_Bronco_New_Energy_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ford_Bronco_New_Energy_005.jpg/3840px-Ford_Bronco_New_Energy_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:53:57.467Z"
+}

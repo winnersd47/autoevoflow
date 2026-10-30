@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-murcielago-roadster",
+  "slug": "lamborghini-murcielago-roadster",
+  "name": "Lamborghini Murciélago Roadster",
+  "fullName": "Lamborghini Murciélago Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Женева, март 2004 — открытая версия базового Murciélago, съёмные мягкие панели крыши, тот же 6.2Л V12 580hp. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:24:37.508Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lamborghini_Murci%C3%A9lago_LP-640_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lamborghini_Murci%C3%A9lago_LP-640_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:24:37.508Z"
+}

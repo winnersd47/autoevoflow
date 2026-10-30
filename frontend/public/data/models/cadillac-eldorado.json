@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-eldorado",
+  "slug": "cadillac-eldorado",
+  "name": "Cadillac Eldorado",
+  "fullName": "Cadillac Eldorado",
+  "brandId": "cadillac",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1953,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:17:49.950Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg/3840px-67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg/3840px-67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:17:49.950Z"
+}

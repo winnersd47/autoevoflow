@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-dedra",
+  "slug": "lancia-dedra",
+  "name": "Lancia Dedra",
+  "fullName": "Lancia Dedra (1989)",
+  "brandId": "lancia",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:41:51.647Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lancia_Dedra_Sedan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lancia_Dedra_Sedan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:41:51.647Z"
+}

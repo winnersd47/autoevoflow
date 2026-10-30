@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-g80-v8",
+  "slug": "genesis-g80-v8",
+  "name": "Genesis G80 5.0 Ultimate",
+  "fullName": "Genesis G80 5.0 Ultimate",
+  "brandId": "genesis",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Флагманский мотор 1-го поколения G80 (DH, бывший Hyundai Genesis DH) — трим '5.0 Ultimate', атмосферный 5.0L Tau V8, 420hp/383 lb-ft, 8-ст. АКПП. В линейке с MY2018 наряду с основным 3.3T V6 365hp (узел gen-g80-1). Добавлен по правилу 'топ-модификация, не вся трим-лестница' — ранее отсутствовал, хотя аналогичный V8-вариант у G90 (gen-g90-1-v8) уже был учтён; без этого узла граф не отражал реальный потолок мощности 1-го поколения G80. Источники: carbuzz.com 'The Most Powerful Genesis Sedan Ever Made', jalopnik.com '2017 Genesis G80 RWD V8 Review', cars.usnews.com 2018 G80 5.0L Ultimate AWD specs, guideautoweb.com G80 2017 5.0 Ultimate.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:15:11.053Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Genesis_G80_IAA_2021_1X7A0229.jpg/3840px-Genesis_G80_IAA_2021_1X7A0229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Genesis_G80_IAA_2021_1X7A0229.jpg/3840px-Genesis_G80_IAA_2021_1X7A0229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:15:11.053Z"
+}

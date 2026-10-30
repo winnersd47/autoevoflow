@@ -1,0 +1,20 @@
+{
+  "id": "sync-gac-gs8",
+  "slug": "gac-gs8",
+  "name": "GAC Trumpchi GS8",
+  "fullName": "GAC Trumpchi GS8",
+  "brandId": "gac",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Флагманский SUV Trumpchi — дебют на Пекинском автосалоне 2016; 2-е поколение (2021) длиннее и шире.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:39:28.832Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D7%9C%D7%95%D7%92%D7%95_%D7%A9%D7%9C_%D7%A7%D7%91%D7%95%D7%A6%D7%AA_GAC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D7%9C%D7%95%D7%92%D7%95_%D7%A9%D7%9C_%D7%A7%D7%91%D7%95%D7%A6%D7%AA_GAC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:39:28.832Z"
+}

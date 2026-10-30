@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-m8",
+  "slug": "bmw-m8",
+  "name": "BMW M8 (G15 base)",
+  "fullName": "BMW M8 (G15 base)",
+  "brandId": "bmw",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "600 л.с. — версия без пакета Competition (нода-якорь уже представляет Competition, 625 л.с.), 2019г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:21.748Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/BMW_M8_GTE_Felix_da_Costa_Silverstone_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/BMW_M8_GTE_Felix_da_Costa_Silverstone_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:12:21.748Z"
+}

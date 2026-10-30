@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-33-stradale-1967",
+  "slug": "alfa-33-stradale-1967",
+  "name": "Alfa Romeo 33 Stradale",
+  "fullName": "Alfa Romeo 33 Stradale (1967)",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:07:03.298Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg/3840px-1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg/3840px-1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:07:03.298Z"
+}

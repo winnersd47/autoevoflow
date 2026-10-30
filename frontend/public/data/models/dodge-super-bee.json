@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-super-bee",
+  "slug": "dodge-super-bee",
+  "name": "Dodge Charger Super Bee",
+  "fullName": "Dodge Charger Super Bee",
+  "brandId": "dodge",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "Launch Edition 2027г. — изначально заявлялся как ограниченный первый релиз; с 08.2026 подтверждено расширение выпуска Super Bee на MY2028 для широкой аудитории (TFLcar, CarPro, PRNewswire). isLimited=true верно описывает именно Launch Edition, не модель в целом.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:24:57.935Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg/3840px-1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg/3840px-1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:24:57.935Z"
+}

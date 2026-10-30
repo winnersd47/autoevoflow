@@ -1,0 +1,20 @@
+{
+  "id": "sync-haval-h6",
+  "slug": "haval-h6",
+  "name": "Haval H6 Gen.3",
+  "fullName": "Haval H6 Gen.3",
+  "brandId": "haval",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Lemon DHT-PHEV платформа Great Wall; топ-продажи 9 лет подряд",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:31:01.546Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Haval_H6_III_IMG001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Haval_H6_III_IMG001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:31:01.546Z"
+}

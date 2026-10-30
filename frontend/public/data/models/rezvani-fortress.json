@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-fortress",
+  "slug": "rezvani-fortress",
+  "name": "Rezvani Fortress",
+  "fullName": "Rezvani Fortress",
+  "brandId": "rezvani",
+  "bodyType": "pickup",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Tactical pickup on Ford F-150 Raptor R. 850 HP supercharged 5.2L V8. 40-inch tires, 15\" clearance. 100 units. $285K+.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:03:23.882Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:03:23.882Z"
+}

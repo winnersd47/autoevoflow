@@ -1,0 +1,20 @@
+{
+  "id": "sync-polestar-4",
+  "slug": "polestar-4",
+  "name": "Polestar 4",
+  "fullName": "Polestar 4 (2023)",
+  "brandId": "polestar",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:56:13.499Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:56:13.499Z"
+}

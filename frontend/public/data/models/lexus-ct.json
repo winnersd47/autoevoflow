@@ -1,0 +1,20 @@
+{
+  "id": "sync-lexus-ct",
+  "slug": "lexus-ct",
+  "name": "Lexus CT200h Phase II",
+  "fullName": "Lexus CT200h Phase II",
+  "brandId": "lexus",
+  "bodyType": "hatchback",
+  "segment": "hybrid",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:46:06.260Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg/3840px-2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg/3840px-2021_Lexus_IS300_F-Sport%2C_Front_Left%2C_10-10-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:46:06.260Z"
+}

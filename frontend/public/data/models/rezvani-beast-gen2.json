@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-beast-gen2",
+  "slug": "rezvani-beast-gen2",
+  "name": "Rezvani Beast 2024",
+  "fullName": "Rezvani Beast 2024",
+  "brandId": "rezvani",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "1000 HP twin-turbo 6.2L V8 on Chevrolet Corvette C8 platform. Dragon Wings doors. 20 units worldwide. $485K.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:01:01.838Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:01:01.838Z"
+}

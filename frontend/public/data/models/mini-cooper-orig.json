@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-cooper-orig",
+  "slug": "mini-cooper-orig",
+  "name": "Mini Cooper",
+  "fullName": "Mini Cooper (1961)",
+  "brandId": "mini",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "John Cooper's performance Mini. 997cc → 1071cc. Won Monte Carlo Rally 1964, 1965, 1967.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:56.922Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:10:56.922Z"
+}

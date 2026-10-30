@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-hummer-ev",
+  "slug": "gmc-hummer-ev",
+  "name": "GMC Hummer EV",
+  "fullName": "GMC Hummer EV",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Возрождение имени Hummer под брендом GMC как электро-суббренд. Запуск трима 3X (конец 2021г., модель 2022г.): 3 мотора Ultium, до 1000hp/11500 lb-ft (с учётом передаточного числа редуктора), платформа GM BT1. По состоянию на MY2025 максимум для 3X остаётся 1000hp (сторонние заявления про рост до 1200hp не подтверждены GM). Источники: en.wikipedia.org/wiki/GMC_Hummer_EV, gmauthority.com/blog/gm/gmc/gmc-hummer-ev, cleanfleetreport.com/road-test-2025-gmc-hummer-3x-ev-pickup.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:49:55.171Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/3840px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/3840px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:49:55.171Z"
+}

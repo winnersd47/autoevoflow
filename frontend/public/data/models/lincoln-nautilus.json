@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-nautilus",
+  "slug": "lincoln-nautilus",
+  "name": "Lincoln Nautilus",
+  "fullName": "Lincoln Nautilus",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "crossover",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Полный редизайн (не фейслифт) — новая платформа, производство перенесено в Китай (СП Changan-Ford). Панорамный дисплей 48\" на две панели. Базовый 2.0Т I4 250 л.с./275 lb-ft; гибрид (турбо-4 + мотор 100кВт) — 310 л.с. combined.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:43:00.731Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2019_Lincoln_Nautilus_Reserve_AWD_in_Ingot_Silver_Metallic%2C_front_right.jpg/3840px-2019_Lincoln_Nautilus_Reserve_AWD_in_Ingot_Silver_Metallic%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2019_Lincoln_Nautilus_Reserve_AWD_in_Ingot_Silver_Metallic%2C_front_right.jpg/3840px-2019_Lincoln_Nautilus_Reserve_AWD_in_Ingot_Silver_Metallic%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:43:00.731Z"
+}

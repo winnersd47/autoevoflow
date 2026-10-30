@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon",
+  "slug": "gmc-yukon",
+  "name": "GMC Yukon Denali",
+  "fullName": "GMC Yukon Denali",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "6.2L V8 EcoTec3 (L87), 420hp — эксклюзивный мотор Denali/AT4 на платформе T1XX. Обычная Yukon Gen.5 (SLE/SLT, 5.3L/355hp) вынесена в новый узел gmc-yukon-5-base. Источники: carsforsale.com (GMC Yukon Through the Years), gmauthority.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:49:57.251Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:49:57.251Z"
+}

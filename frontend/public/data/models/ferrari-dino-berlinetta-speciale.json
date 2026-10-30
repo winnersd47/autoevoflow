@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-dino-berlinetta-speciale",
+  "slug": "ferrari-dino-berlinetta-speciale",
+  "name": "Ferrari Dino Berlinetta Speciale",
+  "fullName": "Ferrari Dino Berlinetta Speciale",
+  "brandId": "ferrari",
+  "bodyType": "concept",
+  "segment": "concept",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "Концепт Pininfarina (Альдо Брованелли) — Парижский салон 1965, на гоночном шасси Dino №0840, БЕЗ двигателя/трансмиссии (чистый дизайн-макет). Именно этот концепт убедил Энцо Феррари запустить в серию среднемоторный Dino 206/246 GT — прямой концептуальный предок производственной линейки.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:49:05.297Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/1957-04-28_GP_Napoli_Dino_156_F2_011_Musso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/1957-04-28_GP_Napoli_Dino_156_F2_011_Musso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:49:05.297Z"
+}

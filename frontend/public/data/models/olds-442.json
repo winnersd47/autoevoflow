@@ -1,0 +1,20 @@
+{
+  "id": "sync-olds-442",
+  "slug": "olds-442",
+  "name": "Oldsmobile 442 Cutlass Supreme",
+  "fullName": "Oldsmobile 442 Cutlass Supreme",
+  "brandId": "oldsmobile",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1964,
+  "isActive": true,
+  "description": "'Последний настоящий' 442 по мнению энтузиастов — финальное заднеприводное G-body поколение перед эпилогом на переднеприводной N-body Cutlass Calais (1990-91, гораздо мягче). High-Output 307 V8: 180 л.с./245 фунто-футов в 1985г., 170 л.с./250 фунто-футов в 1986-87гг (ревизия ГБЦ). Источник: oldcarmemories.com (1985-1987 Oldsmobile 442 - the Last Great Oldsmobile).",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:17:54.566Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1971_Cutlass_Supreme_convertible.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1971_Cutlass_Supreme_convertible.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:17:54.566Z"
+}

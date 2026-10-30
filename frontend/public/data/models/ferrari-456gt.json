@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-456gt",
+  "slug": "ferrari-456gt",
+  "name": "Ferrari 456 GT",
+  "fullName": "Ferrari 456 GT (1992)",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:22:48.691Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrari_GTC4Lusso_IMG_4353.jpg/3840px-Ferrari_GTC4Lusso_IMG_4353.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrari_GTC4Lusso_IMG_4353.jpg/3840px-Ferrari_GTC4Lusso_IMG_4353.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:22:48.691Z"
+}

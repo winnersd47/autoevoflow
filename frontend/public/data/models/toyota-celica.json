@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-celica",
+  "slug": "toyota-celica",
+  "name": "Celica ZZT231",
+  "fullName": "Celica ZZT231",
+  "brandId": "toyota",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:20:16.817Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/CelicaST185GT4APuenteHills.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/CelicaST185GT4APuenteHills.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:20:16.817Z"
+}

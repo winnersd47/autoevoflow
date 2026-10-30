@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-odyssey-3",
+  "slug": "honda-odyssey-3",
+  "name": "Honda Odyssey (RL3)",
+  "fullName": "Honda Odyssey (RL3)",
+  "brandId": "honda",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Третье поколение на удлинённой платформе с независимой задней подвеской и опциональной системой VCM (отключение цилиндров). V6 3.5L J35A6, 255 л.с./331Нм на дебюте; с 2006 мощность переоценена по новой методике SAE до 244 л.с. без реальных изменений в моторе. Впервые предложено складывающееся в пол 'magic seat' третье сиденье.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:50:00.948Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toranomon_Alcea_Tower_26Dec2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toranomon_Alcea_Tower_26Dec2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:50:00.948Z"
+}

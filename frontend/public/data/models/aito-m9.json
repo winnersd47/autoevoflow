@@ -12,12 +12,19 @@
   "isActive": true,
   "description": "Aito M9 — флагманский PHEV/BEV SUV совместного бренда Huawei × Seres. HUAWEI ADS 3.0, AR-HUD, Harmony Cockpit 4.0, 526 л.с. Лидер продаж среди внедорожников 500 000+ ¥ в Китае.",
   "generationCount": 1,
-  "thumbnailUrl": null,
-  "heroImageUrl": null,
-  "tags": ["suv", "phev", "bev", "huawei", "aito", "china"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/AITO_M9_II_005.jpg/3840px-AITO_M9_II_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/AITO_M9_II_005.jpg/3840px-AITO_M9_II_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "suv",
+    "phev",
+    "bev",
+    "huawei",
+    "aito",
+    "china"
+  ],
   "aiAnalysisAvailable": true,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T17:50:21.652Z",
   "analysis": {
     "id": "analysis-aito-m9-001",
     "entityType": "model",
@@ -67,7 +74,7 @@
         "id": "ins-06",
         "category": "Influence",
         "text": "После M9 Toyota анонсировала партнёрство с Huawei для интеграции ADS в bZ серию, а Volkswagen Group — тендер на «умный» кокпит нового поколения с участием нескольких китайских поставщиков ПО.",
-        "confidence": 0.80,
+        "confidence": 0.8,
         "importance": "medium"
       }
     ],
@@ -76,7 +83,10 @@
     "processingTimeMs": 4050,
     "createdAt": "2026-07-18T12:00:00Z",
     "isCached": true,
-    "metadata": { "modelVersion": "yandexgpt-pro", "language": "ru" }
+    "metadata": {
+      "modelVersion": "yandexgpt-pro",
+      "language": "ru"
+    }
   },
   "generations": [
     {
@@ -90,9 +100,16 @@
       "endYear": null,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["suv"],
-      "engineTypes": ["PHEV", "BEV"],
-      "markets": ["china"],
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "PHEV",
+        "BEV"
+      ],
+      "markets": [
+        "china"
+      ],
       "description": "Aito M9 — 6-местный полноразмерный SUV. PHEV: 1.5T + 2 EM, 526 л.с., 165 км ел. BEV: 800В, 666 км CLTC. Huawei ADS 3.0, AR-HUD.",
       "thumbnailUrl": null,
       "heroImageUrl": null,
@@ -106,7 +123,14 @@
         "driveType": "AWD",
         "transmission": "automatic"
       },
-      "tags": ["suv", "phev", "bev", "2024", "flagship", "huawei"],
+      "tags": [
+        "suv",
+        "phev",
+        "bev",
+        "2024",
+        "flagship",
+        "huawei"
+      ],
       "aiAnalysisAvailable": false,
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"

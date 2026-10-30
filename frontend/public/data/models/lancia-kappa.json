@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-kappa",
+  "slug": "lancia-kappa",
+  "name": "Lancia Kappa",
+  "fullName": "Lancia Kappa (1994)",
+  "brandId": "lancia",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:41:53.481Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Lancia_Kappa_coloured_front_20110306.jpg/3840px-Lancia_Kappa_coloured_front_20110306.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Lancia_Kappa_coloured_front_20110306.jpg/3840px-Lancia_Kappa_coloured_front_20110306.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:41:53.481Z"
+}

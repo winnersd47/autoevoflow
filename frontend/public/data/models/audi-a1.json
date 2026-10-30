@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi A1 (2010–present), built on the Volkswagen PQ25/MQB-A0 platform, brought premium quality to the supermini segment. Its two generations (8X and GB) feature quattro AWD options and S1/RS-performance variants.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg/3840px-2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg/3840px-2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "hatchback",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:29:39.470Z",
   "generations": [
     {
       "id": "gen-audi-a1-1",

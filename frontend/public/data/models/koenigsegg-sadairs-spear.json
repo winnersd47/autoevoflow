@@ -1,0 +1,20 @@
+{
+  "id": "sync-koenigsegg-sadairs-spear",
+  "slug": "koenigsegg-sadairs-spear",
+  "name": "Koenigsegg Sadairs Spear",
+  "fullName": "Koenigsegg Sadairs Spear",
+  "brandId": "koenigsegg",
+  "bodyType": "roadster",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "2025 Koenigsegg Sadairs Spear (#256) Koenigsegg Sadairs Spear — воплощение инженерного совершенства и дань семейным традициям, представляющий собой новый этап в эволюции производительности бренда. Это",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:29:44.095Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agera_RST_Koenigsegg.jpg/3840px-Agera_RST_Koenigsegg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agera_RST_Koenigsegg.jpg/3840px-Agera_RST_Koenigsegg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:29:44.095Z"
+}

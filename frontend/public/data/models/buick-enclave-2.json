@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-enclave-2",
+  "slug": "buick-enclave-2",
+  "name": "Buick Enclave Gen.2",
+  "fullName": "Buick Enclave Gen.2",
+  "brandId": "buick",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Новая платформа GM C1XX \"Chi\" (общая с GMC Acadia/Cadillac XT5). Топ-трим Avenir — первый в истории Buick люксовый суб-бренд (аналог GMC Denali), представлен для 2018 м.г. Мотор — 3.6L V6 (LGX), 310hp/266 фунт-фут, 9-ст. автомат. Источник: motorweek.org (2018 Buick Enclave Avenir), gminsidenews.com, wikipedia (Buick Avenir).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:23.500Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg/3840px-2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg/3840px-2022_Buick_Enclave_%27Essense%27_%28facelift%29%2C_front_6.1.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:23.500Z"
+}

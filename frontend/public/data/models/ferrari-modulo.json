@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-modulo",
+  "slug": "ferrari-modulo",
+  "name": "Ferrari Modulo",
+  "fullName": "Ferrari Modulo",
+  "brandId": "ferrari",
+  "bodyType": "concept",
+  "segment": "concept",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Концепт Pininfarina (Паоло Мартин) — Женева, март 1970. На шасси гоночного прототипа 512 S (не в графе — Group 5 прототип, никогда не был дорожной моделью), 5.0Л V12, 550hp. 44 года статичный шоу-кар без ходовой части — куплен коллекционером Джеймсом Гликенхаусом в 2014-м, восстановлен до ходового состояния, впервые проехал в июне 2018-го.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:49:02.311Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ferrari_Modulo_front-right_Museo_Ferrari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ferrari_Modulo_front-right_Museo_Ferrari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:49:02.311Z"
+}

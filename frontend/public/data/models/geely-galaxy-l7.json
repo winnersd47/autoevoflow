@@ -1,0 +1,20 @@
+{
+  "id": "sync-geely-galaxy-l7",
+  "slug": "geely-galaxy-l7",
+  "name": "Geely Galaxy L7",
+  "fullName": "Geely Galaxy L7",
+  "brandId": "geely",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Новый суббренд Galaxy (электрифицированные); PHEV SUV, 1100km запас хода",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:28:10.957Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Geely_Galaxy_L7_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Geely_Galaxy_L7_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:28:10.957Z"
+}

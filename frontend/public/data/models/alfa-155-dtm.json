@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-155-dtm",
+  "slug": "alfa-155-dtm",
+  "name": "Alfa Romeo 155 V6 TI (DTM)",
+  "fullName": "Alfa Romeo 155 V6 TI (DTM)",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Разгромная доминация в DTM 1993г. — 2.5L V6 60°, 426PS/11500об/мин, полный привод (лазейку в регламенте закрыли уже со следующего сезона). Никола Ларини — чемпион (10 побед из 20 гонок), напарник Алессандро Наннини добавил ещё 2 — команда Alfa Corse выиграла 12 из 20 гонок сезона (60%), плюс кубок производителей. Alfa Romeo — единственный не-немецкий производитель, когда-либо бравший титул DTM. Всего 38 побед в DTM за карьеру модели.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:36.529Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1973_Alfa_Romeo_Tipo_33_TT_12_Goodwood%2C_2009_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1973_Alfa_Romeo_Tipo_33_TT_12_Goodwood%2C_2009_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:07:36.529Z"
+}

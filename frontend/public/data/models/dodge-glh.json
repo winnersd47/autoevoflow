@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-glh",
+  "slug": "dodge-glh",
+  "name": "Dodge GLH",
+  "fullName": "Dodge GLH",
+  "brandId": "dodge",
+  "bodyType": "hatchback",
+  "segment": "hot_hatch",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "\"Goes Like Hell\" возвращается как отдельная серийная модель — преемник Hornet (продажи которого прекращены после MY2025). Объявлено на Investor Day Stellantis (2026), подтверждено на записи Тимом Кунисисом (глава North American Brands/CEO Ram): \"next-generation of Hornet, but the way we should have done it the first time\". До 324 л.с., цель цены — ниже $39k. Платформа и точный двигатель Stellantis пока не детализированы официально (только заявленная мощность). Тип кузова описывается источниками то как \"performance crossover\", то как \"muscle hatch\" — форма ещё не показана. Источники: Stellantis Investor Day 2026, MoparInsiders, Gear Patrol, The Autopian.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:53:52.700Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dodge_Charger_SE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dodge_Charger_SE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:53:52.700Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-v12-zagato",
+  "slug": "astonmartin-v12-zagato",
+  "name": "Aston Martin V12 Zagato",
+  "fullName": "Aston Martin V12 Zagato",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "На базе V12-версии платформы Vantage (2005+) — bonded aluminium шасси + 6.0Л V12, 510hp, на ~100кг легче стандартного V12 Vantage (алюминий+карбон кузов ручной сборки). Самый быстрый и мощный Zagato-Aston на момент выхода.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:47:46.190Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Red_Aston_Martin_V12_Zagato_fr_IAA_2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Red_Aston_Martin_V12_Zagato_fr_IAA_2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:47:46.190Z"
+}

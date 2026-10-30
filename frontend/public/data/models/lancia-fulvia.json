@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-fulvia",
+  "slug": "lancia-fulvia",
+  "name": "Lancia Fulvia",
+  "fullName": "Lancia Fulvia (1963)",
+  "brandId": "lancia",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1963,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:00:55.539Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lancia_Motor_Club_AGM_2011_DSC_4294_-_Flickr_-_tonylanciabeta_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lancia_Motor_Club_AGM_2011_DSC_4294_-_Flickr_-_tonylanciabeta_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:00:55.539Z"
+}

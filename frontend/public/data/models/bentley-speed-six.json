@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-speed-six",
+  "slug": "bentley-speed-six",
+  "name": "Speed Six",
+  "fullName": "Speed Six",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 1928,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:45:37.718Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sir_Michael_Kadoorie%27s_1930_Bentley_Speed_Six_Mulliner_Drop_Head_Coupe1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sir_Michael_Kadoorie%27s_1930_Bentley_Speed_Six_Mulliner_Drop_Head_Coupe1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:45:37.718Z"
+}

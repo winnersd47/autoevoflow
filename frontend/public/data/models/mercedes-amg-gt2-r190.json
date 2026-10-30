@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-amg-gt2-r190",
+  "slug": "mercedes-amg-gt2-r190",
+  "name": "Brabus Rocket 900",
+  "fullName": "Brabus Rocket 900",
+  "brandId": "mercedes",
+  "bodyType": "sedan",
+  "segment": "flagship",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:20:28.865Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg/1280px-Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg/1280px-Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:20:28.865Z"
+}

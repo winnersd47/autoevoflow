@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-gallardo-superleggera",
+  "slug": "lamborghini-gallardo-superleggera",
+  "name": "Lamborghini Gallardo Superleggera",
+  "fullName": "Lamborghini Gallardo Superleggera",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Женева, март 2007 — облегчённая версия (-100кг, карбон в панелях/интерьере), 530hp. Продержалась в линейке около года до прихода LP560-4. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:22:20.788Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:22:20.788Z"
+}

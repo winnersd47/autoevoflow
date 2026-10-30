@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-odyssey-2",
+  "slug": "honda-odyssey-2",
+  "name": "Honda Odyssey (RL1)",
+  "fullName": "Honda Odyssey (RL1)",
+  "brandId": "honda",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "Полностью новое, значительно увеличенное поколение для рынка США — сменило компактный минивэн RA (1994) на платформу размером с Accord. V6 3.5L J35A, 210 л.с./326Нм (с 2002 — 240 л.с. после модернизации двигателя). Именно эта версия закрепила за Odyssey репутацию эталона минивэна в США, обойдя Dodge Caravan и Toyota Sienna по качеству сборки.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:49:58.706Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toranomon_Alcea_Tower_26Dec2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toranomon_Alcea_Tower_26Dec2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:49:58.706Z"
+}

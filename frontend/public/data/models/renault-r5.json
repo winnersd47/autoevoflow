@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-r5",
+  "slug": "renault-r5",
+  "name": "Renault 5 E-Tech Electric",
+  "fullName": "Renault 5 E-Tech Electric",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1972,
+  "isActive": true,
+  "description": "Ретро-дизайн отсылает к круглым фарам оригинала 1972-го, а не к Supercinq; European Car of the Year 2025.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:34:42.913Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Renault_5_E-Tech_Electric_DSC_7279.jpg/3840px-Renault_5_E-Tech_Electric_DSC_7279.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Renault_5_E-Tech_Electric_DSC_7279.jpg/3840px-Renault_5_E-Tech_Electric_DSC_7279.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:34:42.913Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-sonata",
+  "slug": "hyundai-sonata",
+  "name": "Sonata DN8",
+  "fullName": "Sonata DN8 (2020)",
+  "brandId": "hyundai",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "",
+  "generationCount": 8,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:08:37.151Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:08:37.151Z"
+}

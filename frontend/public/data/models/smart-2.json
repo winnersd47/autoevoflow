@@ -1,0 +1,20 @@
+{
+  "id": "sync-smart-2",
+  "slug": "smart-2",
+  "name": "Smart #2",
+  "fullName": "Smart #2",
+  "brandId": "smart",
+  "bodyType": "microcar",
+  "segment": "micro",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Возвращение двухместного сити-кара Smart — духовный наследник Fortwo (производство W453 завершено в 2024). Премьера — Парижский автосалон, 12 октября 2026; продажи в Европе — 1-е полугодие 2027. Дизайн Mercedes, новая платформа Electric Compact Architecture (ECA) СП Mercedes/Geely, сборка в Китае. Задний мотор 80 л.с./130 Нм, LFP 35.8 кВтч, WLTP до 290 км, длина 2746 мм, масса 1140 кг, цена от ~20 000 евро. Источник: motor1.com, carscoops.com, autoevolution.com (2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:26:33.871Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg/3840px-2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg/3840px-2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:26:33.871Z"
+}

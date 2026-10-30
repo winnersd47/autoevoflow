@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-qx50-j55",
+  "slug": "infiniti-qx50-j55",
+  "name": "Infiniti QX55 (J55)",
+  "fullName": "Infiniti QX55 (J55)",
+  "brandId": "infiniti",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Купе-кроссовер на базе 2-го поколения QX50 (J55), представлен для 2022 МГ. Та же колёсная база (110.2 дюйма), тот же мотор VC-Turbo 2.0L (268 л.с./280 фунт-фут) и вариатор — отличие только в покатой крыше/силуэте и исключительно полном приводе на всех комплектациях. Структурно аналогично паре BMW X3→X4 (кросс-купе на платформе базового кроссовера того же поколения). Источник: tflcar.com, tractionlife.com, infinitiusa.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:17:07.477Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg/3840px-2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg/3840px-2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:17:07.477Z"
+}

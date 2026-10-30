@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-bronco-3",
+  "slug": "ford-bronco-3",
+  "name": "Ford Bronco Gen.3",
+  "fullName": "Ford Bronco Gen.3",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "Третье поколение (1980-86, тот же кузов \"Bullnose\", что и у F-Series 7-го поколения) — похудел и стал экономичнее после нефтяного кризиса. Рядная 6-ка 300ci — 115hp база; V8 302ci — 135hp; топовый V8 351 Windsor — 150hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:53:56.001Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ford_Bronco_New_Energy_005.jpg/3840px-Ford_Bronco_New_Energy_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ford_Bronco_New_Energy_005.jpg/3840px-Ford_Bronco_New_Energy_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:53:56.001Z"
+}

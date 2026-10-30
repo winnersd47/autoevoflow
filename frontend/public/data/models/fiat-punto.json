@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-punto",
+  "slug": "fiat-punto",
+  "name": "Fiat Punto Evo",
+  "fullName": "Fiat Punto Evo",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "supermini",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Крупный фейслифт Grande Punto (та же платформа-база не менялась, несмотря на новое имя) — обновлённые двигатели MultiAir, интерьер, экстерьер. Продавалась до 2018г. под именем \"Punto\".",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:32:16.756Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Fiat_Punto_2012_5door_front.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Fiat_Punto_2012_5door_front.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:32:16.756Z"
+}

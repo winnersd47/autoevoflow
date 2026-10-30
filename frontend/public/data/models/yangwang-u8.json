@@ -1,0 +1,20 @@
+{
+  "id": "sync-yangwang-u8",
+  "slug": "yangwang-u8",
+  "name": "Yangwang U8",
+  "fullName": "Yangwang U8",
+  "brandId": "byd",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "BYD ультра-люкс суббренд Yangwang; 1196 л.с., умеет плыть 30 мин",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:33:57.606Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2024_Yangwang_U8_%28front%29.jpg/3840px-2024_Yangwang_U8_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2024_Yangwang_U8_%28front%29.jpg/3840px-2024_Yangwang_U8_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:33:57.606Z"
+}

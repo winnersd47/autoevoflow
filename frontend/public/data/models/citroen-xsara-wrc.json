@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-xsara-wrc",
+  "slug": "citroen-xsara-wrc",
+  "name": "Citroën Xsara WRC",
+  "fullName": "Citroën Xsara WRC",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "Полноприводный World Rally Car — турбо 2.0 XU7JP4, 315hp. 3 титула производителей подряд 2003-2005. Личные титулы Лёба на этой машине — 2004-2006 (в 2003г. Citroën взял производительский титул, но Лёб уступил чемпионат пилотов на 1 очко — ранее в note ошибочно связывался весь диапазон 2003-2005 с Лёбом). Источники: Wikipedia Citroën Xsara WRC, 2003/2004/2005 World Rally Championship.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:22:43.176Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/2003_Acropolis_Rally_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/2003_Acropolis_Rally_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:22:43.176Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-rs-2",
+  "slug": "ford-focus-rs-2",
+  "name": "Ford Focus RS Mk2",
+  "fullName": "Ford Focus RS Mk2",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "Возвращение RS впервые с 2003г. 2.5L турбо I5 RevoKnuckle-подвеска (борьба с torque steer), 440Нм/325lb-ft, 6-МКПП.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:55:06.116Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/3840px-2018_Ford_Focus_ST-Line_X_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/3840px-2018_Ford_Focus_ST-Line_X_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:55:06.116Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-sm",
+  "slug": "citroen-sm",
+  "name": "SM",
+  "fullName": "SM",
+  "brandId": "citroen",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "GT grand tourer with Maserati V6 2.7L. Hydropneumatic suspension, self-centering steering. 13K units.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:08:18.287Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/1989_Citroen_XM_Nuccio_Bertone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/1989_Citroen_XM_Nuccio_Bertone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:08:18.287Z"
+}

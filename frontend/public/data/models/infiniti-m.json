@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-m",
+  "slug": "infiniti-m",
+  "name": "Infiniti M35h (Y51)",
+  "fullName": "Infiniti M35h (Y51)",
+  "brandId": "infiniti",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Параллельный гибрид на базе Y51: 3.5L VQ35HR V6 + электромотор, суммарно 360 л.с. — первый гибрид в линейке M/Q70. Продолжал продаваться и после ребейджа в Q70 Hybrid (2014+). Отдельный узел нужен из-за принципиально иного engineType (гибрид). Источник: cars.com (INFINITI M35h).",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:12:12.682Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2011_Infiniti_M37_--_NHTSA_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2011_Infiniti_M37_--_NHTSA_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:12:12.682Z"
+}

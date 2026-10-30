@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-crown-crossover",
+  "slug": "toyota-crown-crossover",
+  "name": "Toyota Crown Crossover",
+  "fullName": "Toyota Crown Crossover (2022)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:09:30.976Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_Crown_Sedan_FCEV.jpg/3840px-Toyota_Crown_Sedan_FCEV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_Crown_Sedan_FCEV.jpg/3840px-Toyota_Crown_Sedan_FCEV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:09:30.977Z"
+}

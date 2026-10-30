@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-159",
+  "slug": "alfa-159",
+  "name": "Alfa Romeo 159",
+  "fullName": "Alfa Romeo 159",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Прямой преемник 156 (представлен как таковой на Женевском автосалоне 2005г.), с версией универсал Sportwagon (2006). Платформа GM/Fiat \"Premium\" (разработана в основном инженерами Saab в рамках альянса Fiat-GM) — в серию, вопреки расхожему мнению, пошла ТОЛЬКО с Alfa Brera/Spider (939); ни Cadillac, ни Saab на неё так и не попали (проекты свёрнуты/перенесены на другую архитектуру). Топ — 3.2 V6 JTS, 260hp. Снята с производства в 2011г. БЕЗ прямого преемника — планировавшийся флагман \"169\" отменён, следующий седан такого класса (Giulia) появился лишь в 2016г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:29.524Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:07:29.524Z"
+}

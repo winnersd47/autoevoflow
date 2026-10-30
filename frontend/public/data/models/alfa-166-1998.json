@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-166-1998",
+  "slug": "alfa-166-1998",
+  "name": "Alfa Romeo 166",
+  "fullName": "Alfa Romeo 166",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "Прямой флагманский преемник 164 (кодовое имя 936 — в одном ряду с 932=156, 937=147 в нумерации Alfa). Дизайн Вальтера де Сильвы. До рестайлинга (2003) топ — 3.0 V6, 226PS; после — новый 3.2 V6, 240PS (максимум за всю историю модели). Снята с производства в 2007г. тоже без прямого преемника (тот же отменённый проект \"169\"). После закрытия права на платформу/оснастку выкуплены китайской GAC Group — легли в основу ранних седанов GAC/Trumpchi.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:31.006Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:07:31.006Z"
+}

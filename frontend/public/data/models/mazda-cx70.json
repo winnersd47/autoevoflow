@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-cx70",
+  "slug": "mazda-cx70",
+  "name": "CX-70",
+  "fullName": "CX-70",
+  "brandId": "mazda",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Mazda CX-70, продажи с MY2025 (премьера 2024) — двухрядная версия большой платформы для рынка Северной Америки (аналог CX-60 без 3-го ряда, крупнее под вкусы США). Базовый мотор 3.3L турбо-6 mild-hybrid — 280 л.с./332 фунт-фут. Источник: usnews.com, gunthermazda.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:13:36.812Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/3840px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/3840px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:13:36.812Z"
+}

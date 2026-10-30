@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-ioniq-5-n",
+  "slug": "hyundai-ioniq-5-n",
+  "name": "IONIQ 5 N",
+  "fullName": "IONIQ 5 N (2023)",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:37:29.594Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/3840px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/3840px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:37:29.594Z"
+}

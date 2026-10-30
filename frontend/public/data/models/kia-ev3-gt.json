@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev3-gt",
+  "slug": "kia-ev3-gt",
+  "name": "Kia EV3 GT",
+  "fullName": "Kia EV3 GT",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Производительная GT-версия EV3, представлена на автосалоне в Брюсселе (янв. 2026). Полный привод (2 мотора), 288 л.с., 0-100 за 5.7с. Электронно-управляемая подвеска, виртуальная имитация переключения передач (Virtual Gear Shift) и звука ДВС. В продаже в Европе, в США не поставляется.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:08.553Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg/3840px-Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg/3840px-Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:12:08.553Z"
+}

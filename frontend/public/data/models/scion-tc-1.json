@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-tc-1",
+  "slug": "scion-tc-1",
+  "name": "Scion tC Gen.1",
+  "fullName": "Scion tC Gen.1 (2004)",
+  "brandId": "scion",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Sports coupe on Avensis Verso platform. 2.4L 160 HP. Panoramic glass roof. Scion's best-seller.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:16:52.476Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/2011_Scion_tC_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/2011_Scion_tC_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:16:52.476Z"
+}

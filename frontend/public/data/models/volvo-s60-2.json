@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-s60-2",
+  "slug": "volvo-s60-2",
+  "name": "Volvo S60 Gen2",
+  "fullName": "Volvo S60 Gen2 (2010)",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "ИСПРАВЛЕНО: engineType был 'i6' (атмосферный) при hp=254 — атмосферного рядного 6-цилиндрового мотора Volvo в этот период не существовало, 254 л.с. соответствует турбо-I5 T5 (появился позже в цикле). При старте продаж S60 Gen2 (2010/MY2011) в США был доступен только T6 AWD — турбо 3.0 I6, 300 л.с./325 lb-ft, 0-100 за 5.2с. Источники: edmunds.com, thedrivershub.com, motormatchup.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:48:43.179Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/3840px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/3840px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:48:43.179Z"
+}

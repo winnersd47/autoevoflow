@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-dolphin-g",
+  "slug": "byd-dolphin-g",
+  "name": "BYD Dolphin G DM-i",
+  "fullName": "BYD Dolphin G DM-i",
+  "brandId": "byd",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "PHEV-версия для Европы (не электрический Dolphin, отдельная линейка). 1.5Т I4 \"Xiaoyun\" + мотор, Blade-батарея 18.3кВтч (65 миль WLTP на электротяге) или 7.8кВтч (24.8 миль), общий запас хода 1000км, 0-100 за 8.3с. Офиц. подтверждено media.byd.com и bydukmedia.com, старт продаж в Европе — H2 2026.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:54:55.045Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/BYD_Dolphin_G_IMG_7843.jpg/3840px-BYD_Dolphin_G_IMG_7843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/BYD_Dolphin_G_IMG_7843.jpg/3840px-BYD_Dolphin_G_IMG_7843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:54:55.045Z"
+}

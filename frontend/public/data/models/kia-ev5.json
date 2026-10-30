@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev5",
+  "slug": "kia-ev5",
+  "name": "Kia EV5",
+  "fullName": "Kia EV5",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Компактный электрический кроссовер (платформа E-GMP, индекс OV), премьера в Китае в июне 2024 (производится локально с батареями CATL для кит. рынка), глобальный выход (Европа/Австралия/Корея) — 2025. Базовая FWD-версия: передний мотор 160 кВт/218 л.с., батарея ок. 64.2 кВтч, запас хода свыше 530 км. Базовая линейка ранее отсутствовала в графе как узел — добавлена, чтобы связать с уже существующим kia-ev5-gt (который висел без входящего ребра).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:33.423Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:52:33.423Z"
+}

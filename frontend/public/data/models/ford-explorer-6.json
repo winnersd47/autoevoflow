@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-explorer-6",
+  "slug": "ford-explorer-6",
+  "name": "Ford Explorer ST",
+  "fullName": "Ford Explorer ST",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Первая по-настоящему производительная версия Explorer — 3.0Т V6, 400hp. Дебют MY2020 (не 2019 — распространённая путаница из-за анонса в 2019г.).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:49:42.377Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ford_Explorer_Sport_Trac_4.0_2004_%2816480177350%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ford_Explorer_Sport_Trac_4.0_2004_%2816480177350%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:49:42.377Z"
+}

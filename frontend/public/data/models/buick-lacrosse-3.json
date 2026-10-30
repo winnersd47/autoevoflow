@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lacrosse-3",
+  "slug": "buick-lacrosse-3",
+  "name": "Buick LaCrosse Gen.3",
+  "fullName": "Buick LaCrosse Gen.3",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Финальное поколение, платформа E2XX (общая с Opel Insignia B/Buick Regal 2018). Мотор — 3.6L V6, 310hp, 8-ст. автомат. Снята с производства в 2019г. Источник: hugegarage.com (Buick LaCrosse history).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:21.767Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2010_Buick_LaCrosse_2_--_09-07-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2010_Buick_LaCrosse_2_--_09-07-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:09:21.767Z"
+}

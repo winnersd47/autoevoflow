@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-qx65",
+  "slug": "infiniti-qx65",
+  "name": "Infiniti QX65",
+  "fullName": "Infiniti QX65",
+  "brandId": "infiniti",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Двухрядный кросс-купе («фастбэк») на базе QX60 2-го поколения — та же платформа и тот же 2.0 VC-Turbo 268 л.с./286 фунт-фут, 9АКПП, полный привод стандартно. Отличие — покатая крыша и только 2 ряда сидений. Представлен в 2026 как 2027 модельный год, продажи с лета 2026. Структурно аналог пары QX50→QX55 (derived_from). Источник: motor1.com, usa.infinitinews.com (2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:27:39.888Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg/3840px-2012_Infiniti_G37_%28V36%29_sedan_IMG_8274.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:27:39.888Z"
+}

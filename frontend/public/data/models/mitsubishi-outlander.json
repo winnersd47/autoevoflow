@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-outlander",
+  "slug": "mitsubishi-outlander",
+  "name": "Outlander",
+  "fullName": "Outlander",
+  "brandId": "mitsubishi",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:21:30.977Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg/3840px-2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg/3840px-2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:21:30.977Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-envoy",
+  "slug": "gmc-envoy",
+  "name": "GMC Envoy",
+  "fullName": "GMC Envoy",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "4.2L Atlas I6, 270hp, 4-АКПП. Более \"премиальное\" позиционирование внутри GM, чем TrailBlazer — прямая аналогия с парой Blazer/Jimmy поколением раньше.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:02:33.627Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/GMC--Envoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/GMC--Envoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:02:33.627Z"
+}

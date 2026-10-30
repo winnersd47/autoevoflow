@@ -1,0 +1,20 @@
+{
+  "id": "sync-changan-uni-k",
+  "slug": "changan-uni-k",
+  "name": "Changan Uni-K",
+  "fullName": "Changan Uni-K",
+  "brandId": "changan",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:25:45.548Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Changan_UNI-K_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Changan_UNI-K_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:25:45.548Z"
+}

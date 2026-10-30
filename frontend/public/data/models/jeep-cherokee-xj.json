@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-cherokee-xj",
+  "slug": "jeep-cherokee-xj",
+  "name": "Jeep Cherokee XJ",
+  "fullName": "Jeep Cherokee XJ (1984)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:58:33.160Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jeep_Cherokee_2-door.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jeep_Cherokee_2-door.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:58:33.160Z"
+}

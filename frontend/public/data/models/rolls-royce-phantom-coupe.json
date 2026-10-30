@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-phantom-coupe",
+  "slug": "rolls-royce-phantom-coupe",
+  "name": "Phantom Coupé",
+  "fullName": "Phantom Coupé",
+  "brandId": "rolls-royce",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:35:03.265Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2009_Rolls-Royce_Phantom_%283C68%29_coupe_%282015-01-25%29_01.jpg/3840px-2009_Rolls-Royce_Phantom_%283C68%29_coupe_%282015-01-25%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2009_Rolls-Royce_Phantom_%283C68%29_coupe_%282015-01-25%29_01.jpg/3840px-2009_Rolls-Royce_Phantom_%283C68%29_coupe_%282015-01-25%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:35:03.265Z"
+}

@@ -1,86 +1,26 @@
 [
   {
-    "id": "alfa-romeo-stelvio-2",
-    "label": "Stelvio (2028)",
-    "brandName": "Alfa Romeo",
-    "year": 2028
-  },
-  {
-    "id": "ram-ramcharger-suv",
-    "label": "Ram Ramcharger (2028)",
-    "brandName": "Ram",
-    "year": 2028
-  },
-  {
-    "id": "gmc-hummer-ev-suv",
-    "label": "GMC Hummer EV SUV",
-    "brandName": "GMC",
-    "year": 2024
-  },
-  {
-    "id": "cadillac-escalade-v-collector",
-    "label": "Escalade-V Collector Series",
-    "brandName": "Cadillac",
-    "year": 2027
-  },
-  {
-    "id": "volvo-xc40-1-fl",
-    "label": "Volvo XC40 Facelift (2028)",
-    "brandName": "Volvo",
-    "year": 2028
-  },
-  {
-    "id": "bmw-m760-g70-lci",
-    "label": "M760 xDrive (G70 LCI)",
-    "brandName": "BMW",
-    "year": 2027
-  },
-  {
-    "id": "ncs-jaguar-2028-type-01",
-    "label": "Jaguar Type 01",
-    "brandName": "Jaguar",
-    "year": 2028
-  },
-  {
-    "id": "ncs-jaguar-2028-jaguar-type-01-ev",
-    "label": "2028 Jaguar Type 01 EV",
-    "brandName": "Jaguar",
-    "year": 2028
-  },
-  {
-    "id": "ncs-bentley-2028-torcal",
-    "label": "Bentley Torcal",
-    "brandName": "Bentley",
-    "year": 2028
-  },
-  {
-    "id": "ncs-bentley-2028-bentley-torcal-breaks",
-    "label": "2028 Bentley Torcal Breaks",
-    "brandName": "Bentley",
-    "year": 2028
-  },
-  {
-    "id": "ncs-bentley-2028-bentley-torcal-first-ride",
-    "label": "2028 Bentley Torcal First Ride",
-    "brandName": "Bentley",
-    "year": 2028
-  },
-  {
-    "id": "ncs-bentley-2028-bentley-torcal-aims-to-capture-that-tangibl",
-    "label": "2028 Bentley Torcal Aims To Capture That Tangible",
-    "brandName": "Bentley",
-    "year": 2028
-  },
-  {
-    "id": "ncs-bmw-2027-i3",
-    "label": "BMW i3",
-    "brandName": "BMW",
-    "year": 2027
-  },
-  {
-    "id": "ncs-nissan-2027-pathfinder-special-edition",
-    "label": "Nissan Pathfinder Special Edition",
+    "id": "ncs-nissan-2026-terrano-suv-phev-concept",
+    "label": "Nissan Terrano SUV PHEV Concept",
     "brandName": "Nissan",
+    "year": 2026
+  },
+  {
+    "id": "ncs-mercedes-2027-mercedes-g-580-ev",
+    "label": "G 580 EQ (2027 MY)",
+    "brandName": "Mercedes-Benz",
+    "year": 2027
+  },
+  {
+    "id": "ncs-mercedes-2027-mercedes-benz-gle-shows-where-mercedes-sti",
+    "label": "GLE W167 Phase III",
+    "brandName": "Mercedes-Benz",
+    "year": 2027
+  },
+  {
+    "id": "ncs-honda-2027-honda-hr-v",
+    "label": "HR-V RV Phase II",
+    "brandName": "Honda",
     "year": 2027
   }
 ]

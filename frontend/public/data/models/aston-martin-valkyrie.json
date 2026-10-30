@@ -1,0 +1,20 @@
+{
+  "id": "sync-aston-martin-valkyrie",
+  "slug": "aston-martin-valkyrie",
+  "name": "Valkyrie AMR Pro",
+  "fullName": "Valkyrie AMR Pro",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:47:17.581Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2026_6_Hours_of_Spa-Francorchamps_Aston_Martin_THOR_Team_Aston_Martin_Valkyrie_No.009_%28DSC5491%29.jpg/3840px-2026_6_Hours_of_Spa-Francorchamps_Aston_Martin_THOR_Team_Aston_Martin_Valkyrie_No.009_%28DSC5491%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2026_6_Hours_of_Spa-Francorchamps_Aston_Martin_THOR_Team_Aston_Martin_Valkyrie_No.009_%28DSC5491%29.jpg/3840px-2026_6_Hours_of_Spa-Francorchamps_Aston_Martin_THOR_Team_Aston_Martin_Valkyrie_No.009_%28DSC5491%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:47:17.581Z"
+}

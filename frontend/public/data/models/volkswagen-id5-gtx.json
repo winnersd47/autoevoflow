@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id5-gtx",
+  "slug": "volkswagen-id5-gtx",
+  "name": "ID.5 GTX",
+  "fullName": "ID.5 GTX",
+  "brandId": "volkswagen",
+  "bodyType": "suv",
+  "segment": "suv_mid",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:21:34.818Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2025_Volkswagen_ID4_Pro_Redspot_front.jpg/3840px-2025_Volkswagen_ID4_Pro_Redspot_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/2025_Volkswagen_ID4_Pro_Redspot_front.jpg/3840px-2025_Volkswagen_ID4_Pro_Redspot_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:21:34.818Z"
+}

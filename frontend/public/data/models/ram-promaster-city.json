@@ -1,0 +1,20 @@
+{
+  "id": "sync-ram-promaster-city",
+  "slug": "ram-promaster-city",
+  "name": "Ram ProMaster City",
+  "fullName": "Ram ProMaster City",
+  "brandId": "ram",
+  "bodyType": "van",
+  "segment": "commercial",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Реанимация модели (снята с продаж в 2022) — компактный коммерческий фургон, платформа Stellantis midsize global commercial van (общая с Citroën Jumpy/Dispatch). 1.6T I4, 221 lb-ft, 8-АКПП, >167 куб.футов груз. объёма, от $40k. Производство с конца 2026, в продаже с января 2027. Источники: ramtrucks.com, FleetOwner, Motor1, WardsAuto (сент. 2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:07:47.973Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ram_ProMaster_City_Montr%C3%A9al.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ram_ProMaster_City_Montr%C3%A9al.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:07:47.973Z"
+}

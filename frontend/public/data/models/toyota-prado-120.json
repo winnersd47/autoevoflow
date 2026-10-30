@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-prado-120",
+  "slug": "toyota-prado-120",
+  "name": "Toyota Land Cruiser Prado J120",
+  "fullName": "Toyota Land Cruiser Prado J120",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "off_road",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Третье поколение (2002) — впервые продавалось в США/Канаде, но только как Lexus GX470 (узел lexus-gx-j120 уже есть в графе); под маркой Toyota Prado в Северной Америке не поставлялся. Дизель 3.0L D-4D (1KD-FTV) — 173 л.с. (с 2007); бензиновые версии — 3.4L V6 (185 л.с.) и позже 4.0L V6 1GR-FE (249 л.с.).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:47:35.875Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg/3840px-2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg/3840px-2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:47:35.875Z"
+}

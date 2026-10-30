@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-gto-judge",
+  "slug": "pontiac-gto-judge",
+  "name": "GTO The Judge",
+  "fullName": "GTO The Judge",
+  "brandId": "pontiac",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1969,
+  "isActive": true,
+  "description": "The Judge поставлялся СТАНДАРТНО с Ram Air III 400 (366 л.с. gross); опциональный Ram Air IV (370 л.с. gross, по факту ближе к 400 реальных) — см. отдельную ноду GTO Ram Air IV. Источник: hagerty.com, news.classicindustries.com (1969-1971 Pontiac GTO Judge Specs).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:59:37.451Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg/3840px-2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg/3840px-2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:59:37.451Z"
+}

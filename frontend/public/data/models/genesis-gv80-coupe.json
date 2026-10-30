@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-gv80-coupe",
+  "slug": "genesis-gv80-coupe",
+  "name": "GV80 Coupe",
+  "fullName": "GV80 Coupe",
+  "brandId": "genesis",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Фастбэк-вариант GV80 (JX1) — Корея презентация нояб. 2023 (MY2024), США MY2025. Топ-мотор — эксклюзивный для Coupe 3.5T 'e-Supercharger' (48V мягкий гибрид + электрокомпрессор, официально маркируется дилерами как MHEV): 409hp/405 lb-ft. Это НЕ обычный ДВС-турбо-V6 — отсюда engineType исправлен с 'v6t' на 'v6h' (гибрид); обычный (негибридный) 3.5T без e-S/C даёт 375hp, как на седане GV80. Источники: hyundaimotorgroup.com 'GV80 Coupe: Entering the High-Performance Realm with the 3.5 Turbo 48V Electric Supercharger', carfolio.com 'GV80 Coupé 3.5T specifications', sfgate.com '2026 Genesis GV80 Coupe 3.5T E-SC MHEV Prestige Review'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:43:58.933Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg/3840px-2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg/3840px-2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:43:58.933Z"
+}

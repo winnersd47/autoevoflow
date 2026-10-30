@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-mr2",
+  "slug": "toyota-mr2",
+  "name": "MR2 Spyder W30",
+  "fullName": "MR2 Spyder W30",
+  "brandId": "toyota",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:09:51.149Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/1993ToyotaMR2Hardtop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/1993ToyotaMR2Hardtop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:09:51.149Z"
+}

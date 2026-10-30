@@ -1,0 +1,20 @@
+{
+  "id": "sync-camaro",
+  "slug": "camaro",
+  "name": "Camaro Gen.6",
+  "fullName": "Camaro Gen.6",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Alpha-платформа (от Cadillac ATS); -90кг; улучшенный баланс; финальное поколение",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:31:03.461Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:31:03.461Z"
+}

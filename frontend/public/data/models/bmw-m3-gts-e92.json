@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-m3-gts-e92",
+  "slug": "bmw-m3-gts-e92",
+  "name": "M3 GTS E92",
+  "fullName": "M3 GTS E92",
+  "brandId": "bmw",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:19:32.402Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/BMW_M8_GTE_Felix_da_Costa_Silverstone_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/BMW_M8_GTE_Felix_da_Costa_Silverstone_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:19:32.402Z"
+}

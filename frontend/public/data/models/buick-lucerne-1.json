@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lucerne-1",
+  "slug": "buick-lucerne-1",
+  "name": "Buick Lucerne Super",
+  "fullName": "Buick Lucerne Super",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Сменил LeSabre и Park Avenue, единственное поколение (2006-2011, с фейслифтом 2008г.). Базовый мотор — 3.8L V6, 197hp; топ-трим Super (с 2008г.) — Cadillac-derived 4.6L Northstar V8, 292hp/288 фунт-фут. Источник: thecarconnection.com, netcarshow.com (2008 Buick Lucerne Super).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:10:38.423Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buick_Lucerne_CXL_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Buick_Lucerne_CXL_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:10:38.423Z"
+}

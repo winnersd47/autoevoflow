@@ -1,0 +1,20 @@
+{
+  "id": "sync-ssc-tuatara",
+  "slug": "ssc-tuatara",
+  "name": "Tuatara",
+  "fullName": "Tuatara",
+  "brandId": "ssc",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:55:22.100Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2019_SSC_Tuatara_at_Pebble_Beach_Press_Conference.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2019_SSC_Tuatara_at_Pebble_Beach_Press_Conference.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:55:22.100Z"
+}

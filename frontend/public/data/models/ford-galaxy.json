@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-galaxy",
+  "slug": "ford-galaxy",
+  "name": "Ford Galaxy Mk2",
+  "fullName": "Ford Galaxy Mk2",
+  "brandId": "ford",
+  "bodyType": "mpv",
+  "segment": "compact_mpv",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Второе поколение — 2.0Т I4, базовая версия 145hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:53:49.118Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2016_Ford_Galaxy_Titanium_TDCi_2.0_Front.jpg/3840px-2016_Ford_Galaxy_Titanium_TDCi_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2016_Ford_Galaxy_Titanium_TDCi_2.0_Front.jpg/3840px-2016_Ford_Galaxy_Titanium_TDCi_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:53:49.118Z"
+}

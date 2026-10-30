@@ -1,0 +1,20 @@
+{
+  "id": "sync-daihatsu-charade-detomaso",
+  "slug": "daihatsu-charade-detomaso",
+  "name": "Daihatsu Charade De Tomaso Turbo",
+  "fullName": "Daihatsu Charade De Tomaso Turbo",
+  "brandId": "daihatsu",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1983,
+  "isActive": true,
+  "description": "Серийная спецверсия — лицензионный аэродинамический body-kit от Алехандро Де Томазо (интегрированный передний спойлер, пороги, двойной выхлоп, задний спойлер вокруг хэтча). 1.0Т I3, 80PS/87lb-ft, 5-МКПП, ~690кг. Была и более редкая версия \"De Tomaso Bianca\" — 600 экз., бело-серая расцветка.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:58:56.552Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/7th_generation_Daihatsu_Mira_01.jpg/3840px-7th_generation_Daihatsu_Mira_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/7th_generation_Daihatsu_Mira_01.jpg/3840px-7th_generation_Daihatsu_Mira_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:58:56.552Z"
+}

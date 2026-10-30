@@ -1,0 +1,20 @@
+{
+  "id": "sync-plymouth-superbird",
+  "slug": "plymouth-superbird",
+  "name": "Superbird",
+  "fullName": "Superbird",
+  "brandId": "plymouth",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Аэродинамическая спецверсия Road Runner на 1970 год — заострённый нос и высокое заднее антикрыло, разработаны по опыту Dodge Charger Daytona (1969, см. связь inspired_by на dodge-charger-1969). Построено 1920 экз., в т.ч. всего 93 с мотором 426 Hemi — большинство (ок. 1084) со стандартным 440 Super Commando (375 л.с.), остальные — 440 Six-Barrel (390 л.с.). Источник: en.wikipedia.org 'Plymouth Superbird'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:34:36.011Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Superbird_Yellow.jpg/3840px-Superbird_Yellow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Superbird_Yellow.jpg/3840px-Superbird_Yellow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:34:36.011Z"
+}

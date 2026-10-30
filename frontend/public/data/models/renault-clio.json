@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-clio",
+  "slug": "renault-clio",
+  "name": "Clio V",
+  "fullName": "Clio V",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:16:52.115Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg/3840px-Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg/3840px-Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:16:52.115Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-polestar-3-perf",
+  "slug": "polestar-3-perf",
+  "name": "Polestar 3 Performance Pack",
+  "fullName": "Polestar 3 Performance Pack",
+  "brandId": "polestar",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "517hp/671lb-ft против 489hp/620lb-ft у стандартной версии, 0-60 за 4.2с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:09:54.764Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Polestar_headquarters_in_Gothenburg%2C_Sweden.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:09:54.764Z"
+}

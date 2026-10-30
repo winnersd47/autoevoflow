@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-paceman-r61",
+  "slug": "mini-paceman-r61",
+  "name": "Mini Paceman R61",
+  "fullName": "Mini Paceman R61 (2012)",
+  "brandId": "mini",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "3-door Countryman coupé. JCW ALL4 218 HP AWD. Introduced upscale 3-door crossover concept. 2012–2016.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:12:07.523Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg/3840px-2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg/3840px-2015_Mini_Paceman_Cooper_D_Automatic_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:12:07.523Z"
+}

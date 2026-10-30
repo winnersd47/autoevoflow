@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-renegade",
+  "slug": "jeep-renegade",
+  "name": "Jeep Renegade (facelift)",
+  "fullName": "Jeep Renegade (facelift)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Новый фасад/фонари, 1.3L GSE Turbo (177 л.с.) вместо 1.4L Fire Turbo.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:00:26.957Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Jeep_Renegade_1.6_MultiJet_2WD_Longitude_%E2%80%93_Frontansicht%2C_9._November_2014%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Jeep_Renegade_1.6_MultiJet_2WD_Longitude_%E2%80%93_Frontansicht%2C_9._November_2014%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:00:26.957Z"
+}

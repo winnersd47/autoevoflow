@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-etron-gt",
+  "slug": "audi-etron-gt",
+  "name": "Audi RS e-tron GT performance",
+  "fullName": "Audi RS e-tron GT performance",
+  "brandId": "audi",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Самый мощный серийный Audi в истории — 925 л.с. (680кВт) с launch control, батарея 105кВтч, 0-100 за 2.5с. Продажи с 2025г.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:08:59.274Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Audi_e-tron_GT_IMG_5689.jpg/3840px-Audi_e-tron_GT_IMG_5689.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Audi_e-tron_GT_IMG_5689.jpg/3840px-Audi_e-tron_GT_IMG_5689.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:08:59.274Z"
+}

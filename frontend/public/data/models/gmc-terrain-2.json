@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-terrain-2",
+  "slug": "gmc-terrain-2",
+  "name": "GMC Terrain",
+  "fullName": "GMC Terrain",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Второе поколение — полностью новый кузов и шасси (платформа D2XX, как Cadillac XT4/gmc уже есть cadillac-xt4), более аэродинамичный, впервые только турбомоторы (отказ от V6): 1.5L турбо-4 (170hp), 2.0L турбо-4 (252hp, топовый), 1.6L турбодизель (137hp, для рынков вне США). Источники: cargurus.com/research/articles/gmc-terrain-buying-guide, gmauthority.com/blog/gm/gmc/terrain.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:13:57.636Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:13:57.636Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-omega-a",
+  "slug": "opel-omega-a",
+  "name": "Omega A",
+  "fullName": "Omega A (1986)",
+  "brandId": "opel",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:27:59.878Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Opel_Omega_front_20080118.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Opel_Omega_front_20080118.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:27:59.878Z"
+}

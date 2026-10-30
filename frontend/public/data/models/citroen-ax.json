@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-ax",
+  "slug": "citroen-ax",
+  "name": "Citroën AX",
+  "fullName": "Citroën AX",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:30:43.723Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Citroen_CX_Prestige_long_wheel_base_2347cc_March_1983.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Citroen_CX_Prestige_long_wheel_base_2347cc_March_1983.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:30:43.723Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-6000",
+  "slug": "pontiac-6000",
+  "name": "Pontiac 6000",
+  "fullName": "Pontiac 6000",
+  "brandId": "pontiac",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "A-body сиблинг Chevrolet Celebrity/Buick Century/Olds Ciera; STE-версия — первый Pontiac с полным приводом.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:36:57.038Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TransAm1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TransAm1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:36:57.038Z"
+}

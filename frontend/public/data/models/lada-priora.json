@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-priora",
+  "slug": "lada-priora",
+  "name": "Lada Priora",
+  "fullName": "Lada Priora",
+  "brandId": "lada",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:21:02.572Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lada_Priora_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lada_Priora_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:21:02.572Z"
+}

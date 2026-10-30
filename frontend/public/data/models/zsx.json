@@ -1,0 +1,20 @@
+{
+  "id": "sync-zsx",
+  "slug": "zsx",
+  "name": "Acura ZSX EV",
+  "fullName": "Acura ZSX EV",
+  "brandId": "acura",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:25:16.656Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2018_Acura_RDX_in_Lunar_Silver_Metallic%2C_front_left.jpg/3840px-2018_Acura_RDX_in_Lunar_Silver_Metallic%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2018_Acura_RDX_in_Lunar_Silver_Metallic%2C_front_left.jpg/3840px-2018_Acura_RDX_in_Lunar_Silver_Metallic%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:25:16.656Z"
+}

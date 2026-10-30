@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T06:12:41.994Z",
-  "alreadyCoveredCount": 76,
+  "generatedAt": "2026-10-30T07:55:50.286Z",
+  "alreadyCoveredCount": 68,
   "routineSkippedCount": 11,
   "missingKnownBrand": [
     {
@@ -22,6 +22,15 @@
       ]
     },
     {
+      "brand": "Mercedes",
+      "brandSlug": "mercedes",
+      "name": "2028 Mercedes-AMG GT SUV One-Ups",
+      "year": 2028,
+      "sources": [
+        "jalopnik"
+      ]
+    },
+    {
       "brand": "Dodge",
       "brandSlug": "dodge",
       "name": "2028 Dodge Charger to",
@@ -40,12 +49,66 @@
       ]
     },
     {
+      "brand": "Jaguar",
+      "brandSlug": "jaguar",
+      "name": "2028 Jaguar Type 01 EV",
+      "year": 2028,
+      "sources": [
+        "jalopnik"
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "brandSlug": "bentley",
+      "name": "2028 Bentley Torcal Breaks",
+      "year": 2028,
+      "sources": [
+        "autoweek"
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "brandSlug": "bentley",
+      "name": "2028 Bentley Torcal EV Charts A Slightly Strange-Looking",
+      "year": 2028,
+      "sources": [
+        "jalopnik"
+      ]
+    },
+    {
+      "brand": "Aston",
+      "brandSlug": "aston_martin",
+      "name": "Aston Martin Valen",
+      "year": 2028,
+      "sources": [
+        "netcarshow"
+      ]
+    },
+    {
       "brand": "Bentley",
       "brandSlug": "bentley",
       "name": "2028 Bentley Torcal Prototype Ride",
       "year": 2028,
       "sources": [
         "caranddriver"
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "brandSlug": "bentley",
+      "name": "2028 Bentley Torcal First Ride",
+      "year": 2028,
+      "sources": [
+        "thedrive"
+      ]
+    },
+    {
+      "brand": "Bentley",
+      "brandSlug": "bentley",
+      "name": "2028 Bentley Torcal Aims To Capture That Tangible",
+      "year": 2028,
+      "sources": [
+        "jalopnik"
       ]
     },
     {
@@ -64,15 +127,6 @@
       "year": 2028,
       "sources": [
         "carscoops"
-      ]
-    },
-    {
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "2027 BMW iX5 60 xDrive Proves",
-      "year": 2027,
-      "sources": [
-        "roadandtrack"
       ]
     },
     {
@@ -114,7 +168,7 @@
     {
       "brand": "Mercedes-Benz",
       "brandSlug": "mercedes-benz",
-      "name": "2027 Mercedes-Benz C350 Leaves",
+      "name": "2027 Mercedes-Benz C350",
       "year": 2027,
       "sources": [
         "caranddriver"
@@ -123,7 +177,7 @@
     {
       "brand": "Mercedes-Benz",
       "brandSlug": "mercedes-benz",
-      "name": "2027 Mercedes-Benz C350",
+      "name": "2027 Mercedes-Benz C350 Leaves",
       "year": 2027,
       "sources": [
         "caranddriver"
@@ -157,21 +211,30 @@
       ]
     },
     {
-      "brand": "Dodge",
-      "brandSlug": "dodge",
-      "name": "2027 Mopar Dodge Charger",
-      "year": 2027,
-      "sources": [
-        "carscoops"
-      ]
-    },
-    {
       "brand": "Mercedes-Benz",
       "brandSlug": "mercedes-benz",
       "name": "Mercedes-Benz AMG GT SUV",
       "year": 2027,
       "sources": [
         "netcarshow"
+      ]
+    },
+    {
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW iX5 60 xDrive Proves",
+      "year": 2027,
+      "sources": [
+        "roadandtrack"
+      ]
+    },
+    {
+      "brand": "Dodge",
+      "brandSlug": "dodge",
+      "name": "2027 Mopar Dodge Charger",
+      "year": 2027,
+      "sources": [
+        "carscoops"
       ]
     },
     {
@@ -217,6 +280,15 @@
       "year": 2027,
       "sources": [
         "caranddriver"
+      ]
+    },
+    {
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW X5 First",
+      "year": 2027,
+      "sources": [
+        "thedrive"
       ]
     },
     {
@@ -280,15 +352,6 @@
       "year": 2027,
       "sources": [
         "caranddriver"
-      ]
-    },
-    {
-      "brand": "Mini",
-      "brandSlug": "mini",
-      "name": "Mini Countryman Untamed Edition",
-      "year": 2027,
-      "sources": [
-        "netcarshow"
       ]
     }
   ],

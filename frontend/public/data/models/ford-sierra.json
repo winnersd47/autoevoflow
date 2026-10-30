@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-sierra",
+  "slug": "ford-sierra",
+  "name": "Sierra",
+  "fullName": "Sierra",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:08:42.633Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ford_Sierra_CLX_1988_zweit%C3%BCrig.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ford_Sierra_CLX_1988_zweit%C3%BCrig.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:08:42.633Z"
+}

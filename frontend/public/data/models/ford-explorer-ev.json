@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-explorer-ev",
+  "slug": "ford-explorer-ev",
+  "name": "Explorer EV",
+  "fullName": "Explorer EV",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:01:26.971Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ford_Explorer_EV_IMG_2120.jpg/3840px-Ford_Explorer_EV_IMG_2120.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ford_Explorer_EV_IMG_2120.jpg/3840px-Ford_Explorer_EV_IMG_2120.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:01:26.971Z"
+}

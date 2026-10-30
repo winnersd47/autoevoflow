@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-g90-facelift",
+  "slug": "genesis-g90-facelift",
+  "name": "Genesis G90 (facelift)",
+  "fullName": "Genesis G90 (facelift)",
+  "brandId": "genesis",
+  "bodyType": "sedan",
+  "segment": "ultra_luxury",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "ИСПРАВЛЕНИЕ БАГА 'пропуск поколения': в графе evolves_into вёл напрямую из gen-g90-1 (2015, HI) в gen-g90-3 (RS4, факт. 2-е поколение), минуя рестайлинг. Рестайлинг HI: Корея — нояб. 2018 (MY2019, тогда же имя 'EQ900' окончательно унифицировано в 'G90' и на домашнем рынке); глобально/США показан на LA Auto Show в нояб. 2019 как '2020 G90' — Genesis сам анонсировал его как 'a full model change at mid-cycle' (новая решётка/оптика/салон). Мощность топ-двигателя не изменилась: 3.3T V6 365hp/376 lb-ft (тот же, что у gen-g90-1); 5.0 V8 420hp (gen-g90-1-v8) также продолжал предлагаться без изменений. Источники: drivemag.com '2019 Genesis G90 gets facelift, huge front grille', newsroom.genesis.com '2020 GENESIS G90: A FULL MODEL CHANGE AT MID-CYCLE', cars.com 2019 Genesis G90 3.3T Premium specs.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:15:13.161Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Genesis_G90_3.5T_RS4_Savile_Silver_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Genesis_G90_3.5T_RS4_Savile_Silver_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:15:13.161Z"
+}

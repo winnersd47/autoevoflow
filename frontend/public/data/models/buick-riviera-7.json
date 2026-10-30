@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-riviera-7",
+  "slug": "buick-riviera-7",
+  "name": "Buick Riviera Gen.7",
+  "fullName": "Buick Riviera Gen.7",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "Дальнейшее уменьшение размеров (база 108 дюймов, общая с Buick Regal того времени), переход на unibody. Единственный мотор за поколение — атмосферный 3.8L V6, 140hp (SAE net) на старте. Источник: carbuzz.com, wikicars.org (Buick Riviera history).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:15.099Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:05:15.099Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-de-tomaso-pantera",
+  "slug": "de-tomaso-pantera",
+  "name": "Pantera",
+  "fullName": "Pantera",
+  "brandId": "de-tomaso",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:48:17.965Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/1990_De_Tomaso_Pantera_GT5_S_LC23.jpg/3840px-1990_De_Tomaso_Pantera_GT5_S_LC23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/1990_De_Tomaso_Pantera_GT5_S_LC23.jpg/3840px-1990_De_Tomaso_Pantera_GT5_S_LC23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:48:17.965Z"
+}

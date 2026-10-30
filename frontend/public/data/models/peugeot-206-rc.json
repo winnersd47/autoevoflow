@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-206-rc",
+  "slug": "peugeot-206-rc",
+  "name": "206 RC",
+  "fullName": "206 RC",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:38:53.067Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/PeugeotRC-revised.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/PeugeotRC-revised.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:38:53.067Z"
+}

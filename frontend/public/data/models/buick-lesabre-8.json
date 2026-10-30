@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lesabre-8",
+  "slug": "buick-lesabre-8",
+  "name": "Buick LeSabre Gen.8",
+  "fullName": "Buick LeSabre Gen.8",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Финальное поколение модели (снята с производства в 2005г., заменена на Lucerne). Мотор не изменился — 3.8L V6 Series II, 205hp. Источник: iseecars.com, kbb.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:29.268Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:06:29.268Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-exp100gt",
+  "slug": "bentley-exp100gt",
+  "name": "EXP 100 GT Concept",
+  "fullName": "EXP 100 GT Concept",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "EXP 100 GT (представлен 10 июля 2019 к 100-летию марки) — видение GT-автомобиля 2035г.: полностью электрический, 0-60mph за 2.5с, запас хода ~700км, автономное вождение. Дизайн вдохновлён НЕ Mulsanne (ошибочное ребро удалено — источниками не подтверждается), а историческими моделями: задние \"плечи\" — отсылка к R-Type Continental (1952), круглые фары, перетекающие в решётку, — отсылка к 4½ Litre Blower (1929); медь/алюминий в отделке — дань материалам авиадвигателя W.O. Bentley времён Первой мировой. Прямой серийный преемник публично не подтверждён; связь с Torcal (2026, SUV на платформе PPE/Porsche Cayenne Electric) источниками НЕ подтверждается (разные кузова и платформы) — не добавляю. Источники: bentleymotors.com, designboom.com, motor1.com, en.wikipedia.org/wiki/Bentley_EXP_100_GT.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:44:22.668Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg/3840px-2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg/3840px-2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:44:22.668Z"
+}

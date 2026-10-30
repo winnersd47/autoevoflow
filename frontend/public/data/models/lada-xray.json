@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-xray",
+  "slug": "lada-xray",
+  "name": "Lada XRAY",
+  "fullName": "Lada XRAY",
+  "brandId": "lada",
+  "bodyType": "suv",
+  "segment": "suv_compact",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:21:06.278Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2017_Lada_XRAY_GAB110_%28XTA%29_red_front.jpg/3840px-2017_Lada_XRAY_GAB110_%28XTA%29_red_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2017_Lada_XRAY_GAB110_%28XTA%29_red_front.jpg/3840px-2017_Lada_XRAY_GAB110_%28XTA%29_red_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:21:06.278Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-cj7",
+  "slug": "jeep-cj7",
+  "name": "Jeep CJ-7",
+  "fullName": "Jeep CJ-7 (1976)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1976,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:58:27.756Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1945-49_Willys_CJ-2A_%288516773565%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1945-49_Willys_CJ-2A_%288516773565%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:58:27.756Z"
+}

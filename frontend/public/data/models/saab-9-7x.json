@@ -1,0 +1,20 @@
+{
+  "id": "sync-saab-9-7x",
+  "slug": "saab-9-7x",
+  "name": "Saab 9-7X",
+  "fullName": "Saab 9-7X",
+  "brandId": "saab",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Последний и самый спорный из шести близнецов GMT360 — единственный в истории Saab внедорожник, воспринят фанатами марки как разбавление идентичности бренда под давлением GM. Топ-версия Arc — 5.3L V8, 300hp/330lb-ft (база Linear — 4.2L I6, 275-285hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:02:39.477Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Viggen_%2852526298757%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Viggen_%2852526298757%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:02:39.477Z"
+}

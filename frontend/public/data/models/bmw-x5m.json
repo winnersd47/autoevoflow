@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-x5m",
+  "slug": "bmw-x5m",
+  "name": "BMW X5 M (F85)",
+  "fullName": "BMW X5 M (F85)",
+  "brandId": "bmw",
+  "bodyType": "suv",
+  "segment": "premium_suv",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "575 л.с., второе поколение X5 M, 2015г.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:07:51.723Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/BMW_X5_M_%28MSP15%29.JPG/3840px-BMW_X5_M_%28MSP15%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/BMW_X5_M_%28MSP15%29.JPG/3840px-BMW_X5_M_%28MSP15%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:07:51.723Z"
+}

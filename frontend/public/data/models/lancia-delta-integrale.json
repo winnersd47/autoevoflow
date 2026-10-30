@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-delta-integrale",
+  "slug": "lancia-delta-integrale",
+  "name": "Lancia Delta HF Integrale",
+  "fullName": "Lancia Delta HF Integrale (1987)",
+  "brandId": "lancia",
+  "bodyType": "hatchback",
+  "segment": "rally",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:01:03.191Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lancia_Delta_LX_2012_02.jpg/3840px-Lancia_Delta_LX_2012_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lancia_Delta_LX_2012_02.jpg/3840px-Lancia_Delta_LX_2012_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:01:03.191Z"
+}

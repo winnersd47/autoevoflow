@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-sharan-2",
+  "slug": "vw-sharan-2",
+  "name": "Sharan II",
+  "fullName": "Sharan II",
+  "brandId": "volkswagen",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:12:32.362Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Volkswagen_Fox_2015_in_Punta_del_Este_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Volkswagen_Fox_2015_in_Punta_del_Este_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:12:32.362Z"
+}

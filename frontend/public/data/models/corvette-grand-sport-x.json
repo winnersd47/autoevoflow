@@ -1,0 +1,20 @@
+{
+  "id": "sync-corvette-grand-sport-x",
+  "slug": "corvette-grand-sport-x",
+  "name": "Chevrolet Corvette Grand Sport X",
+  "fullName": "Chevrolet Corvette Grand Sport X",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Прямая замена E-Ray в модельном ряду 2027 (E-Ray не возвращается). Новый атмосферный LS6 6.7L V8 (535 л.с./520 lb-ft) + передний электромотор (186 л.с.) = 721 л.с. суммарно, eAWD, батарея 1.9 кВтч. Кузов как у Z06 (широкий), карбон-керамика и Magnetic Ride Control 4.0 — в базе. В продаже с осени 2026, от $109 700.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:06.249Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Chevy_%2814467564735%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Chevy_%2814467564735%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:12:06.249Z"
+}

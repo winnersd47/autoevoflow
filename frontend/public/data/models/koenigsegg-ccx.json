@@ -1,0 +1,20 @@
+{
+  "id": "sync-koenigsegg-ccx",
+  "slug": "koenigsegg-ccx",
+  "name": "Koenigsegg CCXR Trevita",
+  "fullName": "Koenigsegg CCXR Trevita",
+  "brandId": "koenigsegg",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Планировалось 3 экземпляра, построено только 2 (2009-2010) — технология оказалась слишком сложной для большего тиража. 'Trevita' (швед. 'три белых') — фирменная разработка Koenigsegg: карбоновое плетение с алмазным напылением, впервые превращающее чёрный карбон в серебристо-белый. Механически идентична CCXR: 1018 л.с. на E85, тот же 4.8L твин-суперчарджерный V8. Источники: Wikipedia, koenigsegg.com/model/ccxr-trevita, supercars.net.",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:14:26.896Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Koenigsegg_CCX_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Koenigsegg_CCX_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:14:26.896Z"
+}

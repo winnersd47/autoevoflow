@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-aurelia",
+  "slug": "lancia-aurelia",
+  "name": "Lancia Aurelia B20 GT",
+  "fullName": "Lancia Aurelia B20 GT (1951)",
+  "brandId": "lancia",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1951,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:41:45.733Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lancia_Aurelia_B12_in_Rovigo_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lancia_Aurelia_B12_in_Rovigo_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:41:45.733Z"
+}

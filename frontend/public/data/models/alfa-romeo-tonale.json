@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-tonale",
+  "slug": "alfa-romeo-tonale",
+  "name": "Tonale",
+  "fullName": "Tonale (2022)",
+  "brandId": "alfa-romeo",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Базовая (не plug-in) гибридная версия Tonale — турбо 1.5L I4 + 48V стартер-генератор, 130 или 160hp в зависимости от форсировки/рынка, только передний привод, 7-ступ. e-DCT. Топовая электрифицированная версия с Q4 и 280hp — см. отдельный узел alfa-romeo-tonale-phev-q4.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:41:34.373Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg/3840px-2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg/3840px-2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:41:34.373Z"
+}

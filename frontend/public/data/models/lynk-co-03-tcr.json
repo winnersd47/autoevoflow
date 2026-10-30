@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-03-tcr",
+  "slug": "lynk-co-03-tcr",
+  "name": "Lynk & Co 03 TCR",
+  "fullName": "Lynk & Co 03 TCR",
+  "brandId": "lynk-co",
+  "bodyType": "sedan",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Гоночная программа Cyan Racing в WTCR (World Touring Car Cup) — дебют на этапе в Марокко 2019г., в этом же сезоне принесла КОМАНДНЫЙ титул чемпиона мира — первый в истории мировой титул в автоспорте для китайского производителя. Мотор Volvo JLH-4G20TD 1969cc турбо I4 (спецификация TCR), 350hp/420Нм, секвентальная 6-ст. Xtrac, FWD. База — кузов серийного 03.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:30.727Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:57:30.728Z"
+}

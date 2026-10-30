@@ -1,0 +1,20 @@
+{
+  "id": "sync-camaro-sedan",
+  "slug": "camaro-sedan",
+  "name": "Chevrolet Camaro Sedan",
+  "fullName": "Chevrolet Camaro Sedan (2029)",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 2029,
+  "isActive": true,
+  "description": "По данным источников GM Authority (авг. 2026): первый в истории 4-дверный Camaro, перенесён на 2029 модельный год. Платформа — обновлённая Alpha 2 (задний привод, также под будущие седаны Cadillac/Buick), с V8 и опцией МКПП. Сборка — завод Lansing Grand River (тот же, что собирал 6-е поколение). По сути духовный преемник Holden Commodore SS. Официальные цифры мощности пока не раскрыты.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:10:58.856Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/3840px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/3840px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:10:58.856Z"
+}

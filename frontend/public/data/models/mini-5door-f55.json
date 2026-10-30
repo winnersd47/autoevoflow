@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-5door-f55",
+  "slug": "mini-5door-f55",
+  "name": "Mini 5-Door F55",
+  "fullName": "Mini 5-Door F55 (2014)",
+  "brandId": "mini",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "5-door hatch on F56 platform. Larger rear doors, practical family MINI. 1.5L Cooper 136 HP.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:12:12.351Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:12:12.351Z"
+}

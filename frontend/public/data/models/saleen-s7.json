@@ -1,0 +1,20 @@
+{
+  "id": "sync-saleen-s7",
+  "slug": "saleen-s7",
+  "name": "S7",
+  "fullName": "S7",
+  "brandId": "saleen",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:55:23.949Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Saleen_S7_%288228619567%29.jpg/3840px-Saleen_S7_%288228619567%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Saleen_S7_%288228619567%29.jpg/3840px-Saleen_S7_%288228619567%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:55:23.949Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-963",
+  "slug": "porsche-963",
+  "name": "Porsche 963",
+  "fullName": "Porsche 963",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "track",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Текущий прототип LMDh (совместно с Penske). 4.6L твин-турбо V8 + гибрид = 680PS/671hp суммарно. Победа в дебютный сезон на 24 часах Дайтоны 2023.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:19.712Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:12:19.712Z"
+}

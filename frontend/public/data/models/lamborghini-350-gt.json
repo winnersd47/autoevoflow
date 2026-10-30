@@ -12,8 +12,8 @@
   "isActive": false,
   "description": "The Lamborghini 350 GT (1964–1968) was Ferruccio Lamborghini's first production car — his answer to Enzo Ferrari after being dismissed as a tractor maker. With a 3.5-litre V12 by ex-Ferrari engineer Giotto Bizzarrini and coachwork by Touring of Milan, it immediately established that a new Italian supercar rival had arrived.",
   "generationCount": 2,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "coupe",
     "lamborghini",
@@ -23,7 +23,7 @@
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:25:23.246Z",
   "generations": [
     {
       "id": "gen-lamborghini-350-gt-1",

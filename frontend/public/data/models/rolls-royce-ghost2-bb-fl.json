@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-ghost2-bb-fl",
+  "slug": "rolls-royce-ghost2-bb-fl",
+  "name": "Rolls-Royce Black Badge Ghost Series II",
+  "fullName": "Rolls-Royce Black Badge Ghost Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Обновлённая Black Badge версия Ghost Series II, представлена вместе с базовым рестайлингом (лето-осень 2024, продажи как модель 2025 года). Мощность выросла до 592 л.с. (было 591 у Ghost Black Badge 2021), крутящий момент 664 фунт-фут. Внешне — тёмная отделка, новые колёсные диски. Источники: motoringresearch.com, evoindia.com, dailyrevs.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:30:46.181Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:30:46.182Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-45-concept",
+  "slug": "hyundai-45-concept",
+  "name": "Hyundai 45 Concept",
+  "fullName": "Hyundai 45 Concept (2019)",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "ev",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:17:59.104Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2010_Hyundai_Genesis_Coupe_3_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2010_Hyundai_Genesis_Coupe_3_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:17:59.104Z"
+}

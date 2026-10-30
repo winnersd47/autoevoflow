@@ -1,0 +1,20 @@
+{
+  "id": "sync-hiphi-y",
+  "slug": "hiphi-y",
+  "name": "HiPhi Y",
+  "fullName": "HiPhi Y",
+  "brandId": "hiphi",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:52:37.351Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2021_HiPhi_X.jpg/3840px-2021_HiPhi_X.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2021_HiPhi_X.jpg/3840px-2021_HiPhi_X.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:52:37.351Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-gaz-volga-c40",
+  "slug": "gaz-volga-c40",
+  "name": "Volga C40",
+  "fullName": "Volga C40",
+  "brandId": "gaz",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Возрождение бренда Волга; платформа Changan Raeton Plus; произв. Нижний Новгород",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:23:24.422Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/GAZ-31_%22Volga%22_in_Minsk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/GAZ-31_%22Volga%22_in_Minsk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:23:24.422Z"
+}

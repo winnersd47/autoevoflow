@@ -1,0 +1,20 @@
+{
+  "id": "sync-jaguar-xk",
+  "slug": "jaguar-xk",
+  "name": "Jaguar XKR-S",
+  "fullName": "Jaguar XKR-S",
+  "brandId": "jaguar",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1948,
+  "isActive": true,
+  "description": "5.0L supercharged, 550 л.с. — трек-ориентированный финальный флагман X150 перед снятием XK в 2014-м.",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:10:57.343Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2014_Jaguar_XKR_%28X150_MY15%29_coupe_%282015-09-12%29_01.jpg/3840px-2014_Jaguar_XKR_%28X150_MY15%29_coupe_%282015-09-12%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2014_Jaguar_XKR_%28X150_MY15%29_coupe_%282015-09-12%29_01.jpg/3840px-2014_Jaguar_XKR_%28X150_MY15%29_coupe_%282015-09-12%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:10:57.343Z"
+}

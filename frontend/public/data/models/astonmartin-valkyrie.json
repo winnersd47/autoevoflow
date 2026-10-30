@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-valkyrie",
+  "slug": "astonmartin-valkyrie",
+  "name": "Aston Martin Valkyrie LM",
+  "fullName": "Aston Martin Valkyrie LM",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Клиентская трек-only машина на базе гоночного прототипа AMR-LMH (не участвует в чемпионатах, аналог MC12 Versione Corse у Maserati) — reveal июнь 2025, поставки с 2026-го. 697bhp, тот же безнаддувный 6.5Л V12. 10 экземпляров.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:36:56.826Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg/3840px-Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg/3840px-Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:36:56.826Z"
+}

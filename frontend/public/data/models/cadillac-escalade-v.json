@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-escalade-v",
+  "slug": "cadillac-escalade-v",
+  "name": "Cadillac Escalade-V",
+  "fullName": "Cadillac Escalade-V",
+  "brandId": "cadillac",
+  "bodyType": "suv",
+  "segment": "luxury_performance",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Первая по-настоящему мощная performance-версия Escalade (анонс 2022г., продажи с 2023г.) — наддувный 6.2L V8 с увеличенным нагнетателем R2650 (2.65L, той же компрессорной философии, что и LT4 в CT5-V Blackwing), 682hp/653 lb-ft — самый мощный серийный Cadillac на момент выхода (не считая гоночный V-Series.R). Только AWD, разгон 0-96 км/ч за 4.4с даже в удлинённой версии ESV. Цена от $149,990. Источник: motor1.com, gmauthority.com, foxnews.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:02:26.051Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:02:26.051Z"
+}

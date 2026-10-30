@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-quattroporte-iv",
+  "slug": "maserati-quattroporte-iv",
+  "name": "Maserati Quattroporte IV",
+  "fullName": "Maserati Quattroporte IV",
+  "brandId": "maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "Первое поколение QP под контролем Fiat, дизайн Марчелло Гандини на удлинённой платформе Biturbo. Базовый мотор — 2.8Л твин-турбо V6, 284hp (экспортная версия); для итальянского рынка (налоговая политика) существовали форсированные 2.0Л версии той же V6-архитектуры (до 300+hp). Компактный седан с характеристиками GT — топ 161mph, разгон до 60 меньше 6с. Производился 1994-2001.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:36:58.939Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:36:58.939Z"
+}

@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "The New Beetle (1997-2011) was Volkswagen's retro revival, built on the Golf platform. The opposite of everything the original stood for technically, and enormously commercially successful.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/2002_Volkswagen_New_Beetle_%289C_MY02.5%29_2.0_coupe_%282010-10-01%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/2002_Volkswagen_New_Beetle_%289C_MY02.5%29_2.0_coupe_%282010-10-01%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "hatchback",
     "volkswagen"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:27:47.529Z",
   "generations": [
     {
       "id": "gen-vw-new-beetle-1",

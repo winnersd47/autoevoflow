@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-s2",
+  "slug": "bentley-s2",
+  "name": "S2",
+  "fullName": "S2",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1959,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:46:47.806Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/1961_Bentley_S2_6.2.jpg/3840px-1961_Bentley_S2_6.2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/1961_Bentley_S2_6.2.jpg/3840px-1961_Bentley_S2_6.2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:46:47.806Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-rainier",
+  "slug": "buick-rainier",
+  "name": "Buick Rainier",
+  "fullName": "Buick Rainier",
+  "brandId": "buick",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Топ-версия — 5.3L V8, 290hp/325lb-ft (база — 4.2L I6, 275hp). Самое \"люксовое\" позиционирование в семье GMT360 после Saab.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:02:35.455Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Buick_Rainier_--_04-05-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Buick_Rainier_--_04-05-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:02:35.455Z"
+}

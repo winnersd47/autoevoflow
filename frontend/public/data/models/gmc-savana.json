@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-savana",
+  "slug": "gmc-savana",
+  "name": "GMC Savana",
+  "fullName": "GMC Savana",
+  "brandId": "gmc",
+  "bodyType": "van",
+  "segment": "van",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Полноразмерный грузовой/пассажирский фургон, пришёл на смену GMC Vandura в 1996г. (платформенный близнец Chevrolet Express — ни Express, ни Astro-класс фургонов пока не представлены в графе, поэтому cross-brand рёбер не добавляем). Формально одно поколение всю жизнь (рестайлинг 2003г. — смена GMT600 на GMT610, затем мелкие апдейты), жив по сей день. Топовый мотор текущей (2024) линейки — 6.6L V8 L8T, 401hp/464 lb-ft; грузовые фургоны ограничены 4.3L V6. Источники: carsdirect.com/gmc/savana/2024/specs, gmauthority.com/blog/2023/08/2024-gmc-savana-pricing-uncovered, wikipedia (GM GMT600/610 platform). ДОБАВЛЕНО: Savana отсутствовала в графе (минимальная глубина — один узел на обычную линейку).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:14:01.415Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg/3840px-2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg/3840px-2021_Chevrolet_Express_2500_WT_Cargo_in_Summit_White%2C_Front_Left%2C_05-22-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:14:01.415Z"
+}

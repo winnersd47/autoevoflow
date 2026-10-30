@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-envision-2",
+  "slug": "buick-envision-2",
+  "name": "Buick Envision Gen.2",
+  "fullName": "Buick Envision Gen.2",
+  "brandId": "buick",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Новое поколение (анонс май 2020г., в продаже с начала 2021г.), платформа общая с Cadillac XT4. Единственный мотор — 2.0L turbo I4 (LSY), 228hp/258 фунт-фут — настроен мягче предшественника ради плавности хода (не ошибка данных: другая калибровка того же семейства Ecotec, компромисс в пользу NVH). Avenir впервые доступен на Envision с этого поколения. Источник: carbuzz.com (2021 Buick Envision Avenir).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:27.179Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg/3840px-2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg/3840px-2022_Buick_Envision_Preferred_in_Summit_White%2C_Front_Left%2C_12-25-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:27.179Z"
+}

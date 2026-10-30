@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-scoupe",
+  "slug": "hyundai-scoupe",
+  "name": "Hyundai Scoupe",
+  "fullName": "Hyundai Scoupe",
+  "brandId": "hyundai",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "Первое дорожное купе Hyundai, на платформе Excel/Pony, февр. 1990 — 1995 (завод Ulsan). Мотор Mitsubishi Orion 1.5L SOHC, 86 л.с. (опорное значение узла); существовала и редкая турбоверсия LSi (Mitsubishi 4G61T, только Корея/Мексика, ~115 л.с.). Предшественник линейки Tiburon — культовая ранняя модель, упомянута в задании отдельно (наряду с Tiburon и Genesis Coupe).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:51:23.067Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/1991_Hyundai_Scoupe_1.5i_GTX_Automatic_002_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/1991_Hyundai_Scoupe_1.5i_GTX_Automatic_002_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:51:23.067Z"
+}

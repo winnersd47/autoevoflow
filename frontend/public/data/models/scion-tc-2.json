@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-tc-2",
+  "slug": "scion-tc-2",
+  "name": "Scion tC Gen.2",
+  "fullName": "Scion tC Gen.2 (2010)",
+  "brandId": "scion",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "2.5L Camry-derived 180 HP. 6-speed manual. Panel-roof option. Sportier than Gen.1 with refined dynamics.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:17:58.364Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/2011_Scion_tC_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/2011_Scion_tC_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:17:58.364Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-skylark-2",
+  "slug": "buick-skylark-2",
+  "name": "Buick Skylark Gran Sport",
+  "fullName": "Buick Skylark Gran Sport",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1964,
+  "isActive": true,
+  "description": "Новая промежуточная платформа A-body (замена \"сеньорского компакта\" Gen.1). В 1965г. добавлен пакет Gran Sport (GS) — топ-перформанс опция: Nailhead 401cid V8 (маркетинговое название \"400\"), 325hp/445 фунт-фут. Источник: musclecarclub.com (Buick GS history).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:11:43.509Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Buick_Skyhawk_4-door_white.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Buick_Skyhawk_4-door_white.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:11:43.509Z"
+}

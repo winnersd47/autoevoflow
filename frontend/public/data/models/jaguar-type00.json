@@ -1,0 +1,20 @@
+{
+  "id": "sync-jaguar-type00",
+  "slug": "jaguar-type00",
+  "name": "Jaguar Type 00 Concept",
+  "fullName": "Jaguar Type 00 Concept",
+  "brandId": "jaguar",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Ноябрь 2024: Jaguar объявил о свёртывании ВСЕГО текущего модельного ряда ради перезапуска как чисто электрический люкс-бренд с 2026-го (\"Copy Nothing\"). Type 00 — первый концепт нового направления, заявлено 430 миль запаса хода и 1000 л.с.; серийный 4-дверный GT ожидается в 2026-м.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:38:11.723Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg/3840px-2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg/3840px-2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:38:11.723Z"
+}

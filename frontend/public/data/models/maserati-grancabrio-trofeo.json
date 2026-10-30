@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-grancabrio-trofeo",
+  "slug": "maserati-grancabrio-trofeo",
+  "name": "Maserati GranCabrio Mk2 Trofeo",
+  "fullName": "Maserati GranCabrio Mk2 Trofeo",
+  "brandId": "maserati",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "GranCabrio вернулся в 2024-м СРАЗУ в трим-версии Trofeo (3.0Т V6 Nettuno, 542hp) — единственный доступный на старте продаж вариант, остальные тримы (включая Folgore) подключились позже.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:45:20.272Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:45:20.272Z"
+}

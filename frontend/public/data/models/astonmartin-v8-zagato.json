@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-v8-zagato",
+  "slug": "astonmartin-v8-zagato",
+  "name": "Aston Martin V8 Zagato",
+  "fullName": "Aston Martin V8 Zagato",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "На базе классического \"Aston Martin V8\" (1972-89, сам по себе отсутствует в графе — отдельная историческая дыра эры DBS V8/Virage). Cutch-кузов Zagato, 5.3Л V8 (4 распредвала), 432hp, до 300 км/ч — самый быстрый серийный Aston Martin своего времени. Coupe + открытая Volante.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:47:43.484Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/1974_Aston_Martin_V8_Vantage.jpg/3840px-1974_Aston_Martin_V8_Vantage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/1974_Aston_Martin_V8_Vantage.jpg/3840px-1974_Aston_Martin_V8_Vantage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:47:43.484Z"
+}

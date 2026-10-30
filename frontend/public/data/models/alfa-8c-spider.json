@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-8c-spider",
+  "slug": "alfa-8c-spider",
+  "name": "Alfa Romeo 8C Spider",
+  "fullName": "Alfa Romeo 8C Spider",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Открытая версия 8C Competizione — тот же 4.7L V8, 450PS, 6-ст. полуавтомат, 0-100 за 4.4с, 290км/ч. Планировался тираж 500 экз., но из-за мирового финансового кризиса построено только 329.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:08:44.840Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/AR8C-Competizione.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/AR8C-Competizione.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:08:44.840Z"
+}

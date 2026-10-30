@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-spectre-bb",
+  "slug": "rolls-royce-spectre-bb",
+  "name": "Rolls-Royce Spectre Black Badge",
+  "fullName": "Rolls-Royce Spectre Black Badge",
+  "brandId": "rolls-royce",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Первый электрический Black Badge в истории Rolls-Royce, представлен в феврале 2025, в продаже с середины 2025 года. Мощность увеличена до 485 кВт / 650 л.с. (SAE) и 1075 Нм (+128 фунт-фут к базовой Spectre), разгон 0-100 км/ч за 4.1с при собственной массе более 2950 кг. Новые режимы Infinity Mode (полная мощность) и Spirited Mode (launch control), перенастроены рулевое управление, активные стабилизаторы и амортизаторы; запас хода не изменился. Источники: carscoops.com, edmunds.com, automobile-catalog.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:29:36.447Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg/3840px-2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg/3840px-2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:29:36.447Z"
+}

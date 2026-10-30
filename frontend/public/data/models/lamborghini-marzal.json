@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-marzal",
+  "slug": "lamborghini-marzal",
+  "name": "Lamborghini Marzal",
+  "fullName": "Lamborghini Marzal",
+  "brandId": "lamborghini",
+  "bodyType": "concept",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Концепт Bertone (Марчелло Гандини) — Женева, март 1967. Двери-ножницы (первые у Bertone/Lamborghini), 2.0Л I6 — буквально половина V12 от Miura (тот же ход/диаметр поршня, инж. Джампаоло Дальяра), задний поперечный, 175hp. Использовался как пейс-кар на Гран-при Монако 1967 (Ренье III и Грейс Келли). Повлиял на Espada СТИЛИСТИЧЕСКИ (стеклянная теплица, низкая линия крыши) — НЕ прямая инженерная эволюция, у Espada иная компоновка (передний V12).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:47:49.869Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Lamborghini_Marzal%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1407%29_%28cropped%29.jpg/3840px-Lamborghini_Marzal%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1407%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Lamborghini_Marzal%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1407%29_%28cropped%29.jpg/3840px-Lamborghini_Marzal%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1407%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:47:49.869Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-electra-4",
+  "slug": "buick-electra-4",
+  "name": "Buick Electra Gen.4",
+  "fullName": "Buick Electra Gen.4",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "455cid V8, 315hp (SAE gross, 1971); к 1973г. из-за перехода на net-рейтинг и норм выбросов мощность указывалась уже как 225hp (net). Источник: carbuzz.com (Buick Electra 225 history).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:36.254Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg/3840px-2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg/3840px-2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:06:36.254Z"
+}

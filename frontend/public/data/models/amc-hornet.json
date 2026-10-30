@@ -1,0 +1,20 @@
+{
+  "id": "sync-amc-hornet",
+  "slug": "amc-hornet",
+  "name": "Hornet SC/360",
+  "fullName": "Hornet SC/360",
+  "brandId": "amc",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "AMC \"Super Car\" 360; 245–285 л.с.; мускул-вариант Hornet; конкурент Camaro SS и Mustang Mach 1",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:53:11.015Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/1976_AMC_Hornet_Sportabout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/1976_AMC_Hornet_Sportabout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:53:11.015Z"
+}

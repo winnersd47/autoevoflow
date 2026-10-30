@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-continental-4",
+  "slug": "lincoln-continental-4",
+  "name": "Lincoln Continental",
+  "fullName": "Lincoln Continental",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "full_size_luxury",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "Смена платформы на униборди FN9 и первый в истории Lincoln переднеприводный автомобиль (дебют декабрь 1987г., MY1988) — поперечный 3.8L V6, известен также пневмоподвеской. Мощность росла по годам: 140 л.с. (1988) → 155 л.с. → 160 л.с. (к 1994г., финальная калибровка Signature Series) — в узле пиковое значение поколения. V8 в этом поколении не предлагался (появился только в следующем, 1995г.). Источники: Wikipedia/autoevolution (1988 Lincoln Continental), Autocade (Lincoln Continental 1988-94), Ford DN5/FN platform.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:04:58.523Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:04:58.523Z"
+}

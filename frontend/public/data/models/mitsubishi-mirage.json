@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-mirage",
+  "slug": "mitsubishi-mirage",
+  "name": "Mitsubishi Mirage",
+  "fullName": "Mitsubishi Mirage",
+  "brandId": "mitsubishi",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Возрождение имени Mirage в 2012г. — глобальный субкомпакт для развивающихся рынков (завод в Таиланде), в Европе часть лет продавался как 'Space Star' (не дублируем отдельной нодой — тот же автомобиль). 3-цилиндровый атмосферный 1.2 3A92 DOHC MIVEC — 76-80 л.с. в зависимости от рынка/года (используем среднее ~78), один из самых слабых моторов среди современных серийных автомобилей. Источники: автоevolution.com, auto-data.net, wheel-size.com (платформа A0/A03A).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:14:52.428Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2021_Mitsubishi_Mirage_Carbonite_Edition_in_White_Diamond%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2021_Mitsubishi_Mirage_Carbonite_Edition_in_White_Diamond%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:14:52.428Z"
+}

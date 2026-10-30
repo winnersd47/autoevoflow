@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id-buzz-lwb",
+  "slug": "volkswagen-id-buzz-lwb",
+  "name": "ID. Buzz LWB",
+  "fullName": "ID. Buzz LWB",
+  "brandId": "volkswagen",
+  "bodyType": "mpv",
+  "segment": "mpv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:21:36.784Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_ID._Buzz_1X7A6263.jpg/3840px-Volkswagen_ID._Buzz_1X7A6263.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_ID._Buzz_1X7A6263.jpg/3840px-Volkswagen_ID._Buzz_1X7A6263.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:21:36.784Z"
+}

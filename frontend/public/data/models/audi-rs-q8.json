@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi RS Q8 (2019–present) is the performance flagship of the SUV range — a 600 hp twin-turbocharged 4.0-litre V8 in an SUV body. It shares its MLB Evo platform with the Lamborghini Urus and the Porsche Cayenne Turbo GT. The RS Q8 Nürburgring lap record (7:42) made it the fastest SUV at the circuit.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/3840px-Audi_A3_8Y_Sedan_IMG_5936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/3840px-Audi_A3_8Y_Sedan_IMG_5936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "suv",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:43:55.877Z",
   "generations": [
     {
       "id": "gen-audi-rs-q8-1",

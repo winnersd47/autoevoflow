@@ -1,0 +1,20 @@
+{
+  "id": "sync-ds-7-crossback",
+  "slug": "ds-7-crossback",
+  "name": "DS 7 Crossback",
+  "fullName": "DS 7 Crossback",
+  "brandId": "ds",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Флагманский SUV бренда DS Automobiles — первая модель без исторического Citroën-предка под тем же именем, фактически приняла на себя роль флагмана после ухода DS5 с рынка. PureTech 225 (222hp), также E-Tense 4x4 PHEV 300hp. Источник: ultimatespecs.com, wikipedia DS 7.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:23:50.885Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DSV_Bakunawa_descending_underwater_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DSV_Bakunawa_descending_underwater_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:23:50.885Z"
+}

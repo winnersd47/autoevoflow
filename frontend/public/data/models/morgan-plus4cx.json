@@ -1,0 +1,20 @@
+{
+  "id": "sync-morgan-plus4cx",
+  "slug": "morgan-plus4cx",
+  "name": "Plus Four",
+  "fullName": "Plus Four",
+  "brandId": "morgan",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:50:37.957Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/2021_Morgan_Plus4_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/2021_Morgan_Plus4_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:50:37.957Z"
+}

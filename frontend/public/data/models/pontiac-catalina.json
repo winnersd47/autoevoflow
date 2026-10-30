@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-catalina",
+  "slug": "pontiac-catalina",
+  "name": "Pontiac Catalina",
+  "fullName": "Pontiac Catalina",
+  "brandId": "pontiac",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1959,
+  "isActive": true,
+  "description": "Более доступный full-size, чем Bonneville; \"Wide-Track\" маркетинг определил дизайн Pontiac на десятилетие.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:35:47.896Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Pontiac_Catalina_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Pontiac_Catalina_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:35:47.896Z"
+}

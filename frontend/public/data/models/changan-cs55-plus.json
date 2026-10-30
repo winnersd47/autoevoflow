@@ -1,0 +1,20 @@
+{
+  "id": "sync-changan-cs55-plus",
+  "slug": "changan-cs55-plus",
+  "name": "Changan CS55 Plus",
+  "fullName": "Changan CS55 Plus",
+  "brandId": "changan",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:24:31.725Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Changan_CS35_Plus_facelift_003.jpg/3840px-Changan_CS35_Plus_facelift_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Changan_CS35_Plus_facelift_003.jpg/3840px-Changan_CS35_Plus_facelift_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:24:31.725Z"
+}

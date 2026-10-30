@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-v40-3",
+  "slug": "volvo-v40-3",
+  "name": "Volvo V40 (Gen3)",
+  "fullName": "Volvo V40 (Gen3)",
+  "brandId": "volvo",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "Третье поколение — только хэтчбек (седан S40 снят с производства), полностью новый дизайн на доработанной платформе-наследнице Ford C1. Топ-версия на старте продаж — V40 T5 (2.5 турбо I5, передний привод, R-Design) — 254 л.с./265 lb-ft, 0-100 за 6.1с. Источник: auto-data.net (Volvo V40 (2012) 2.5 T5 254Hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:59:58.018Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Volvo_V40_D3_Summum_Designpaket_%28II%29_%E2%80%93_Frontansicht%2C_17._September_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Volvo_V40_D3_Summum_Designpaket_%28II%29_%E2%80%93_Frontansicht%2C_17._September_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:59:58.018Z"
+}

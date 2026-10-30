@@ -1,0 +1,20 @@
+{
+  "id": "sync-tank-300",
+  "slug": "tank-300",
+  "name": "Tank 300",
+  "fullName": "Tank 300",
+  "brandId": "haval",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Great Wall Tank суббренд; рамный городской внедорожник; культовый дизайн",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:31:39.636Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_Great_Wall_Haval_Jolion_%28front%29.jpg/3840px-2020_Great_Wall_Haval_Jolion_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2020_Great_Wall_Haval_Jolion_%28front%29.jpg/3840px-2020_Great_Wall_Haval_Jolion_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:31:39.636Z"
+}

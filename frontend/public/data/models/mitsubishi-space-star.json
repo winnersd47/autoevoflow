@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-space-star",
+  "slug": "mitsubishi-space-star",
+  "name": "Mitsubishi Space Star",
+  "fullName": "Mitsubishi Space Star",
+  "brandId": "mitsubishi",
+  "bodyType": "minivan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "Компактный мини-минивэн (1998-2004), платформенно близок к Carisma (NedCar, DA/DG — общие узлы). Топ-мотор — атмосферный 1.8 GDI, 120 л.с. Имя 'Space Star' позже (с 2012г.) переиспользовано как европейский бейдж глобального Mirage — это другой, несвязанный автомобиль, отдельную ноду не создаём (см. mit-mirage-2012). Источники: auto-abc.eu, ultimatespecs.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:58:47.274Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mitsubishi_Delica_D5_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mitsubishi_Delica_D5_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:58:47.274Z"
+}

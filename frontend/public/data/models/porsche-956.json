@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-956",
+  "slug": "porsche-956",
+  "name": "Porsche 956",
+  "fullName": "Porsche 956",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "track",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "2.65L твин-турбо flat-6 (развитие мотора 936), ~620 л.с. 1-2-3 на дебютном Ле-Мане 1982, затем победы 1983-85. Один из самых успешных прототипов группы C.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:15.064Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:12:15.064Z"
+}

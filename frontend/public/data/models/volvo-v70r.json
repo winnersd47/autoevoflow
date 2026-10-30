@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-v70r",
+  "slug": "volvo-v70r",
+  "name": "Volvo V70 R",
+  "fullName": "Volvo V70 R",
+  "brandId": "volvo",
+  "bodyType": "estate",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Высокопроизводительная версия V70 Gen2 — анонсирована в январе 2003г. на автошоу в Лос-Анджелесе одновременно с S60 R (модельный год 2004). Мотор 2.5 турбо I5 (B5254T3) — 300 л.с./295 lb-ft, полный привод Haldex, уникальная адаптивная подвеска Four-C (первая в мире серийная система непрерывно регулируемых амортизаторов), тормоза Brembo. Источники: Volvo Car USA newsroom (пресс-релиз \"2004 Volvo S60 R and V70 R\"), Wikipedia (Volvo R).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:00:04.662Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/3rd_Volvo_V70_--_09-18-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/3rd_Volvo_V70_--_09-18-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:00:04.662Z"
+}

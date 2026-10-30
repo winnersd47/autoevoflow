@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-eqs-suv",
+  "slug": "mercedes-eqs-suv",
+  "name": "Mercedes-Benz EQS SUV X296",
+  "fullName": "Mercedes-Benz EQS SUV X296",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Электрический флагманский SUV, в продаже в США с конца 2022г. Платформа EVA2, общая с седаном EQS. EQS580 4MATIC — 536 л.с., батарея 107.8 кВтч, запас хода ок. 600км (WLTP), опционально 7 мест.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:42:57.282Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mercedes-Benz_X294_IMG_8682.jpg/3840px-Mercedes-Benz_X294_IMG_8682.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mercedes-Benz_X294_IMG_8682.jpg/3840px-Mercedes-Benz_X294_IMG_8682.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:42:57.282Z"
+}

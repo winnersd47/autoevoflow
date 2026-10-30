@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-rs500",
+  "slug": "ford-focus-rs500",
+  "name": "Ford Focus RS500",
+  "fullName": "Ford Focus RS500",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Лимитированная версия RS Mk2 — больше интеркулер и воздухозаборник, толще выхлоп, перепрошивка ЭБУ. Всего 500 экз. в мире (101 — в Великобритании, разобраны за неделю по £33750).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:56:08.515Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/3840px-2018_Ford_Focus_ST-Line_X_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/3840px-2018_Ford_Focus_ST-Line_X_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:56:08.515Z"
+}

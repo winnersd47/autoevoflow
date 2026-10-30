@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-g80",
+  "slug": "genesis-g80",
+  "name": "G80 Gen.2",
+  "fullName": "G80 Gen.2",
+  "brandId": "genesis",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "2-е поколение, полностью новая платформа RG3 — Корея продажи с апр. 2020, США MY2021. Топ-мотор — 3.5L твин-турбо V6 Smartstream G3.5, 375hp/391 lb-ft (ранее узел ошибочно нёс hp=300 при engineType=i4t — это цифра базового 2.5T I4, классическая нестыковка мотор/мощность). Рестайлинг RG3 (2024, MY2025 — новая оптика/бамперы/воздухозаборники) не менял мощность топ-двигателя массовой линейки; на этом обновлённом кузове отдельно дебютировал флагман G80 Magma (см. gen-g80-magma). Источники: ultimatespecs.com 'Genesis G80 2021 3.5T AWD' (380PS/375hp, мотор Hyundai Smartstream G 3.5), genesisofsouthwesthouston.com specs, motorious.com 'Genesis G80 Undergoes Facelift'.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:53:15.762Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Genesis_G80_IAA_2021_1X7A0229.jpg/3840px-Genesis_G80_IAA_2021_1X7A0229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Genesis_G80_IAA_2021_1X7A0229.jpg/3840px-Genesis_G80_IAA_2021_1X7A0229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:53:15.762Z"
+}

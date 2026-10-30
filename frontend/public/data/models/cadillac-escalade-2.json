@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-escalade-2",
+  "slug": "cadillac-escalade-2",
+  "name": "Cadillac Escalade",
+  "fullName": "Cadillac Escalade",
+  "brandId": "cadillac",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Второе поколение (2002-2006, GMT800, платформа общая с Chevrolet Tahoe/GMC Yukon Denali) — первый Escalade на собственном кузове Cadillac, а не прямая копия Yukon Denali. Два мотора: база RWD 5.3L V8 285hp, топовый 4WD 6.0L V8 (Vortec 6000) 345hp/380 lb-ft — в узле указан топовый. С 2003г. StabiliTrak и HID-фары на всех комплектациях. Источник: jdpower.com, autoevolution.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:02:22.915Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:02:22.915Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-gallardo-lp550-2-valentino-balboni",
+  "slug": "lamborghini-gallardo-lp550-2-valentino-balboni",
+  "name": "Lamborghini Gallardo LP550-2 Valentino Balboni",
+  "fullName": "Lamborghini Gallardo LP550-2 Valentino Balboni",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "2009 — первый заднеприводный (RWD, отсюда \"-2\") серийный Gallardo, назван в честь легендарного тест-пилота Lamborghini Валентино Бальбони. 550hp, лимит 250 экз. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:23:26.439Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:23:26.439Z"
+}

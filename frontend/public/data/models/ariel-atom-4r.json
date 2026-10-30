@@ -1,0 +1,20 @@
+{
+  "id": "sync-ariel-atom-4r",
+  "slug": "ariel-atom-4r",
+  "name": "Ariel Atom 4R",
+  "fullName": "Ariel Atom 4R",
+  "brandId": "ariel",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Track-focused Atom 4. Turbocharged 2.0L, 500 HP. Active aerodynamics, motorsport ABS/TC. 0-60 in 2.4s. 50 units/year.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:03:34.435Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:03:34.435Z"
+}

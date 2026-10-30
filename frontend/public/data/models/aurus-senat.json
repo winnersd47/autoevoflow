@@ -1,0 +1,20 @@
+{
+  "id": "sync-aurus-senat",
+  "slug": "aurus-senat",
+  "name": "Aurus Senat",
+  "fullName": "Aurus Senat",
+  "brandId": "aurus",
+  "bodyType": "sedan",
+  "segment": "flagship",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:22:17.696Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aurus_Senat_Genf_2019_1Y7A5897.jpg/3840px-Aurus_Senat_Genf_2019_1Y7A5897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aurus_Senat_Genf_2019_1Y7A5897.jpg/3840px-Aurus_Senat_Genf_2019_1Y7A5897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:22:17.696Z"
+}

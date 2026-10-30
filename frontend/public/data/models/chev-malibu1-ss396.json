@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-malibu1-ss396",
+  "slug": "chev-malibu1-ss396",
+  "name": "Chevrolet Chevelle SS 396 (L78)",
+  "fullName": "Chevrolet Chevelle SS 396 (L78)",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1966,
+  "isActive": true,
+  "description": "Топ-версия L78 396ci V8 — 375hp/415lb-ft (базовый 396 — 325hp, средний L34 — 360hp). Один из культовых маслкаров эпохи наравне с Chevelle SS 454.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:01:22.785Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg/3840px-1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg/3840px-1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:01:22.785Z"
+}

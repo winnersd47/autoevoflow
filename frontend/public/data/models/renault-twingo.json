@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-twingo",
+  "slug": "renault-twingo",
+  "name": "Renault Twingo Gen.1",
+  "fullName": "Renault Twingo Gen.1",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "micro",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:45:25.606Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Renault_Twingo_Dynamique_%28III%29_%E2%80%93_Frontansicht%2C_24._Oktober_2015%2C_M%C3%BCnster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Renault_Twingo_Dynamique_%28III%29_%E2%80%93_Frontansicht%2C_24._Oktober_2015%2C_M%C3%BCnster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:45:25.606Z"
+}

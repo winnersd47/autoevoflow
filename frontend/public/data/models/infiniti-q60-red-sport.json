@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-q60-red-sport",
+  "slug": "infiniti-q60-red-sport",
+  "name": "Q60 Red Sport 400",
+  "fullName": "Q60 Red Sport 400",
+  "brandId": "infiniti",
+  "bodyType": "coupe",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:42:41.295Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg/3840px-2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg/3840px-2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:42:41.295Z"
+}

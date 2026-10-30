@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-2105",
+  "slug": "lada-2105",
+  "name": "ВАЗ-2105/2107",
+  "fullName": "ВАЗ-2105/2107",
+  "brandId": "lada",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "Рестайлинг \"классики\" (новая передняя/задняя оптика, торпедо) на платформе Fiat124/2101. 2105(1980) — замена базового 2101 (1.3-1.5л); 2107(1982) — замена 2103/2106 (изначально их же моторы 1.5/1.6л). Выпускались параллельно до 17.04.2012 (последний седан собран на ИжАвто). Полный диапазон модификаций 1.3-1.7л/64-90лс; указан распространённый трим 1.5-1.6л карбюратор ~75лс (экспортная \"Lada Riva\").",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:25:13.720Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lada-2107_Road_Police_2007_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Lada-2107_Road_Police_2007_G1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T20:25:13.720Z"
+}

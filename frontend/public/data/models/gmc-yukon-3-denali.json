@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-3-denali",
+  "slug": "gmc-yukon-3-denali",
+  "name": "GMC Yukon Denali",
+  "fullName": "GMC Yukon Denali",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "6.2L V8, 380 л.с. — самый мощный безнаддувный мотор линейки GMT900-Yukon, доступен только на Denali. Источник: carsforsale.com/car-reviews/gmc-yukon-overview (\"the Denali model featured 6.2-liter V8 engines generating 380 hp\").",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:31.542Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:31.542Z"
+}

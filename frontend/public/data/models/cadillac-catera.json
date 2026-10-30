@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-catera",
+  "slug": "cadillac-catera",
+  "name": "Cadillac Catera",
+  "fullName": "Cadillac Catera",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Единственное поколение (1997-2001) — ребейдж европейского Opel Omega B, производился в Рюссельсхайме (Германия), ~95,000 экз. Единственная заднеприводная модель Cadillac того времени и единственная без V8. Мотор — 3.0L V6 24V (GM 54° V6), 200hp/192 lb-ft, АКПП-4, 0-100 км/ч за 8.9с. Прозван прессой «Catera by Chevrolet» за спартанское для Cadillac оснащение; заменён в 2003г. на CTS (Sigma). Источник: autoevolution.com, Wikipedia (Cadillac Catera).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:02:28.004Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg/3840px-1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg/3840px-1997_Cadillac_Catera%2C_front_left%2C_12-11-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:02:28.004Z"
+}

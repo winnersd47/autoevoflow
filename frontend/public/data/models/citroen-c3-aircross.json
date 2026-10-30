@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-c3-aircross",
+  "slug": "citroen-c3-aircross",
+  "name": "C3 Aircross",
+  "fullName": "C3 Aircross",
+  "brandId": "citroen",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "B-segment crossover. 1.2 PureTech 110/130. Modular cabin, 17 personalization combos.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:41.249Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/3840px-Citroen_C4_%282020%29_1X7A5851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/3840px-Citroen_C4_%282020%29_1X7A5851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:10:41.249Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-tvr-grantura",
+  "slug": "tvr-grantura",
+  "name": "Grantura",
+  "fullName": "Grantura",
+  "brandId": "tvr",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1958,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:51:46.923Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TVR_Grantura_in_Morges_2012_-_Rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TVR_Grantura_in_Morges_2012_-_Rear.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T15:51:46.923Z"
+}

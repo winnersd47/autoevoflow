@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-phantom5",
+  "slug": "rolls-royce-phantom5",
+  "name": "Phantom V",
+  "fullName": "Phantom V",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1959,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:44:29.756Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rolls_Royce_Phantom_-_Flickr_-_Alexandre_Pr%C3%A9vot_%285%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rolls_Royce_Phantom_-_Flickr_-_Alexandre_Pr%C3%A9vot_%285%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:44:29.756Z"
+}

@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "Lexus LX — suv, produced since 2022.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/2018_Lexus_LX_570_%28facelift%29%2C_front_3.24.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/2018_Lexus_LX_570_%28facelift%29%2C_front_3.24.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "suv",
     "lexus"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:09:54.846Z",
   "generations": [
     {
       "id": "gen-lexus-lx-2022-0",

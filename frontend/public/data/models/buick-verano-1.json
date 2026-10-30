@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-verano-1",
+  "slug": "buick-verano-1",
+  "name": "Buick Verano Turbo",
+  "fullName": "Buick Verano Turbo",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "Единственное поколение — компактный седан на платформе Delta II (общей с Chevrolet Cruze и Opel Astra J). Базовый мотор — 2.4L атмосферный I4, 180hp; топ-трим Turbo (добавлен для 2013 м.г.) — 2.0L turbo Ecotec, 250hp/260 фунт-фут, опционально механика. Источник: gmauthority.com (2013 Buick Verano Turbo review).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:10:33.725Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Springfield_Motors_Buick_%28Springfield%2C_Oregon%29.jpg/3840px-Springfield_Motors_Buick_%28Springfield%2C_Oregon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Springfield_Motors_Buick_%28Springfield%2C_Oregon%29.jpg/3840px-Springfield_Motors_Buick_%28Springfield%2C_Oregon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:10:33.725Z"
+}

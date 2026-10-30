@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-3door",
+  "slug": "mini-3door",
+  "name": "Mini Cooper F66",
+  "fullName": "Mini Cooper F66 (2024)",
+  "brandId": "mini",
+  "bodyType": "hatchback",
+  "segment": "hot_hatch",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "ДВС-версия текущего поколения — платформа FAAR (рестайлинг F56), выпускается НАРОЧНО внешне неотличимой от электрического J01, чтобы покупатель выбирал только тип привода. Cooper C (база) 156hp 1.5 турбо-3; Cooper S 204hp 2.0 турбо-4; JCW 231hp/7-ст. DCT (последний ДВС John Cooper Works). Указана база.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:18:14.915Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:18:14.915Z"
+}

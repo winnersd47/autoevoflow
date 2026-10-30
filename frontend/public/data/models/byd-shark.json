@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-shark",
+  "slug": "byd-shark",
+  "name": "BYD Shark",
+  "fullName": "BYD Shark",
+  "brandId": "byd",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "436 л.с. суммарно (150 л.с. турбо-I4 1.5 как генератор + 231 л.с. передний мотор + 204 л.с. задний), 650 Нм, 0-100 за 5.7с; первый пикап BYD, платформа Super Hybrid DMO (Dual Mode Off-road); запас хода на электротяге 90км WLTP, общий 675км; старт продаж в Европе/UK — 2026 (модельный год 2027 по номенклатуре netcarshow), от £47290 в UK; источники: BYD UK Media, Electrek, Notebookcheck, Autocar (июль 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:53:51.003Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2025_BYD_Shark_6_front.jpg/3840px-2025_BYD_Shark_6_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2025_BYD_Shark_6_front.jpg/3840px-2025_BYD_Shark_6_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:53:51.003Z"
+}

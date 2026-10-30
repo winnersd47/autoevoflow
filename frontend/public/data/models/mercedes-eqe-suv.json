@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-eqe-suv",
+  "slug": "mercedes-eqe-suv",
+  "name": "Mercedes-Benz EQE SUV X294",
+  "fullName": "Mercedes-Benz EQE SUV X294",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Электрический SUV среднего класса, представлен в 2022г., в продаже с 2023г. — SUV-версия седана EQE. EQE500 4MATIC — 402 л.с., батарея 90.6 кВтч, запас хода ок. 279 миль (EPA).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:42:59.581Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mercedes-Benz_X294_IMG_8682.jpg/3840px-Mercedes-Benz_X294_IMG_8682.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mercedes-Benz_X294_IMG_8682.jpg/3840px-Mercedes-Benz_X294_IMG_8682.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:42:59.582Z"
+}

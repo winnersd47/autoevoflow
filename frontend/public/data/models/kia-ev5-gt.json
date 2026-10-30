@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev5-gt",
+  "slug": "kia-ev5-gt",
+  "name": "Kia EV5 GT",
+  "fullName": "Kia EV5 GT",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Производительная GT-версия кроссовера EV5, представлена на автосалоне в Брюсселе (янв. 2026). Передний мотор 208 л.с. + задний = 302 л.с. суммарно (AWD), 0-100 за 6.2с. Базовая линейка EV5 отдельным узлом в графе пока не отслеживается — узел добавлен без входящего ребра. В продаже в Европе, в США не поставляется.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:12.163Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:12:12.163Z"
+}

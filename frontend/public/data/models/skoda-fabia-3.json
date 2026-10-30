@@ -1,0 +1,20 @@
+{
+  "id": "sync-skoda-fabia-3",
+  "slug": "skoda-fabia-3",
+  "name": "Škoda Fabia Mk3",
+  "fullName": "Škoda Fabia Mk3 (2014)",
+  "brandId": "skoda",
+  "bodyType": "hatchback",
+  "segment": "city",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Платформа PQ26 (гибрид PQ25+MQB). Единственное поколение Fabia БЕЗ версии vRS — Škoda официально отменила её из-за продаж <1% (на фоне успеха Octavia vRS); вместо этого косметический пакет \"Monte Carlo\" разошёлся тиражом 20 000 шт. при плане 3000. Топ-мотор — 1.2 TSI 110hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:23:59.711Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/%C5%A0koda_Fabia_III_01_China_2015-04-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/%C5%A0koda_Fabia_III_01_China_2015-04-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T20:23:59.711Z"
+}

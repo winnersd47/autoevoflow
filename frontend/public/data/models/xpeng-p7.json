@@ -1,0 +1,20 @@
+{
+  "id": "sync-xpeng-p7",
+  "slug": "xpeng-p7",
+  "name": "Xpeng P7",
+  "fullName": "Xpeng P7",
+  "brandId": "xpeng",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Конкурент Tesla Model 3; XNGP автопилот; 706 km CLTC запас хода",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:32:53.187Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/XPeng_P7_II_MY2025_IMG03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/XPeng_P7_II_MY2025_IMG03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:32:53.187Z"
+}

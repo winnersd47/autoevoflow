@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-han",
+  "slug": "byd-han",
+  "name": "BYD Han EV",
+  "fullName": "BYD Han EV",
+  "brandId": "byd",
+  "bodyType": "sedan",
+  "segment": "flagship",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Флагман BYD; Blade-батарея; первый премиум-конкурент Tesla Model S от BYD",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:26:51.649Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2023_BYD_Han_DM-i_%28facelift%29%2C_front_8.17.23.jpg/3840px-2023_BYD_Han_DM-i_%28facelift%29%2C_front_8.17.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2023_BYD_Han_DM-i_%28facelift%29%2C_front_8.17.23.jpg/3840px-2023_BYD_Han_DM-i_%28facelift%29%2C_front_8.17.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:26:51.649Z"
+}

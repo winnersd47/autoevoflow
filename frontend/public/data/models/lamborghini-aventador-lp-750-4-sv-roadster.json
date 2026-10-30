@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-aventador-lp-750-4-sv-roadster",
+  "slug": "lamborghini-aventador-lp-750-4-sv-roadster",
+  "name": "Lamborghini Aventador LP750-4 SuperVeloce Roadster",
+  "fullName": "Lamborghini Aventador LP750-4 SuperVeloce Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Открытая версия SV — представлена вслед за купе в 2015, лимит 500 экз., идентичные 750hp 6.5Л V12. Источник: официальные пресс-материалы Lamborghini 2015.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:18:21.940Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:18:21.940Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-k9",
+  "slug": "kia-k9",
+  "name": "Kia K9 / K900 II (RJ)",
+  "fullName": "Kia K9 / K900 II (RJ)",
+  "brandId": "kia",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "2-е поколение. В Корее V6 3.8 (315hp), V6 3.3 twin-turbo (365hp) и V8 5.0; в США K900 — только 3.3TT 365hp (указан), V8 убран. Продажи в США свернуты после 2020 МГ. Источник: Wikipedia, KBB, MotorWeek.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:19:22.598Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kia_K9_RJ_PE_Aurora_Black_Pearl_%2857%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kia_K9_RJ_PE_Aurora_Black_Pearl_%2857%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:19:22.598Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-stratos",
+  "slug": "lancia-stratos",
+  "name": "Lancia Stratos HF Rally (Gruppo 4)",
+  "fullName": "Lancia Stratos HF Rally (Gruppo 4)",
+  "brandId": "lancia",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "Заводская гоночная версия (группа 4) — чемпион WRC производителей ТРИ ГОДА ПОДРЯД (1974, 1975, 1976). Тот же 2.4Л V6 Dino, что у дорожной Stradale (188hp), но форсирован до 280hp (были и турбо-эксперименты до 480hp). На 100кг легче дорожной версии.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:58:03.114Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/1974_Lancia_Stratos_Stradale_at_Greenwich_2021%2C_front_left.jpg/3840px-1974_Lancia_Stratos_Stradale_at_Greenwich_2021%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/1974_Lancia_Stratos_Stradale_at_Greenwich_2021%2C_front_left.jpg/3840px-1974_Lancia_Stratos_Stradale_at_Greenwich_2021%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:58:03.114Z"
+}

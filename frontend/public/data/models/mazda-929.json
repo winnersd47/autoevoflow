@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-929",
+  "slug": "mazda-929",
+  "name": "Mazda 929 HD",
+  "fullName": "Mazda 929 HD",
+  "brandId": "mazda",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1981,
+  "isActive": true,
+  "description": "Mazda 929 (HD), 5-е и финальное поколение, 1991-1995 (JDM — Mazda Sentia). Топ-мотор 3.0 V6 DOHC — 195 л.с. (193-196 л.с. в разных источниках). Снят с продаж в США в 1995г. без прямого преемника на этом рынке. Источник: Wikipedia (Mazda 929), automobile-catalog.com.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:27:22.242Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:27:22.242Z"
+}

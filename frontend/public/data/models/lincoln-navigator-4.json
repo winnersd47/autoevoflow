@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-navigator-4",
+  "slug": "lincoln-navigator-4",
+  "name": "Navigator",
+  "fullName": "Navigator",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "4-е поколение (2018-н.в.), алюминиевый кузов, платформа U553 (общая с Ford Expedition и F-150). Единственный мотор — 3.5L EcoBoost twin-turbo V6, топ-версия 450 л.с. Black Label — тот же силовой агрегат с 2018г., что и в Reserve, отличия только в отделке салона — отдельного узла не требует. Источник: autocade.net (Ford Expedition U553).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:59:47.846Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg/3840px-2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg/3840px-2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:59:47.846Z"
+}

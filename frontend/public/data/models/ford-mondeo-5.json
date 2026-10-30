@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mondeo-5",
+  "slug": "ford-mondeo-5",
+  "name": "Mondeo Mk5",
+  "fullName": "Mondeo Mk5",
+  "brandId": "ford",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:09:47.581Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/1994_Ford_Mondeo_LX_1.8_Front.jpg/3840px-1994_Ford_Mondeo_LX_1.8_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/1994_Ford_Mondeo_LX_1.8_Front.jpg/3840px-1994_Ford_Mondeo_LX_1.8_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:09:47.581Z"
+}

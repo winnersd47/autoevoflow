@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-cullinan",
+  "slug": "rolls-royce-cullinan",
+  "name": "Cullinan",
+  "fullName": "Cullinan",
+  "brandId": "rolls-royce",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:38:29.500Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Rolls-Royce_Cullinan_V12_Automatic_6.75_Front.jpg/3840px-2019_Rolls-Royce_Cullinan_V12_Automatic_6.75_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Rolls-Royce_Cullinan_V12_Automatic_6.75_Front.jpg/3840px-2019_Rolls-Royce_Cullinan_V12_Automatic_6.75_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:38:29.500Z"
+}

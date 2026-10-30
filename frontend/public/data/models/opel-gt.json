@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-gt",
+  "slug": "opel-gt",
+  "name": "Opel GT",
+  "fullName": "Opel GT (2007)",
+  "brandId": "opel",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:48:00.791Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Opel_GT%2C_Bj._1973_am_16.07.2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Opel_GT%2C_Bj._1973_am_16.07.2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:48:00.791Z"
+}

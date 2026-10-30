@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-riviera-8",
+  "slug": "buick-riviera-8",
+  "name": "Buick Riviera Gen.8",
+  "fullName": "Buick Riviera Gen.8",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "Увеличенный в размерах рестайл кузова, финальное поколение модели (снята с производства в 1999г.). Топ-мотор — supercharged 3800 Series II, 225hp в 1995г., с 1996г. — 240hp/280 фунт-фут. Источник: carbuzz.com, wikicars.org.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:16.538Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:05:16.538Z"
+}

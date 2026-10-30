@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-kadett",
+  "slug": "opel-kadett",
+  "name": "Kadett B",
+  "fullName": "Kadett B (1965)",
+  "brandId": "opel",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "Полный диапазон моторов 993-1897см³, 44-102hp (указан средний характерный трим ~75hp, как у соседних C/D). Кузова — седан/фастбек/купе/универсал (хэтчбек появится только с поколением C). Платформа — донор для Manta A (1970) — ребро с неё раньше ошибочно шло от уже снятой с производства в 1965г Kadett A.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:24:03.558Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Opel_Kadett_B_Westhausen_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Opel_Kadett_B_Westhausen_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:24:03.558Z"
+}

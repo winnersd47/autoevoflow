@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-impala-nascar",
+  "slug": "chev-impala-nascar",
+  "name": "Chevrolet Impala SS NASCAR (Car of Tomorrow)",
+  "fullName": "Chevrolet Impala SS NASCAR (Car of Tomorrow)",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Кузов NASCAR Nextel/Sprint Cup 2007-2012 (\"Car of Tomorrow\"). 358ci (5.9L) V8 GM HMS SB-2, 850hp. Выиграла чемпионат ВСЕ 5 лет использования: Джимми Джонсон (Hendrick Motorsports) — 2007-2010 подряд, Тони Стюарт — 2011. В дебютный 2007г. — 26 побед за 36-гоночный сезон, рекорд современной эры NASCAR. Сменена Chevrolet SS в 2013г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:00:09.474Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/3840px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/3840px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:00:09.474Z"
+}

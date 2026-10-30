@@ -1,0 +1,20 @@
+{
+  "id": "sync-gordon-murray-automotive-s1",
+  "slug": "gordon-murray-automotive-s1",
+  "name": "Gordon Murray Automotive S1",
+  "fullName": "Gordon Murray Automotive S1",
+  "brandId": "gordon-murray",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Первый заказной автомобиль GMSV (Gordon Murray Special Vehicles) — \"S1\" на базе флагманского T.50, \"LM\" — дань уважения McLaren F1 LM (детищу того же Гордона Мюррея).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:28:37.672Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2024_GMA_T.50_SCD24.jpg/3840px-2024_GMA_T.50_SCD24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2024_GMA_T.50_SCD24.jpg/3840px-2024_GMA_T.50_SCD24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:28:37.672Z"
+}

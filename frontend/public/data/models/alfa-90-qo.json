@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-90-qo",
+  "slug": "alfa-90-qo",
+  "name": "Alfa Romeo 90 Quadrifoglio Oro",
+  "fullName": "Alfa Romeo 90 Quadrifoglio Oro",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Топ-версия — 2.5 V6 Iniezione, 156PS/205км/ч. Тот же мотор, что и в Alfa 6/GTV6, впрыск вместо карбюраторов.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:08:43.127Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:08:43.127Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-phantom8-ewb-fl",
+  "slug": "rolls-royce-phantom8-ewb-fl",
+  "name": "Rolls-Royce Phantom Extended Series II",
+  "fullName": "Rolls-Royce Phantom Extended Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Удлинённая версия (Extended Wheelbase, +220мм) рестайлинга Phantom Series II, представлена одновременно со стандартной колёсной базой 12 мая 2022. Новая вертикальная решётка Pantheon с подсветкой, обновлённая передняя часть кузова, опциональные экраны для задних пассажиров. Мощность и крутящий момент без изменений (563 л.с., 6.75Л твин-турбо V12). Источники: encycarpedia.com, guideautoweb.com, press.rolls-roycemotorcars.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:29:39.987Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/3840px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/3840px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:29:39.987Z"
+}

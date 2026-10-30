@@ -1,0 +1,20 @@
+{
+  "id": "sync-tvr-griffith2",
+  "slug": "tvr-griffith2",
+  "name": "Griffith",
+  "fullName": "Griffith (2017)",
+  "brandId": "tvr",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:53:01.479Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TVR_Griffith_-_Flickr_-_mick_-_Lumix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TVR_Griffith_-_Flickr_-_mick_-_Lumix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:53:01.479Z"
+}

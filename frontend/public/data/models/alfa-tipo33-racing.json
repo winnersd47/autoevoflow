@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-tipo33-racing",
+  "slug": "alfa-tipo33-racing",
+  "name": "Alfa Romeo Tipo 33 (спортпрототипы, 1967-1977)",
+  "fullName": "Alfa Romeo Tipo 33 (спортпрототипы, 1967-1977)",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Гонщик появился ПЕРВЫМ (дебют на хилклаймбе Флерон, Бельгия, 12 марта 1967) — на 7 месяцев раньше дорожной \"33 Stradale\" (Парижский салон, окт. 1967), которая как раз ВЗЯЛА укороченное шасси гонщика (удлинено на ~100мм для дорожного использования, сталь вместо магния/алюминия, мощность снижена с 270 до 230hp). Эволюция: 33/2 (1968, V8 2.0L, 270hp, класс-победа в Дайтоне) → 33TT12 (1975, оппозитная \"12\", ~500hp, титул Чемпионата мира по производителям спорткаров) → 33SC12 (1976-77, 520hp атмо/640hp турбо, титул Кубка мира спортивных автомобилей 1977г. — Мерцарио/Жарье/Брамбилла выиграли ВСЕ этапы сезона).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:34.278Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1973_Alfa_Romeo_Tipo_33_TT_12_Goodwood%2C_2009_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1973_Alfa_Romeo_Tipo_33_TT_12_Goodwood%2C_2009_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:07:34.278Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-civic-type-r-tcr",
+  "slug": "honda-civic-type-r-tcr",
+  "name": "Honda Civic Type R TCR",
+  "fullName": "Honda Civic Type R TCR",
+  "brandId": "honda",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Соперник Lynk & Co 03 TCR в WTCR. K20C1 турбо I4, 340hp/420Нм, 6-ст. секвентальная Xtrac, 1265кг. Работал в WTCR через Münnich Motorsport. Дважды признан \"Model of the Year\" по версии TCR (2019, 2020). База — серийный Civic Type R FK8.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:32.576Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MMG_Civic_WGI25_03_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MMG_Civic_WGI25_03_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:57:32.576Z"
+}

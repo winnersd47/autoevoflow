@@ -1,0 +1,20 @@
+{
+  "id": "sync-camaro-ss",
+  "slug": "camaro-ss",
+  "name": "Camaro SS",
+  "fullName": "Camaro SS",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "muscle_car",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:02:55.203Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/3840px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/3840px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:02:55.203Z"
+}

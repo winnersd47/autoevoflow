@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-tucson",
+  "slug": "hyundai-tucson",
+  "name": "Hyundai Tucson NX5",
+  "fullName": "Hyundai Tucson NX5",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "5-е поколение, полностью раскрыто (не фейслифт) — заметно более угловатый силуэт, световые полосы на всю ширину спереди/сзади с фирменным Н-мотивом. Длиннее на 60мм, шире на 40мм, выше на 20мм. Новая мультимедиа Pleos (до 17\", как на Grandeur). Заявлены варианты N Line, полноценный N и внедорожный XRT Pro. Гибрид — первая версия в продаже, старт производства — осень 2026, старт продаж в Корее первой, остальной мир — в течение 2027.",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:16:43.885Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg/3840px-Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg/3840px-Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:16:43.885Z"
+}

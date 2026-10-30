@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-caravan-3",
+  "slug": "dodge-caravan-3",
+  "name": "Dodge Grand Caravan ES",
+  "fullName": "Dodge Grand Caravan ES",
+  "brandId": "dodge",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "3-е поколение (1996-2000), кузов NS, первые сдвижные двери с обеих сторон на LWB-версии; топ-трим ES с 3.8L V6, 180 л.с. Источники: iseecars.com, Wikipedia (доступ 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:54:09.277Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/1985_Voyager_LE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/1985_Voyager_LE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:54:09.277Z"
+}

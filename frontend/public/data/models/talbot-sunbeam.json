@@ -1,0 +1,20 @@
+{
+  "id": "sync-talbot-sunbeam",
+  "slug": "talbot-sunbeam",
+  "name": "Talbot Sunbeam-Lotus",
+  "fullName": "Talbot Sunbeam-Lotus",
+  "brandId": "talbot",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1981,
+  "isActive": true,
+  "description": "Чемпион WRC производителей 1981г. — последний титул перед революцией полного привода Audi Quattro. Мотор Lotus 2.2Л 16v slant-four (спроектирован Lotus для Sunbeam) — 150hp в дорожной версии, ~250hp в раллийной. Бренд Talbot — бывший Chrysler Europe, куплен PSA/Peugeot в 1978-79гг.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:53:46.794Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/XSU367S_Talbot_Sunbeam.jpg/3840px-XSU367S_Talbot_Sunbeam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/XSU367S_Talbot_Sunbeam.jpg/3840px-XSU367S_Talbot_Sunbeam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:53:46.794Z"
+}

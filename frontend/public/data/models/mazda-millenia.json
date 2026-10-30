@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-millenia",
+  "slug": "mazda-millenia",
+  "name": "Mazda Millenia S",
+  "fullName": "Mazda Millenia S",
+  "brandId": "mazda",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Millenia S (с 1995г.) — уникальный для сегмента мотор 2.3L V6 с механическим нагнетателем Lysholm и циклом Миллера (не обычный турбо/компрессор) — 210 л.с./210 фунт-фут при экономичности, близкой к атмосферному мотору. Источник: Wikipedia (Mazda Millenia), theautochannel.com, jalopnik.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:13:42.629Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/1998-2000_Mazda_Millenia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/1998-2000_Mazda_Millenia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:13:42.629Z"
+}

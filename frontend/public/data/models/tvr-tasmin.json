@@ -1,0 +1,20 @@
+{
+  "id": "sync-tvr-tasmin",
+  "slug": "tvr-tasmin",
+  "name": "Tasmin 280i",
+  "fullName": "Tasmin 280i",
+  "brandId": "tvr",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:51:49.372Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/TVR_Tasmin_%28280i%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/TVR_Tasmin_%28280i%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:51:49.372Z"
+}

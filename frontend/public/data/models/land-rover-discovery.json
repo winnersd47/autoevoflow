@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-discovery",
+  "slug": "land-rover-discovery",
+  "name": "Discovery 5",
+  "fullName": "Discovery 5",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "isActive": true,
+  "description": "",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:15:34.632Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:15:34.632Z"
+}

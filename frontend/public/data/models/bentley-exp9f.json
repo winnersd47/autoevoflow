@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-exp9f",
+  "slug": "bentley-exp9f",
+  "name": "EXP 9 F Concept",
+  "fullName": "EXP 9 F Concept",
+  "brandId": "bentley",
+  "bodyType": "suv",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:43:17.529Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg/3840px-2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg/3840px-2015_Bentley_EXP_10_Speed_6_concept_car_at_Motorshow_Geneva_%2816650492919%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:43:17.529Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-seat-toledo",
+  "slug": "seat-toledo",
+  "name": "SEAT Toledo",
+  "fullName": "SEAT Toledo",
+  "brandId": "seat",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "Возрождение имени после 3-летнего перерыва (2009-2012); снят с производства в 2019-м окончательно.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:24:59.712Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/2014_Seat_Toledo_1.6_TDI_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/2014_Seat_Toledo_1.6_TDI_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:24:59.712Z"
+}

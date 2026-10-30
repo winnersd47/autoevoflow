@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-highlander-2",
+  "slug": "toyota-highlander-2",
+  "name": "Toyota Highlander 2nd Generation (XU40)",
+  "fullName": "Toyota Highlander 2nd Generation (XU40)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Второе поколение, показано в начале 2007 (MY2008), заметно крупнее предшественника. Базовый агрегат — 2.7L 1AR-FE, 187 л.с.; также доступны 3.5L V6 2GR-FE (270 л.с.) и гибрид Highlander Hybrid на базе 2GR-FXE (до 280 л.с. суммарно).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:44:12.874Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:44:12.874Z"
+}

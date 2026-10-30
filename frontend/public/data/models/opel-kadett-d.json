@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-kadett-d",
+  "slug": "opel-kadett-d",
+  "name": "Kadett D",
+  "fullName": "Kadett D (1979)",
+  "brandId": "opel",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1979,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:25:40.715Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Opel_Kadett_B_4-door_at_Schaffen-Diest_Fly-drive_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Opel_Kadett_B_4-door_at_Schaffen-Diest_Fly-drive_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:25:40.715Z"
+}

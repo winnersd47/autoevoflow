@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-hummer-ev-icon25",
+  "slug": "gmc-hummer-ev-icon25",
+  "name": "GMC Hummer EV ICON | 25 (лимитированная серия к 25-летию бренда Hummer)",
+  "fullName": "GMC Hummer EV ICON | 25 (лимитированная серия к 25-летию бренда Hummer)",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "luxury_truck",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Лимитированная серия к 25-летию нейминга Hummer (1999 H1 → 2026), представлена июль 2026г. как модель 2027г. Эксклюзивная жёлтая окраска 'ICON' (отсылка к цвету оригинального H2), доступна как пакет на комплектациях 2X и 3X пикапа и SUV. Мощность не меняется относительно базового 3X (1000hp) — это визуальный/контентный пакет, не отдельный силовой вариант. Источники: gmauthority.com/blog/2026/07/2027-gmc-hummer-ev-to-debut-icon-25-edition, electrek.co/2026/07/15/gmc-hummer-ev-icon-25, news.gmc.com (пресс-релиз GMC, июль 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:58:40.633Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/3840px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/3840px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:58:40.633Z"
+}

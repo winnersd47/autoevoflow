@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-croma2",
+  "slug": "fiat-croma2",
+  "name": "Fiat Croma Gen.2",
+  "fullName": "Fiat Croma Gen.2",
+  "brandId": "fiat",
+  "bodyType": "estate",
+  "segment": "midsize_sed",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Возрождение имени Croma после ~10-летнего перерыва — универсал на платформе, связанной с Fiat Stilo. Бензин 140-147hp, дизель 120-200hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:52:38.290Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fiat_Cronos_1.8_16V_E.Torq_Precision.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fiat_Cronos_1.8_16V_E.Torq_Precision.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:52:38.290Z"
+}

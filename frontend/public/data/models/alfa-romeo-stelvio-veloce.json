@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-stelvio-veloce",
+  "slug": "alfa-romeo-stelvio-veloce",
+  "name": "Alfa Romeo Stelvio Veloce / Ti",
+  "fullName": "Alfa Romeo Stelvio Veloce / Ti",
+  "brandId": "alfa-romeo",
+  "bodyType": "suv",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Как и у Giulia, Veloce и Ti на Stelvio — одна и та же механика: турбо 2.0 I4 280hp, полный привод Q4 (в отличие от 200hp базовой версии). Veloce — международное спортивное название, Ti — амер. название того же мотора с упором на комфорт/отделку. Иерархически ниже, чем Quadrifoglio (510hp V6Т).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:38:18.791Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:38:18.791Z"
+}

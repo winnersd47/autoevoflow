@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-v-series-r",
+  "slug": "cadillac-v-series-r",
+  "name": "Cadillac V-Series.R",
+  "fullName": "Cadillac V-Series.R",
+  "brandId": "cadillac",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Прототип класса GTP (IMSA) / Hypercar (WEC) на шасси Dallara. Анонсирован в 2022 как \"Project GTP Hypercar\", кратко именовался V-LMDh, с марта 2023 официальное имя V-Series.R. Атмосферный гибридный V8 5.5л. Не связан с седанами CTS/CT4/CT5 — только общий бренд V-Series.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:39:32.669Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/2026_6_Hours_of_Spa-Francorchamps_Cadillac_Hertz_Team_Jota_Cadillac_V-Series.R_No.12_%28DSC07675%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/2026_6_Hours_of_Spa-Francorchamps_Cadillac_Hertz_Team_Jota_Cadillac_V-Series.R_No.12_%28DSC07675%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:39:32.669Z"
+}

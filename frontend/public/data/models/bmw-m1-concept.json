@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-m1-concept",
+  "slug": "bmw-m1-concept",
+  "name": "BMW M1 Concept",
+  "fullName": "BMW M1 Concept",
+  "brandId": "bmw",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:24:18.209Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/BMW_Concept_CS_AMI.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/BMW_Concept_CS_AMI.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:24:18.209Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-vanquish-zagato",
+  "slug": "astonmartin-vanquish-zagato",
+  "name": "Aston Martin Vanquish Zagato Volante",
+  "fullName": "Aston Martin Vanquish Zagato Volante",
+  "brandId": "astonmartin",
+  "bodyType": "convertible",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Открытая версия Vanquish Zagato, тот же 5.9Л V12 592hp. 99 экземпляров.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:25:07.817Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg/3840px-Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg/3840px-Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:25:07.817Z"
+}

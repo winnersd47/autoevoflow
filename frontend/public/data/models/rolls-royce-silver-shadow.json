@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-silver-shadow",
+  "slug": "rolls-royce-silver-shadow",
+  "name": "Silver Shadow",
+  "fullName": "Silver Shadow",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:33:50.948Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rolls_Royce_Silver_Shadow_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rolls_Royce_Silver_Shadow_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:33:50.948Z"
+}

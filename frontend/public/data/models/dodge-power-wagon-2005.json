@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-power-wagon-2005",
+  "slug": "dodge-power-wagon-2005",
+  "name": "Power Wagon '05",
+  "fullName": "Power Wagon '05",
+  "brandId": "dodge",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:53:37.788Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/1948_Dodge_Power_Wagon_Pick-Up_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/1948_Dodge_Power_Wagon_Pick-Up_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:53:37.788Z"
+}

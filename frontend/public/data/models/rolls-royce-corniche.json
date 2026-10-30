@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-corniche",
+  "slug": "rolls-royce-corniche",
+  "name": "Corniche",
+  "fullName": "Corniche",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:44:26.220Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rolls-Royce_Corniche_II_Classic-Gala_2022_1X7A0202.jpg/3840px-Rolls-Royce_Corniche_II_Classic-Gala_2022_1X7A0202.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rolls-Royce_Corniche_II_Classic-Gala_2022_1X7A0202.jpg/3840px-Rolls-Royce_Corniche_II_Classic-Gala_2022_1X7A0202.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:44:26.220Z"
+}

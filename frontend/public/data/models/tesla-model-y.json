@@ -1,0 +1,20 @@
+{
+  "id": "sync-tesla-model-y",
+  "slug": "tesla-model-y",
+  "name": "Tesla Model Y L",
+  "fullName": "Tesla Model Y L",
+  "brandId": "tesla",
+  "bodyType": "suv",
+  "segment": "suv_mid",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Удлинённая 6-местная версия для Китая, старт продаж — август 2025г (не 2027). 2 мотора AWD, 142кВт спереди + 198кВт сзади = 340кВт/456hp суммарно, 82кВтч LG, 751км CLTC.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:56:48.816Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg/3840px-Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg/3840px-Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:56:48.816Z"
+}

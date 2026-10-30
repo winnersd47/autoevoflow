@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-03",
+  "slug": "lynk-co-03",
+  "name": "Lynk & Co 03",
+  "fullName": "Lynk & Co 03",
+  "brandId": "lynk-co",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "CMA-седан; 03+ Cyan Racing — серийный «Нюрбургринг-рекорд» среди FWD",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:30:29.984Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:30:29.984Z"
+}

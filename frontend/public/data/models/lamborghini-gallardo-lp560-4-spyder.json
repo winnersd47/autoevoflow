@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-gallardo-lp560-4-spyder",
+  "slug": "lamborghini-gallardo-lp560-4-spyder",
+  "name": "Lamborghini Gallardo LP560-4 Spyder",
+  "fullName": "Lamborghini Gallardo LP560-4 Spyder",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Лос-Анджелес, нояб. 2008 — открытая версия LP560-4, тот же увеличенный до 5.2Л V10 (560hp), что и купе-рестайлинг. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:22:23.189Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:22:23.189Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-corniche-v",
+  "slug": "rolls-royce-corniche-v",
+  "name": "Rolls-Royce Corniche V",
+  "fullName": "Rolls-Royce Corniche V",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Возрождение имени Corniche в январе 2000 — пятое и последнее поколение под этим именем, единственная новая модель Rolls-Royce за период владения Volkswagen (1998-2002) перед разделением марок BMW/VW в 2003. Кузов и платформа унаследованы от Bentley Azure (а не от современной Silver Seraph, с которой лишь общий силуэт), 6.75Л турбо-V8 325 л.с. / 738 Нм. Построено 374 экземпляра, базовая цена $359900 — самый дорогой Rolls-Royce на момент выпуска. Источники: en.wikipedia.org/wiki/Rolls-Royce_Corniche_(2000), supercars.net, autoevolution.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:32:01.118Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rolls-Royce_Corniche_II_Classic-Gala_2022_1X7A0202.jpg/3840px-Rolls-Royce_Corniche_II_Classic-Gala_2022_1X7A0202.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Rolls-Royce_Corniche_II_Classic-Gala_2022_1X7A0202.jpg/3840px-Rolls-Royce_Corniche_II_Classic-Gala_2022_1X7A0202.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:32:01.118Z"
+}

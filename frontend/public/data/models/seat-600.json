@@ -1,0 +1,20 @@
+{
+  "id": "sync-seat-600",
+  "slug": "seat-600",
+  "name": "SEAT 600",
+  "fullName": "SEAT 600",
+  "brandId": "seat",
+  "bodyType": "hatchback",
+  "segment": "microcar",
+  "primaryMarket": "global",
+  "startYear": 1957,
+  "isActive": true,
+  "description": "Первая массовая машина Испании — лицензионный Fiat 600; \"600\" буквально поставил страну на колёса.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:37:04.058Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/SEAT_600_cars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/SEAT_600_cars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T18:37:04.058Z"
+}

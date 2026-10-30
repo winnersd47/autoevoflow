@@ -1,0 +1,20 @@
+{
+  "id": "sync-subaru-leone",
+  "slug": "subaru-leone",
+  "name": "Subaru Loyale",
+  "fullName": "Subaru Loyale",
+  "brandId": "subaru",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "3-е (финальное) поколение Leone — на экспортных рынках, включая США, с 1990г. переименовано в \"Loyale\" (оставалось в продаже параллельно с уже выпущенным Legacy как бюджетная модель, вплоть до 1994г.). Мотор EA82 1.8L, карбюраторный ~85 л.с. изначально, инжекторная версия с MY1991 — 90 л.с. Источник: consumerguide.com (1990-94 Subaru Loyale), classiccars.co.uk.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:14:50.759Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1984-1986_Subaru_Leone_Deluxe_sedan_%282010-12-28%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1984-1986_Subaru_Leone_Deluxe_sedan_%282010-12-28%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:14:50.759Z"
+}

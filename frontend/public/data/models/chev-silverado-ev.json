@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-silverado-ev",
+  "slug": "chev-silverado-ev",
+  "name": "Chevrolet Silverado EV",
+  "fullName": "Chevrolet Silverado EV",
+  "brandId": "chevrolet",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Платформа Ultium \"с нуля\" (не переделка ICE-версии). 510hp/615lb-ft стандартно, до 754hp/785lb-ft в форсированном режиме Wide Open Watts (First Edition RST). До 450 миль запаса хода EPA, зарядка до 350кВт, 0-60 менее 4.5с в макс.режиме.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:06:13.372Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/2024_Chevrolet_Silverado_EV_4WT_AWD_in_Summit_White%2C_front_left%2C_2024-06-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/2024_Chevrolet_Silverado_EV_4WT_AWD_in_Summit_White%2C_front_left%2C_2024-06-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:06:13.372Z"
+}

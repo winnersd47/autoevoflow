@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-continental-6",
+  "slug": "lincoln-continental-6",
+  "name": "Continental",
+  "fullName": "Continental",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Возрождение нейминга после 15-летнего перерыва (эпоха 2002-2017), кузов удлинён и расширен относительно донорской CD4 (Fusion/MKZ). Топ-комплектация Black Label/Reserve AWD — 3.0L twin-turbo V6, 400 л.с./400 фунт-фут. Снят с производства в 2020г. Источник: автомобильные СМИ о платформе CD4 (claveyscorner.com, catocarguy.com).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:59:44.586Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:59:44.586Z"
+}

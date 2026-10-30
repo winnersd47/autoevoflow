@@ -1,0 +1,20 @@
+{
+  "id": "sync-aspark-owl",
+  "slug": "aspark-owl",
+  "name": "Owl",
+  "fullName": "Owl",
+  "brandId": "aspark",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:56:37.375Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Aspark_Owl%2C_IAA_2017%2C_Frankfurt_%281Y7A3341%29.jpg/3840px-Aspark_Owl%2C_IAA_2017%2C_Frankfurt_%281Y7A3341%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Aspark_Owl%2C_IAA_2017%2C_Frankfurt_%281Y7A3341%29.jpg/3840px-Aspark_Owl%2C_IAA_2017%2C_Frankfurt_%281Y7A3341%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:56:37.375Z"
+}

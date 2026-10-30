@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-viper-gts-r",
+  "slug": "dodge-viper-gts-r",
+  "name": "Dodge Viper GTS-R",
+  "fullName": "Dodge Viper GTS-R",
+  "brandId": "dodge",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Заводская гоночная программа GT1/GT2: шасси по чертежам Reynard Motorsport, постройка и заводская команда — французская Oreca по контракту с Chrysler. Дебют на 24h Le Mans 1996 (10-е абс. место, класс GT1); с 1997 перешёл в класс GT2 — победы в классе на Ле-Мане 1998 и 1999, титулы FIA GT2/GTS чемпионата 1997-1999. 8.0L V10 (7986 см³), ок. 650 л.с. при 6000 об/мин и 650 lb-ft при 5000 в выносливостной спецификации GT2 (ранние GT1-версии были мощнее, задросселированы под лимит класса); масса ок. 1150 кг. Источники: ultimatecarpage.com, supercars.net Chrysler Viper GTS-R history (доступ 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:55:17.747Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg/3840px-%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg/3840px-%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:55:17.747Z"
+}

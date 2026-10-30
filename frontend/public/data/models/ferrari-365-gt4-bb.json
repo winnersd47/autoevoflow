@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-365-gt4-bb",
+  "slug": "ferrari-365-gt4-bb",
+  "name": "365 GT4 BB",
+  "fullName": "365 GT4 BB",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "Первый среднемоторный V12(flat12) флагман Ferrari — сменил переднемоторный 365 GTB/4 Daytona. Дизайн — Pininfarina (Леонардо Фиораванти). Представлен на Парижском салоне 1971, в продаже с 1973 (387 экз., по 1976). 4.4Л flat12, 380 л.с. Прямой предшественник 512 BB и, через него, Testarossa.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:13:29.025Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/1975_Dino_308_GT4_in_Marrone_Metallizzato%2C_Berlin.jpg/3840px-1975_Dino_308_GT4_in_Marrone_Metallizzato%2C_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/1975_Dino_308_GT4_in_Marrone_Metallizzato%2C_Berlin.jpg/3840px-1975_Dino_308_GT4_in_Marrone_Metallizzato%2C_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:13:29.025Z"
+}

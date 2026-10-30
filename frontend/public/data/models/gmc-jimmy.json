@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-jimmy",
+  "slug": "gmc-jimmy",
+  "name": "GMC Jimmy (K5-based)",
+  "fullName": "GMC Jimmy (K5-based)",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Корпоративный близнец K5 Blazer — то же шасси, та же механика, весь модельный ряд движков; отличия только в решётке (сдвоенные фары вместо одинарных) и отделке салона, более \"премиальное\" позиционирование внутри GM. Выпускался до 1991г. (затем имя перешло на компактный S-15 Jimmy).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:01:29.358Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/1991_Chevrolet_S-10_Blazer_Tahoe_4-Door_4x4.jpg/3840px-1991_Chevrolet_S-10_Blazer_Tahoe_4-Door_4x4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/1991_Chevrolet_S-10_Blazer_Tahoe_4-Door_4x4.jpg/3840px-1991_Chevrolet_S-10_Blazer_Tahoe_4-Door_4x4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:01:29.358Z"
+}

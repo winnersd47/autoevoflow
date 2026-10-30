@@ -1,0 +1,20 @@
+{
+  "id": "sync-hummer-h3",
+  "slug": "hummer-h3",
+  "name": "Hummer H3",
+  "fullName": "Hummer H3 (2005)",
+  "brandId": "hummer",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:00:53.648Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2007_Hummer_H3_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2007_Hummer_H3_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:00:53.648Z"
+}

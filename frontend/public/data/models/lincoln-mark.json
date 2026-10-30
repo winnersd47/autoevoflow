@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-mark",
+  "slug": "lincoln-mark",
+  "name": "Continental Mk IV",
+  "fullName": "Continental Mk IV",
+  "brandId": "lincoln",
+  "bodyType": "coupe",
+  "segment": "personal_luxury",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "Увеличенная версия Mark III (та же платформа, не считается сменой поколения по корпусу, но исторически нумеруется отдельно по модельному ряду Lincoln) — выпускался 1972-1976гг. Мощность упала до 219 л.с. (переход на SAE net и ужесточение норм токсичности) при том же 460cid V8. Источник: общеизвестные данные (Lincoln Continental Mark IV specs).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:03:01.025Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/1975_Lincoln_Continental_Mark_IV%2C_Dutch_licence_registration_21-YB-60_p1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/1975_Lincoln_Continental_Mark_IV%2C_Dutch_licence_registration_21-YB-60_p1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:03:01.025Z"
+}

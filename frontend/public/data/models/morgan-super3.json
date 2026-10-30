@@ -1,0 +1,20 @@
+{
+  "id": "sync-morgan-super3",
+  "slug": "morgan-super3",
+  "name": "Super 3",
+  "fullName": "Super 3",
+  "brandId": "morgan",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:50:43.540Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2025_Morgan_Supersport_LC25.jpg/3840px-2025_Morgan_Supersport_LC25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2025_Morgan_Supersport_LC25.jpg/3840px-2025_Morgan_Supersport_LC25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:50:43.540Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-conti-gt4",
+  "slug": "bentley-conti-gt4",
+  "name": "Bentley Continental GT IV",
+  "fullName": "Bentley Continental GT IV",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Базовая версия 4-го поколения ('High Performance Hybrid'), представлена в апреле 2025 — 4.0-литровый гибридный твин-турбо V8, 680 PS/670 л.с., батарея 25.9 кВтч, запас хода на электротяге до 53 миль (85 км) по WLTP. Отделка на выбор Core или Azure. Топовая версия Speed (771 л.с.), вышедшая раньше (сентябрь 2024), вынесена в отдельный узел bentley-conti-gt4-speed. Источники: carbuzz.com, bentleymedia.com, edmunds.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:41:57.543Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:41:57.543Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-classic-mk2",
+  "slug": "mini-classic-mk2",
+  "name": "Mini Mk2",
+  "fullName": "Mini Mk2 (1967)",
+  "brandId": "mini",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Revised Mini with slightly larger rear window, wider grille, Hydrolastic suspension option. 411K units.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:54.880Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Moke02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Moke02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:10:54.880Z"
+}

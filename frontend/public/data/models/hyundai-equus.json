@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-equus",
+  "slug": "hyundai-equus",
+  "name": "Hyundai Equus",
+  "fullName": "Hyundai Equus (2009)",
+  "brandId": "hyundai",
+  "bodyType": "sedan",
+  "segment": "ultra_luxury",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:46:24.154Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/2011_Hyundai_Equus_--_02-24-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/2011_Hyundai_Equus_--_02-24-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:46:24.154Z"
+}

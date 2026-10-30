@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-highlander-1",
+  "slug": "toyota-highlander-1",
+  "name": "Toyota Highlander 1st Generation (XU20)",
+  "fullName": "Toyota Highlander 1st Generation (XU20)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Первое поколение Highlander (в Японии — Kluger), дебют в ноябре 2000 на удлинённой платформе Camry XV20 (K-платформа), в США в продаже с января 2001 (MY2001). Базовый мотор — 2.4L 2AZ-FE, 155 л.с.; топовая версия — 3.0L V6 1MZ-FE, 220 л.с. Один из первых кроссоверов Toyota с несущим кузовом вместо рамы и опциональным 3-м рядом сидений. Целиком отсутствовал в графе, хотя это одна из самых продаваемых моделей бренда.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:44:10.512Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:44:10.512Z"
+}

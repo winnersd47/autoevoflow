@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-knight",
+  "slug": "rezvani-knight",
+  "name": "Rezvani Knight",
+  "fullName": "Rezvani Knight",
+  "brandId": "rezvani",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Armored super-SUV on customer Lamborghini Urus. 1000 HP twin-turbo V8. Military EMP/smoke options. 100 units.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:02:20.199Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:02:20.199Z"
+}

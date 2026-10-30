@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-sienna-2",
+  "slug": "toyota-sienna-2",
+  "name": "Toyota Sienna 2nd Generation (XL20)",
+  "fullName": "Toyota Sienna 2nd Generation (XL20)",
+  "brandId": "toyota",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Второе поколение (2003, MY2004) — впервые доступен полный привод AWD, кузов заметно увеличен. Мотор 3.3L V6 (MZ-FE) — 230 л.с., с 2007 г. — 3.5L V6 (2GR-FE) 266 л.с. В графе ранее отсутствовало вместе с 3-м поколением: цепочка 1997→2021 перескакивала сразу через 2 поколения (ребро e-sienna1-4).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:48:50.444Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:48:50.444Z"
+}

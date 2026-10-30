@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-3",
+  "slug": "ford-focus-3",
+  "name": "Focus Mk3",
+  "fullName": "Focus Mk3",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:59:07.778Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/1999_Ford_Focus_Zetec_1.8_Front.jpg/3840px-1999_Ford_Focus_Zetec_1.8_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/1999_Ford_Focus_Zetec_1.8_Front.jpg/3840px-1999_Ford_Focus_Zetec_1.8_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:59:07.778Z"
+}

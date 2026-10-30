@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-outlook",
+  "slug": "saturn-outlook",
+  "name": "Saturn Outlook",
+  "fullName": "Saturn Outlook (2006)",
+  "brandId": "saturn",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Lambda platform 3-row crossover. 3.6L V6 281 HP. Shared with GMC Acadia/Chevy Traverse. 8-seat.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:15:42.172Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/07-Saturn-Outlook-XR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/07-Saturn-Outlook-XR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:15:42.172Z"
+}

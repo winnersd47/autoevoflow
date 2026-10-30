@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id5",
+  "slug": "volkswagen-id5",
+  "name": "ID.5",
+  "fullName": "ID.5",
+  "brandId": "volkswagen",
+  "bodyType": "suv",
+  "segment": "suv_mid",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:21:32.921Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Volkswagen_concepts_IAA_2019.jpg/1920px-Volkswagen_concepts_IAA_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Volkswagen_concepts_IAA_2019.jpg/1920px-Volkswagen_concepts_IAA_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:21:32.921Z"
+}

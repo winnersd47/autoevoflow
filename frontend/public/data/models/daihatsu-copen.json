@@ -1,0 +1,20 @@
+{
+  "id": "sync-daihatsu-copen",
+  "slug": "daihatsu-copen",
+  "name": "Daihatsu Copen Gen.1",
+  "fullName": "Daihatsu Copen Gen.1 (2002)",
+  "brandId": "daihatsu",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:36:58.554Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Daihatsu_Copen_Robe.jpg/3840px-Daihatsu_Copen_Robe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Daihatsu_Copen_Robe.jpg/3840px-Daihatsu_Copen_Robe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:36:58.554Z"
+}

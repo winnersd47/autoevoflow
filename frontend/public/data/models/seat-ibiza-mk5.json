@@ -1,0 +1,20 @@
+{
+  "id": "sync-seat-ibiza-mk5",
+  "slug": "seat-ibiza-mk5",
+  "name": "SEAT Ibiza Mk5",
+  "fullName": "SEAT Ibiza Mk5 (2017)",
+  "brandId": "seat",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:11:56.070Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg/3840px-2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg/3840px-2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:11:56.070Z"
+}

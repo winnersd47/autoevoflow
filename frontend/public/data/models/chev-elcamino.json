@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-elcamino",
+  "slug": "chev-elcamino",
+  "name": "El Camino Gen.5",
+  "fullName": "El Camino Gen.5",
+  "brandId": "chevrolet",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1959,
+  "isActive": true,
+  "description": "Даунсайзинг, шасси позже переименовано в G-body (1982) — общее с Malibu, но El Camino пережила Malibu на этом шасси на 4 года (Malibu снята в 1983г., El Camino — в 1987г.). База V6 200ci, 95hp (1978) → финальный 4.3L V6, 145hp (1987). SS к этому времени — чисто внешний пакет (топ-мотор — 350 V8, ~170hp).",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:18:05.003Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/3840px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/3840px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:18:05.003Z"
+}

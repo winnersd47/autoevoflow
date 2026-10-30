@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-mehari",
+  "slug": "citroen-mehari",
+  "name": "Mehari",
+  "fullName": "Mehari",
+  "brandId": "citroen",
+  "bodyType": "convertible",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "Open-top ABS plastic-bodied 4x4 on 2CV chassis. 4-door, 144K units. Beloved beach/military utility.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:08:16.473Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Citro%C3%ABn_M%C3%A9hari_Nice_IMG_1269.jpg/3840px-Citro%C3%ABn_M%C3%A9hari_Nice_IMG_1269.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Citro%C3%ABn_M%C3%A9hari_Nice_IMG_1269.jpg/3840px-Citro%C3%ABn_M%C3%A9hari_Nice_IMG_1269.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:08:16.473Z"
+}

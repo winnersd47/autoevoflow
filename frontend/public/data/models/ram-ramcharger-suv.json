@@ -1,0 +1,20 @@
+{
+  "id": "sync-ram-ramcharger-suv",
+  "slug": "ram-ramcharger-suv",
+  "name": "Ram Ramcharger SUV",
+  "fullName": "Ram Ramcharger SUV",
+  "brandId": "ram",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "Возрождение классического имени Ramcharger (SUV на базе пикапа, выпускался 1974-1993) — новый полноразмерный 3-рядный внедорожник на платформе Ram 1500, подтверждён на Investor Day Stellantis в 2026 г., старт производства — 2028 модельный год. Базовый мотор — атмосферный HEMI 5.7 V8 395 л.с. (в hp, как у ram-1500-6), опционально HEMI 6.4 V8 ~470 л.с.; уже подтверждена топовая версия SRT с наддувным 6.2 Hellcat V8 (~777 л.с./680 фунт-фут). Также заявлена версия с удлинённым запасом хода (range-extender/EREV) — отдельная модель от уже выпускаемого пикапа Ram 1500 Ramcharger EREV (старт продаж в 2026-м, в графе пока не отслеживается отдельно). Источник: insideevs.com, motor1.com, hotcars.com, autoguide.com (2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:27:48.960Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/1974_Dodge_Ramcharger_topless_SUV_at_2015_Macungie_show_2of2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/1974_Dodge_Ramcharger_topless_SUV_at_2015_Macungie_show_2of2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T20:27:48.960Z"
+}

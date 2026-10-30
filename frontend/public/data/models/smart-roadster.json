@@ -1,0 +1,20 @@
+{
+  "id": "sync-smart-roadster",
+  "slug": "smart-roadster",
+  "name": "Smart Roadster",
+  "fullName": "Smart Roadster (2003)",
+  "brandId": "smart",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Open 2-seat roadster on Fortwo M160 0.7L turbo. Tridion cell structure. Coupe/Roadster variants. Cult following.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:18:07.376Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2004_Smart_Roadster_Speedsilver_Automatic_700cc_Front.jpg/3840px-2004_Smart_Roadster_Speedsilver_Automatic_700cc_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2004_Smart_Roadster_Speedsilver_Automatic_700cc_Front.jpg/3840px-2004_Smart_Roadster_Speedsilver_Automatic_700cc_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:18:07.376Z"
+}

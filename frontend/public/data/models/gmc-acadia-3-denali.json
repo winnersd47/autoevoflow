@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-acadia-3-denali",
+  "slug": "gmc-acadia-3-denali",
+  "name": "GMC Acadia Denali",
+  "fullName": "GMC Acadia Denali",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Тот же 2.5L турбо-4 (328hp), что у остальной линейки Gen.3 — силового отличия нет, Denali здесь про топовую отделку/оснащение (Super Cruise, массажные кресла и т.д.). Источник: cars.usnews.com/cars-trucks/gmc/acadia/2024/specs/acadia-fwd-denali-449290, guideautoweb.com/en/makes/gmc/acadia/2024/specifications/denali.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:13:53.752Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/3840px-2024_GMC_Acadia_Denali_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/3840px-2024_GMC_Acadia_Denali_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:13:53.752Z"
+}

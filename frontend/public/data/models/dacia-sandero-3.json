@@ -1,0 +1,20 @@
+{
+  "id": "sync-dacia-sandero-3",
+  "slug": "dacia-sandero-3",
+  "name": "Dacia Sandero Gen.3",
+  "fullName": "Dacia Sandero Gen.3 (2020)",
+  "brandId": "dacia",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:35:47.116Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2023_Dacia_Sandero_III_DSC_6012.jpg/3840px-2023_Dacia_Sandero_III_DSC_6012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2023_Dacia_Sandero_III_DSC_6012.jpg/3840px-2023_Dacia_Sandero_III_DSC_6012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:35:47.116Z"
+}

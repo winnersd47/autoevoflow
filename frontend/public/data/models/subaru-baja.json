@@ -1,0 +1,20 @@
+{
+  "id": "sync-subaru-baja",
+  "slug": "subaru-baja",
+  "name": "Subaru Baja Turbo",
+  "fullName": "Subaru Baja Turbo",
+  "brandId": "subaru",
+  "bodyType": "pickup",
+  "segment": "pickup",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Нишевый спортивный пикап на платформе Outback (2003-2006), кузов универсал с открытым грузовым отсеком. Базовый мотор 2.5L NA — 165 л.с.; турбоверсия добавлена с MY2004: 2.5L EJ25 турбо, 210 л.с./235 lb-ft — выбрана как флагманская модификация. Источник: autopadre.com, auto-data.net (Baja 2.5 Turbo 210hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:56:34.958Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_Subaru_Baja_Sport%2C_front_right%2C_01-02-2023.jpg/3840px-2006_Subaru_Baja_Sport%2C_front_right%2C_01-02-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2006_Subaru_Baja_Sport%2C_front_right%2C_01-02-2023.jpg/3840px-2006_Subaru_Baja_Sport%2C_front_right%2C_01-02-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:56:34.958Z"
+}

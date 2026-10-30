@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-brouillard-bugatti",
+  "slug": "bugatti-brouillard-bugatti",
+  "name": "Bugatti Brouillard",
+  "fullName": "Bugatti Brouillard",
+  "brandId": "bugatti",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Первый в Programme Solitaire (анонс 2025), назван в честь любимой лошади Этторе Бугатти. Закрытое купе на агрегатах Chiron Super Sport (1600 л.с.), полностью эксклюзивная ручная работа кузовного ателье Bugatti. Источник: HiConsumption, Robb Report, Magneto.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:29:45.949Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bugatti_Mistral_2.jpg/3840px-Bugatti_Mistral_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bugatti_Mistral_2.jpg/3840px-Bugatti_Mistral_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:29:45.949Z"
+}

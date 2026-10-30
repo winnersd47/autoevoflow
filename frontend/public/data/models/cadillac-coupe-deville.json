@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-coupe-deville",
+  "slug": "cadillac-coupe-deville",
+  "name": "Cadillac Coupe DeVille",
+  "fullName": "Cadillac Coupe DeVille",
+  "brandId": "cadillac",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1949,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:17:48.043Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/2004_Cadillac_Deville_DHS_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/2004_Cadillac_Deville_DHS_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:17:48.043Z"
+}

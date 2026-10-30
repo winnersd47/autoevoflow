@@ -1,0 +1,20 @@
+{
+  "id": "sync-ram-hd-4",
+  "slug": "ram-hd-4",
+  "name": "Ram 2500 HD Gen4",
+  "fullName": "Ram 2500 HD Gen4 (2019)",
+  "brandId": "ram",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:54:46.117Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2017_Ram_1500_Express_Crew_Cab%2C_front_left%2C_09-02-2022.jpg/3840px-2017_Ram_1500_Express_Crew_Cab%2C_front_left%2C_09-02-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/2017_Ram_1500_Express_Crew_Cab%2C_front_left%2C_09-02-2022.jpg/3840px-2017_Ram_1500_Express_Crew_Cab%2C_front_left%2C_09-02-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:54:46.117Z"
+}

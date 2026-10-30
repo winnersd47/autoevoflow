@@ -1,0 +1,20 @@
+{
+  "id": "sync-dacia-logan-2",
+  "slug": "dacia-logan-2",
+  "name": "Dacia Logan Gen.2",
+  "fullName": "Dacia Logan Gen.2 (2012)",
+  "brandId": "dacia",
+  "bodyType": "sedan",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:35:42.038Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dacia_Logan_2023_Front_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dacia_Logan_2023_Front_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:35:42.038Z"
+}

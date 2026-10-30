@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-sto",
+  "slug": "lamborghini-huracan-sto",
+  "name": "Lamborghini Huracán STO",
+  "fullName": "Lamborghini Huracán STO",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "\"Super Trofeo Omologata\" — сент. 2021, максимально приближенная к гоночной Super Trofeo/GT3 дорожная версия, RWD, 640hp, широкое использование карбона (капот-моноблок \"cofango\"), только RWD в отличие от AWD у EVO. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:20:57.381Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:20:57.381Z"
+}

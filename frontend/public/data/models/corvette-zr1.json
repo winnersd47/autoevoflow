@@ -1,0 +1,20 @@
+{
+  "id": "sync-corvette-zr1",
+  "slug": "corvette-zr1",
+  "name": "Corvette C8 ZR1",
+  "fullName": "Corvette C8 ZR1",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "LT7 5.5L twin-turbo flat-plane; 1064 л.с. / 828 Нм; 215+ mph; <10s четверть мили; 1200 кг прижимной силы. Последнее слово в войне мощностей.",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:15:39.254Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2023_6_Hours_of_Spa-Francorchamps_Corvette_Racing_Chevrolet_Corvette_C8.R_No.33_%28DSC00037%29.jpg/3840px-2023_6_Hours_of_Spa-Francorchamps_Corvette_Racing_Chevrolet_Corvette_C8.R_No.33_%28DSC00037%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2023_6_Hours_of_Spa-Francorchamps_Corvette_Racing_Chevrolet_Corvette_C8.R_No.33_%28DSC00037%29.jpg/3840px-2023_6_Hours_of_Spa-Francorchamps_Corvette_Racing_Chevrolet_Corvette_C8.R_No.33_%28DSC00037%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:15:39.254Z"
+}

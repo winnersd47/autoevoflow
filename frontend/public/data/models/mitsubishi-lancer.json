@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-lancer",
+  "slug": "mitsubishi-lancer",
+  "name": "Lancer",
+  "fullName": "Lancer",
+  "brandId": "mitsubishi",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:38:46.075Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/2012_Mitsubishi_Lancer_SE_sedan_--_02-04-2012_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/2012_Mitsubishi_Lancer_SE_sedan_--_02-04-2012_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:38:46.075Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-deville-dts",
+  "slug": "cadillac-deville-dts",
+  "name": "Cadillac DeVille DTS",
+  "fullName": "Cadillac DeVille DTS",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "DTS (DeVille Touring Sedan) — спортивно-топовая комплектация финального поколения DeVille (2000-2005, G-платформа), получила высокофорсированную калибровку Northstar L37 (как у Seville STS) — 300hp/295 lb-ft против 275hp у базовой версии/DHS (LD8), плюс укороченные передаточные числа. В 2006г. имя DTS стало отдельной моделью (см. узел Cadillac DTS), нейминг DeVille исчез. Источник: motogallery.com, automobile-catalog.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:37.285Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/2004_Cadillac_Deville_DHS_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/2004_Cadillac_Deville_DHS_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:03:37.285Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-viper",
+  "slug": "dodge-viper",
+  "name": "SRT Viper",
+  "fullName": "SRT Viper",
+  "brandId": "dodge",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "SRT стал отдельным брендом Chrysler Group в июне 2011 — Viper был ЕДИНСТВЕННОЙ моделью, полностью сбросившей \"Dodge\" из имени (2013-2014 MY). В мае 2014 SRT вернули под Dodge, и с 2015-го имя снова стало Dodge Viper.",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:16:41.361Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Electric_Blue_SRT4_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Electric_Blue_SRT4_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:16:41.361Z"
+}

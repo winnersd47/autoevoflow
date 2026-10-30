@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-alphard-1",
+  "slug": "toyota-alphard-1",
+  "name": "Alphard (1-е пок.)",
+  "fullName": "Alphard (1-е пок.)",
+  "brandId": "toyota",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:13:34.315Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Headquarter_of_Toyota_Motor_Corporation_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Headquarter_of_Toyota_Motor_Corporation_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:13:34.315Z"
+}

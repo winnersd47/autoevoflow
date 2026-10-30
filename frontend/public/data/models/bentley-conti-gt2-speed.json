@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-conti-gt2-speed",
+  "slug": "bentley-conti-gt2-speed",
+  "name": "Bentley Continental GT Speed (2016, W12)",
+  "fullName": "Bentley Continental GT Speed (2016, W12)",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Топ-версия W12 2-го поколения, в продаже с лета 2016. 6.0-литровый твин-турбо W12 — 642 PS/633 л.с., 840 Нм, разгон 0-100 за 4.0с. Предшественник современных Speed-версий; сменена в 2018 моделью 3-го поколения. Источники: automobile-catalog.com, topspeed.com, edmunds.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:34:27.563Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:34:27.563Z"
+}

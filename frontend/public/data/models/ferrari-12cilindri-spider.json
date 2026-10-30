@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-12cilindri-spider",
+  "slug": "ferrari-12cilindri-spider",
+  "name": "12Cilindri Spider",
+  "fullName": "12Cilindri Spider",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:08:38.988Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg/3840px-2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg/3840px-2025_Ferrari_12Cilindri_in_Rosso_Imola%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:08:38.988Z"
+}

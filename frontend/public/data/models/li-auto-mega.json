@@ -1,0 +1,20 @@
+{
+  "id": "sync-li-auto-mega",
+  "slug": "li-auto-mega",
+  "name": "Li Auto MEGA",
+  "fullName": "Li Auto MEGA",
+  "brandId": "li-auto",
+  "bodyType": "mpv",
+  "segment": "luxury_mpv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Первый чистый EV Li Auto; 800V суперзарядка; 12 мин до 500km; MPV",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:32:51.046Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Li_Auto_R%26D_Headquarters%2C_Block_C_%2820240528134609%29.jpg/3840px-Li_Auto_R%26D_Headquarters%2C_Block_C_%2820240528134609%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Li_Auto_R%26D_Headquarters%2C_Block_C_%2820240528134609%29.jpg/3840px-Li_Auto_R%26D_Headquarters%2C_Block_C_%2820240528134609%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:32:51.046Z"
+}

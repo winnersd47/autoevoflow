@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-1",
+  "slug": "ford-focus-1",
+  "name": "Ford Focus RS WRC",
+  "fullName": "Ford Focus RS WRC",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "Программа WRC 1999-2010гг. — 44 победы на этапах, 2 титула производителей (2006, 2007). 2.0Т I4 (совместно с Pipo Moteur), ~300hp.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:48:31.759Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Neste_Oil_Rally_2010_-_Jari-Matti_Latvala_in_shakedown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Neste_Oil_Rally_2010_-_Jari-Matti_Latvala_in_shakedown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:48:31.759Z"
+}

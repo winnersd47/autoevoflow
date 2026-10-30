@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-srx-1",
+  "slug": "cadillac-srx-1",
+  "name": "Cadillac SRX",
+  "fullName": "Cadillac SRX",
+  "brandId": "cadillac",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Первое поколение SRX (2004-2009) — заднеприводный кроссовер на платформе Sigma (та же, что у CTS/STS того времени), опционально 3 ряда сидений. Два мотора: база 3.6L V6 255hp, топовый атмосферный Northstar 4.6L V8 320hp/315 lb-ft. Единственный Cadillac-кроссовер с V8 за всю историю бренда. Источник: theautochannel.com, autopadre.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:42.891Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2010-2012_Cadillac_SRX_--_05-23-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2010-2012_Cadillac_SRX_--_05-23-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:03:42.891Z"
+}

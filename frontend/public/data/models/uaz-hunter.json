@@ -1,0 +1,20 @@
+{
+  "id": "sync-uaz-hunter",
+  "slug": "uaz-hunter",
+  "name": "UAZ Hunter",
+  "fullName": "UAZ Hunter",
+  "brandId": "uaz",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:22:15.920Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/ParkPatriot2015part4-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/ParkPatriot2015part4-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:22:15.920Z"
+}

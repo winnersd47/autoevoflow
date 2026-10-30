@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-lupo",
+  "slug": "volkswagen-lupo",
+  "name": "Lupo",
+  "fullName": "Lupo",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "city",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:22:42.783Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/VW_K%C3%A4fer_Baujahr_1966.jpg/3840px-VW_K%C3%A4fer_Baujahr_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/VW_K%C3%A4fer_Baujahr_1966.jpg/3840px-VW_K%C3%A4fer_Baujahr_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:22:42.783Z"
+}

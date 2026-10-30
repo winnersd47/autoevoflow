@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-grand-cherokee-wk",
+  "slug": "jeep-grand-cherokee-wk",
+  "name": "Jeep Grand Cherokee SRT8",
+  "fullName": "Jeep Grand Cherokee SRT8",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Первый в истории SRT8 на Grand Cherokee — 6.1L HEMI V8 420 л.с./570 Нм (форсирован SRT: выше степень сжатия, новые ГБЦ и впускной коллектор), 0-100 км/ч <5 с. Заполняет разрыв во флагманской performance-линейке между 5.9 Limited (1998) и WK2 SRT8 (2012). Источники: jeepspecs.com, carmagazine.co.uk, motorweek.org (2006).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:55:19.975Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg/3840px-2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg/3840px-2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:55:19.975Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-isuzu-ascender",
+  "slug": "isuzu-ascender",
+  "name": "Isuzu Ascender",
+  "fullName": "Isuzu Ascender",
+  "brandId": "isuzu",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "5.3L V8, 285hp/325lb-ft (база — 4.2L I6, 275hp). Самый редкий из шести близнецов GMT360 — Isuzu сворачивала присутствие на рынке легковых авто в США в этот период.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:02:37.311Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2008_Isuzu_Ascender_5-Passenger_S_in_Arctic_White_%26_Gray_Metallic%2C_Front_Left%2C_06-17-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/2008_Isuzu_Ascender_5-Passenger_S_in_Arctic_White_%26_Gray_Metallic%2C_Front_Left%2C_06-17-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:02:37.311Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-599-sa-aperta",
+  "slug": "ferrari-599-sa-aperta",
+  "name": "Ferrari 599 SA Aperta",
+  "fullName": "Ferrari 599 SA Aperta",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "SA Aperta (в честь 90-летия со дня рождения Sergio Pininfarina) — открытая версия 599 с лёгким матерчатым верхом на дуге безопасности и двигателем, форсированным до 670 л.с. (как у 599 GTO). Всего 80 экз., 2010-2011.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:16:04.813Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:16:04.813Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-q50-red-sport",
+  "slug": "infiniti-q50-red-sport",
+  "name": "Q50 Red Sport 400",
+  "fullName": "Q50 Red Sport 400",
+  "brandId": "infiniti",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:42:38.587Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Infiniti_Q50_S_HYBRID_%28V37%29_%E2%80%93_Frontansicht%2C_14._Juni_2014%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Infiniti_Q50_S_HYBRID_%28V37%29_%E2%80%93_Frontansicht%2C_14._Juni_2014%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:42:38.587Z"
+}

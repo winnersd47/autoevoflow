@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-xsara",
+  "slug": "citroen-xsara",
+  "name": "Xsara",
+  "fullName": "Xsara",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Successor to ZX. 1.4–2.0L petrol + diesel. WRC rally success 2003. Also Picasso MPV variant.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:09:24.023Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/2003_Acropolis_Rally_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/2003_Acropolis_Rally_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:09:24.023Z"
+}

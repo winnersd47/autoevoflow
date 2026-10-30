@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-eqb",
+  "slug": "mercedes-eqb",
+  "name": "EQB V243",
+  "fullName": "EQB V243",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "electric",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:32:42.657Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mercedes-Benz_X243_300_1X7A0422.jpg/3840px-Mercedes-Benz_X243_300_1X7A0422.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mercedes-Benz_X243_300_1X7A0422.jpg/3840px-Mercedes-Benz_X243_300_1X7A0422.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:32:42.657Z"
+}

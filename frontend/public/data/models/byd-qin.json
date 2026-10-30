@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-qin",
+  "slug": "byd-qin",
+  "name": "BYD Qin",
+  "fullName": "BYD Qin (2013)",
+  "brandId": "byd",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:46:33.668Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/BYD_Zhengzhou_All-Terrain_Circuit_entrance.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/BYD_Zhengzhou_All-Terrain_Circuit_entrance.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:46:33.668Z"
+}

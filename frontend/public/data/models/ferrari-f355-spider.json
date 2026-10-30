@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-f355-spider",
+  "slug": "ferrari-f355-spider",
+  "name": "F355 Spider",
+  "fullName": "F355 Spider",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "Полностью открытая версия F355 с мягким верхом — второй классический родстер Ferrari после 348 Spider. В продаже с 1995-го, тот же 3.5Л V8 (375 л.с.).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:15:53.720Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:15:53.720Z"
+}

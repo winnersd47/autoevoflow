@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-raptor-r",
+  "slug": "ford-f150-raptor-r",
+  "name": "Ford F-150 Raptor R",
+  "fullName": "Ford F-150 Raptor R",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Флагманская версия Raptor на базе 14-го поколения (2021+) — впервые для Raptor вместо EcoBoost V6 установлен атмо-наддувный V8 5.2L Predator (тот же блок, что у Shelby GT500/Mustang GTD), 700hp/640 lb-ft (720hp с обновлением MY2024). 0-60 за 4.4с, прямой ответ на Ram 1500 TRX (702hp Hellcat V8). Анонсирован июль 2022, продажи с 2023 м.г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:54:00.729Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Edit_-1-19_%2854248040892%29_%28cropped%29.jpg/3840px-Edit_-1-19_%2854248040892%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Edit_-1-19_%2854248040892%29_%28cropped%29.jpg/3840px-Edit_-1-19_%2854248040892%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:54:00.729Z"
+}

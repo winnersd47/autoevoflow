@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-t-series",
+  "slug": "bentley-t-series",
+  "name": "T-Series",
+  "fullName": "T-Series",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:39:39.533Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bentley_T_6230cc_registered_January_1967_so_an_early_one.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bentley_T_6230cc_registered_January_1967_so_an_early_one.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:39:39.533Z"
+}

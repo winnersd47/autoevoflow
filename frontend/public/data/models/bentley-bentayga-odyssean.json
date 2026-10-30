@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-bentayga-odyssean",
+  "slug": "bentley-bentayga-odyssean",
+  "name": "Bentley Bentayga Odyssean Edition",
+  "fullName": "Bentley Bentayga Odyssean Edition",
+  "brandId": "bentley",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Лимитированная версия на базе Bentayga Hybrid (V6 PHEV, 456 л.с./700 Нм) с акцентом на экологичные материалы и комфортное оснащение уровня Azure (22-позиционные сиденья с подогревом/вентиляцией). Ограничена 70 экземплярами, продажи с ноября 2023. Источники: manofmany.com, autoexpress.co.uk, edmunds.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:35:46.907Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/3840px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/3840px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:35:46.907Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-1",
+  "slug": "buick-regal-1",
+  "name": "Buick Regal Gen.1",
+  "fullName": "Buick Regal Gen.1",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "Дебютировал в 1973г. как топ-комплектация персонального купе Century (НЕ отдельная модель — см. variant_of от buick-century-1), с 1974г. выделен в самостоятельную модель Buick Regal. Тот же мотор, что у Century Gen.1 — топ-опция 455cid V8, 250hp (до 1976г.), основной — 350 V8, 175hp. Источник: conceptcarz.com, wikipedia (Buick Regal).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:07:58.372Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:07:58.372Z"
+}

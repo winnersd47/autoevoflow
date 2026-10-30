@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-polo-1",
+  "slug": "volkswagen-polo-1",
+  "name": "Polo Mk1",
+  "fullName": "Polo Mk1",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1975,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:01:33.962Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Volkswagen_Polo_Mk1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Volkswagen_Polo_Mk1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:01:33.962Z"
+}

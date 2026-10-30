@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-passat-r36",
+  "slug": "volkswagen-passat-r36",
+  "name": "Volkswagen Passat R36 (B6)",
+  "fullName": "Volkswagen Passat R36 (B6)",
+  "brandId": "volkswagen",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Самая мощная серийная Passat своего времени — атмосферный VR6 3.6 FSI, 300 л.с. (221 кВт), 350 Н·м, 4Motion, DSG-6, 0-100 за 5.6 с, макс. 250 км/ч (ограничена электроникой). Дебют в 2007 — второй автомобиль с бейджем R после Golf R32. Выпускалась в кузовах седан и универсал (Variant).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:44:07.451Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2010_Volkswagen_Passat_Highline_TDi_140_2.0_Front.jpg/3840px-2010_Volkswagen_Passat_Highline_TDi_140_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2010_Volkswagen_Passat_Highline_TDi_140_2.0_Front.jpg/3840px-2010_Volkswagen_Passat_Highline_TDi_140_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:44:07.451Z"
+}

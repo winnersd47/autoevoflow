@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-camargue",
+  "slug": "rolls-royce-camargue",
+  "name": "Camargue",
+  "fullName": "Camargue",
+  "brandId": "rolls-royce",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 1975,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:44:28.076Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/1980_Rolls-Royce_Camargue_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/1980_Rolls-Royce_Camargue_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:44:28.077Z"
+}

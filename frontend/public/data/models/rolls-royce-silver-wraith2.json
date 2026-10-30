@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-silver-wraith2",
+  "slug": "rolls-royce-silver-wraith2",
+  "name": "Rolls-Royce Silver Wraith II",
+  "fullName": "Rolls-Royce Silver Wraith II",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Удлинённая версия (LWB, колёсная база +102мм) Silver Shadow II под историческим именем Silver Wraith (ранее использовалось в 1946-1958). Выпускалась в 1977-1980, построено 2154 экземпляра. Тот же 6.75Л V8 и 3-ступ. АКПП GM400, что и Silver Shadow II, увеличенное пространство для задних пассажиров, часто с перегородкой водитель/салон. Источники: classic.com, exoticcartrader.com, classicandsportscar.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:32:03.391Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rolls_Royce_Silver_Shadow_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rolls_Royce_Silver_Shadow_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:32:03.391Z"
+}

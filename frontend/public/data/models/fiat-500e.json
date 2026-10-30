@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-500e",
+  "slug": "fiat-500e",
+  "name": "Fiat 500e",
+  "fullName": "Fiat 500e (2020)",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "city",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:03:24.502Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fiat-500-vorne2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Fiat-500-vorne2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:03:24.502Z"
+}

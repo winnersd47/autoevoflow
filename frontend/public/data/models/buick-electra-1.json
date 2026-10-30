@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-electra-1",
+  "slug": "buick-electra-1",
+  "name": "Buick Electra Gen.1",
+  "fullName": "Buick Electra Gen.1",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1959,
+  "isActive": true,
+  "description": "Флагманский полноразмерный седан Buick, сменивший Roadmaster в 1959г. Единственный мотор — 401cid \"Wildcat 445\" V8, 325hp, 2-ступенчатый автомат Dynaflow. Источник: carbuzz.com (Buick Electra 225 history), conceptcarz.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:31.260Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg/3840px-2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg/3840px-2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:06:31.260Z"
+}

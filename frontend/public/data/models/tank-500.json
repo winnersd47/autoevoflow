@@ -1,0 +1,20 @@
+{
+  "id": "sync-tank-500",
+  "slug": "tank-500",
+  "name": "Tank 500",
+  "fullName": "Tank 500",
+  "brandId": "haval",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Флагман Tank; PHEV 3-рядный SUV; конкурент Land Rover Defender 110",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:31:42.095Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Haval_H6_III_IMG001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Haval_H6_III_IMG001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:31:42.095Z"
+}

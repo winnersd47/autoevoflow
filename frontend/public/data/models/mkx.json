@@ -1,0 +1,20 @@
+{
+  "id": "sync-mkx",
+  "slug": "mkx",
+  "name": "MKX",
+  "fullName": "MKX",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "midsize_luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "1-е поколение (2007-2015) на платформе CD3 (общей с Ford Edge 1-го поколения). ВАЖНО: у MKX было два поколения — данный узел относится только к 1-му (до фейслифта 2011г. 3.5L V6/265 л.с., после — 3.7L V6/305 л.с., приведено в узле как пиковое). 2-е поколение (2016-2018, платформа CD4) добавлено отдельным узлом lincoln-mkx-2 — без него ребро эволюции в Nautilus (2019) перескакивало бы через реально существовавшее поколение. Источники: edmunds.com, auto-data.net (Lincoln MKX I facelift 2011).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:56:28.557Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lincoln_MKX_2.7T_AWD_Reserve_U540_White_Platinum_Metallic_Tri-coat_%288%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lincoln_MKX_2.7T_AWD_Reserve_U540_White_Platinum_Metallic_Tri-coat_%288%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:56:28.557Z"
+}

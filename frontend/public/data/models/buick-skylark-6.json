@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-skylark-6",
+  "slug": "buick-skylark-6",
+  "name": "Buick Skylark T-Type",
+  "fullName": "Buick Skylark T-Type",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "Новая платформа N-body (общая с Pontiac Grand Am/Oldsmobile Calais). Редкий турбо-трим T-Type (только 1987г.) — 2.3L turbo I4, 165hp. ВАЖНО: это турбомотор, НЕ путать с пришедшим ему на смену атмосферным Quad 4 (2.3L DOHC, 150hp, с 1988г., когда трим переименован в Gran Sport/GS) — классическая точка возможной путаницы turbo/NA той же кубатуры. Источник: automobile-catalog.com (1987-88 Buick Skylark), hotcars.com (Buick Skylark generations guide).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:11:51.328Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:11:51.328Z"
+}

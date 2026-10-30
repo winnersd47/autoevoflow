@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-s197",
+  "slug": "ford-mustang-s197",
+  "name": "Mustang S197",
+  "fullName": "Mustang S197",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:57:45.629Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg/3840px-Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg/3840px-Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:57:45.629Z"
+}

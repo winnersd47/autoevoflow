@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-quattroporte-iv-v8",
+  "slug": "maserati-quattroporte-iv-v8",
+  "name": "Maserati Quattroporte IV 3.2 V8 Evoluzione",
+  "fullName": "Maserati Quattroporte IV 3.2 V8 Evoluzione",
+  "brandId": "maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "С 1996г. в линейку QP IV добавлен топовый мотор — 3.2Л V8 (32-клапанный, от флагманского купе Shamal), 335hp. С 1998г. модельный ряд обновлён под именем 'Evoluzione' (косметика/эмиссии), V8-версия сохранялась до конца производства QP IV в 2001г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:37:01.067Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:37:01.067Z"
+}

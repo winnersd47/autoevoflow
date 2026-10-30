@@ -1,0 +1,20 @@
+{
+  "id": "sync-olds-cutlass",
+  "slug": "olds-cutlass",
+  "name": "Oldsmobile Cutlass Supreme",
+  "fullName": "Oldsmobile Cutlass Supreme",
+  "brandId": "oldsmobile",
+  "bodyType": "coupe",
+  "segment": "mid",
+  "primaryMarket": "global",
+  "startYear": 1966,
+  "isActive": true,
+  "description": "Редизайн A-body. Cutlass Supreme — топ-трим с 350 Rocket V8 4bbl, 310 л.с. Эта же генерация служит базой для нового поколения 442 (см. derived_from). Источник: en.wikipedia.org (Oldsmobile Cutlass Supreme), hotcars.com (Oldsmobile Cutlass Generations Guide).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:58:09.857Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/1970_Oldsmobile_Cutlass_Supreme_Holiday_Coupe%2C_front_right%2C_06-21-2023.jpg/3840px-1970_Oldsmobile_Cutlass_Supreme_Holiday_Coupe%2C_front_right%2C_06-21-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/1970_Oldsmobile_Cutlass_Supreme_Holiday_Coupe%2C_front_right%2C_06-21-2023.jpg/3840px-1970_Oldsmobile_Cutlass_Supreme_Holiday_Coupe%2C_front_right%2C_06-21-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:58:09.857Z"
+}

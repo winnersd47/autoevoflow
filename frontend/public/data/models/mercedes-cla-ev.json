@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-cla-ev",
+  "slug": "mercedes-cla-ev",
+  "name": "CLA-Class EV",
+  "fullName": "CLA-Class EV",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "compact_luxury",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:49:14.517Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mercedes-Benz_C118_IMG_2673.jpg/3840px-Mercedes-Benz_C118_IMG_2673.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mercedes-Benz_C118_IMG_2673.jpg/3840px-Mercedes-Benz_C118_IMG_2673.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:49:14.517Z"
+}

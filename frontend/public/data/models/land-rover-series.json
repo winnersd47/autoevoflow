@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-series",
+  "slug": "land-rover-series",
+  "name": "Series III",
+  "fullName": "Series III",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1948,
+  "isActive": true,
+  "description": "",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:20:20.765Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Land_Rover_Series_I_1948_%28HUE_166%29.jpg/3840px-Land_Rover_Series_I_1948_%28HUE_166%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Land_Rover_Series_I_1948_%28HUE_166%29.jpg/3840px-Land_Rover_Series_I_1948_%28HUE_166%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:20:20.765Z"
+}

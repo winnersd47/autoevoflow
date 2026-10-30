@@ -1,0 +1,20 @@
+{
+  "id": "sync-olds-toronado",
+  "slug": "olds-toronado",
+  "name": "Oldsmobile Toronado",
+  "fullName": "Oldsmobile Toronado",
+  "brandId": "oldsmobile",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1966,
+  "isActive": true,
+  "description": "Переход на несущий кузов (unibody) и поперечный 3.8L V6 с впрыском (140 л.с./271 Нм) вместо продольного V8 — общая платформа с Buick Riviera Gen.7 и Cadillac Eldorado. К финальному 1992 модельному году мощность выросла до 170 л.с. Источник: en.wikipedia.org (Oldsmobile Toronado), carweek.com.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:22:43.993Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/66Toronado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/66Toronado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:22:43.993Z"
+}

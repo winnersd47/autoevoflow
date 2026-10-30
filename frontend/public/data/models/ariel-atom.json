@@ -1,0 +1,20 @@
+{
+  "id": "sync-ariel-atom",
+  "slug": "ariel-atom",
+  "name": "Ariel Atom (Gen 1)",
+  "fullName": "Ariel Atom (Gen 1)",
+  "brandId": "ariel",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Original Ariel Atom. Tubular spaceframe, no bodywork. Honda VTEC 1.8L, 160–215 HP. 0-60 in 3.5s. Donor for Rezvani Beast.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:59:52.060Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:59:52.060Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-tonale-phev-q4",
+  "slug": "alfa-romeo-tonale-phev-q4",
+  "name": "Alfa Romeo Tonale Plug-in Hybrid Q4",
+  "fullName": "Alfa Romeo Tonale Plug-in Hybrid Q4",
+  "brandId": "alfa-romeo",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Единственная электрифицированная plug-in силовая установка Tonale — турбо 1.3L I4 спереди + задний электромотор 90кВт + батарея 15.5кВтч, суммарно ~272-285hp (цифра зависит от рынка) и автоматический полный привод Q4 (оси механически не связаны). Пробег на электротяге — около 60-80км (WLTP). В США для 2023-24 мод. года была ЕДИНСТВЕННОЙ доступной силовой установкой Tonale; с 2026 модельного года снята с амер. рынка в пользу атмо-турбо 2.0 бензин 268hp без электрификации.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:39:23.530Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg/3840px-2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg/3840px-2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:39:23.530Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-w16-mistral-caroline",
+  "slug": "bugatti-w16-mistral-caroline",
+  "name": "W16 Mistral Caroline",
+  "fullName": "W16 Mistral Caroline",
+  "brandId": "bugatti",
+  "bodyType": "roadster",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Именной one-off программы Sur Mesure, представлен в конце марта 2026. Назван в честь дочери заказчика; лавандовая ливрея с эффектом смены цвета, вдохновлена цветами Прованса и высокой модой. Источник: netcarshow 2026-w16_mistral_caroline, motor1/autoblog.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:28:25.684Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bugatti_Mistral_2.jpg/3840px-Bugatti_Mistral_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bugatti_Mistral_2.jpg/3840px-Bugatti_Mistral_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:28:25.684Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-ttype",
+  "slug": "buick-regal-ttype",
+  "name": "Buick Regal T-Type",
+  "fullName": "Buick Regal T-Type",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1983,
+  "isActive": true,
+  "description": "Спортивный турбо-трим Regal, визуально сдержаннее чёрного Grand National (не полностью чёрная ливрея). 3.8L Turbo V6, 190hp/280 фунт-фут (1983г.). Источник: musclecarclub.com (Buick Grand National and Regal T-Type).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:08:02.148Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:08:02.148Z"
+}

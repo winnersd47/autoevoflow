@@ -1,0 +1,20 @@
+{
+  "id": "sync-lucid-gravity",
+  "slug": "lucid-gravity",
+  "name": "Lucid Gravity GT-S",
+  "fullName": "Lucid Gravity GT-S",
+  "brandId": "lucid",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Топ-трим линейки Gravity (Touring 560 -> Grand Touring 828 -> GT-S 1070 л.с.), объявлен авг.2026 на Monterey Car Week, $125,900, только США.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:56:50.876Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg/3840px-Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg/3840px-Lucid_Gravity_Grand_Touring_GIMS_2024_1X7A2334.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:56:50.876Z"
+}

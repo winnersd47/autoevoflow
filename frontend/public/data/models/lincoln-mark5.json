@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-mark5",
+  "slug": "lincoln-mark5",
+  "name": "Continental Mk V",
+  "fullName": "Continental Mk V",
+  "brandId": "lincoln",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Пример узла-\"якоря\", замаскированного под трим: прежний codeName \"Mark V Collector Series\" указывал на ограниченную отделку финального 1979г., хотя мощность в узле (208→210 л.с.) соответствует более раннему и мощному опциональному 460cid V8 (1977-78гг., 210 л.с.) — к 1979г. этот мотор уже не предлагался (остался только 400cid/166 л.с.). Собственно Collector's Series (1979) — косметический пакет (цвета/салон), пришедший на смену Diamond Jubilee Edition (1978), без отдельного мотора. Источники: Wikipedia (Lincoln Continental Mark V), conceptcarz.com (1979 Lincoln Mark V).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:43:01.810Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/1979_Lincoln_Continental_Mark_V_Collector%27s_Series_%287503042882%29_%28cropped%29.jpg/3840px-1979_Lincoln_Continental_Mark_V_Collector%27s_Series_%287503042882%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/1979_Lincoln_Continental_Mark_V_Collector%27s_Series_%287503042882%29_%28cropped%29.jpg/3840px-1979_Lincoln_Continental_Mark_V_Collector%27s_Series_%287503042882%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:43:01.810Z"
+}

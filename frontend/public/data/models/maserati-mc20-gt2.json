@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-mc20-gt2",
+  "slug": "maserati-mc20-gt2",
+  "name": "Maserati MC20 GT2",
+  "fullName": "Maserati MC20 GT2",
+  "brandId": "maserati",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Гоночная версия MC20 для дебюта Maserati в Fanatec GT2 European Series (сезон 2023) — возвращение бренда в закрытые кузовные гонки после окончания программы MC12 в FIA GT (2010). Тот же 3.0Т V6 Nettuno (технология Maserati Twin Combustion), карбоновый монокок, омологированный FIA топливный бак FT3 120л, 6-ступенчатая секвентальная КПП, мощность регулируется баланс-перфоманс (BoP) от базовых 630hp. Дорожная гомологация этой гоночной модели — GT2 Stradale (2024, см. derived_from).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:38:12.151Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Maserati_MC20_IAA_2021_1X7A0087.jpg/3840px-Maserati_MC20_IAA_2021_1X7A0087.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Maserati_MC20_IAA_2021_1X7A0087.jpg/3840px-Maserati_MC20_IAA_2021_1X7A0087.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:38:12.151Z"
+}

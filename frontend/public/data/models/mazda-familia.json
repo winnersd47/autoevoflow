@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-familia",
+  "slug": "mazda-familia",
+  "name": "Mazda Familia BF",
+  "fullName": "Mazda Familia BF",
+  "brandId": "mazda",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "Mazda Familia (BF, экспорт — 323), 3-е поколение (переднеприводное), 1985-1989. Базовые моторы 1.3-1.5L, ок. 85 л.с.; с октября 1985г. добавлена версия с постоянным полным приводом и турбонаддувом (см. GT-X). Источник: Wikipedia (Mazda Familia), automobile-catalog.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:13:44.457Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Mazda_Familia_Van_%2841571542364%29.jpg/3840px-Mazda_Familia_Van_%2841571542364%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Mazda_Familia_Van_%2841571542364%29.jpg/3840px-Mazda_Familia_Van_%2841571542364%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:13:44.457Z"
+}

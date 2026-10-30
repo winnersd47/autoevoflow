@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-beetle-a5",
+  "slug": "vw-beetle-a5",
+  "name": "Volkswagen Beetle (A5, 2011)",
+  "fullName": "Volkswagen Beetle (A5, 2011)",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Третье поколение Beetle (A5), дебют в 2011 — впервые продавалось без приставки 'New'. Платформа Golf Mk6 (PQ35). Моторы на старте: 2.5 R5 170 л.с. (основной рынок США) и 2.0 TSI 200 л.с. / 2.0 TDI 140 л.с. (Европа); с 2014 — 1.8 TSI 170 л.с. вместо 2.5. Производство до 2019 (Final Edition, США). В графе ранее был разрыв между New Beetle (1997) и этим поколением.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:43:04.989Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/VW_Beetle_1.4_TSI_Sport_%E2%80%93_Frontansicht%2C_3._M%C3%A4rz_2013%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/VW_Beetle_1.4_TSI_Sport_%E2%80%93_Frontansicht%2C_3._M%C3%A4rz_2013%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:43:04.989Z"
+}

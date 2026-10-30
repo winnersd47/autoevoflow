@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-dark-horse",
+  "slug": "ford-mustang-dark-horse",
+  "name": "Mustang Dark Horse",
+  "fullName": "Mustang Dark Horse",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Самый мощный атмосферный Coyote без Shelby; кованые шатуны, 7500 об/мин; заменил Mach 1 / GT350 в иерархии S650",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:34:02.171Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Seventh_generation_2024_Ford_Mustang_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Seventh_generation_2024_Ford_Mustang_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:34:02.171Z"
+}

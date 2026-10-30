@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-tank-military",
+  "slug": "rezvani-tank-military",
+  "name": "Rezvani Tank Military Edition",
+  "fullName": "Rezvani Tank Military Edition",
+  "brandId": "rezvani",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Tank with Level 7 ballistic armor, Kevlar fuel tank, bomb blast floor, night vision. $295K. Jeep Wrangler JK base.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:01:05.682Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:01:05.682Z"
+}

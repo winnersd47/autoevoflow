@@ -1,0 +1,20 @@
+{
+  "id": "sync-elan",
+  "slug": "elan",
+  "name": "Elan S4/Sprint",
+  "fullName": "Elan S4/Sprint",
+  "brandId": "lotus",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:04:07.804Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Four_Elans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Four_Elans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:04:07.804Z"
+}

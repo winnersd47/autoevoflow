@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-pv544",
+  "slug": "volvo-pv544",
+  "name": "Volvo PV544",
+  "fullName": "Volvo PV544 (1958)",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1958,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:33:23.683Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/1928_Volvo_OV4.jpg/3840px-1928_Volvo_OV4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/1928_Volvo_OV4.jpg/3840px-1928_Volvo_OV4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:33:23.683Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-stinger",
+  "slug": "kia-stinger",
+  "name": "Kia Stinger GT2 Facelift",
+  "fullName": "Kia Stinger GT2 Facelift",
+  "brandId": "kia",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Рестайлинг Stinger, представлен в окт. 2020 (MY2021): новая передняя часть, светодиодная графика фар, салон с 10.25\" экраном. Линейка тримов расширена до GT-Line/GT/GT1/GT2. 3.3 твин-турбо V6 — 365-368 л.с./376 фунт-фут (GT1/GT2, указан анкором); 2.5T I4 — 300 л.с. (GT-Line, с MY2022). GT1 убран из линейки после MY2022. Производство Stinger остановлено после MY2023 (финальная 'Tribute Edition').",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:31:05.663Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kia_Stinger_Facelift_IMG_4468.jpg/3840px-Kia_Stinger_Facelift_IMG_4468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kia_Stinger_Facelift_IMG_4468.jpg/3840px-Kia_Stinger_Facelift_IMG_4468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:31:05.663Z"
+}

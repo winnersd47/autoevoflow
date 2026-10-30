@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-aventador-ultimae-roadster",
+  "slug": "lamborghini-aventador-ultimae-roadster",
+  "name": "Lamborghini Aventador LP780-4 Ultimae Roadster",
+  "fullName": "Lamborghini Aventador LP780-4 Ultimae Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Открытая версия Ultimae — последний открытый Aventador и последний чисто атмосферный V12-родстер бренда без гибрида, лимит 250 экз. Источник: официальный пресс-релиз Lamborghini 2021.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:19:37.078Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:19:37.078Z"
+}

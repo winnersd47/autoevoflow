@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-1-denali",
+  "slug": "gmc-sierra-1-denali",
+  "name": "GMC Sierra C3/Denali 1500",
+  "fullName": "GMC Sierra C3/Denali 1500",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "luxury_truck",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "Первый Denali-трим на Sierra: запущен как 'Sierra C3' в MY2001, с MY2002 переименован в 'Sierra Denali 1500'. Единственный мотор — 6.0L V8 Vortec, 325 л.с., полный привод AWD + GM Quadrasteer (4-колёсное рулевое) стандартно — ключевые отличия от базовой Sierra Gen1 (gmc-sierra-1, 285hp). Источники: gmauthority.com/blog/gm/gmc/sierra/sierra-denali, en.wikipedia.org/wiki/GMC_Denali. Год 2001 — реальный старт трима (не рестайлинг базового Gen1 1999 года, а новый топ-трим внутри того же поколения GMT800).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:14.622Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:12:14.622Z"
+}

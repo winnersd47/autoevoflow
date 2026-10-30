@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi Q6 e-tron (2024–present), built on the Premium Platform Electric (PPE) developed jointly with Porsche, is Audi's premium mid-size electric SUV. The PPE platform allows 800V charging, placing the Q6 e-tron above the MEB-based Q4 e-tron in architecture and performance.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Audi_Q6_e-tron_DSC_7829.jpg/3840px-Audi_Q6_e-tron_DSC_7829.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Audi_Q6_e-tron_DSC_7829.jpg/3840px-Audi_Q6_e-tron_DSC_7829.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "suv",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:43:53.963Z",
   "generations": [
     {
       "id": "gen-audi-q6-e-tron-1",

@@ -1,0 +1,20 @@
+{
+  "id": "sync-go",
+  "slug": "go",
+  "name": "MG GO Concept",
+  "fullName": "MG GO Concept",
+  "brandId": "mg",
+  "bodyType": "hatchback",
+  "segment": "compact-suv",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Концепт B-класса электрохэтчбека (Goodwood-2026), дизайн отсылает к MGB GT/Metro Turbo/ZR/EX4. Технические характеристики (батарея/мотор/запас хода) компания намеренно не раскрыла — серийная версия ожидается в 2027г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:27:32.951Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/MG_GS_01_China_2015-04-08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/MG_GS_01_China_2015-04-08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:27:32.951Z"
+}

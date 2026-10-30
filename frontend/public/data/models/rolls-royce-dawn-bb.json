@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-dawn-bb",
+  "slug": "rolls-royce-dawn-bb",
+  "name": "Dawn Black Badge",
+  "fullName": "Dawn Black Badge",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:38:27.809Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg/3840px-2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg/3840px-2019_Rolls-Royce_Dawn_V12_Automatic_6.6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:38:27.809Z"
+}

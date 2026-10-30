@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-countach-25th-anniversary",
+  "slug": "lamborghini-countach-25th-anniversary",
+  "name": "Lamborghini Countach 25th Anniversary",
+  "fullName": "Lamborghini Countach 25th Anniversary",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "1988-1990 — финальная версия Countach к 25-летию марки, рестайлинг кузова (интегрированные бамперы/юбки, новые воздухозаборники) работы Орацио Пагани, тот же 455-сильный QV V12. Самая массовая версия — 657 экз. Источник: официальные спецификации Lamborghini/Wikipedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:27:14.270Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:27:14.271Z"
+}

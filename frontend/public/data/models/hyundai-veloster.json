@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-veloster",
+  "slug": "hyundai-veloster",
+  "name": "Hyundai Veloster",
+  "fullName": "Hyundai Veloster",
+  "brandId": "hyundai",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Второе и последнее поколение Veloster (JS), 2018-2022 — после снятия с производства модель не заменили. Базовый атмосферный 2.0L, 147 л.с. (опорное значение узла); Turbo 1.6L — 201 л.с. На этой же платформе построена уже существующая в графе Veloster N (275 л.с.).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:10:13.406Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2019_Hyundai_Veloster_Turbo_in_Ignite_Flame%2C_Front_Left%2C_06-26-2022.jpg/3840px-2019_Hyundai_Veloster_Turbo_in_Ignite_Flame%2C_Front_Left%2C_06-26-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2019_Hyundai_Veloster_Turbo_in_Ignite_Flame%2C_Front_Left%2C_06-26-2022.jpg/3840px-2019_Hyundai_Veloster_Turbo_in_Ignite_Flame%2C_Front_Left%2C_06-26-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:10:13.406Z"
+}

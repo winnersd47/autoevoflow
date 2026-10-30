@@ -1,0 +1,20 @@
+{
+  "id": "sync-geely-tugella",
+  "slug": "geely-tugella",
+  "name": "Geely Tugella",
+  "fullName": "Geely Tugella",
+  "brandId": "geely",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "CMA-платформа (совместно Volvo/Geely); флагманский SUV",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:28:09.020Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2019_Geely_Xingyue_%28front%29.jpg/3840px-2019_Geely_Xingyue_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2019_Geely_Xingyue_%28front%29.jpg/3840px-2019_Geely_Xingyue_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:28:09.020Z"
+}

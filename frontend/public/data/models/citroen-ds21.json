@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-ds21",
+  "slug": "citroen-ds21",
+  "name": "Citroën DS21 Pallas",
+  "fullName": "Citroën DS21 Pallas",
+  "brandId": "citroen",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "Повышенно-мощная версия в рамках того же поколения DS (1955-1975) — вышла в 1965г. с мотором 2175см³, 106-109hp (DIN). Ранее эти характеристики ошибочно находились в самой базовой ноде citroen-ds (год 1955 — ещё до появления DS21!). Источник: conceptcarz.com 1965/1968 Citroen DS21.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:22:36.143Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:22:36.143Z"
+}

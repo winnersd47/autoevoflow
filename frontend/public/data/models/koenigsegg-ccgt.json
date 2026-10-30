@@ -1,0 +1,20 @@
+{
+  "id": "sync-koenigsegg-ccgt",
+  "slug": "koenigsegg-ccgt",
+  "name": "Koenigsegg CCGT",
+  "fullName": "Koenigsegg CCGT",
+  "brandId": "koenigsegg",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Единственный экземпляр — чистая гоночная машина для FIA GT1 World Championship, на базе шасси CCR с элементами CCX (передняя оптика). Атмосферный 5.0T V8 (600hp — потолок класса GT1), менее 1000кг. Регламент GT1 переписали посреди обкатки (запретили карбоновый монокок, подняли минимум серийного тиража с 20 до 350/год) — омологация не состоялась, машина так и не стартовала ни в одной гонке. Позже ушла с молотка на Goodwood (~$3.8-5М) и восстановлена для показательных заездов GT1 Historic.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:45:17.695Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Koenigsegg_CCX_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Koenigsegg_CCX_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:45:17.695Z"
+}

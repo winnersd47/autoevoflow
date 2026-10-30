@@ -1,0 +1,20 @@
+{
+  "id": "sync-de-tomaso-p900",
+  "slug": "de-tomaso-p900",
+  "name": "P900",
+  "fullName": "P900",
+  "brandId": "de-tomaso",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:49:24.449Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/La_De_Tomaso_P70_in_prima_assoluta_al_salone_dell%27auto_sportiva_di_Torino_nel_febbraio_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/La_De_Tomaso_P70_in_prima_assoluta_al_salone_dell%27auto_sportiva_di_Torino_nel_febbraio_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:49:24.449Z"
+}

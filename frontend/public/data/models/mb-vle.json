@@ -1,0 +1,20 @@
+{
+  "id": "sync-mb-vle",
+  "slug": "mb-vle",
+  "name": "VLE",
+  "fullName": "VLE",
+  "brandId": "mercedes",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:11:15.135Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mercedes-Benz_Vans%2C_IAA_2026%2C_Hanover_%2820260914-P1086822%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Mercedes-Benz_Vans%2C_IAA_2026%2C_Hanover_%2820260914-P1086822%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:11:15.135Z"
+}

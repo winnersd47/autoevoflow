@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-v60-2-pe",
+  "slug": "volvo-v60-2-pe",
+  "name": "Volvo V60 Polestar Engineered",
+  "fullName": "Volvo V60 Polestar Engineered",
+  "brandId": "volvo",
+  "bodyType": "estate",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Версия Polestar Engineered для V60 Gen2 — в продаже с лета 2020г. (MY2020), на год позже аналогичной S60 PE. Серийный T8 Twin Engine PHEV (2.0 турбо+компрессор I4 + электромотор) с доработанным ПО управления — 415 л.с./494 lb-ft (+15 л.с./+22 lb-ft к серийному T8). Амортизаторы Öhlins, тормоза Brembo, золотые ремни безопасности — это софт/шасси-тюнинг серийного PHEV-силового агрегата, не отдельный мотор. Источники: motorauthority.com (\"Volvo adds 415-hp Polestar Engineered option for V60, XC60\"), carsandbids.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:01:16.891Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:01:16.891Z"
+}

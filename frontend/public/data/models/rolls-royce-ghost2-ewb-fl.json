@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-ghost2-ewb-fl",
+  "slug": "rolls-royce-ghost2-ewb-fl",
+  "name": "Rolls-Royce Ghost Extended Series II",
+  "fullName": "Rolls-Royce Ghost Extended Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Удлинённая версия рестайлинга Ghost Series II (+170мм базы, как и у исходной Ghost EWB), представлена вместе со стандартной колёсной базой и Black Badge в 2024. Мощность без изменений (563 л.с.). Источники: motor1.com, rollsroycepasadena.com, carscoops.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:30:49.840Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:30:49.840Z"
+}

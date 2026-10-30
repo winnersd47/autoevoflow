@@ -1,0 +1,20 @@
+{
+  "id": "sync-alpine-a442",
+  "slug": "alpine-a442",
+  "name": "Alpine A442B",
+  "fullName": "Alpine A442B",
+  "brandId": "alpine",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "Победитель \"24 часов Ле-Мана\" 1978г. (экипаж Жан-Пьер Жоссо / Дидье Пиронди) — ПЕРВЫЙ в истории гонки победитель с турбонаддувом. 2.0Л турбо V6 Renault-Gordini (Garrett turbo), ~500hp. Версия \"B\" отличалась прозрачным аэродинамическим коконом над кокпитом. Чисто гоночный прототип — не связан механически с дорожными A110/A310.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:51:26.537Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2026_6_Hours_of_Spa-Francorchamps_Alpine_Endurance_Team_Alpine_A424_No.36_%28DSC01584%29.jpg/3840px-2026_6_Hours_of_Spa-Francorchamps_Alpine_Endurance_Team_Alpine_A424_No.36_%28DSC01584%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2026_6_Hours_of_Spa-Francorchamps_Alpine_Endurance_Team_Alpine_A424_No.36_%28DSC01584%29.jpg/3840px-2026_6_Hours_of_Spa-Francorchamps_Alpine_Endurance_Team_Alpine_A424_No.36_%28DSC01584%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:51:26.537Z"
+}

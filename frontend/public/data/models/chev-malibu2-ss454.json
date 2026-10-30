@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-malibu2-ss454",
+  "slug": "chev-malibu2-ss454",
+  "name": "Chevrolet Chevelle SS 454 LS6",
+  "fullName": "Chevrolet Chevelle SS 454 LS6",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Пакет только для 1970г. — solid-lifter 454ci V8, официально (заниженно) заявлено 450hp/500lb-ft. На момент выпуска — самый мощный серийный автомобиль в истории Chevrolet. Один из самых легендарных маслкаров эры вообще.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:01:24.982Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg/3840px-1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg/3840px-1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:01:24.982Z"
+}

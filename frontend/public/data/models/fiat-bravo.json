@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-bravo",
+  "slug": "fiat-bravo",
+  "name": "Fiat Bravo Gen.1",
+  "fullName": "Fiat Bravo Gen.1 (1995)",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:40:39.792Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Fiat_Bravo_ca_1995_aus_Hof_%28Bayern%29_bei_Mill_Road_in_Cambridge_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Fiat_Bravo_ca_1995_aus_Hof_%28Bayern%29_bei_Mill_Road_in_Cambridge_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:40:39.792Z"
+}

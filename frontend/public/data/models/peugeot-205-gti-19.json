@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-205-gti-19",
+  "slug": "peugeot-205-gti-19",
+  "name": "Peugeot 205 GTI 1.9",
+  "fullName": "Peugeot 205 GTI 1.9",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "С дек.1986 рядом с 1.6 появилась версия 1.9Л — 130 л.с. (105 л.с. у 1.6 в 1984г.). Источник: evo.co.uk, autoexpress.co.uk buying guide 205 GTI.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:17:34.151Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG/3840px-1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG/3840px-1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:17:34.151Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-vantage",
+  "slug": "astonmartin-vantage",
+  "name": "Aston Martin Vantage S Roadster",
+  "fullName": "Aston Martin Vantage S Roadster",
+  "brandId": "astonmartin",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Возрождение исторического суффикса \"S\" (был у первого поколения V8 Vantage 2011-2018) на текущей (2018+) платформе. 671 л.с. против 656 у обычного Vantage. Roadster = кузов кабриолет.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:25:01.810Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg/3840px-2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg/3840px-2013_Aston_Martin_V12_Vantage_S_Automatic_5.9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:25:01.810Z"
+}

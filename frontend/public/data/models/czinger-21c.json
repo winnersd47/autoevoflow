@@ -1,0 +1,20 @@
+{
+  "id": "sync-czinger-21c",
+  "slug": "czinger-21c",
+  "name": "Czinger 21C Spyder",
+  "fullName": "Czinger 21C Spyder",
+  "brandId": "czinger",
+  "bodyType": "targa",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Первая открытая версия 21C, показана Monterey Car Week авг.2026. ~30 экземпляров (против 80 хардтопов), от $2.75М. Год модели официально не указан прессой — 2026 = год премьеры, поставки вероятно захватят 2027.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:05:28.703Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Czinger_21C_FOS2022.jpg/3840px-Czinger_21C_FOS2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Czinger_21C_FOS2022.jpg/3840px-Czinger_21C_FOS2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:05:28.703Z"
+}

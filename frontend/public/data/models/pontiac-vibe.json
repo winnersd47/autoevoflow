@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-vibe",
+  "slug": "pontiac-vibe",
+  "name": "Pontiac Vibe",
+  "fullName": "Pontiac Vibe",
+  "brandId": "pontiac",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Инженерный близнец Toyota Matrix — совместное производство GM/Toyota на заводе NUMMI.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:35:53.294Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/03-04_Pontiac_Vibe_GT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/03-04_Pontiac_Vibe_GT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:35:53.294Z"
+}

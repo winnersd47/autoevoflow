@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-countach-lp500s",
+  "slug": "lamborghini-countach-lp500s",
+  "name": "Lamborghini Countach LP500S",
+  "fullName": "Lamborghini Countach LP500S",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "1982 (также известна как LP5000S) — увеличенный до 4.8Л V12 (планировался полноценный 5.0Л, но из-за проблем с надёжностью объём снизили), мощность осталась на уровне ~375hp, усиленное шасси/подвеска. Источник: официальные спецификации Lamborghini/Wikipedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:26:09.448Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:26:09.448Z"
+}

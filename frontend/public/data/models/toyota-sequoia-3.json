@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-sequoia-3",
+  "slug": "toyota-sequoia-3",
+  "name": "Toyota Sequoia 3rd Generation",
+  "fullName": "Toyota Sequoia 3rd Generation",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "fullsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Третье поколение представлено в январе 2022 (MY2023) на раме GA-F, общей с Tundra и Lexus LX. Впервые единственный силовой агрегат — гибрид i-FORCE MAX (твин-турбо 3.4L V6 + электромотор), 437 л.с./583 lb-ft; обычный бензиновый V8 больше не предлагается. Пакет Trailhunter уже присутствовал в графе отдельным (осиротевшим) узлом — этим аудитом подключён сюда как вариант этого поколения.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:46:29.415Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2023_Toyota_Sequoia_Limited_in_Wind_Chill_Pearl%2C_Front_Right%2C_01-16-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2023_Toyota_Sequoia_Limited_in_Wind_Chill_Pearl%2C_Front_Right%2C_01-16-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:46:29.415Z"
+}

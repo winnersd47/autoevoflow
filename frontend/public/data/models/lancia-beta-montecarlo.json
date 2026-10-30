@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-beta-montecarlo",
+  "slug": "lancia-beta-montecarlo",
+  "name": "Lancia Beta Montecarlo",
+  "fullName": "Lancia Beta Montecarlo (1975)",
+  "brandId": "lancia",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1975,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:00:57.472Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lancia_Montecarlo_%2824750084830%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lancia_Montecarlo_%2824750084830%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:00:57.472Z"
+}

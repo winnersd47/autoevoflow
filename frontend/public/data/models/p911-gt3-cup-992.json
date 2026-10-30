@@ -1,0 +1,20 @@
+{
+  "id": "sync-p911-gt3-cup-992",
+  "slug": "p911-gt3-cup-992",
+  "name": "911 GT3 Cup 992",
+  "fullName": "911 GT3 Cup 992",
+  "brandId": "porsche",
+  "bodyType": "Race Car",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:23:55.028Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Porsche_992_GT3_1X7A0323.jpg/3840px-Porsche_992_GT3_1X7A0323.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Porsche_992_GT3_1X7A0323.jpg/3840px-Porsche_992_GT3_1X7A0323.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:23:55.028Z"
+}

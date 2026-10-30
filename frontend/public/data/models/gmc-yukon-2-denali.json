@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-2-denali",
+  "slug": "gmc-yukon-2-denali",
+  "name": "GMC Yukon Denali",
+  "fullName": "GMC Yukon Denali",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "С MY2001 Denali получила 6.0L V8 (320-325hp по разным источникам калибровки) — впервые силовое превосходство над обычной Yukon (285hp/5.3L) стало существенным, а не только про AWD/люкс. Источники: consumerguide.com/used/2000-06-gmc-yukondenali, cartimeline.com (GMC Yukon XL Denali AWD 6.0 325hp), auto123.com/en/new-cars/technical-specs/gmc/yukon/2001.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:28.529Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:28.529Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-miura",
+  "slug": "lamborghini-miura",
+  "name": "Lamborghini Miura Roadster",
+  "fullName": "Lamborghini Miura Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "roadster",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "One-off Bertone на базе СЕРИЙНОЙ Miura (не концепт с нуля) — Брюссель, 1968. Без крыши и боковых стёкол, доработанный хвост — проверка спроса на открытую Miura. Отклонена из-за проблем с жёсткостью лобового стекла на такой скорости. Продана ILZRO (переименована \"ZN75\"), позже реставрирована в исходный вид.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:48:58.057Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/3840px-1971_Lamborghini_Miura_P400_SV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1971_Lamborghini_Miura_P400_SV.jpg/3840px-1971_Lamborghini_Miura_P400_SV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:48:58.057Z"
+}

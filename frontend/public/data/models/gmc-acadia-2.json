@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-acadia-2",
+  "slug": "gmc-acadia-2",
+  "name": "GMC Acadia",
+  "fullName": "GMC Acadia",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Второе поколение — полностью новая, заметно уменьшенная (короче почти на 18см, легче на ~320кг) платформа C1XX (узкая колея кроссоверного варианта GM E2XX/'Chi'). Реально новое поколение, не рестайлинг. 3.6L V6, 310hp — основной мотор большинства комплектаций (включая Denali); начальная FWD-комплектация SLE шла с 2.0L турбо-4 (252hp). Источники: en.wikipedia.org/wiki/GMC_Acadia, carsdirect.com/gmc/acadia/2017/specs.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:13:48.532Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/3840px-2024_GMC_Acadia_Denali_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/3840px-2024_GMC_Acadia_Denali_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:13:48.532Z"
+}

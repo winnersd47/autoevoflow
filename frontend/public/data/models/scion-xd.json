@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-xd",
+  "slug": "scion-xd",
+  "name": "Scion xD",
+  "fullName": "Scion xD (2007)",
+  "brandId": "scion",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Sporty subcompact replacing xA. Toyota ist-based. 1.8L 128 HP. Sportier drive, more interior space.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:16:54.281Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2008_Scion_xD_in_Silver%2C_front_right.jpg/3840px-2008_Scion_xD_in_Silver%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2008_Scion_xD_in_Silver%2C_front_right.jpg/3840px-2008_Scion_xD_in_Silver%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:16:54.281Z"
+}

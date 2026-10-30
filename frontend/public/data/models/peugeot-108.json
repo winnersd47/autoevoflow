@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-108",
+  "slug": "peugeot-108",
+  "name": "Peugeot 108",
+  "fullName": "Peugeot 108",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Преемник 107 в триплете с Toyota Aygo/Citroën C1 Gen.2. 1.2 PureTech топ-версия 82hp (база 1.0 VTi 68hp). Снята с производства в 2021г. без прямого преемника (нишу поглотила 208). Источник: ultimatespecs.com, autoevolution.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:18:56.493Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2002_Peugeot_206_LX_1.4_Front.jpg/3840px-2002_Peugeot_206_LX_1.4_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2002_Peugeot_206_LX_1.4_Front.jpg/3840px-2002_Peugeot_206_LX_1.4_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:18:56.493Z"
+}

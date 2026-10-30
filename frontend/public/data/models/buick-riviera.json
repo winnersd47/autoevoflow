@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-riviera",
+  "slug": "buick-riviera",
+  "name": "Buick Riviera Gen.1",
+  "fullName": "Buick Riviera Gen.1",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1963,
+  "isActive": true,
+  "description": "Первое поколение личного люкс-купе Riviera — уникальная платформа (укороченная полноразмерная рама), НЕ связана с будущим E-body (Toronado/Eldorado), вопреки одному из существующих рёбер графа (см. edgeFixes e-bui-riv-toro). База — 401cid Nailhead V8 325hp; топ-опция с конца 1962г. — 425cid Wildcat 465, 340hp gross/465 фунт-фут. Источник: automobile-catalog.com, aldanamerican.com (history of first-gen Riviera).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:33:23.488Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:33:23.488Z"
+}

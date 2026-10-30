@@ -1,0 +1,20 @@
+{
+  "id": "sync-gac-e8",
+  "slug": "gac-e8",
+  "name": "GAC Trumpchi E8",
+  "fullName": "GAC Trumpchi E8",
+  "brandId": "gac",
+  "bodyType": "mpv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Электрифицированный минивэн (HEV/PHEV) — младший брат M8, в производстве с 2023-го.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:39:30.693Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D7%9C%D7%95%D7%92%D7%95_%D7%A9%D7%9C_%D7%A7%D7%91%D7%95%D7%A6%D7%AA_GAC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D7%9C%D7%95%D7%92%D7%95_%D7%A9%D7%9C_%D7%A7%D7%91%D7%95%D7%A6%D7%AA_GAC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:39:30.693Z"
+}

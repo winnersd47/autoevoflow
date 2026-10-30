@@ -1,0 +1,20 @@
+{
+  "id": "sync-plymouth-barracuda-3",
+  "slug": "plymouth-barracuda-3",
+  "name": "Barracuda Gen.3",
+  "fullName": "Barracuda Gen.3",
+  "brandId": "plymouth",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Анкор поколения (E-body, 1970-1974) исправлен с секретных характеристик топ-трима Hemi 'Cuda (425 л.с., codeName='Cuda 440/426 Hemi') на представительные данные базовой комплектации без суффикса 'Cuda (V8 318 2bbl, 230 л.с.). Именные халo-тримы 'Cuda 440-6 (390 л.с.), 'Cuda Hemi (425 л.с.) и гомологационный AAR 'Cuda (290 л.с., только 1970) вынесены в отдельные узлы-варианты (variant_of).",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:23:45.926Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/3840px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/3840px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:23:45.926Z"
+}

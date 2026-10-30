@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-athon",
+  "slug": "lamborghini-athon",
+  "name": "Lamborghini Athon",
+  "fullName": "Lamborghini Athon",
+  "brandId": "lamborghini",
+  "bodyType": "concept",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "Первый концепт Bertone ПОСЛЕ ухода Гандини (дизайн Марка Дешама) — Турин, апр. 1980. На шасси Silhouette (тоже отсутствует в графе), чистый родстер вообще без крыши, 3.0Л V8, 260hp, до 260 км/ч.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:48:55.630Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:48:55.630Z"
+}

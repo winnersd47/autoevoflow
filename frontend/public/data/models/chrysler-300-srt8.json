@@ -1,0 +1,20 @@
+{
+  "id": "sync-chrysler-300-srt8",
+  "slug": "chrysler-300-srt8",
+  "name": "Chrysler 300 SRT8",
+  "fullName": "Chrysler 300 SRT8 (2012)",
+  "brandId": "chrysler",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:23:06.393Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Stuttgart-Untertuerkheim-DC-Zentrale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Stuttgart-Untertuerkheim-DC-Zentrale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:23:06.393Z"
+}

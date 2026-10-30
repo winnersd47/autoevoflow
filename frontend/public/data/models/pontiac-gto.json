@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-gto",
+  "slug": "pontiac-gto",
+  "name": "Pontiac GTO",
+  "fullName": "Pontiac GTO",
+  "brandId": "pontiac",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1964,
+  "isActive": true,
+  "description": "В 1974г. (последний год оригинальной линейки) GTO стал опционным пакетом на компактной Ventura (X-body) вместо среднеразмерной LeMans. Единственный мотор — 350 V8, 200 л.с. (net). Имя исчезло после этого года вплоть до австралийского возрождения 2004г. (30-летний разрыв, нет преемственности платформы — см. inspired_by, не evolves_into). Источник: musclecarclub.com (Pontiac GTO - Year-by-Year), hagerty.com.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:22:39.806Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg/3840px-2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg/3840px-2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:22:39.806Z"
+}

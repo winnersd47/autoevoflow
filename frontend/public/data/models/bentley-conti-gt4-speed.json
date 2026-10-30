@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-conti-gt4-speed",
+  "slug": "bentley-conti-gt4-speed",
+  "name": "Bentley Continental GT Speed (2025, Hybrid)",
+  "fullName": "Bentley Continental GT Speed (2025, Hybrid)",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Топовая версия 4-го поколения и первая представленная спецификация нового поколения (анонс сентябрь 2024, продажи с 2025) — 'самый мощный Continental GT за всю историю'. Гибридный Ultra Performance Hybrid: 4.0-литровый твин-турбо V8 + электромотор 140 кВт, 782 PS/771 л.с., 1000 Нм, батарея 25.9 кВтч (запас хода на электротяге до 80 км). Разгон 0-100 за 3.2с, макс. 335 км/ч. Впервые за современную историю Continental GT — без опции W12. Базовая версия (670 л.с.) вышла позже, в апреле 2025 (см. bentley-conti-gt4). Источники: bentleymotors.com, autofreak.com, autoevolution.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:34:34.778Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:34:34.778Z"
+}

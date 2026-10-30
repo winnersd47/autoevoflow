@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lacrosse-1",
+  "slug": "buick-lacrosse-1",
+  "name": "Buick LaCrosse Gen.1",
+  "fullName": "Buick LaCrosse Gen.1",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Первое поколение, сменило LeSabre+Century одной моделью. Базово CX/CXL — 3.8L V6, 200hp; топ CXS — 3.6L V6, 240hp. В 2008-09гг. добавлен топ-трим Super — 5.3L V8 (Active Fuel Management), 300hp — самый мощный переднеприводный седан Buick на тот момент. Источник: motorweek.org (2008 Buick LaCrosse Super).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:18.372Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2010_Buick_LaCrosse_2_--_09-07-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2010_Buick_LaCrosse_2_--_09-07-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:09:18.372Z"
+}

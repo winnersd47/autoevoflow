@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id7",
+  "slug": "volkswagen-id7",
+  "name": "ID.7",
+  "fullName": "ID.7",
+  "brandId": "volkswagen",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:03:52.853Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Volkswagen_concepts_IAA_2019.jpg/1920px-Volkswagen_concepts_IAA_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Volkswagen_concepts_IAA_2019.jpg/1920px-Volkswagen_concepts_IAA_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:03:52.853Z"
+}

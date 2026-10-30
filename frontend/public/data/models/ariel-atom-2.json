@@ -1,0 +1,20 @@
+{
+  "id": "sync-ariel-atom-2",
+  "slug": "ariel-atom-2",
+  "name": "Ariel Atom 2",
+  "fullName": "Ariel Atom 2",
+  "brandId": "ariel",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Revised suspension and bodywork. Supercharged Honda 1.8L VTEC option: 245 HP. Still 0-60 under 3.0s. Lighter than original.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:03:27.880Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:03:27.880Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-gallardo-lp550-2-spyder",
+  "slug": "lamborghini-gallardo-lp550-2-spyder",
+  "name": "Lamborghini Gallardo LP550-2 Spyder",
+  "fullName": "Lamborghini Gallardo LP550-2 Spyder",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "2011 — заднеприводная (RWD) открытая версия, серийное продолжение идеи Valentino Balboni уже без лимита по тиражу. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:23:32.825Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:23:32.825Z"
+}

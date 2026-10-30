@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-neon",
+  "slug": "dodge-neon",
+  "name": "Neon Gen.2",
+  "fullName": "Neon Gen.2",
+  "brandId": "dodge",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:02:51.021Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2000-2002_Dodge_Neon_--_06-20-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2000-2002_Dodge_Neon_--_06-20-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:02:51.021Z"
+}

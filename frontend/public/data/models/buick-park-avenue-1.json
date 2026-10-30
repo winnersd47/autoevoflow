@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-park-avenue-1",
+  "slug": "buick-park-avenue-1",
+  "name": "Buick Park Avenue Ultra",
+  "fullName": "Buick Park Avenue Ultra",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "Сменил имя Electra в 1991г. на обновлённой платформе C (GM C-body, общая с Cadillac DeVille/Oldsmobile 98). Топ-трим Ultra (с 1992г.) — supercharged 3800 (Eaton, L67), изначально 205hp, с 1996г. (Series II) — 240hp/280 фунт-фут. Источник: hagerty.com (1996 Buick Park Avenue Ultra), motogallery.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:43.219Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/2001_Buick_Park_Avenue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/2001_Buick_Park_Avenue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:06:43.219Z"
+}

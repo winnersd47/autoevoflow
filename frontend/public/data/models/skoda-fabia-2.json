@@ -1,0 +1,20 @@
+{
+  "id": "sync-skoda-fabia-2",
+  "slug": "skoda-fabia-2",
+  "name": "Škoda Fabia Mk2",
+  "fullName": "Škoda Fabia Mk2 (2007)",
+  "brandId": "skoda",
+  "bodyType": "hatchback",
+  "segment": "city",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Женева-2007, платформа PQ24 (как и Mk1), более крупный кузов. Указана вершина линейки — vRS на уникальном 1.4 TSI \"twincharger\" (турбо+компрессор), 180hp, 0-100 за 7.3с. Продано 1.7 млн экз.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:23:55.172Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/%C5%A0koda_Fabia_II_facelift_Shishi_02_2022-05-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/%C5%A0koda_Fabia_II_facelift_Shishi_02_2022-05-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T20:23:55.172Z"
+}

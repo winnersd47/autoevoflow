@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-patrol",
+  "slug": "nissan-patrol",
+  "name": "Patrol Y63",
+  "fullName": "Patrol Y63",
+  "brandId": "nissan",
+  "bodyType": "suv",
+  "segment": "off_road",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Шестое поколение Patrol (Y63) — представлено 4 сентября 2024, первая смена поколения за ~15 лет. Впервые без V8: твин-турбо V6 3.5L (конструктивно связан с мотором GT-R), 425 л.с. / 700 Нм, 9-АКПП, пневмоподвеска в стандарте. Источник: Nissan пресс-релиз, Drive.com.au, CarsGuide 2024.",
+  "generationCount": 7,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:08:42.178Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nissan_Yokohama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nissan_Yokohama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:08:42.178Z"
+}

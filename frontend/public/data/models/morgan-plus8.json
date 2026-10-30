@@ -1,0 +1,20 @@
+{
+  "id": "sync-morgan-plus8",
+  "slug": "morgan-plus8",
+  "name": "Plus 8",
+  "fullName": "Plus 8",
+  "brandId": "morgan",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:49:31.175Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Morgan_Plus_8_%4001.JPG/3840px-Morgan_Plus_8_%4001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Morgan_Plus_8_%4001.JPG/3840px-Morgan_Plus_8_%4001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:49:31.175Z"
+}

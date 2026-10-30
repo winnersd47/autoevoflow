@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-victor",
+  "slug": "astonmartin-victor",
+  "name": "Aston Martin Victor",
+  "fullName": "Aston Martin Victor",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Бespoke-проект подразделения Q by Aston Martin, reveal сент.2020. Построен на полностью восстановленном карбоновом монококе и заднем силовом модуле донора One-77 — дизайн-оммаж V8 Vantage 1970-80х, цвет Pentland Green (архивный оттенок эпохи). Пересобранный атмосферный 7.3Л V12 (родственный блоку One-77) от Cosworth, 836hp/605lb-ft — самый мощный атмосферный дорожный V12 в истории бренда, впервые сопряжён с 6-ступ. механикой (Graziano).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:28:29.435Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2011_Aston_Martin_One-77_SCD_24.jpg/3840px-2011_Aston_Martin_One-77_SCD_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2011_Aston_Martin_One-77_SCD_24.jpg/3840px-2011_Aston_Martin_One-77_SCD_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:28:29.435Z"
+}

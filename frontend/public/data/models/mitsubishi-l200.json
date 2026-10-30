@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-l200",
+  "slug": "mitsubishi-l200",
+  "name": "Mitsubishi Triton / L200",
+  "fullName": "Mitsubishi Triton / L200",
+  "brandId": "mitsubishi",
+  "bodyType": "pickup",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "6-е поколение, полностью новая рама и платформа ('tougher ladder frame' в пресс-материалах) — настоящая смена поколения, не рестайлинг. Топ-настройка дизеля 2.4 — 201 л.с./470 Нм. Источники: motor1.com (2024 Mitsubishi L200/Triton Debuts), topspeed.com.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:28:27.032Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2017-04-02_Mitsubishi_Lancer_Evolution_X_MR_SST_14_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2017-04-02_Mitsubishi_Lancer_Evolution_X_MR_SST_14_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:28:27.032Z"
+}

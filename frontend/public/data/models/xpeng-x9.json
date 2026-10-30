@@ -1,0 +1,20 @@
+{
+  "id": "sync-xpeng-x9",
+  "slug": "xpeng-x9",
+  "name": "Xpeng X9",
+  "fullName": "Xpeng X9",
+  "brandId": "xpeng",
+  "bodyType": "mpv",
+  "segment": "mpv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Рестайлинг апрель-2025 — 496 доработок (35% новых компонентов), 800V-архитектура, новый бампер/диски, старт продаж в Европе во 2П 2025г.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:52:04.792Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/XPeng_X9_003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/XPeng_X9_003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:52:04.792Z"
+}

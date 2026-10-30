@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-c4-wrc",
+  "slug": "citroen-c4-wrc",
+  "name": "Citroën C4 WRC",
+  "fullName": "Citroën C4 WRC",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Преемник Xsara WRC в чемпионате — тот же базовый турбо XU7JP4 2.0Л, 315hp. 4 титула пилотов подряд 2007-2010 (Лёб). Источник: Wikipedia Citroën C4 WRC, conceptcarz.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:23:45.286Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/S%C3%A9bastien_Loeb_-_2008_Rally_Catalunya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/S%C3%A9bastien_Loeb_-_2008_Rally_Catalunya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:23:45.286Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-s-max",
+  "slug": "ford-s-max",
+  "name": "S-MAX",
+  "fullName": "S-MAX",
+  "brandId": "ford",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:15:59.260Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2018_Ford_S-Max_Vignale_TDCi_2.0.jpg/3840px-2018_Ford_S-Max_Vignale_TDCi_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2018_Ford_S-Max_Vignale_TDCi_2.0.jpg/3840px-2018_Ford_S-Max_Vignale_TDCi_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:15:59.260Z"
+}

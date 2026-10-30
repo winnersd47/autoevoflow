@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-936",
+  "slug": "porsche-936",
+  "name": "Porsche 936",
+  "fullName": "Porsche 936",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "track",
+  "primaryMarket": "global",
+  "startYear": 1976,
+  "isActive": true,
+  "description": "Прототип для группы 6 / Ле-Мана. 2.14L турбо flat-6 — технологии от 930 Turbo и Can-Am 917/10, ~520-600 л.с. в зависимости от наддува. Победы на Ле-Мане: 1976, 1977, 1981.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:13.620Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:12:13.620Z"
+}

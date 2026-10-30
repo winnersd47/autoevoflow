@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-wrangler-jl",
+  "slug": "jeep-wrangler-jl",
+  "name": "Jeep Wrangler Rubicon 392",
+  "fullName": "Jeep Wrangler Rubicon 392",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "6.4L HEMI V8 — впервые V8 в Wrangler за десятилетия; ограниченный тираж, финальное издание в 2025-м.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:22:38.032Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:22:38.032Z"
+}

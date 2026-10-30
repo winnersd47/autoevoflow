@@ -12,10 +12,17 @@
   "isActive": false,
   "description": "The Ferrari F50 (1995–1997) used a detuned Formula One engine — the 4.7-litre V12 from the 1990 F1 car — mounted as a stressed chassis member. Just 349 were produced. The F50 represents Ferrari's most direct translation of F1 technology to a road car.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "ferrari", "hypercar", "v12", "f1-derived", "classic"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1999_Ferrari_F50.jpg/3840px-1999_Ferrari_F50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1999_Ferrari_F50.jpg/3840px-1999_Ferrari_F50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "coupe",
+    "ferrari",
+    "hypercar",
+    "v12",
+    "f1-derived",
+    "classic"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z"
+  "updatedAt": "2026-10-29T15:24:14.550Z"
 }

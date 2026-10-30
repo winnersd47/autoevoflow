@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-quattroporte-ii",
+  "slug": "maserati-quattroporte-ii",
+  "name": "Maserati Quattroporte II",
+  "fullName": "Maserati Quattroporte II",
+  "brandId": "maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1974,
+  "isActive": true,
+  "description": "Показан на Туринском салоне 1974г. — единственное поколение Quattroporte на платформе Citroën SM (Maserati тогда принадлежала Citroën): передний привод, гидропневматическая подвеска, угловатый кузов Bertone/Гандини. 2.7Л V6 (двигатель AM114.56.30), 190 л.с. Коммерческий провал — всего 12-13 экземпляров за 1974-78, самое малотиражное поколение QP.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:36:53.101Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:36:53.101Z"
+}

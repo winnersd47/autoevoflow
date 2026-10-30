@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-p4-5",
+  "slug": "ferrari-p4-5",
+  "name": "Ferrari P4/5 by Pininfarina",
+  "fullName": "Ferrari P4/5 by Pininfarina",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Заказ коллекционера Джеймса Гликенхауса (позже он же купил Modulo) — Пебл-Бич, 18 авг. 2006. Официально — рестайлинг конкретного экземпляра Enzo (тот же VIN, двигатель, трансмиссия), НЕ отдельная гомологированная модель, но с официального одобрения Ferrari (Лука ди Монтедземоло) носит имя \"Ferrari P4/5 by Pininfarina\". Новый угле-кузов (200+ уникальных деталей), вес снижен на ~270кг, F140 B V12 652hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:50:10.429Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ferrari_P45_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ferrari_P45_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:50:10.429Z"
+}

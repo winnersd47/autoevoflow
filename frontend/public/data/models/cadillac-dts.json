@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-dts",
+  "slug": "cadillac-dts",
+  "name": "Cadillac DTS",
+  "fullName": "Cadillac DTS",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Переименование и рестайлинг финального DeVille — ВАЖНО: это НЕ новая платформа, тот же GM G-body (GMX272), что и у предыдущего DeVille DTS и у Buick Lucerne, поэтому ребро к предшественнику facelifted_to, а не evolves_into. Два Northstar V8: база 275hp, топовая калибровка (Performance/Luxury) 292hp — в узле топовая. Выпускался 2006-2011гг., последний крупный переднеприводный седан Cadillac традиционной школы перед XTS. Источник: Wikipedia (Cadillac DTS), carfax.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:39.130Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cadillac_DTS_--_02-29-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cadillac_DTS_--_02-29-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:03:39.130Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-4",
+  "slug": "gmc-yukon-4",
+  "name": "GMC Yukon",
+  "fullName": "GMC Yukon",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Четвёртое поколение — платформа K2XX (GMT1UC/K2UG для Yukon), представлено в феврале 2014г. как модель 2015г. 5.3L V8 EcoTec3, 355hp — базовый/основной мотор. Источник: carsforsale.com/car-reviews/gmc-yukon-overview, en.wikipedia.org/wiki/GMT_K2XX.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:33.033Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:33.033Z"
+}

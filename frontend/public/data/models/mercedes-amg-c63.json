@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Mercedes-AMG C63 (2008-present) established AMG as a credible BMW M3 rival. Its 6.2-litre V8 in the W204 is considered the finest AMG engine ever built for its sound and response.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Engel_Erebus_Mercedes_E63_V8_Supercar_Test_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Engel_Erebus_Mercedes_E63_V8_Supercar_Test_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "sedan",
     "mercedes"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:13:19.909Z",
   "generations": [
     {
       "id": "gen-mercedes-amg-c63-1",

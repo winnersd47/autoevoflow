@@ -1,0 +1,20 @@
+{
+  "id": "sync-corvette-e-ray",
+  "slug": "corvette-e-ray",
+  "name": "Corvette E-Ray",
+  "fullName": "Corvette E-Ray",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Первый Corvette с eAWD; LT2 495 л.с. + HP1 эл. передний мотор = 655 л.с.; 0-100 за 2.5s — быстрее Z06 со светофора",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:34:00.317Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg/3840px-Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg/3840px-Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:34:00.317Z"
+}

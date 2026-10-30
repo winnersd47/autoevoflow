@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-samara",
+  "slug": "lada-samara",
+  "name": "Самара ВАЗ-2108",
+  "fullName": "Самара ВАЗ-2108",
+  "brandId": "lada",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:20:56.554Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lada_Samara_T3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lada_Samara_T3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T16:20:56.554Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-zeekr-001",
+  "slug": "zeekr-001",
+  "name": "Zeekr 001",
+  "fullName": "Zeekr 001",
+  "brandId": "zeekr",
+  "bodyType": "estate",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Geely EV-суббренд; SEA-платформа; 544 л.с., 0-100 за 3.8s; shooting brake",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:29:24.027Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20230329_Zeekr_delivery_center_at_Xinhuihu_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20230329_Zeekr_delivery_center_at_Xinhuihu_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:29:24.027Z"
+}

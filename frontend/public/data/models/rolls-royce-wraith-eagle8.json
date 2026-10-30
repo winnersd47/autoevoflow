@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-wraith-eagle8",
+  "slug": "rolls-royce-wraith-eagle8",
+  "name": "Rolls-Royce Wraith Eagle VIII Collection",
+  "fullName": "Rolls-Royce Wraith Eagle VIII Collection",
+  "brandId": "rolls-royce",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Лимитированная серия из 50 экземпляров, представлена 24-26 мая 2019 на Concorso d'Eleganza Villa d'Este. Посвящена трансатлантическому перелёту капитана Алкока и лейтенанта Брауна в июне 1919 на бомбардировщике Vickers Vimy с двумя двигателями Rolls-Royce Eagle VIII (20.3Л, 350 л.с.). Двухцветная окраска Gunmetal Grey/Selby Grey с ручной линией из латуни, звёздный потолок с 1183 оптоволокнами воспроизводит небо на момент перелёта. Механика без изменений (624 л.с.). Источники: press.rolls-roycemotorcars.com, bmwblog.com, topgear.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:31:59.316Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2019_Rolls-Royce_Wraith_V12_Automatic_6.6.jpg/3840px-2019_Rolls-Royce_Wraith_V12_Automatic_6.6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2019_Rolls-Royce_Wraith_V12_Automatic_6.6.jpg/3840px-2019_Rolls-Royce_Wraith_V12_Automatic_6.6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:31:59.317Z"
+}

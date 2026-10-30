@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-song-pro",
+  "slug": "byd-song-pro",
+  "name": "BYD Song Pro PHEV",
+  "fullName": "BYD Song Pro PHEV (2018)",
+  "brandId": "byd",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:46:35.982Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/BYD_Song_Pro_DM-i_2023_facelift_001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/BYD_Song_Pro_DM-i_2023_facelift_001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:46:35.982Z"
+}

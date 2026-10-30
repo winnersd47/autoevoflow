@@ -1,0 +1,20 @@
+{
+  "id": "sync-chevy-corvette-c8r-gt3",
+  "slug": "chevy-corvette-c8r-gt3",
+  "name": "Chevrolet Corvette Z06 GT3.R",
+  "fullName": "Chevrolet Corvette Z06 GT3.R",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Первый среднемоторный гоночный Corvette — клиентский GT3 на базе Z06, дебют в IMSA 2024.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:38:18.901Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/2026_6_Hours_of_Spa-Francorchamps_TF_Sport_Chevrolet_Corvette_Z06_LMGT3.R_No.33_%28DSC06746%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/2026_6_Hours_of_Spa-Francorchamps_TF_Sport_Chevrolet_Corvette_Z06_LMGT3.R_No.33_%28DSC06746%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:38:18.901Z"
+}

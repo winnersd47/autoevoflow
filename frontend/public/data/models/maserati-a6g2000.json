@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-a6g2000",
+  "slug": "maserati-a6g2000",
+  "name": "Maserati A6G/2000",
+  "fullName": "Maserati A6G/2000",
+  "brandId": "maserati",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 1954,
+  "isActive": true,
+  "description": "Всего 60 шасси (1954-56), кузова от четырёх разных ателье — Zagato, Allemano, Frua, Vignale (см. A6G/2000 Zagato). 2.0Л (1985cc) DOHC I6 на базе гоночного A6GCS, 150hp @ 6000 (однобронировательное зажигание) → 160hp с 1956г. (twin-spark).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:06:41.917Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1956_Maserati_A6G_54_Berlinetta_Zagato_Coupe_-_fvr2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1956_Maserati_A6G_54_Berlinetta_Zagato_Coupe_-_fvr2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:06:41.917Z"
+}

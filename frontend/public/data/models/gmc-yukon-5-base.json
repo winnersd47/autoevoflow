@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-5-base",
+  "slug": "gmc-yukon-5-base",
+  "name": "GMC Yukon",
+  "fullName": "GMC Yukon",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "ДОБАВЛЕНО при разделении узла: старый gmc-yukon-5 (420hp) был заспецифицирован как Denali/AT4 (6.2L) и замаскирован под обычное поколение (баг 'якорь', п.d ТЗ). Этот узел — обычная Yukon SLE/SLT на платформе T1XX с 5.3L V8 (L84), 355hp. Старый узел gmc-yukon-5 переименован в 'GMC Yukon Denali' (см. nodeFixes).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:36.023Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:36.023Z"
+}

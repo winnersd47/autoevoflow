@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-escort-cosworth",
+  "slug": "ford-escort-cosworth",
+  "name": "Ford Escort RS Cosworth WRC",
+  "fullName": "Ford Escort RS Cosworth WRC",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Заводская команда Ford в WRC 1993-1998 — 8 побед на этапах (Group A), ещё 2 в 1997-98 в кузове World Rally Car. Пилоты — Франсуа Делекур (победа дебютного Монте-Карло 1993), Мики Бьязион, Томми Мякинен, Карлос Сайнс. ~300hp — типичный потолок для 2.0Т AWD класса Group A той эры (точная заводская цифра гоночной спецификации не публиковалась). Сменён Focus RS WRC в 1999г.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:49:36.011Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ford_Escort_RS2000_MkI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ford_Escort_RS2000_MkI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:49:36.011Z"
+}

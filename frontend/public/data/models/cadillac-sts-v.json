@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-sts-v",
+  "slug": "cadillac-sts-v",
+  "name": "Cadillac STS-V",
+  "fullName": "Cadillac STS-V",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Первый прямой конкурент BMW M5/Mercedes E55 AMG от Cadillac в кузове STS — наддувный (Eaton Roots-type компрессор) Northstar, объём намеренно уменьшен с 4.6 до 4.4L (изменена геометрия блока, степень сжатия снижена до 9.0:1), 469hp/439 lb-ft, 6-ст. АКПП с ручным режимом, 0-96 км/ч менее чем за 5с. Выпускался 2006-2009гг., концептуальный предшественник философии CTS-V. Источник: supercars.net, edmunds.com, motorweek.org.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:35.087Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cadillac--STS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cadillac--STS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:03:35.087Z"
+}

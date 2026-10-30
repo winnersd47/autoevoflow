@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-gv70",
+  "slug": "genesis-gv70",
+  "name": "GV70",
+  "fullName": "GV70",
+  "brandId": "genesis",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Единственное поколение на сегодня — платформа JK1 (Hyundai-Kia 'M3'), мировая премьера 15 сент. 2020, Корея — продажи с янв. 2021, США — MY2022; сборка Корея + завод HMMA (Монтгомери, Алабама) для северо-американского рынка. Топ ДВС-мотор — 3.5L твин-турбо V6 Smartstream G3.5, 380PS/375hp/391 lb-ft (ранее узел ошибочно нёс hp=300 при engineType=i4t — цифра базового 2.5T I4). Электрическая версия — отдельный узел gen-gv70-e. Источники: en.wikipedia.org Genesis GV70 (JK1, Hyundai M3 platform), carpro.com '2022 Genesis GV70 3.5T Sport Prestige Review'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:37:38.592Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Genesis_GV70_IAA_2021_1X7A0228.jpg/3840px-Genesis_GV70_IAA_2021_1X7A0228.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Genesis_GV70_IAA_2021_1X7A0228.jpg/3840px-Genesis_GV70_IAA_2021_1X7A0228.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:37:38.592Z"
+}

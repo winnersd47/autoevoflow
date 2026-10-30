@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-gallardo-spyder",
+  "slug": "lamborghini-gallardo-spyder",
+  "name": "Lamborghini Gallardo Spyder",
+  "fullName": "Lamborghini Gallardo Spyder",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Детройт, янв. 2006 — открытая версия Gallardo, мягкий верх, уже с 520-сильным 5.0Л V10 (обновление, впервые опробованное на SE). Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:22:18.338Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:22:18.338Z"
+}

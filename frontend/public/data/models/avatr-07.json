@@ -1,0 +1,20 @@
+{
+  "id": "sync-avatr-07",
+  "slug": "avatr-07",
+  "name": "Avatr 07",
+  "fullName": "Avatr 07",
+  "brandId": "avatr",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:52:42.594Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Avatr_07_IMG001.jpg/3840px-Avatr_07_IMG001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Avatr_07_IMG001.jpg/3840px-Avatr_07_IMG001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:52:42.594Z"
+}

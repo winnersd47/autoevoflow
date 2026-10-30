@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-shelby-gt500-s650",
+  "slug": "ford-shelby-gt500-s650",
+  "name": "GT500 S650",
+  "fullName": "GT500 S650",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Возвращение GT500 после паузы S550→S650; \"Legend\" 5.2L SC (из Raptor R / GTD); ~800 л.с.; анонс 2025, продажи 2026",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:34:06.097Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/GT40_at_Goodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/GT40_at_Goodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:34:06.097Z"
+}

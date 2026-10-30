@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyper-coupe",
+  "slug": "hyper-coupe",
+  "name": "Naran Hyper Coupe",
+  "fullName": "Naran Hyper Coupe",
+  "brandId": "naran",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:25:18.779Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hyper_III_at_Dryden_1969.jpg/3840px-Hyper_III_at_Dryden_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hyper_III_at_Dryden_1969.jpg/3840px-Hyper_III_at_Dryden_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:25:18.779Z"
+}

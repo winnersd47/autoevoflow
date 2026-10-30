@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-nova-copo9010",
+  "slug": "chev-nova-copo9010",
+  "name": "Chevrolet Nova COPO 9010 \"Yenko Deuce\"",
+  "fullName": "Chevrolet Nova COPO 9010 \"Yenko Deuce\"",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "В 1970г. корпоративный запрет GM на моторы свыше 400 куб.дюймов в компактных моделях исключил биг-блок из Nova вообще (вопреки расхожему мифу о \"COPO 427/454 Nova\" — такого не существовало). Йенко добился спецкода COPO 9010 на решётчато-клапанный LT1 350 (тот же, что у Z/28 Camaro и Corvette) — 360hp. Всего 175 экз. (плюс код COPO 9737 — задний мост 4.10 Positraction).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:04:59.594Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/1963_Chevrolet_Chevy_II_300_4-door_sedan%2C_front_left%2C_06-14-2025.jpg/3840px-1963_Chevrolet_Chevy_II_300_4-door_sedan%2C_front_left%2C_06-14-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/1963_Chevrolet_Chevy_II_300_4-door_sedan%2C_front_left%2C_06-14-2025.jpg/3840px-1963_Chevrolet_Chevy_II_300_4-door_sedan%2C_front_left%2C_06-14-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:04:59.594Z"
+}

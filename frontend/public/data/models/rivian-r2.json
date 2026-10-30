@@ -1,0 +1,20 @@
+{
+  "id": "sync-rivian-r2",
+  "slug": "rivian-r2",
+  "name": "Rivian R2",
+  "fullName": "Rivian R2 (2026)",
+  "brandId": "rivian",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:56:16.729Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RivianR2.jpg/3840px-RivianR2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RivianR2.jpg/3840px-RivianR2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:56:16.729Z"
+}

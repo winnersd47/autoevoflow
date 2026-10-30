@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-id-buzz-concept",
+  "slug": "vw-id-buzz-concept",
+  "name": "VW ID. BUZZ Concept",
+  "fullName": "VW ID. BUZZ Concept (2017)",
+  "brandId": "volkswagen",
+  "bodyType": "van",
+  "segment": "family",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:18:04.945Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_ID._Buzz_1X7A6263.jpg/3840px-Volkswagen_ID._Buzz_1X7A6263.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_ID._Buzz_1X7A6263.jpg/3840px-Volkswagen_ID._Buzz_1X7A6263.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:18:04.945Z"
+}

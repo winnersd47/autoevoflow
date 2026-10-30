@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-century-1",
+  "slug": "buick-century-1",
+  "name": "Buick Century Gen.1",
+  "fullName": "Buick Century Gen.1",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "Возрождение имени Century в 1973г. на новой кузовной платформе \"Colonnade\" (GM A-body). Основной мотор — 350cid V8 (150-175hp в завис. от карбюратора), топ-опция — 455cid V8, 250hp (до прекращения выпуска 455 к 1976г.). В 1973г. от Century отпочковался Regal как топ-трим персонального купе (см. variant_of к buick-regal-1), с 1974г. ставший отдельной моделью. Источник: conceptcarz.com (1973 Buick Century specifications).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:07:47.051Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Buick_Century_--_04-23-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Buick_Century_--_04-23-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:07:47.052Z"
+}

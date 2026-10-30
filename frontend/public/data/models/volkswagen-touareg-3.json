@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-touareg-3",
+  "slug": "volkswagen-touareg-3",
+  "name": "Touareg III",
+  "fullName": "Touareg III",
+  "brandId": "volkswagen",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:03:45.824Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/3840px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/3840px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:03:45.824Z"
+}

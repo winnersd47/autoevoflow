@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-fit-ge",
+  "slug": "honda-fit-ge",
+  "name": "Honda Fit/Jazz Gen.2",
+  "fullName": "Honda Fit/Jazz Gen.2 (2008)",
+  "brandId": "honda",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:25:28.335Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2008-2010_Honda_Jazz_%28GE%29_hatchback_%282011-10-25%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2008-2010_Honda_Jazz_%28GE%29_hatchback_%282011-10-25%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:25:28.335Z"
+}

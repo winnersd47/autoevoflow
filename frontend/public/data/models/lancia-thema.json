@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-thema",
+  "slug": "lancia-thema",
+  "name": "Lancia Thema",
+  "fullName": "Lancia Thema (1984)",
+  "brandId": "lancia",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:41:49.745Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1989_Lancia_Thema_i.e._Turbo_%288870393533%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1989_Lancia_Thema_i.e._Turbo_%288870393533%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:41:49.745Z"
+}

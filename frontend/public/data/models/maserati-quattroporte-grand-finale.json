@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-quattroporte-grand-finale",
+  "slug": "maserati-quattroporte-grand-finale",
+  "name": "Maserati Quattroporte Grand Finale",
+  "fullName": "Maserati Quattroporte Grand Finale",
+  "brandId": "maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Единственный экземпляр (one-off) по программе кастомизации Fuoriserie — заказан американским клиентом, передан в августе 2024г. Официально последний Quattroporte и последний автомобиль Maserati вообще с двигателем V8 (3.8Л твин-турбо, 572hp/538lb-ft) перед полным переходом бренда на V6/электро. Шасси/VIN с символическим номером 999999, окраска Blu Nobile, карбоновый обвес в цвет кузова.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:37:05.506Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:37:05.506Z"
+}

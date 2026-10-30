@@ -1,0 +1,20 @@
+{
+  "id": "sync-mkc",
+  "slug": "mkc",
+  "name": "MKC",
+  "fullName": "MKC",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "compact_luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Единственное поколение (2015-2019) на платформе C1 (общей с Ford Escape 3-го поколения/Kuga). База — 2.0L turbo I4 (240-245 л.с.), топ — 2.3L turbo I4 (тот же мотор, что у Ford Explorer Sport/Fusion Sport) — 285 л.с., уже верно указано в узле как пиковая модификация. Источник: Wikipedia (Lincoln MKC).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:57:33.501Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lincoln_mkc_front_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lincoln_mkc_front_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:57:33.501Z"
+}

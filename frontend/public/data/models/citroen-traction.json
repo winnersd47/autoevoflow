@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-traction",
+  "slug": "citroen-traction",
+  "name": "Traction Avant",
+  "fullName": "Traction Avant",
+  "brandId": "citroen",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1934,
+  "isActive": true,
+  "description": "World's first mass-produced FWD car. 11CV 1.9L. Hydropneumatic brakes. Revolutionized automotive design. 760K units built.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:07:10.438Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tractionfr02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tractionfr02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:07:10.438Z"
+}

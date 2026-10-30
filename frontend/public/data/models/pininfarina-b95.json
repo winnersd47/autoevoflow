@@ -1,0 +1,20 @@
+{
+  "id": "sync-pininfarina-b95",
+  "slug": "pininfarina-b95",
+  "name": "B95",
+  "fullName": "B95",
+  "brandId": "pininfarina",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:56:32.010Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2019_Automobili_Pininfarina_Battista_Front.jpg/3840px-2019_Automobili_Pininfarina_Battista_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2019_Automobili_Pininfarina_Battista_Front.jpg/3840px-2019_Automobili_Pininfarina_Battista_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:56:32.010Z"
+}

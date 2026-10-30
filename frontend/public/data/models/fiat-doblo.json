@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-doblo",
+  "slug": "fiat-doblo",
+  "name": "Fiat Doblò Gen.2",
+  "fullName": "Fiat Doblò Gen.2",
+  "brandId": "fiat",
+  "bodyType": "van",
+  "segment": "commercial",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Второе поколение Doblò (Type 263, дебют дек.2009/нач.2010) — компактный коммерческий фургон. С MY2015 поставлялся в США/Канаду как Ram ProMaster City (см. rebadged_as) — тот же кузов/платформа Doblò (донор — именно фейслифт 2015г.: новая приборная панель, фары, решётка), эксклюзивный для NA мотор 2.4L Tigershark I4 179лс (в Европе не предлагался) вместо дизелей, сборка на заводе Tofaş в Турции. Дизель Multijet 1.3-2.0L, 90-135лс (указан топ). Doblò снят с продаж в Европе в сент.2022; синхронно Ram прекратил ProMaster City после MY2022. Важно: возрождённая в 2027г. ProMaster City — это НЕ ребейдж Doblò: новая генерация построена на другой, более крупной платформе Stellantis, общей с Citroën Jumpy/Dispatch, Peugeot Expert, Fiat Scudo, Toyota Proace (см. уже существующую note на ram-promaster-city-2, независимо подтверждено). Само третье поколение Doblò (2022, платформа K9) тоже сменило архитектуру — но на ребейдж Citroën Berlingo, и к ProMaster City отношения не имеет. Источники: en.wikipedia.org (Fiat Doblò, Ram ProMaster City), greencarcongress.com, jalopnik.com, kbb.com, autos.yahoo.com, foxnews.com, universe.byu.edu — проверено веб-поиском окт.2026.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:26:31.307Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Fiat_Doblo_%2822707961995%29.jpg/3840px-Fiat_Doblo_%2822707961995%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Fiat_Doblo_%2822707961995%29.jpg/3840px-Fiat_Doblo_%2822707961995%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:26:31.307Z"
+}

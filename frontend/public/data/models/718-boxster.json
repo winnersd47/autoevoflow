@@ -1,0 +1,20 @@
+{
+  "id": "sync-718-boxster",
+  "slug": "718-boxster",
+  "name": "Porsche 718 Boxster EV",
+  "fullName": "Porsche 718 Boxster EV",
+  "brandId": "porsche",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Официальный анонс ещё не состоялся (по состоянию на исследование источников) — модель проходит зимние тесты (уже 4-й сезон) и замечена на Нюрбургринге. Платформа — 718-специфичная версия PPE (800В, батарея T-образно в туннеле+за креслами), 2 конфигурации привода (RWD/AWD), ожидается 300+ л.с. база и 400+ л.с. топ. Порше также подтвердил параллельный гибридный ICE-вариант (983-series). Точные названия тримов (S/GTS-аналоги) пока не объявлены — доп. узлы не добавлены во избежание домысливания.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:24:00.262Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Porsche_718_Boxster_Spyder_IMG_2961.jpg/3840px-Porsche_718_Boxster_Spyder_IMG_2961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Porsche_718_Boxster_Spyder_IMG_2961.jpg/3840px-Porsche_718_Boxster_Spyder_IMG_2961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:24:00.262Z"
+}

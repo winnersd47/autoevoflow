@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-tasman",
+  "slug": "kia-tasman",
+  "name": "Kia Tasman",
+  "fullName": "Kia Tasman",
+  "brandId": "kia",
+  "bodyType": "pickup",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Первый среднеразмерный рамный пикап Kia (премьера окт. 2024 в Джидде, продажи 2025 — Корея, Австралия, Ближний Восток; в США не поставляется). Бензин 2.5T 281hp (в Корее 277hp) и дизель 2.2 CRDi; 8АКПП. Рама — собственная, по сообщениям прессы, развитие конструкции Mohave — единственного другого рамного Kia. Источник: Wikipedia, motor1, Hagerty.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:28:55.821Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2025_Kia_Tasman_front.jpg/3840px-2025_Kia_Tasman_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2025_Kia_Tasman_front.jpg/3840px-2025_Kia_Tasman_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:28:55.821Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-s10-blazer-2",
+  "slug": "chev-s10-blazer-2",
+  "name": "Blazer Gen.2 (S-10)",
+  "fullName": "Blazer Gen.2 (S-10)",
+  "brandId": "chevrolet",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "Редизайн, приставка \"S-10\" убрана из названия (K5 в этом же 1995г. стал Tahoe, освободив имя). 4.3L Vortec V6, 200hp. Прекращён в 2005г. — трим \"TrailBlazer\" (с 1999г.) к тому моменту уже отпочковался в отдельную модель (2002г.), 3 года они продавались параллельно.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:59:06.065Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/2024_Chevrolet_Blazer_EV_2LT_AWD_in_Summit_White%2C_front_right%2C_2024-03-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/2024_Chevrolet_Blazer_EV_2LT_AWD_in_Summit_White%2C_front_right%2C_2024-03-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:59:06.065Z"
+}

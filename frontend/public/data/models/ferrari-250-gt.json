@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "The Ferrari 250 GT (1956-1964) was Ferrari's first commercially successful road car. The 250 GTO is the most valuable car in existence; the 250 Lusso is the most graceful. All share a 3.0-litre Colombo V12.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrari_GTC4Lusso_IMG_4353.jpg/3840px-Ferrari_GTC4Lusso_IMG_4353.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ferrari_GTC4Lusso_IMG_4353.jpg/3840px-Ferrari_GTC4Lusso_IMG_4353.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "coupe",
     "ferrari"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:27:52.966Z",
   "generations": [
     {
       "id": "gen-ferrari-250-gt-1",

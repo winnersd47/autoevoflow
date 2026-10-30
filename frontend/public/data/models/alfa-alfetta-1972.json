@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-alfetta-1972",
+  "slug": "alfa-alfetta-1972",
+  "name": "Alfa Romeo Alfetta",
+  "fullName": "Alfa Romeo Alfetta",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1972,
+  "isActive": true,
+  "description": "Ввела трансэксл-компоновку Alfa — сцепление/КПП/дифференциал единым блоком сзади (с De Dion подвеской) для развесовки ближе к 50/50. 1.8L I4, 122PS на старте; позже до 2.0L/130PS. Купе Alfetta GT на той же платформе быстро отделилось в собственный нейминг — стало \"GTV\" к 1976г., полностью сбросив имя \"Alfetta\" к 1980г. (GTV6 с V6-мотором продержался до 1987г.) — та же инженерия, но формально другая линейка уже не связанная напрямую с седаном.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:06:18.416Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1978_Alfa_Romeo_Alfetta_GTV_%287254572400%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1978_Alfa_Romeo_Alfetta_GTV_%287254572400%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:06:18.416Z"
+}

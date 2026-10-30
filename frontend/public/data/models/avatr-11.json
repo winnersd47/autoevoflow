@@ -1,0 +1,20 @@
+{
+  "id": "sync-avatr-11",
+  "slug": "avatr-11",
+  "name": "Avatr 11",
+  "fullName": "Avatr 11",
+  "brandId": "avatr",
+  "bodyType": "suv",
+  "segment": "crossover",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:52:39.608Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Avatr_07_IMG001.jpg/3840px-Avatr_07_IMG001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Avatr_07_IMG001.jpg/3840px-Avatr_07_IMG001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:52:39.608Z"
+}

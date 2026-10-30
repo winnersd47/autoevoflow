@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-giulia-sprint-gt",
+  "slug": "alfa-giulia-sprint-gt",
+  "name": "Alfa Romeo Giulia Sprint GT",
+  "fullName": "Alfa Romeo Giulia Sprint GT",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1963,
+  "isActive": true,
+  "description": "Купе Bertone (дизайн молодого Джорджетто Джуджаро) на агрегатах седана Giulia (105-series), дебют — Франкфуртский автосалон 1963г. Мотор 1570см³ DOHC, 106PS@6000об/мин, дисковые тормоза на всех колёсах. Стальной кузов — прямая база для облегчённой гоночной версии GTA (1965), которая взяла тот же силуэт в алюминиевых панелях.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:40:33.036Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Paris_-_RM_auctions_-_20150204_-_Alfa_Romeo_Giulietta_Sprint_Speciale_-_1961_-_017.jpg/3840px-Paris_-_RM_auctions_-_20150204_-_Alfa_Romeo_Giulietta_Sprint_Speciale_-_1961_-_017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Paris_-_RM_auctions_-_20150204_-_Alfa_Romeo_Giulietta_Sprint_Speciale_-_1961_-_017.jpg/3840px-Paris_-_RM_auctions_-_20150204_-_Alfa_Romeo_Giulietta_Sprint_Speciale_-_1961_-_017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:40:33.036Z"
+}

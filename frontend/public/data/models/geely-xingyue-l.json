@@ -1,0 +1,20 @@
+{
+  "id": "sync-geely-xingyue-l",
+  "slug": "geely-xingyue-l",
+  "name": "Geely Xingyue L",
+  "fullName": "Geely Xingyue L",
+  "brandId": "geely",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "CMA-платформа; бестселлер D-SUV в Китае 2022-23; на экспортных рынках продаётся как \"Geely Monjaro\" (конкурент VW Touareg, лауреат наград дизайна 2022) — тот же автомобиль, не отдельная модель.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:29:22.293Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Geely_Monjaro_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Geely_Monjaro_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:29:22.293Z"
+}

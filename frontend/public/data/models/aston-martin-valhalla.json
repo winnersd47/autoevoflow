@@ -1,0 +1,20 @@
+{
+  "id": "sync-aston-martin-valhalla",
+  "slug": "aston-martin-valhalla",
+  "name": "Valhalla",
+  "fullName": "Valhalla",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:30:16.485Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2026_Aston_Martin_Valhalla_SCD_26.jpg/3840px-2026_Aston_Martin_Valhalla_SCD_26.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2026_Aston_Martin_Valhalla_SCD_26.jpg/3840px-2026_Aston_Martin_Valhalla_SCD_26.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:30:16.485Z"
+}

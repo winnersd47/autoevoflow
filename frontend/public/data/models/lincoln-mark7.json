@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-mark7",
+  "slug": "lincoln-mark7",
+  "name": "Lincoln Continental Mark VII",
+  "fullName": "Lincoln Continental Mark VII",
+  "brandId": "lincoln",
+  "bodyType": "coupe",
+  "segment": "personal_luxury",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Реальная смена платформы (Panther→Fox-4, унифицированная с Ford Thunderbird/Mercury Cougar того поколения) — полноценное новое поколение, не рестайлинг. Базовый 302cid (5.0L) V8 — 140 л.с. (1984), опционально BMW турбодизель I6 (1984-85, редкость). Топовая версия — LSC (Luxury Sport Coupe, с 1988г.) с форсированным 5.0 H.O. V8 (тот же блок, что у Mustang GT) — 200 л.с. (1986-87), затем 225 л.с. (1988-92) с доработанным впуском/выхлопом. В узле указана пиковая LSC-спецификация. Источники: Wikipedia (Lincoln Continental Mark VII), Hagerty Media, oldcarmemories.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:04:53.592Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1989_Lincoln_Mark_VII_LSC%2C_front_left%2C_03-24-2023.jpg/3840px-1989_Lincoln_Mark_VII_LSC%2C_front_left%2C_03-24-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/1989_Lincoln_Mark_VII_LSC%2C_front_left%2C_03-24-2023.jpg/3840px-1989_Lincoln_Mark_VII_LSC%2C_front_left%2C_03-24-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:04:53.592Z"
+}

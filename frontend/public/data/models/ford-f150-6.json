@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-6",
+  "slug": "ford-f150-6",
+  "name": "Ford F-150 Gen.6",
+  "fullName": "Ford F-150 Gen.6",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "Шестое поколение (1973-79, прозвище \"Dentside\" из-за штамповки на бортах) — именно здесь, на 1975 модельный год, дебютировал сам бейдж \"F-150\": усиленная версия F-100 с повышенной грузоподъёмностью, созданная в обход новых федеральных норм по весу/выбросам для лёгких грузовиков. Топовый биг-блок V8 460ci — до 245hp; базовая рядная 6-ка — от 115hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:42.396Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:42.396Z"
+}

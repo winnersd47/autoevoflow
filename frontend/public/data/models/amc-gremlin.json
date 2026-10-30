@@ -1,0 +1,20 @@
+{
+  "id": "sync-amc-gremlin",
+  "slug": "amc-gremlin",
+  "name": "AMC Gremlin X V8",
+  "fullName": "AMC Gremlin X V8",
+  "brandId": "amc",
+  "bodyType": "hatchback",
+  "segment": "subcompact_performance",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Пакет 'X' (косметика — полосы, литые диски) существовал с 1971 как опция для любого мотора; V8 появился только с 1972 модельного года. Мотор 304 куб.дюйм (5.0 л) V8, 150 л.с. @ 4200 об/мин, 244 фунт-фут; опознаётся по шильдику '5 Litre' на задней панели. Построено 10949 V8-Gremlin в 1972 модельном году. Эти данные (hp=150 и codeName='Gremlin X') ранее ошибочно хранились в анкорном узле базового Gremlin 1970 года — на тот момент пакета X ещё не существовало (см. nodeFixes на amc-gremlin). Источники: automobile-catalog.com '1973 AMC Gremlin X 5L V/8', ultimatespecs.com 'AMC Gremlin 1973 304 V8 X'.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:33:37.014Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Gremlin_side_%285903000893%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Gremlin_side_%285903000893%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:33:37.014Z"
+}

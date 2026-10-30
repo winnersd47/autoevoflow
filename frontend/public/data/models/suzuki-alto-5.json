@@ -1,0 +1,20 @@
+{
+  "id": "sync-suzuki-alto-5",
+  "slug": "suzuki-alto-5",
+  "name": "Suzuki Alto Gen.5",
+  "fullName": "Suzuki Alto Gen.5 (1994)",
+  "brandId": "suzuki",
+  "bodyType": "hatchback",
+  "segment": "kei",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:32:00.676Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/1994-1997_Suzuki_Alto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/1994-1997_Suzuki_Alto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:32:00.676Z"
+}

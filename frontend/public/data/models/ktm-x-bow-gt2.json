@@ -1,0 +1,20 @@
+{
+  "id": "sync-ktm-x-bow-gt2",
+  "slug": "ktm-x-bow-gt2",
+  "name": "KTM X-Bow GT2",
+  "fullName": "KTM X-Bow GT2",
+  "brandId": "ktm",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "GT2 — закрытая гоночная версия (появилась крыша/кокпит под FIA GT2), более поздний Audi 2.5 TFSI.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:06:00.698Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/KTMX-Bow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/KTMX-Bow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:06:00.698Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-boat-tail",
+  "slug": "rolls-royce-boat-tail",
+  "name": "Rolls-Royce Boat Tail",
+  "fullName": "Rolls-Royce Boat Tail",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Трио индивидуальных коучбилд-автомобилей по заказу разных клиентов, представлено 27 мая 2021 — официальный запуск подразделения Rolls-Royce Coachbuild. Алюминиевая платформа Architecture of Luxury и силовой агрегат (6.75Л твин-турбо V12, 8-АКПП) от Phantom VIII, двухдверный родстер с мотивами лодочной кормы 1920-30х годов, около 1813 уникальных деталей кузова. Стоимость экземпляра оценивалась в $28 млн — рекорд для нового автомобиля на момент выпуска. Источники: en.wikipedia.org/wiki/Rolls-Royce_Boat_Tail, motorauthority.com, carsales.com.au, autocar.co.uk.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:32:07.442Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Rolls-Royce_Boat_Tail_side.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Rolls-Royce_Boat_Tail_side.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:32:07.442Z"
+}

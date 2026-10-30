@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-premacy",
+  "slug": "mazda-premacy",
+  "name": "Mazda5 CW2",
+  "fullName": "Mazda5 CW2",
+  "brandId": "mazda",
+  "bodyType": "van",
+  "segment": "compact_mpv",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "Mazda Premacy / Mazda5 (CW Phase II), 3-е поколение (премьера Женевский автосалон, март 2010, продажи 2010-2018) — глубокий рестайлинг платформы CW в дизайне Kodo. Топ-мотор 2.5L — 159 л.с. Снята с производства в 2018г., Mazda покинула сегмент компакт-минивэнов без прямого преемника. Источник: Wikipedia (Mazda Premacy), autoevolution.com.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:40:20.647Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mazda_Premacy_HRE_Hybrid.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mazda_Premacy_HRE_Hybrid.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:40:20.647Z"
+}

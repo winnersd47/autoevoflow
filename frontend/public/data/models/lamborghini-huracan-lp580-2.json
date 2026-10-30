@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-lp580-2",
+  "slug": "lamborghini-huracan-lp580-2",
+  "name": "Lamborghini Huracán LP580-2",
+  "fullName": "Lamborghini Huracán LP580-2",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Лос-Анджелес, нояб. 2015 — первая заднеприводная (RWD) версия Huracán, 580hp (детюн с 610), перенастроенные ESC/подвеска под RWD-характер. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:19:41.725Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:19:41.725Z"
+}

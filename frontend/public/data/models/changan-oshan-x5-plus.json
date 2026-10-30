@@ -1,0 +1,20 @@
+{
+  "id": "sync-changan-oshan-x5-plus",
+  "slug": "changan-oshan-x5-plus",
+  "name": "Changan Oshan X5 Plus",
+  "fullName": "Changan Oshan X5 Plus",
+  "brandId": "changan",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "C-класс кроссовер; база для Volga K30",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:25:41.627Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/2018_Chang%27an_Oushang_MPV%2C_front_8.3.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/2018_Chang%27an_Oushang_MPV%2C_front_8.3.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:25:41.627Z"
+}

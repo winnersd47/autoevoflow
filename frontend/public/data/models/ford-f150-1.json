@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-1",
+  "slug": "ford-f150-1",
+  "name": "Ford F-150 Gen.1",
+  "fullName": "Ford F-150 Gen.1",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1948,
+  "isActive": true,
+  "description": "Первое поколение F-Series (\"Bonus-Built\", дебют 27 ноя. 1947 на 1948 м.г.) — сменило довоенные грузовики на базе легковых моделей; впервые отдельная грузовая платформа. Flathead V8 239ci — 100hp (опционально рядная 6-ка). Бейдж \"F-150\" появится только в 1975г. в 6-м поколении (см. ford-f150-6) — до этого линейка называлась F-1 (позже F-100). Источник: Wikipedia 'Ford F-Series (first generation)', Ford Heritage Vault.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:35.155Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:35.155Z"
+}

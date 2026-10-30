@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-megane-rs-r26",
+  "slug": "renault-megane-rs-r26",
+  "name": "Renault Megane II RS R26",
+  "fullName": "Renault Megane II RS R26",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Рестайлинг-апгрейд RS225→230hp, назван в честь болида Renault F1 R26 (чемпион-2006). Источник: Wikipedia Renault Mégane RS, ultimatespecs.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:20:16.440Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:20:16.440Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-acadia-1",
+  "slug": "gmc-acadia-1",
+  "name": "GMC Acadia",
+  "fullName": "GMC Acadia",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Первое поколение Acadia — 3-рядный кроссовер на платформе GM Lambda (общая с Saturn Outlook, Chevrolet Traverse, Buick Enclave — ни один из них пока не представлен в графе). Продавался в США с 2006г. как модель 2007г. 3.6L V6 (LY7), 275hp/251 lb-ft, 6-ступенчатый автомат. Источники: en.wikipedia.org/wiki/GMC_Acadia, edmunds.com/gmc/acadia/2007/review, auto123.com (2007 Acadia SLT specs). ДОБАВЛЕНО: Acadia полностью отсутствовала в графе GMC (пробел в охвате линейки).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:13:38.602Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/GMC_Car_Dealership_in_Spearfish_-_South_Dakota_%2852204052745%29.jpg/3840px-GMC_Car_Dealership_in_Spearfish_-_South_Dakota_%2852204052745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/GMC_Car_Dealership_in_Spearfish_-_South_Dakota_%2852204052745%29.jpg/3840px-GMC_Car_Dealership_in_Spearfish_-_South_Dakota_%2852204052745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:13:38.602Z"
+}

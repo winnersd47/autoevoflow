@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lesabre-4",
+  "slug": "buick-lesabre-4",
+  "name": "Buick LeSabre Gen.4",
+  "fullName": "Buick LeSabre Gen.4",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "Тот же 455 V8, что и в Electra Gen.4 того же года — опционально доступен и на LeSabre. 315hp (SAE gross, 1971); далее по мере перехода на net-рейтинг и ужесточения норм выбросов к 1973-76гг. мощность опционального 455 снизилась существенно (аналогично Electra). Источник: carbuzz.com (Buick Electra 225 history) — общий для линейки B/C-body мотор.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:21.759Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:05:21.759Z"
+}

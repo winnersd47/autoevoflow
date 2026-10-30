@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-sc40",
+  "slug": "ferrari-sc40",
+  "name": "Ferrari SC40",
+  "fullName": "Ferrari SC40",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "One-off программы Ferrari Special Projects, дань уважения F40 — представлен в Маранелло 17 окт. 2025 для эксклюзивного заказчика. Донор — 296 GTB (шасси, задний привод, гибридный V6 твин-турбо 3.0Л, 830 л.с. суммарно), кузов полностью новый, в отделке салона — кевлар в честь F40. Дизайн — Ferrari Centro Stile под руководством Flavio Manzoni.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:30:48.242Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:30:48.242Z"
+}

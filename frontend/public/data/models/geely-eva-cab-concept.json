@@ -1,0 +1,20 @@
+{
+  "id": "sync-geely-eva-cab-concept",
+  "slug": "geely-eva-cab-concept",
+  "name": "Geely Eva Cab Concept",
+  "fullName": "Geely Eva Cab Concept",
+  "brandId": "geely",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Показан на автосалоне в Пекине, апр. 2026. Первое у Geely беспилотное такси уровня L4 полностью собственной разработки — салон vis-a-vis, ИИ-модель Step3.5 (196B параметров) + вычислитель H9 (1400 TOPS), 43 сенсора/лидары. Коммерческая версия для CaoCao Mobility планируется на 2027.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:44:11.916Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Geely_Galaxy_E5_003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Geely_Galaxy_E5_003_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:44:11.916Z"
+}

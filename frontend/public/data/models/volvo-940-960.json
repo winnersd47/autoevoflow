@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-940-960",
+  "slug": "volvo-940-960",
+  "name": "Volvo 940/960",
+  "fullName": "Volvo 940/960",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "Фейслифт/эволюция 740/760 на той же заднеприводной платформе (новая передняя часть, торпедо, подвеска) — младшая линейка 940 (I4/турбо-I4) и топовая 960 с атмосферным рядным 6-цилиндровым мотором (2.9л, DOHC 24V) — до 204 л.с./267Нм. В последний модельный год (1997-98) 960 был переименован в S90/V90 перед полным снятием RWD-платформы с производства в 1998г. Источники: encycarpedia, auto-data.net (Volvo 960 (964) 3.0 i 24V 204Hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:58:51.485Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Volvo-Iron-Mark-Black.svg/960px-Volvo-Iron-Mark-Black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Volvo-Iron-Mark-Black.svg/960px-Volvo-Iron-Mark-Black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:58:51.485Z"
+}

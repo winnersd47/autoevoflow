@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-gn",
+  "slug": "buick-regal-gn",
+  "name": "Buick Regal Grand National",
+  "fullName": "Buick Regal Grand National",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Культовая турбо-версия, полностью чёрная ливрея. Впервые появилась как NA-пакет в 1982г. (215 экз., без турбо), возрождена в 1984г. с турбированным 3.8L V6 (SFI, 200hp/300 фунт-фут). В 1986г. добавлен интеркулер — 235hp/330 фунт-фут; в 1987г. (пиковый год) — 245hp/355 фунт-фут. Источник: over-drive-magazine.com, musclecarclub.com, ss396.com (Buick Grand National facts and figures).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:08:04.657Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:08:04.657Z"
+}

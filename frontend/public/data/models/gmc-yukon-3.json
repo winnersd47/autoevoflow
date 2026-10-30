@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-3",
+  "slug": "gmc-yukon-3",
+  "name": "GMC Yukon",
+  "fullName": "GMC Yukon",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Третье поколение — платформа GMT900 (как Sierra Gen2/gmc-sierra-2), запущено в конце 2005г. как модель 2007г., более угловатый дизайн и переработанный салон. Линейка моторов: 4.8L (295hp) и 5.3L (320hp) V8. Источник: gmauthority.com/blog/gm/gmc/yukon, carsforsale.com/car-reviews/gmc-yukon-overview.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:30.041Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:30.041Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-amc-javelin",
+  "slug": "amc-javelin",
+  "name": "AMC Javelin Gen.2",
+  "fullName": "AMC Javelin Gen.2",
+  "brandId": "amc",
+  "bodyType": "coupe",
+  "segment": "pony_car",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "Полностью новый кузов (1971-1974) — длиннее, ниже и шире первого поколения. Базовый мотор — 232 куб.дюйм (3.8 л) рядная шестёрка, 145 л.с.; топ-мотор — 401 куб.дюйм V8, 330 л.с. (см. отдельный узел 'Javelin AMX' — с 1971 AMX стал тримом Javelin, а не отдельной моделью). Источники: hotcars.com 'AMC Javelin Generational Guide: Engines, Trims, Specs & Value'.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:33:35.022Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/1971_AMC_Javelin_SST_red_Kenosha_street.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/1971_AMC_Javelin_SST_red_Kenosha_street.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:33:35.022Z"
+}

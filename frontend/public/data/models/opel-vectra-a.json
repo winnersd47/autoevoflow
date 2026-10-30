@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-vectra-a",
+  "slug": "opel-vectra-a",
+  "name": "Vectra A",
+  "fullName": "Vectra A (1988)",
+  "brandId": "opel",
+  "bodyType": "sedan",
+  "segment": "mid",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:26:53.983Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Opel_Vectra_C_2.2_Direkt_front.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Opel_Vectra_C_2.2_Direkt_front.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:26:53.983Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-gallardo-lp570-4-superleggera",
+  "slug": "lamborghini-gallardo-lp570-4-superleggera",
+  "name": "Lamborghini Gallardo LP570-4 Superleggera",
+  "fullName": "Lamborghini Gallardo LP570-4 Superleggera",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "2010 — облегчённый топ-трим на базе LP560-4, 570hp, до 204mph. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:23:28.567Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:23:28.567Z"
+}

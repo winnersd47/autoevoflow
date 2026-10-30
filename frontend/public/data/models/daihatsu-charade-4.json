@@ -1,0 +1,20 @@
+{
+  "id": "sync-daihatsu-charade-4",
+  "slug": "daihatsu-charade-4",
+  "name": "Daihatsu Charade Gen.4",
+  "fullName": "Daihatsu Charade Gen.4 (1993)",
+  "brandId": "daihatsu",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:35:53.828Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/7th_generation_Daihatsu_Mira_01.jpg/3840px-7th_generation_Daihatsu_Mira_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/7th_generation_Daihatsu_Mira_01.jpg/3840px-7th_generation_Daihatsu_Mira_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:35:53.828Z"
+}

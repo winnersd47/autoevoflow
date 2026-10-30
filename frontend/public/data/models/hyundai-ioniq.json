@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-ioniq",
+  "slug": "hyundai-ioniq",
+  "name": "Hyundai Ioniq",
+  "fullName": "Hyundai Ioniq",
+  "brandId": "hyundai",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Первый автомобиль под именем Ioniq — гибридный хэтчбек (AE), окт. 2016 — 2022, прямой конкурент Toyota Prius, первая модель в мире сразу с 3 вариантами электрификации в одном кузове. Hybrid (1.6 GDI + электромотор, суммарно 139 л.с. — опорное значение узла), Plug-in Hybrid и полностью электрический Electric (88-100 кВт). После снятия с производства в 2022-м имя 'Ioniq' переиспользовали как суббренд выделенных EV на платформе E-GMP (IONIQ 5/6/9) — связь с ними чисто по неймингу, платформы не связаны (здесь — развитие шасси Elantra/i30, не E-GMP).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:51:24.774Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Hyundai_IONIQ_electric_Premium_%E2%80%93_Frontansicht%2C_7._Mai_2017%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Hyundai_IONIQ_electric_Premium_%E2%80%93_Frontansicht%2C_7._Mai_2017%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:51:24.774Z"
+}

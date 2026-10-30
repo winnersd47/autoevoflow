@@ -1,0 +1,20 @@
+{
+  "id": "sync-seat-alhambra-2",
+  "slug": "seat-alhambra-2",
+  "name": "Alhambra II",
+  "fullName": "Alhambra II",
+  "brandId": "seat",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:16:02.849Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seat_Alhambra_Style_%28II%2C_Facelift%29_%E2%80%93_f_20052021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Seat_Alhambra_Style_%28II%2C_Facelift%29_%E2%80%93_f_20052021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:16:02.849Z"
+}

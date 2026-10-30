@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-canyon-1",
+  "slug": "gmc-canyon-1",
+  "name": "GMC Canyon",
+  "fullName": "GMC Canyon",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Платформа GMT355 (общая с Chevrolet Colorado), первое поколение компактных пикапов, сменивших GMC Sonoma. 220hp — атмосферный 3.5L рядный 5-цилиндровый Vortec 3500 (engineType исправлен с ошибочного 'v6' на 'i5' — см. nodeFixes). Источники: gmauthority.com/blog/gm/gmc/canyon, reman-engine.com (2004 Canyon 3.5L specs).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:16:42.395Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg/3840px-2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg/3840px-2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:16:42.395Z"
+}

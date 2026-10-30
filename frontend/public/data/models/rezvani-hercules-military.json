@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-hercules-military",
+  "slug": "rezvani-hercules-military",
+  "name": "Rezvani Hercules 6x6 Military",
+  "fullName": "Rezvani Hercules 6x6 Military",
+  "brandId": "rezvani",
+  "bodyType": "pickup",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Hercules with full military armor package. Level 7 ballistics, EMP, smoke screen. 1300 HP. Most powerful production 6x6.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:02:16.349Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:02:16.349Z"
+}

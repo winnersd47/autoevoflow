@@ -1,0 +1,20 @@
+{
+  "id": "sync-cupra-terramar",
+  "slug": "cupra-terramar",
+  "name": "Cupra Terramar",
+  "fullName": "Cupra Terramar (2024)",
+  "brandId": "cupra",
+  "bodyType": "suv",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:13:10.050Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cupra.svg/330px-Cupra.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Cupra.svg/330px-Cupra.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:13:10.050Z"
+}

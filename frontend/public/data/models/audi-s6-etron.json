@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-s6-etron",
+  "slug": "audi-s6-etron",
+  "name": "S6 e-tron",
+  "fullName": "S6 e-tron",
+  "brandId": "audi",
+  "bodyType": "sedan",
+  "segment": "electric",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:30:20.122Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/3840px-2020_Audi_e-Tron_Sport_50_Quattro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/3840px-2020_Audi_e-Tron_Sport_50_Quattro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:30:20.122Z"
+}

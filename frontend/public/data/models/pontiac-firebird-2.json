@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-firebird-2",
+  "slug": "pontiac-firebird-2",
+  "name": "Firebird Gen.2",
+  "fullName": "Firebird Gen.2",
+  "brandId": "pontiac",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "345 л.с. (Ram Air III) — старший общедоступный мотор всей линейки Gen.2 в 1970г. Редкий Ram Air IV (370 л.с., только 88 экз., эксклюзив Trans Am) и Formula 400 — см. отдельные ноды-тримы. Источник: conceptcarz.com (1970 Pontiac Firebird Trans Am), news.classicindustries.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:59:16.537Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/El_Dorado%2C_KS_67042%2C_USA_-_panoramio_%2837%29.jpg/3840px-El_Dorado%2C_KS_67042%2C_USA_-_panoramio_%2837%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/El_Dorado%2C_KS_67042%2C_USA_-_panoramio_%2837%29.jpg/3840px-El_Dorado%2C_KS_67042%2C_USA_-_panoramio_%2837%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:59:16.537Z"
+}

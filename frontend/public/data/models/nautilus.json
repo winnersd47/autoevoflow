@@ -1,0 +1,20 @@
+{
+  "id": "sync-nautilus",
+  "slug": "nautilus",
+  "name": "Nautilus",
+  "fullName": "Nautilus",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "midsize_luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "По сути рестайлинг/ребрендинг MKX 2-го поколения (2016-2018) на той же платформе CD4 — переименован в Nautilus для MY2019 при отказе Lincoln от номенклатуры \"MK*\". База — 2.0L turbo I4, 250 л.с./280 фунт-фут; топ — 2.7L twin-turbo V6, 335 л.с./380 фунт-фут (тот же мотор, что у MKX 2-го поколения) — пиковое значение, указано в узле. Прежний codeName/код в label (CD6) был ошибочным. Источники: autopadre.com, jdpower.com (2019 Lincoln Nautilus review), Wikipedia (Lincoln Nautilus).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:57:31.406Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lincoln_Nautilus_II_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lincoln_Nautilus_II_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T17:57:31.406Z"
+}

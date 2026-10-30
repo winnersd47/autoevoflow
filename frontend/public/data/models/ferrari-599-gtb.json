@@ -12,10 +12,16 @@
   "isActive": false,
   "description": "The Ferrari 599 GTB Fiorano (2006–2012) combined a 620 hp 6.0-litre V12 with a magnesium-aluminium chassis derived from the Enzo. The HGTE handling upgrade package made it the most capable front-engine Ferrari to that date.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "ferrari", "v12", "front-engine", "gt"],
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "tags": [
+    "coupe",
+    "ferrari",
+    "v12",
+    "front-engine",
+    "gt"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z"
+  "updatedAt": "2026-10-29T15:23:08.391Z"
 }

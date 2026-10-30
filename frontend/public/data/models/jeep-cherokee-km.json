@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-cherokee-km",
+  "slug": "jeep-cherokee-km",
+  "name": "Cherokee KM",
+  "fullName": "Cherokee KM (2026)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Возрождение имени после паузы: KL снят с производства в конце февраля 2023 (простой завода Belvidere, Иллинойс). KM анонсирован в мае 2025, рыночно — \"2026 Jeep Cherokee\", сборка на заводе Toluca (Мексика, НЕ Belvidere). Только гибрид: новый для Jeep в Сев. Америке турбо 1.6L I4 + 2 электромотора, суммарно 210лс/230 lb-ft, запас хода >800км. Платформа STLA Large (не STLA Medium, вопреки части ранних слухов).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:25:19.526Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2026_Jeep_Cherokee_Laredo_in_Bright_White%2C_front_left%2C_2026-05-03.jpg/3840px-2026_Jeep_Cherokee_Laredo_in_Bright_White%2C_front_left%2C_2026-05-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2026_Jeep_Cherokee_Laredo_in_Bright_White%2C_front_left%2C_2026-05-03.jpg/3840px-2026_Jeep_Cherokee_Laredo_in_Bright_White%2C_front_left%2C_2026-05-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:25:19.526Z"
+}

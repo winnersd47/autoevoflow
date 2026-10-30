@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-grecale-modena-i4",
+  "slug": "maserati-grecale-modena-i4",
+  "name": "Maserati Grecale Modena (I4)",
+  "fullName": "Maserati Grecale Modena (I4)",
+  "brandId": "maserati",
+  "bodyType": "suv",
+  "segment": "premium_midsize",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Средний трим линейки launch 2022г. — та же архитектура 2.0Л mild-hybrid турбо I4, что у GT, но форсирован до 325hp/332lb-ft (против 296hp у GT). Продавался в этой форме до MY2025 в США; на MY2026 в Северной Америке заменён на Grecale Modena V6 (см. facelifted_to) — детюнингованный Nettuno V6 3.0Т, 385hp. В Италии/части рынков ЕС Modena на I4 продолжает продаваться параллельно с V6-версией дольше (локальные налоговые причины).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:38:09.396Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Maserati_Mod%C3%A8ne_0002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Maserati_Mod%C3%A8ne_0002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:38:09.396Z"
+}

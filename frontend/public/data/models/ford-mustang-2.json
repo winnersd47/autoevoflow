@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-2",
+  "slug": "ford-mustang-2",
+  "name": "Mustang II",
+  "fullName": "Mustang II",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1974,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:57:39.571Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/1965_Ford_Mustang_2D_Hardtop_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/1965_Ford_Mustang_2D_Hardtop_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:57:39.571Z"
+}

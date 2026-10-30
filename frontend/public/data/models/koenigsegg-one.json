@@ -1,0 +1,20 @@
+{
+  "id": "sync-koenigsegg-one",
+  "slug": "koenigsegg-one",
+  "name": "One:1",
+  "fullName": "One:1",
+  "brandId": "koenigsegg",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:29:08.587Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agera_RST_Koenigsegg.jpg/3840px-Agera_RST_Koenigsegg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agera_RST_Koenigsegg.jpg/3840px-Agera_RST_Koenigsegg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:29:08.587Z"
+}

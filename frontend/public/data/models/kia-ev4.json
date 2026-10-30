@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev4",
+  "slug": "kia-ev4",
+  "name": "Kia EV4",
+  "fullName": "Kia EV4",
+  "brandId": "kia",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Компактный электрический хэтчбек/седан, премьера в фев. 2025, продажи в Корее/Европе с 2025 (в США не поставляется). Базовая Standard Range: батарея 58.3 кВтч, передний мотор 150 кВт/201 л.с., запас хода 410-430 км WLTP; старшая Long Range — 81.4 кВтч. Базовая линейка ранее отсутствовала в графе как узел — добавлена, чтобы связать с уже существующим kia-ev4-gt (который висел без входящего ребра).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:31.684Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg/3840px-Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg/3840px-Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:31.684Z"
+}

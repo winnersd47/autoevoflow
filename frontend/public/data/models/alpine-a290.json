@@ -1,0 +1,20 @@
+{
+  "id": "sync-alpine-a290",
+  "slug": "alpine-a290",
+  "name": "Alpine A290",
+  "fullName": "Alpine A290",
+  "brandId": "alpine",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:02:19.126Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Renault_5_E-Tech_Electric_DSC_7279.jpg/3840px-Renault_5_E-Tech_Electric_DSC_7279.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Renault_5_E-Tech_Electric_DSC_7279.jpg/3840px-Renault_5_E-Tech_Electric_DSC_7279.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:02:19.126Z"
+}

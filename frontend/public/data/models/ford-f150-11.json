@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-11",
+  "slug": "ford-f150-11",
+  "name": "Ford F-150 Gen.11",
+  "fullName": "Ford F-150 Gen.11",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Одиннадцатое поколение (2004-08) — полностью новая платформа, увеличенные кабина и грузовая платформа. Топовый V8 5.4L Triton 3V — 300hp; 4.6L V8 — 231hp (2004-06)/248hp (2007-08); база — V6 4.2L, 202hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:49.667Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:49.667Z"
+}

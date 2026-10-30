@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-riviera-3",
+  "slug": "buick-riviera-3",
+  "name": "Buick Riviera Gen.3",
+  "fullName": "Buick Riviera Gen.3",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "Третье поколение — культовый дизайн \"boat-tail\" (Билл Митчелл), платформа E-body, общая с Oldsmobile Toronado Gen.2/Cadillac Eldorado Gen.2 (все три в 1971г. независимо переработаны на общей архитектуре). 455cid V8, 330hp (GS-пакет). БАГ «пропуск поколения»: между Gen.1 (1963) и Gen.3 (1971) в графе отсутствовало целое Gen.2 (1966-1970, редизайн, старт платформы E-body) — добавлено (buick-riviera-2), цепочка evolves_into исправлена на Gen.1→Gen.2→Gen.3. Источник: musclecarclub.com (Buick Riviera History).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:33:24.947Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:33:24.947Z"
+}

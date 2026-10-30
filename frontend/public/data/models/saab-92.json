@@ -1,0 +1,20 @@
+{
+  "id": "sync-saab-92",
+  "slug": "saab-92",
+  "name": "Saab 92",
+  "fullName": "Saab 92 (1950)",
+  "brandId": "saab",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1950,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:29:17.373Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Viggen_%2852526298757%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Viggen_%2852526298757%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:29:17.373Z"
+}

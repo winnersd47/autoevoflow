@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-sierra-rs500-cosworth",
+  "slug": "ford-sierra-rs500-cosworth",
+  "name": "Ford Sierra RS500 Cosworth",
+  "fullName": "Ford Sierra RS500 Cosworth",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Финальная эволюция для омологации Group A — ровно 500 экз., собраны вручную (Tickford). Усиленный блок YBD, турбина Garrett T04 вместо T03B, больше интеркулер. 224hp дорожная версия, но в заводской гоночной подготовке грузовые двигатели выдавали 500+ л.с. Доминировал в кузовных гонках 1987-92: BTCC, DTM, дважды Bathurst 1000, Spa 24h — один из самых успешных туринг-каров в истории.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:56:14.820Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1986_Ford_Sierra_RS_Cosworth_2.0_%281%29.jpg/3840px-1986_Ford_Sierra_RS_Cosworth_2.0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1986_Ford_Sierra_RS_Cosworth_2.0_%281%29.jpg/3840px-1986_Ford_Sierra_RS_Cosworth_2.0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:56:14.820Z"
+}

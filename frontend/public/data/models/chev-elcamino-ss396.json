@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-elcamino-ss396",
+  "slug": "chev-elcamino-ss396",
+  "name": "Chevrolet El Camino SS 396 (L78)",
+  "fullName": "Chevrolet El Camino SS 396 (L78)",
+  "brandId": "chevrolet",
+  "bodyType": "pickup",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "L78, те же 325/350/375hp настройки, что у Chevelle SS396 — но бейдж на El Camino появился только в 1968г. (Chevelle получил его на 2 года раньше). Регулярная заводская опция, не спецверсия — 667 экз. в 1968г., ~5262 в 1969г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:04:52.121Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/3840px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/3840px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:04:52.121Z"
+}

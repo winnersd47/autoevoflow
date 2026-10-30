@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-avenger-2",
+  "slug": "dodge-avenger-2",
+  "name": "Dodge Avenger R/T",
+  "fullName": "Dodge Avenger R/T",
+  "brandId": "dodge",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "2-е поколение (2008-2014), 4-дверный седан на платформе JS (сменил Stratus), опционально AWD. Топ-трим R/T: 3.5L V6, 235 л.с. при 6400, 232 lb-ft при 4000, 6-ст. Autostick АКПП. Платформа тесно связана с Journey (JC — удлинённая версия JS). Источники: automobile-catalog.com, jdpower.com (доступ 2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:12:26.505Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2012_Dodge_Avenger_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2012_Dodge_Avenger_--_NHTSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:12:26.505Z"
+}

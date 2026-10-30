@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-vantage-gt4",
+  "slug": "astonmartin-vantage-gt4",
+  "name": "Aston Martin Vantage GT4",
+  "fullName": "Aston Martin Vantage GT4",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Гомологация нового поколения (2024) для клиентского гоночного класса GT4 — reveal 27 февр. 2024, Aston Martin описывает как \"эволюцию предыдущей машины\" (2019г.). Тот же 4.0Т V8. ⚠️ Точная мощность официально не публикуется (регулируется BoP по чемпионату) — 469hp по вторичным источникам (netcarshow/iRacing), не подтверждено напрямую Aston Martin — низкая уверенность в точной цифре.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:46:40.187Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Prodrive_Aston_Martin_GT4_at_2009_Autosport_International.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Prodrive_Aston_Martin_GT4_at_2009_Autosport_International.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:46:40.187Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-range-rover-sport-svr",
+  "slug": "range-rover-sport-svr",
+  "name": "Range Rover Sport SVR",
+  "fullName": "Range Rover Sport SVR",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "AJ133 5.0L SC 550 л.с.; первый SUV Land Rover с трёк-фокусом; Goodwood Hill Climb рекорд SUV (2014); 0-100 за 4.5s; 280 км/ч",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:35:18.031Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg/3840px-2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg/3840px-2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:35:18.031Z"
+}

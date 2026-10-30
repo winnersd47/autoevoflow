@@ -1,0 +1,20 @@
+{
+  "id": "sync-exige-sport-380",
+  "slug": "exige-sport-380",
+  "name": "Exige Sport 380",
+  "fullName": "Exige Sport 380",
+  "brandId": "lotus",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:31:04.346Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lotus_Exige_Sport_380.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lotus_Exige_Sport_380.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:31:04.346Z"
+}

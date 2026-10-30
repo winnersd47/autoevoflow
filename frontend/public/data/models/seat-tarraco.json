@@ -1,0 +1,20 @@
+{
+  "id": "sync-seat-tarraco",
+  "slug": "seat-tarraco",
+  "name": "SEAT Tarraco",
+  "fullName": "SEAT Tarraco",
+  "brandId": "seat",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Флагманский 7-местный SUV SEAT; общая платформа с Ateca/Tiguan.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:38:08.507Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/SEAT_Tarraco_PHEV_FR_Auto_Zuerich_2023_1X7A1347.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/SEAT_Tarraco_PHEV_FR_Auto_Zuerich_2023_1X7A1347.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T18:38:08.507Z"
+}

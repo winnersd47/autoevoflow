@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-1",
+  "slug": "ford-mustang-1",
+  "name": "Ford Boss 429",
+  "fullName": "Ford Boss 429",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1964,
+  "isActive": true,
+  "description": "Гомологация NASCAR-двигателя \"Boss 429\" (semi-hemi V8) для дорожного применения — официально 375hp (по общему мнению, заниженная цифра), в гоночной версии свыше 600hp.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:48:26.159Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg/3840px-Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg/3840px-Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:48:26.159Z"
+}

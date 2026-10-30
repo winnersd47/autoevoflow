@@ -1,0 +1,20 @@
+{
+  "id": "sync-uaz-simbir",
+  "slug": "uaz-simbir",
+  "name": "UAZ Simbir",
+  "fullName": "UAZ Simbir",
+  "brandId": "uaz",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Удлинённая версия UAZ-3160 (1997) с мостами Spicer — рестайлинг кузова на той же раме/шасси линейки 469/31512, мотор ЗМЗ-409.10 2.7л/128лс. Официально заменена Patriot в 2005г как прямой преемник в модельном ряду.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:24:08.690Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2004_UAZ-31622_silver_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2004_UAZ-31622_silver_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:24:08.690Z"
+}

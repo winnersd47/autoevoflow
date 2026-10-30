@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-rs-1",
+  "slug": "ford-focus-rs-1",
+  "name": "Ford Focus RS Mk1",
+  "fullName": "Ford Focus RS Mk1",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Первый Focus RS. 1988cc турбо I4 — форсированный Zetec, разработан совместно с Tickford Engineering (не Cosworth, вопреки расхожему мнению). 310Нм/229lb-ft, 0-60 за 5.9с, 143mph. Всего 4501 экз., 2002-2003, £19995 на старте.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:54:59.530Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/3840px-2018_Ford_Focus_ST-Line_X_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/3840px-2018_Ford_Focus_ST-Line_X_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:54:59.530Z"
+}

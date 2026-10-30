@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-skylark-7",
+  "slug": "buick-skylark-7",
+  "name": "Buick Skylark Gran Sport",
+  "fullName": "Buick Skylark Gran Sport",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Финальное поколение модели (снята с производства в 1998г.). Топ-трим Gran Sport (GS) — 3.1L V6, до 160hp. Источник: hotcars.com (Buick Skylark generations guide).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:11:52.923Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:11:52.923Z"
+}

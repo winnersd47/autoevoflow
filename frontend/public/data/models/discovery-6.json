@@ -1,0 +1,20 @@
+{
+  "id": "sync-discovery-6",
+  "slug": "discovery-6",
+  "name": "Discovery 6",
+  "fullName": "Discovery 6",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Платформа подтверждена как EMA (электро-архитектура с опцией PHEV/range-extender), а не MLA, как предполагалось ранее — смену курса подтвердил экс-CEO JLR Адриан Марделл (Auto Express, 2023). Ориентировочный выход к дилерам — 2028г. Точные мощность и силовая установка серийной версии официально ещё не объявлены (окт. 2026), hp намеренно оставлен пустым. Источники: autocar.co.uk, carexpert.com.au, roverparts.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:30:52.699Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:30:52.699Z"
+}

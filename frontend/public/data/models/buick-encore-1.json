@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-encore-1",
+  "slug": "buick-encore-1",
+  "name": "Buick Encore Gen.1",
+  "fullName": "Buick Encore Gen.1",
+  "brandId": "buick",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Самый маленький кроссовер Buick, построен на платформе Gamma (общей с Opel/Vauxhall Mokka и Chevrolet Trax). Единственный мотор за всю историю поколения — 1.4L turbo I4, 138hp/148 фунт-фут. Источник: edmunds.com, kbb.com (2013 Buick Encore).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:28.970Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2020_Buick_Encore_GX_Select_AWD%2C_front_left.jpg/3840px-2020_Buick_Encore_GX_Select_AWD%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2020_Buick_Encore_GX_Select_AWD%2C_front_left.jpg/3840px-2020_Buick_Encore_GX_Select_AWD%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:28.970Z"
+}

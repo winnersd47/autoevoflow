@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-iconic-sp",
+  "slug": "mazda-iconic-sp",
+  "name": "Iconic SP",
+  "fullName": "Iconic SP",
+  "brandId": "mazda",
+  "bodyType": "coupe",
+  "segment": "concept",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Концепт-кар Japan Mobility Show 2023: 2-роторный двигатель работает только как генератор для EREV-привода (rotary range-extender), суммарно 365 л.с. (270кВт) на электромотор(ы). Mazda заявляла концепт как 'чертёж' возможной серийной модели, подтверждённых серийных планов на момент аудита нет. Источник: Wikipedia (Mazda Iconic SP), forbes.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:56:28.819Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Mazda_Iconic_SP.jpg/3840px-Mazda_Iconic_SP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Mazda_Iconic_SP.jpg/3840px-Mazda_Iconic_SP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:56:28.819Z"
+}

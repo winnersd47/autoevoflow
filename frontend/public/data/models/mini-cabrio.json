@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-cabrio",
+  "slug": "mini-cabrio",
+  "name": "Mini Cabrio R57",
+  "fullName": "Mini Cabrio R57 (2009)",
+  "brandId": "mini",
+  "bodyType": "convertible",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "Кабрио 2-го поколения (2009-2015) — от базовой 98hp до JCW 211hp (только 2009-10); указан Cooper 1.6 120hp. Единственный кабрио-кузов gen2, которого не было в графе (купе R58/родстер R59/Paceman R61/Countryman R60 уже были).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:24:01.625Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/3840px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/3840px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:24:01.625Z"
+}

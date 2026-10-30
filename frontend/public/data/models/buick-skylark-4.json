@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-skylark-4",
+  "slug": "buick-skylark-4",
+  "name": "Buick Skylark Gen.4",
+  "fullName": "Buick Skylark Gen.4",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "Новая платформа компакта Apollo (1973-74); с 1975г. имя Skylark закрепилось как основное (переименование в рамках ТОГО ЖЕ поколения/платформы, НЕ новая генерация — характерный для GM паттерн ребрендинга, аналогичный Electra→Park Avenue). Топ-мотор — 5.7L V8 4bbl, 155hp (1976г.); к концу 1970х в предложении остались только V6/меньшие V8 из-за норм расхода топлива. Источник: automobile-catalog.com (Apollo/Skylark 4th gen), hotcars.com (Buick Skylark generations guide).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:11:47.833Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:11:47.833Z"
+}

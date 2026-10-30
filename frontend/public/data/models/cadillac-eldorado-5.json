@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-eldorado-5",
+  "slug": "cadillac-eldorado-5",
+  "name": "Cadillac Eldorado",
+  "fullName": "Cadillac Eldorado",
+  "brandId": "cadillac",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Важнейший перелом в истории Eldorado — впервые переднеприводный (UPP, Unitized Power Package; та же философия, что у Oldsmobile Toronado 1966г., с которым разделяет платформу E-body), тогда как Gen.1-4 (1953-1966) были заднеприводными. 429 cu in (7.0L) V8, 340hp/480 lb-ft, 3-ст. Turbo Hydramatic. Это платформенный сдвиг, а не рестайлинг — узел ранее отсутствовал в графе, из-за чего ребро 1953→1979 ошибочно перепрыгивало через него (баг 'пропуск поколения' в evolves_into); Gen.6 (1971-78) пока остаётся вне графа как принятый компромисс по глубине охвата. Источник: ebay.com/motors/blog, automobile-catalog.com, barnfinds.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:45.840Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg/3840px-67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg/3840px-67_Cadillac_Eldorado_%2814277560774%29_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:03:45.840Z"
+}

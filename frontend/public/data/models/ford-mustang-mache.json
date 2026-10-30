@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-mache",
+  "slug": "ford-mustang-mache",
+  "name": "Mustang Mach-E",
+  "fullName": "Mustang Mach-E",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:58:49.458Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/1969_Ford_Mustang_Mach_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/1969_Ford_Mustang_Mach_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:58:49.458Z"
+}

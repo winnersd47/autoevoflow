@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-clio-v6-ph1",
+  "slug": "renault-clio-v6-ph1",
+  "name": "Renault Clio V6 Renault Sport Phase 1",
+  "fullName": "Renault Clio V6 Renault Sport Phase 1",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "Среднемоторный заднеприводный хот-хэтч на базе кузова Clio II — 2.9Л V6 (PSA L7X) в базе салона, продан в 1309 экз. (Phase1+2 суммарно 2822). 230hp, 0-100 за 6.7с. Источник: Wikipedia Renault Clio V6 RS, evo.co.uk.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:19:03.999Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:19:03.999Z"
+}

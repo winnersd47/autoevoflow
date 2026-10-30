@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-clio-4-rs-220-trophy",
+  "slug": "renault-clio-4-rs-220-trophy",
+  "name": "Renault Clio IV RS 220 Trophy",
+  "fullName": "Renault Clio IV RS 220 Trophy",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "+20hp к RS200 за счёт большего турбо и перепрошивки, 2016г. Источник: gtplanet.net \"First Drive Review: Renault Sport Clio 220 Trophy\".",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:20:14.193Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:20:14.193Z"
+}

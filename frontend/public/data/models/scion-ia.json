@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-ia",
+  "slug": "scion-ia",
+  "name": "Scion iA",
+  "fullName": "Scion iA (2015)",
+  "brandId": "scion",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Mazda2-based subcompact sedan. 1.5L SkyActiv 106 HP. Final Scion. Became Toyota Yaris iA when brand folded 2016.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:18:02.132Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2021_Mazda2_GT_Sport_NAV_MHEV_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2021_Mazda2_GT_Sport_NAV_MHEV_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:18:02.132Z"
+}

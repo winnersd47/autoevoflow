@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-4",
+  "slug": "gmc-sierra-4",
+  "name": "GMC Sierra Denali 1500",
+  "fullName": "GMC Sierra Denali 1500",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "luxury_truck",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "6.2L V8 EcoTec3 (L87), 420 л.с./460 lb-ft — топ-мотор T1XX-поколения, эксклюзивный для Denali/AT4. Обычная Sierra Gen.4 (SLE/SLT) идёt с 5.3L V8, 355hp — вынесена в отдельный узел gmc-sierra-4-base. Источники: gmauthority.com, carsforsale.com (GMC Sierra 1500 Generations).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:48:51.518Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:48:51.518Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-maybach-sl",
+  "slug": "mercedes-maybach-sl",
+  "name": "Maybach SL",
+  "fullName": "Maybach SL",
+  "brandId": "mercedes",
+  "bodyType": "roadster",
+  "segment": "ultra-luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:32:36.923Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Mercedes-Benz_X296_1X7A1725.jpg/3840px-Mercedes-Benz_X296_1X7A1725.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Mercedes-Benz_X296_1X7A1725.jpg/3840px-Mercedes-Benz_X296_1X7A1725.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:32:36.923Z"
+}

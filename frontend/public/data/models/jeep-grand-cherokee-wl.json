@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-grand-cherokee-wl",
+  "slug": "jeep-grand-cherokee-wl",
+  "name": "Jeep Grand Cherokee WL",
+  "fullName": "Jeep Grand Cherokee WL (2022)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "База: 3.6L Pentastar V6 293 л.с./344 Нм (атм.), 8-АКПП; реальный топ-трим — 4xe PHEV 375 л.с. (см. отдельный узел jeep-grand-cherokee-wl-4xe). V8/SRT8 на поколении WL не предлагается — SRT-линейка Grand Cherokee завершилась на WK2 Trackhawk в 2021-м. Источники: cars.com, 4xeforums.com (2021-2022).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:57:56.540Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg/3840px-2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg/3840px-2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:57:56.540Z"
+}

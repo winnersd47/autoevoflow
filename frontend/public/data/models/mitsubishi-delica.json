@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-delica",
+  "slug": "mitsubishi-delica",
+  "name": "Mitsubishi Delica D:5",
+  "fullName": "Mitsubishi Delica D:5",
+  "brandId": "mitsubishi",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "Прямой преемник Space Gear, только для японского рынка, монокок вместо рамы. Топ-мотор после рестайлинга 2019г. — турбодизель 2.2 clean-diesel (4N14), 172 л.с./392 Нм (в более ранних версиях — 2.4 MIVEC бензин ~170 л.с.). Источники: auto-data.net (Delica D5 facelift 2019), carscoops.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:15:58.082Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/2016_Suzuki_Solio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/2016_Suzuki_Solio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:15:58.082Z"
+}

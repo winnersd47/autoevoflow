@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-550-barchetta",
+  "slug": "ferrari-550-barchetta",
+  "name": "Ferrari 550 Barchetta Pininfarina",
+  "fullName": "Ferrari 550 Barchetta Pininfarina",
+  "brandId": "ferrari",
+  "bodyType": "roadster",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Полностью открытая (без жёсткой крыши, только тентовый чехол на случай дождя) версия 550 Maranello — выпущена к 70-летию ателье Pininfarina. 448 экз., представлена в 2000-м (продажи 2000-02). Та же мощность 485 л.с., что у купе. Не путать с концептом \"Rossa\" (2000), показанным там же и тогда же — это другая машина с обычным тентом.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:17:07.058Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:17:07.058Z"
+}

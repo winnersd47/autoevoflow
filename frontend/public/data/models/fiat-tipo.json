@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-tipo",
+  "slug": "fiat-tipo",
+  "name": "Fiat Tipo",
+  "fullName": "Fiat Tipo (1988)",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:03:26.541Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg/3840px-Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg/3840px-Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:03:26.541Z"
+}

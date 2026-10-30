@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-gt40",
+  "slug": "ford-gt40",
+  "name": "GT40",
+  "fullName": "GT40",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1964,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:58:51.548Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/GT40_at_Goodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/GT40_at_Goodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:58:51.548Z"
+}

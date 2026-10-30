@@ -11,8 +11,8 @@
   "isActive": true,
   "description": "Rev-happy and slick-shifting, Toyota's little sport coupe is a performance bargain",
   "generationCount": 1,
-  "heroImageUrl": "",
-  "thumbnailUrl": "",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg/3840px-2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg/3840px-2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "new",
     "2026"
@@ -22,5 +22,5 @@
   "isLatest": true,
   "scrapedAt": "2026-08-17T14:04:00.742Z",
   "createdAt": "2026-08-17T14:04:11.089Z",
-  "updatedAt": "2026-08-17T14:04:11.090Z"
+  "updatedAt": "2026-10-29T18:40:37.841Z"
 }

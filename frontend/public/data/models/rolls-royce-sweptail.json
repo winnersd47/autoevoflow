@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-sweptail",
+  "slug": "rolls-royce-sweptail",
+  "name": "Rolls-Royce Sweptail",
+  "fullName": "Rolls-Royce Sweptail",
+  "brandId": "rolls-royce",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Единственный экземпляр, построен по индивидуальному заказу на алюминиевом каркасе Phantom VII Coupé (RR03), представлен в мае 2017 на Concorso d'Eleganza Villa d'Este после 4 лет разработки. Дизайн вдохновлён яхтами заказчика — покатая крыша-фастбек без стойки, интерьер с отделкой деревом как в кокпите яхты. Продан за $12.8 млн — рекордная на тот момент цена нового автомобиля, положил начало возрождению коучбилдинга Rolls-Royce (см. Boat Tail). Источники: en.wikipedia.org/wiki/Rolls-Royce_Sweptail, thestatesman.com, carsuk.net.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:32:05.521Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Rolls-Royce_Sweptail_front.jpg/3840px-Rolls-Royce_Sweptail_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Rolls-Royce_Sweptail_front.jpg/3840px-Rolls-Royce_Sweptail_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:32:05.521Z"
+}

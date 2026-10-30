@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-manta",
+  "slug": "opel-manta",
+  "name": "Manta A",
+  "fullName": "Manta A (1970)",
+  "brandId": "opel",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:28:08.772Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Opel_Manta_A_at_Schaffen-Diest_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Opel_Manta_A_at_Schaffen-Diest_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:28:08.772Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-turbo-r",
+  "slug": "bentley-turbo-r",
+  "name": "Turbo R",
+  "fullName": "Turbo R",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:39:41.404Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1990_Bentley_Turbo_R_-_Flickr_-_The_Car_Spy_%2829%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1990_Bentley_Turbo_R_-_Flickr_-_The_Car_Spy_%2829%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:39:41.404Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-solstice",
+  "slug": "pontiac-solstice",
+  "name": "Pontiac Solstice",
+  "fullName": "Pontiac Solstice (2006)",
+  "brandId": "pontiac",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:42:57.695Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/PontiacSolstice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/PontiacSolstice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:42:57.695Z"
+}

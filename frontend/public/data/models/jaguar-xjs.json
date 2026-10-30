@@ -1,0 +1,20 @@
+{
+  "id": "sync-jaguar-xjs",
+  "slug": "jaguar-xjs",
+  "name": "XJ-S",
+  "fullName": "XJ-S",
+  "brandId": "jaguar",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1975,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:17:16.357Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg/3840px-1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg/3840px-1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:17:16.357Z"
+}

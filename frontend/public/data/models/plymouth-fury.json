@@ -1,0 +1,20 @@
+{
+  "id": "sync-plymouth-fury",
+  "slug": "plymouth-fury",
+  "name": "Fury",
+  "fullName": "Fury",
+  "brandId": "plymouth",
+  "bodyType": "coupe",
+  "segment": "full_size",
+  "primaryMarket": "global",
+  "startYear": 1956,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:55:18.796Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/1959_Plymouth_Sport_Fury_photo-14.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/1959_Plymouth_Sport_Fury_photo-14.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:55:18.796Z"
+}

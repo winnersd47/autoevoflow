@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-tacoma-2",
+  "slug": "toyota-tacoma-2",
+  "name": "Toyota Tacoma 2nd Generation",
+  "fullName": "Toyota Tacoma 2nd Generation (2004)",
+  "brandId": "toyota",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Второе поколение показано в январе 2004 (MY2005) — полностью новая, заметно более крупная платформа взамен компактного 1-го поколения; в этом поколении выпускалась культовая заднеприводная спортивная версия X-Runner. Топовый мотор — 4.0L V6 1GR-FE, 245 л.с.; базовый 2.7L I4 2TR-FE — 164 л.с. В графе ранее пропускалось целиком: цепочка Gen1(1995)→Gen3(2015) перескакивала через это поколение (ребро e-toy-tac1-3).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:48:47.565Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Toyota_Tacoma_%28N300%29_TRD_1X7A2438.jpg/3840px-Toyota_Tacoma_%28N300%29_TRD_1X7A2438.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Toyota_Tacoma_%28N300%29_TRD_1X7A2438.jpg/3840px-Toyota_Tacoma_%28N300%29_TRD_1X7A2438.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:48:47.565Z"
+}

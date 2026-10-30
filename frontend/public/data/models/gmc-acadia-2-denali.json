@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-acadia-2-denali",
+  "slug": "gmc-acadia-2-denali",
+  "name": "GMC Acadia Denali",
+  "fullName": "GMC Acadia Denali",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Denali Gen.2 использует тот же 3.6L V6 310hp, что и SLT/AT4 — отличие от прочих топ-комплектаций чисто в отделке/оснащении (адаптивная подвеска, кожа, хром), не в мощности. Источники: cars.usnews.com/cars-trucks/gmc/acadia/2017/specs/acadia-awd-denali-382956, jdpower.com (2017 Acadia Denali AWD V6 specs).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:13:50.558Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/3840px-2024_GMC_Acadia_Denali_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/3840px-2024_GMC_Acadia_Denali_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:13:50.558Z"
+}

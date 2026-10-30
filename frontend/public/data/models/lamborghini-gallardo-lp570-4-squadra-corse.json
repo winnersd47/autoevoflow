@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-gallardo-lp570-4-squadra-corse",
+  "slug": "lamborghini-gallardo-lp570-4-squadra-corse",
+  "name": "Lamborghini Gallardo LP570-4 Squadra Corse",
+  "fullName": "Lamborghini Gallardo LP570-4 Squadra Corse",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Франкфурт, сент. 2013 — финальная и самая гоночная версия Gallardo, вдохновлена гоночной Super Trofeo, AWD, 570hp. Последнее издание перед сменой Gallardo на Huracán в 2014г. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:24:34.899Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lamborghini_Superleggera-20180708.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:24:34.899Z"
+}

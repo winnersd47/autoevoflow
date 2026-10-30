@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-niva-travel",
+  "slug": "lada-niva-travel",
+  "name": "Niva Travel",
+  "fullName": "Niva Travel",
+  "brandId": "lada",
+  "bodyType": "suv",
+  "segment": "suv_compact",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "ВАЗ-2123 — отдельный проект СП GM-АвтоВАЗ (колёсная база 2.45м, НЕ растянутая версия 2121), разработан в 1998-2002г, продавался как \"Chevrolet Niva\" ПАРАЛЛЕЛЬНО с классической Нивой 20+ лет. После выхода GM из СП переименован 21.12.2020 в \"Lada Niva Travel\" (тогда же 2121/21214 стала \"Niva Legend\"). Год исправлен с 2020 (дата ребрендинга) на 2002 (реальный старт продаж) — иначе граф скрывает 18 лет истории под брендом Chevrolet.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:21:07.991Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/2025_Lada_Niva_Travel_black_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/2025_Lada_Niva_Travel_black_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:21:07.991Z"
+}

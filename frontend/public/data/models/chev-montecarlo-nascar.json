@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-montecarlo-nascar",
+  "slug": "chev-montecarlo-nascar",
+  "name": "Chevrolet Monte Carlo NASCAR",
+  "fullName": "Chevrolet Monte Carlo NASCAR",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1983,
+  "isActive": true,
+  "description": "Кузов NASCAR в ДВА захода: 1983-88 и 1995-2007 (между ними, 1989-94, роль исполняла Lumina). Именно на Monte Carlo Дейл Эрнхардт взял оба своих первых титула Cup (1986, 1987) и разбился на Дайтоне-2001 (хотя его культовая чёрная \"тройка\" в 1990-94гг. была технически Lumina, не Monte Carlo). При Hendrick Motorsports — 4 подряд титула 1995-98 (Джефф Гордон×3, Терри Лабонте), позже Тони Стюарт (2005), Джимми Джонсон (2006). Мотор — единая для всех марок формула NASCAR 358ci, ~700-750hp без рестриктора / ~430-450hp на суперскоростных овалах. Сменён Impala SS в 2007-08гг. (COT переходно делил сезон 2007 пополам).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:03:49.578Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Richmond_Raceway_2024.svg/960px-Richmond_Raceway_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Richmond_Raceway_2024.svg/960px-Richmond_Raceway_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:03:49.578Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-violet",
+  "slug": "nissan-violet",
+  "name": "Datsun (Nissan) Violet 160J GT",
+  "fullName": "Datsun (Nissan) Violet 160J GT",
+  "brandId": "nissan",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1979,
+  "isActive": true,
+  "description": "Чемпион WRC производителей 1979г. вместе с Ford Escort RS1800 — победа на изматывающем Сафари-ралли (Шекхар Мехта) достигнута не мощностью (стандартная SSS Coupe — всего 87hp), а надёжностью в тяжелейших африканских условиях. Более развитая версия группы 4 (~1981) достигала 230hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:53:44.125Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg/3840px-2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg/3840px-2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:53:44.125Z"
+}

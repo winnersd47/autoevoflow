@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-clk-gtr",
+  "slug": "mercedes-clk-gtr",
+  "name": "Mercedes-Benz CLK-GTR",
+  "fullName": "Mercedes-Benz CLK-GTR",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Построен специально под GT1-омологацию за рекордные 128 дней; дорожная версия — всего 25-26 экз.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:38:16.719Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Mercedes-Benz_CLK_GTR_at_Goodwood_2014_001.jpg/3840px-Mercedes-Benz_CLK_GTR_at_Goodwood_2014_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Mercedes-Benz_CLK_GTR_at_Goodwood_2014_001.jpg/3840px-Mercedes-Benz_CLK_GTR_at_Goodwood_2014_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:38:16.719Z"
+}

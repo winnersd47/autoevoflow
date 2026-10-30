@@ -1,0 +1,20 @@
+{
+  "id": "sync-cupra-tavascan",
+  "slug": "cupra-tavascan",
+  "name": "Cupra Tavascan",
+  "fullName": "Cupra Tavascan",
+  "brandId": "cupra",
+  "bodyType": "crossover",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Купе-кроссовер на той же MEB-платформе, что Born; топ-версия VZ с двумя моторами.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:37:00.771Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Cupra_Tavascan_Endurance_%E2%80%93_f_18042026.jpg/3840px-Cupra_Tavascan_Endurance_%E2%80%93_f_18042026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Cupra_Tavascan_Endurance_%E2%80%93_f_18042026.jpg/3840px-Cupra_Tavascan_Endurance_%E2%80%93_f_18042026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:37:00.771Z"
+}

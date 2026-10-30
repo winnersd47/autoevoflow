@@ -1,0 +1,20 @@
+{
+  "id": "sync-aston-martin-vantage-gte",
+  "slug": "aston-martin-vantage-gte",
+  "name": "Aston Martin Vantage GTE",
+  "fullName": "Aston Martin Vantage GTE (2018)",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Заводская гоночная программа FIA WEC (класс GTE Pro/Am) на базе нового (2018г.) поколения Vantage — сменила предыдущий V8 Vantage GTE (гонщик 1-й платформы). Разработана с новыми партнёрами Alcon (тормоза), Öhlins (подвеска), Michelin (шины). AMG-производный 4.0Т V8. ⚠️ Мощность регулируется BoP по регламенту — ~500hp ориентировочно, точная цифра непостоянна по этапам. Программа завершена в конце 2023г. при переходе класса на GT3 (см. astonmartin-vantage-gt3).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:29:33.443Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aston_Martin_Vantage_GTE_Thiim_Silverstone_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aston_Martin_Vantage_GTE_Thiim_Silverstone_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:29:33.443Z"
+}

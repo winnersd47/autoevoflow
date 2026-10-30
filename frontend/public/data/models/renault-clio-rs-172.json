@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-clio-rs-172",
+  "slug": "renault-clio-rs-172",
+  "name": "Renault Clio II RS 172",
+  "fullName": "Renault Clio II RS 172",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Полностью отсутствовавшее поколение Clio RS — между Williams(Clio I) и RS III 197(Clio III) в графе не было НИ ОДНОЙ ноды Clio II RS! F4R 2.0 16V, 172hp. Источник: Wikipedia Clio Renault Sport, fastestlaps.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:19:00.287Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:19:00.287Z"
+}

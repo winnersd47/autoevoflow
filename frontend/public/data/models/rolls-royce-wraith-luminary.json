@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-wraith-luminary",
+  "slug": "rolls-royce-wraith-luminary",
+  "name": "Rolls-Royce Wraith Luminary Collection",
+  "fullName": "Rolls-Royce Wraith Luminary Collection",
+  "brandId": "rolls-royce",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Лимитированная серия из 55 экземпляров (менее 20 — в Северную Америку), анонсирована в апреле 2018, цена от $402000. Эксклюзивный цвет Sunburst Grey с медной слюдой, звёздный потолок с 8 хаотично мерцающими 'падающими звёздами' (первое применение эффекта), подсветка панелей Tudor Wood (176 светодиодов) на задних дверях. Механика без изменений от базового Wraith (624 л.с.). Источники: gtspirit.com, robbreport.com, thedrive.com, drive.com.au.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:31:56.017Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2019_Rolls-Royce_Wraith_V12_Automatic_6.6.jpg/3840px-2019_Rolls-Royce_Wraith_V12_Automatic_6.6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2019_Rolls-Royce_Wraith_V12_Automatic_6.6.jpg/3840px-2019_Rolls-Royce_Wraith_V12_Automatic_6.6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:31:56.017Z"
+}

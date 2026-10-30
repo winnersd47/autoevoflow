@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-hornet-glh",
+  "slug": "dodge-hornet-glh",
+  "name": "Hornet GLH",
+  "fullName": "Hornet GLH",
+  "brandId": "dodge",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "\"Goes Like Hell\" — tribute к Omni GLH (Carroll Shelby, 1984); Direct Connection тюнинг; +27 л.с. PowerShot буст; концепт 2024, продукция не объявлена",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:35:10.162Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2023_Dodge_Hornet_GT_in_Blu_Bayou%2C_Front_Left%2C_05-14-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/2023_Dodge_Hornet_GT_in_Blu_Bayou%2C_Front_Left%2C_05-14-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:35:10.162Z"
+}

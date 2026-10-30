@@ -3,108 +3,111 @@
     {
       "id": "netcarshow",
       "name": "NetCarShow Latest",
-      "count": 39,
-      "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.901Z"
+      "count": 0,
+      "ok": false,
+      "checkedAt": "2026-10-30T09:07:58.744Z",
+      "error": "fetch failed"
     },
     {
       "id": "netcarshow-concept",
       "name": "NetCarShow Concepts",
-      "count": 265,
-      "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.901Z"
+      "count": 0,
+      "ok": false,
+      "checkedAt": "2026-10-30T09:07:58.745Z",
+      "error": "fetch failed"
     },
     {
       "id": "a777",
       "name": "A777 Суперкары",
       "count": 13,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.901Z"
+      "checkedAt": "2026-10-30T09:07:58.745Z"
     },
     {
       "id": "thedrive",
       "name": "The Drive RSS",
       "count": 1,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.901Z"
+      "checkedAt": "2026-10-30T09:07:58.745Z"
     },
     {
       "id": "jalopnik",
       "name": "Jalopnik RSS",
       "count": 0,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.901Z"
+      "checkedAt": "2026-10-30T09:07:58.745Z"
     },
     {
       "id": "autoevolution",
       "name": "AutoEvolution RSS",
       "count": 0,
       "ok": false,
-      "checkedAt": "2026-10-29T14:04:02.902Z",
-      "error": "HTTP 403 https://www.autoevolution.com/rss/news.xml"
+      "checkedAt": "2026-10-30T09:07:58.745Z",
+      "error": "fetch failed"
     },
     {
       "id": "carscoops",
       "name": "Carscoops RSS",
-      "count": 2,
+      "count": 0,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "checkedAt": "2026-10-30T09:07:58.745Z"
     },
     {
       "id": "caranddriver",
       "name": "Car and Driver RSS",
       "count": 27,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "checkedAt": "2026-10-30T09:07:58.745Z"
     },
     {
       "id": "motor1",
       "name": "Motor1 RSS",
-      "count": 3,
+      "count": 2,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "checkedAt": "2026-10-30T09:07:58.745Z"
     },
     {
       "id": "roadandtrack",
       "name": "Road & Track RSS",
-      "count": 8,
+      "count": 6,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "checkedAt": "2026-10-30T09:07:58.745Z"
     },
     {
       "id": "benztuning",
       "name": "BenzTuning RSS",
       "count": 9,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "checkedAt": "2026-10-30T09:07:58.745Z"
     },
     {
       "id": "insideevs",
       "name": "InsideEVs RSS",
       "count": 1,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "checkedAt": "2026-10-30T09:07:58.746Z"
     },
     {
       "id": "electrek",
       "name": "Electrek RSS",
       "count": 4,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "checkedAt": "2026-10-30T09:07:58.746Z"
     },
     {
       "id": "autoweek",
       "name": "Autoweek RSS",
       "count": 4,
       "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "checkedAt": "2026-10-30T09:07:58.746Z"
     },
     {
       "id": "torquenews",
       "name": "Torque News RSS",
-      "count": 1,
-      "ok": true,
-      "checkedAt": "2026-10-29T14:04:02.902Z"
+      "count": 0,
+      "ok": false,
+      "checkedAt": "2026-10-30T09:07:58.746Z",
+      "error": "fetch failed"
     }
   ],
   "cars": [
@@ -181,22 +184,7 @@
       "pageUrl": "https://www.caranddriver.com/aston-martin/valhalla-2028",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/6441221a-42cf-48a5-9997-f514d8df387b.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6441221a-42cf-48a5-9997-f514d8df387b.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.884Z"
-    },
-    {
-      "id": "cad-ford-fathom-2028",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "brand": "Ford",
-      "brandSlug": "ford",
-      "name": "2028 Ford Fathom",
-      "fullName": "2028 Ford Fathom",
-      "year": 2028,
-      "description": "What We Know So Far",
-      "pageUrl": "https://www.caranddriver.com/ford/fathom-2028",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/214359d7-6abc-45f7-b171-af390c56bcf5.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/214359d7-6abc-45f7-b171-af390c56bcf5.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.857Z"
+      "scrapedAt": "2026-10-30T09:07:48.786Z"
     },
     {
       "id": "ncs-aston_martin-2028-valhalla_spider",
@@ -211,7 +199,22 @@
       "pageUrl": "https://www.netcarshow.com/aston_martin/2028-valhalla_spider/",
       "thumbUrl": "https://www.netcarshow.com/R/Aston_Martin-Valhalla_Spider-2028-thb.jpg",
       "imageUrl": "https://www.netcarshow.com/Aston_Martin-Valhalla_Spider-2028-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.845Z"
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "cad-ford-fathom-2028",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "brand": "Ford",
+      "brandSlug": "ford",
+      "name": "2028 Ford Fathom",
+      "fullName": "2028 Ford Fathom",
+      "year": 2028,
+      "description": "What We Know So Far",
+      "pageUrl": "https://www.caranddriver.com/ford/fathom-2028",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/214359d7-6abc-45f7-b171-af390c56bcf5.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/214359d7-6abc-45f7-b171-af390c56bcf5.jpg",
+      "scrapedAt": "2026-10-29T15:07:40.361Z"
     },
     {
       "id": "cad-mercedes-amg-gt-suv",
@@ -796,22 +799,7 @@
       "pageUrl": "https://www.netcarshow.com/ford/2027-mustang_mach-e_trail/",
       "thumbUrl": "https://www.netcarshow.com/R/Ford-Mustang_Mach-E_Trail-2027-thb.jpg",
       "imageUrl": "https://www.netcarshow.com/Ford-Mustang_Mach-E_Trail-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.125Z"
-    },
-    {
-      "id": "cad-photos-a74231347-2027-audi-q9-drive-interior-gallery",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "brand": "Audi",
-      "brandSlug": "audi",
-      "name": "2027 Audi Q9",
-      "fullName": "2027 Audi Q9",
-      "year": 2027,
-      "description": "See the interior of the 2027 Audi Q9 from every angle.",
-      "pageUrl": "https://www.caranddriver.com/photos/a74231347/2027-audi-q9-drive-interior-gallery/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/148b908e-3dc4-46b5-908e-45c99861a265.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/148b908e-3dc4-46b5-908e-45c99861a265.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.125Z"
+      "scrapedAt": "2026-10-30T09:07:49.113Z"
     },
     {
       "id": "rat-reviews-a74196727-tested-2027-range-rover-electric-070ae4",
@@ -826,7 +814,7 @@
       "pageUrl": "https://www.roadandtrack.com/reviews/a74196727/tested-2027-range-rover-electric-is-an-undercover-ev/",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/5bed50c5-7459-4f1a-92d8-9c2f3ee99a6e.jpeg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/5bed50c5-7459-4f1a-92d8-9c2f3ee99a6e.jpeg",
-      "scrapedAt": "2026-10-29T14:04:02.125Z"
+      "scrapedAt": "2026-10-30T09:07:49.113Z"
     },
     {
       "id": "aw-news-a74254779-2027-mercedes-benz-c-class-reveal",
@@ -841,127 +829,22 @@
       "pageUrl": "https://www.autoweek.com/news/a74254779/2027-mercedes-benz-c-class-reveal/",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/04c07dd6-7993-47d7-94ab-f7bb4b8d59fa.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/04c07dd6-7993-47d7-94ab-f7bb4b8d59fa.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.125Z"
+      "scrapedAt": "2026-10-30T09:07:49.113Z"
     },
     {
-      "id": "ncs-cadillac-2027-escalade-v_125th_anniversary_collector_series",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "Cadillac",
-      "brandSlug": "cadillac",
-      "name": "Cadillac Escalade-V 125th Anniversary Collector Series",
-      "fullName": "2027 Cadillac Escalade-V 125th Anniversary Collector Series",
-      "year": 2027,
-      "description": "125th Anniversary represents the first Escalade Collector Series and honors Cadillac's legacy through a highly limited, serialized expression of performance luxury.",
-      "pageUrl": "https://www.netcarshow.com/cadillac/2027-escalade-v_125th_anniversary_collector_series/",
-      "thumbUrl": "https://www.netcarshow.com/R/Cadillac-Escalade-V_125th_Anniversary_Collector_Series-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/Cadillac-Escalade-V_125th_Anniversary_Collector_Series-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.030Z"
-    },
-    {
-      "id": "cad-news-a74218284-2027-subaru-outback-pricing-new-base-model",
+      "id": "cad-photos-a74231347-2027-audi-q9-drive-interior-gallery",
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
-      "brand": "Subaru",
-      "brandSlug": "subaru",
-      "name": "2027 Subaru Outback",
-      "fullName": "2027 Subaru Outback",
-      "year": 2027,
-      "description": "A new base model lowers the entry cost of getting behind the wheel of an Outback, and Subaru has also cut prices on almost every other trim across the lineup.",
-      "pageUrl": "https://www.caranddriver.com/news/a74218284/2027-subaru-outback-pricing-new-base-model/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/6570466a-f2fd-4b0f-bad3-cd0d5f66c9fd.jpeg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6570466a-f2fd-4b0f-bad3-cd0d5f66c9fd.jpeg",
-      "scrapedAt": "2026-10-29T14:04:02.030Z"
-    },
-    {
-      "id": "rat-reviews-a74219191-tested-2027-lexus-nx-350h",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
-      "brand": "Lexus",
-      "brandSlug": "lexus",
-      "name": "2027 Lexus NX 350h",
-      "fullName": "2027 Lexus NX 350h",
-      "year": 2027,
-      "description": "Mild updates improve the NX enough to conceivably make it the best-selling Lexus model.",
-      "pageUrl": "https://www.roadandtrack.com/reviews/a74219191/tested-2027-lexus-nx-350h/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/747ff76e-32b2-4f07-b668-d35942ef988f.jpeg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/747ff76e-32b2-4f07-b668-d35942ef988f.jpeg",
-      "scrapedAt": "2026-10-29T14:04:02.030Z"
-    },
-    {
-      "id": "rat-reviews-a74229222-2027-bmw-ix5-60-xdrive-drive-review",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "2027 BMW iX5 60 xDrive Proves",
-      "fullName": "2027 BMW iX5 60 xDrive Proves",
-      "year": 2027,
-      "description": "Pure electric propulsion transforms BMW’s long-lived SUV, mostly for the better.",
-      "pageUrl": "https://www.roadandtrack.com/reviews/a74229222/2027-bmw-ix5-60-xdrive-drive-review/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/c9659f4c-3d39-47aa-a665-ac9f87c0bea2.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c9659f4c-3d39-47aa-a665-ac9f87c0bea2.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.030Z"
-    },
-    {
-      "id": "rat-reviews-a74229858-tested-2027-bmw-x5-40-xdrive",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "2027 BMW X5 40 xDrive Looks Radical,",
-      "fullName": "2027 BMW X5 40 xDrive Looks Radical,",
-      "year": 2027,
-      "description": "Despite an all-new platform and a Neue Klasse visual makeover, the new X5 still carries the torch of BMW’s most popular SUV.",
-      "pageUrl": "https://www.roadandtrack.com/reviews/a74229858/tested-2027-bmw-x5-40-xdrive/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/96ad0250-6ef3-4bc1-8a6a-518fecc0d564.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/96ad0250-6ef3-4bc1-8a6a-518fecc0d564.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.030Z"
-    },
-    {
-      "id": "rat-reviews-a74223746-2027-mercedes-benz-c350",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
-      "brand": "Mercedes-Benz",
-      "brandSlug": "mercedes-benz",
-      "name": "2027 Mercedes-Benz C-Class Provides Entry-Level Luxury",
-      "fullName": "2027 Mercedes-Benz C-Class Provides Entry-Level Luxury",
-      "year": 2027,
-      "description": "With a modest set of changes for this update, the C-class remains so good it’s a little boring.",
-      "pageUrl": "https://www.roadandtrack.com/reviews/a74223746/2027-mercedes-benz-c350/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/b6774d0b-3fdf-49b6-8079-2e524730349c.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b6774d0b-3fdf-49b6-8079-2e524730349c.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.030Z"
-    },
-    {
-      "id": "rat-reviews-a74218482-the-2027-audi-sq9-delivers-862af1",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
       "brand": "Audi",
       "brandSlug": "audi",
-      "name": "2027 Audi SQ9 Delivers American-Size Space",
-      "fullName": "2027 Audi SQ9 Delivers American-Size Space",
+      "name": "2027 Audi Q9",
+      "fullName": "2027 Audi Q9",
       "year": 2027,
-      "description": "The long wait for a genuinely spacious Audi three-row is finally over, and the V-8-powered SQ9 is definitely the one to get.",
-      "pageUrl": "https://www.roadandtrack.com/reviews/a74218482/the-2027-audi-sq9-delivers-american-size-space-with-a-v-8-soundtrack/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/3140d2ac-d25b-4613-b21c-ace0b4c67d9f.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3140d2ac-d25b-4613-b21c-ace0b4c67d9f.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.030Z"
-    },
-    {
-      "id": "rat-news-a74262119-2027-jeep-gladiator-35-inch-tire-2ad74a",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
-      "brand": "Jeep",
-      "brandSlug": "jeep",
-      "name": "2027 Jeep Gladiator 35-Inch Tire Launch Edition",
-      "fullName": "2027 Jeep Gladiator 35-Inch Tire Launch Edition",
-      "year": 2027,
-      "description": "Factory-installed 35-inch off-road rubber is a huge plus for the Gladiator, even if the name is a little unoriginal.",
-      "pageUrl": "https://www.roadandtrack.com/news/a74262119/2027-jeep-gladiator-35-inch-tire-launch-edition/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/342bd983-8ef6-46ea-9b62-a3402e65b437.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/342bd983-8ef6-46ea-9b62-a3402e65b437.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.030Z"
+      "description": "See the interior of the 2027 Audi Q9 from every angle.",
+      "pageUrl": "https://www.caranddriver.com/photos/a74231347/2027-audi-q9-drive-interior-gallery/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/148b908e-3dc4-46b5-908e-45c99861a265.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/148b908e-3dc4-46b5-908e-45c99861a265.jpg",
+      "scrapedAt": "2026-10-30T09:07:49.113Z"
     },
     {
       "id": "elk-2026-10-26-2027-lexus-rz-starts-under-50000-with-300-281304",
@@ -976,22 +859,7 @@
       "pageUrl": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/",
       "thumbUrl": "https://electrek.co/wp-content/uploads/sites/3/2025/11/New-Lexus-RZ-prices.jpeg?quality=82&#038;strip=all&#038;w=1400",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2025/11/New-Lexus-RZ-prices.jpeg?quality=82&#038;strip=all&#038;w=1400",
-      "scrapedAt": "2026-10-29T14:04:02.025Z"
-    },
-    {
-      "id": "cad-kia-ev6-2027",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "brand": "Kia",
-      "brandSlug": "kia",
-      "name": "2027 Kia EV6",
-      "fullName": "2027 Kia EV6",
-      "year": 2027,
-      "description": "Review, Pricing, and Specs",
-      "pageUrl": "https://www.caranddriver.com/kia/ev6-2027",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-kia-ev6-pr-120-673f77bb93f5f.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-kia-ev6-pr-120-673f77bb93f5f.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.025Z"
+      "scrapedAt": "2026-10-30T09:07:48.963Z"
     },
     {
       "id": "motor1-news-813545-2027-kia-ev9-pricing-torque",
@@ -1006,67 +874,97 @@
       "pageUrl": "https://www.motor1.com/news/813545/2027-kia-ev9-pricing-torque/",
       "thumbUrl": "https://cdn.motor1.com/images/mgl/AkOPEO/s3/2027-kia-ev9.jpg",
       "imageUrl": "https://cdn.motor1.com/images/mgl/AkOPEO/s3/2027-kia-ev9.jpg",
-      "scrapedAt": "2026-10-29T14:04:02.025Z"
+      "scrapedAt": "2026-10-30T09:07:48.962Z"
     },
     {
-      "id": "cad-photos-a74081553-2027-bmw-ix3-test-exterior-gallery",
+      "id": "cad-kia-ev6-2027",
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "2027 BMW iX3",
-      "fullName": "2027 BMW iX3",
-      "year": 2027,
-      "description": "See the exterior of the 2027 BMW iX3 from every angle.",
-      "pageUrl": "https://www.caranddriver.com/photos/a74081553/2027-bmw-ix3-test-exterior-gallery/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/e157936d-f9ab-4e7c-9341-40cd981d8159.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e157936d-f9ab-4e7c-9341-40cd981d8159.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.886Z"
-    },
-    {
-      "id": "cad-gmc-hummer-ev-suv",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "brand": "GMC",
-      "brandSlug": "gmc",
-      "name": "2027 GMC Hummer EV SUV",
-      "fullName": "2027 GMC Hummer EV SUV",
+      "brand": "Kia",
+      "brandSlug": "kia",
+      "name": "2027 Kia EV6",
+      "fullName": "2027 Kia EV6",
       "year": 2027,
       "description": "Review, Pricing, and Specs",
-      "pageUrl": "https://www.caranddriver.com/gmc/hummer-ev-suv",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-gmc-hummer-ev-suv-321-6419ae9899dfc.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-gmc-hummer-ev-suv-321-6419ae9899dfc.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.886Z"
+      "pageUrl": "https://www.caranddriver.com/kia/ev6-2027",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-kia-ev6-pr-120-673f77bb93f5f.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-kia-ev6-pr-120-673f77bb93f5f.jpg",
+      "scrapedAt": "2026-10-30T09:07:48.962Z"
     },
     {
-      "id": "cad-photos-a74218841-2027-lamborghini-revuelto-sv-drive-cee4e9",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "brand": "Lamborghini",
-      "brandSlug": "lamborghini",
-      "name": "2027 Lamborghini Revuelto SV",
-      "fullName": "2027 Lamborghini Revuelto SV",
-      "year": 2027,
-      "description": "See the interior of the 2027 Lamborghini Revuelto V-12 from every angle.",
-      "pageUrl": "https://www.caranddriver.com/photos/a74218841/2027-lamborghini-revuelto-sv-drive-interior-gallery/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/85924b2e-4dfe-49b3-90a9-719928b07867.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/85924b2e-4dfe-49b3-90a9-719928b07867.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.886Z"
-    },
-    {
-      "id": "ncs-bmw-2027-i7",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
+      "id": "rat-reviews-a74229858-tested-2027-bmw-x5-40-xdrive",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
       "brand": "BMW",
       "brandSlug": "bmw",
-      "name": "BMW i7",
-      "fullName": "2027 BMW i7",
+      "name": "2027 BMW X5 40 xDrive Looks Radical,",
+      "fullName": "2027 BMW X5 40 xDrive Looks Radical,",
       "year": 2027,
-      "description": "2027 BMW 7-Series represents the most extensive model update ever undertaken by BMW. The BMW i7 captures the range's forward-looking premium character with particular flair...",
-      "pageUrl": "https://www.netcarshow.com/bmw/2027-i7/",
-      "thumbUrl": "https://www.netcarshow.com/R/BMW-i7-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/BMW-i7-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.886Z"
+      "description": "Despite an all-new platform and a Neue Klasse visual makeover, the new X5 still carries the torch of BMW’s most popular SUV.",
+      "pageUrl": "https://www.roadandtrack.com/reviews/a74229858/tested-2027-bmw-x5-40-xdrive/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/96ad0250-6ef3-4bc1-8a6a-518fecc0d564.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/96ad0250-6ef3-4bc1-8a6a-518fecc0d564.jpg",
+      "scrapedAt": "2026-10-30T09:07:48.810Z"
+    },
+    {
+      "id": "rat-reviews-a74223746-2027-mercedes-benz-c350",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "brand": "Mercedes-Benz",
+      "brandSlug": "mercedes-benz",
+      "name": "2027 Mercedes-Benz C-Class Provides Entry-Level Luxury",
+      "fullName": "2027 Mercedes-Benz C-Class Provides Entry-Level Luxury",
+      "year": 2027,
+      "description": "With a modest set of changes for this update, the C-class remains so good it’s a little boring.",
+      "pageUrl": "https://www.roadandtrack.com/reviews/a74223746/2027-mercedes-benz-c350/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/b6774d0b-3fdf-49b6-8079-2e524730349c.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b6774d0b-3fdf-49b6-8079-2e524730349c.jpg",
+      "scrapedAt": "2026-10-30T09:07:48.810Z"
+    },
+    {
+      "id": "rat-reviews-a74218482-the-2027-audi-sq9-delivers-862af1",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "brand": "Audi",
+      "brandSlug": "audi",
+      "name": "2027 Audi SQ9 Delivers American-Size Space",
+      "fullName": "2027 Audi SQ9 Delivers American-Size Space",
+      "year": 2027,
+      "description": "The long wait for a genuinely spacious Audi three-row is finally over, and the V-8-powered SQ9 is definitely the one to get.",
+      "pageUrl": "https://www.roadandtrack.com/reviews/a74218482/the-2027-audi-sq9-delivers-american-size-space-with-a-v-8-soundtrack/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/3140d2ac-d25b-4613-b21c-ace0b4c67d9f.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3140d2ac-d25b-4613-b21c-ace0b4c67d9f.jpg",
+      "scrapedAt": "2026-10-30T09:07:48.810Z"
+    },
+    {
+      "id": "rat-news-a74262119-2027-jeep-gladiator-35-inch-tire-2ad74a",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "brand": "Jeep",
+      "brandSlug": "jeep",
+      "name": "2027 Jeep Gladiator 35-Inch Tire Launch Edition",
+      "fullName": "2027 Jeep Gladiator 35-Inch Tire Launch Edition",
+      "year": 2027,
+      "description": "Factory-installed 35-inch off-road rubber is a huge plus for the Gladiator, even if the name is a little unoriginal.",
+      "pageUrl": "https://www.roadandtrack.com/news/a74262119/2027-jeep-gladiator-35-inch-tire-launch-edition/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/342bd983-8ef6-46ea-9b62-a3402e65b437.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/342bd983-8ef6-46ea-9b62-a3402e65b437.jpg",
+      "scrapedAt": "2026-10-30T09:07:48.810Z"
+    },
+    {
+      "id": "rat-photos-g74286481-see-every-image-of-the-2027-bmw-m350-xdrive",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW M350 xDrive",
+      "fullName": "2027 BMW M350 xDrive",
+      "year": 2027,
+      "description": "The newest 3-series brings Neue Klasse looks, but keeps much of what we love.",
+      "pageUrl": "https://www.roadandtrack.com/photos/g74286481/see-every-image-of-the-2027-bmw-m350-xdrive/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/9def5412-140c-4c40-a7e1-ed10c7c3a2a2.jpeg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9def5412-140c-4c40-a7e1-ed10c7c3a2a2.jpeg",
+      "scrapedAt": "2026-10-30T09:07:48.810Z"
     },
     {
       "id": "cad-photos-a74247632-2027-mercedes-benz-c350-drive-f917b6",
@@ -1081,7 +979,7 @@
       "pageUrl": "https://www.caranddriver.com/photos/a74247632/2027-mercedes-benz-c350-drive-interior-gallery/",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/b006d692-8db9-468e-85c9-fc4b21d7149a.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b006d692-8db9-468e-85c9-fc4b21d7149a.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.886Z"
+      "scrapedAt": "2026-10-30T09:07:48.787Z"
     },
     {
       "id": "cad-reviews-a74233440-2027-mercedes-benz-c350-drive",
@@ -1096,7 +994,7 @@
       "pageUrl": "https://www.caranddriver.com/reviews/a74233440/2027-mercedes-benz-c350-drive/",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/e2c29211-e4fd-4b3b-9412-9f8f58897976.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e2c29211-e4fd-4b3b-9412-9f8f58897976.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.885Z"
+      "scrapedAt": "2026-10-30T09:07:48.787Z"
     },
     {
       "id": "cad-photos-a74231657-2027-audi-sq9-drive-interior-gallery",
@@ -1111,7 +1009,7 @@
       "pageUrl": "https://www.caranddriver.com/photos/a74231657/2027-audi-sq9-drive-interior-gallery/",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/63729314-0837-4d55-952b-e428dee93227.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/63729314-0837-4d55-952b-e428dee93227.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.885Z"
+      "scrapedAt": "2026-10-30T09:07:48.787Z"
     },
     {
       "id": "cad-news-a74251912-2027-mazda-cx-90-pricing-cx-70-dead",
@@ -1126,7 +1024,7 @@
       "pageUrl": "https://www.caranddriver.com/news/a74251912/2027-mazda-cx-90-pricing-cx-70-dead/",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/7f888f24-ce23-4d18-919f-a3e99d05e0dd.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/7f888f24-ce23-4d18-919f-a3e99d05e0dd.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.885Z"
+      "scrapedAt": "2026-10-30T09:07:48.787Z"
     },
     {
       "id": "cad-lamborghini-revuelto",
@@ -1141,7 +1039,7 @@
       "pageUrl": "https://www.caranddriver.com/lamborghini/revuelto",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/28e295fc-5dfe-4760-818c-2dda03d4599b.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/28e295fc-5dfe-4760-818c-2dda03d4599b.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.885Z"
+      "scrapedAt": "2026-10-30T09:07:48.787Z"
     },
     {
       "id": "cad-mercedes-benz-eqs-suv-2027",
@@ -1156,7 +1054,7 @@
       "pageUrl": "https://www.caranddriver.com/mercedes-benz/eqs-suv-2027",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-benz-eqs-400-4matic-130-6952917695153.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-benz-eqs-400-4matic-130-6952917695153.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.884Z"
+      "scrapedAt": "2026-10-30T09:07:48.786Z"
     },
     {
       "id": "cad-news-a74260083-2027-jeep-gladiator-updates-pricing",
@@ -1171,7 +1069,7 @@
       "pageUrl": "https://www.caranddriver.com/news/a74260083/2027-jeep-gladiator-updates-pricing/",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/1ce9b4db-9904-497c-8408-b9520d7dd00b.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1ce9b4db-9904-497c-8408-b9520d7dd00b.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.884Z"
+      "scrapedAt": "2026-10-30T09:07:48.786Z"
     },
     {
       "id": "cad-news-a74272007-2027-bmw-x3-m50-power-appearance-package",
@@ -1186,7 +1084,7 @@
       "pageUrl": "https://www.caranddriver.com/news/a74272007/2027-bmw-x3-m50-power-appearance-package/",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/b9cd41df-90dd-46d1-8245-b49349a0a63f.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b9cd41df-90dd-46d1-8245-b49349a0a63f.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.884Z"
+      "scrapedAt": "2026-10-30T09:07:48.786Z"
     },
     {
       "id": "cad-lexus-tx-hybrid-2027",
@@ -1201,22 +1099,37 @@
       "pageUrl": "https://www.caranddriver.com/lexus/tx-hybrid-2027",
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/a47e42cf-e8a1-4323-9bc3-f1ae1de61251.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/a47e42cf-e8a1-4323-9bc3-f1ae1de61251.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.884Z"
+      "scrapedAt": "2026-10-30T09:07:48.786Z"
     },
     {
-      "id": "carscoops-2298693-mopar-27-dodge-charger-celebrates-90-years-cfdce4",
-      "source": "carscoops",
-      "sourceLabel": "Carscoops",
-      "brand": "Dodge",
-      "brandSlug": "dodge",
-      "name": "2027 Mopar Dodge Charger",
-      "fullName": "2027 Mopar Dodge Charger",
+      "id": "cad-news-a74286839-2027-fiat-topolino-street-legal-status",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "brand": "Fiat",
+      "brandSlug": "fiat",
+      "name": "2027 Fiat Topolino Finally Earns Street-Legal Status in",
+      "fullName": "2027 Fiat Topolino Finally Earns Street-Legal Status in",
       "year": 2027,
-      "description": "Mopar has released 15 limited-edition packages since 2010, and the Mopar &#39;27 Charger will be the fourth time this nameplate has received such a treatment.",
-      "pageUrl": "https://www.carscoops.com/2298693/mopar-27-dodge-charger-celebrates-90-years-of-performance/",
-      "thumbUrl": "https://www.carscoops.com/img/gallery/2027-mopar-dodge-charger-celebrates-90-years-of-performance/intro-1793124194.jpg",
-      "imageUrl": "https://www.carscoops.com/img/gallery/2027-mopar-dodge-charger-celebrates-90-years-of-performance/intro-1793124194.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.857Z"
+      "description": "The teensy Topolino will be classified as a low-speed vehicle, severely limiting its usability.",
+      "pageUrl": "https://www.caranddriver.com/news/a74286839/2027-fiat-topolino-street-legal-status/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/0c4fca2f-d92d-4972-bc1c-78618ec112d7.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0c4fca2f-d92d-4972-bc1c-78618ec112d7.jpg",
+      "scrapedAt": "2026-10-30T09:07:48.786Z"
+    },
+    {
+      "id": "cad-reviews-a74274538-2027-bmw-3-series-drive",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW 3-Series",
+      "fullName": "2027 BMW 3-Series",
+      "year": 2027,
+      "description": "The new M350 moves the needle forward.",
+      "pageUrl": "https://www.caranddriver.com/reviews/a74274538/2027-bmw-3-series-drive/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/8a6efedf-9c45-44fa-a5f2-57fcbdf0af67.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/8a6efedf-9c45-44fa-a5f2-57fcbdf0af67.jpg",
+      "scrapedAt": "2026-10-30T09:07:48.786Z"
     },
     {
       "id": "motor1-news-813697-2027-jeep-compass-pricing-equipment",
@@ -1231,142 +1144,7 @@
       "pageUrl": "https://www.motor1.com/news/813697/2027-jeep-compass-pricing-equipment/",
       "thumbUrl": "https://cdn.motor1.com/images/mgl/L36rkj/s3/2027-jeep-compass-trailhawk-in-hydro-blue-pearl.jpg",
       "imageUrl": "https://cdn.motor1.com/images/mgl/L36rkj/s3/2027-jeep-compass-trailhawk-in-hydro-blue-pearl.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.853Z"
-    },
-    {
-      "id": "ncs-smart-2027-2",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "Smart",
-      "brandSlug": "smart",
-      "name": "Smart 2",
-      "fullName": "2027 Smart 2",
-      "year": 2027,
-      "description": "At the core of the smart 2 is the newly developed Electric Compact Architecture (ECA) platform, engineered specifically for the new smart two-seater.",
-      "pageUrl": "https://www.netcarshow.com/smart/2027-2/",
-      "thumbUrl": "https://www.netcarshow.com/R/Smart-2-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/Smart-2-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
-    },
-    {
-      "id": "ncs-byd-2027-atto_8",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "BYD",
-      "brandSlug": "byd",
-      "name": "BYD Atto 8",
-      "fullName": "2027 BYD Atto 8",
-      "year": 2027,
-      "description": "BYD Atto 8 measures 5040mm long, 1996mm wide and 1760mm tall - dimensions that place it firmly in the full-sized SUV class and allow generous accommodation for seven...",
-      "pageUrl": "https://www.netcarshow.com/byd/2027-atto_8/",
-      "thumbUrl": "https://www.netcarshow.com/R/BYD-Atto_8-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/BYD-Atto_8-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
-    },
-    {
-      "id": "ncs-hyundai-2027-bayon",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "Hyundai",
-      "brandSlug": "hyundai",
-      "name": "Hyundai Bayon",
-      "fullName": "2027 Hyundai Bayon",
-      "year": 2027,
-      "description": "Hyundai Bayon has been designed to deliver the confident presence of a true SUV through its upright stance, pronounced SUV design cues and increased ground clearance.",
-      "pageUrl": "https://www.netcarshow.com/hyundai/2027-bayon/",
-      "thumbUrl": "https://www.netcarshow.com/R/Hyundai-Bayon-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/Hyundai-Bayon-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
-    },
-    {
-      "id": "ncs-hyundai-2027-ioniq_3",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "Hyundai",
-      "brandSlug": "hyundai",
-      "name": "Hyundai Ioniq 3",
-      "fullName": "2027 Hyundai Ioniq 3",
-      "year": 2027,
-      "description": "Ioniq 3 brings Hyundai's 'Art of Steel' design language to the compact EV segment. Inspired by the raw tension and purity found in steel production...",
-      "pageUrl": "https://www.netcarshow.com/hyundai/2027-ioniq_3/",
-      "thumbUrl": "https://www.netcarshow.com/R/Hyundai-Ioniq_3-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/Hyundai-Ioniq_3-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
-    },
-    {
-      "id": "ncs-mercedes-benz-2027-amg_gt_suv",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "Mercedes-Benz",
-      "brandSlug": "mercedes-benz",
-      "name": "Mercedes-Benz AMG GT SUV",
-      "fullName": "2027 Mercedes-Benz AMG GT SUV",
-      "year": 2027,
-      "description": "Despite its sporty silhouette, the rear seat offers generous headroom and legroom as well as a comfortable seating position, making the AMG GT SUV ideal for long journeys.",
-      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-amg_gt_suv/",
-      "thumbUrl": "https://www.netcarshow.com/R/Mercedes-Benz-AMG_GT_SUV-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_SUV-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
-    },
-    {
-      "id": "ncs-bmw-2027-x5",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "BMW X5",
-      "fullName": "2027 BMW X5",
-      "year": 2027,
-      "description": "The new BMW X5 introduces an all-new design with a powerful, monolithic appearance that blends classic BMW SAV proportions with contemporary Neue Klasse design language.",
-      "pageUrl": "https://www.netcarshow.com/bmw/2027-x5/",
-      "thumbUrl": "https://www.netcarshow.com/R/BMW-X5-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/BMW-X5-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
-    },
-    {
-      "id": "ncs-bmw-2027-ix5",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "BMW iX5",
-      "fullName": "2027 BMW iX5",
-      "year": 2027,
-      "description": "BMW iX5 60 xDrive uses one electric motor at each axle, producing a combined 570 hp and 593 lb-ft of torque. It accelerates from 0 to 60 mph in an estimated 4.4 seconds...",
-      "pageUrl": "https://www.netcarshow.com/bmw/2027-ix5/",
-      "thumbUrl": "https://www.netcarshow.com/R/BMW-iX5-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/BMW-iX5-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
-    },
-    {
-      "id": "ncs-nissan-2027-pathfinder_special_edition",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "Nissan",
-      "brandSlug": "nissan",
-      "name": "Nissan Pathfinder Special Edition",
-      "fullName": "2027 Nissan Pathfinder Special Edition",
-      "year": 2027,
-      "description": "Intended to celebrate the nameplate's 40th year in the marketplace, the Nissan Pathfinder Special Edition pays homage to the first-generation Pathfinder...",
-      "pageUrl": "https://www.netcarshow.com/nissan/2027-pathfinder_special_edition/",
-      "thumbUrl": "https://www.netcarshow.com/R/Nissan-Pathfinder_Special_Edition-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/Nissan-Pathfinder_Special_Edition-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
-    },
-    {
-      "id": "ncs-byd-2027-shark",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "brand": "BYD",
-      "brandSlug": "byd",
-      "name": "BYD Shark",
-      "fullName": "2027 BYD Shark",
-      "year": 2027,
-      "description": "BYD Shark can blend this potent performance with real-world efficiency because its DMO powertrain is designed, like DM-i, to offer an EV-first driving experience.",
-      "pageUrl": "https://www.netcarshow.com/byd/2027-shark/",
-      "thumbUrl": "https://www.netcarshow.com/R/BYD-Shark-2027-thb.jpg",
-      "imageUrl": "https://www.netcarshow.com/BYD-Shark-2027-wallpaper.jpg",
-      "scrapedAt": "2026-10-29T14:04:01.846Z"
+      "scrapedAt": "2026-10-30T09:07:48.755Z"
     },
     {
       "id": "td-car-reviews-2027-honda-hrv-review",
@@ -1381,7 +1159,277 @@
       "pageUrl": "https://www.thedrive.com/car-reviews/2027-honda-hrv-review",
       "thumbUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/20260913_193640.jpeg?quality=85",
       "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/20260913_193640.jpeg?quality=85",
-      "scrapedAt": "2026-10-29T14:04:01.673Z"
+      "scrapedAt": "2026-10-30T09:07:48.553Z"
+    },
+    {
+      "id": "ncs-bmw-2027-i7",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "BMW i7",
+      "fullName": "2027 BMW i7",
+      "year": 2027,
+      "description": "2027 BMW 7-Series represents the most extensive model update ever undertaken by BMW. The BMW i7 captures the range's forward-looking premium character with particular flair...",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-i7/",
+      "thumbUrl": "https://www.netcarshow.com/R/BMW-i7-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/BMW-i7-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-smart-2027-2",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "Smart",
+      "brandSlug": "smart",
+      "name": "Smart 2",
+      "fullName": "2027 Smart 2",
+      "year": 2027,
+      "description": "At the core of the smart 2 is the newly developed Electric Compact Architecture (ECA) platform, engineered specifically for the new smart two-seater.",
+      "pageUrl": "https://www.netcarshow.com/smart/2027-2/",
+      "thumbUrl": "https://www.netcarshow.com/R/Smart-2-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/Smart-2-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-cadillac-2027-escalade-v_125th_anniversary_collector_series",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "Cadillac",
+      "brandSlug": "cadillac",
+      "name": "Cadillac Escalade-V 125th Anniversary Collector Series",
+      "fullName": "2027 Cadillac Escalade-V 125th Anniversary Collector Series",
+      "year": 2027,
+      "description": "125th Anniversary represents the first Escalade Collector Series and honors Cadillac's legacy through a highly limited, serialized expression of performance luxury.",
+      "pageUrl": "https://www.netcarshow.com/cadillac/2027-escalade-v_125th_anniversary_collector_series/",
+      "thumbUrl": "https://www.netcarshow.com/R/Cadillac-Escalade-V_125th_Anniversary_Collector_Series-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/Cadillac-Escalade-V_125th_Anniversary_Collector_Series-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-byd-2027-atto_8",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "BYD",
+      "brandSlug": "byd",
+      "name": "BYD Atto 8",
+      "fullName": "2027 BYD Atto 8",
+      "year": 2027,
+      "description": "BYD Atto 8 measures 5040mm long, 1996mm wide and 1760mm tall - dimensions that place it firmly in the full-sized SUV class and allow generous accommodation for seven...",
+      "pageUrl": "https://www.netcarshow.com/byd/2027-atto_8/",
+      "thumbUrl": "https://www.netcarshow.com/R/BYD-Atto_8-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/BYD-Atto_8-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-hyundai-2027-bayon",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "Hyundai",
+      "brandSlug": "hyundai",
+      "name": "Hyundai Bayon",
+      "fullName": "2027 Hyundai Bayon",
+      "year": 2027,
+      "description": "Hyundai Bayon has been designed to deliver the confident presence of a true SUV through its upright stance, pronounced SUV design cues and increased ground clearance.",
+      "pageUrl": "https://www.netcarshow.com/hyundai/2027-bayon/",
+      "thumbUrl": "https://www.netcarshow.com/R/Hyundai-Bayon-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/Hyundai-Bayon-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-hyundai-2027-ioniq_3",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "Hyundai",
+      "brandSlug": "hyundai",
+      "name": "Hyundai Ioniq 3",
+      "fullName": "2027 Hyundai Ioniq 3",
+      "year": 2027,
+      "description": "Ioniq 3 brings Hyundai's 'Art of Steel' design language to the compact EV segment. Inspired by the raw tension and purity found in steel production...",
+      "pageUrl": "https://www.netcarshow.com/hyundai/2027-ioniq_3/",
+      "thumbUrl": "https://www.netcarshow.com/R/Hyundai-Ioniq_3-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/Hyundai-Ioniq_3-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-mercedes-benz-2027-amg_gt_suv",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "Mercedes-Benz",
+      "brandSlug": "mercedes-benz",
+      "name": "Mercedes-Benz AMG GT SUV",
+      "fullName": "2027 Mercedes-Benz AMG GT SUV",
+      "year": 2027,
+      "description": "Despite its sporty silhouette, the rear seat offers generous headroom and legroom as well as a comfortable seating position, making the AMG GT SUV ideal for long journeys.",
+      "pageUrl": "https://www.netcarshow.com/mercedes-benz/2027-amg_gt_suv/",
+      "thumbUrl": "https://www.netcarshow.com/R/Mercedes-Benz-AMG_GT_SUV-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/Mercedes-Benz-AMG_GT_SUV-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-bmw-2027-x5",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "BMW X5",
+      "fullName": "2027 BMW X5",
+      "year": 2027,
+      "description": "The new BMW X5 introduces an all-new design with a powerful, monolithic appearance that blends classic BMW SAV proportions with contemporary Neue Klasse design language.",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-x5/",
+      "thumbUrl": "https://www.netcarshow.com/R/BMW-X5-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/BMW-X5-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-bmw-2027-ix5",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "BMW iX5",
+      "fullName": "2027 BMW iX5",
+      "year": 2027,
+      "description": "BMW iX5 60 xDrive uses one electric motor at each axle, producing a combined 570 hp and 593 lb-ft of torque. It accelerates from 0 to 60 mph in an estimated 4.4 seconds...",
+      "pageUrl": "https://www.netcarshow.com/bmw/2027-ix5/",
+      "thumbUrl": "https://www.netcarshow.com/R/BMW-iX5-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/BMW-iX5-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-nissan-2027-pathfinder_special_edition",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "Nissan",
+      "brandSlug": "nissan",
+      "name": "Nissan Pathfinder Special Edition",
+      "fullName": "2027 Nissan Pathfinder Special Edition",
+      "year": 2027,
+      "description": "Intended to celebrate the nameplate's 40th year in the marketplace, the Nissan Pathfinder Special Edition pays homage to the first-generation Pathfinder...",
+      "pageUrl": "https://www.netcarshow.com/nissan/2027-pathfinder_special_edition/",
+      "thumbUrl": "https://www.netcarshow.com/R/Nissan-Pathfinder_Special_Edition-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/Nissan-Pathfinder_Special_Edition-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "ncs-byd-2027-shark",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "brand": "BYD",
+      "brandSlug": "byd",
+      "name": "BYD Shark",
+      "fullName": "2027 BYD Shark",
+      "year": 2027,
+      "description": "BYD Shark can blend this potent performance with real-world efficiency because its DMO powertrain is designed, like DM-i, to offer an EV-first driving experience.",
+      "pageUrl": "https://www.netcarshow.com/byd/2027-shark/",
+      "thumbUrl": "https://www.netcarshow.com/R/BYD-Shark-2027-thb.jpg",
+      "imageUrl": "https://www.netcarshow.com/BYD-Shark-2027-wallpaper.jpg",
+      "scrapedAt": "2026-10-30T07:33:53.698Z"
+    },
+    {
+      "id": "rat-reviews-a74229222-2027-bmw-ix5-60-xdrive-drive-review",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW iX5 60 xDrive Proves",
+      "fullName": "2027 BMW iX5 60 xDrive Proves",
+      "year": 2027,
+      "description": "Pure electric propulsion transforms BMW’s long-lived SUV, mostly for the better.",
+      "pageUrl": "https://www.roadandtrack.com/reviews/a74229222/2027-bmw-ix5-60-xdrive-drive-review/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/c9659f4c-3d39-47aa-a665-ac9f87c0bea2.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c9659f4c-3d39-47aa-a665-ac9f87c0bea2.jpg",
+      "scrapedAt": "2026-10-29T21:07:41.950Z"
+    },
+    {
+      "id": "cad-news-a74218284-2027-subaru-outback-pricing-new-base-model",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "brand": "Subaru",
+      "brandSlug": "subaru",
+      "name": "2027 Subaru Outback",
+      "fullName": "2027 Subaru Outback",
+      "year": 2027,
+      "description": "A new base model lowers the entry cost of getting behind the wheel of an Outback, and Subaru has also cut prices on almost every other trim across the lineup.",
+      "pageUrl": "https://www.caranddriver.com/news/a74218284/2027-subaru-outback-pricing-new-base-model/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/6570466a-f2fd-4b0f-bad3-cd0d5f66c9fd.jpeg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6570466a-f2fd-4b0f-bad3-cd0d5f66c9fd.jpeg",
+      "scrapedAt": "2026-10-29T15:07:40.580Z"
+    },
+    {
+      "id": "rat-reviews-a74219191-tested-2027-lexus-nx-350h",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "brand": "Lexus",
+      "brandSlug": "lexus",
+      "name": "2027 Lexus NX 350h",
+      "fullName": "2027 Lexus NX 350h",
+      "year": 2027,
+      "description": "Mild updates improve the NX enough to conceivably make it the best-selling Lexus model.",
+      "pageUrl": "https://www.roadandtrack.com/reviews/a74219191/tested-2027-lexus-nx-350h/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/747ff76e-32b2-4f07-b668-d35942ef988f.jpeg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/747ff76e-32b2-4f07-b668-d35942ef988f.jpeg",
+      "scrapedAt": "2026-10-29T15:07:40.580Z"
+    },
+    {
+      "id": "cad-photos-a74081553-2027-bmw-ix3-test-exterior-gallery",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW iX3",
+      "fullName": "2027 BMW iX3",
+      "year": 2027,
+      "description": "See the exterior of the 2027 BMW iX3 from every angle.",
+      "pageUrl": "https://www.caranddriver.com/photos/a74081553/2027-bmw-ix3-test-exterior-gallery/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/e157936d-f9ab-4e7c-9341-40cd981d8159.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e157936d-f9ab-4e7c-9341-40cd981d8159.jpg",
+      "scrapedAt": "2026-10-29T15:07:40.535Z"
+    },
+    {
+      "id": "cad-gmc-hummer-ev-suv",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "brand": "GMC",
+      "brandSlug": "gmc",
+      "name": "2027 GMC Hummer EV SUV",
+      "fullName": "2027 GMC Hummer EV SUV",
+      "year": 2027,
+      "description": "Review, Pricing, and Specs",
+      "pageUrl": "https://www.caranddriver.com/gmc/hummer-ev-suv",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-gmc-hummer-ev-suv-321-6419ae9899dfc.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-gmc-hummer-ev-suv-321-6419ae9899dfc.jpg",
+      "scrapedAt": "2026-10-29T15:07:40.535Z"
+    },
+    {
+      "id": "cad-photos-a74218841-2027-lamborghini-revuelto-sv-drive-cee4e9",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "brand": "Lamborghini",
+      "brandSlug": "lamborghini",
+      "name": "2027 Lamborghini Revuelto SV",
+      "fullName": "2027 Lamborghini Revuelto SV",
+      "year": 2027,
+      "description": "See the interior of the 2027 Lamborghini Revuelto V-12 from every angle.",
+      "pageUrl": "https://www.caranddriver.com/photos/a74218841/2027-lamborghini-revuelto-sv-drive-interior-gallery/",
+      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/85924b2e-4dfe-49b3-90a9-719928b07867.jpg",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/85924b2e-4dfe-49b3-90a9-719928b07867.jpg",
+      "scrapedAt": "2026-10-29T15:07:40.535Z"
+    },
+    {
+      "id": "carscoops-2298693-mopar-27-dodge-charger-celebrates-90-years-cfdce4",
+      "source": "carscoops",
+      "sourceLabel": "Carscoops",
+      "brand": "Dodge",
+      "brandSlug": "dodge",
+      "name": "2027 Mopar Dodge Charger",
+      "fullName": "2027 Mopar Dodge Charger",
+      "year": 2027,
+      "description": "Mopar has released 15 limited-edition packages since 2010, and the Mopar &#39;27 Charger will be the fourth time this nameplate has received such a treatment.",
+      "pageUrl": "https://www.carscoops.com/2298693/mopar-27-dodge-charger-celebrates-90-years-of-performance/",
+      "thumbUrl": "https://www.carscoops.com/img/gallery/2027-mopar-dodge-charger-celebrates-90-years-of-performance/intro-1793124194.jpg",
+      "imageUrl": "https://www.carscoops.com/img/gallery/2027-mopar-dodge-charger-celebrates-90-years-of-performance/intro-1793124194.jpg",
+      "scrapedAt": "2026-10-29T15:07:40.361Z"
     },
     {
       "id": "td-car-reviews-2027-audi-q9-first-drive-review",
@@ -1862,52 +1910,7 @@
       "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-ford-ranger-v6-113-6733c8a0368f5.jpg",
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2024-ford-ranger-v6-113-6733c8a0368f5.jpg",
       "scrapedAt": "2026-10-22T14:04:01.367Z"
-    },
-    {
-      "id": "cad-news-a74183660-2027-kia-sorento-phev-price",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "brand": "Kia",
-      "brandSlug": "kia",
-      "name": "2027 Kia Sorento PHEV Now",
-      "fullName": "2027 Kia Sorento PHEV Now",
-      "year": 2027,
-      "description": "Kia has discontinued the entry-level version of the plug-in hybrid mid-size SUV, but the last model standing is fully loaded.",
-      "pageUrl": "https://www.caranddriver.com/news/a74183660/2027-kia-sorento-phev-price/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/fdc7522c-47a5-481e-b43a-fec39433bc99.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fdc7522c-47a5-481e-b43a-fec39433bc99.jpg",
-      "scrapedAt": "2026-10-22T14:04:01.367Z"
-    },
-    {
-      "id": "cad-photos-a74167213-2027-lexus-nx-drive-interior-gallery",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "brand": "Lexus",
-      "brandSlug": "lexus",
-      "name": "2027 Lexus NX",
-      "fullName": "2027 Lexus NX",
-      "year": 2027,
-      "description": "See the interior of the 2027 Lexus NX from every angle.",
-      "pageUrl": "https://www.caranddriver.com/photos/a74167213/2027-lexus-nx-drive-interior-gallery/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/f01cff6f-21fe-4367-ba27-f4e783b4c51b.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f01cff6f-21fe-4367-ba27-f4e783b4c51b.jpg",
-      "scrapedAt": "2026-10-22T14:04:01.367Z"
-    },
-    {
-      "id": "cad-reviews-a71317567-2027-volvo-ex60-drive",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "brand": "Volvo",
-      "brandSlug": "volvo",
-      "name": "2027 Volvo EX60",
-      "fullName": "2027 Volvo EX60",
-      "year": 2027,
-      "description": "Prodigious computer code and coddling refinement wrapped in Scandinavian minimalism.",
-      "pageUrl": "https://www.caranddriver.com/reviews/a71317567/2027-volvo-ex60-drive/",
-      "thumbUrl": "https://hips.hearstapps.com/hmg-prod/images/9af76f50-a270-4ae5-a770-d6fd5db5542c.jpg",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9af76f50-a270-4ae5-a770-d6fd5db5542c.jpg",
-      "scrapedAt": "2026-10-22T14:04:01.367Z"
     }
   ],
-  "updatedAt": "2026-10-29T14:04:01.248Z"
+  "updatedAt": "2026-10-30T09:07:47.986Z"
 }

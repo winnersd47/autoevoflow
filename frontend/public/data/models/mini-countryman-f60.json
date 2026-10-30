@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-countryman-f60",
+  "slug": "mini-countryman-f60",
+  "name": "Mini Countryman F60",
+  "fullName": "Mini Countryman F60 (2017)",
+  "brandId": "mini",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "2nd gen Countryman on UKL2. PHEV Cooper S E 224 HP. Plug-in hybrid first for MINI. Larger than R60.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:13:19.044Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_Mini_Countryman_Cooper_S_2.0_Front.jpg/3840px-2018_Mini_Countryman_Cooper_S_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_Mini_Countryman_Cooper_S_2.0_Front.jpg/3840px-2018_Mini_Countryman_Cooper_S_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:13:19.045Z"
+}

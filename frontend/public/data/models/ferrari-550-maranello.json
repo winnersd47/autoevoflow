@@ -12,10 +12,16 @@
   "isActive": false,
   "description": "The Ferrari 550 Maranello (1996–2001) returned Ferrari to the front-engine GT formula after 23 years. Its 485 hp 5.5-litre V12 and perfect 50:50 weight distribution made it the definitive modern expression of the Daytona's philosophy.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "ferrari", "v12", "front-engine", "gt"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "coupe",
+    "ferrari",
+    "v12",
+    "front-engine",
+    "gt"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z"
+  "updatedAt": "2026-10-29T15:23:06.685Z"
 }

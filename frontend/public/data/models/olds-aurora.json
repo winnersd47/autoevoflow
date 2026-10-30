@@ -1,0 +1,20 @@
+{
+  "id": "sync-olds-aurora",
+  "slug": "olds-aurora",
+  "name": "Oldsmobile Aurora",
+  "fullName": "Oldsmobile Aurora",
+  "brandId": "oldsmobile",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "Второе поколение добавило более доступный 3.5L V6 (LX5 'Shortstar', 215 л.с., только 2001-2002); флагманский 4.0L V8 (L47) сохранён на всё поколение — 250 л.с./260 фунто-футов, как и в Gen.1. Источник: autoevolution.com, autopadre.com (Oldsmobile Aurora Horsepower & Torque).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:59:12.552Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/en/6/64/Oldsmobile.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/64/Oldsmobile.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:59:12.552Z"
+}

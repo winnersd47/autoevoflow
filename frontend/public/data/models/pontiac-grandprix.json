@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-grandprix",
+  "slug": "pontiac-grandprix",
+  "name": "Pontiac Grand Prix GTP",
+  "fullName": "Pontiac Grand Prix GTP",
+  "brandId": "pontiac",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1962,
+  "isActive": true,
+  "description": "Наддувный 3.8L V6 — топ-трим 6-го поколения (1997-2003); у Grand Prix была ЦЕЛАЯ линейка поколений между 1962 и этим годом, которых в графе не было вообще.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:59:18.637Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pontiac-Grand-Prix-GTP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pontiac-Grand-Prix-GTP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:59:18.637Z"
+}

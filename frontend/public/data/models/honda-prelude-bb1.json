@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-prelude-bb1",
+  "slug": "honda-prelude-bb1",
+  "name": "Honda Prelude Gen.4",
+  "fullName": "Honda Prelude Gen.4 (1992)",
+  "brandId": "honda",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:24:15.365Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1998_Honda_Prelude_VTi_Automatic_2.2_Front.jpg/3840px-1998_Honda_Prelude_VTi_Automatic_2.2_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1998_Honda_Prelude_VTi_Automatic_2.2_Front.jpg/3840px-1998_Honda_Prelude_VTi_Automatic_2.2_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:24:15.365Z"
+}

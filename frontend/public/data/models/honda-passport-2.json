@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-passport-2",
+  "slug": "honda-passport-2",
+  "name": "Honda Passport",
+  "fullName": "Honda Passport (2019)",
+  "brandId": "honda",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Возрождение нейминга спустя 17 лет — на этот раз полностью свой монококовый кроссовер на укороченной платформе 3-го поколения Pilot (YF5), двухрядный (5 мест) вместо трёхрядного. V6 3.5L, 280 л.с./262Нм, 9-ст. АКПП. Позиционируется как более 'внедорожный' напарник Pilot, конкурент Toyota 4Runner и Jeep Grand Cherokee.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:50:06.563Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg/3840px-2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg/3840px-2026_Honda_Passport_RTL%2C_front_right%2C_06-07-2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:50:06.563Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ram-1500-classic",
+  "slug": "ram-1500-classic",
+  "name": "Ram 1500 Classic",
+  "fullName": "Ram 1500 Classic (2019)",
+  "brandId": "ram",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:55:54.592Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/2019_Ram_1500_Hemi_5.7l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/2019_Ram_1500_Hemi_5.7l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T16:55:54.592Z"
+}

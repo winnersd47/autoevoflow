@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev6",
+  "slug": "kia-ev6",
+  "name": "Kia EV6 Facelift",
+  "fullName": "Kia EV6 Facelift",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Рестайлинг EV6, дебют на автосалоне Лос-Анджелеса в нояб. 2024, продажи с MY2025. Новая передняя/задняя оптика (стилистика EV9/EV3), увеличенная батарея (баз. версия США 58→63 кВтч, Европа/Корея — до 84 кВтч, запас хода до 319 миль/≈584 км WLTP), более быстрая зарядка (10-80% за 18 мин), новая мультимедиа ccNC. Мощность AWD-версий — до 320 л.с. (указано анкором). source: carscoops, electrek, topelectricsuv (2024-2025).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:54:21.927Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2021_Kia_EV6_GT-Line_S.jpg/3840px-2021_Kia_EV6_GT-Line_S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/2021_Kia_EV6_GT-Line_S.jpg/3840px-2021_Kia_EV6_GT-Line_S.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:54:21.927Z"
+}

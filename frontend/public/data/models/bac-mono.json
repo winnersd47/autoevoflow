@@ -1,0 +1,20 @@
+{
+  "id": "sync-bac-mono",
+  "slug": "bac-mono",
+  "name": "BAC Mono",
+  "fullName": "BAC Mono",
+  "brandId": "bac",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Атмосферный Ford Duratec 2.3 в тюнинге Cosworth, 13.1:1 степень сжатия, 7700 об/мин. Одноместный монокок из карбона/стали, 614 кг.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:07:04.493Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Lakeside_of_Mono_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Lakeside_of_Mono_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T18:07:04.493Z"
+}

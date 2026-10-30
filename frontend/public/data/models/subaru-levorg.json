@@ -1,0 +1,20 @@
+{
+  "id": "sync-subaru-levorg",
+  "slug": "subaru-levorg",
+  "name": "Subaru Levorg STI Sport (VN)",
+  "fullName": "Subaru Levorg STI Sport (VN)",
+  "brandId": "subaru",
+  "bodyType": "wagon",
+  "segment": "sports_wagon",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "2-е поколение — переход на Subaru Global Platform и новый даунсайз-мотор CB18 (1.8L турбо): 177 PS (175 л.с.)/300 Нм — номинально меньше, чем топ-версия 1-го поколения (2.0T), но с более широким крутящим плато и лучшей экономичностью. STI Sport — топовый трим с усиленной подвеской/тормозами. Источник: Wikipedia (Subaru Levorg), carexpert.com.au.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:14:46.931Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2014-2017_Subaru_Levorg_GT-S_EyeSight.jpg/3840px-2014-2017_Subaru_Levorg_GT-S_EyeSight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/2014-2017_Subaru_Levorg_GT-S_EyeSight.jpg/3840px-2014-2017_Subaru_Levorg_GT-S_EyeSight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:14:46.931Z"
+}

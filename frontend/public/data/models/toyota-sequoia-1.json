@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-sequoia-1",
+  "slug": "toyota-sequoia-1",
+  "name": "Toyota Sequoia 1st Generation",
+  "fullName": "Toyota Sequoia 1st Generation",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "fullsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Первый Sequoia показан в 2000 (MY2001) на платформе Tundra 1-го поколения — первый полноразмерный внедорожник Toyota для рынка США. Единственный мотор — 4.7L V8 2UZ-FE: изначально 240 л.с., после рестайлинга 2005 г. — 282 л.с. В графе ранее был представлен только трим Trailhunter 3-го поколения без единого базового узла — это и есть тот самый исторический пробел, упомянутый в его note.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:46:24.128Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Headquarter_of_Toyota_Motor_Corporation_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Headquarter_of_Toyota_Motor_Corporation_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:46:24.128Z"
+}

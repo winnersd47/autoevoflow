@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-niro",
+  "slug": "kia-niro",
+  "name": "Kia Niro I",
+  "fullName": "Kia Niro I (2016)",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:46:27.818Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg/3840px-Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg/3840px-Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:46:27.818Z"
+}

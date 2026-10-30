@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-vanquish",
+  "slug": "astonmartin-vanquish",
+  "name": "Aston Martin Vanquish 25",
+  "fullName": "Aston Martin Vanquish 25",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Юбилейная серия к 25-летию нейминга Vanquish (2001-2026), reveal 22 июля 2026, публичный дебют на Monterey Car Week (10-16 авг.2026), поставки с Q4 2026. Тот же 5.2Т V12 824hp/738lb-ft, что у базового Vanquish (2024) — прироста мощности нет, отличия визуальные: эксклюзивный цвет Q Skye Silver, металлическая фольга Q Commission на порогах и накладках, уникальный выхлоп. Тираж 50 экземпляров всего (25 купе + 25 Volante), 2+0 или 2+2 салон на выбор.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:25:03.626Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg/3840px-Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg/3840px-Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:25:03.626Z"
+}

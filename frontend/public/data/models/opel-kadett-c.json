@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-kadett-c",
+  "slug": "opel-kadett-c",
+  "name": "Kadett C",
+  "fullName": "Kadett C (1973)",
+  "brandId": "opel",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:25:38.874Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Opel_Kadett_C_Coupe_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Opel_Kadett_C_Coupe_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:25:38.874Z"
+}

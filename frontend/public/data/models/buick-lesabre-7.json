@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lesabre-7",
+  "slug": "buick-lesabre-7",
+  "name": "Buick LeSabre Gen.7",
+  "fullName": "Buick LeSabre Gen.7",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Единственный мотор — 3.8L V6, изначально 170hp, с 1997г. обновлён до 205hp (3800 Series II). Источник: iseecars.com, wikipedia (Buick LeSabre).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:27.365Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:06:27.365Z"
+}

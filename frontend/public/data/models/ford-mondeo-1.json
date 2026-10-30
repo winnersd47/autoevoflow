@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mondeo-1",
+  "slug": "ford-mondeo-1",
+  "name": "Mondeo Mk1",
+  "fullName": "Mondeo Mk1",
+  "brandId": "ford",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:09:44.941Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2003_Ford_Mondeo_LX_TDCi_2.0.jpg/3840px-2003_Ford_Mondeo_LX_TDCi_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/2003_Ford_Mondeo_LX_TDCi_2.0.jpg/3840px-2003_Ford_Mondeo_LX_TDCi_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:09:44.941Z"
+}

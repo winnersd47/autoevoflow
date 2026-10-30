@@ -1,0 +1,20 @@
+{
+  "id": "sync-corsair",
+  "slug": "corsair",
+  "name": "Corsair",
+  "fullName": "Corsair",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "compact_luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Единственное поколение (с 2020г.) на платформе C2 (общей с Ford Escape 4-го поколения/Bronco Sport), сменило MKC. База — 2.0L turbo I4 (250 л.с.). Топ по л.с. (до отказа от мотора в рефреше 2023г.) — 2.3L turbo I4, 280 л.с. (приведено в узле). Отдельно — Grand Touring, plug-in гибрид 2.5L I4 + 2 электромотора, 266 л.с. суммарно — мощность ниже топового ДВС-варианта, так как настроен на запас хода на электротяге, а не на максимальную отдачу; отдельного узла не требует (трим внутри того же поколения/платформы). Источники: autoevolution.com, kbb.com (2022 Corsair Reserve vs Grand Touring).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:57:35.293Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2020_Lincoln_Corsair_base%2C_front_12.12.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2020_Lincoln_Corsair_base%2C_front_12.12.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:57:35.293Z"
+}

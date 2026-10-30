@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-205-t16-evo2",
+  "slug": "peugeot-205-t16-evo2",
+  "name": "Peugeot 205 Turbo 16 Evolution 2",
+  "fullName": "Peugeot 205 Turbo 16 Evolution 2",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "Раллийная версия Group B — 450 л.с. (331кВт), новый турбо Garrett T31. Источник: automobile-catalog.com (331kW/450PS/444hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:17:39.571Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/3840px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/3840px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:17:39.571Z"
+}

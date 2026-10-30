@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-skylark",
+  "slug": "buick-skylark",
+  "name": "Buick Skylark Gen.1",
+  "fullName": "Buick Skylark Gen.1",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "Skylark дебютировал в 1961г. как топ-пакет компактного Buick Special (платформа \"senior compact\" Y-body, общая с Oldsmobile F-85/Pontiac Tempest). Тот же алюминиевый блок 215cid V8, что и у Special, но с 4-камерным карбюратором и повышенной компрессией — 185hp против 155hp у базового 2bbl Special. Источник: oldcarmemories.com, classicautomall.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:34:29.864Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Buick_Skyhawk_4-door_white.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Buick_Skyhawk_4-door_white.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:34:29.864Z"
+}

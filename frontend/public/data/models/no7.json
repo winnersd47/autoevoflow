@@ -1,0 +1,20 @@
+{
+  "id": "sync-no7",
+  "slug": "no7",
+  "name": "DS No7",
+  "fullName": "DS No7",
+  "brandId": "ds",
+  "bodyType": "fastback",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:27:29.361Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DSV_Bakunawa_descending_underwater_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DSV_Bakunawa_descending_underwater_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:27:29.361Z"
+}

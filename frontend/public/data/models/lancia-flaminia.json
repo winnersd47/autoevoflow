@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-flaminia",
+  "slug": "lancia-flaminia",
+  "name": "Lancia Flaminia",
+  "fullName": "Lancia Flaminia (1957)",
+  "brandId": "lancia",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1957,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:41:47.837Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/1961_Lancia_Flaminia_GT%2C_front_right.jpg/3840px-1961_Lancia_Flaminia_GT%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/1961_Lancia_Flaminia_GT%2C_front_right.jpg/3840px-1961_Lancia_Flaminia_GT%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:41:47.837Z"
+}

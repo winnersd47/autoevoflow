@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-rs200",
+  "slug": "ford-rs200",
+  "name": "RS200",
+  "fullName": "RS200",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:00:18.963Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/White_Ford_RS200.jpg/3840px-White_Ford_RS200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/White_Ford_RS200.jpg/3840px-White_Ford_RS200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:00:18.963Z"
+}

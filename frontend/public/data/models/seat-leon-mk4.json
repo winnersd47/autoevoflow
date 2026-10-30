@@ -1,0 +1,20 @@
+{
+  "id": "sync-seat-leon-mk4",
+  "slug": "seat-leon-mk4",
+  "name": "SEAT León Mk4",
+  "fullName": "SEAT León Mk4 (2020)",
+  "brandId": "seat",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:12:01.645Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:12:01.645Z"
+}

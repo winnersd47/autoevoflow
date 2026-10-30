@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-rx8",
+  "slug": "mazda-rx8",
+  "name": "RX-8 Spirit R",
+  "fullName": "RX-8 Spirit R",
+  "brandId": "mazda",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Прощальная лимитированная серия RX-8 (JDM, анонс март 2012) перед остановкой производства в июне 2012г. — финальная спецверсия на базе рестайлинга SE3P. RENESIS 13B-MSP (High Power 6-port), 231PS. Источник: Wikipedia (Mazda RX-8), japanesenostalgiccar.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:44:58.646Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:44:58.646Z"
+}

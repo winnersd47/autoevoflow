@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-db4-gt-zagato",
+  "slug": "astonmartin-db4-gt-zagato",
+  "name": "Aston Martin DB4 GT Zagato Continuation",
+  "fullName": "Aston Martin DB4 GT Zagato Continuation",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 1960,
+  "isActive": true,
+  "description": "Новодел оригинала 1960г. под историческую спецификацию — часть парного релиза \"DBZ Centenary Collection\" к 106-летию бренда (вместе с DBS GT Zagato). 4.7Л I6 с двумя свечами на цилиндр (как в оригинале, но крупнее объёмом), 390+hp, 4-ступ. механика, ~4500 человеко-часов на экземпляр. Трек-only — не сертифицирован для дорог по современным нормам.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:06:38.221Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg/3840px-1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg/3840px-1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:06:38.221Z"
+}

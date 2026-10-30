@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-trailblazer",
+  "slug": "chev-trailblazer",
+  "name": "TrailBlazer",
+  "fullName": "TrailBlazer",
+  "brandId": "chevrolet",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:10:42.923Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/99-02_Chevrolet_Blazer_TrailBlazer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/99-02_Chevrolet_Blazer_TrailBlazer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:10:42.923Z"
+}

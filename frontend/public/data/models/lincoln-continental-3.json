@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-continental-3",
+  "slug": "lincoln-continental-3",
+  "name": "Lincoln Continental",
+  "fullName": "Lincoln Continental",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "full_size_luxury",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "Заполняет пропуск между Continental Gen.2 (1970) и возрождённым Continental 2017г. — реальная смена платформы на удлинённую RWD-версию Fox (та же база, что у Mark VII/Thunderbird). Примечание по неймингу: в 1980-1981гг. существовал промежуточный Lincoln Continental на платформе Panther (всего 2 года, затем переименован в Town Car с 1981г.) — отдельным узлом не выделяется ввиду крайне короткого жизненного цикла под этим именем (аналогично переименованию Zephyr→MKZ). Последнее RWD-поколение Continental. Двигатели 1982г.: 3.8L V6 (112 л.с.) база или 5.0L V8 (131-140 л.с.) топ — в узле топовый V8. Источники: autoevolution (1982 Lincoln Continental specs), Wikipedia (Lincoln Continental).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:04:57.093Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:04:57.093Z"
+}

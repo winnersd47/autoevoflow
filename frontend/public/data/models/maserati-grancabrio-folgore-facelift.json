@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-grancabrio-folgore-facelift",
+  "slug": "maserati-grancabrio-folgore-facelift",
+  "name": "Maserati GranCabrio Mk2 Folgore Facelift",
+  "fullName": "Maserati GranCabrio Mk2 Folgore Facelift",
+  "brandId": "maserati",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Подтверждено независимой проверкой 2026-08-27 прямыми источниками (включая собственную страницу Maserati) — изначально было отмечено как \"по аналогии с купе\", теперь фактически: тот же прирост запаса хода WED, что у купе-версии, новый бампер/решётка/фонари, руль с плоским основанием снизу, PRND-селектор с металлической отделкой, цифровые часы на приборной панели. Снижение цены на американском рынке примерно с $207.6К до $151.2К.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:46:33.184Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:46:33.184Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-im",
+  "slug": "scion-im",
+  "name": "Scion iM",
+  "fullName": "Scion iM (2015)",
+  "brandId": "scion",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Toyota Auris-based hatchback. 1.8L Valvematic 137 HP. Became Toyota Corolla iM. Last new Scion model.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:18:04.041Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Toyota_Auris_2.0_D-4D_Executive_%28II%29_%E2%80%93_Frontansicht%2C_1._Juni_2013%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Toyota_Auris_2.0_D-4D_Executive_%28II%29_%E2%80%93_Frontansicht%2C_1._Juni_2013%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:18:04.041Z"
+}

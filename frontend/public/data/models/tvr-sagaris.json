@@ -1,0 +1,20 @@
+{
+  "id": "sync-tvr-sagaris",
+  "slug": "tvr-sagaris",
+  "name": "Sagaris",
+  "fullName": "Sagaris",
+  "brandId": "tvr",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:53:00.045Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/TVR_Sagaris_%282005%29_-_15227507288.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/TVR_Sagaris_%282005%29_-_15227507288.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:53:00.045Z"
+}

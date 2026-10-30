@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-seltos",
+  "slug": "kia-seltos",
+  "name": "Kia Seltos II",
+  "fullName": "Kia Seltos II",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Второе поколение, мировая премьера перед запуском в Индии 2 янв. 2026 (платформа K3). Крупнее предшественника: длина 4460мм (+95), колёсная база 2690мм (+80), дизайн с явным влиянием Telluride (Tigerface-решётка, вертикальная LED-оптика, скрытые дверные ручки). На старте (Индия): атмосферный 1.5 MPI (115 л.с.), турбо 1.5 T-GDI (160 л.с., указан как анкор) и дизель 1.5 CRDi (116 л.с.); гибрид анонсирован на 2026. Спецификации для США/Европы на момент добавления узла ещё не объявлены. source: autocarindia, paultan, cartoq (дек.2025-янв.2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:11:19.828Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kia_Seltos_SP2_PE_Snow_White_Pearl_%2817%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kia_Seltos_SP2_PE_Snow_White_Pearl_%2817%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:11:19.828Z"
+}

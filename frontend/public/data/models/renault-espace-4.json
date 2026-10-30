@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-espace-4",
+  "slug": "renault-espace-4",
+  "name": "Renault Espace IV",
+  "fullName": "Renault Espace IV",
+  "brandId": "renault",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Самое долгое поколение (2002–2015); пиковый мотор — 3.5 V6 245 л.с. в топ-версии Initiale.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:34:41.650Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/3840px-2015-present_Renault_Espace_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/3840px-2015-present_Renault_Espace_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:34:41.650Z"
+}

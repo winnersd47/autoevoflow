@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-gls",
+  "slug": "mercedes-gls",
+  "name": "Mercedes-Benz GLS X167 Phase II (2023 facelift)",
+  "fullName": "Mercedes-Benz GLS X167 Phase II (2023 facelift)",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "premium_suv",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Рестайлинг 2023г. (продажи в Европе с конца октября 2023, в США с сентября): новая оптика и руль от нового S-Class. GLS580 4MATIC V8 mild-hybrid — ок. 489 л.с.",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:15:30.264Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercedes-Benz_X167_IMG_5259.jpg/3840px-Mercedes-Benz_X167_IMG_5259.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercedes-Benz_X167_IMG_5259.jpg/3840px-Mercedes-Benz_X167_IMG_5259.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:15:30.264Z"
+}

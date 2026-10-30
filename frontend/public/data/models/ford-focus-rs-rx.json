@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-rs-rx",
+  "slug": "ford-focus-rs-rx",
+  "name": "Ford Focus RS RX",
+  "fullName": "Ford Focus RS RX",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Заводской ралликросс-кар M-Sport/Ford Performance для Hoonigan Racing Кена Блока — дебют в FIA World Rallycross Championship 2016. База — шасси RS Mk3. 2.0L турбо I4 (Garrett), 600hp, полный привод (Sadev), 5-ст. секвентальная КПП, подвеска Reiger. 0-60 за 1.9с — быстрее машины Формулы-1.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:56:10.528Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Neste_Oil_Rally_2010_-_Jari-Matti_Latvala_in_shakedown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Neste_Oil_Rally_2010_-_Jari-Matti_Latvala_in_shakedown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:56:10.528Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-denza-n7",
+  "slug": "denza-n7",
+  "name": "Denza N7",
+  "fullName": "Denza N7",
+  "brandId": "denza",
+  "bodyType": "suv",
+  "segment": "crossover",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:50:25.396Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2024_Denza_N7_%28facelift%29.jpg/3840px-2024_Denza_N7_%28facelift%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2024_Denza_N7_%28facelift%29.jpg/3840px-2024_Denza_N7_%28facelift%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:50:25.396Z"
+}

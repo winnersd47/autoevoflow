@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-3door-f56",
+  "slug": "mini-3door-f56",
+  "name": "Mini 3-Door F56",
+  "fullName": "Mini 3-Door F56 (2013)",
+  "brandId": "mini",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "3rd gen BMW MINI. UKL1 platform (shared with BMW i3 and 2-series). 1.5L 3-cyl or 2.0L 4-cyl.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:12:10.447Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:12:10.447Z"
+}

@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "The Mercedes-Benz CLK (1997-2009) combined E-Class engineering with C-Class dimensions to produce one of the most elegant Mercedes designs of its era. Replaced by the E-Class Coupe W207.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/CLK_209_%28Cabriolet%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/CLK_209_%28Cabriolet%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "coupe",
     "mercedes"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:41:34.600Z",
   "generations": [
     {
       "id": "gen-mercedes-clk-1",

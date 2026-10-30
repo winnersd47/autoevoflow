@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-tank-x",
+  "slug": "rezvani-tank-x",
+  "name": "Rezvani Tank X",
+  "fullName": "Rezvani Tank X",
+  "brandId": "rezvani",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "1000+ HP Dodge Demon 6.2L V8. Jeep Wrangler JL platform. EMP protection, thermal night vision. $349K.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:01:07.370Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:01:07.370Z"
+}

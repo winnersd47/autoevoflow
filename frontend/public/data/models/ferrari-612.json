@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-612",
+  "slug": "ferrari-612",
+  "name": "Ferrari 612 Scaglietti",
+  "fullName": "Ferrari 612 Scaglietti (2004)",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:22:54.387Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ferrari_612_Scaglietti_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ferrari_612_Scaglietti_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:22:54.387Z"
+}

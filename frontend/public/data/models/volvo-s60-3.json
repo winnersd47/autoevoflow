@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-s60-3",
+  "slug": "volvo-s60-3",
+  "name": "Volvo S60 Gen3",
+  "fullName": "Volvo S60 Gen3 (2018)",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "ИСПРАВЛЕНО: узел ранее был замаскирован под топ-трим Polestar Engineered (hp=415, PHEV, codeName='Polestar Engineered') вместо базового поколения S60 Gen3. Восстановлены реальные характеристики топовой ICE-версии T6 AWD — 316 л.с./295 lb-ft, 2.0 турбо+компрессор I4, 0-100 за 5.7с. Данные Polestar Engineered вынесены в отдельный узел volvo-s60-3-pe. Источники: motor1.com, thetruthaboutcars.com, usnews.com (2019 Volvo S60 T6 AWD specs).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:48:44.917Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/3840px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/3840px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:48:44.917Z"
+}

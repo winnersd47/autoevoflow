@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-megane-rs-250",
+  "slug": "renault-megane-rs-250",
+  "name": "Renault Megane III RS 250",
+  "fullName": "Renault Megane III RS 250",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "Стартовая версия Megane III RS (2009) — ранее в графе был только 265 (2012), запуск линейки (250hp) отсутствовал. Источник: encycarpedia.com \"Megane RS 250 (2009-2012)\".",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:20:20.366Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:20:20.366Z"
+}

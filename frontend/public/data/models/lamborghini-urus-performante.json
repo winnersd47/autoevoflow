@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-urus-performante",
+  "slug": "lamborghini-urus-performante",
+  "name": "Lamborghini Urus Performante",
+  "fullName": "Lamborghini Urus Performante",
+  "brandId": "lamborghini",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Лос-Анджелес, нояб. 2022 — самая трековая версия Urus: 666hp (+16 к базе), -47кг, фиксированное заднее антикрыло, RWD-смещённый крутящий момент. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:21:06.289Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/3840px-Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/3840px-Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:21:06.289Z"
+}

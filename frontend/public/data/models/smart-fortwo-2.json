@@ -1,0 +1,20 @@
+{
+  "id": "sync-smart-fortwo-2",
+  "slug": "smart-fortwo-2",
+  "name": "Smart Fortwo Gen.2",
+  "fullName": "Smart Fortwo Gen.2 (2007)",
+  "brandId": "smart",
+  "bodyType": "microcar",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "W451. Wider, slightly longer Fortwo. 1.0L turbo Brabus 98 HP top. Softtop and Cabriolet versions. Improved ride.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:18:05.502Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Smart_Fortwo_EQ_Car2goStuttgart_IMG_0750.jpg/3840px-Smart_Fortwo_EQ_Car2goStuttgart_IMG_0750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Smart_Fortwo_EQ_Car2goStuttgart_IMG_0750.jpg/3840px-Smart_Fortwo_EQ_Car2goStuttgart_IMG_0750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:18:05.502Z"
+}

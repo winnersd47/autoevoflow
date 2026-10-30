@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-roma-spider",
+  "slug": "ferrari-roma-spider",
+  "name": "Roma Spider",
+  "fullName": "Roma Spider",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Открытая версия Roma с мягким тканевым верхом (первый переднемоторный родстер Ferrari со времён 365 GTS4 Daytona 1969г) — показана 16 марта 2023 в Марракеше. Тот же 3.9Л V8 (620 л.с.), верх складывается за 13.5с на ходу до 60 км/ч. В графе ранее отсутствовала при наличии California/Portofino-линейки открытых GT.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:17:09.482Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg/3840px-2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg/3840px-2021_Ferrari_Roma_in_Rosso_Fiorano%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:17:09.482Z"
+}

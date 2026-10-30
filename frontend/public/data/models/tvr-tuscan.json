@@ -1,0 +1,20 @@
+{
+  "id": "sync-tvr-tuscan",
+  "slug": "tvr-tuscan",
+  "name": "Tuscan",
+  "fullName": "Tuscan",
+  "brandId": "tvr",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:52:58.122Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2000_TVR_Tuscan_4.0.jpg/3840px-2000_TVR_Tuscan_4.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2000_TVR_Tuscan_4.0.jpg/3840px-2000_TVR_Tuscan_4.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:52:58.122Z"
+}

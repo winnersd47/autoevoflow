@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-xb-2",
+  "slug": "scion-xb-2",
+  "name": "Scion xB Gen.2",
+  "fullName": "Scion xB Gen.2 (2007)",
+  "brandId": "scion",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Larger 2nd gen xB on Toyota Zelas/Corolla platform. 2.4L 158 HP. Divisive among xB fans for size increase.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:17:56.472Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2008_Scion_xB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2008_Scion_xB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:17:56.472Z"
+}

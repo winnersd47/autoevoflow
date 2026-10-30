@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-avenger",
+  "slug": "jeep-avenger",
+  "name": "Jeep Avenger 4xe",
+  "fullName": "Jeep Avenger 4xe",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Первая полноприводная версия Avenger — 48-вольтовый мягкий гибрид: турбо 1.2L 3-цил. (136 л.с.) + задний электромотор 21 кВт, суммарно 145 л.с. системной мощности; на скорости 30-90 км/ч работает как FWD, электрозадний мост подключается при необходимости/на бездорожье. Отдельный от базового BEV Avenger (jeep-avenger-1) силовой агрегат. Источники: motor1.com, carscoops.com, media.stellantis.com (2024).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:01:32.372Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Jeep_Avenger_Elektro_Summit_%E2%80%93_f_18052025.jpg/3840px-Jeep_Avenger_Elektro_Summit_%E2%80%93_f_18052025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Jeep_Avenger_Elektro_Summit_%E2%80%93_f_18052025.jpg/3840px-Jeep_Avenger_Elektro_Summit_%E2%80%93_f_18052025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:01:32.372Z"
+}

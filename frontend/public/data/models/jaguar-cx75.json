@@ -1,0 +1,20 @@
+{
+  "id": "sync-jaguar-cx75",
+  "slug": "jaguar-cx75",
+  "name": "C-X75 Concept",
+  "fullName": "C-X75 Concept",
+  "brandId": "jaguar",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "850+ л.с. суммарно — спецификация инженерного прототипа 2011-2013 (программа ограниченного производства, отменена в дек. 2012): 1.6L турбо+компрессорный I4 (502 bhp) от Williams Advanced Engineering + 2 электромотора (390 bhp), AWD, PHEV. Отличается от исходного концепта 2010 года (дизельные микротурбины + 4 электромотора YASA, тоже ~850 л.с., но другая силовая схема).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:18:24.621Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Silver_jaguar_c-x75.jpg/3840px-Silver_jaguar_c-x75.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Silver_jaguar_c-x75.jpg/3840px-Silver_jaguar_c-x75.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:18:24.621Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-k4",
+  "slug": "kia-k4",
+  "name": "Kia K4",
+  "fullName": "Kia K4",
+  "brandId": "kia",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Новое поколение, объединившее Forte/Cerato/K3 под единым глобальным именем K4 — продолжение ребрендинга Kia по K-номенклатуре вслед за K5/K8. Показан в июне 2023, в продаже в США с осени 2024 (MY2025); крупнее предшественника, между Rio и K5. Атмосферный 2.0 MPI — 147 л.с. (CVT); также доступен турбо 1.6 T-GDI 190 л.с. в GT-Line Turbo (8AT) — отдельным узлом не выделен.",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:12:08.960Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg/3840px-2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg/3840px-2025_Kia_K4_LX_in_Azure_Blue%2C_front_right%2C_2024-10-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:12:08.960Z"
+}

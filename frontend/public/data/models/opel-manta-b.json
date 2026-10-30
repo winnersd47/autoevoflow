@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-manta-b",
+  "slug": "opel-manta-b",
+  "name": "Manta B",
+  "fullName": "Manta B (1975)",
+  "brandId": "opel",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1975,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:28:10.483Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Opel_Manta_A_at_Schaffen-Diest_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Opel_Manta_A_at_Schaffen-Diest_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:28:10.483Z"
+}

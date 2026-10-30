@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-sauber-f1",
+  "slug": "alfa-sauber-f1",
+  "name": "Alfa Romeo Racing / Alfa Romeo F1 Team (Sauber, 2019-2023)",
+  "fullName": "Alfa Romeo Racing / Alfa Romeo F1 Team (Sauber, 2019-2023)",
+  "brandId": "alfa-romeo",
+  "bodyType": "Race Car",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Титульное спонсорство/брендинг, НЕ инженерное участие Alfa Romeo — команда Sauber оставалась независимым клиентом Ferrari (мотор, коробка, часть техники — от Ferrari, не от Alfa). За 5 сезонов (2019-2023) — ни одного подиума; лучший результат в Кубке конструкторов — 6-е место (2022, Боттас/Чжоу). Партнёрство завершилось после 2023г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:08:40.322Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/FIA_F1_Austria_2019_Nr._7_R%C3%A4ikk%C3%B6nen_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/FIA_F1_Austria_2019_Nr._7_R%C3%A4ikk%C3%B6nen_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:08:40.322Z"
+}

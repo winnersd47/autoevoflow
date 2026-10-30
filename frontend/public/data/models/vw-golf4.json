@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-golf4",
+  "slug": "vw-golf4",
+  "name": "Golf Mk4",
+  "fullName": "Golf Mk4",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:20:36.941Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2003_Volkswagen_Golf_Match_-_1390cc_1.4_%2875PS%29_Petrol_-_Reflex_Silver_-_02-2025%2C_Front.jpg/3840px-2003_Volkswagen_Golf_Match_-_1390cc_1.4_%2875PS%29_Petrol_-_Reflex_Silver_-_02-2025%2C_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2003_Volkswagen_Golf_Match_-_1390cc_1.4_%2875PS%29_Petrol_-_Reflex_Silver_-_02-2025%2C_Front.jpg/3840px-2003_Volkswagen_Golf_Match_-_1390cc_1.4_%2875PS%29_Petrol_-_Reflex_Silver_-_02-2025%2C_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:20:36.941Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-riviera-2",
+  "slug": "buick-riviera-2",
+  "name": "Buick Riviera Gen.2",
+  "fullName": "Buick Riviera Gen.2",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1966,
+  "isActive": true,
+  "description": "Полный редизайн 1966г. — старт платформы E-body (общей с новым Oldsmobile Toronado, впервые представленным в том же году). Топ-мотор — 425cid Wildcat 465 V8, 340hp gross/465 фунт-фут (экспортная версия с 401cid — 314hp). Источник: automobile-catalog.com (1966 Buick Riviera 2gen), musclecarclub.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:09.356Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:05:09.356Z"
+}

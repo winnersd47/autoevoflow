@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-junior",
+  "slug": "alfa-junior",
+  "name": "Alfa Romeo Junior",
+  "fullName": "Alfa Romeo Junior",
+  "brandId": "alfa-romeo",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "ПЕРВЫЙ электромобиль в истории Alfa Romeo. Показан 10 апреля 2024г. как \"Milano\" — но переименован в \"Junior\" ещё до начала продаж из-за скандала в Италии (название в честь Милана, а сборка в Польше — нарушение итал. закона о защите потребителей от ложного происхождения товара). Версия Elettrica — 54кВтч батарея, база 156hp, до 410км WLTP; топовая Elettrica Veloce — 280hp (см. отдельный узел). Есть и гибрид Ibrida — 1.2Т I3 + 48V, 136hp, 6-ступ. e-DCT (см. отдельные узлы Ibrida/Ibrida Q4).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:09:46.633Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:09:46.633Z"
+}

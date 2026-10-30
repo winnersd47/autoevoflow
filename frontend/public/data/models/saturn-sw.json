@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-sw",
+  "slug": "saturn-sw",
+  "name": "Saturn SW",
+  "fullName": "Saturn SW (1993)",
+  "brandId": "saturn",
+  "bodyType": "wagon",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Station wagon S-series. Practical addition to Saturn lineup. Same 1.9L engine, SOHC/DOHC.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:14:29.079Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1995_Saturn_SL1_maroon%2C_front_right.jpg/3840px-1995_Saturn_SL1_maroon%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1995_Saturn_SL1_maroon%2C_front_right.jpg/3840px-1995_Saturn_SL1_maroon%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:14:29.079Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-changan-uni-z",
+  "slug": "changan-uni-z",
+  "name": "Changan Uni-Z",
+  "fullName": "Changan Uni-Z",
+  "brandId": "changan",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "D-класс SUV; база для Volga K40",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:25:47.390Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Chang%27an_Oshan_Z6.jpg/3840px-2022_Chang%27an_Oshan_Z6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Chang%27an_Oshan_Z6.jpg/3840px-2022_Chang%27an_Oshan_Z6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:25:47.390Z"
+}

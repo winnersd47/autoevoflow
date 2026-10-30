@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-skylark-3",
+  "slug": "buick-skylark-3",
+  "name": "Buick GS 455 Stage 1",
+  "fullName": "Buick GS 455 Stage 1",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "С 1968г. GS выделен в самостоятельную модель \"Buick GS\" (Skylark остался базовым тримом той же платформы A-body второго поколения). В 1970г. представлен GS 455 — топ-версия Stage 1: 455cid V8, 360hp (SAE gross)/510 фунт-фут — один из самых мощных двигателей маслкар-эры по крутящему моменту. Источник: automobile-catalog.com, carbuzz.com (1970 Buick Skylark Gran Sport Stage 1).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:11:46.049Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:11:46.049Z"
+}

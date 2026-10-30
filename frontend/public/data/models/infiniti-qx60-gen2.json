@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-qx60-gen2",
+  "slug": "infiniti-qx60-gen2",
+  "name": "Infiniti QX60 VC-Turbo (рестайлинг 2025)",
+  "fullName": "Infiniti QX60 VC-Turbo (рестайлинг 2025)",
+  "brandId": "infiniti",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Для 2025 модельного года атмосферный 3.5L V6 полностью заменён турбомотором VC-Turbo 2.0L (семейство KR, та же технология переменной степени сжатия, что у QX50/QX55) — 268 л.с./286 фунт-фут. Это замена, а не добавление опции: V6 больше не предлагается. Платформа и кузов 2-го поколения не изменились. Источник: cars.com, sharpmagazine.com, motor1.com («QX60 lost its most powerful engine»).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:16:04.735Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/2017_Infiniti_QX60%2C_front_4.7.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/2017_Infiniti_QX60%2C_front_4.7.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:16:04.735Z"
+}

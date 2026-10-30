@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-nascar",
+  "slug": "ford-mustang-nascar",
+  "name": "Ford Mustang NASCAR Cup Series (Next Gen)",
+  "fullName": "Ford Mustang NASCAR Cup Series (Next Gen)",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Действующая программа Ford в NASCAR Cup Series — единый для всех марок \"Next Gen\" шасси с 2022г., кузов по мотивам Mustang S650. 5.86L (358ci) атмо V8, 670hp на обычных трассах / 510hp с рестриктором на суперскоростных овалах (Дейтона/Талladega). Стальная трубчатая рама, независимая задняя подвеска (впервые в NASCAR), 5-ст. секвентальная КПП. Обновлён под кузов Dark Horse с сезона 2024.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:17.882Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg/3840px-Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg/3840px-Ford_Mustang_VII_GT_Rutesheimer_Autoschau_2025_DSC_9234.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:57:17.882Z"
+}

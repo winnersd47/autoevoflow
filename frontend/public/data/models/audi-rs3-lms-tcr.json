@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-rs3-lms-tcr",
+  "slug": "audi-rs3-lms-tcr",
+  "name": "Audi RS3 LMS TCR",
+  "fullName": "Audi RS3 LMS TCR",
+  "brandId": "audi",
+  "bodyType": "sedan",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Соперник Lynk & Co 03 TCR в WTCR. Мотор EA888 (архитектура VW Group) турбо I4, 330-340hp/460Нм, 6-ст. секвентальная Xtrac. В WTCR выступал через частные команды (Comtoyou Racing, WRT) под эгидой Audi Sport. База — 8V-поколение RS3.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:58:37.384Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/TCR_Italy_2024_Mugello_Nr._91_Martinez.jpg/3840px-TCR_Italy_2024_Mugello_Nr._91_Martinez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/TCR_Italy_2024_Mugello_Nr._91_Martinez.jpg/3840px-TCR_Italy_2024_Mugello_Nr._91_Martinez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:58:37.384Z"
+}

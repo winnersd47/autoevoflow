@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-pajero",
+  "slug": "mitsubishi-pajero",
+  "name": "Mitsubishi Pajero V",
+  "fullName": "Mitsubishi Pajero V",
+  "brandId": "mitsubishi",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "Официально представлен 2 сентября 2026 — новое поколение флагманского внедорожника Mitsubishi спустя ~5 лет после ухода Pajero IV с большинства рынков. Рамная платформа, родственная пикапу Triton/L200, независимая передняя двух-рычажная подвеска + неразрезной задний мост на 5 тягах, 3 ряда сидений. Дизель 2.4Т (от Triton) — 204 л.с./354 lb-ft. Старт продаж — Таиланд, затем Япония и Австралия к марту 2027, далее ~100 стран (США пока не решено).",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:16:50.204Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mitsubishi_V98_Pajero_Long_Body_Super_Exceed_3200_DI-D.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mitsubishi_V98_Pajero_Long_Body_Super_Exceed_3200_DI-D.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:16:50.204Z"
+}

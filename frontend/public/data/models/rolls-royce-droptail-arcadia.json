@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-droptail-arcadia",
+  "slug": "rolls-royce-droptail-arcadia",
+  "name": "Rolls-Royce Arcadia Droptail",
+  "fullName": "Rolls-Royce Arcadia Droptail",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Третий коучбилд-родстер серии Droptail, представлен 29 февраля 2024 в Сингапуре. Тема — безмятежность и античная Аркадия, эксклюзивные часы Rolls-Royce с двухлетней разработкой встроены в консоль; оценочная стоимость от $31 млн — на момент презентации самый дорогой новый автомобиль в мире. Четвёртый (заключительный) экземпляр серии к 2026 году СМИ связывали с королём Малайзии Султаном Ибрагимом, однако собственное имя и тема этой машины официально Rolls-Royce не публиковались, поэтому отдельный узел для него не создавался. Источники: forbes.com, maxim.com, netcarshow.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:33:17.005Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:33:17.005Z"
+}

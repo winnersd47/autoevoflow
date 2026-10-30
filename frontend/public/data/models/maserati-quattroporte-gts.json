@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-quattroporte-gts",
+  "slug": "maserati-quattroporte-gts",
+  "name": "Maserati Quattroporte VI GTS",
+  "fullName": "Maserati Quattroporte VI GTS",
+  "brandId": "maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Топовый трим запуска M156 (2013) — 3.8Л твин-турбо V8 постройки Ferrari, 530hp, задний привод. Выделен отдельным узлом при аудите: якорный узел maserati-qp6 ошибочно нёс именно эти GTS-характеристики (530hp/V8T) вместо характеристик базового трима S (410hp/V6T) — см. nodeFixes. 0-60 ок. 4.7с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:37:03.187Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:37:03.187Z"
+}

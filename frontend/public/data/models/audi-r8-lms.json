@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-r8-lms",
+  "slug": "audi-r8-lms",
+  "name": "Audi R8 LMS GT3",
+  "fullName": "Audi R8 LMS GT3",
+  "brandId": "audi",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Один из самых титулованных клиентских GT3 в мире — Spa 24h, Nürburgring 24h, Bathurst 12h.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:39:26.021Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2020_Audi_R8_V10_5.2_Front.jpg/3840px-2020_Audi_R8_V10_5.2_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2020_Audi_R8_V10_5.2_Front.jpg/3840px-2020_Audi_R8_V10_5.2_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:39:26.021Z"
+}

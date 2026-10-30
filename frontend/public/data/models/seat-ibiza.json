@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The SEAT Ibiza (1984-present) is Spain's best-known car export. Five generations on VW Group platforms have made it the most successful Spanish car in history.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg/3840px-2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg/3840px-2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "hatchback",
     "seat"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:19:11.952Z",
   "generations": [
     {
       "id": "gen-seat-ibiza-1",

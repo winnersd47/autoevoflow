@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-v60-1-polestar",
+  "slug": "volvo-v60-1-polestar",
+  "name": "Volvo V60 Polestar",
+  "fullName": "Volvo V60 Polestar",
+  "brandId": "volvo",
+  "bodyType": "estate",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Универсал-версия S60 Polestar — тот же рядный турбо-6 3.0 (B6304T4), 345 л.с./369 lb-ft, полный привод, 6-ст. автомат (первый автомат в истории Polestar), амортизаторы Öhlins, 20-дюймовые диски. Источники: drive.com.au (2015 Volvo V60 Polestar review), fleetnews.co.uk.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:01:12.185Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/3840px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:01:12.185Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-500-2007",
+  "slug": "fiat-500-2007",
+  "name": "Fiat 500",
+  "fullName": "Fiat 500 (2007)",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "city",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:03:22.850Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/FiatMirafiori6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/FiatMirafiori6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:03:22.850Z"
+}

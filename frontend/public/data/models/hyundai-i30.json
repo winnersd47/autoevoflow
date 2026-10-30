@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-i30",
+  "slug": "hyundai-i30",
+  "name": "Hyundai i30",
+  "fullName": "Hyundai i30",
+  "brandId": "hyundai",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Третье поколение i30 (PD), 2017-2023, основной рынок — Европа (аналог Elantra). В графе ранее был представлен только производительный i30 N (2017) без базового поколения-родителя. Основные моторы — 1.0 T-GDI (120 л.с.) и 1.4 T-GDI (140 л.с. — опорное значение узла), дизель 1.6 CRDi (95-136 л.с.). Платформа легла в основу первого поколения Kona (OS).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:51:21.234Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg/3840px-2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg/3840px-2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:51:21.234Z"
+}

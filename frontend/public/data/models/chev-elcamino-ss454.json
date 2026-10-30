@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-elcamino-ss454",
+  "slug": "chev-elcamino-ss454",
+  "name": "Chevrolet El Camino SS 454 LS6",
+  "fullName": "Chevrolet El Camino SS 454 LS6",
+  "brandId": "chevrolet",
+  "bodyType": "pickup",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "Прямой близнец Chevelle SS454 LS6 — тот же мотор, та же официальная (заниженная) цифра 450hp/500lb-ft, тот же единственный год выпуска (1970). ~500 экземпляров с этим двигателем.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:04:54.355Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/3840px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/3840px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:04:54.355Z"
+}

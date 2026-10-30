@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-c4-cactus",
+  "slug": "citroen-c4-cactus",
+  "name": "C4 Cactus",
+  "fullName": "C4 Cactus",
+  "brandId": "citroen",
+  "bodyType": "crossover",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Crossover with iconic Airbump panels. 1.2 PureTech 110. Award-winning minimalist interior.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:09:39.567Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Citroen_C4_Cactus_%282018%29_IMG_4062.jpg/3840px-Citroen_C4_Cactus_%282018%29_IMG_4062.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Citroen_C4_Cactus_%282018%29_IMG_4062.jpg/3840px-Citroen_C4_Cactus_%282018%29_IMG_4062.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:09:39.567Z"
+}

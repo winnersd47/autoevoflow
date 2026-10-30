@@ -1,0 +1,20 @@
+{
+  "id": "sync-exige-cup-430",
+  "slug": "exige-cup-430",
+  "name": "Exige Cup 430",
+  "fullName": "Exige Cup 430",
+  "brandId": "lotus",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:31:06.535Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lotus_Exige_Sport_380.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lotus_Exige_Sport_380.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:31:06.535Z"
+}

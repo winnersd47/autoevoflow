@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyu-palisade",
+  "slug": "hyu-palisade",
+  "name": "Hyundai Palisade Gen1",
+  "fullName": "Hyundai Palisade Gen1 (2019)",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:10:50.122Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hyundai_Palisade_2.5T_Calligraphy_LX3_Creamy_White_Pearl_%2846%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hyundai_Palisade_2.5T_Calligraphy_LX3_Creamy_White_Pearl_%2846%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:10:50.122Z"
+}

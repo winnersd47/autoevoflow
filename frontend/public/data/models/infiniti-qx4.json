@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-qx4",
+  "slug": "infiniti-qx4",
+  "name": "Infiniti QX4 (JR50)",
+  "fullName": "Infiniti QX4 (JR50)",
+  "brandId": "infiniti",
+  "bodyType": "suv",
+  "segment": "off_road",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Первый в истории Infiniti SUV (1997-2003), построен на платформе Nissan Pathfinder 2-го поколения (R50/JR50) — фактически бейдж-инженерный ребрейдж Pathfinder с более богатой отделкой. На старте (1997-2000) — 3.3L V6, 170 л.с.; с 2001 модельного года мотор заменён на 3.5L V6 (VQ35DE), 240 л.с./265 фунт-фут. Прямого преемника не получил: после снятия с производства в 2003 нишу массового SUV у Infiniti занял кроссовер FX35 (тоже 2003 г.). Источник: autoevolution.com, automobile-catalog.com, jalopnik.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:16:27.295Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg/3840px-2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg/3840px-2023_Nissan_Pathfinder_Platinum_4WD_in_Baja_Storm_Metallic%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:16:27.295Z"
+}

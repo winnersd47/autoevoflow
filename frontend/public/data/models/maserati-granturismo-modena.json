@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-granturismo-modena",
+  "slug": "maserati-granturismo-modena",
+  "name": "GranTurismo Mk2 Modena",
+  "fullName": "GranTurismo Mk2 Modena",
+  "brandId": "maserati",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Реальные данные соответствуют трим-версии Modena (490hp/443 lb-ft, 0-60 за 3.9с, макс. 187mph) — базовый ДВС-трим поколения M180 (2023).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:26:38.480Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:26:38.480Z"
+}

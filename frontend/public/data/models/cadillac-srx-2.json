@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-srx-2",
+  "slug": "cadillac-srx-2",
+  "name": "Cadillac SRX",
+  "fullName": "Cadillac SRX",
+  "brandId": "cadillac",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Второе поколение (показано в начале 2009г. как модель 2010г.) — радикальная смена философии: переднеприводная платформа Theta (родственна Chevrolet Equinox/GMC Terrain), третий ряд убран. На старте два мотора: база атмо 3.0L V6 265hp, топовый турбо 2.8L V6 300hp (с 2012г. оба заменены единым атмо 3.6L V6 308hp). В узле — топовая конфигурация на момент запуска (2.8T). Источник: autoevolution.com, ultimatespecs.com, autopadre.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:44.362Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2010-2012_Cadillac_SRX_--_05-23-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2010-2012_Cadillac_SRX_--_05-23-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:03:44.362Z"
+}

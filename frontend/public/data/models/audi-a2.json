@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "The Audi A2 (1999–2005) was a revolutionary aluminium space-frame subcompact — the first volume-production aluminium car — predating Audi's ASF strategy by a decade. Its Lite construction saved 40% weight versus steel equivalent. Discontinued due to high production costs despite critical acclaim.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/3840px-Audi_A3_8Y_Sedan_IMG_5936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/3840px-Audi_A3_8Y_Sedan_IMG_5936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "hatchback",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:42:43.233Z",
   "generations": [
     {
       "id": "gen-audi-a2-1",

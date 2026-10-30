@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-bentayga-speed-v8",
+  "slug": "bentley-bentayga-speed-v8",
+  "name": "Bentley Bentayga Speed (2025, V8)",
+  "fullName": "Bentley Bentayga Speed (2025, V8)",
+  "brandId": "bentley",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Замена W12-версии после прекращения выпуска двигателя W12 в апреле 2024 (последний экземпляр покинул завод в Крю). Тот же 4.0-литровый твин-турбо V8, но перенастроенный (более крупные турбины, сниженная степень сжатия) — 650 PS/641 л.с., на 15 л.с. мощнее прежнего W12 Speed. Разгон 0-100 за 3.4с (на 0.5с быстрее предыдущей версии), макс. 310 км/ч. Источники: paultan.org, autoblog.com, edmunds.com, motorweek.org.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:35:44.223Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/3840px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/3840px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:35:44.223Z"
+}

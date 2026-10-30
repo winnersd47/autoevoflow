@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-131",
+  "slug": "fiat-131",
+  "name": "Fiat 131 Abarth Rally",
+  "fullName": "Fiat 131 Abarth Rally",
+  "brandId": "fiat",
+  "bodyType": "sedan",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1974,
+  "isActive": true,
+  "description": "ТРЁХКРАТНЫЙ чемпион WRC производителей (1977, 1978, 1980) — одна из самых успешных раллийных машин в истории. Дорожная гомологация — 2.0Л 16v, 140hp; гоночная версия — 200-245hp (в зависимости от эволюции, инжекторные версии). 20 побед в этапах WRC.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:07:46.280Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fiat_Abarth_750_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fiat_Abarth_750_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:07:46.280Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-changan-cs75-plus",
+  "slug": "changan-cs75-plus",
+  "name": "Changan CS75 Plus",
+  "fullName": "Changan CS75 Plus",
+  "brandId": "changan",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:24:33.864Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Changan_CS75_Plus_IV_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Changan_CS75_Plus_IV_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:24:33.864Z"
+}

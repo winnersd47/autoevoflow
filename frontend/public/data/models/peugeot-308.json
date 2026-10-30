@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-308",
+  "slug": "peugeot-308",
+  "name": "308 III",
+  "fullName": "308 III",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:31:07.859Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Peugeot_Inception_Concept_Auto_Zuerich_2023_1X7A1200.jpg/3840px-Peugeot_Inception_Concept_Auto_Zuerich_2023_1X7A1200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Peugeot_Inception_Concept_Auto_Zuerich_2023_1X7A1200.jpg/3840px-Peugeot_Inception_Concept_Auto_Zuerich_2023_1X7A1200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:31:07.859Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-niva",
+  "slug": "lada-niva",
+  "name": "Niva Legend (4x4)",
+  "fullName": "Niva Legend (4x4)",
+  "brandId": "lada",
+  "bodyType": "suv",
+  "segment": "suv_compact",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Узел покрывает обе версии текущего модельного ряда Legend: короткобазную 3-дверную (ВАЗ-21214) и длиннобазную 5-дверную (ВАЗ-2131, выпускается с 1995г как удлинённая версия 2121) — отдельного узла для 2131 не заводим: это кузовной вариант той же платформы/поколения, а не отдельное поколение (аналогично тому, что 2110/2111/2112 в этом графе тоже не разнесены по отдельным узлам).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:51:55.002Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/1987_Lada_Niva_1600.jpg/3840px-1987_Lada_Niva_1600.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/1987_Lada_Niva_1600.jpg/3840px-1987_Lada_Niva_1600.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:51:55.002Z"
+}

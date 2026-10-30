@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-discovery-sport",
+  "slug": "land-rover-discovery-sport",
+  "name": "Discovery Sport",
+  "fullName": "Discovery Sport",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:18:28.150Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg/3840px-2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg/3840px-2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:18:28.150Z"
+}

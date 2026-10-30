@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-century-4",
+  "slug": "buick-century-4",
+  "name": "Buick Century Gen.4",
+  "fullName": "Buick Century Gen.4",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Новая платформа GM W-body (та же архитектура, что у обновлённого Regal/Grand Prix/Monte Carlo/Intrigue с 1997г.), финальное поколение модели. Мотор — 3.1L V6, изначально 160hp, позднее до 175hp. Источник: iseecars.com (Buick Century Generations).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:07:56.199Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_SAIC-GM_Buick_GL8_Century.jpg/3840px-2023_SAIC-GM_Buick_GL8_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_SAIC-GM_Buick_GL8_Century.jpg/3840px-2023_SAIC-GM_Buick_GL8_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:07:56.199Z"
+}

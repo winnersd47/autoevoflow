@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-33-1983",
+  "slug": "alfa-33-1983",
+  "name": "Alfa Romeo 33 (1983, серийный хэтчбек)",
+  "fullName": "Alfa Romeo 33 (1983, серийный хэтчбек)",
+  "brandId": "alfa-romeo",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1983,
+  "isActive": true,
+  "description": "НЕ путать с \"33 Stradale\" (1967) — это массовый серийный хэтч/универсал (~1 млн экз.), продолжение боксёрной архитектуры Alfasud. Топ 1.7 16V Cloverleaf/QV — до 137PS. С 1984г. — версия 4x4 (частичный привод), с 1992г. — постоянный полный привод \"Q4\". 33 4x4 1.5 омологирована в Group A для ралли в апреле 1985г., выступала в итальянских ралли-чемпионатах до 1990-х.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:26.551Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:07:26.551Z"
+}

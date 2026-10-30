@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-kona",
+  "slug": "hyundai-kona",
+  "name": "Hyundai Kona",
+  "fullName": "Hyundai Kona",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Второе поколение Kona (SX2), представлено дек. 2022, в продаже с 2023. Заметно крупнее первого поколения (+150мм в длину). Базовый мотор 2.0 MPI сохранён на уровне 147 л.с. (опорное значение узла); добавлены 1.6 T-GDI (190 л.с.) и гибрид 1.6 (141 л.с.), Kona Electric — отдельная версия. Не путать с Hyundai Creta — по данным на 2024-26, следующее поколение Kona и Creta планируют объединить на единой платформе K3, но SX2 с ней платформу не делит.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:10:11.551Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg/3840px-Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg/3840px-Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:10:11.552Z"
+}

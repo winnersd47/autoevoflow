@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-caravan-4",
+  "slug": "dodge-caravan-4",
+  "name": "Dodge Grand Caravan ES",
+  "fullName": "Dodge Grand Caravan ES",
+  "brandId": "dodge",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "4-е поколение (2001-2007), кузов RS; топ-трим ES с 3.8L V6, 200 л.с.; отдельного R/T не существовало (бейдж R/T появился только в 5-м поколении ок. 2012, позже переименован в GT). Источники: Wikipedia, форум chryslerminivan.net (доступ 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:54:11.051Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/1985_Voyager_LE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/1985_Voyager_LE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:54:11.051Z"
+}

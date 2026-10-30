@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev4-gt",
+  "slug": "kia-ev4-gt",
+  "name": "Kia EV4 GT",
+  "fullName": "Kia EV4 GT",
+  "brandId": "kia",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Производительная GT-версия хэтчбека/фастбека EV4, представлена на автосалоне в Брюсселе (янв. 2026). Батарея 81.4 кВтч, 2 мотора (AWD), 288 л.с., 0-100 за 5.6с. Базовая линейка EV4 отдельным узлом в графе пока не отслеживается — узел добавлен без входящего ребра. В продаже в Европе, в США не поставляется.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:10.371Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg/3840px-Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg/3840px-Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:12:10.371Z"
+}

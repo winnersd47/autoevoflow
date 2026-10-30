@@ -1,0 +1,20 @@
+{
+  "id": "sync-taitan-700",
+  "slug": "taitan-700",
+  "name": "BAIC Taitan 700",
+  "fullName": "BAIC Taitan 700",
+  "brandId": "baic",
+  "bodyType": "suv",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Body-on-frame внедорожник (рама + несущий кузов), НЕ пикап. EREV: 1.5Т-генератор + 2 электромотора = 391кВт/532hp суммарно, CATL 49.4кВтч, чисто электрический запас 220км, общий — 1340км.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:26:25.387Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/BAIC_Group_headquarters_%2820200402091503%29.jpg/3840px-BAIC_Group_headquarters_%2820200402091503%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/BAIC_Group_headquarters_%2820200402091503%29.jpg/3840px-BAIC_Group_headquarters_%2820200402091503%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:26:25.387Z"
+}

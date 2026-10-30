@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-aztek",
+  "slug": "pontiac-aztek",
+  "name": "Pontiac Aztek",
+  "fullName": "Pontiac Aztek",
+  "brandId": "pontiac",
+  "bodyType": "crossover",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "Печально известный дизайн при жизни, но культовый после \"Breaking Bad\" — машина Уолтера Уайта.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:35:51.575Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/2002-05_Pontiac_Aztek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/2002-05_Pontiac_Aztek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:35:51.575Z"
+}

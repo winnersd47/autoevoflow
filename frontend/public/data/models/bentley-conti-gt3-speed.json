@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-conti-gt3-speed",
+  "slug": "bentley-conti-gt3-speed",
+  "name": "Bentley Continental GT Speed (2021, W12)",
+  "fullName": "Bentley Continental GT Speed (2021, W12)",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Топ-версия W12 3-го поколения, представлена в марте 2021. 6.0-литровый твин-турбо W12 — 659 PS/650 л.с., 900 Нм, разгон 0-100 за 3.6с, макс. 335 км/ч; электронный дифференциал повышенного трения и полноуправляемое шасси. Не путать с одноимённой Speed-версией 1-го поколения (2007, узел bentley-conti-speed). Источники: evo.co.uk, gtspirit.com, bentleymedia.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:34:21.684Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:34:21.684Z"
+}

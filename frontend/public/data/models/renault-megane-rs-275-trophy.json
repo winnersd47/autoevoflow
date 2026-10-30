@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-megane-rs-275-trophy",
+  "slug": "renault-megane-rs-275-trophy",
+  "name": "Renault Megane III RS 275 Trophy",
+  "fullName": "Renault Megane III RS 275 Trophy",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Лимитированная версия с Akrapovic/Öhlins, 275hp (271bhp). Источник: encycarpedia.com, fastestlaps.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:21:22.275Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:21:22.275Z"
+}

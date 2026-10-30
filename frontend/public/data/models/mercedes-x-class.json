@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-x-class",
+  "slug": "mercedes-x-class",
+  "name": "Mercedes-Benz X-Class (470)",
+  "fullName": "Mercedes-Benz X-Class (470)",
+  "brandId": "mercedes",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "Единственный пикап Mercedes-Benz, ноябрь 2017-май 2020г., построен на раме Nissan Navara. X250d 2.3 битурбодизель — 190 л.с. Снят с производства из-за слабых продаж и критики за 'перелицованную Navara'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:41:54.983Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2018_Mercedes-Benz_X250_Power_D_4MATIC_Automatic_2.3_Front.jpg/3840px-2018_Mercedes-Benz_X250_Power_D_4MATIC_Automatic_2.3_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2018_Mercedes-Benz_X250_Power_D_4MATIC_Automatic_2.3_Front.jpg/3840px-2018_Mercedes-Benz_X250_Power_D_4MATIC_Automatic_2.3_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:41:54.983Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-03-cyan-concept",
+  "slug": "lynk-co-03-cyan-concept",
+  "name": "Lynk & Co 03 Cyan Concept",
+  "fullName": "Lynk & Co 03 Cyan Concept",
+  "brandId": "lynk-co",
+  "bodyType": "sedan",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Рекордный шоу-кар Cyan Racing — рекорд Нюрбургринга Нордшляйфе среди переднеприводных и среди 4-дверных авто (7:20.143, пилот Тед Бьорк, чемпион WTCC 2017). 2.0Т I4, 528hp/504Нм, разгон 0-100 за 4.4с, максималка 310км/ч. Некомпромиссный трек-мотор — НЕ дорожный сертифицированный.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:27.256Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:57:27.256Z"
+}

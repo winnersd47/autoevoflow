@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-eqe",
+  "slug": "mercedes-eqe",
+  "name": "EQE V295",
+  "fullName": "EQE V295",
+  "brandId": "mercedes",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:19:28.618Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mercedes-Benz_X294_IMG_8682.jpg/3840px-Mercedes-Benz_X294_IMG_8682.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Mercedes-Benz_X294_IMG_8682.jpg/3840px-Mercedes-Benz_X294_IMG_8682.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:19:28.618Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-riviera-6",
+  "slug": "buick-riviera-6",
+  "name": "Buick Riviera Gen.6",
+  "fullName": "Buick Riviera Gen.6",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1979,
+  "isActive": true,
+  "description": "Первый переднеприводный Riviera (колёсная база 114 дюймов). Базовый мотор — атмосферный 3.8L V6 (231cid), 125hp; топ-опция S-Type — турбированный 3.8L V6, 185hp. Источник: carbuzz.com (American Cruisers: Buick Riviera), wikicars.org.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:13.672Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:05:13.672Z"
+}

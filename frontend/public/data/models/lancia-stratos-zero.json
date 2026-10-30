@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-stratos-zero",
+  "slug": "lancia-stratos-zero",
+  "name": "Lancia Stratos Zero",
+  "fullName": "Lancia Stratos Zero (1970)",
+  "brandId": "lancia",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:18:02.776Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lancia_Stratos_Zero_%287522598642%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lancia_Stratos_Zero_%287522598642%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:18:02.776Z"
+}

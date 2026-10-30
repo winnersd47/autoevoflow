@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-hummer-ev-suv",
+  "slug": "gmc-hummer-ev-suv",
+  "name": "GMC Hummer EV SUV",
+  "fullName": "GMC Hummer EV SUV",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Отдельный от пикапа 5-местный (2-рядный) внедорожный кузов на той же платформе Ultium/BT1 — первые поставки начались в начале 2024 (MY2024), вслед за пикапом (2021/2022). Версии: 2X (2 мотора, 625 л.с.) и 3X (3 мотора, 830 л.с./11500 фунт-фут, в hp — топ), запас хода 298-314 миль. В отличие от пикапа, для SUV производитель официально не заявлял форсированный режим «1000 л.с.» (WTF) — максимум серийной версии 830 л.с. Кандидат из скрейпа был датирован 2027 г. (рутинная статья о модельном обновлении), но сама модель на рынке с 2024-го — год в узле соответствует реальному старту продаж. Источник: Wikipedia (GMC Hummer EV), gmauthority.com, cars.usnews.com, truecar.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:28:50.913Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/3840px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg/3840px-2024_GMC_Hummer_EV3X_SUV%2C_front_left%2C_10-29-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:28:50.913Z"
+}

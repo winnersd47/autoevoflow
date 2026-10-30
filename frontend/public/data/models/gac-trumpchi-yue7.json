@@ -1,0 +1,20 @@
+{
+  "id": "sync-gac-trumpchi-yue7",
+  "slug": "gac-trumpchi-yue7",
+  "name": "GAC Trumpchi Yue 7",
+  "fullName": "GAC Trumpchi Yue 7",
+  "brandId": "gac",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Первый хардкорный внедорожник Trumpchi (рама + подключаемый полный привод, тройная блокировка дифференциалов 100%). EREV-архитектура — 1.5Т работает ТОЛЬКО как генератор, колёса крутят 2 электромотора (536hp суммарно); чисто электрический запас хода 188км.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:40:41.282Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Trumpchi_Yue_7_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Trumpchi_Yue_7_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:40:41.282Z"
+}

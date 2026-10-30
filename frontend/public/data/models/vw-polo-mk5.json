@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-polo-mk5",
+  "slug": "vw-polo-mk5",
+  "name": "VW Polo Mk5",
+  "fullName": "VW Polo Mk5 (2009)",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "hp/label исправлены: анкор хранил данные GTI-версии (180 л.с., 1.4 TSI TwinCharger) вместо настоящей базы Polo Mk5 (6R, старт продаж 2009) — обычные моторы 1.2-1.6 (60-105 л.с.). GTI-версия (2010, 180 л.с.) вынесена в отдельную ноду vw-polo-gti-5.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:16:34.472Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/VW_Polo_beats_%28VI%29_%E2%80%93_f_03032019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/VW_Polo_beats_%28VI%29_%E2%80%93_f_03032019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:16:34.472Z"
+}

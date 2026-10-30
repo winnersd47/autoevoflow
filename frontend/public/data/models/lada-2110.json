@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-2110",
+  "slug": "lada-2110",
+  "name": "ВАЗ-2110",
+  "fullName": "ВАЗ-2110",
+  "brandId": "lada",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:20:58.877Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/LADA-110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/LADA-110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T16:20:58.877Z"
+}

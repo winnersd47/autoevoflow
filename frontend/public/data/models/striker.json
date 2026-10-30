@@ -1,0 +1,20 @@
+{
+  "id": "sync-striker",
+  "slug": "striker",
+  "name": "Dacia Striker",
+  "fullName": "Dacia Striker",
+  "brandId": "dacia",
+  "bodyType": "suv",
+  "segment": "compact-suv",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:25:20.480Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Dacia_Striker_01.jpg/3840px-Dacia_Striker_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Dacia_Striker_01.jpg/3840px-Dacia_Striker_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:25:20.480Z"
+}

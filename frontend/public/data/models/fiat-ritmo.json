@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-ritmo",
+  "slug": "fiat-ritmo",
+  "name": "Fiat Ritmo / Strada",
+  "fullName": "Fiat Ritmo / Strada",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "Преемник 128 в среднем классе (на экспортных рынках продавался как \"Strada\"). Линейка моторов на старте: 1.1Л/60hp, 1.3Л/65hp, 1.5Л/75hp. Сменён Uno в 1988-м.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:51:30.190Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Fiat_Ritmo_75CL_%288998214735%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Fiat_Ritmo_75CL_%288998214735%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:51:30.190Z"
+}

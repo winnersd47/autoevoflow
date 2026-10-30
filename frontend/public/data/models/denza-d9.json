@@ -1,0 +1,20 @@
+{
+  "id": "sync-denza-d9",
+  "slug": "denza-d9",
+  "name": "Denza D9",
+  "fullName": "Denza D9",
+  "brandId": "denza",
+  "bodyType": "mpv",
+  "segment": "mpv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:50:23.327Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Denza_D9_DM-i_IAA_2025_DSC_2042.jpg/3840px-Denza_D9_DM-i_IAA_2025_DSC_2042.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Denza_D9_DM-i_IAA_2025_DSC_2042.jpg/3840px-Denza_D9_DM-i_IAA_2025_DSC_2042.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:50:23.327Z"
+}

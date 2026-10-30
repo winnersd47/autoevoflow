@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-f430-scuderia-16m",
+  "slug": "ferrari-f430-scuderia-16m",
+  "name": "F430 Scuderia Spider 16M",
+  "fullName": "F430 Scuderia Spider 16M",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Scuderia Spider 16M — открытая версия F430 Scuderia в честь 16-го Кубка конструкторов Ferrari в Ф1 (2008). 499 экз., легче обычного F430 Spider на ~80кг. Тот же форсированный 4.3Л V8 (510 л.с.), что у купе Scuderia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:15:58.553Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ferrari_F430_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:15:58.553Z"
+}

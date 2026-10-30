@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-aventador-lp-750-4-sv",
+  "slug": "lamborghini-aventador-lp-750-4-sv",
+  "name": "Lamborghini Aventador LP750-4 SuperVeloce",
+  "fullName": "Lamborghini Aventador LP750-4 SuperVeloce",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Женева, март 2015 — самая мощная и лёгкая серийная Aventador на тот момент (750hp, -50кг), лимит 600 экз. Первый Lamborghini, разменявший 7-минутный барьер на Нордшляйфе (6:59.73). Источник: официальные пресс-материалы Lamborghini 2015.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:18:18.988Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:18:18.988Z"
+}

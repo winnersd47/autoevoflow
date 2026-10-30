@@ -1,0 +1,20 @@
+{
+  "id": "sync-tank-400",
+  "slug": "tank-400",
+  "name": "GWM Tank 400",
+  "fullName": "GWM Tank 400",
+  "brandId": "haval",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Дебют на том же шоу (Шанхай 2021), что и Tank 500; продажи в Китае с авг. 2023г. 2.0Т I4, 252hp/380Нм. Есть также PHEV-версия Hi4-T (~408hp) — отдельным узлом не выделена.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:51:22.616Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2014_Haval_H1_BL.jpg/3840px-2014_Haval_H1_BL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2014_Haval_H1_BL.jpg/3840px-2014_Haval_H1_BL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:51:22.616Z"
+}

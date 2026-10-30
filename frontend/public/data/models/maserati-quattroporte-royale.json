@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-quattroporte-royale",
+  "slug": "maserati-quattroporte-royale",
+  "name": "Maserati Quattroporte Royale",
+  "fullName": "Maserati Quattroporte Royale",
+  "brandId": "maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Топовая версия финальных лет Quattroporte III (1987-90) — тот же 4.9Л V8, но доработанная топливная система подняла отдачу до 300hp (против 280hp у обычной 4.9). Улучшенный салон, отдельные колёсные диски, доп. комфорт для задних пассажиров. Завершает 12-летний цикл QP III перед приходом Quattroporte IV (1994).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:36:57.044Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:36:57.044Z"
+}

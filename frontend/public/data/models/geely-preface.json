@@ -1,0 +1,20 @@
+{
+  "id": "sync-geely-preface",
+  "slug": "geely-preface",
+  "name": "Geely Preface",
+  "fullName": "Geely Preface",
+  "brandId": "geely",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "CMA-платформа (совм. Volvo); флагманский D-класс седан Geely; дизайн-аплодисменты 2021",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:29:20.608Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Geely_Preface_008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Geely_Preface_008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:29:20.608Z"
+}

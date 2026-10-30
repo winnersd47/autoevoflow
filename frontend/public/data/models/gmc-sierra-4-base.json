@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-4-base",
+  "slug": "gmc-sierra-4-base",
+  "name": "GMC Sierra",
+  "fullName": "GMC Sierra",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "ДОБАВЛЕНО при разделении узла: существующий узел gmc-sierra-4 (420hp) на самом деле был заспецифицирован как Denali/AT4 (6.2L L87) и замаскирован под обычное поколение — классический баг 'якорь = скрытый топ-трим' (см. п.d ТЗ). Этот новый узел представляет обычную Sierra Gen.4 (SLE/SLT) с 5.3L V8 EcoTec3 (L84), 355 л.с. — таков был базовый/распространённый мотор T1XX-поколения 2019г. Старый узел gmc-sierra-4 переименован в 'GMC Sierra Denali' (см. nodeFixes) и присоединён к этому через variant_of.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:20.265Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:12:20.266Z"
+}

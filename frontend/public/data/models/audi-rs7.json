@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi RS7 Sportback (2013–present) is the most extreme A7 variant. The 4G RS7 produced 560 hp from its 4.0-litre V8; the 4K RS7 Performance produces 630 hp. It combines the visual drama of the Gran Turismo body with supercar-level straight-line performance.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/A7_h-tron_quattro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/A7_h-tron_quattro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "coupe",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:30:48.828Z",
   "generations": [
     {
       "id": "gen-audi-rs7-1",

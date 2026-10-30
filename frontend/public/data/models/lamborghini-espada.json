@@ -12,8 +12,8 @@
   "isActive": false,
   "description": "The Lamborghini Espada (1968–1978) was a full four-seater grand touring coupe powered by a V12 engine — an improbable combination that Bertone's Marcello Gandini made dramatic. 1,217 were built across three series, making it the best-selling Lamborghini of its era.",
   "generationCount": 3,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1970_Lamborghini_Espada_S2.jpg/3840px-1970_Lamborghini_Espada_S2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/1970_Lamborghini_Espada_S2.jpg/3840px-1970_Lamborghini_Espada_S2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "coupe",
     "lamborghini",
@@ -23,7 +23,7 @@
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:25:25.047Z",
   "generations": [
     {
       "id": "gen-lamborghini-espada-1",

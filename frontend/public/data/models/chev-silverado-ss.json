@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-silverado-ss",
+  "slug": "chev-silverado-ss",
+  "name": "Chevrolet Silverado SS",
+  "fullName": "Chevrolet Silverado SS",
+  "brandId": "chevrolet",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Vortec 6.0L V8, 345hp/380lb-ft. Единственный полноприводный (AWD, не отключаемый 4WD) пикап Silverado — спортивная подвеска, 4-дисковые тормоза. 2003-2007гг.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:05:06.389Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/2003-2005_Chevrolet_Silverado_--_09-03-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/2003-2005_Chevrolet_Silverado_--_09-03-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:05:06.389Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-santa-fe",
+  "slug": "hyundai-santa-fe",
+  "name": "Hyundai Santa Fe MX5",
+  "fullName": "Hyundai Santa Fe MX5",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "Пятое поколение (MX5), представлено авг. 2023, в продаже с конца 2023 (Корея) / 2024 (глобально, США). Угловатый дизайн в стиле 'Art of Steel', H-образная головная оптика. На старте — только гибрид 1.6T (215 л.с.) и PHEV (253 л.с.); позже добавлен бензиновый турбо 2.5L (277 л.с. — опорное значение узла, основной мотор США). Пропущенное целое поколение — в графе был представлен только TM (2019).",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:16:48.500Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:16:48.500Z"
+}

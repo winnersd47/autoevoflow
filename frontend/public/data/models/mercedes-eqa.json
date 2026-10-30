@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-eqa",
+  "slug": "mercedes-eqa",
+  "name": "EQA H243",
+  "fullName": "EQA H243",
+  "brandId": "mercedes",
+  "bodyType": "hatchback",
+  "segment": "electric",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:32:40.677Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Mercedes-Benz_H243_IMG_5876.jpg/3840px-Mercedes-Benz_H243_IMG_5876.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Mercedes-Benz_H243_IMG_5876.jpg/3840px-Mercedes-Benz_H243_IMG_5876.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:32:40.677Z"
+}

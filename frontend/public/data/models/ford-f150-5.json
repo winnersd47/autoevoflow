@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-5",
+  "slug": "ford-f150-5",
+  "name": "Ford F-150 Gen.5",
+  "fullName": "Ford F-150 Gen.5",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Пятое поколение (1967-72, прозвище коллекционеров \"Bumpside\" за форму боковой штамповки) — появились трим-уровни Custom/Ranger. Топовый V8 352ci \"Interceptor\" — 208hp. К 1968г. гамма расширена моторами 302 и 360ci V8.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:40.951Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:40.951Z"
+}

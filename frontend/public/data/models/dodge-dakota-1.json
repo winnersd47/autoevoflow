@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-dakota-1",
+  "slug": "dodge-dakota-1",
+  "name": "Dakota Gen.1",
+  "fullName": "Dakota Gen.1",
+  "brandId": "dodge",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:53:39.742Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2008_Dodge_Dakota.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2008_Dodge_Dakota.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:53:39.742Z"
+}

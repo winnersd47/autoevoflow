@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-x-gran-berlinetta",
+  "slug": "genesis-x-gran-berlinetta",
+  "name": "Genesis X Gran Berlinetta Vision Gran Turismo",
+  "fullName": "Genesis X Gran Berlinetta Vision Gran Turismo",
+  "brandId": "genesis",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Vision Gran Turismo концепт для игры Gran Turismo 7 — показан 2 дек. 2023 на финале GT World Series в Барселоне; позже построен в виде полноразмерного реального шоу-кара (не только цифровая модель для игры), демонстрировался на Busan International Mobility Show 2024. Силовая установка: передний среднемоторный V6 'Lambda III' с редлайном 10 000 об/мин, 870hp/790 lb-ft сам по себе + электромотор YASA 201hp/196 lb-ft = 1071hp/986 lb-ft суммарно (технология Genesis E-SC). Коэффициент Cx=0.34. Источники: gran-turismo.com официальный анонс концепта, carscoops.com '1,017HP Hypercar Concept' (итоговая цифра по пресс-релизу — 1071hp), hypebeast.com обзор реального шоу-кара.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:44:08.084Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Genesis_X_Gran_Berlinetta_Concept_%282024%29_%2853625895576%29.jpg/3840px-Genesis_X_Gran_Berlinetta_Concept_%282024%29_%2853625895576%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Genesis_X_Gran_Berlinetta_Concept_%282024%29_%2853625895576%29.jpg/3840px-Genesis_X_Gran_Berlinetta_Concept_%282024%29_%2853625895576%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:44:08.084Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-fox",
+  "slug": "ford-mustang-fox",
+  "name": "Mustang Fox",
+  "fullName": "Mustang Fox",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1979,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:57:41.727Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/2002_Ford_Mustang_GT_Coupe_in_Mineral_Grey_Metallic%2C_Front_Right%2C_05-06-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/2002_Ford_Mustang_GT_Coupe_in_Mineral_Grey_Metallic%2C_Front_Right%2C_05-06-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:57:41.727Z"
+}

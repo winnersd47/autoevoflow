@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-gv90",
+  "slug": "genesis-gv90",
+  "name": "GV90",
+  "fullName": "GV90",
+  "brandId": "genesis",
+  "bodyType": "suv",
+  "segment": "ultra_luxury",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Мировая премьера — 9 сент. 2026 (ранее в узле ошибочно стояло 19 авг. 2026). Флагманский 3-рядный EV SUV, 2 мотора AWD, 657hp (490кВт)/800Нм — уточнённая офиц. цифра (ранее hp=500 расходилось с собственной старой заметкой узла '~660 л.с.'). Батарея 123.5 кВтч, запас хода ок. 500км, первый автомобиль нового завода Ulsan EV Plant (первый в Корее завод Hyundai, построенный с нуля под электромобили за 30 лет). Платформа — 'eM' (пассажирская линейка в рамках корпоративной архитектуры IMA Hyundai Motor Group; 'eS' — для PBV) — отсюда codeName уточнён с общего 'IMA platform' на конкретное 'eM (IMA)'. Старт продаж Корея MY2027, США MY2028 (Neolun First Edition, производство с H2 2027). Источники: auto123.com 'Genesis confirms September debut for GV90 Electric SUV', electrive.com 'Genesis likely to launch electric flagship GV90 in June 2026', designnews.com 'GV90 brings pillarless doors, 25-inch HUD and 657 hp', insideevs.com 'GV90 luxury EV could ride on HMG's eM platform'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:44:00.793Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Genesis_GV90_JG1_Baena_Green_%285%29.jpg/3840px-Genesis_GV90_JG1_Baena_Green_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Genesis_GV90_JG1_Baena_Green_%285%29.jpg/3840px-Genesis_GV90_JG1_Baena_Green_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:44:00.793Z"
+}

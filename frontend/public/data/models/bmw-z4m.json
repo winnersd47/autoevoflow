@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-z4m",
+  "slug": "bmw-z4m",
+  "name": "BMW Z4 M (E85/E86)",
+  "fullName": "BMW Z4 M (E85/E86)",
+  "brandId": "bmw",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Атмосферный S54 I6 (от E46 M3), 338 л.с., 2006г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:13:26.802Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/BMW_Z4_dash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/BMW_Z4_dash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:13:26.802Z"
+}

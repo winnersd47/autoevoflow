@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-m3-g81-ev",
+  "slug": "bmw-m3-g81-ev",
+  "name": "BMW M3 EV",
+  "fullName": "BMW M3 EV",
+  "brandId": "bmw",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "Fully electric BMW M3 announced for 2028 – successor to the G80 generation",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:20:22.542Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_M3_Competition_%28G80%29_IMG_4041.jpg/3840px-BMW_M3_Competition_%28G80%29_IMG_4041.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_M3_Competition_%28G80%29_IMG_4041.jpg/3840px-BMW_M3_Competition_%28G80%29_IMG_4041.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:20:22.542Z"
+}

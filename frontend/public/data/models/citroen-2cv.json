@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-2cv",
+  "slug": "citroen-2cv",
+  "name": "Citroën 2CV",
+  "fullName": "Citroën 2CV",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "micro",
+  "primaryMarket": "global",
+  "startYear": 1948,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:29:33.056Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Citroen_2CV_1X7A7979.jpg/3840px-Citroen_2CV_1X7A7979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Citroen_2CV_1X7A7979.jpg/3840px-Citroen_2CV_1X7A7979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:29:33.056Z"
+}

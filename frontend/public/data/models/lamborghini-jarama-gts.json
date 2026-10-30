@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-jarama-gts",
+  "slug": "lamborghini-jarama-gts",
+  "name": "Lamborghini Jarama GTS",
+  "fullName": "Lamborghini Jarama GTS",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "1973 — рестайлинг Jarama (известен также как \"Jarama S\"): капот с воздухозаборником, новые колёсные диски, доработанные ГБЦ/выхлоп подняли мощность до 365hp, опциональный автомат Chrysler TorqueFlite и усилитель руля. Производился до 1976г. Источник: официальные технические каталоги (automobile-catalog, LamboCARS).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:27:16.379Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lamborghini_Jarama_at_AutoItalia_Brooklands_May_2012_1-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Lamborghini_Jarama_at_AutoItalia_Brooklands_May_2012_1-cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:27:16.379Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-cullinan-bb-fl",
+  "slug": "rolls-royce-cullinan-bb-fl",
+  "name": "Rolls-Royce Black Badge Cullinan Series II",
+  "fullName": "Rolls-Royce Black Badge Cullinan Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Представлен в мае 2024 вместе с обновлением Cullinan Series II; производство с весны 2024, поставки с лета 2024. Первые в истории Black Badge 23-дюймовые колёсные диски, увеличенный воздухозаборник, подсвеченная решётка Pantheon, отделка Duality Twill (бамбуковая нить). 6.75Л твин-турбо V12 — 600 л.с. / 664 фунт-фут, разгон 0-100 км/ч за 4.9с. Источники: hypebeast.com, autofreak.com, press.rolls-roycemotorcars.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:31:53.276Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:31:53.276Z"
+}

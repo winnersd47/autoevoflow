@@ -1,0 +1,20 @@
+{
+  "id": "sync-isuzu-rodeo",
+  "slug": "isuzu-rodeo",
+  "name": "Isuzu Rodeo Gen.1",
+  "fullName": "Isuzu Rodeo Gen.1 (1990)",
+  "brandId": "isuzu",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:39:20.743Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/1991-1992_Holden_Rodeo_%28TF%29_DLX_2-door_cab_chassis_%282010-09-23%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/1991-1992_Holden_Rodeo_%28TF%29_DLX_2-door_cab_chassis_%282010-09-23%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:39:20.743Z"
+}

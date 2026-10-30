@@ -1,0 +1,20 @@
+{
+  "id": "sync-aurus-arsenal",
+  "slug": "aurus-arsenal",
+  "name": "Aurus Arsenal",
+  "fullName": "Aurus Arsenal",
+  "brandId": "aurus",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Представительский минивэн (не лимузин/седан-вариант Senat) со сдвижными дверями, на той же модульной платформе ЕМП/Kortezh. Код \"L783\" не подтверждён независимым источником — оставлен без изменений, под вопросом.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:23:22.015Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Aurus_Motors.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Aurus_Motors.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:23:22.015Z"
+}

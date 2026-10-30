@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-polo",
+  "slug": "vw-polo",
+  "name": "VW Polo Mk4",
+  "fullName": "VW Polo Mk4 (2001)",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2001,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:47:57.062Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/2005_Volkswagen_Polo_E_1.2_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/2005_Volkswagen_Polo_E_1.2_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:47:57.062Z"
+}

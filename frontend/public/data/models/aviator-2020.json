@@ -1,0 +1,20 @@
+{
+  "id": "sync-aviator-2020",
+  "slug": "aviator-2020",
+  "name": "Aviator CD6",
+  "fullName": "Aviator CD6",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "midsize_luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "2-е поколение (с 2020г.) на платформе CD6 (общей с Ford Explorer Gen.6), после 15-летнего перерыва в выпуске Aviator. Non-hybrid Reserve AWD — 3.0L twin-turbo V6, 400 л.с./415 фунт-фут. Топовая Grand Touring — plug-in гибрид (тот же мотор + электромотор, батарея 13.6кВтч) — 494 л.с./630 фунт-фут суммарно, автономный ход на электротяге до 21 мили — это и есть пиковая модификация поколения, указанная в узле. Источники: Wikipedia (Lincoln Aviator), outmotorsports.com, billknightlincoln.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:56:25.012Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2020_Lincoln_Aviator_Black_Label_in_Chroma_Caviar_Dark_Grey%2C_front_left.jpg/3840px-2020_Lincoln_Aviator_Black_Label_in_Chroma_Caviar_Dark_Grey%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2020_Lincoln_Aviator_Black_Label_in_Chroma_Caviar_Dark_Grey%2C_front_left.jpg/3840px-2020_Lincoln_Aviator_Black_Label_in_Chroma_Caviar_Dark_Grey%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:56:25.012Z"
+}

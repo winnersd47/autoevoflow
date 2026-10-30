@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-giulietta-qv",
+  "slug": "alfa-giulietta-qv",
+  "name": "Alfa Romeo Giulietta Quadrifoglio Verde (Cloverleaf в Великобритании)",
+  "fullName": "Alfa Romeo Giulietta Quadrifoglio Verde (Cloverleaf в Великобритании)",
+  "brandId": "alfa-romeo",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Топ-версия хот-хэтча Giulietta — 1.75 TBi турбо, 235hp (232-237hp в зависимости от источника/рынка)/320Нм, 0-100 за 6.6с, 242км/ч. В Великобритании продавалась как 'Cloverleaf' вместо 'Quadrifoglio Verde' (оба словосочетания переводятся как 'четырёхлистный клевер', итал. и англ.). Опционально — полный привод Q4 с активным задним дифференциалом.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:39:26.188Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg/3840px-1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg/3840px-1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:39:26.188Z"
+}

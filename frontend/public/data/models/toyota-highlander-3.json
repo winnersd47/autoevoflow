@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-highlander-3",
+  "slug": "toyota-highlander-3",
+  "name": "Toyota Highlander 3rd Generation (XU50)",
+  "fullName": "Toyota Highlander 3rd Generation (XU50)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Третье поколение представлено в конце 2013 (MY2014). Базовый 2.7L 1AR-FE — 185 л.с.; топовый 3.5L V6 2GR-FE — 270 л.с. (296 л.с. после рестайлинга 2017 г.).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:45:15.192Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:45:15.192Z"
+}

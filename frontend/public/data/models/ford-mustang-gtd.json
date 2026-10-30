@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-mustang-gtd",
+  "slug": "ford-mustang-gtd",
+  "name": "Mustang GTD",
+  "fullName": "Mustang GTD",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "GT3-технологии в серийном авто; Predator 5.2L SC; $300k; Нюрбургринг 6:57.685 — первый американский серийник до 7 минут; 202 mph",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:34:04.089Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Seventh_generation_2024_Ford_Mustang_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Seventh_generation_2024_Ford_Mustang_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:34:04.089Z"
+}

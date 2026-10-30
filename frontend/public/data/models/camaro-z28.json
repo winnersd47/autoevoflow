@@ -1,0 +1,20 @@
+{
+  "id": "sync-camaro-z28",
+  "slug": "camaro-z28",
+  "name": "Chevrolet Camaro Z/28",
+  "fullName": "Chevrolet Camaro Z/28 (2014)",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "track",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Экстремальный трек-спецвыпуск на базе Gen.5 — не топовый по мощности (уступает ZL1), но самый быстрый на круге. LS7 7.0L V8 (от Corvette Z06), 505hp/481lb-ft, только 6-МКПП. На 100фунтов легче SS и на 300 легче ZL1 (без кондиционера в базе, урезаны шумоизоляция/динамики), демпферы Multimatic DSSV (впервые на серийном авто), керамические тормоза. ~$75000. Имя Z/28 существовало как периодический трим-пакет ещё с 1967г. (омологация Trans-Am), но именно эта версия — единственная, заслуживающая отдельного узла.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:07:49.888Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/3840px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/3840px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:07:49.888Z"
+}

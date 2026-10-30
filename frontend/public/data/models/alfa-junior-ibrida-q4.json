@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-junior-ibrida-q4",
+  "slug": "alfa-junior-ibrida-q4",
+  "name": "Alfa Romeo Junior Ibrida Q4",
+  "fullName": "Alfa Romeo Junior Ibrida Q4",
+  "brandId": "alfa-romeo",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Полноприводная версия гибрида Junior — тот же турбо 1.2L I3 136hp спереди + дополнительный задний электромотор 21кВт, суммарно 145hp; архитектура Q4 общая с Jeep Avenger 4xe. В продаже с 2025г. — на год позже остальной линейки Junior (2024). Технология 'Power Looping' держит задний электромотор подключённым даже при низком заряде батареи для стабильной тяги на 4 колеса.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:39:30.537Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg/3840px-Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg/3840px-Alfa_Romeo_Junior_Ibrida_DSC_7219.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:39:30.537Z"
+}

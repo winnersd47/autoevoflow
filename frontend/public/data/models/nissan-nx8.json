@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-nx8",
+  "slug": "nissan-nx8",
+  "name": "Nissan NX8",
+  "fullName": "Nissan NX8",
+  "brandId": "nissan",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Dongfeng-Nissan NX8 — среднеразмерный кроссовер для Китая (платформа Tianyan 2.0), старт продаж 9 апреля 2026 (производство с 27 января 2026, завод в Гуанчжоу). Версии BEV (до 335 л.с., CLTC до 650 км) и EREV (суммарный запас до 1450 км). Серийная модель на основе концепта Nissan Epic Concept (Пекинский автосалон 2024). Источник: CnEVPost, CarNewsChina 2026.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:51:13.959Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nissan_Yokohama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nissan_Yokohama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:51:13.959Z"
+}

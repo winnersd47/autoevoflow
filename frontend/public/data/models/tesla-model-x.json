@@ -1,0 +1,20 @@
+{
+  "id": "sync-tesla-model-x",
+  "slug": "tesla-model-x",
+  "name": "Tesla Model X Plaid",
+  "fullName": "Tesla Model X Plaid (2021)",
+  "brandId": "tesla",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Рестайлинг представлен ОДНОВРЕМЕННО с Model S Plaid (янв-2021, одна презентация) — новый салон/руль-штурвал, трёхмоторный Plaid (2 мотора сзади + 1 спереди), 0-96км/ч за 2.5с, 100кВтч/330 миль EPA.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:56:47.150Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:56:47.150Z"
+}

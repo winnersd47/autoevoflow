@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-gladiator",
+  "slug": "jeep-gladiator",
+  "name": "Jeep Gladiator",
+  "fullName": "Jeep Gladiator (2019)",
+  "brandId": "jeep",
+  "bodyType": "pickup",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:58:35.222Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2020_Jeep_Gladiator_Rubicon%2C_front_10.25.20.jpg/3840px-2020_Jeep_Gladiator_Rubicon%2C_front_10.25.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2020_Jeep_Gladiator_Rubicon%2C_front_10.25.20.jpg/3840px-2020_Jeep_Gladiator_Rubicon%2C_front_10.25.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:58:35.222Z"
+}

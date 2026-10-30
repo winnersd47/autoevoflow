@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-wrangler-tj",
+  "slug": "jeep-wrangler-tj",
+  "name": "Jeep Wrangler Rubicon",
+  "fullName": "Jeep Wrangler Rubicon",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Первый в истории Wrangler трим «Rubicon» (назван в честь перевала Rubicon Trail) — мосты Dana 44 спереди/сзади с блокировками Tru-Lok, раздатка Rock-Trac 4:1, 31\" MT/R; тот же 4.0L I6 190 л.с., что у базовой TJ — апгрейд не в моторе, а в офф-роуд оборудовании. Источники: extremeterrain.com, classiccars.com (2003).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:56:52.368Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:56:52.368Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-575-superamerica",
+  "slug": "ferrari-575-superamerica",
+  "name": "Ferrari 575 Superamerica",
+  "fullName": "Ferrari 575 Superamerica",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Открытая версия 575M с уникальной вращающейся крышей из электрохромного стекла (поворот на 180° за 10 секунд, разработка с участием Pininfarina). 559 экз., 2005-2006. Форсирован до 540 л.с. (+25 л.с. к 575M Maranello).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:16:00.741Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg/3840px-2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg/3840px-2009_Ferrari_599_GTB_Fiorano_F1%2C_Rosso_Fiorano_-_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:16:00.741Z"
+}

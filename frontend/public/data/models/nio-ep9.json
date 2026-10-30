@@ -1,0 +1,20 @@
+{
+  "id": "sync-nio-ep9",
+  "slug": "nio-ep9",
+  "name": "NIO EP9",
+  "fullName": "NIO EP9",
+  "brandId": "nio",
+  "bodyType": "hypercar",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Нюрбургринг-рекорд 6:45.9 (2016) для EV; 4 мотора; ~$1.2M; 45 экз.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:28:12.824Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Nio_EP9.jpg/3840px-Nio_EP9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Nio_EP9.jpg/3840px-Nio_EP9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:28:12.824Z"
+}

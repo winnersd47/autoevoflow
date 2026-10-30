@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-stj",
+  "slug": "lamborghini-huracan-stj",
+  "name": "Lamborghini Huracán STJ",
+  "fullName": "Lamborghini Huracán STJ",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "\"Super Trofeo Jota\" — апр. 2024, финальная лимитированная серия Huracán (ровно 10 экз.), построена на базе STO с ещё более экстремальной аэродинамикой, вдохновлённой гоночной Super Trofeo. Прощание с атмосферным V10 перед Temerario. Источник: официальные пресс-материалы Lamborghini 2024.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:21:04.281Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:21:04.281Z"
+}

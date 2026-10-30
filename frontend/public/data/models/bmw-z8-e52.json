@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-z8-e52",
+  "slug": "bmw-z8-e52",
+  "name": "Z8",
+  "fullName": "Z8",
+  "brandId": "bmw",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:19:24.671Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2002_BMW_Z8_4.jpg/3840px-2002_BMW_Z8_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/2002_BMW_Z8_4.jpg/3840px-2002_BMW_Z8_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:19:24.671Z"
+}

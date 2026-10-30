@@ -1,0 +1,20 @@
+{
+  "id": "sync-suzuki-cappuccino",
+  "slug": "suzuki-cappuccino",
+  "name": "Suzuki Cappuccino",
+  "fullName": "Suzuki Cappuccino (1991)",
+  "brandId": "suzuki",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:33:18.649Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Suzuki_Cappuccino_front_20090514.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Suzuki_Cappuccino_front_20090514.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:33:18.649Z"
+}

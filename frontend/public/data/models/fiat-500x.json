@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-500x",
+  "slug": "fiat-500x",
+  "name": "Fiat 500X",
+  "fullName": "Fiat 500X",
+  "brandId": "fiat",
+  "bodyType": "suv",
+  "segment": "suv_compact",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Кроссовер-версия на платформе 500 (2007) — линейка 95-170hp в зависимости от мотора/привода (вкл. полноприводные версии Cross).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:52:34.804Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2017_Fiat_500X_POP_Star_Multiair_1.4_Front.jpg/3840px-2017_Fiat_500X_POP_Star_Multiair_1.4_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/2017_Fiat_500X_POP_Star_Multiair_1.4_Front.jpg/3840px-2017_Fiat_500X_POP_Star_Multiair_1.4_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:52:34.804Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-sp12-ec",
+  "slug": "ferrari-sp12-ec",
+  "name": "Ferrari SP12 EC",
+  "fullName": "Ferrari SP12 EC",
+  "brandId": "ferrari",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "One-off для музыканта Эрика Клэптона (программа Special Projects) — дань уважения его любимой модели 512 BB. Дизайн — совместная работа Ferrari Centro Stile и ателье Pininfarina. Показан в мае 2012, публично — Гудвуд-2013. Механика серийной 458 Italia без изменений (570 л.с.).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:17:13.555Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Ferrari_458_Fort_Worth_June_2016_56_%28Ferrari%29_%28cropped-2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:17:13.555Z"
+}

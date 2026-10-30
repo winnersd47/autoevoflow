@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-defender-v8",
+  "slug": "land-rover-defender-v8",
+  "name": "Defender V8",
+  "fullName": "Defender V8",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "5.0L SC 518 л.с.; серийный внедорожник 0-100 за 4.9s; ограниченный тираж; Defender V8 Carpathian Edition — самая редкая версия",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:36:21.948Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Land_Rover_Defender_110_D40_SE_L663_Pangea_Green_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Land_Rover_Defender_110_D40_SE_L663_Pangea_Green_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:36:21.948Z"
+}

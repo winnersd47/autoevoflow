@@ -1,0 +1,20 @@
+{
+  "id": "sync-ariel-atom-3",
+  "slug": "ariel-atom-3",
+  "name": "Ariel Atom 3",
+  "fullName": "Ariel Atom 3",
+  "brandId": "ariel",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Third gen. Honda K20 2.0L with optional supercharger: 265 HP. Improved aero, double-wishbone suspension. 550 kg.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:03:29.318Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:03:29.318Z"
+}

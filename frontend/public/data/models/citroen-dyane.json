@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-dyane",
+  "slug": "citroen-dyane",
+  "name": "Dyane",
+  "fullName": "Dyane",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Practical 2CV successor. 5-door hatch, flat-2 air-cooled. 1.44M units 1967–1983.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:08:14.650Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Citro%C3%ABn_Dyane_6._%281977%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Citro%C3%ABn_Dyane_6._%281977%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:08:14.650Z"
+}

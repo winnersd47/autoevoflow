@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-ducato",
+  "slug": "fiat-ducato",
+  "name": "Fiat Ducato Gen.3",
+  "fullName": "Fiat Ducato Gen.3",
+  "brandId": "fiat",
+  "bodyType": "van",
+  "segment": "commercial",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Третье поколение Ducato (платформа X250, дебют сент.2006 как MY2007, выпускается по наст. время) — крупный коммерческий фургон. С мая 2014 (MY2014) поставляется в США/Канаду как Ram ProMaster (см. rebadged_as) — тот же кузов/платформа, адаптация под Северную Америку: усиленная подвеска под дороги NAFTA, другая решётка/фары, эксклюзивный для Ram мотор 3.6L Pentastar V6 284лс (в Европе не предлагался) вместо дизелей. Дизель Iveco/Sofim F1C Multijet 2.0-3.0L, 100-180лс (указан топ). Электроверсия E-Ducato — с апр.2021 (47/79кВтч, 90кВт/120лс), обновлена в рамках фейслифта окт.2023/MY2024 до 110кВтч/200кВт/270лс — идентичный пакет у Ram ProMaster EV (2024): тот же кузов/поколение, связь через уже существующее ребро ram-promaster-1→ram-promaster-ev (variant_of), отдельное кросс-брендовое ребро для EV не добавляю. Источники: en.wikipedia.org (Fiat Ducato, Ram ProMaster), promasterforum.com, news.ycombinator.com, autoevolution.com, insideevs.com, electrive.com — проверено веб-поиском окт.2026.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:26:28.490Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Fiat_e-Ducato_1X7A0350.jpg/3840px-Fiat_e-Ducato_1X7A0350.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Fiat_e-Ducato_1X7A0350.jpg/3840px-Fiat_e-Ducato_1X7A0350.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:26:28.490Z"
+}

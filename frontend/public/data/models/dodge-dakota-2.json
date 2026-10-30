@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-dakota-2",
+  "slug": "dodge-dakota-2",
+  "name": "Dodge Dakota R/T",
+  "fullName": "Dodge Dakota R/T",
+  "brandId": "dodge",
+  "bodyType": "pickup",
+  "segment": "performance",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "5.9L Magnum V8 — единственный по-настоящему перформанс-трим Dakota, \"спящий\" маслкар-пикап своей эпохи.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:56:43.246Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2008_Dodge_Dakota.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2008_Dodge_Dakota.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:56:43.246Z"
+}

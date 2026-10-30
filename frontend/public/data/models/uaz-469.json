@@ -1,0 +1,20 @@
+{
+  "id": "sync-uaz-469",
+  "slug": "uaz-469",
+  "name": "УАЗ-469",
+  "fullName": "УАЗ-469",
+  "brandId": "uaz",
+  "bodyType": "suv",
+  "segment": "suv_large",
+  "primaryMarket": "global",
+  "startYear": 1972,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:22:11.789Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Am-pzhd-kp4-2001-crossing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Am-pzhd-kp4-2001-crossing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T16:22:11.789Z"
+}

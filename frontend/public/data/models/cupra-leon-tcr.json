@@ -1,0 +1,20 @@
+{
+  "id": "sync-cupra-leon-tcr",
+  "slug": "cupra-leon-tcr",
+  "name": "CUPRA Leon Competición TCR",
+  "fullName": "CUPRA Leon Competición TCR",
+  "brandId": "cupra",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Соперник Lynk & Co 03 TCR в WTCR. 2.0Т I4, 340PS/410Нм, 6-ст. секвентальная. Официальная гоночная программа CUPRA Racing — продолжение более ранней линии SEAT León Cupra TCR (в TCR с 2015г.). База — серийный CUPRA Leon.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:58:42.589Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:58:42.589Z"
+}

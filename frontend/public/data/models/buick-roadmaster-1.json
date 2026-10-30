@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-roadmaster-1",
+  "slug": "buick-roadmaster-1",
+  "name": "Buick Roadmaster Estate Wagon",
+  "fullName": "Buick Roadmaster Estate Wagon",
+  "brandId": "buick",
+  "bodyType": "wagon",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "Возрождение легендарного имени после 33-летнего перерыва (не выпускалось с 1958г., когда флагманом Buick стала Electra), на платформе B-body (общей с Chevrolet Caprice/Cadillac Fleetwood — узлов этих моделей нет в графе, кросс-ребро не создано). Легендарный универсал с 3-м рядом сидений, обращённым назад. Изначально 5.7L V8 (L05), 180hp; с 1994г. — Corvette-derived LT1 5.7L V8, 260hp/330 фунт-фут — самый мощный универсал Buick в истории. Источник: fastlaneonly.com, fastestlaps.com (Buick Roadmaster LT1).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:12.170Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Buick_Roadmaster_--_04-22-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Buick_Roadmaster_--_04-22-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:12:12.170Z"
+}

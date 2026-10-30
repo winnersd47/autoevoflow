@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-ghost2-fl",
+  "slug": "rolls-royce-ghost2-fl",
+  "name": "Rolls-Royce Ghost Series II",
+  "fullName": "Rolls-Royce Ghost Series II",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Рестайлинг второго поколения Ghost, представлен 10 августа 2024 (продажи как модель 2025 года). Более крупная подсвеченная решётка Pantheon, суженные фары, новый безрамочный стеклянный блок с тремя экранами и часами Spirit of Ecstasy, независимые экраны для задних пассажиров, обивка grey-stained ash или Duality Twill. Двигатель тот же 6.75Л твин-турбо V12, мощность не изменилась (563 л.с. / 627 фунт-фут). Источники: motor1.com, carscoops.com, automobile-catalog.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:30:42.835Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:30:42.836Z"
+}

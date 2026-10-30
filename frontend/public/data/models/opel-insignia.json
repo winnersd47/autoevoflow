@@ -1,0 +1,20 @@
+{
+  "id": "sync-opel-insignia",
+  "slug": "opel-insignia",
+  "name": "Insignia A",
+  "fullName": "Insignia A (2008)",
+  "brandId": "opel",
+  "bodyType": "sedan",
+  "segment": "mid",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:29:13.231Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Opel_Insignia_Sports_Tourer_1.5_DIT_Innovation_%28B%29_%E2%80%93_Frontansicht%2C_12._Mai_2017%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Opel_Insignia_Sports_Tourer_1.5_DIT_Innovation_%28B%29_%E2%80%93_Frontansicht%2C_12._Mai_2017%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:29:13.231Z"
+}

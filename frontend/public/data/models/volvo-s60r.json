@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-s60r",
+  "slug": "volvo-s60r",
+  "name": "Volvo S60 R",
+  "fullName": "Volvo S60 R",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Седан-версия S60 R, представлена одновременно с V70 R в январе 2003г. (модельный год 2004). Мотор 2.5 турбо I5 (B5254T3) — 300 л.с./295 lb-ft, Haldex AWD, адаптивная подвеска Four-C, Brembo, 6-ст. МКПП или 5-ст. автомат. Источники: Volvo Car USA newsroom, auto123.com (2004 Volvo S60 R specs).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:00:06.357Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/3840px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/3840px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:00:06.358Z"
+}

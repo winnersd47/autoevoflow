@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-quattroporte-iii",
+  "slug": "maserati-quattroporte-iii",
+  "name": "Maserati Quattroporte III",
+  "fullName": "Maserati Quattroporte III",
+  "brandId": "maserati",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1979,
+  "isActive": true,
+  "description": "Возврат к заднему приводу после неудачного переднеприводного Quattroporte II. Кузов Джуджаро (ItalDesign), стальные кузова строились на Innocenti под Миланом, сборка в Модене. Старт 1979г. с 4.2Л V8 255hp, позже увеличен до 4.9Л (280hp). Коммерчески успешна — 2145 экз. за 1979-90 (12-летний цикл). См. также топ-трим Royale (1987).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:36:54.963Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg/3840px-2015_Maserati_Quattroporte_DV6_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:36:54.963Z"
+}

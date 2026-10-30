@@ -1,0 +1,20 @@
+{
+  "id": "sync-hennessey-venom-gt",
+  "slug": "hennessey-venom-gt",
+  "name": "Venom GT",
+  "fullName": "Venom GT",
+  "brandId": "hennessey",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:54:13.796Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Hennessey_Venom_GT_%2816040233465%29.jpg/3840px-Hennessey_Venom_GT_%2816040233465%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Hennessey_Venom_GT_%2816040233465%29.jpg/3840px-Hennessey_Venom_GT_%2816040233465%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:54:13.796Z"
+}

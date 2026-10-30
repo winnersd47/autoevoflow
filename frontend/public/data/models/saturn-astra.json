@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-astra",
+  "slug": "saturn-astra",
+  "name": "Saturn Astra",
+  "fullName": "Saturn Astra (2007)",
+  "brandId": "saturn",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Opel Astra H rebadged for USA. Only Saturn hatchback. 1.8L DOHC. Brief life 2007–2009, praised for handling.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:16:45.699Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Saturn_Aura_XR_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Saturn_Aura_XR_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:16:45.699Z"
+}

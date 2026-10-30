@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-3",
+  "slug": "gmc-sierra-3",
+  "name": "GMC Sierra",
+  "fullName": "GMC Sierra",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Платформа K2XX, представлена в конце 2012г. как модель 2014г. (на рынок вышла весной 2013г.). 5.3L V8 EcoTec3, 355hp — массовый мотор; Denali получила 6.2L L86/420hp отдельным узлом (gmc-sierra-3-denali). Источник: gmauthority.com/blog/gm/gmc/sierra, carsforsale.com/car-reviews/gmc-sierra-1500-overview.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:48:49.673Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:48:49.673Z"
+}

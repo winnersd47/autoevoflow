@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-impala-9-ss",
+  "slug": "chev-impala-9-ss",
+  "name": "Chevrolet Impala SS (2006-09)",
+  "fullName": "Chevrolet Impala SS (2006-09)",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "LS4 5.3L V8 (поперечно установлен), 303hp — топ-версия поколения Gen.9, 2006-09гг. Последний передне-приводный американский седан с V8 в продаже в США.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:05:04.559Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/3840px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg/3840px-Chevrolet_Impala_%2814373209694%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:05:04.559Z"
+}

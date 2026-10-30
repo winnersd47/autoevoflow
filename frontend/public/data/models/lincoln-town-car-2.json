@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-town-car-2",
+  "slug": "lincoln-town-car-2",
+  "name": "Lincoln Town Car",
+  "fullName": "Lincoln Town Car",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "Радикальный рестайлинг 1990г. — новый аэродинамический кузов \"bustle-back\", полностью новый салон, но ходовая часть и рама — развитие той же платформы Panther. Считается отдельным (2-м) поколением Town Car по консенсусу источников (autoevolution, Wikipedia), а не просто фейслифтом. В 1990г. ещё стоял старый 5.0L V8 (150 л.с.), с 1991г. — новый модульный 4.6L V8 (210 л.с.) до 1997г. В узле — пиковая характеристика поколения (210 л.с.). Источники: autoevolution (Lincoln Town Car model years), Wikipedia (Lincoln Town Car), Ford Panther platform.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:47.561Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg/3840px-2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg/3840px-2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:03:47.561Z"
+}

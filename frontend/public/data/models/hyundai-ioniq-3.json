@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-ioniq-3",
+  "slug": "hyundai-ioniq-3",
+  "name": "Hyundai IONIQ 3",
+  "fullName": "Hyundai IONIQ 3",
+  "brandId": "hyundai",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Компактный электрохэтчбек (B/C-сегмент) для Европы — новая модель, представлена в апреле 2026 (Milan Design Week), производство в Турции с августа 2026. Платформа E-GMP в 400-вольтовом исполнении. Мощность 133-147 л.с. (в hp указана версия Standard Range), WLTP 344-496 км. Источник: motor1.com, topgear.com.ph, Wikipedia (2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:26:36.131Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/3840px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/3840px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:26:36.131Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-x5m-f95",
+  "slug": "bmw-x5m-f95",
+  "name": "BMW X5 M F95",
+  "fullName": "BMW X5 M F95 (2020)",
+  "brandId": "bmw",
+  "bodyType": "suv",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:55:38.711Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2016_BMW_X5_xDrive40d_M_Sport_Automatic_3.0_Front.jpg/3840px-2016_BMW_X5_xDrive40d_M_Sport_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2016_BMW_X5_xDrive40d_M_Sport_Automatic_3.0_Front.jpg/3840px-2016_BMW_X5_xDrive40d_M_Sport_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:55:38.711Z"
+}

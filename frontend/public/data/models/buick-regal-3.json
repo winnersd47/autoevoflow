@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-3",
+  "slug": "buick-regal-3",
+  "name": "Buick Regal Gen.3",
+  "fullName": "Buick Regal Gen.3",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "Переход на передний привод — новая платформа W-body (GM10), общая с Pontiac Grand Prix/Oldsmobile Cutlass Supreme/Chevrolet Lumina. Турбо-эра закончилась — база атмосферные V6 меньшего объёма, топ-опция (добавлена в 1990г.) — атмосферный 3.8L V6, 172hp. Полноценная supercharged-версия GS вернётся только в следующем поколении (1997г.). Источник: theautopian.com (fastest FWD Regal history), GM W-body platform history.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:11.573Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:11.573Z"
+}

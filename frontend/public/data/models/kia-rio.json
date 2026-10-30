@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-rio",
+  "slug": "kia-rio",
+  "name": "Kia Rio IV (YB)",
+  "fullName": "Kia Rio IV (YB)",
+  "brandId": "kia",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Четвёртое поколение (YB), показано в Париже в сент. 2016, в продаже с 2017. В США переход на более дешёвый атмосферный 1.6 MPI (без GDI) — 130 л.с., воспринятый как шаг назад по мощности. Фейслифт 2020 (новая оптика, штатный 8\" экран с беспроводными CarPlay/Android Auto). Последний модельный год Rio в США — 2023; на части рынков (Мексика, страны Персидского залива) с 2023 нэймплейт сменился на K3. Платформу и салон с Rio (YB) разделяет кроссовер Stonic.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:27:20.568Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2021_Kia_Rio_3_MHEV_facelift_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2021_Kia_Rio_3_MHEV_facelift_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:27:20.568Z"
+}

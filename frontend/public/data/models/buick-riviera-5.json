@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-riviera-5",
+  "slug": "buick-riviera-5",
+  "name": "Buick Riviera Gen.5",
+  "fullName": "Buick Riviera Gen.5",
+  "brandId": "buick",
+  "bodyType": "coupe",
+  "segment": "gt",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Значительное уменьшение размеров на новой платформе B, отказ от 455. Топ-мотор — Oldsmobile-built 403cid V8, 185hp (межд-дивизионный обмен моторами GM в эпоху нефтяного кризиса), базовый — собственный Buick 350 V8, 155hp. Источник: carbuzz.com (American Cruisers: Buick Riviera).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:12.235Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/SEPT_16TH_BUICK_RIVIERA_HOLLYWOOD_PHOTO_PATRICE_RAUNET.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:05:12.235Z"
+}

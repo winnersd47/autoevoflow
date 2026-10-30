@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-1",
+  "slug": "gmc-yukon-1",
+  "name": "GMC Yukon",
+  "fullName": "GMC Yukon",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Первое поколение Yukon — представлено в 1991г. как модель 1992 года, на платформе GMT400, на 3 года раньше Chevrolet Tahoe (который получил имя Tahoe только с 1995г.). 5.7L V8 изначально 210hp, после апдейта 1995г. — 265hp. Источники: gmauthority.com/blog/gm/gmc/yukon, dubizzle.com/blog/cars/gmc-yukon-history. ДОБАВЛЕНО: ранее в графе был представлен только Yukon Gen5 (2021) — Gen1-4 отсутствовали полностью (баг 'пропуск межпоколенческой цепочки', п.e ТЗ).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:22.145Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:22.145Z"
+}

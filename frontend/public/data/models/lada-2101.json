@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-2101",
+  "slug": "lada-2101",
+  "name": "ВАЗ-2101 Жигули",
+  "fullName": "ВАЗ-2101 Жигули",
+  "brandId": "lada",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:20:51.571Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/VAZ-2101_%28%D0%92%D0%90%D0%97-2101_%D0%96%D0%B8%D0%B3%D1%83%D0%BB%D0%B8%29_%2C_Tallinn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/VAZ-2101_%28%D0%92%D0%90%D0%97-2101_%D0%96%D0%B8%D0%B3%D1%83%D0%BB%D0%B8%29_%2C_Tallinn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T16:20:51.571Z"
+}

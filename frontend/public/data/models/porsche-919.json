@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-919",
+  "slug": "porsche-919",
+  "name": "Porsche 919 Hybrid",
+  "fullName": "Porsche 919 Hybrid",
+  "brandId": "porsche",
+  "bodyType": "coupe",
+  "segment": "track",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Возврат Porsche в топ-класс Ле-Мана (LMP1) после 962. 2.0L турбо V4 (500 л.с.) + гибридная система (рекуперация на переднюю ось) = 900+ л.с. суммарно. Победы на Ле-Мане 2015, 2016, 2017.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:12:18.274Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Porsche_headquarter_Stuttgart-Zuffenhausen_Werk_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:12:18.274Z"
+}

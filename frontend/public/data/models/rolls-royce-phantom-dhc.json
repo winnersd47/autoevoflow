@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-phantom-dhc",
+  "slug": "rolls-royce-phantom-dhc",
+  "name": "Phantom Drophead Coupé",
+  "fullName": "Phantom Drophead Coupé",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:35:01.369Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/2007_Rolls_Royce_Phantom_Drophead_%284852848996%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/2007_Rolls_Royce_Phantom_Drophead_%284852848996%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:35:01.369Z"
+}

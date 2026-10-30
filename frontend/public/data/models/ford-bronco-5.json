@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-bronco-5",
+  "slug": "ford-bronco-5",
+  "name": "Ford Bronco Gen.5",
+  "fullName": "Ford Bronco Gen.5",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Пятое и последнее поколение классического Bronco (1992-96) перед 25-летней паузой — кузов в стиле \"OBS\" F-150. V8 5.0L (302ci) EFI — 185hp, единственный мотор в гамме. Снят с производства в 1996г.; имя возродилось только в 2021г. (ford-bronco-6).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:53:58.936Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ford_Bronco_New_Energy_005.jpg/3840px-Ford_Bronco_New_Energy_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ford_Bronco_New_Energy_005.jpg/3840px-Ford_Bronco_New_Energy_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:53:58.936Z"
+}

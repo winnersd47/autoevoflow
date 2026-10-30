@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-2",
+  "slug": "gmc-sierra-2",
+  "name": "GMC Sierra",
+  "fullName": "GMC Sierra",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Платформа GMT900 (представлена конец 2005г. как модель 2006/2007). 5.3L V8, 320hp — массовый мотор; Denali того же поколения получила 6.2L/403hp отдельным узлом (gmc-sierra-2-denali). Источник: gmauthority.com/blog/gm/gmc/sierra, en.wikipedia.org/wiki/GMT900.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:48:48.200Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:48:48.200Z"
+}

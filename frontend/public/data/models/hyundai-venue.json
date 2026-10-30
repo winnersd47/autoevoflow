@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-venue",
+  "slug": "hyundai-venue",
+  "name": "Hyundai Venue",
+  "fullName": "Hyundai Venue",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Самый младший кроссовер Hyundai (QX), представлен нояб. 2019, в продаже с 2020. Единственный мотор в США — 1.6L MPI, 121 л.с. (опорное значение узла; в Азии также 1.0 T-GDI 118 л.с. и дизели). Построен на платформе 5-го поколения Accent, а не на платформе Kona. Вышел через 2 года после Kona как более доступный и компактный вариант в стратегии расширения кроссоверной линейки.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:26.940Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2010_Hyundai_Genesis_Coupe_3_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2010_Hyundai_Genesis_Coupe_3_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:52:26.940Z"
+}

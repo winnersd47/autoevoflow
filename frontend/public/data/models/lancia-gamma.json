@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-gamma",
+  "slug": "lancia-gamma",
+  "name": "Lancia Gamma",
+  "fullName": "Lancia Gamma",
+  "brandId": "lancia",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Новый флагман возрождённой Lancia — кроссовер-фастбэк на платформе Stellantis STLA Medium (та же, что у Peugeot 3008/e-3008 III и DS No.7), производство в Мельфи. Премьера — май 2026, заказы с осени 2026. Гибрид 145 л.с. и электроверсии 230/245/375 л.с. (в hp — топовая AWD), запас хода до 740 км. Имя Gamma возрождено (оригинальная Gamma 1976-1984 в графе отсутствует). Источник: carscoops.com, arenaev.com, Wikipedia (2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:26:38.068Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lancia_Gamma_Coupe_2500_Retro_Classics_2020_IMG_0245.jpg/3840px-Lancia_Gamma_Coupe_2500_Retro_Classics_2020_IMG_0245.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lancia_Gamma_Coupe_2500_Retro_Classics_2020_IMG_0245.jpg/3840px-Lancia_Gamma_Coupe_2500_Retro_Classics_2020_IMG_0245.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:26:38.068Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-v-one-concept",
+  "slug": "cadillac-v-one-concept",
+  "name": "Cadillac V-ONE Concept",
+  "fullName": "Cadillac V-ONE Concept",
+  "brandId": "cadillac",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Одноместный трековый концепт (не street-legal), представлен 14 августа 2026 на The Quail (Monterey Car Week). Наследует шасси, подвеску, трансмиссию и электронику гоночного V-Series.R — без регламентных ограничений гибридный буст даёт 830 л.с. (у гонщика — 671). Официально без обязательств по производству. Имя = V-Series + \"One\", НЕ связано с CTS/CT4/CT5.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:40:34.829Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/2026_6_Hours_of_Spa-Francorchamps_Cadillac_Hertz_Team_Jota_Cadillac_V-Series.R_No.12_%28DSC07675%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/2026_6_Hours_of_Spa-Francorchamps_Cadillac_Hertz_Team_Jota_Cadillac_V-Series.R_No.12_%28DSC07675%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:40:34.829Z"
+}

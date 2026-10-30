@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-jcw-f56",
+  "slug": "mini-jcw-f56",
+  "name": "Mini JCW F56",
+  "fullName": "Mini JCW F56 (2015)",
+  "brandId": "mini",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "F56 gen JCW. 2.0L TwinPower Turbo, 231 HP. 0-60 in 6.3s. Brembo brakes, Aerodynamic Kit.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:13:20.949Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_Mini_Countryman_Cooper_S_2.0_Front.jpg/3840px-2018_Mini_Countryman_Cooper_S_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/2018_Mini_Countryman_Cooper_S_2.0_Front.jpg/3840px-2018_Mini_Countryman_Cooper_S_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:13:20.949Z"
+}

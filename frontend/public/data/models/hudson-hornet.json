@@ -1,0 +1,20 @@
+{
+  "id": "sync-hudson-hornet",
+  "slug": "hudson-hornet",
+  "name": "Hudson Hornet",
+  "fullName": "Hudson Hornet",
+  "brandId": "hudson",
+  "bodyType": "coupe",
+  "segment": "full_size",
+  "primaryMarket": "global",
+  "startYear": 1951,
+  "isActive": true,
+  "description": "Победитель 27 из 34 гонок NASCAR 1952; \"step-down\" кузов — ЦТ ниже конкурентов; прообраз PIXAR «Тачки»; Hudson Hornet 308 cu in i6",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:34:08.021Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hudson_Hornet_4-door_burgundy.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hudson_Hornet_4-door_burgundy.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:34:08.021Z"
+}

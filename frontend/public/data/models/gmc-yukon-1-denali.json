@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-1-denali",
+  "slug": "gmc-yukon-1-denali",
+  "name": "GMC Yukon Denali (первый Denali в истории GMC)",
+  "fullName": "GMC Yukon Denali (первый Denali в истории GMC)",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "ИСТОРИЧЕСКИ ВАЖНЫЙ узел: самый первый автомобиль под именем Denali вообще — суббренд GMC начался именно с Yukon Denali MY1999, уже под занавес поколения GMT400. Единственный мотор — 5.7L V8 (L31), 255 л.с.; отличие от базовой Yukon — не мощность, а стандартный полный привод AWD + люксовая отделка (кожа, навигация, хромированные колёса) + GM Quadrasteer появился позже. Источники: classic.com (1999 GMC Yukon Denali VIN-лот), en.wikipedia.org/wiki/GMC_Denali, autoevolution.com/cars/gmc-yukon-1999. Платформа GMT400, не GMT800 (та пришла только с Yukon Gen2 в 2000г.) — важный нюанс, т.к. первый Denali technically успел выйти на старой платформе за год до смены поколения.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:24.884Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:24.884Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-alpine-a310",
+  "slug": "alpine-a310",
+  "name": "Alpine A310",
+  "fullName": "Alpine A310",
+  "brandId": "alpine",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:02:11.375Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Renault_Alpine_A310.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Renault_Alpine_A310.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:02:11.375Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-denza-bao5",
+  "slug": "denza-bao5",
+  "name": "Denza B5 (BYD Fang Cheng Bao Bao 5)",
+  "fullName": "Denza B5 (BYD Fang Cheng Bao Bao 5)",
+  "brandId": "denza",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Изначально выпускалась суббрендом BYD Fangchengbao (方程豹) как «Bao 5» (ноя-2023) — первая модель на платформе DMO Super Hybrid. С 2025г версия для экспортных рынков продаётся под маркой Denza как «B5». В графе — экспортная Denza-версия.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:45:15.336Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Denza_D9_DM-i_IAA_2025_DSC_2042.jpg/3840px-Denza_D9_DM-i_IAA_2025_DSC_2042.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Denza_D9_DM-i_IAA_2025_DSC_2042.jpg/3840px-Denza_D9_DM-i_IAA_2025_DSC_2042.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:45:15.336Z"
+}

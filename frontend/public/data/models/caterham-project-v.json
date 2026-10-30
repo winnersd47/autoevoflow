@@ -1,0 +1,20 @@
+{
+  "id": "sync-caterham-project-v",
+  "slug": "caterham-project-v",
+  "name": "Project V",
+  "fullName": "Project V",
+  "brandId": "caterham",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:54:12.002Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2023_Caterham_Project_V.jpg/3840px-2023_Caterham_Project_V.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/2023_Caterham_Project_V.jpg/3840px-2023_Caterham_Project_V.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:54:12.002Z"
+}

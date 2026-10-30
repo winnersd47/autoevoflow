@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lesabre-6",
+  "slug": "buick-lesabre-6",
+  "name": "Buick LeSabre Gen.6",
+  "fullName": "Buick LeSabre Gen.6",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "Переход на передний привод (платформа H, общая с Electra/Park Avenue/Oldsmobile 88/Pontiac Bonneville). Изначально доступен 3.0L V6, но основным и самым популярным стал 3.8L V6 (~150hp). Источник: iseecars.com, wikipedia (Buick LeSabre).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:25.916Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:06:25.916Z"
+}

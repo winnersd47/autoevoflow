@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-caravan-1",
+  "slug": "dodge-caravan-1",
+  "name": "Dodge Grand Caravan LE",
+  "fullName": "Dodge Grand Caravan LE",
+  "brandId": "dodge",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Caravan дебютировал в 1984 на платформе Chrysler S (переднеприводный минивэн, родоначальник всего сегмента); в 1987 добавлен удлинённый Grand Caravan (LWB) и первый V6 — 3.0L Mitsubishi 6G72, 136 л.с. (к 1989-1990 доведён до ~142-150 л.с. с домашним 3.3L V6). Платформа общая с Plymouth/Chrysler Voyager того же поколения (см. chrysler-voyager-1). Источники: Wikipedia Dodge Caravan, automobile.fandom.com (доступ 2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:54:06.025Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/1985_Voyager_LE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/1985_Voyager_LE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:54:06.025Z"
+}

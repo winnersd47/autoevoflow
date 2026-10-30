@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-cl-class",
+  "slug": "mercedes-cl-class",
+  "name": "Mercedes-Benz S-Class Coupe C217",
+  "fullName": "Mercedes-Benz S-Class Coupe C217",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Четвёртое поколение флагманского купе, ноябрь 2014-2020г., имя сменено обратно на S-Class Coupe. База — S-Class W222. S500 Coupe 4MATIC битурбо V8 — 455 л.с. Преемника не было (линейка закрыта в 2020-2021г.).",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:18:01.361Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_W223_IMG_6663.jpg/3840px-Mercedes-Benz_W223_IMG_6663.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_W223_IMG_6663.jpg/3840px-Mercedes-Benz_W223_IMG_6663.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:18:01.361Z"
+}

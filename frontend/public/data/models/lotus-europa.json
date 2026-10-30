@@ -12,15 +12,15 @@
   "isActive": false,
   "description": "The Lotus Europa (1966-1975) was Lotus's mid-engine production car — so radical it was mistaken for a racing car on public roads. Its combination of mid-engine layout and minimal weight directly inspired the Esprit.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lotus_Europa_-_Flickr_-_exfordy_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lotus_Europa_-_Flickr_-_exfordy_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "coupe",
     "lotus"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:42:38.475Z",
   "generations": [
     {
       "id": "gen-lotus-europa-1",

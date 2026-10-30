@@ -1,0 +1,20 @@
+{
+  "id": "sync-nio-et5t",
+  "slug": "nio-et5t",
+  "name": "NIO ET5 Touring",
+  "fullName": "NIO ET5 Touring (2022)",
+  "brandId": "nio",
+  "bodyType": "wagon",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:47:44.713Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/NIO_ET5_IMG_8291.jpg/3840px-NIO_ET5_IMG_8291.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/NIO_ET5_IMG_8291.jpg/3840px-NIO_ET5_IMG_8291.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:47:44.713Z"
+}

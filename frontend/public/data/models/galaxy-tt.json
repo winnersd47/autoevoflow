@@ -1,0 +1,20 @@
+{
+  "id": "sync-galaxy-tt",
+  "slug": "galaxy-tt",
+  "name": "Geely Galaxy TT",
+  "fullName": "Geely Galaxy TT",
+  "brandId": "geely",
+  "bodyType": "coupe",
+  "segment": "sport",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Электрокупе-седан, конкурент Xiaomi SU7/Zeekr 7GT/BYD Seal. 800V, 180кВт спереди + 245кВт сзади = 425кВт/570hp суммарно, 0-100 за 3.8с, LFP 75кВтч/650км CLTC.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:28:35.300Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Geely_Galaxy_Starship_7_007.jpg/3840px-Geely_Galaxy_Starship_7_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Geely_Galaxy_Starship_7_007.jpg/3840px-Geely_Galaxy_Starship_7_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:28:35.300Z"
+}

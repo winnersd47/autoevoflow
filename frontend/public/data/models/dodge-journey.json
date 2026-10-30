@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-journey",
+  "slug": "dodge-journey",
+  "name": "Dodge Journey R/T AWD (facelift)",
+  "fullName": "Dodge Journey R/T AWD (facelift)",
+  "brandId": "dodge",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "Фейслифт МГ2011: новая решётка/бампер, обновлённый салон, новый логотип Dodge; старый 3.5L V6 заменён на 3.6L Pentastar (283 л.с. при 6350, 260 lb-ft при 4400) — эта версия мотора оставалась топовой до конца выпуска в 2020. Источники: Wikipedia Dodge Journey, cars.usnews.com specs 2010-2016 (доступ 2026).",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:39:17.978Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/2012_Dodge_Journey_--_NHTSA_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/2012_Dodge_Journey_--_NHTSA_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:39:17.978Z"
+}

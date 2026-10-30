@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-2-denali",
+  "slug": "gmc-sierra-2-denali",
+  "name": "GMC Sierra Denali 1500",
+  "fullName": "GMC Sierra Denali 1500",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "luxury_truck",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "На платформе GMT900 Sierra Denali первой среди полутонных пикапов получила 6.2L V8 (403 л.с.) — до этого Denali использовала 6.0L (345hp, 2005-2006 'classic body'). Источник: gmauthority.com/blog/gm/gmc/sierra/sierra-denali. Базовая Sierra Gen2 (gmc-sierra-2, 320hp/5.3L) того же поколения — Denali явно топ-трим с другим мотором, не просто комплектация.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:16.420Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:12:16.420Z"
+}

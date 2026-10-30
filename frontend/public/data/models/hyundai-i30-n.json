@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-i30-n",
+  "slug": "hyundai-i30-n",
+  "name": "i30 N",
+  "fullName": "i30 N (2017)",
+  "brandId": "hyundai",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:37:33.288Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg/3840px-2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg/3840px-2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:37:33.288Z"
+}

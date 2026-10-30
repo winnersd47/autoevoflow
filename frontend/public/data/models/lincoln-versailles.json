@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-versailles",
+  "slug": "lincoln-versailles",
+  "name": "Lincoln Versailles",
+  "fullName": "Lincoln Versailles",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "compact_luxury",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Полностью отсутствовавший в графе узел — компактный люксовый седан 1977-1980гг., ответ Lincoln на Cadillac Seville, по сути богато отделанный \"бейдж-инжиниринг\" Ford Granada/Mercury Monarch (колёсная база 109.9\"). Изначально 351cid V8, почти сразу заменён на 302cid (5.0L) — 122 л.с. (1977) → 133 л.с. (1978, пик) → 132 л.с. (1980). В узле — пиковое значение 1978г. Платформенный донор (Ford Granada/Mercury Monarch) отсутствует как узел в графе, поэтому cross-brand ребро shares_platform не создано (только к уже существующим узлам Ford, как указано в задании). Источники: Wikipedia (Lincoln Versailles), thetruthaboutcars.com, hagerty.com valuation tool (1977-1980 Lincoln Versailles).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:06.480Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lincoln_Versailles%2C_1980.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lincoln_Versailles%2C_1980.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:05:06.480Z"
+}

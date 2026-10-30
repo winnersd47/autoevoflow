@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-iq",
+  "slug": "scion-iq",
+  "name": "Scion iQ",
+  "fullName": "Scion iQ (2011)",
+  "brandId": "scion",
+  "bodyType": "microcar",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Toyota iQ rebadge. Ultra-compact 3+1 seat city car. 1.3L 94 HP. Front Passenger Airbag eliminated for design.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:18:00.217Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2010_Toyota_iQ2_VVT-i_1.0_Front.jpg/3840px-2010_Toyota_iQ2_VVT-i_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/2010_Toyota_iQ2_VVT-i_1.0_Front.jpg/3840px-2010_Toyota_iQ2_VVT-i_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:18:00.217Z"
+}

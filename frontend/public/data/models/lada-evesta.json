@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-evesta",
+  "slug": "lada-evesta",
+  "name": "e-Vesta",
+  "fullName": "e-Vesta",
+  "brandId": "lada",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:21:09.671Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2024_Lada_Vesta_sedan_white_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2024_Lada_Vesta_sedan_white_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:21:09.671Z"
+}

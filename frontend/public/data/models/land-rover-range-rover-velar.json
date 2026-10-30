@@ -1,0 +1,20 @@
+{
+  "id": "sync-land-rover-range-rover-velar",
+  "slug": "land-rover-range-rover-velar",
+  "name": "Range Rover Velar",
+  "fullName": "Range Rover Velar",
+  "brandId": "land-rover",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:18:26.299Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2017_Land_Rover_Range_Rover_Velar_First_Edition_D3_3.0_Front.jpg/3840px-2017_Land_Rover_Range_Rover_Velar_First_Edition_D3_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2017_Land_Rover_Range_Rover_Velar_First_Edition_D3_3.0_Front.jpg/3840px-2017_Land_Rover_Range_Rover_Velar_First_Edition_D3_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:18:26.299Z"
+}

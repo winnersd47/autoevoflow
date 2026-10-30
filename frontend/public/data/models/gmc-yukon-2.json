@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-yukon-2",
+  "slug": "gmc-yukon-2",
+  "name": "GMC Yukon",
+  "fullName": "GMC Yukon",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Второе поколение — полностью новый кузов на платформе GMT800 (как у Sierra Gen1/gmc-sierra-1 и Cadillac Escalade Gen2). 5.3L V8, 285hp — основной/самый массовый мотор. Источники: auto123.com/en/new-cars/technical-specs/gmc/yukon/2000, cartimeline.com (GMC Yukon XL GMT800 5.3 285hp specs), en.wikipedia.org/wiki/GMT800.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:12:26.384Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg/3840px-2022_Chevrolet_Tahoe_RST%2C_front_3.7.22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:12:26.384Z"
+}

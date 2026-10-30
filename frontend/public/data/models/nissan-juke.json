@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-juke",
+  "slug": "nissan-juke",
+  "name": "Nissan Juke F16",
+  "fullName": "Nissan Juke F16 (2019)",
+  "brandId": "nissan",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Второе поколение Juke (F16) — представлено 3 сентября 2019 одновременно в Лондоне, Париже, Милане, Барселоне и Кёльне. Платформа CMF-B, общая с Renault Captur II/Clio V. Базовый мотор 1.0L DIG-T (117 л.с.); с 2022 добавлен гибрид 1.6L (143 л.с. суммарно). Источник: Wikipedia.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:00:23.214Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Nissan_Juke_%28F16%29_IMG_4903.jpg/3840px-Nissan_Juke_%28F16%29_IMG_4903.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Nissan_Juke_%28F16%29_IMG_4903.jpg/3840px-Nissan_Juke_%28F16%29_IMG_4903.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:00:23.214Z"
+}

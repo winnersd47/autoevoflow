@@ -1,0 +1,20 @@
+{
+  "id": "sync-plymouth-barracuda-2",
+  "slug": "plymouth-barracuda-2",
+  "name": "Barracuda Gen.2",
+  "fullName": "Barracuda Gen.2",
+  "brandId": "plymouth",
+  "bodyType": "coupe",
+  "segment": "pony_car",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:55:13.169Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/3840px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/3840px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:55:13.169Z"
+}

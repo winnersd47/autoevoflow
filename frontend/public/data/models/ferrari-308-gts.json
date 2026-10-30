@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-308-gts",
+  "slug": "ferrari-308-gts",
+  "name": "308 GTS",
+  "fullName": "308 GTS",
+  "brandId": "ferrari",
+  "bodyType": "targa",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Тарга-версия 308 GTB — представлена в 1977-м (Ferrari.com), стала самой узнаваемой версией поколения (в т.ч. благодаря сериалу «Магнум»). Тот же 3.0Л V8; производство продолжалось до 1985-го со сменами впрыска (GTSi, GTS QV).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:14:48.201Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ferrari_328_GTS_-_Flickr_-_Alexandre_Pr%C3%A9vot_%284%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:14:48.201Z"
+}

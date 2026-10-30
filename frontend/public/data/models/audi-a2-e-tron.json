@@ -1,0 +1,20 @@
+{
+  "id": "sync-audi-a2-e-tron",
+  "slug": "audi-a2-e-tron",
+  "name": "A2 e-tron",
+  "fullName": "A2 e-tron",
+  "brandId": "audi",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Официально анонсирован Audi 7 сентября 2026 (unveiling в этот же день), продажи в Европе — начало 2027. Новая младшая модель бренда, платформа MEB концерна VW (общая с ID.3 и Q4 e-tron; изначально планировался на SSP, но её перенесли). 4 варианта мощности — 125/140/170/240 кВт (≈168-322 л.с.), запас хода до 649 км WLTP, батареи 52/61/84 кВтч, цена в Германии от €38 200. Возрождение имени спустя 26 лет после оригинального A2 (8Z, 1999-2005) на совершенно другом кузове/платформе — inspired_by, не прямая эволюция.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:28:59.611Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/3840px-2020_Audi_e-Tron_Sport_50_Quattro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/3840px-2020_Audi_e-Tron_Sport_50_Quattro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:28:59.611Z"
+}

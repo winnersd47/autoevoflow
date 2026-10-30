@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-4runner-4",
+  "slug": "toyota-4runner-4",
+  "name": "Toyota 4Runner 4th Generation",
+  "fullName": "Toyota 4Runner 4th Generation (2002)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Четвёртое поколение (2002, MY2003) — крупнее предшественников, доступна система X-REAS на части версий. Топовый мотор — 4.0L V6 1GR-FE, 236 л.с. (245 л.с. к 2006 г.); на части рынков также 4.7L V8.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:48:44.939Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg/3840px-2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg/3840px-2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:48:44.939Z"
+}

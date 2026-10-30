@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-touareg-2",
+  "slug": "vw-touareg-2",
+  "name": "VW Touareg Gen2",
+  "fullName": "VW Touareg Gen2 (2010)",
+  "brandId": "volkswagen",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:16:38.955Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/3840px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/3840px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:16:38.955Z"
+}

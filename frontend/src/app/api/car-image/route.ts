@@ -36,22 +36,40 @@ export async function GET(req: NextRequest) {
   }
   if (!imgUrl) return new NextResponse('no image', { status: 404 })
 
-  // Определяем источник изображения и соответствующий Referer
-  const isCaricos    = /^https:\/\/images\.caricos\.com\//.test(imgUrl)
-  const isNetCarShow = /^https:\/\/www\.netcarshow\.com\//.test(imgUrl)
-  if (!isCaricos && !isNetCarShow) {
+  // Белый список доверенных хостов (SSRF-защита) + Referer, нужный тем из
+  // них, что проверяют hotlink (caricos/netcarshow). null — Referer не нужен
+  // (Wikimedia и обычные новостные CDN hotlink не проверяют).
+  const TRUSTED_HOSTS: Record<string, string | null> = {
+    'images.caricos.com': 'https://www.caricos.com/',
+    'www.netcarshow.com': 'https://www.netcarshow.com/',
+    'thumb.wikimedia.org': null,
+    'upload.wikimedia.org': null,
+    'commons.wikimedia.org': null,
+    'www.thedrive.com': null,
+    'www.jalopnik.com': null,
+    'hips.hearstapps.com': null,
+    'electrek.co': null,
+    'cdn.motor1.com': null,
+  }
+
+  let host: string
+  try {
+    host = new URL(imgUrl).hostname
+  } catch {
+    return new NextResponse('bad url', { status: 400 })
+  }
+  if (!(host in TRUSTED_HOSTS)) {
     return new NextResponse('no image', { status: 404 })
   }
 
-  const referer = isCaricos ? 'https://www.caricos.com/' : 'https://www.netcarshow.com/'
+  const referer = TRUSTED_HOSTS[host]
+  const headers: Record<string, string> = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
+  }
+  if (referer) headers['Referer'] = referer
 
   try {
-    const upstream = await fetch(imgUrl, {
-      headers: {
-        'Referer': referer,
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36',
-      },
-    })
+    const upstream = await fetch(imgUrl, { headers })
     const ct = upstream.headers.get('content-type') || ''
     if (!upstream.ok || !ct.startsWith('image/')) {
       return new NextResponse('upstream unavailable', { status: 502 })

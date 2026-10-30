@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-trailblazer-ss",
+  "slug": "chev-trailblazer-ss",
+  "name": "Chevrolet TrailBlazer SS",
+  "fullName": "Chevrolet TrailBlazer SS",
+  "brandId": "chevrolet",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "LS2 6.0L V8 (тот же, что в Corvette C6/Camaro SS того времени) — 395hp (2006), 390hp (2007+, более строгий выхлоп), 400lb-ft, задний/полный привод, 4-АКПП. Культовая \"доступная Corvette, в которую влезет вся семья\" — самый мощный серийный внедорожник GM своего времени.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:00:11.724Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chevrolet_TrailBlazer_--_06-05-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chevrolet_TrailBlazer_--_06-05-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:00:11.724Z"
+}

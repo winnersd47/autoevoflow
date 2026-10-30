@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-8litre",
+  "slug": "bentley-8litre",
+  "name": "8 Litre",
+  "fullName": "8 Litre",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1930,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:45:41.784Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bentley_8-Litre_Weymann_saloon_by_Mulliner_5577867444_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bentley_8-Litre_Weymann_saloon_by_Mulliner_5577867444_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:45:41.784Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-x3m",
+  "slug": "bmw-x3m",
+  "name": "BMW X3 M (F97)",
+  "fullName": "BMW X3 M (F97)",
+  "brandId": "bmw",
+  "bodyType": "suv",
+  "segment": "premium_suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Единственное поколение X3 M на сегодня — 480 л.с. в версии Competition, 2019г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:13:24.498Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_G06_IMG_3142.jpg/3840px-BMW_G06_IMG_3142.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_G06_IMG_3142.jpg/3840px-BMW_G06_IMG_3142.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:13:24.498Z"
+}

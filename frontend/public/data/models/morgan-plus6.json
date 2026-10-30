@@ -1,0 +1,20 @@
+{
+  "id": "sync-morgan-plus6",
+  "slug": "morgan-plus6",
+  "name": "Plus Six",
+  "fullName": "Plus Six",
+  "brandId": "morgan",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:50:36.131Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Morgan_Plus_6_IAA_2021_1X7A0138.jpg/3840px-Morgan_Plus_6_IAA_2021_1X7A0138.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Morgan_Plus_6_IAA_2021_1X7A0138.jpg/3840px-Morgan_Plus_6_IAA_2021_1X7A0138.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:50:36.131Z"
+}

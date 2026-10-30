@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-glc",
+  "slug": "mercedes-glc",
+  "name": "Mercedes-Benz GLC 400e X254 (Plug-in Hybrid)",
+  "fullName": "Mercedes-Benz GLC 400e X254 (Plug-in Hybrid)",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "PHEV-флагман линейки: суммарно 381 л.с., запас хода на электротяге до 130км/81 мили (WLTP) — рекорд сегмента на момент выхода.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:24:55.221Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes-Benz_X254_1X7A6343.jpg/3840px-Mercedes-Benz_X254_1X7A6343.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes-Benz_X254_1X7A6343.jpg/3840px-Mercedes-Benz_X254_1X7A6343.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:24:55.221Z"
+}

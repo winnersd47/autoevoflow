@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-century-3",
+  "slug": "buick-century-3",
+  "name": "Buick Century Gen.3",
+  "fullName": "Buick Century Gen.3",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "Переход на передний привод — новая платформа A (GM A-body FWD, общая с Oldsmobile Cutlass Ciera/Pontiac 6000). Топ-мотор — 3.3L V6 (LG7), 160hp, с 1994г. заменён на 3.1L V6. В 1986г. выпущен ограниченный Century Gran Sport (1029 экз. — тот же мотор + спортивный пакет подвески/внешности, отдельным узлом не выделяется как редкая 1-летняя опция). Источник: barnfinds.com (1 of 1,029: 1986 Buick Century Gran Sport), wheel-size.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:07:54.745Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_SAIC-GM_Buick_GL8_Century.jpg/3840px-2023_SAIC-GM_Buick_GL8_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_SAIC-GM_Buick_GL8_Century.jpg/3840px-2023_SAIC-GM_Buick_GL8_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:07:54.745Z"
+}

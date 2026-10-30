@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-mark2",
+  "slug": "lincoln-mark2",
+  "name": "Continental Mark II",
+  "fullName": "Continental Mark II",
+  "brandId": "lincoln",
+  "bodyType": "coupe",
+  "segment": "ultra-luxury",
+  "primaryMarket": "global",
+  "startYear": 1956,
+  "isActive": true,
+  "description": "Ультра-люксовое персональное купе 1956-57гг., ручная сборка, не связано напрямую платформенно с последующими Mark III-V (общая только преемственность имени/позиционирования). 368cid (6.0L) V8, 285 л.с. Источник: общеизвестные данные по Continental Mark II.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:42:59.946Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/1956_Continental_Mark_II_-_midnight_blue_-_fvr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/1956_Continental_Mark_II_-_midnight_blue_-_fvr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:42:59.946Z"
+}

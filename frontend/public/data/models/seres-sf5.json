@@ -1,0 +1,20 @@
+{
+  "id": "sync-seres-sf5",
+  "slug": "seres-sf5",
+  "name": "Seres SF5",
+  "fullName": "Seres SF5",
+  "brandId": "seres",
+  "bodyType": "suv",
+  "segment": "crossover",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:49:16.367Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Seres_SF5_004.jpg/3840px-Seres_SF5_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Seres_SF5_004.jpg/3840px-Seres_SF5_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:49:16.367Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-navigator-l",
+  "slug": "navigator-l",
+  "name": "Navigator L",
+  "fullName": "Navigator L",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Удлинённая на 12 дюймов (30.5см) колёсная база версия Navigator — механически родственна Ford Expedition EL, реально появилась в MY2007 вместе с 3-м поколением (U324), а НЕ в 2003г. с Gen.2 — соответствующее ребро variant_of переключено с navigator-2 на navigator-3 (см. edgeFixes/newEdges). Мотор — 5.4L V8, 300 л.с. Источники: carfax.com (2007 Lincoln Navigator L review), autoevolution (Navigator L model years).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:56:26.692Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg/3840px-2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg/3840px-2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:56:26.693Z"
+}

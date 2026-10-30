@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-demio",
+  "slug": "mazda-demio",
+  "name": "Mazda2 DJ Phase II",
+  "fullName": "Mazda2 DJ Phase II",
+  "brandId": "mazda",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Рестайлинг DJ (MY2019-2020): новая решётка радиатора, обновлённая Mazda Connect (Apple CarPlay/Android Auto). Силовая линейка без изменений (SkyActiv-G 1.5, до 115 л.с.). Источник: Wikipedia (Mazda2), пресс-материалы Mazda.",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:19:07.879Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2000_Mazda_121_%28DW_Series_2%29_Metro_Shades_hatchback_%282016-01-04%29_01_%28cropped%29.jpg/3840px-2000_Mazda_121_%28DW_Series_2%29_Metro_Shades_hatchback_%282016-01-04%29_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2000_Mazda_121_%28DW_Series_2%29_Metro_Shades_hatchback_%282016-01-04%29_01_%28cropped%29.jpg/3840px-2000_Mazda_121_%28DW_Series_2%29_Metro_Shades_hatchback_%282016-01-04%29_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:19:07.879Z"
+}

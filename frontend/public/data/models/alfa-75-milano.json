@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-75-milano",
+  "slug": "alfa-75-milano",
+  "name": "Alfa Romeo 75 (Milano в Северной Америке)",
+  "fullName": "Alfa Romeo 75 (Milano в Северной Америке)",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "Последний заднеприводный седан Alfa (трансэксл-шасси Alfetta) перед переходом на передний привод. Имя \"75\" — в честь 75-летия марки; в Северной Америке (1987-89, только V6) продавалась как \"Milano\". 1.8 Turbo — 155PS топ-версия массовой линейки (были и V6 2.5-3.0, дизели).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:22.335Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:07:22.335Z"
+}

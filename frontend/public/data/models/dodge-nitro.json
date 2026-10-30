@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-nitro",
+  "slug": "dodge-nitro",
+  "name": "Dodge Nitro R/T",
+  "fullName": "Dodge Nitro R/T",
+  "brandId": "dodge",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Единственное поколение (2007-2011/2012), компактный внедорожник на платформе Jeep KK (общая с Jeep Liberty, которого пока нет в графе). Топ-трим R/T: 4.0L SOHC V6, 260 л.с. (по части источников 255), 265 lb-ft, 5-ст. АКПП, 0-60 за 6.6s. Источники: autoevolution, mycarspecs.com, theautochannel.com road test (доступ 2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:12:28.410Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dodge_Nitro_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dodge_Nitro_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:12:28.410Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-g70",
+  "slug": "genesis-g70",
+  "name": "G70 facelift",
+  "fullName": "G70 facelift",
+  "brandId": "genesis",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Рестайлинг (то же шасси IK, НЕ новое поколение) — Корея нояб. 2020, США MY2022 (осень 2021). Топ-мотор не изменился — 3.3T V6 365hp/376 lb-ft (Sport Prestige); сохранялся в продаже по MY2026 включительно. Genesis подтвердил снятие 3.3T с производства G70 начиная с MY2027 — впервые с 2017г. G70 останется только с турбо-I4. Базовый I4 в этом рестайлинге вырос с 252 до 300hp (2.5T сменил 2.0T), но это НЕ топ-мотор, поэтому не отражено на узле (политика 'только топ-трим'). Источники: motor1.com 'The Genesis G70 Is Losing Its Best Engine', carbuzz.com 'Genesis G70 Generations: Everything You Need To Know', autoevolution.com G70 2021-2022.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:53:13.368Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2022_Genesis_G70_2.0T_Prestige%2C_front_left%2C_09-09-2023.jpg/3840px-2022_Genesis_G70_2.0T_Prestige%2C_front_left%2C_09-09-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2022_Genesis_G70_2.0T_Prestige%2C_front_left%2C_09-09-2023.jpg/3840px-2022_Genesis_G70_2.0T_Prestige%2C_front_left%2C_09-09-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:53:13.369Z"
+}

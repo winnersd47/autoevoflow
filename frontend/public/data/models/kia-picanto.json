@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-picanto",
+  "slug": "kia-picanto",
+  "name": "Kia Picanto III (JA)",
+  "fullName": "Kia Picanto III (JA)",
+  "brandId": "kia",
+  "bodyType": "hatchback",
+  "segment": "city",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "Третье поколение (JA), в продаже с 2017. Базовый атмосферный 1.2 Kappa MPI — 84 л.с.; топовый турбомотор 1.0 T-GDI (GT-Line) — 100 л.с. Фейслифты 2020 и 2024 (второе крупное обновление) отдельными узлами не выделены.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:39:15.452Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018_Kia_Picanto_3_Automatic_1.2_Front.jpg/3840px-2018_Kia_Picanto_3_Automatic_1.2_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018_Kia_Picanto_3_Automatic_1.2_Front.jpg/3840px-2018_Kia_Picanto_3_Automatic_1.2_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:39:15.452Z"
+}

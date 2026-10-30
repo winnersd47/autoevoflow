@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-glb",
+  "slug": "mercedes-glb",
+  "name": "Mercedes-Benz GLB-Class X247",
+  "fullName": "Mercedes-Benz GLB-Class X247",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Компактный 7-местный кроссовер, дебют июнь 2019г. (Парк-Сити, Юта) — первый компакт-класс Mercedes с 3 рядами сидений, платформа MFA2 общая с GLA H247. GLB250 4MATIC — 224 л.с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:40:47.570Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2020_Mercedes-Benz_GLB_200_AMG_Line_Premium_2.0_Front.jpg/3840px-2020_Mercedes-Benz_GLB_200_AMG_Line_Premium_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2020_Mercedes-Benz_GLB_200_AMG_Line_Premium_2.0_Front.jpg/3840px-2020_Mercedes-Benz_GLB_200_AMG_Line_Premium_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:40:47.570Z"
+}

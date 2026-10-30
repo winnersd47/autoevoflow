@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-dune",
+  "slug": "rezvani-dune",
+  "name": "Rezvani Dune",
+  "fullName": "Rezvani Dune",
+  "brandId": "rezvani",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "7-unit off-road supercar on Lamborghini Huracan Sterrato. Supercharged 5.2L V10 (VF Engineering, ~190hp over stock N/A Sterrato), 4.5\" lift. Sand/mud/rock/Baja/snow modes. Mid-engine.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:02:22.073Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:02:22.073Z"
+}

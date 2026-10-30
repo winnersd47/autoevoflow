@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-murcielago-lp640-roadster",
+  "slug": "lamborghini-murcielago-lp640-roadster",
+  "name": "Lamborghini Murciélago LP640 Roadster",
+  "fullName": "Lamborghini Murciélago LP640 Roadster",
+  "brandId": "lamborghini",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Лос-Анджелес, янв. 2007 — открытая версия LP640, тот же увеличенный до 6.5Л V12 (640hp). Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:24:39.788Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lamborghini_Murci%C3%A9lago_LP-640_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lamborghini_Murci%C3%A9lago_LP-640_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:24:39.788Z"
+}

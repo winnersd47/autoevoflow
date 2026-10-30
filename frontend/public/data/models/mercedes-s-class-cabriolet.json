@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-s-class-cabriolet",
+  "slug": "mercedes-s-class-cabriolet",
+  "name": "Mercedes-Benz S-Class Cabriolet A217",
+  "fullName": "Mercedes-Benz S-Class Cabriolet A217",
+  "brandId": "mercedes",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "S-Class Cabriolet, 2015-2020г. — первый за долгое время 4-местный кабриолет флагманского класса Mercedes, на базе купе C217. S500 Cabriolet V8 — 456 л.с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:41:50.452Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_W223_IMG_6663.jpg/3840px-Mercedes-Benz_W223_IMG_6663.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mercedes-Benz_W223_IMG_6663.jpg/3840px-Mercedes-Benz_W223_IMG_6663.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:41:50.452Z"
+}

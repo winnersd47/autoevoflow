@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-terrain-3",
+  "slug": "gmc-terrain-3",
+  "name": "GMC Terrain",
+  "fullName": "GMC Terrain",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Третье поколение — полностью новый дизайн, визуально ближе к 'грузовому' языку Yukon/Acadia. Стартовала с комплектации Elevation в конце 2024г. как модель 2025г.; топовые AT4/Denali вышли как модели 2026г. Впервые единый мотор для всей линейки (включая Denali) — 1.5L турбо-4, 175hp/203 lb-ft, FWD или AWD с 8-ступенчатым автоматом. Источники: gmauthority.com/blog/2024/08/here-is-the-2025-gmc-terrain, news.gmc.com/newsroom.../0812-25terrain, autoblog.com/features/2025-gmc-terrain-next-generation-revealed, valleygmc.com/2026-gmc-terrain-specs. Год узла — 2025 (реальный старт поколения), а не 2026 (когда просто добавились старшие комплектации на той же платформе).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:13:59.158Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:13:59.158Z"
+}

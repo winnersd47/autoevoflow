@@ -1,0 +1,20 @@
+{
+  "id": "sync-pagani-huayra-codalunga-speedster",
+  "slug": "pagani-huayra-codalunga-speedster",
+  "name": "Pagani Huayra Codalunga Speedster",
+  "fullName": "Pagani Huayra Codalunga Speedster",
+  "brandId": "pagani",
+  "bodyType": "roadster",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Открытая (Speedster) версия купе Huayra Codalunga (2022, см. новый узел pagani-huayra-codalunga) — самый \"длиннохвостый\" Huayra, вдохновлён ретро-прототипами Ле-Мана 1960-х. Твин-турбо 6.0Л V12 AMG, 864 л.с. 5 экземпляров. Источник: a777aa77.ru, netcarshow.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:30:50.957Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:30:50.957Z"
+}

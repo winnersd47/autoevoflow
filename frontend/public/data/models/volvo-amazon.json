@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-amazon",
+  "slug": "volvo-amazon",
+  "name": "Volvo Amazon / 120",
+  "fullName": "Volvo Amazon / 120 (1956)",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1956,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:33:25.814Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Volvo_122_-_Flickr_-_mick_-_Lumix_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Volvo_122_-_Flickr_-_mick_-_Lumix_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:33:25.814Z"
+}

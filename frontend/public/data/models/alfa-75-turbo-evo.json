@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-75-turbo-evo",
+  "slug": "alfa-75-turbo-evo",
+  "name": "Alfa Romeo 75 Turbo Evoluzione",
+  "fullName": "Alfa Romeo 75 Turbo Evoluzione",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Гомологационная спецверсия Group A — ровно 500 экз., весна 1987г. Дорожная версия — те же 155PS 1.8 Turbo, но заводская гоночная подготовка Alfa Corse выжимала ~280hp. Кузов \"75 IMSA\" построен по амер. регламенту IMSA Endurance — но вопреки распространённому мифу в самой IMSA никогда не выступал: вместо этого дважды подряд (1988, 1989) выиграл итальянское ралли Giro d'Italia automobilistico с Риккардо Патрезе и Мики Бьязионом за рулём.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:07:25.078Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Alfa-Romeo_MiTO_%28Schaffhausen%2C_2021%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Alfa-Romeo_MiTO_%28Schaffhausen%2C_2021%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:07:25.078Z"
+}

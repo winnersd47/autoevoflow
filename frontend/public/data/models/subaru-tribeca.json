@@ -1,0 +1,20 @@
+{
+  "id": "sync-subaru-tribeca",
+  "slug": "subaru-tribeca",
+  "name": "Subaru Tribeca",
+  "fullName": "Subaru Tribeca",
+  "brandId": "subaru",
+  "bodyType": "suv",
+  "segment": "suv_midsize",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Рестайлинг (представлен на NY Auto Show апр. 2007, MY2008) — убран префикс \"B9\" из названия, новая решётка радиатора (ушли от спорной \"самолётной\" формы), увеличенный мотор EZ36 3.6L H6 — 256 л.с. Продавалась до 2014г., после чего линейку 3-рядных кроссоверов Subaru не возобновляла до запуска Ascent (2018). Источник: carweek.com (2008 facelift specs), Wikipedia (Subaru Tribeca).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:14:48.929Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/2006-2007_Subaru_Tribeca_%28B9_MY07%29_R_Premium_Pack_wagon_%282011-11-17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/2006-2007_Subaru_Tribeca_%28B9_MY07%29_R_Premium_Pack_wagon_%282011-11-17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:14:48.929Z"
+}

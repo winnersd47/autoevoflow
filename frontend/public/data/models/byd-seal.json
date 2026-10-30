@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-seal",
+  "slug": "byd-seal",
+  "name": "BYD Seal",
+  "fullName": "BYD Seal",
+  "brandId": "byd",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "e-Platform 3.0; конкурент Tesla Model 3; AWD 3.8s 0-100",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:27:00.105Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/BYD_Zhengzhou_All-Terrain_Circuit_entrance.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/BYD_Zhengzhou_All-Terrain_Circuit_entrance.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:27:00.105Z"
+}

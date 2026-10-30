@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-tecnica",
+  "slug": "lamborghini-huracan-tecnica",
+  "name": "Lamborghini Huracán Tecnica",
+  "fullName": "Lamborghini Huracán Tecnica",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Апр. 2022 — RWD-модель \"между\" EVO RWD и STO: трековые повадки STO, но комфорт и универсальность для повседневной езды. 640hp 5.2Л V10. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:21:00.357Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:21:00.357Z"
+}

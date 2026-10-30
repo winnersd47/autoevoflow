@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-ct6-v-blackwing",
+  "slug": "cadillac-ct6-v-blackwing",
+  "name": "Cadillac CT6-V Blackwing",
+  "fullName": "Cadillac CT6-V Blackwing",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Эксклюзивный финальный аккорд CT6 — первый серийный мотор семейства 'Blackwing': ручной сборки твин-турбо 4.2L V8, 550hp/627 lb-ft, 10-ст. АКПП, только AWD. Выпущен крайне ограниченно (~275 экз. на 2019-2020гг., производство CT6 полностью свёрнуто в феврале 2020г.). В отличие от CTS-V/CT5-V Blackwing (наддув компрессором LT4), здесь именно твин-турбо мотор нового поколения — engineType v8t (не v8s). Источник: carsdirect.com, bankspower.com, kbb.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:40.953Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/2024_Cadillac_CT5-V_AWD%2C_front_12.20.24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/2024_Cadillac_CT5-V_AWD%2C_front_12.20.24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:03:40.953Z"
+}

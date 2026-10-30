@@ -1,0 +1,20 @@
+{
+  "id": "sync-changan-raeton-plus",
+  "slug": "changan-raeton-plus",
+  "name": "Changan Raeton Plus",
+  "fullName": "Changan Raeton Plus",
+  "brandId": "changan",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "D-класс; база для Volga C40; 4786mm",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:24:37.944Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Changan_Raeton_Plus_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Changan_Raeton_Plus_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:24:37.944Z"
+}

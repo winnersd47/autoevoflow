@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-bt50",
+  "slug": "mazda-bt50",
+  "name": "Mazda BT-50 III",
+  "fullName": "Mazda BT-50 III",
+  "brandId": "mazda",
+  "bodyType": "pickup",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Mazda BT-50, 3-е поколение (представлена в 2020г.) — после завершения партнёрства с Ford Mazda перешла на платформу Isuzu D-Max (RG), выпускается Isuzu. Дизели 1.9L и 3.0L, топ ок. 190 л.с. (как донор Isuzu D-Max Gen.3). Источник: Wikipedia (Mazda BT-50), carsales.com.au.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:40:23.058Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2022_Mazda_BT-50_3.0d_Turbo_4x4_%28Chile%29_front_view.jpg/3840px-2022_Mazda_BT-50_3.0d_Turbo_4x4_%28Chile%29_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2022_Mazda_BT-50_3.0d_Turbo_4x4_%28Chile%29_front_view.jpg/3840px-2022_Mazda_BT-50_3.0d_Turbo_4x4_%28Chile%29_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:40:23.058Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-ats-v",
+  "slug": "cadillac-ats-v",
+  "name": "Cadillac ATS-V",
+  "fullName": "Cadillac ATS-V",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:17:45.906Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cadillac_ATS_2.0_Turbo_AWD_Premium_%E2%80%93_Frontansicht%2C_16._Oktober_2015%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Cadillac_ATS_2.0_Turbo_AWD_Premium_%E2%80%93_Frontansicht%2C_16._Oktober_2015%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:17:45.906Z"
+}

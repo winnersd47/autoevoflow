@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-bonneville",
+  "slug": "pontiac-bonneville",
+  "name": "Pontiac Bonneville SSEi",
+  "fullName": "Pontiac Bonneville SSEi",
+  "brandId": "pontiac",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1957,
+  "isActive": true,
+  "description": "Наддувный 3.8L V6 — топ-трим последних поколений (до 2005-го, конца модели).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:05:15.091Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pontiac_Bonneville_--_07-09-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Pontiac_Bonneville_--_07-09-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:05:15.091Z"
+}

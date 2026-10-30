@@ -1,0 +1,20 @@
+{
+  "id": "sync-jaguar-s-type",
+  "slug": "jaguar-s-type",
+  "name": "S-Type",
+  "fullName": "S-Type",
+  "brandId": "jaguar",
+  "bodyType": "sedan",
+  "segment": "executive",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:17:18.387Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/1999_Jaguar_S-Type.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/1999_Jaguar_S-Type.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:17:18.387Z"
+}

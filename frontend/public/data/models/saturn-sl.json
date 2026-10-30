@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-sl",
+  "slug": "saturn-sl",
+  "name": "Saturn SL",
+  "fullName": "Saturn SL (1990)",
+  "brandId": "saturn",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "Saturn's inaugural model. FWD polymer body panels. 1.9L SOHC/DOHC. S-series platform. Defined Saturn identity.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:13:24.619Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1995_Saturn_SL1_maroon%2C_front_right.jpg/3840px-1995_Saturn_SL1_maroon%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/1995_Saturn_SL1_maroon%2C_front_right.jpg/3840px-1995_Saturn_SL1_maroon%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:13:24.619Z"
+}

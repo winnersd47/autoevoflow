@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-typhoon",
+  "slug": "gmc-typhoon",
+  "name": "GMC Typhoon (культовый турбо-AWD SUV)",
+  "fullName": "GMC Typhoon (культовый турбо-AWD SUV)",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "performance",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "SUV-версия Syclone на базе компактного S-15 Jimmy (НЕ путать с полноразмерным gmc-jimmy-1 1970г. в этом графе — это другая, компактная платформа S-15/Sonoma), выпускался 1992-1993гг. (~2497 экз.). Тот же турбо 4.3L V6 LB4, 280hp/360 lb-ft (турбина Mitsubishi TD06, интеркулер Garrett), полный привод, 4-ступенчатый АКПП 4L60. Источники: automobile-catalog.com/car/1992/467435/gmc_typhoon.html, en.wikipedia.org/wiki/GMC_Typhoon. Связан с Syclone через shares_platform (общий турбо-привод), не через gmc-jimmy-1 — платформы разные, несмотря на совпадение названия 'Jimmy'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:15:08.827Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/GMC_Car_Dealership_in_Spearfish_-_South_Dakota_%2852204052745%29.jpg/3840px-GMC_Car_Dealership_in_Spearfish_-_South_Dakota_%2852204052745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/GMC_Car_Dealership_in_Spearfish_-_South_Dakota_%2852204052745%29.jpg/3840px-GMC_Car_Dealership_in_Spearfish_-_South_Dakota_%2852204052745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:15:08.827Z"
+}

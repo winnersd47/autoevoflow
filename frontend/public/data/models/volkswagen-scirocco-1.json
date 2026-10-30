@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-scirocco-1",
+  "slug": "volkswagen-scirocco-1",
+  "name": "Scirocco Mk1",
+  "fullName": "Scirocco Mk1",
+  "brandId": "volkswagen",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1974,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:02:38.290Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2015_Volkswagen_Scirocco_GT_BlueMotion_Tech_2.0.jpg/3840px-2015_Volkswagen_Scirocco_GT_BlueMotion_Tech_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2015_Volkswagen_Scirocco_GT_BlueMotion_Tech_2.0.jpg/3840px-2015_Volkswagen_Scirocco_GT_BlueMotion_Tech_2.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:02:38.290Z"
+}

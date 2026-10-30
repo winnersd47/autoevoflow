@@ -1,0 +1,20 @@
+{
+  "id": "sync-plymouth-barracuda",
+  "slug": "plymouth-barracuda",
+  "name": "Barracuda Gen.1",
+  "fullName": "Barracuda Gen.1",
+  "brandId": "plymouth",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1964,
+  "isActive": true,
+  "description": "Анкор поколения держит данные топового мотора launch-года — 'Commando 273' V8, 180 л.с. @ 4200 об/мин (2-камерный карбюратор); engineType исправлен с 'i6' на 'v8', т.к. ни одна версия рядной шестёрки в 1964 не давала 180 л.с. (101 л.с. 170 куб.дюйм либо позже 145 л.с. 225 куб.дюйм). Источники: driveshare.com, musclecarfacts.com '1964 Plymouth Barracuda'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:34:34.186Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/3840px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/3840px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:34:34.186Z"
+}

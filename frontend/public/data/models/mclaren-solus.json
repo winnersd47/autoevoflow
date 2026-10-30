@@ -1,0 +1,20 @@
+{
+  "id": "sync-mclaren-solus",
+  "slug": "mclaren-solus",
+  "name": "Solus GT",
+  "fullName": "Solus GT",
+  "brandId": "mclaren",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Изначально виртуальный концепт 'McLaren Ultimate Vision Gran Turismo' для видеоигры Gran Turismo Sport (2017г., дизайнер Alexander Alexiev); в реальную трек-версию Solus GT превращён только в 2022г. Одноместный, атмосферный 5.2 V10 (свыше 10000 об/мин), 840PS/829hp, вес менее 1000кг. Тираж 25 экз., все проданы; только для трека.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:30:10.600Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2023_McLaren_Solus_GT.jpg/3840px-2023_McLaren_Solus_GT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2023_McLaren_Solus_GT.jpg/3840px-2023_McLaren_Solus_GT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:30:10.600Z"
+}

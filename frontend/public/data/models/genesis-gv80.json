@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-gv80",
+  "slug": "genesis-gv80",
+  "name": "GV80",
+  "fullName": "GV80",
+  "brandId": "genesis",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Единственное поколение на сегодня — платформа JX1 (Hyundai-Kia 'M3'), премьера янв. 2020, Корея — продажи с марта 2020, США — MY2021 (сборка Ulsan Plant 2). Топ ДВС-мотор — 3.5L твин-турбо V6 Smartstream G3.5, 380PS/375hp/391 lb-ft (ранее узел нёс hp=300 — цифра базового 2.5T I4 — при уже верном engineType=v6t: классический случай 'мощность одного мотора приклеена к типу другого'). Фастбэк-вариант — см. gen-gv80-coupe. Источники: en.wikipedia.org Genesis GV80 (JX1, M3 platform), kbb.com '2021 Genesis GV80', motorweek.org '2021 Genesis GV80' road test.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:37:42.156Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg/3840px-2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg/3840px-2021_Genesis_GV80_3.5T_Advanced%2C_front_left%2C_09-09-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:37:42.157Z"
+}

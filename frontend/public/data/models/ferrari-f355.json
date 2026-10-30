@@ -12,10 +12,16 @@
   "isActive": false,
   "description": "The Ferrari F355 (1994–1999) is widely regarded as the finest driving Ferrari ever made. Its 375 hp 3.5-litre V8 with 8,250 rpm redline, F1-derived paddle-shift gearbox option, and near-perfect balance made it the benchmark sports car of its era.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "ferrari", "mid-engine", "v8", "classic"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ferrari_F355_Berlinetta_1X7A7333.jpg/3840px-Ferrari_F355_Berlinetta_1X7A7333.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Ferrari_F355_Berlinetta_1X7A7333.jpg/3840px-Ferrari_F355_Berlinetta_1X7A7333.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "coupe",
+    "ferrari",
+    "mid-engine",
+    "v8",
+    "classic"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z"
+  "updatedAt": "2026-10-29T15:21:55.042Z"
 }

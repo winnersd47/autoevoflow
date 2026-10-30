@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-mark8",
+  "slug": "lincoln-mark8",
+  "name": "Lincoln Mark VIII",
+  "fullName": "Lincoln Mark VIII",
+  "brandId": "lincoln",
+  "bodyType": "coupe",
+  "segment": "personal_luxury",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "Новая платформа FN10 (униборди, развитие линейки после Fox) — настоящее новое поколение. Официальное название впервые НЕ содержит слово \"Continental\" (просто \"Lincoln Mark VIII\") — смена брендинга при сохранении номерного ряда Mark. Первый серийный мотор Ford/Lincoln с DOHC 32-клапанной головой — 4.6L InTech V8, база 280 л.с., топовая комплектация LSC (с середины 1993г., настоящий двойной выхлоп) — 290 л.с./290 фунт-фут. Производство до июня 1998г., после чего серия Mark закрыта. Источники: Wikipedia (Lincoln Mark VIII), auto-data.net (Lincoln Mark VIII 4.6 LSC 290Hp), consumerguide.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:04:55.415Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/1998_Lincoln_Mark_VIII_LSC_in_red%2C_front_left.jpg/3840px-1998_Lincoln_Mark_VIII_LSC_in_red%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/1998_Lincoln_Mark_VIII_LSC_in_red%2C_front_left.jpg/3840px-1998_Lincoln_Mark_VIII_LSC_in_red%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:04:55.415Z"
+}

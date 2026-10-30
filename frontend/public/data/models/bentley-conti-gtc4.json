@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-conti-gtc4",
+  "slug": "bentley-conti-gtc4",
+  "name": "Bentley Continental GTC IV",
+  "fullName": "Bentley Continental GTC IV",
+  "brandId": "bentley",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "4-е поколение кабриолета, 2025. Базовая 'High Performance Hybrid'-версия — 670 л.с./680 PS (тот же гибридный V8, что и у купе). Топовая GTC Speed Hybrid (771 л.с./782 PS) впервые в истории Continental GTC запущена ОДНОВРЕМЕННО со Speed-купе (сентябрь 2024) — раньше кабриолет всегда отставал на 1-3 года. Крыша складывается на ходу до 50 км/ч. Источники: bentleymotors.com, edmunds.com, bentleyofranchomirage.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:34:32.939Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:34:32.939Z"
+}

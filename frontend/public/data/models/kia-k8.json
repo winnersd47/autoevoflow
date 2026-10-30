@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-k8",
+  "slug": "kia-k8",
+  "name": "Kia K8 Facelift",
+  "fullName": "Kia K8 Facelift",
+  "brandId": "kia",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Крупный рестайлинг K8 для корейского рынка, представлен 9 авг. 2024 (продажи с MY2025). Полностью новая передняя часть со сплошной LED-полосой между фар (стилистика EV9), вертикальная оптика, обновлённый салон. Линейка моторов сохранена без изменений: 2.5 I4 (~200 л.с.), 3.5 V6 (~300 л.с., указан анкором), гибрид 1.6T (~240 л.с. суммарно). source: autoblog, motor1, kedglobal, paultan (авг.2024).",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:22:42.149Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kia_K8_Hybrid_GL3_HEV_Snow_White_Pearl_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kia_K8_Hybrid_GL3_HEV_Snow_White_Pearl_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:22:42.149Z"
+}

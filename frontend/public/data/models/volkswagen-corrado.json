@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-corrado",
+  "slug": "volkswagen-corrado",
+  "name": "Corrado",
+  "fullName": "Corrado",
+  "brandId": "volkswagen",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:02:42.084Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/1993_Volkswagen_Corrado_SLC_in_Black%2C_front_left.jpg/3840px-1993_Volkswagen_Corrado_SLC_in_Black%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/1993_Volkswagen_Corrado_SLC_in_Black%2C_front_left.jpg/3840px-1993_Volkswagen_Corrado_SLC_in_Black%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:02:42.084Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-changan-uni-v",
+  "slug": "changan-uni-v",
+  "name": "Changan Uni-V",
+  "fullName": "Changan Uni-V",
+  "brandId": "changan",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:25:43.731Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Changan_UNI-V_IMG01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Changan_UNI-V_IMG01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:25:43.731Z"
+}

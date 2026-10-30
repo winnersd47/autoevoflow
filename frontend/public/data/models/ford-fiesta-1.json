@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-fiesta-1",
+  "slug": "ford-fiesta-1",
+  "name": "Fiesta Mk1",
+  "fullName": "Fiesta Mk1",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1976,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:00:15.346Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/1980_Ford_Fiesta_957_HC_L_-_20445599040_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/1980_Ford_Fiesta_957_HC_L_-_20445599040_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:00:15.346Z"
+}

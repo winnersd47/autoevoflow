@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-cortina",
+  "slug": "ford-cortina",
+  "name": "Cortina Mk1",
+  "fullName": "Cortina Mk1",
+  "brandId": "ford",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1962,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:08:40.816Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ford_Cortina_KTO959E.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ford_Cortina_KTO959E.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:08:40.816Z"
+}

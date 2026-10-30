@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-sts",
+  "slug": "cadillac-sts",
+  "name": "Cadillac STS",
+  "fullName": "Cadillac STS",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Сменил Seville в 2005г. — полностью новая платформа Sigma (RWD/AWD, архитектура общая с CTS/SRX того времени), принципиальный разрыв с переднеприводной K-платформой Seville. Два мотора: база 3.6L V6 (LY7) 255hp, топовый атмосферный Northstar 4.6L V8 (LH2) 320hp/315 lb-ft — в узле топовый неблэквиновый мотор. Источник: edmunds.com, gmauthority.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:02:33.313Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cadillac--STS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cadillac--STS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:02:33.313Z"
+}

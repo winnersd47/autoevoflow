@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-silver-spirit",
+  "slug": "rolls-royce-silver-spirit",
+  "name": "Silver Spirit",
+  "fullName": "Silver Spirit",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:33:53.072Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/YDV699_1982_Rolls_Royce_Silver_Spirit_Iii.jpg/3840px-YDV699_1982_Rolls_Royce_Silver_Spirit_Iii.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/YDV699_1982_Rolls_Royce_Silver_Spirit_Iii.jpg/3840px-YDV699_1982_Rolls_Royce_Silver_Spirit_Iii.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:33:53.072Z"
+}

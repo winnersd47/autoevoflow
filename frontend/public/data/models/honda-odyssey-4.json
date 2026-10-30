@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-odyssey-4",
+  "slug": "honda-odyssey-4",
+  "name": "Honda Odyssey (RL5)",
+  "fullName": "Honda Odyssey (RL5)",
+  "brandId": "honda",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "Четвёртое поколение — более округлый силуэт с фирменным штампованным изломом линии окон. V6 3.5L J35Z8 с VCM (деактивация до 3 цилиндров), 248 л.с./253Нм, 6-ст. АКПП (у топ-версии Touring Elite позже появилась 9-ст.). Последнее поколение Odyssey перед полным редизайном 2018 года (RC1).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:50:03.273Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toranomon_Alcea_Tower_26Dec2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Toranomon_Alcea_Tower_26Dec2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:50:03.273Z"
+}

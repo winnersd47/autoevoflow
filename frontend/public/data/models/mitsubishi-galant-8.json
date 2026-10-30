@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-galant-8",
+  "slug": "mitsubishi-galant-8",
+  "name": "Galant VR-4",
+  "fullName": "Galant VR-4",
+  "brandId": "mitsubishi",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:45:21.786Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/6thGalantVR-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/6thGalantVR-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:45:21.786Z"
+}

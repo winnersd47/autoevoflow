@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-taurus-6",
+  "slug": "ford-taurus-6",
+  "name": "Taurus Gen.6",
+  "fullName": "Taurus Gen.6",
+  "brandId": "ford",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:09:50.449Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2010_Ford_Taurus_Limited_1_--_10-31-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2010_Ford_Taurus_Limited_1_--_10-31-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:09:50.449Z"
+}

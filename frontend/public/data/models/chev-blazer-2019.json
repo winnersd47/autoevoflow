@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-blazer-2019",
+  "slug": "chev-blazer-2019",
+  "name": "Blazer 2019",
+  "fullName": "Blazer 2019",
+  "brandId": "chevrolet",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:10:44.859Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1979_Chevrolet_K5_Blazer_Cheyenne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/1979_Chevrolet_K5_Blazer_Cheyenne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:10:44.859Z"
+}

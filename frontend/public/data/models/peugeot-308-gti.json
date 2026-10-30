@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-308-gti",
+  "slug": "peugeot-308-gti",
+  "name": "308 GTi 270",
+  "fullName": "308 GTi 270",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:38:59.327Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG/3840px-1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG/3840px-1891_Peugeot_Type_3_Vis_%C3%A0_Vis_photo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:38:59.327Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-tiburon",
+  "slug": "hyundai-tiburon",
+  "name": "Hyundai Tiburon",
+  "fullName": "Hyundai Tiburon",
+  "brandId": "hyundai",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Второе поколение Tiburon (GK), 2001-2008 (рестайлинг 2005 в Корее продавался как Tuscani). Базовый 2.0L Beta II (138 л.с.), топовый 2.7L Delta V6 — 167-174 л.с. (опорное значение узла). Последнее поколение модели — в 2008-м заменено на Genesis Coupe.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:11:15.917Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/HyundaiMotorsCompany_KiaMotorsCompany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/HyundaiMotorsCompany_KiaMotorsCompany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:11:15.917Z"
+}

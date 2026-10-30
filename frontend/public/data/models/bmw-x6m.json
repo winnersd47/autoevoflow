@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-x6m",
+  "slug": "bmw-x6m",
+  "name": "BMW X6 M Competition (F96)",
+  "fullName": "BMW X6 M Competition (F96)",
+  "brandId": "bmw",
+  "bodyType": "suv",
+  "segment": "premium_suv",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "617 л.с. в топ-версии Competition (база F96 — 600 л.с.), 2020г.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:27:17.414Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_G06_IMG_3142.jpg/3840px-BMW_G06_IMG_3142.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_G06_IMG_3142.jpg/3840px-BMW_G06_IMG_3142.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:27:17.415Z"
+}

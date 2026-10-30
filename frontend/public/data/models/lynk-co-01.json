@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-01",
+  "slug": "lynk-co-01",
+  "name": "Lynk & Co 01",
+  "fullName": "Lynk & Co 01",
+  "brandId": "lynk-co",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "CMA-платформа (Volvo/Geely); первый Lynk & Co; подписная модель",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:30:28.010Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Lynk_%26_Co_Z20_007.jpg/3840px-Lynk_%26_Co_Z20_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Lynk_%26_Co_Z20_007.jpg/3840px-Lynk_%26_Co_Z20_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:30:28.010Z"
+}

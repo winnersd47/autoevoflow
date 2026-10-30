@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-alfasud",
+  "slug": "alfa-alfasud",
+  "name": "Alfa Romeo Alfasud",
+  "fullName": "Alfa Romeo Alfasud",
+  "brandId": "alfa-romeo",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1971,
+  "isActive": true,
+  "description": "Самая массовая модель в истории Alfa — 893719 седанов + 121434 купе Sprint. Оппозитный \"боксёр\" (инж. Рудольф Груска), 1.2-1.5L, топ-версии ti/Sprint до 105PS. Построена на новом заводе в Помильяно-д'Арко (Неаполь) — промышленно-политический проект итал. госхолдинга IRI для юга страны, отсюда и имя. Дизайн Джуджаро, отличная управляемость благодаря низкому центру тяжести боксёра — но переработанная сталь низкого качества и приморская влажность дали Alfa худшую в истории репутацию по коррозии.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:06:16.672Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1977_Alfa_Romeo_Alfasud_5M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/1977_Alfa_Romeo_Alfasud_5M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:06:16.672Z"
+}

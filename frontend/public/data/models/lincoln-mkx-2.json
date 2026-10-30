@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-mkx-2",
+  "slug": "lincoln-mkx-2",
+  "name": "Lincoln MKX",
+  "fullName": "Lincoln MKX",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "midsize_luxury_suv",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "ВАЖНАЯ находка: у MKX было ДВА поколения, а не одно — в графе было только MKX Gen.1 (2007, CD3) с прямым ребром evolves_into сразу в Nautilus (2019), что пропускало реально существовавшее 2-е поколение (баг «пропуск поколения»). 2-е поколение представлено на автошоу в янв. 2015г., полный редизайн на НОВОЙ платформе CD4 (общей с Ford Edge) — новый кузов, интерьер, адаптивные амортизаторы. База — атмосферный 3.5L V6, топ — новый 2.7L EcoBoost twin-turbo V6, 335 л.с./380 фунт-фут (в узле — топ). В 2019г. переименован в Nautilus БЕЗ смены платформы (та же CD4) — поэтому ребро MKX Gen.2→Nautilus должно быть facelifted_to (рестайлинг/ребрендинг), а НЕ evolves_into. Источники: edmunds.com (2016 Lincoln MKX review), automobile-catalog.com (2016-18 Lincoln MKX 2.7L EcoBoost 335hp), Wikipedia (Lincoln Nautilus — \"is the MKX with a new nameplate\").",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:07.912Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lincoln_MKX_2.7T_AWD_Reserve_U540_White_Platinum_Metallic_Tri-coat_%288%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lincoln_MKX_2.7T_AWD_Reserve_U540_White_Platinum_Metallic_Tri-coat_%288%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:05:07.912Z"
+}

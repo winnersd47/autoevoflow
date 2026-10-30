@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-cooper-se",
+  "slug": "mini-cooper-se",
+  "name": "Mini Cooper SE",
+  "fullName": "Mini Cooper SE (2019)",
+  "brandId": "mini",
+  "bodyType": "hatchback",
+  "segment": "city",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:05:50.840Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mini_Hatch_%28F56%29_Electric_IMG_2679.jpg/3840px-Mini_Hatch_%28F56%29_Electric_IMG_2679.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mini_Hatch_%28F56%29_Electric_IMG_2679.jpg/3840px-Mini_Hatch_%28F56%29_Electric_IMG_2679.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:05:50.840Z"
+}

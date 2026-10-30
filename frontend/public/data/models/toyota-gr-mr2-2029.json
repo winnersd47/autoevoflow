@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-gr-mr2-2029",
+  "slug": "toyota-gr-mr2-2029",
+  "name": "Toyota GR MR2",
+  "fullName": "Toyota GR MR2",
+  "brandId": "toyota",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2029,
+  "isActive": true,
+  "description": "Rumoured mid-engine revival of the MR2 nameplate under the GR performance sub-brand",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:20:20.253Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/1993ToyotaMR2Hardtop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/1993ToyotaMR2Hardtop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:20:20.253Z"
+}

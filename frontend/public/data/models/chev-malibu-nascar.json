@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-malibu-nascar",
+  "slug": "chev-malibu-nascar",
+  "name": "Chevrolet Malibu NASCAR",
+  "fullName": "Chevrolet Malibu NASCAR",
+  "brandId": "chevrolet",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "Кузов NASCAR Winston Cup 1973-1983 (сменён Monte Carlo). 25 побед за 1973-77гг., чемпионская машина Кейла Йборо 1977г. (команда Junior Johnson). ~530hp — типичная цифра для стандартного 350-358ci small-block той эры (топ-команды выжимали до 560-570hp); точные заводские цифры конкретно для этого шасси не публиковались.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:01:19.426Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_02112024.jpg/3840px-Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_02112024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_02112024.jpg/3840px-Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_02112024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:01:19.426Z"
+}

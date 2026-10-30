@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-fiero",
+  "slug": "pontiac-fiero",
+  "name": "Pontiac Fiero GT",
+  "fullName": "Pontiac Fiero GT",
+  "brandId": "pontiac",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "V6 2.8L (сначала LH7, позже LB8) вместо базового 2.5L Iron Duke I4 (92 л.с.) — 135 л.с./160 фунто-футов, жёстче подвеска и шире резина. Доступен с 1985г. Финальный 1988г. получил полностью новую, более острую подвеску (пространственная рама) и кузовные панели — тот же V6. Источник: slashgear.com (Pontiac Fiero GT), motogallery.com (1985-1988 Pontiac Fiero GT).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:04:12.579Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fiero88.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fiero88.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:04:12.579Z"
+}

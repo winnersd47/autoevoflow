@@ -1,0 +1,20 @@
+{
+  "id": "sync-mkz",
+  "slug": "mkz",
+  "name": "MKZ",
+  "fullName": "MKZ",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "midsize_luxury",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "2-е поколение (2013-2020), платформа CD4. Старт: 2.0L turbo I4 (240 л.с., база) и 3.7L V6 (300 л.с.), плюс гибрид 2.0L (188 л.с.). Фейслифт 2017г. (то же поколение/платформа) добавил эксклюзивный 3.0L twin-turbo V6 — 400 л.с./400 фунт-фут, доступный только с AWD — самый мощный Lincoln на тот момент, указан в узле как пиковая модификация. Источники: thetorquereport.com, edmunds.com (2017 Lincoln MKZ review).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:56:22.624Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lincoln_MKZ_%282007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lincoln_MKZ_%282007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T17:56:22.624Z"
+}

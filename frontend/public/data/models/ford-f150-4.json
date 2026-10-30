@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-4",
+  "slug": "ford-f150-4",
+  "name": "Ford F-150 Gen.4",
+  "fullName": "Ford F-150 Gen.4",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "Четвёртое поколение (1961-66) — компактнее и ниже предшественника. V8 292ci Y-block — 160hp опционально (рядная 6-ка 223ci — базовая). В 1965г. (середина цикла) дебютировала независимая передняя подвеска Twin-I-Beam — визитная карточка грузовиков Ford на десятилетия вперёд.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:39.503Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:39.503Z"
+}

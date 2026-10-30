@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-b-class",
+  "slug": "mercedes-b-class",
+  "name": "Mercedes-Benz B-Class W247",
+  "fullName": "Mercedes-Benz B-Class W247",
+  "brandId": "mercedes",
+  "bodyType": "hatchback",
+  "segment": "premium_compact",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Третье и последнее поколение B-Class, 2018-2022г., платформа MFA2 общая с A-Class W177. B200 — ок. 163 л.с. (линейка 95-224 л.с.). Производство завершено в 2022г., прямого преемника не выпущено.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:38:04.936Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mercedes-Benz_B_200_CDI_Sport-Paket_%28W_246%29_%E2%80%93_Frontansicht%2C_21._April_2014%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Mercedes-Benz_B_200_CDI_Sport-Paket_%28W_246%29_%E2%80%93_Frontansicht%2C_21._April_2014%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:38:04.936Z"
+}

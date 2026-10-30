@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-patriot",
+  "slug": "jeep-patriot",
+  "name": "Jeep Patriot",
+  "fullName": "Jeep Patriot",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Бюджетный компакт-кроссовер — платформенный близнец Compass MK1 (общая платформа GS), топовый мотор 2.4L World Engine 172 л.с./224 Нм (база — 2.0L 158 л.с.), офроад-пакет Freedom Drive II. Снят с производства в 2017-м без прямого преемника — ранее полностью отсутствовал в графе. Источники: cars.com, encycarpedia.com, carsdirect.com (2007-2017).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:55:24.072Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jeep_Patriot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jeep_Patriot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:55:24.072Z"
+}

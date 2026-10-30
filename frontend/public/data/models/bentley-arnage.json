@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-arnage",
+  "slug": "bentley-arnage",
+  "name": "Arnage",
+  "fullName": "Arnage",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:40:48.464Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bentley_Arnage_R_%28Facelift%29_%E2%80%93_Frontansicht_%281%29%2C_3._September_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bentley_Arnage_R_%28Facelift%29_%E2%80%93_Frontansicht_%281%29%2C_3._September_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:40:48.464Z"
+}

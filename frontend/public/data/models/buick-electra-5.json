@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-electra-5",
+  "slug": "buick-electra-5",
+  "name": "Buick Electra Gen.5",
+  "fullName": "Buick Electra Gen.5",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Масштабное уменьшение размеров, отказ от 455. Топ-мотор — Oldsmobile-built 403cid V8, 190hp (межд-дивизионный обмен моторами GM в эпоху нефтяного кризиса). Источник: carbuzz.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:37.785Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg/3840px-2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg/3840px-2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:06:37.785Z"
+}

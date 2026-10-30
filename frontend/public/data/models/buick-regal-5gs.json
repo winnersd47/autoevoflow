@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-5gs",
+  "slug": "buick-regal-5gs",
+  "name": "Buick Regal GS",
+  "fullName": "Buick Regal GS",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "Возрождение Regal в США после паузы (не продавался в 2005-2010гг.) — на основе Opel Insignia A (платформа Epsilon II), прямой бейдж-инженеринг для рынка США/Канады. GS — топ-трим, 2.0L turbo Ecotec, 270hp/295 фунт-фут, опционально полный привод Haldex с 2013г. Источник: thedrive.com (The Fifth-Gen Buick Regal GS).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:14.753Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:14.753Z"
+}

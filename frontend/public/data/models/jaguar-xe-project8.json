@@ -1,0 +1,20 @@
+{
+  "id": "sync-jaguar-xe-project8",
+  "slug": "jaguar-xe-project8",
+  "name": "XE SV Project 8",
+  "fullName": "XE SV Project 8",
+  "brandId": "jaguar",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "AJ133 5.0L SC 600 л.с.; 300 экз. мировые + 8 гоночных; Нюрбургринг 7:21.23 (2017) — рекорд седана; карбоновые панели кузова; трек-пакет с клетью безопасности",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:35:16.329Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg/3840px-1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg/3840px-1989_Jaguar_XJS_Convertible_in_Signal_Red%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:35:16.329Z"
+}

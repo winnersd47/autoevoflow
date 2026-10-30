@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-ss-nascar",
+  "slug": "chev-ss-nascar",
+  "name": "Chevrolet SS NASCAR Cup",
+  "fullName": "Chevrolet SS NASCAR Cup",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Кузов NASCAR Sprint Cup/Monster Energy Cup 2013-2017 (правила Gen6, тот же общий 358ci мотор, что и у сменившей его Camaro ZL1). Сменил Impala SS. 2 титула: Кевин Харвик (2014), Джимми Джонсон (2016, рекордный для эры 7-й титул). 70 побед за карьеру. Связь с дорожным Chevrolet SS — только внешняя стилизация (решётка/фонари), не механика — шасси НАСКАРовское трубчатое, единое для всех марок.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:03:45.405Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chevrolet_SS_%2812057799956%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chevrolet_SS_%2812057799956%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:03:45.405Z"
+}

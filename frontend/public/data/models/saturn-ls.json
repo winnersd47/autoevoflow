@@ -1,0 +1,20 @@
+{
+  "id": "sync-saturn-ls",
+  "slug": "saturn-ls",
+  "name": "Saturn L-Series",
+  "fullName": "Saturn L-Series (1999)",
+  "brandId": "saturn",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "Larger GM Epsilon platform sedan/wagon. 2.2L Ecotec I4 or 3.0L V6. Competed with Camry/Accord.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:14:31.031Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg/3840px-2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg/3840px-2000-2002_Saturn_L-Series%2C_front_4.18.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:14:31.031Z"
+}

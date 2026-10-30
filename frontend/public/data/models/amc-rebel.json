@@ -1,0 +1,20 @@
+{
+  "id": "sync-amc-rebel",
+  "slug": "amc-rebel",
+  "name": "AMC Rebel \"The Machine\"",
+  "fullName": "AMC Rebel \"The Machine\"",
+  "brandId": "amc",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "Единственный год выпуска (1970) — маслкар-версия Rebel SST, разработанная совместно с Hurst. Мотор 390 куб.дюйм V8, 340 л.с. @ 5100 об/мин, 430 фунт-фут; обязательная 4-ст. МКПП Hurst, ось 3.54:1. Построено 2326 экз.; культовая красно-бело-синяя 'патриотическая' ливрея с тахометром на капоте — самый узнаваемый вариант окраски, хотя позже предлагались и другие цвета. Источники: musclecars.howstuffworks.com '1970 AMC Rebel Machine: A Profile of a Muscle Car', silodrome.com, hagerty.com valuation tools.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:17:12.579Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/1968_AMC_Rebel_Station_Wagon-GoldWhite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/1968_AMC_Rebel_Station_Wagon-GoldWhite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:17:12.579Z"
+}

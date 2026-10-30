@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-diablo-sv",
+  "slug": "lamborghini-diablo-sv",
+  "name": "Lamborghini Diablo SV",
+  "fullName": "Lamborghini Diablo SV",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "1995 — заднеприводная спортивная версия (RWD), более острая, чем AWD-версия VT, 510hp на старте (позже, к 1998г., модернизирована до 530hp вместе с VT). Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:25:56.050Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:25:56.050Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-bravo",
+  "slug": "lamborghini-bravo",
+  "name": "Lamborghini Bravo",
+  "fullName": "Lamborghini Bravo",
+  "brandId": "lamborghini",
+  "bodyType": "concept",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1974,
+  "isActive": true,
+  "description": "Дизайн-студия Bertone (Гандини) — Турин 1974, на укороченном (-175мм базы) шасси Urraco P300, 3.0Л V8, ~300hp. Клиновидный язык форм задумывался как преемник Urraco → лёг в основу серийного Silhouette (1976) → Jalpa (1981). ⚠️ Urraco/Silhouette/Jalpa ОТСУТСТВУЮТ в графе (отдельная историческая дыра) — оставлен корневым узлом до их добавления.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:47:52.078Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lamborghini_Bravo_1974_schr%C3%A4g_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lamborghini_Bravo_1974_schr%C3%A4g_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:47:52.078Z"
+}

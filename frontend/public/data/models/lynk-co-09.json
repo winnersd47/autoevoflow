@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-09",
+  "slug": "lynk-co-09",
+  "name": "Lynk & Co 09",
+  "fullName": "Lynk & Co 09",
+  "brandId": "lynk-co",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Флагманский 3-рядный SUV (до Z10) — на платформе SPA2, общей со 2-м поколением Volvo XC90 (\"удешевлённый XC90\" по оценке прессы). 2.0Т, диапазон версий 254hp (MHEV) — 431hp (PHEV) — 512hp (EM-P Voyage Edition), полный привод во всех версиях.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:25.100Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:57:25.100Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-s70-v70",
+  "slug": "volvo-s70-v70",
+  "name": "Volvo S70",
+  "fullName": "Volvo S70",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Переименованный седан 850 (с 1997г.) на платформе P80 — тот же мотор, что и у универсала V70 (см. volvo-v70-1). Ранее в графе хранился как объединённый узел 'S70/V70'; разделён на отдельные седан/универсал по аналогии с принятой конвенцией для более поздних поколений (S60/V60, S90/V90).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:07:14.804Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Volvo_S70_--_02-29-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Volvo_S70_--_02-29-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:07:14.804Z"
+}

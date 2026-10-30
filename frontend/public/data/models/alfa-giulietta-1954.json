@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-giulietta-1954",
+  "slug": "alfa-giulietta-1954",
+  "name": "Alfa Romeo Giulietta",
+  "fullName": "Alfa Romeo Giulietta (1954)",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1954,
+  "isActive": true,
+  "description": "Первая по-настоящему массовая модель Alfa (177690 экз.) — частично профинансирована через публичную облигационную лотерею, вывела фирму из почти-банкротного состояния. Первый серийный алюминиевый DOHC-мотор Alfa 1.3L (\"Twin Cam\"). Кузова: Berlina (седан), Sprint-купе (Bertone), Spider (Pininfarina); топ-версия Sprint Zagato/SZ — 118PS, всего 217 экз. Заложила формулу \"компактная спортивная Alfa\", которую позже унаследовала Giulia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:06:14.840Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg/3840px-1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg/3840px-1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:06:14.840Z"
+}

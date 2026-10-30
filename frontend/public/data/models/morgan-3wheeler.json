@@ -1,0 +1,20 @@
+{
+  "id": "sync-morgan-3wheeler",
+  "slug": "morgan-3wheeler",
+  "name": "3 Wheeler",
+  "fullName": "3 Wheeler",
+  "brandId": "morgan",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2011,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:50:41.820Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Morgan_3-Wheeler%2C_front_left_%28Amagansett%29.jpg/3840px-Morgan_3-Wheeler%2C_front_left_%28Amagansett%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Morgan_3-Wheeler%2C_front_left_%28Amagansett%29.jpg/3840px-Morgan_3-Wheeler%2C_front_left_%28Amagansett%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:50:41.820Z"
+}

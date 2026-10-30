@@ -1,0 +1,20 @@
+{
+  "id": "sync-peugeot-207",
+  "slug": "peugeot-207",
+  "name": "Peugeot 207",
+  "fullName": "Peugeot 207",
+  "brandId": "peugeot",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Base-поколение между 206(1998) и 208(2012) — ранее полностью отсутствовало в графе (разрыв в цепочке суперминивэнов 205-206-207-208). Базовый мотор 1.4 VTi ~95 л.с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:17:41.272Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2002_Peugeot_206_LX_1.4_Front.jpg/3840px-2002_Peugeot_206_LX_1.4_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2002_Peugeot_206_LX_1.4_Front.jpg/3840px-2002_Peugeot_206_LX_1.4_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:17:41.272Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-century-2",
+  "slug": "buick-century-2",
+  "name": "Buick Century Gen.2",
+  "fullName": "Buick Century Gen.2",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "Уменьшение размеров в 1978г. (тот же цикл, что и у Riviera/LeSabre/Electra), кузов остаётся заднеприводным. Диапазон моторов 90-175hp, топ — V8 305/350, 175hp. Источник: iseecars.com (Buick Century Generations).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:07:52.819Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_SAIC-GM_Buick_GL8_Century.jpg/3840px-2023_SAIC-GM_Buick_GL8_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2023_SAIC-GM_Buick_GL8_Century.jpg/3840px-2023_SAIC-GM_Buick_GL8_Century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:07:52.819Z"
+}

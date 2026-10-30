@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-clio-4-rs-200",
+  "slug": "renault-clio-4-rs-200",
+  "name": "Renault Clio IV RS 200 Turbo EDC",
+  "fullName": "Renault Clio IV RS 200 Turbo EDC",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Clio IV перешёл на даунсайзинг-турбо 1.6 (замена атмосферных 2.0 16V), только робот EDC (без МКПП). Ранее у Clio IV в графе не было НИ ОДНОЙ RS-ноды. Источник: ultimatespecs.com, autocar.co.uk.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:20:12.062Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/RenaultClioV6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:20:12.062Z"
+}

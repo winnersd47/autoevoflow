@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-raptor",
+  "slug": "ford-f150-raptor",
+  "name": "F-150 Raptor",
+  "fullName": "F-150 Raptor",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:58:58.236Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Edit_-1-19_%2854248040892%29_%28cropped%29.jpg/3840px-Edit_-1-19_%2854248040892%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Edit_-1-19_%2854248040892%29_%28cropped%29.jpg/3840px-Edit_-1-19_%2854248040892%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:58:58.236Z"
+}

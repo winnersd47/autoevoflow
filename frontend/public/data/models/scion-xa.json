@@ -1,0 +1,20 @@
+{
+  "id": "sync-scion-xa",
+  "slug": "scion-xa",
+  "name": "Scion xA",
+  "fullName": "Scion xA (2003)",
+  "brandId": "scion",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "Subcompact hatch. Toyota Ist platform. 1.5L VVT-i 103 HP. US youth-brand launch model alongside xB.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:16:47.818Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/06-Scion-xA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/06-Scion-xA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:16:47.818Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-plymouth-gtx",
+  "slug": "plymouth-gtx",
+  "name": "GTX",
+  "fullName": "GTX",
+  "brandId": "plymouth",
+  "bodyType": "coupe",
+  "segment": "muscle_car",
+  "primaryMarket": "global",
+  "startYear": 1967,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:55:15.051Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/1970_Plymouth_GTX.jpg/3840px-1970_Plymouth_GTX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/1970_Plymouth_GTX.jpg/3840px-1970_Plymouth_GTX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:55:15.051Z"
+}

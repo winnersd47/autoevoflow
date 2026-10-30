@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-st-4",
+  "slug": "ford-focus-st-4",
+  "name": "Ford Focus ST Mk4",
+  "fullName": "Ford Focus ST Mk4",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "2.3L EcoBoost I4, 276hp/310lb-ft (420Нм), 0-62 за 5.7с (МКПП); впервые для ST доступна опция 7-АКПП. Топ-версия поколения Mk4 — Focus RS для Mk4 официально ОТМЕНЁН Ford в апреле 2020: пан-европейские нормы CO2/выбросов сделали нерентабельной разработку гибридной AWD-версии при таких объёмах продаж. Поэтому в графе нет узла Focus RS Mk4 — это не пробел в данных, а исторический факт (подтверждено Ford, Auto Express, Autocar, апрель 2020).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:54:57.789Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ford_Focus_Trend_%28III%29_%E2%80%93_Frontansicht%2C_17._September_2011%2C_Ratingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ford_Focus_Trend_%28III%29_%E2%80%93_Frontansicht%2C_17._September_2011%2C_Ratingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:54:57.789Z"
+}

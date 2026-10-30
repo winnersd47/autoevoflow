@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-8",
+  "slug": "ford-f150-8",
+  "name": "Ford F-150 Gen.8",
+  "fullName": "Ford F-150 Gen.8",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1987,
+  "isActive": true,
+  "description": "Восьмое поколение (1987-91, аэродинамический рестайл кузова — \"скруглённый нос\") — впервые электронный впрыск топлива (EFI) на бензиновых V8. 4.9L рядная 6-ка — база; V8 5.0L (302ci) с EFI — 185hp; топовый V8 7.5L (460ci) и два дизельных V8 в гамме.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:45.296Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:45.296Z"
+}

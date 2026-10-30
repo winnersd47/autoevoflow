@@ -1,0 +1,20 @@
+{
+  "id": "sync-geely-atlas",
+  "slug": "geely-atlas",
+  "name": "Geely Atlas",
+  "fullName": "Geely Atlas",
+  "brandId": "geely",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:28:06.304Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Geely_Group_Building_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Geely_Group_Building_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:28:06.304Z"
+}

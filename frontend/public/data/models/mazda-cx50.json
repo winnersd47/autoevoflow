@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-cx50",
+  "slug": "mazda-cx50",
+  "name": "CX-50 Turbo",
+  "fullName": "CX-50 Turbo",
+  "brandId": "mazda",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "CX-50 Turbo: SkyActiv-G 2.5 Turbo — 227 л.с. на 87-м бензине / 256 л.с. на рекомендуемом 93-м, 320 Нм. Отдельно существует CX-50 Hybrid (219 л.с., на основе гибридной системы Toyota) — не выделена отдельным узлом как не являющаяся отдельным поколением/топ-тримом в духе MPS/Turbo. Источник: mazdausa.com, jerryseinermazda.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:13:35.020Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/3840px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/3840px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:13:35.020Z"
+}

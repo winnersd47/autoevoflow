@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-gv70-electrified",
+  "slug": "genesis-gv70-electrified",
+  "name": "GV70 Electrified",
+  "fullName": "GV70 Electrified",
+  "brandId": "genesis",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Электромодификация GV70 на платформе E-GMP — США с MY2023. 429hp/516 lb-ft в стандартном режиме, Boost Mode кратковременно поднимает до 483hp. Батарея 77.4 кВтч, запас хода EPA 236 миль. Источники: kbb.com '2023 Electrified GV70 Specs', aaa.com '2023 Genesis Electrified GV70 AWD Prestige'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:37:40.337Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Genesis_GV70_IAA_2021_1X7A0228.jpg/3840px-Genesis_GV70_IAA_2021_1X7A0228.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Genesis_GV70_IAA_2021_1X7A0228.jpg/3840px-Genesis_GV70_IAA_2021_1X7A0228.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:37:40.337Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-gtv",
+  "slug": "gtv",
+  "name": "Alfa Romeo GTV EV",
+  "fullName": "Alfa Romeo GTV EV",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "sport",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:25:14.580Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Alfa_Romeo_GTV_20TB-Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Alfa_Romeo_GTV_20TB-Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:25:14.580Z"
+}

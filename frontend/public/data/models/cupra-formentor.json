@@ -1,0 +1,20 @@
+{
+  "id": "sync-cupra-formentor",
+  "slug": "cupra-formentor",
+  "name": "Cupra Formentor",
+  "fullName": "Cupra Formentor (2020)",
+  "brandId": "cupra",
+  "bodyType": "suv",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:12:05.437Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cupra_Formentor_IMG_9668.jpg/3840px-Cupra_Formentor_IMG_9668.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Cupra_Formentor_IMG_9668.jpg/3840px-Cupra_Formentor_IMG_9668.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:12:05.437Z"
+}

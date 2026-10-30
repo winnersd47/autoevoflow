@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-sp3jc",
+  "slug": "ferrari-sp3jc",
+  "name": "Ferrari SP3JC",
+  "fullName": "Ferrari SP3JC",
+  "brandId": "ferrari",
+  "bodyType": "roadster",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "One-off — чистый родстер без крыши и лобового стекла на агрегатах F12tdf, заказан коллекционером в дань уважения родстерам Ferrari 1950-60х годов. Передан заказчику в ноябре 2018. Механика F12tdf без изменений (780 л.с.).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:17:15.471Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:17:15.471Z"
+}

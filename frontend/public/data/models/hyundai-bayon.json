@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-bayon",
+  "slug": "hyundai-bayon",
+  "name": "Hyundai Bayon",
+  "fullName": "Hyundai Bayon",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "Полностью новое 2-е поколение (не рестайлинг) — мировая премьера на Парижском автосалоне в октябре 2026, продажи — 2027. Длиннее на 65 мм (4245 мм) и шире на 35 мм, более угловатый «внедорожный» дизайн, два изогнутых экрана 12.3\", Digital Key 2.0. На старте 1.0 T-GDi 90/115 л.с. (в hp — топ), в 2027 добавится первый полный гибрид 1.6 HEV 138 л.с. Источник: motor1.com, autoevolution.com (2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:18:19.910Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/2021_Hyundai_Bayon_Premium_T-GDi_MHEV_1.0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/2021_Hyundai_Bayon_Premium_T-GDi_MHEV_1.0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:18:19.910Z"
+}

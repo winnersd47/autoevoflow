@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-panda",
+  "slug": "fiat-panda",
+  "name": "Fiat Grande Panda",
+  "fullName": "Fiat Grande Panda",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "city_car",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "Полностью новая платформа (Stellantis Smart Car, общая с Citroën C3/ë-C3), крупнее прежней Panda, кроссоверный дизайн. Гибрид (MHEV) — 1.2Л турбо I3 48В, 100hp. Есть и электроверсия — 113hp, батарея 44кВтч, запас хода 320км.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:23:48.046Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Fiat_Grande_Panda_Elektro_La_Prima_%E2%80%93_f_01062025.jpg/3840px-Fiat_Grande_Panda_Elektro_La_Prima_%E2%80%93_f_01062025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Fiat_Grande_Panda_Elektro_La_Prima_%E2%80%93_f_01062025.jpg/3840px-Fiat_Grande_Panda_Elektro_La_Prima_%E2%80%93_f_01062025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:23:48.046Z"
+}

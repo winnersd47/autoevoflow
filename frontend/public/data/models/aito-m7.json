@@ -1,0 +1,20 @@
+{
+  "id": "sync-aito-m7",
+  "slug": "aito-m7",
+  "name": "Aito M7 Pro",
+  "fullName": "Aito M7 Pro",
+  "brandId": "aito",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:02:37.645Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/AITO_M9_II_005.jpg/3840px-AITO_M9_II_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/AITO_M9_II_005.jpg/3840px-AITO_M9_II_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:02:37.645Z"
+}

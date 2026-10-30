@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-wagoneer-sj",
+  "slug": "jeep-wagoneer-sj",
+  "name": "Jeep Grand Wagoneer",
+  "fullName": "Jeep Grand Wagoneer",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Топ-трим финальных лет SJ — культовая деревянная облицовка DI-NOC, кожа, полный привод Selec-Trac NP229; 5.9L (360 cu in) V8 144 л.с. (SAE net)/380 Нм — ниже, чем у ранних 1960-х версий того же SJ из-за норм токсичности 1980-х, а не из-за меньшего объёма. Имя вдохновило возрождённый Grand Wagoneer WS (2021). Источники: automobile-catalog.com (данные идентичны для 1984/1985/1987 м.г.).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:55:22.000Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg/3840px-2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg/3840px-2022_Jeep_Grand_Wagoneer_Series_III_in_Bright_White_and_Black%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:55:22.000Z"
+}

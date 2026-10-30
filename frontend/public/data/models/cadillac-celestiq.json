@@ -1,0 +1,20 @@
+{
+  "id": "sync-cadillac-celestiq",
+  "slug": "cadillac-celestiq",
+  "name": "Cadillac Celestiq",
+  "fullName": "Cadillac Celestiq",
+  "brandId": "cadillac",
+  "bodyType": "sedan",
+  "segment": "ultra_luxury",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "$340k+; ручная сборка; 4 зоны Smart Glass крыши; 111 кВтч; AWD 600 л.с.; флагман GM; конкурент Rolls-Royce Spectre и Mercedes EQS Maybach",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:35:14.401Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2025_Cadillac_Celestiq_%22Vale%22%2C_front_right_%28Greenwich_2025%29.jpg/3840px-2025_Cadillac_Celestiq_%22Vale%22%2C_front_right_%28Greenwich_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2025_Cadillac_Celestiq_%22Vale%22%2C_front_right_%28Greenwich_2025%29.jpg/3840px-2025_Cadillac_Celestiq_%22Vale%22%2C_front_right_%28Greenwich_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:35:14.401Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-retro-rr1",
+  "slug": "rezvani-retro-rr1",
+  "name": "Rezvani Retro RR1",
+  "fullName": "Rezvani Retro RR1",
+  "brandId": "rezvani",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Rezvani Retro sub-brand. Porsche 935-inspired body on Porsche 911 (992). 750 HP Turbo S flat-6. 50 units. 0-60 in 2.0s.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:03:26.439Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:03:26.439Z"
+}

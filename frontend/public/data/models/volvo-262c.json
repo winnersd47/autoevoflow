@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-262c",
+  "slug": "volvo-262c",
+  "name": "Volvo 262C Bertone",
+  "fullName": "Volvo 262C Bertone",
+  "brandId": "volvo",
+  "bodyType": "coupe",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1977,
+  "isActive": true,
+  "description": "Эксклюзивное 2-дверное купе на удлинённой базе 240/260, кузов строило ателье Bertone (Турин) — крыша на 50мм ниже обычного седана 264, виниловое покрытие крыши. Мотор PRV V6 (совместная разработка Peugeot-Renault-Volvo): 2.7л/140 л.с. в 1977-79гг., с 1980г. — 2.8л/155 л.с. Всего выпущено 6622 экз. за 1977-1981 — самый узнаваемый и статусный вариант линейки 240/260 (флагманский трим для узла volvo-244). Источники: Wikipedia (Volvo 262C), autoevolution, Hagerty valuation guide.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:58:49.976Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/1978_Volvo_262_Coup%C3%A9_Bertone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/1978_Volvo_262_Coup%C3%A9_Bertone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:58:49.976Z"
+}

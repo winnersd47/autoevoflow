@@ -1,0 +1,20 @@
+{
+  "id": "sync-isuzu-gemini-2",
+  "slug": "isuzu-gemini-2",
+  "name": "Isuzu Gemini Gen.2",
+  "fullName": "Isuzu Gemini Gen.2 (1985)",
+  "brandId": "isuzu",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1985,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:38:13.038Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Isuzu_FF_Gemini_CC_JT150.jpg/3840px-Isuzu_FF_Gemini_CC_JT150.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Isuzu_FF_Gemini_CC_JT150.jpg/3840px-Isuzu_FF_Gemini_CC_JT150.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:38:13.038Z"
+}

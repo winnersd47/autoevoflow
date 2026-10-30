@@ -12,12 +12,17 @@
   "isActive": false,
   "description": "The Maserati Merak (1972–1983) shared the Bora's distinctive body shell but used a smaller 3.0-litre V6 engine from the Citroën SM. A more accessible mid-engine Maserati, the Merak SS variant later received 220 hp and proper sport credentials.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "maserati", "classic", "heritage"],
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Maserati_Mod%C3%A8ne_0002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Maserati_Mod%C3%A8ne_0002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "tags": [
+    "coupe",
+    "maserati",
+    "classic",
+    "heritage"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:26:32.297Z",
   "generations": [
     {
       "id": "gen-maserati-merak-1",
@@ -30,9 +35,15 @@
       "endYear": 1983,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "description": "The Maserati Merak (1972–1983) shared the Bora's distinctive body shell but used a smaller 3.0-litre V6 engine from the Citroën SM. A more accessible mid-engine Maserati, the Merak SS variant later received 220 hp and proper sport credentials.",
       "thumbnailUrl": "",
       "heroImageUrl": "",

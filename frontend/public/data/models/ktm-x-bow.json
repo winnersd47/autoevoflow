@@ -1,0 +1,20 @@
+{
+  "id": "sync-ktm-x-bow",
+  "slug": "ktm-x-bow",
+  "name": "KTM X-Bow",
+  "fullName": "KTM X-Bow",
+  "brandId": "ktm",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Audi 2.0 TFSI турбо-4 (общий донор с TT/A4), открытая 2-местная карбоновая капсула без крыши/дверей.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:05:58.860Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/KTMX-Bow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/KTMX-Bow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:05:58.860Z"
+}

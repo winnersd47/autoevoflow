@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-silver-seraph",
+  "slug": "rolls-royce-silver-seraph",
+  "name": "Silver Seraph",
+  "fullName": "Silver Seraph",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:34:55.027Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rolls_Royce_Silver_Shadow_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Rolls_Royce_Silver_Shadow_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:34:55.027Z"
+}

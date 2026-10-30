@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-amg-one",
+  "slug": "mercedes-amg-one",
+  "name": "AMG ONE",
+  "fullName": "AMG ONE",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:31:27.222Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Mercedes-Benz_AMG_Vision_Gran_Turismo_DSC_8431.jpg/3840px-Mercedes-Benz_AMG_Vision_Gran_Turismo_DSC_8431.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Mercedes-Benz_AMG_Vision_Gran_Turismo_DSC_8431.jpg/3840px-Mercedes-Benz_AMG_Vision_Gran_Turismo_DSC_8431.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:31:27.222Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-smart-3",
+  "slug": "smart-3",
+  "name": "Smart #3",
+  "fullName": "Smart #3 (2023)",
+  "brandId": "smart",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Coupe-SUV variant of #1. SEA platform, sloping fastback. BRABUS 428 HP. 455 km WLTP.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:19:16.341Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg/3840px-2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg/3840px-2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:19:16.341Z"
+}

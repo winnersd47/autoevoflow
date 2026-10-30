@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-electra-2",
+  "slug": "buick-electra-2",
+  "name": "Buick Electra Gen.2",
+  "fullName": "Buick Electra Gen.2",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "Новый кузов 1961г. (уменьшены \"плавники\", как и у LeSabre). Единственный мотор — 401cid Nailhead V8, 325hp. Источник: howstuffworks.com (1961-1962 Buick Electra).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:32.803Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg/3840px-2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg/3840px-2023_SAIC-GM_Buick_Electra_E5_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:06:32.803Z"
+}

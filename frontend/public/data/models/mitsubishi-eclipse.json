@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-eclipse",
+  "slug": "mitsubishi-eclipse",
+  "name": "Eclipse GT",
+  "fullName": "Eclipse GT",
+  "brandId": "mitsubishi",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "isActive": true,
+  "description": "",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:21:29.077Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2023_Mitsubishi_Eclipse_Cross_SEL_Touring%2C_front_left.jpg/3840px-2023_Mitsubishi_Eclipse_Cross_SEL_Touring%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2023_Mitsubishi_Eclipse_Cross_SEL_Touring%2C_front_left.jpg/3840px-2023_Mitsubishi_Eclipse_Cross_SEL_Touring%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:21:29.077Z"
+}

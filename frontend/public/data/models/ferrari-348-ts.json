@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-348-ts",
+  "slug": "ferrari-348-ts",
+  "name": "348 ts",
+  "fullName": "348 ts",
+  "brandId": "ferrari",
+  "bodyType": "targa",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1989,
+  "isActive": true,
+  "description": "Targa Spider (ts) — версия со съёмной крышей и характерными боковыми жабрами-воздухозаборниками, в продаже с осени 1989 одновременно с tb. 4228 экз. против 2894 у tb — самая массовая версия поколения. Тот же 3.4Л V8, 300 л.с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:14:38.570Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Prancing_horse.svg/330px-Prancing_horse.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:14:38.570Z"
+}

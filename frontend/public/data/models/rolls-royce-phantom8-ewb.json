@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-phantom8-ewb",
+  "slug": "rolls-royce-phantom8-ewb",
+  "name": "Phantom VIII EWB",
+  "fullName": "Phantom VIII EWB",
+  "brandId": "rolls-royce",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:44:33.291Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/3840px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg/3840px-2019_Rolls-Royce_Phantom_V12_Automatic_6.75.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:44:33.291Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-z10",
+  "slug": "lynk-co-z10",
+  "name": "Lynk & Co Z10",
+  "fullName": "Lynk & Co Z10 (2024)",
+  "brandId": "lynk-co",
+  "bodyType": "sedan",
+  "segment": "flagship",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:47:55.238Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:47:55.238Z"
+}

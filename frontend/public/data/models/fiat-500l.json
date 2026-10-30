@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-500l",
+  "slug": "fiat-500l",
+  "name": "Fiat 500L",
+  "fullName": "Fiat 500L",
+  "brandId": "fiat",
+  "bodyType": "mpv",
+  "segment": "compact_mpv",
+  "primaryMarket": "global",
+  "startYear": 2012,
+  "isActive": true,
+  "description": "Увеличенный практичный кузов (мини-минивэн) на платформе 500 (2007). Базовый мотор — 0.9Т TwinAir, 105PS/104hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:52:32.355Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fiat_500_%282007%29_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fiat_500_%282007%29_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:52:32.355Z"
+}

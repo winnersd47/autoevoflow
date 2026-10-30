@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-willys",
+  "slug": "jeep-willys",
+  "name": "Willys MB",
+  "fullName": "Willys MB (1941)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1941,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:57:23.933Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kelly_Jeep_Chrysler_Dealership.jpg/3840px-Kelly_Jeep_Chrysler_Dealership.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kelly_Jeep_Chrysler_Dealership.jpg/3840px-Kelly_Jeep_Chrysler_Dealership.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:57:23.933Z"
+}

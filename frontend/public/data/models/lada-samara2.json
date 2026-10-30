@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-samara2",
+  "slug": "lada-samara2",
+  "name": "Lada Samara-2 (ВАЗ-2113/2114/2115)",
+  "fullName": "Lada Samara-2 (ВАЗ-2113/2114/2115)",
+  "brandId": "lada",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Глубокий рестайлинг 1-й Самары (новые бамперы/оптика/торпедо, тот же передний привод). Три кузова вышли на конвейер не одновременно: седан 2115 (опытная серия 1997, главный конвейер 2001, до дек.2012), 5-дв хэтчбек 2114 (2001, до дек.2013), 3-дв хэтчбек 2113 (2004-2013). Моторы: 1.5л/77лс (11183) и 1.6л 8-кл/81лс (21114/2116) до 2007г, позже 1.6л 16-кл/89лс (21124); указан самый массовый — 1.6л 8-кл.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:25:15.829Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Lada_%287906566374%29_%282%29.jpg/3840px-Lada_%287906566374%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Lada_%287906566374%29_%282%29.jpg/3840px-Lada_%287906566374%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:25:15.829Z"
+}

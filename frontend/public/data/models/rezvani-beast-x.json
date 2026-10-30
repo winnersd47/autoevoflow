@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-beast-x",
+  "slug": "rezvani-beast-x",
+  "name": "Rezvani Beast X",
+  "fullName": "Rezvani Beast X",
+  "brandId": "rezvani",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "700 HP twin-turbo Cosworth 2.5L on Ariel Atom chassis. Limited 5 units. $325K.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:59:55.502Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:59:55.502Z"
+}

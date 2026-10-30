@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-cabrio-r52",
+  "slug": "mini-cabrio-r52",
+  "name": "Mini Cabrio R52",
+  "fullName": "Mini Cabrio R52 (2004)",
+  "brandId": "mini",
+  "bodyType": "convertible",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "First BMW MINI convertible. Cloth soft-top. R52 platform shared with R50. 1.6L One/Cooper/Cooper S.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:58.962Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/3840px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg/3840px-Mini_Hatch_%28J01%29_Ditzingen_Mobil_IMG_9772_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:10:58.962Z"
+}

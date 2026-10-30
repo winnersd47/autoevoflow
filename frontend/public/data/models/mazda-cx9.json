@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-cx9",
+  "slug": "mazda-cx9",
+  "name": "Mazda CX-9 Gen.2",
+  "fullName": "Mazda CX-9 Gen.2 (2016)",
+  "brandId": "mazda",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:58:08.047Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mazda_EZ-60_EREV_China_2026-03-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mazda_EZ-60_EREV_China_2026-03-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:58:08.047Z"
+}

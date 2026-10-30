@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-granturismo-modena-facelift",
+  "slug": "maserati-granturismo-modena-facelift",
+  "name": "Maserati GranTurismo Mk2 Modena Facelift",
+  "fullName": "Maserati GranTurismo Mk2 Modena Facelift",
+  "brandId": "maserati",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "\"Ультраконсервативный\" рестайлинг для базового Modena — мощность БЕЗ изменений (490hp), только внешность/салон. Рестайлинг 2027: новые воздухозаборники передка со щелями для отвода погранслоя, аэродинамические шторки (профиль по CFD), центральный сплиттер, светлые линзы задних фонарей, обновлённый салон (цифровая панель, руль с гоночными акцентами, PRND-селектор с металлической отделкой и тактильной отдачей).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:45:23.047Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:45:23.047Z"
+}

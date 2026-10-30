@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-g90",
+  "slug": "genesis-g90",
+  "name": "G90 Gen.2",
+  "fullName": "G90 Gen.2",
+  "brandId": "genesis",
+  "bodyType": "sedan",
+  "segment": "ultra_luxury",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "2-е поколение (RS4) — дизайн раскрыт 30 нояб. 2021, продажи в Корее с сер. дек. 2021, глобально/США — конфигуратор и первые поставки с авг. 2022 под маркой MY2023 (отсюда year приведён к 2021 — году корейского старта продаж, для единообразия с соседними узлами типа GV60; старое year=2022 расходилось с собственным label='(2023)'). Топ-мотор — 3.5T V6 'e-Supercharger' (48V мягкий гибрид, MHEV), 409hp/405 lb-ft; обычный негибридный 3.5T даёт 375hp/391 lb-ft. Подтверждённого варианта G90 с 425hp НЕ существует — это была ошибочная цифра; верно 409hp, и мотор гибридный, поэтому engineType исправлен с 'v6t' на 'v6h'. Источники: hooniverse.com '2023 Genesis G90 3.5T E-Supercharger AWD', hyundaimotorgroup.com 'Everything About the 3.5 Turbo 48V Supercharger', kedglobal.com G90 sales history, motorauthority.com G90 redesign timeline.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:54:17.724Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Genesis_G90_3.5T_RS4_Savile_Silver_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Genesis_G90_3.5T_RS4_Savile_Silver_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:54:17.724Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-trans-am",
+  "slug": "pontiac-trans-am",
+  "name": "Pontiac Trans Am SD-455",
+  "fullName": "Pontiac Trans Am SD-455",
+  "brandId": "pontiac",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1969,
+  "isActive": true,
+  "description": "Super Duty 455 — единственный по-настоящему 'злой' мотор эпохи топливного кризиса и ужесточения норм выбросов. Изначально заявлен 310 л.с., но Pontiac пересмотрел профиль распредвала под нормы и официально снизил рейтинг до 290 л.с. (net)/390 фунто-футов. 1974г. — последний год SD-455 перед резким падением мощности Trans Am к концу 1970-х. Источник: automobile-catalog.com (1973 Pontiac Firebird Trans Am SD-455), asphalt.fandom.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:58:00.696Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TransAm1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TransAm1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:58:00.696Z"
+}

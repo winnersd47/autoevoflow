@@ -1,0 +1,20 @@
+{
+  "id": "sync-gaz-volga-24",
+  "slug": "gaz-volga-24",
+  "name": "Волга ГАЗ-24-10",
+  "fullName": "Волга ГАЗ-24-10",
+  "brandId": "gaz",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:50:51.947Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%93%D0%90%D0%97_24_IMG_8516.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/%D0%93%D0%90%D0%97_24_IMG_8516.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T14:50:51.947Z"
+}

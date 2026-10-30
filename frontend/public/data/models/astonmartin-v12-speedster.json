@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-v12-speedster",
+  "slug": "astonmartin-v12-speedster",
+  "name": "Aston Martin V12 Speedster",
+  "fullName": "Aston Martin V12 Speedster",
+  "brandId": "astonmartin",
+  "bodyType": "roadster",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "Reveal 4 марта 2020, поставки с Q1 2021. Двухместный барчетта-родстер без крыши и лобового стекла на доработанной бондированной алюминиевой платформе DBS Superleggera с элементами передней подвески Vantage (2018). 5.2Т V12, 700hp/555lb-ft, 0-62 за 3.5с, макс. 186mph (ограничено электронно). Тираж 88 экземпляров, от £765,000.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:28:31.320Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2019_Aston_Martin_Vantage_V8_Automatic_4.0_%281%29.jpg/3840px-2019_Aston_Martin_Vantage_V8_Automatic_4.0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2019_Aston_Martin_Vantage_V8_Automatic_4.0_%281%29.jpg/3840px-2019_Aston_Martin_Vantage_V8_Automatic_4.0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:28:31.320Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-alphard-3",
+  "slug": "toyota-alphard-3",
+  "name": "Alphard (3-е пок.)",
+  "fullName": "Alphard (3-е пок.)",
+  "brandId": "toyota",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:13:36.245Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Toyota_ALPHARD_Z_%28AGH40W%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Toyota_ALPHARD_Z_%28AGH40W%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:13:36.245Z"
+}

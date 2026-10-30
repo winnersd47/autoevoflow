@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-giulia-veloce",
+  "slug": "alfa-romeo-giulia-veloce",
+  "name": "Alfa Romeo Giulia Veloce / Ti",
+  "fullName": "Alfa Romeo Giulia Veloce / Ti",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Верхняя ступень обычной (не Quadrifoglio) Giulia — тот же турбо 2.0 I4, что у базы, но в форсировке 280hp вместо 200hp, обязательно с полным приводом Q4. Veloce — международное название спортивного трима (жёсткая подвеска, лепестки переключения передач, крупные тормоза); Ti — американское название ТОГО ЖЕ силового агрегата с акцентом на комфорт/отделку вместо спортивного характера (по аналогии с парой имён '75/Milano' для одной машины на разных рынках в этом графе). Не путать с Quadrifoglio (510hp би-турбо V6) — следующая, принципиально иная ступень.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:38:16.275Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alfa_Romeo_GT_1300_Junior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alfa_Romeo_GT_1300_Junior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:38:16.275Z"
+}

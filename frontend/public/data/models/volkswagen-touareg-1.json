@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-touareg-1",
+  "slug": "volkswagen-touareg-1",
+  "name": "Touareg I",
+  "fullName": "Touareg I",
+  "brandId": "volkswagen",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:02:43.894Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/3840px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/3840px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:02:43.894Z"
+}

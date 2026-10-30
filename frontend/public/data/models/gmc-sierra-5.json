@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-sierra-5",
+  "slug": "gmc-sierra-5",
+  "name": "GMC Sierra",
+  "fullName": "GMC Sierra",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Узел отражает ожидаемое/спекулятивное поколение 2027 модельного года (по аналогии с parallel-узлом chev-silverado-5). Официальных характеристик GM не публиковал на момент аудита (окт. 2026) — hp/engineType заданы по аналогии с текущим Gen.4 Denali до официального анонса.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:48:52.988Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/2022_Chevrolet_Silverado_2500HD_High_Country%2C_Front_Left%2C_11-21-2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:48:52.988Z"
+}

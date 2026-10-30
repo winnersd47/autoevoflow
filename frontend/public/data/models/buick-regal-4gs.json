@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-regal-4gs",
+  "slug": "buick-regal-4gs",
+  "name": "Buick Regal GS",
+  "fullName": "Buick Regal GS",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Рестайлинг платформы W-body (новый кузов, та же архитектура, что и у Century того периода). Впервые с 1987г. вернулась supercharged-версия — Regal GS, 3800 Series II (L67), 240hp/280 фунт-фут. Источник: automobile-catalog.com (1998 Buick Regal GS), gmauthority.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:09:13.283Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg/3840px-2020_Buick_Regal_Sportback_%28United_States%29_front_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:09:13.283Z"
+}

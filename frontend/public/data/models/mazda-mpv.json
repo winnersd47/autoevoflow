@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-mpv",
+  "slug": "mazda-mpv",
+  "name": "Mazda MPV II",
+  "fullName": "Mazda MPV II",
+  "brandId": "mazda",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1988,
+  "isActive": true,
+  "description": "Mazda MPV, 2-е поколение (LW), 1999-2006 — переход на переднеприводную платформу. Топ-мотор 3.0L V6 — до 200 л.с. (ранние версии — 2.5L V6, 170 л.с.). Снята с производства в Сев. Америке после MY2006 — сегмент минивэнов в США заменён кроссовером CX-9 (2007). Источник: Wikipedia (Mazda MPV).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:13:40.795Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mazda_MPV_303.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mazda_MPV_303.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:13:40.795Z"
+}

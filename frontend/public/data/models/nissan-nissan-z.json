@@ -11,8 +11,8 @@
   "isActive": true,
   "description": "The newly six-speed-manual-equipped Z NISMO sees its MSRP jump $1,000, however; all models get chassis updates",
   "generationCount": 1,
-  "heroImageUrl": "",
-  "thumbnailUrl": "",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Datsun_240Z_mfd_1970_registered_January_1971_per_dvla_2393cc.jpg/3840px-Datsun_240Z_mfd_1970_registered_January_1971_per_dvla_2393cc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Datsun_240Z_mfd_1970_registered_January_1971_per_dvla_2393cc.jpg/3840px-Datsun_240Z_mfd_1970_registered_January_1971_per_dvla_2393cc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "new",
     "2027"
@@ -22,5 +22,5 @@
   "isLatest": true,
   "scrapedAt": "2026-07-24T10:10:44.410Z",
   "createdAt": "2026-07-24T10:10:54.580Z",
-  "updatedAt": "2026-07-24T10:10:54.580Z"
+  "updatedAt": "2026-10-29T17:59:49.590Z"
 }

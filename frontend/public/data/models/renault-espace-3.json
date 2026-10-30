@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-espace-3",
+  "slug": "renault-espace-3",
+  "name": "Renault Espace III",
+  "fullName": "Renault Espace III",
+  "brandId": "renault",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Первый Espace на платформе, разделённой с Safrane; топ-мотор 3.0 V6 24V.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:34:39.865Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/3840px-2015-present_Renault_Espace_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/3840px-2015-present_Renault_Espace_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:34:39.865Z"
+}

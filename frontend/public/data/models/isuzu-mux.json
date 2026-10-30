@@ -1,0 +1,20 @@
+{
+  "id": "sync-isuzu-mux",
+  "slug": "isuzu-mux",
+  "name": "Isuzu MU-X Gen.1",
+  "fullName": "Isuzu MU-X Gen.1 (2013)",
+  "brandId": "isuzu",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:39:28.143Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Isuzu_MU-X_LS-M_%28II%2C_Facelift%29_%E2%80%93_f_02012026.jpg/3840px-Isuzu_MU-X_LS-M_%28II%2C_Facelift%29_%E2%80%93_f_02012026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Isuzu_MU-X_LS-M_%28II%2C_Facelift%29_%E2%80%93_f_02012026.jpg/3840px-Isuzu_MU-X_LS-M_%28II%2C_Facelift%29_%E2%80%93_f_02012026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:39:28.143Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-nio-ec7",
+  "slug": "nio-ec7",
+  "name": "NIO EC7",
+  "fullName": "NIO EC7",
+  "brandId": "nio",
+  "bodyType": "coupe_suv",
+  "segment": "crossover",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:52:46.073Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/%28CHN-Guangdong%29_Private_Nio_EC7_%E7%B2%A4BBY61xx_2024-05-25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/%28CHN-Guangdong%29_Private_Nio_EC7_%E7%B2%A4BBY61xx_2024-05-25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:52:46.073Z"
+}

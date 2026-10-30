@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-maybach-gls",
+  "slug": "mercedes-maybach-gls",
+  "name": "Maybach GLS 600",
+  "fullName": "Maybach GLS 600",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "ultra-luxury",
+  "primaryMarket": "global",
+  "startYear": 2020,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:32:34.790Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mercedes_Maybach_57_and_62.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mercedes_Maybach_57_and_62.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:32:34.790Z"
+}

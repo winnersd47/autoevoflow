@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-laferrari-aperta",
+  "slug": "ferrari-laferrari-aperta",
+  "name": "LaFerrari Aperta",
+  "fullName": "LaFerrari Aperta",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:07:22.274Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg/3840px-LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg/3840px-LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:07:22.274Z"
+}

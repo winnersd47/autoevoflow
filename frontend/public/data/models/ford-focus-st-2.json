@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-st-2",
+  "slug": "ford-focus-st-2",
+  "name": "Ford Focus ST Mk2",
+  "fullName": "Ford Focus ST Mk2",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "2.5L турбо I5 (та же архитектура, что у Volvo), 320Нм/236lb-ft, 6-МКПП, 0-62 за 6.8с, 150mph.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:55:03.995Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ford_Focus_Trend_%28III%29_%E2%80%93_Frontansicht%2C_17._September_2011%2C_Ratingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ford_Focus_Trend_%28III%29_%E2%80%93_Frontansicht%2C_17._September_2011%2C_Ratingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:55:03.995Z"
+}

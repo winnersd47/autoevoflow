@@ -1,0 +1,20 @@
+{
+  "id": "sync-smart-forfour-2",
+  "slug": "smart-forfour-2",
+  "name": "Smart Forfour Gen.2",
+  "fullName": "Smart Forfour Gen.2 (2014)",
+  "brandId": "smart",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Renault Twingo III platform (rear-engine). 0.9L turbo 90 HP. 4-seat Smart. Electric Fortwo/Forfour launched 2017.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:19:12.401Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/2015_Smart_Forfour_Prime_Premium_T_900cc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/2015_Smart_Forfour_Prime_Premium_T_900cc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:19:12.401Z"
+}

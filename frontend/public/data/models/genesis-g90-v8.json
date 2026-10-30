@@ -1,0 +1,20 @@
+{
+  "id": "sync-genesis-g90-v8",
+  "slug": "genesis-g90-v8",
+  "name": "G90 5.0 Ultimate",
+  "fullName": "G90 5.0 Ultimate",
+  "brandId": "genesis",
+  "bodyType": "sedan",
+  "segment": "ultra_luxury",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Флагманский мотор 1-го поколения (HI/EQ900) — атмосферный 5.0L Tau V8, 420hp/383 lb-ft (отдельные источники указывают 413-420hp в пересчёте PS→hp по рынку), трим '5.0 Ultimate'. Доступен с запуска линейки, без изменений мощности пережил рестайлинг 2018/2019г. (gen-g90-2). Источники: auto-data.net 'Genesis G90/EQ900 I 5.0 GDi V8 (413 Hp)', autoevolution.com G90 2016.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:43:55.175Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Genesis_G90_3.5T_RS4_Savile_Silver_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Genesis_G90_3.5T_RS4_Savile_Silver_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:43:55.175Z"
+}

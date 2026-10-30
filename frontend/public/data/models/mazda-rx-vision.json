@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-rx-vision",
+  "slug": "mazda-rx-vision",
+  "name": "RX-Vision",
+  "fullName": "RX-Vision",
+  "brandId": "mazda",
+  "bodyType": "coupe",
+  "segment": "concept",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Концепт-кар Токийского автосалона 2015: передний мотор/задний привод, дизайн Kodo, ротор SkyActiv-R (не был доведён до серии, мощность официально не публиковалась). Представлял надежды на возрождение роторного спорткара после снятия RX-8 в 2012г.; серийной версии не последовало. Источник: Wikipedia (Mazda RX-Vision), motor1.com, drivingline.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:56:26.413Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg/3840px-1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:56:26.413Z"
+}

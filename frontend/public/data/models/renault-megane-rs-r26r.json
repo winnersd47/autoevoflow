@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-megane-rs-r26r",
+  "slug": "renault-megane-rs-r26r",
+  "name": "Renault Megane II RS R26.R",
+  "fullName": "Renault Megane II RS R26.R",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Облегчённая версия R26 для Нюрбургринга — 450 экземпляров, та же мощность 230hp, но без заднего сиденья/шумоизоляции. Предок концепции Trophy-R для след. поколений. Источник: Wikipedia Renault Mégane RS.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:20:18.291Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:20:18.291Z"
+}

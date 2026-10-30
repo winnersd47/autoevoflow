@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-genesis-bh",
+  "slug": "hyundai-genesis-bh",
+  "name": "Hyundai Genesis",
+  "fullName": "Hyundai Genesis (2009)",
+  "brandId": "hyundai",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:46:15.140Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/HyundaiMotorsCompany_KiaMotorsCompany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/HyundaiMotorsCompany_KiaMotorsCompany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:46:15.140Z"
+}

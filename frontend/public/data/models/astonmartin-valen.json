@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-valen",
+  "slug": "astonmartin-valen",
+  "name": "Aston Martin Valen",
+  "fullName": "Aston Martin Valen",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Официально дебютировал на Monterey Car Week (авг. 2026). Построен на базе Vanquish, но легче и мощнее — самый мощный переднемоторный серийный автомобиль в мире по заявлению Aston Martin. 5.2Т V12, 838 л.с. (850PS), 0-60 за 3.0с, 214 mph. Лимитированная серия — 150 экземпляров. Фиксированное заднее стекло, монолитная крышка багажника вместо люка.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:11:03.199Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/27_Aston_Martin_Valen_PBC26_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/27_Aston_Martin_Valen_PBC26_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:11:03.199Z"
+}

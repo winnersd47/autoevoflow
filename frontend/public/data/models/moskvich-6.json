@@ -1,0 +1,20 @@
+{
+  "id": "sync-moskvich-6",
+  "slug": "moskvich-6",
+  "name": "Москвич 6",
+  "fullName": "Москвич 6",
+  "brandId": "moskvich",
+  "bodyType": "liftback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Ребейдж JAC Sehol A5 Plus (не JS6 — это сплав лифтбека Sehol A5 и \"оспортивленного\" Sehol Yao, донор представлен в КНР в 2021г). Кузов — лифтбек с поднимающейся дверью багажника, хотя в ОТТС ошибочно указан как \"5-дверный седан\". Представлен в апреле 2023г.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:24:10.732Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Moskvich_Duet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Moskvich_Duet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T20:24:10.732Z"
+}

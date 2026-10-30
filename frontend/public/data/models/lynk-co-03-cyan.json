@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-03-cyan",
+  "slug": "lynk-co-03-cyan",
+  "name": "Lynk & Co 03+ Cyan",
+  "fullName": "Lynk & Co 03+ Cyan",
+  "brandId": "lynk-co",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Серийная дорожная версия — совсем другая машина, чем рекордный Concept 2019г. (261hp против 528hp — дорожный сертифицированный мотор, не трек-спец). AWD (не FWD, как у концепта), 380Нм, 8-АКПП, 250км/ч, 1620кг.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:28.893Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:57:28.893Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-plymouth-duster",
+  "slug": "plymouth-duster",
+  "name": "Duster 340",
+  "fullName": "Duster 340",
+  "brandId": "plymouth",
+  "bodyType": "coupe",
+  "segment": "muscle_car",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "hp исправлен с 240 на 275: 240 л.с. — это рейтинг SAE net того же мотора 340 куб.дюйм, появившийся только с 1972 модельного года (после перехода отрасли с gross на net методику замера); для заявленного в узле 1970 модельного года паспортная (gross) мощность — 275 л.с. @ 5000 об/мин, 340 фунт-фут. Источник: automobile-catalog.com performance review '1970 Plymouth Duster 340'.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:55:16.907Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/1970_Plymouth_Valiant_Duster_340_%2827366262585%29_%28cropped%29.jpg/3840px-1970_Plymouth_Valiant_Duster_340_%2827366262585%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/1970_Plymouth_Valiant_Duster_340_%2827366262585%29_%28cropped%29.jpg/3840px-1970_Plymouth_Valiant_Duster_340_%2827366262585%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:55:16.907Z"
+}

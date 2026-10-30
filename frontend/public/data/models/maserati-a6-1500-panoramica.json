@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-a6-1500-panoramica",
+  "slug": "maserati-a6-1500-panoramica",
+  "name": "Maserati A6 1500 Panoramica",
+  "fullName": "Maserati A6 1500 Panoramica",
+  "brandId": "maserati",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 1948,
+  "isActive": true,
+  "description": "Первая известная коллаборация Maserati × Zagato — перекузовка шасси A6 1500 (шасси №052), 1948-49. Большая застеклённая \"панорамная\" крыша — запатентованный приём Zagato (\"Panoramica\"). One-off.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:50:16.456Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1956_Maserati_A6G_54_Berlinetta_Zagato_Coupe_-_fvr2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/1956_Maserati_A6G_54_Berlinetta_Zagato_Coupe_-_fvr2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:50:16.456Z"
+}

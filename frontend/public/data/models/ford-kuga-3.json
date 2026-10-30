@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-kuga-3",
+  "slug": "ford-kuga-3",
+  "name": "Kuga Mk3",
+  "fullName": "Kuga Mk3",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:09:55.752Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg/3840px-2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg/3840px-2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:09:55.752Z"
+}

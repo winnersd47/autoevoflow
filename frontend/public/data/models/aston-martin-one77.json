@@ -1,0 +1,20 @@
+{
+  "id": "sync-aston-martin-one77",
+  "slug": "aston-martin-one77",
+  "name": "One-77",
+  "fullName": "One-77",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:30:13.007Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2011_Aston_Martin_One-77_SCD_24.jpg/3840px-2011_Aston_Martin_One-77_SCD_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2011_Aston_Martin_One-77_SCD_24.jpg/3840px-2011_Aston_Martin_One-77_SCD_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:30:13.007Z"
+}

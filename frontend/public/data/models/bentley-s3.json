@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-s3",
+  "slug": "bentley-s3",
+  "name": "S3",
+  "fullName": "S3",
+  "brandId": "bentley",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1962,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:46:49.658Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bentley_S3_on_a_rainy_day_in_Mulhouse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bentley_S3_on_a_rainy_day_in_Mulhouse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:46:49.658Z"
+}

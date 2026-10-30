@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-clubman-r55",
+  "slug": "mini-clubman-r55",
+  "name": "Mini Clubman R55",
+  "fullName": "Mini Clubman R55 (2007)",
+  "brandId": "mini",
+  "bodyType": "estate",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Longer estate variant. Distinctive split \"barn doors\". R55 platform, 1.6L + JCW 211 HP option.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:11:01.280Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/MINI_Clubman_%28MSP16%29.jpg/3840px-MINI_Clubman_%28MSP16%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/MINI_Clubman_%28MSP16%29.jpg/3840px-MINI_Clubman_%28MSP16%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:11:01.280Z"
+}

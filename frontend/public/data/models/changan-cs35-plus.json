@@ -1,0 +1,20 @@
+{
+  "id": "sync-changan-cs35-plus",
+  "slug": "changan-cs35-plus",
+  "name": "Changan CS35 Plus",
+  "fullName": "Changan CS35 Plus",
+  "brandId": "changan",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:23:29.766Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Changan_CS35_Plus_facelift_003.jpg/3840px-Changan_CS35_Plus_facelift_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Changan_CS35_Plus_facelift_003.jpg/3840px-Changan_CS35_Plus_facelift_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:23:29.766Z"
+}

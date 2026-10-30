@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-btcc",
+  "slug": "ford-focus-btcc",
+  "name": "Ford Focus BTCC (NGTC)",
+  "fullName": "Ford Focus BTCC (NGTC)",
+  "brandId": "ford",
+  "bodyType": "sedan",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "Силуэтный кузовной гонщик по регламенту NGTC (общий для всех марок BTCC: 2.0Т I4 350+hp, 6-ст. секвентальная КПП) — не гражданский двигатель. Дебют в BTCC — 2009 (Arena Motorsport), первая победа на LPG-топливе в Brands Hatch. Кузов менялся вместе с дорожным Focus (Mk3 у Arena/Motorbase → Mk4 у Motorbase 2020-21, затем NAPA Racing UK с 2022г.). NAPA Racing UK — 36 побед и 6 титулов с 2022г., самая долгоиграющая и ДЕЙСТВУЮЩАЯ гоночная программа Focus (в отличие от WRC, завершившейся в 2010).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:56:12.891Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/3840px-2018_Ford_Focus_ST-Line_X_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/3840px-2018_Ford_Focus_ST-Line_X_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:56:12.891Z"
+}

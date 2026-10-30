@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-huracan-sterrato",
+  "slug": "lamborghini-huracan-sterrato",
+  "name": "Lamborghini Huracán Sterrato",
+  "fullName": "Lamborghini Huracán Sterrato",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Нояб. 2022/выпуск 2023 — внедорожная версия для гравия: клиренс +44мм, расширенные арки, защита днища, AWD, детюн до 610hp под грунтовое покрытие. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:21:02.352Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2017_Lamborghini_Huracan_LP610.jpg/3840px-2017_Lamborghini_Huracan_LP610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:21:02.352Z"
+}

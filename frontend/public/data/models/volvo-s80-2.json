@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-s80-2",
+  "slug": "volvo-s80-2",
+  "name": "Volvo S80 (Gen2, P2/EUCD)",
+  "fullName": "Volvo S80 (Gen2, P2/EUCD)",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "flagship",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Второе поколение S80 (2006) — общая платформа с XC90/XC60 Gen1. Уникальная для линейки флагманская версия V8 (2006-2009) — единственный легковой седан Volvo с V8 в истории: мотор Yamaha 4.4л DOHC 32V, 315 л.с./324 lb-ft, полный привод, 0-100 за 6.5с. Источники: auto-data.net (Volvo S80 II 4.4 V8 315Hp AWD Geartronic), encycarpedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:00:00.979Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Volvo_S80_D5_Momentum_%28II%2C_Facelift%29_%E2%80%93_Frontansicht%2C_26._Oktober_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Volvo_S80_D5_Momentum_%28II%2C_Facelift%29_%E2%80%93_Frontansicht%2C_26._Oktober_2012%2C_D%C3%BCsseldorf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:00:00.979Z"
+}

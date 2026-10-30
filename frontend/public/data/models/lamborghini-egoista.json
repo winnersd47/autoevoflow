@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-egoista",
+  "slug": "lamborghini-egoista",
+  "name": "Lamborghini Egoista",
+  "fullName": "Lamborghini Egoista (2013)",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Женева, март 2013 — эксцентричный one-off к 50-летию Lamborghini, кабина как у истребителя (доступ только через выдвижную лестницу/трап сбоку), одноместная компоновка. Механика от Gallardo (5.2Л V10, 600hp). Не предназначен для дорог/продажи — выставочный экземпляр. Источник: официальные пресс-материалы Lamborghini 2013.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:19:13.798Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lamborghini_Egoista_front_mod.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Lamborghini_Egoista_front_mod.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:19:13.798Z"
+}

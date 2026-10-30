@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-continental-5",
+  "slug": "lincoln-continental-5",
+  "name": "Lincoln Continental",
+  "fullName": "Lincoln Continental",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "full_size_luxury",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "Последнее поколение Continental перед 15-летним перерывом (1995-2002) — новый кузов и впервые переднеприводный V8 у Lincoln (4.6L InTech DOHC, тот же блок что у Mark VIII, но поперечно). Старт 260 л.с., с 1999г. доработка дала 275 л.с. (некоторые каталоги указывают 279 л.с.) — в узле указана основная цифра 275. Связь со следующим узлом (возрождённый Continental 2017г.) — inspired_by, а не evolves_into: 15-летний перерыв в производстве и полностью другая платформа (CD4 вместо FN10) не позволяют говорить о прямом преемстве. Источники: consumerguide.com (1995-02 Lincoln Continental), auto-data.net (Lincoln Continental IX 4.6 V8 32V 279Hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:00.258Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:05:00.258Z"
+}

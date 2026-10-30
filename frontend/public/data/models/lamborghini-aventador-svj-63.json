@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-aventador-svj-63",
+  "slug": "lamborghini-aventador-svj-63",
+  "name": "Lamborghini Aventador SVJ 63",
+  "fullName": "Lamborghini Aventador SVJ 63",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Нумерованная версия SVJ в честь основания завода в 1963г. — Пеббл-Бич, авг. 2018, ровно 63 экз. Те же 770hp, эксклюзивные карбоновые элементы и ливрея с номером экземпляра. Источник: официальный пресс-релиз Lamborghini 2018.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:18:31.625Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lamborghini_Aventador_S_%2844554%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:18:31.625Z"
+}

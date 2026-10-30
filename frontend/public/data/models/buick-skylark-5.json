@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-skylark-5",
+  "slug": "buick-skylark-5",
+  "name": "Buick Skylark Gen.5",
+  "fullName": "Buick Skylark Gen.5",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "Переход на передний привод — новая платформа X-body FWD (общая с Chevrolet Citation/Pontiac Phoenix/Oldsmobile Omega; GM повторно использовал обозначение \"X-body\" для принципиально новой FWD платформы — не путать с RWD X-body компактов 1973-79гг.). Базовый мотор — 2.5L Iron Duke I4, 90hp; топ-опция — 2.8L V6 HO, 135hp (с 1982г.). Источник: automobile-catalog.com (Buick Skylark 5th gen).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:11:49.363Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/1972_Buick_Skylark_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:11:49.363Z"
+}

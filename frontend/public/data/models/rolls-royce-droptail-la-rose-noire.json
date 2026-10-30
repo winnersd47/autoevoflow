@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-droptail-la-rose-noire",
+  "slug": "rolls-royce-droptail-la-rose-noire",
+  "name": "Rolls-Royce La Rose Noire Droptail",
+  "fullName": "Rolls-Royce La Rose Noire Droptail",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Первый из четырёх коучбилд-родстеров серии Droptail, представлен в августе 2023 на Monterey Car Week (Pebble Beach). Назван в честь чёрной розы Black Baccara, чёрное сикаморовое дерево из Франции, часы Audemars Piguet встроены в консоль. Новый монокок (не алюминиевый спейсфрейм Architecture of Luxury), твин-турбо V12 N74B68 — 593 л.с. / 840 Нм, как у Dawn Black Badge, складная жёсткая крыша. Источники: en.wikipedia.org/wiki/Rolls-Royce_Droptail, bmwblog.com, wheelzar.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:33:11.447Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:33:11.447Z"
+}

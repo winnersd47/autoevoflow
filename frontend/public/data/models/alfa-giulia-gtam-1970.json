@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-giulia-gtam-1970",
+  "slug": "alfa-giulia-gtam-1970",
+  "name": "Alfa Romeo Giulia 1750 GTAm",
+  "fullName": "Alfa Romeo Giulia 1750 GTAm",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1970,
+  "isActive": true,
+  "description": "'Group 2'-эволюция GTA для сезонов 1970-71гг., построена ателье Autodelta (~40 экз.) уже на кузове более позднего 1750 GT Veloce (тип 105.44), а не оригинального Sprint GT, с механическим впрыском SPICA. Мотор расточен с 1570 до 1985, затем 1995см³ (моновтулки цилиндров вместо отдельных гильз) для зачёта в классе до 2000см³ — до 240hp@7500об/мин в самой доработанной версии. Чемпион Европейского кубка туринговых автомобилей (ETCC) 1970г. с Андреа де Адамичем за рулём.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:40:37.774Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:40:37.774Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-granturismo-trofeo-facelift",
+  "slug": "maserati-granturismo-trofeo-facelift",
+  "name": "Maserati GranTurismo Mk2 Trofeo Facelift",
+  "fullName": "Maserati GranTurismo Mk2 Trofeo Facelift",
+  "brandId": "maserati",
+  "bodyType": "coupe",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Прирост мощности с 550 до 582hp — новая настройка двигателя/трансмиссии и новый выхлоп. Рестайлинг 2027: новые воздухозаборники передка со щелями для отвода погранслоя, аэродинамические шторки (профиль по CFD), центральный сплиттер, светлые линзы задних фонарей, обновлённый салон (цифровая панель, руль с гоночными акцентами, PRND-селектор с металлической отделкой и тактильной отдачей).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:46:26.477Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:46:26.477Z"
+}

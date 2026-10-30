@@ -1,0 +1,20 @@
+{
+  "id": "sync-olds-hurst-olds",
+  "slug": "olds-hurst-olds",
+  "name": "Oldsmobile Hurst/Olds",
+  "fullName": "Oldsmobile Hurst/Olds",
+  "brandId": "oldsmobile",
+  "bodyType": "coupe",
+  "segment": "muscle",
+  "primaryMarket": "global",
+  "startYear": 1968,
+  "isActive": true,
+  "description": "Возрождение имени на G-body Cutlass Calais после паузы 442 в 1981-84гг. High-Output 307 'Rocket' V8 (VIN-код 9), 180 л.с./245 фунто-футов. Продолжался в 1984г.; напрямую предшествовал возвращению самого имени '442' в 1985г. Источник: gmauthority.com, classics.autotrader.com (Future Collectible: 1983-84 Hurst/Olds).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:16:02.648Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/1989_Oldsmobile_Custom_Cruiser_%2827129059086%29.jpg/3840px-1989_Oldsmobile_Custom_Cruiser_%2827129059086%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/1989_Oldsmobile_Custom_Cruiser_%2827129059086%29.jpg/3840px-1989_Oldsmobile_Custom_Cruiser_%2827129059086%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:16:02.648Z"
+}

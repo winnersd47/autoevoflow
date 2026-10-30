@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-compass",
+  "slug": "jeep-compass",
+  "name": "Compass",
+  "fullName": "Compass (2025)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2007,
+  "isActive": true,
+  "description": "Полностью новое поколение, платформа STLA Medium (общая с Peugeot 3008/5008, Opel/Vauxhall Grandland, DS7, Citroën C5 Aircross). Представлено весной 2025 (Европа), производство — завод Мельфи (Италия). Линейка: e-Hybrid 145лс (мягкий гибрид, база), e-Hybrid Plug-in 195лс (указан как топ-ICE-трим), полностью электрические версии до 375лс/650км (4WD) — BEV-варианты отдельным узлом не выделены (вне исходного чек-листа, кандидат на будущий точечный фикс).",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:23:49.703Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg/3840px-2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg/3840px-2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:23:49.703Z"
+}

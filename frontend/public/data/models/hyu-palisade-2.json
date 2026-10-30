@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyu-palisade-2",
+  "slug": "hyu-palisade-2",
+  "name": "Hyundai Palisade Gen2",
+  "fullName": "Hyundai Palisade Gen2 (2024)",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:11:51.862Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hyundai_Palisade_2.5T_Calligraphy_LX3_Creamy_White_Pearl_%2846%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hyundai_Palisade_2.5T_Calligraphy_LX3_Creamy_White_Pearl_%2846%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:11:51.862Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-boulder-concept",
+  "slug": "hyundai-boulder-concept",
+  "name": "Hyundai Boulder Concept",
+  "fullName": "Hyundai Boulder Concept",
+  "brandId": "hyundai",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Неожиданный дебют на нью-йоркском автосалоне, апр. 2026. Рамный внедорожник, дизайн-язык \"Art of Steel\" — первая рамная платформа Hyundai, готовит почву под будущий среднеразмерный пикап для США (~2030). Силовая установка для концепта не раскрыта; платформа рассчитана на ДВС/гибрид/EV, для серии вероятен EREV.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:43:03.327Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/HyundaiMotorsCompany_KiaMotorsCompany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/HyundaiMotorsCompany_KiaMotorsCompany.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:43:03.327Z"
+}

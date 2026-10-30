@@ -1,0 +1,20 @@
+{
+  "id": "sync-alpine-a110",
+  "slug": "alpine-a110",
+  "name": "Alpine A110 Rally",
+  "fullName": "Alpine A110 Rally",
+  "brandId": "alpine",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1973,
+  "isActive": true,
+  "description": "Разработана совместно со Signatech для приватных раллийных команд — возврат Alpine в ралли впервые с 1973-го. 300hp.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:26:10.065Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Renault_Alpine_A_110_%28Sp%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Renault_Alpine_A_110_%28Sp%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:26:10.065Z"
+}

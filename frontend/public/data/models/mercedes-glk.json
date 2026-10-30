@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-glk",
+  "slug": "mercedes-glk",
+  "name": "Mercedes-Benz GLK-Class X204",
+  "fullName": "Mercedes-Benz GLK-Class X204",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Компактный кроссовер-предшественник GLC, 2008-2015г., построен на платформе C-Class W204. GLK350 4MATIC V6 — 272 л.с. В 2015г. сменён на GLC.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:40:44.776Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes-Benz_X254_1X7A6343.jpg/3840px-Mercedes-Benz_X254_1X7A6343.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes-Benz_X254_1X7A6343.jpg/3840px-Mercedes-Benz_X254_1X7A6343.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:40:44.776Z"
+}

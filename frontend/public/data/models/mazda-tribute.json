@@ -1,0 +1,20 @@
+{
+  "id": "sync-mazda-tribute",
+  "slug": "mazda-tribute",
+  "name": "Mazda Tribute II",
+  "fullName": "Mazda Tribute II",
+  "brandId": "mazda",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Mazda Tribute, 2-е поколение (2008-2011) — глубокий рестайлинг кузова/салона на той же платформе CD2 (не полностью новая генерация). Топ-мотор 3.0L Duratec V6 — 200 л.с., также 2.3-2.5L I4 и гибрид (2.5L Atkinson + электромотор). Снята с производства в 2011г. без прямого преемника — сегмент перешёл к CX-5/CX-7. Источник: Wikipedia (Mazda Tribute), kennyrossmazda.com, guideautoweb.com.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:13:38.955Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2021_Ford_Escape_Hybrid_SEL_AWD_in_Oxford_White%2C_front_left.jpg/3840px-2021_Ford_Escape_Hybrid_SEL_AWD_in_Oxford_White%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2021_Ford_Escape_Hybrid_SEL_AWD_in_Oxford_White%2C_front_left.jpg/3840px-2021_Ford_Escape_Hybrid_SEL_AWD_in_Oxford_White%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:13:38.955Z"
+}

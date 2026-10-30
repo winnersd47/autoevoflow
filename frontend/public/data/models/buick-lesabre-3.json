@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-lesabre-3",
+  "slug": "buick-lesabre-3",
+  "name": "Buick LeSabre Gen.3",
+  "fullName": "Buick LeSabre Gen.3",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "full-size",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "Новая платформа B-body (1965). Базовый мотор — 300cid V8 2bbl, 250hp; в 1970г. добавлена опция 455cid V8 — 370hp (SAE gross), самый мощный LeSabre за всю историю модели. Источник: wikipedia (Buick LeSabre).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:20.311Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg/3840px-1987_Buick_Electra_Estate_a_station_wagon_at_2019_AACA_Hershey_meet_1of3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:05:20.311Z"
+}

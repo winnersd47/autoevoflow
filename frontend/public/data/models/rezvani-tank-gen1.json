@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-tank-gen1",
+  "slug": "rezvani-tank-gen1",
+  "name": "Rezvani Tank",
+  "fullName": "Rezvani Tank",
+  "brandId": "rezvani",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "First Rezvani tactical SUV on Jeep Wrangler JK. 707 HP Hellcat V8 option. Military-grade protection packages.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:01:03.628Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:01:03.628Z"
+}

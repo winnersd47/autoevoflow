@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-tipo-2015",
+  "slug": "fiat-tipo-2015",
+  "name": "Fiat Tipo Gen.2",
+  "fullName": "Fiat Tipo Gen.2 (2015)",
+  "brandId": "fiat",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:40:43.577Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg/3840px-Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg/3840px-Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:40:43.577Z"
+}

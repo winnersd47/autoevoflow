@@ -12,12 +12,17 @@
   "isActive": false,
   "description": "The first Maserati Ghibli (1966–1973), designed by Giorgetto Giugiaro at Ghia, is widely regarded as one of the most beautiful Italian grand tourers ever built. Its long bonnet, fastback profile, and a 4.9-litre V8 engine defined Maserati's design language for decades.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "maserati", "classic", "heritage"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg/3840px-2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg/3840px-2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "coupe",
+    "maserati",
+    "classic",
+    "heritage"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:25:28.695Z",
   "generations": [
     {
       "id": "gen-maserati-ghibli-i-1",
@@ -30,9 +35,15 @@
       "endYear": 1973,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "description": "The first Maserati Ghibli (1966–1973), designed by Giorgetto Giugiaro at Ghia, is widely regarded as one of the most beautiful Italian grand tourers ever built. Its long bonnet, fastback profile, and a 4.9-litre V8 engine defined Maserati's design language for decades.",
       "thumbnailUrl": "",
       "heroImageUrl": "",

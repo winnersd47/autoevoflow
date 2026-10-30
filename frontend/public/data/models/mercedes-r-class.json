@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-r-class",
+  "slug": "mercedes-r-class",
+  "name": "Mercedes-Benz R-Class W251",
+  "fullName": "Mercedes-Benz R-Class W251",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2005,
+  "isActive": true,
+  "description": "Большой кроссовер-универсал ('Grand Sports Tourer'), 2005-2013г. (длиннобазная версия для Китая продавалась до 2017г.), платформа MRA общая с ML W164, сборка в Таскалусе (США). R350 V6 — 272 л.с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:41:53.073Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2019_Mercedes-Benz_E220d_SE_Automatic_2.0_Front.jpg/3840px-2019_Mercedes-Benz_E220d_SE_Automatic_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2019_Mercedes-Benz_E220d_SE_Automatic_2.0_Front.jpg/3840px-2019_Mercedes-Benz_E220d_SE_Automatic_2.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:41:53.073Z"
+}

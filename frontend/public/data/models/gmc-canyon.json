@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-canyon",
+  "slug": "gmc-canyon",
+  "name": "GMC Canyon",
+  "fullName": "GMC Canyon",
+  "brandId": "gmc",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Платформа — обновлённая GMT31XX ('31XX-2'). 310hp — турбо 2.7L I4 High Output, единственный мотор во всей линейке Gen.3 (engineType исправлен с ошибочного 'v6' на 'i4t' — см. nodeFixes). Источники: gmauthority.com/blog/gm/gmc/canyon/2023-gmc-canyon, carbuzz.com/news/2023-gmc-canyon-revealed-with-turbo-engine.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:49:59.028Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg/3840px-2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg/3840px-2024_Chevrolet_Colorado_Z71%2C_front_left%2C_09-28-2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:49:59.028Z"
+}

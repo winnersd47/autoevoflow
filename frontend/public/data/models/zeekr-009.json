@@ -1,0 +1,20 @@
+{
+  "id": "sync-zeekr-009",
+  "slug": "zeekr-009",
+  "name": "Zeekr 009",
+  "fullName": "Zeekr 009",
+  "brandId": "zeekr",
+  "bodyType": "mpv",
+  "segment": "luxury_mpv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Люксовый электро-минивэн; SEA-платформа; конкурент Lexus LM",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:29:25.454Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20230329_Zeekr_delivery_center_at_Xinhuihu_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/20230329_Zeekr_delivery_center_at_Xinhuihu_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:29:25.454Z"
+}

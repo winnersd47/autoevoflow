@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-sierra-cosworth",
+  "slug": "ford-sierra-cosworth",
+  "name": "Sierra RS Cosworth",
+  "fullName": "Sierra RS Cosworth",
+  "brandId": "ford",
+  "bodyType": "coupe",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1986,
+  "isActive": true,
+  "description": "Базовая 3-дверная Sierra RS Cosworth (1986) — 204hp (201bhp), омологация Group A. Не путать с более мощной эволюцией RS500 (1987) — см. отдельный узел.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:00:17.185Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1986_Ford_Sierra_RS_Cosworth_2.0_%281%29.jpg/3840px-1986_Ford_Sierra_RS_Cosworth_2.0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1986_Ford_Sierra_RS_Cosworth_2.0_%281%29.jpg/3840px-1986_Ford_Sierra_RS_Cosworth_2.0_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:00:17.185Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-beast-gen1",
+  "slug": "rezvani-beast-gen1",
+  "name": "Rezvani Beast",
+  "fullName": "Rezvani Beast",
+  "brandId": "rezvani",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "First Rezvani model. Open-wheel supercar on Ariel Atom chassis with custom carbon body. 500 HP supercharged K24 Honda engine.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:59:53.855Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:59:53.855Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-grancabrio-modena",
+  "slug": "maserati-grancabrio-modena",
+  "name": "Maserati GranCabrio Mk2 Modena",
+  "fullName": "Maserati GranCabrio Mk2 Modena",
+  "brandId": "maserati",
+  "bodyType": "convertible",
+  "segment": "grand_tourer",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Базовый (самый доступный) трим GranCabrio Mk2 — тот же 3.0Т V6 Nettuno, что у Trofeo, но 483hp/442 lb-ft, макс. 186mph. GranCabrio стартовал в продаже в 2024-м сразу в топовом Trofeo — Modena добавлен на MY2025 как более доступный вход в линейку (примерно годом раньше рестайлинга 2027, не одновременно с ним, как считалось изначально).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:46:36.064Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:46:36.064Z"
+}

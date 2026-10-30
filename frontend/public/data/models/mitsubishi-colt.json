@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-colt",
+  "slug": "mitsubishi-colt",
+  "name": "Mitsubishi Colt CZT",
+  "fullName": "Mitsubishi Colt CZT",
+  "brandId": "mitsubishi",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "Топ-хот-хэтч поколения Colt Z30 (2002-2012, совместная с DaimlerChrysler/Smart платформа, преемник имени Mirage в Европе/Японии). Турбомотор 1.5 16V — 150 л.с./210 Нм, 0-100 км/ч за 8с. Также существовала версия CZC (кабриолет-хардтоп) с тем же мотором. Источники: automobile-catalog.com, auto-data.net (Colt VI Z30 CZT).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:57:43.307Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Suzuki_Carry_Truck_KC_4WD_DA16T.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Suzuki_Carry_Truck_KC_4WD_DA16T.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:57:43.307Z"
+}

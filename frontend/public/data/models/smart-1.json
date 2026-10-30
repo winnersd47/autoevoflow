@@ -1,0 +1,20 @@
+{
+  "id": "sync-smart-1",
+  "slug": "smart-1",
+  "name": "Smart #1",
+  "fullName": "Smart #1 (2022)",
+  "brandId": "smart",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "EV compact SUV. Geely SEA platform. 272 HP RWD or 428 HP AWD. 440 km WLTP. Joint venture Geely/Mercedes.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:19:14.726Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg/3840px-2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg/3840px-2016_Smart_Fortwo_Passion_Automatic_1.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:19:14.726Z"
+}

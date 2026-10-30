@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-town-car-3",
+  "slug": "lincoln-town-car-3",
+  "name": "Lincoln Town Car",
+  "fullName": "Lincoln Town Car",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1998,
+  "isActive": true,
+  "description": "Новый кузов 1998г. (более округлые формы, независимая по сути настройка задней подвески) — 3-е поколение, выпускалось без смены платформы до 2011г. включительно (2003г. — крупный фейслифт передней/задней оптики и мощности в рамках ТОГО ЖЕ поколения, отдельным узлом не выделяем). Старт — 4.6L V8 205-235 л.с. (Cartier/Signature, двойной выхлоп), с 2003г. модернизированный 4.6L V8 выдаёт 239 л.с. — пиковое значение всей линейки 1998-2011гг., указано в узле. Источники: autoevolution (Lincoln Town Car 1998-2011), carbuzz (Town Car generations), Wikipedia.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:03:49.033Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg/3840px-2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg/3840px-2007_Lincoln_Town_Car_Signature_Limited%2C_front_right%2C_09-12-2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:03:49.033Z"
+}

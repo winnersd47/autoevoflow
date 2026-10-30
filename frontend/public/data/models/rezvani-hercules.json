@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-hercules",
+  "slug": "rezvani-hercules",
+  "name": "Rezvani Hercules 6x6",
+  "fullName": "Rezvani Hercules 6x6",
+  "brandId": "rezvani",
+  "bodyType": "pickup",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "6x6 tactical pickup on Jeep Gladiator JT frame. 7.0L supercharged V8 top option (1300 HP). $225K+ base. 6WD capable.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:02:13.495Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:02:13.495Z"
+}

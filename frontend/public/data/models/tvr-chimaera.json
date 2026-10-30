@@ -1,0 +1,20 @@
+{
+  "id": "sync-tvr-chimaera",
+  "slug": "tvr-chimaera",
+  "name": "Chimaera",
+  "fullName": "Chimaera",
+  "brandId": "tvr",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:52:54.058Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/1997_TVR_Chimaera_4.0_-_Flickr_-_The_Car_Spy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/1997_TVR_Chimaera_4.0_-_Flickr_-_The_Car_Spy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T15:52:54.058Z"
+}

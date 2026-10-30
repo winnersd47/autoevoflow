@@ -1,0 +1,20 @@
+{
+  "id": "sync-li-auto-one",
+  "slug": "li-auto-one",
+  "name": "Li Auto One",
+  "fullName": "Li Auto One",
+  "brandId": "li-auto",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Первый серийный EREV SUV Китая; 6-местный; 1000+ км запас; продано 180k",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:31:43.913Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2020_Lixiang_ONE_%28front%29.jpg/3840px-2020_Lixiang_ONE_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2020_Lixiang_ONE_%28front%29.jpg/3840px-2020_Lixiang_ONE_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:31:43.913Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-gaz-volga-m21",
+  "slug": "gaz-volga-m21",
+  "name": "Волга М-21",
+  "fullName": "Волга М-21",
+  "brandId": "gaz",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1956,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:19:37.854Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Moscow_car_show_2025-08-03_GAZ-M20%2C_GAZ-21_et_al_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Moscow_car_show_2025-08-03_GAZ-M20%2C_GAZ-21_et_al_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T16:19:37.854Z"
+}

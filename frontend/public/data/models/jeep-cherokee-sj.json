@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-cherokee-sj",
+  "slug": "jeep-cherokee-sj",
+  "name": "Jeep Cherokee SJ",
+  "fullName": "Jeep Cherokee SJ (1974)",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1974,
+  "isActive": true,
+  "description": "Первое поколение Cherokee вообще — 2-дверная \"спортивная\" версия того же шасси SJ, что и Wagoneer SJ (1962, см. shares_platform), 4-дверная версия добавлена в 1977. Топ-мотор 360 cu in (5.9L) V8 4-barrel, 195лс (SAE net)/295 lb-ft. Выпускалась 1974-1983 (197338 экз.), в 1984 напрямую сменена на XJ.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:25:17.648Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1975_Jeep_Cherokee_in_beige%2C_front_right.jpg/3840px-1975_Jeep_Cherokee_in_beige%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/1975_Jeep_Cherokee_in_beige%2C_front_right.jpg/3840px-1975_Jeep_Cherokee_in_beige%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:25:17.648Z"
+}

@@ -11,8 +11,8 @@
   "endYear": 2006,
   "isActive": false,
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gemballa_Carrera_GT_and_2_Phantoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gemballa_Carrera_GT_and_2_Phantoms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
   "description": "The Porsche Carrera GT (2003–2006) was Porsche's mid-engine V10 hypercar, built on a carbon fibre monocoque with a 5.7-litre naturally aspirated V10 producing 612 hp. Just 1,270 were produced. Its titanium gearknob, wooden clutch disc, and complete absence of electronic driver aids made it the most demanding — and most revered — driver's car of its decade.",
   "tags": [
     "coupe",
@@ -23,7 +23,7 @@
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:29:34.195Z",
   "generations": [
     {
       "id": "gen-porsche-carrera-gt-1",

@@ -1,0 +1,20 @@
+{
+  "id": "sync-dodge-ram-3",
+  "slug": "dodge-ram-3",
+  "name": "Ram Gen.3",
+  "fullName": "Ram Gen.3",
+  "brandId": "dodge",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:52:30.498Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1990_Dodge_Ram_350_Maxi%2C_front_right.jpg/3840px-1990_Dodge_Ram_350_Maxi%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/1990_Dodge_Ram_350_Maxi%2C_front_right.jpg/3840px-1990_Dodge_Ram_350_Maxi%2C_front_right.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:52:30.498Z"
+}

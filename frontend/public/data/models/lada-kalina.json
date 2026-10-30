@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-kalina",
+  "slug": "lada-kalina",
+  "name": "Lada Kalina",
+  "fullName": "Lada Kalina",
+  "brandId": "lada",
+  "bodyType": "hatchback",
+  "segment": "supermini",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:21:00.677Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lada_Kalina_II_%28VAZ-2194%29_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lada_Kalina_II_%28VAZ-2194%29_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:21:00.677Z"
+}

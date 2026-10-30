@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-golf6",
+  "slug": "vw-golf6",
+  "name": "Golf Mk6",
+  "fullName": "Golf Mk6",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:20:40.571Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/VW_Golf_%28VI%29_front_20110115.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/VW_Golf_%28VI%29_front_20110115.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:20:40.571Z"
+}

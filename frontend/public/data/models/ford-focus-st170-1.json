@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-focus-st170-1",
+  "slug": "ford-focus-st170-1",
+  "name": "Ford Focus ST170 (SVT Focus в Северной Америке)",
+  "fullName": "Ford Focus ST170 (SVT Focus в Северной Америке)",
+  "brandId": "ford",
+  "bodyType": "hatchback",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2002,
+  "isActive": true,
+  "description": "Средний по мощности хот-хэтч между обычным Focus и RS — атмосферный (не турбо) 2.0L I4 DOHC, 196Нм/145lb-ft, 6-МКПП. В Северной Америке продавался под именем \"SVT Focus\".",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:55:02.135Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/1999_Ford_Focus_Zetec_1.8_Front.jpg/3840px-1999_Ford_Focus_Zetec_1.8_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/1999_Ford_Focus_Zetec_1.8_Front.jpg/3840px-1999_Ford_Focus_Zetec_1.8_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:55:02.135Z"
+}

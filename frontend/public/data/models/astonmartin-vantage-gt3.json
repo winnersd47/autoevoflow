@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-vantage-gt3",
+  "slug": "astonmartin-vantage-gt3",
+  "name": "Aston Martin Vantage GT3",
+  "fullName": "Aston Martin Vantage GT3",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Клиентский GT3 на базе Vantage — сменил DBR9 (GT1-эра) как флагманский гоночный Aston Martin. Мощность уточнена: 535hp (542PS), не 550 — широко цитируемая цифра во всех источниках.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:39:22.410Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aston_Martin_Vantage_GTE_Thiim_Silverstone_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aston_Martin_Vantage_GTE_Thiim_Silverstone_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:39:22.410Z"
+}

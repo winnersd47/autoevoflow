@@ -1,0 +1,20 @@
+{
+  "id": "sync-maserati-zagato-mostro",
+  "slug": "maserati-zagato-mostro",
+  "name": "Maserati Zagato Mostro Barchetta",
+  "fullName": "Maserati Zagato Mostro Barchetta",
+  "brandId": "maserati",
+  "bodyType": "roadster",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "Открытая версия Zagato Mostro — та же силовая установка, бесподиумный/бесшовный мелкосерийный выпуск, 2022-25.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:07:44.483Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Maserati_Mod%C3%A8ne_0002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Maserati_Mod%C3%A8ne_0002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:07:44.483Z"
+}

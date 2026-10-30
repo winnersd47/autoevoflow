@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-rspace-lab-concept",
+  "slug": "renault-rspace-lab-concept",
+  "name": "Renault R-Space Lab Concept",
+  "fullName": "Renault R-Space Lab Concept",
+  "brandId": "renault",
+  "bodyType": "mpv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Исследовательский концепт от подразделения Renault \"Garage Futurama\" (март 2026) — не прямой предвестник серийной модели, а изучение UX/салона на серийной платформе RGEV Medium 2.0. Модульный салон 4.5м, steer-by-wire, датчик алкоголя, панорамный экран openR. Намекает на направление Espace/Mégane после 2030.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:44:08.617Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/3840px-2015-present_Renault_Espace_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/3840px-2015-present_Renault_Espace_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:44:08.617Z"
+}

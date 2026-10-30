@@ -1,0 +1,20 @@
+{
+  "id": "sync-rimac-nevera",
+  "slug": "rimac-nevera",
+  "name": "Nevera R",
+  "fullName": "Nevera R",
+  "brandId": "rimac",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:47:19.310Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Rimac_Nevera.jpg/3840px-Rimac_Nevera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Rimac_Nevera.jpg/3840px-Rimac_Nevera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:47:19.310Z"
+}

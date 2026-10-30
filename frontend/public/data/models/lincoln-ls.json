@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-ls",
+  "slug": "lincoln-ls",
+  "name": "LS",
+  "fullName": "LS",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Единственное поколение (2000-2006), платформа DEW98 общая с Jaguar S-Type (и косвенно с Ford Thunderbird 11-го поколения). V6 3.0L (210-232 л.с.) и V8 3.9L (252 л.с. до 2002г. → 280 л.с. после фейслифта 2003г., приведено в узле). Источники: drivingline.com, consumerguide.com (2003-06 Lincoln LS).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:48:04.899Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/00-02_Lincoln_LS_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/00-02_Lincoln_LS_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:48:04.899Z"
+}

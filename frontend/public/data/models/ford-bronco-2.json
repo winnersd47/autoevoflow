@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-bronco-2",
+  "slug": "ford-bronco-2",
+  "name": "Ford Bronco Gen.2",
+  "fullName": "Ford Bronco Gen.2",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "suv",
+  "primaryMarket": "global",
+  "startYear": 1978,
+  "isActive": true,
+  "description": "Второе поколение (1978-79) — Ford резко увеличил кузов, перейдя на укороченную базу F-150 (ответ на рост популярности полноразмерных Chevrolet K5 Blazer/Dodge Ramcharger). Стандартный мотор — V8 351M, 152hp (1978г.; 158hp в 1979г.); опционально V8 400ci. Самое короткое по времени выпуска поколение Bronco — всего 2 модельных года перед следующим рестайлом.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:53:53.912Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ford_Bronco_%286th_generation%29_Outer_Banks_1X7A0384.jpg/3840px-Ford_Bronco_%286th_generation%29_Outer_Banks_1X7A0384.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ford_Bronco_%286th_generation%29_Outer_Banks_1X7A0384.jpg/3840px-Ford_Bronco_%286th_generation%29_Outer_Banks_1X7A0384.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:53:53.912Z"
+}

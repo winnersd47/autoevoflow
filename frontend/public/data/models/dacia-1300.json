@@ -1,0 +1,20 @@
+{
+  "id": "sync-dacia-1300",
+  "slug": "dacia-1300",
+  "name": "Dacia 1300",
+  "fullName": "Dacia 1300 (1969)",
+  "brandId": "dacia",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1969,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:34:37.831Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dacia_Logan_2023_Front_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dacia_Logan_2023_Front_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:34:37.831Z"
+}

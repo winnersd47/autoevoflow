@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-stonic",
+  "slug": "kia-stonic",
+  "name": "Kia Stonic (YB-CUV)",
+  "fullName": "Kia Stonic (YB-CUV)",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "B-сегментный кроссовер, премьера во Франкфурте 20 июня 2017, продажи с 4кв. 2017. Построен на платформе и с салоном от Kia Rio 4-го поколения (YB). Основной турбомотор 1.0 T-GDI — 120 л.с./172 Нм (также атмосферный 1.4 MPI). Фейслифт 2020 и повторный рестайлинг 2025 отдельными узлами не выделены.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:29.973Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2021_Kia_Rio_3_MHEV_facelift_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2021_Kia_Rio_3_MHEV_facelift_1.0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:52:29.973Z"
+}

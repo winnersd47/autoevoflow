@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-genesis-coupe",
+  "slug": "hyundai-genesis-coupe",
+  "name": "Hyundai Genesis Coupe",
+  "fullName": "Hyundai Genesis Coupe",
+  "brandId": "hyundai",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Рестайлинг Genesis Coupe 2012 модельного года — то же шасси BK, новые бамперы/оптика, новый 3.8L V6 с непосредственным впрыском (GDI) — 347 л.с. вместо 306 (опорное значение узла); турбо 2.0L остался в районе 210-274 л.с. по рынкам. Выпускалось до 2016-го, после чего сегмент доступных купе Hyundai свернула без прямой замены.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:11:18.027Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2010_Hyundai_Genesis_Coupe_3_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2010_Hyundai_Genesis_Coupe_3_--_08-28-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:11:18.027Z"
+}

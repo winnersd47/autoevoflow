@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-q45",
+  "slug": "infiniti-q45",
+  "name": "Infiniti Q45 F50",
+  "fullName": "Infiniti Q45 F50",
+  "brandId": "infiniti",
+  "bodyType": "sedan",
+  "segment": "ultra_luxury",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "Третье поколение Q45 (2002-2006), полностью новая платформа (общая с Nissan Cima/President). Новый 4.5L VK45DE V8, 340 л.с. — рост мощности после провального по продажам поколения Y33 (266 л.с.). В графе отсутствовало поколение целиком — узел Y33 ошибочно содержал характеристики F50 (340 л.с. вместо 266). Источник: automobile-catalog.com, Wikipedia.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:32:09.988Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Infiniti_Q45_--_08-12-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Infiniti_Q45_--_08-12-2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:32:09.988Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-gaz-volga-k40",
+  "slug": "gaz-volga-k40",
+  "name": "Volga K40",
+  "fullName": "Volga K40",
+  "brandId": "gaz",
+  "bodyType": "suv",
+  "segment": "mid_suv",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Платформа Changan Uni-Z; флагманский внедорожник новой Волги",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:23:27.785Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/GAZ-31_%22Volga%22_in_Minsk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/GAZ-31_%22Volga%22_in_Minsk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:23:27.785Z"
+}

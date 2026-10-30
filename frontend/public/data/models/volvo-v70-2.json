@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-v70-2",
+  "slug": "volvo-v70-2",
+  "name": "Volvo V70 (Gen2, P2)",
+  "fullName": "Volvo V70 (Gen2, P2)",
+  "brandId": "volvo",
+  "bodyType": "estate",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2000,
+  "isActive": true,
+  "description": "Второе поколение V70 (2000) на платформе P2, общей с S60 Gen1 — универсал, прямой преемник комбинированного узла S70/V70 (1996), восполняет пробел в графе между 1996 и 2016 (ранее V90 ошибочно был связан напрямую с XC70 1997г., см. edgeFixes). Топ-версия без учёта R — V70 T5 (2.3 турбо I5, B5234T3) — 250 л.с./243 lb-ft, 0-100 за 7.1с. Источник: auto-data.net (Volvo V70 II 2.3 T5 250Hp).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:00:02.967Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/3rd_Volvo_V70_--_09-18-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/3rd_Volvo_V70_--_09-18-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:00:02.967Z"
+}

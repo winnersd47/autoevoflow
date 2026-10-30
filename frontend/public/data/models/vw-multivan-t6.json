@@ -1,0 +1,20 @@
+{
+  "id": "sync-vw-multivan-t6",
+  "slug": "vw-multivan-t6",
+  "name": "Multivan T6",
+  "fullName": "Multivan T6",
+  "brandId": "volkswagen",
+  "bodyType": "van",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:12:25.736Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Volkswagen_T7_Multivan_IMG_8317.jpg/3840px-Volkswagen_T7_Multivan_IMG_8317.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Volkswagen_T7_Multivan_IMG_8317.jpg/3840px-Volkswagen_T7_Multivan_IMG_8317.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:12:25.736Z"
+}

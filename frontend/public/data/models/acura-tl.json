@@ -1,0 +1,20 @@
+{
+  "id": "sync-acura-tl",
+  "slug": "acura-tl",
+  "name": "Acura TL (fourth generation, UA8)",
+  "fullName": "Acura TL (fourth generation, UA8)",
+  "brandId": "acura",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Четвёртое, последнее поколение TL (2009-2014), полный редизайн. Базовый 3.5L V6 (FWD), 280 л.с./254 фунт-фут — на 22 л.с. больше, чем у предшественника. Источник: jdpower.com.",
+  "generationCount": 6,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:13:15.245Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/2007-2008_Acura_TL_--_03-16-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/2007-2008_Acura_TL_--_03-16-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:13:15.245Z"
+}

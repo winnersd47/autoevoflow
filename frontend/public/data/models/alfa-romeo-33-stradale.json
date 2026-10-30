@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-romeo-33-stradale",
+  "slug": "alfa-romeo-33-stradale",
+  "name": "33 Stradale",
+  "fullName": "33 Stradale",
+  "brandId": "alfa-romeo",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:05:05.864Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg/3840px-1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg/3840px-1968_Alfa_Romeo_33_Stradale%2C_front_right_%28Miller%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:05:05.864Z"
+}

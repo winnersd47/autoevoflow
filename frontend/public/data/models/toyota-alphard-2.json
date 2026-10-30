@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-alphard-2",
+  "slug": "toyota-alphard-2",
+  "name": "Toyota Alphard 2nd Generation (AH20)",
+  "fullName": "Toyota Alphard 2nd Generation (AH20)",
+  "brandId": "toyota",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Второе поколение (2008) продавалось параллельно с близнецом Vellfire, отличающимся решёткой и отделкой салона. Топовый мотор — 3.5L V6 (2GR-FE), 276 л.с.; базовый 2.4L I4 — 170 л.с. В графе ранее отсутствовало между 1-м (2002) и 3-м (2015) поколениями (ребро e-alph1-alph3).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:49:55.508Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Toyota_ALPHARD_Z_%28AGH40W%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Toyota_ALPHARD_Z_%28AGH40W%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:49:55.508Z"
+}

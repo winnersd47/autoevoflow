@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-4runner-3",
+  "slug": "toyota-4runner-3",
+  "name": "Toyota 4Runner 3rd Generation",
+  "fullName": "Toyota 4Runner 3rd Generation (1995)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "offroad",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "Третье поколение (1995/96) — впервые собственная рама, не унаследованная напрямую от Hilux/Surf; один из бестселлеров сегмента в США середины 90-х. Топовый мотор — 3.4L V6 5VZ-FE, 183 л.с.; также 2.7L I4 150 л.с.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:47:42.492Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg/3840px-2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg/3840px-2025_Toyota_4Runner_TRD_Sport_in_Wind_Chill_Pearl%2C_front_right%2C_2025-05-18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:47:42.492Z"
+}

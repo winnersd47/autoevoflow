@@ -1,0 +1,20 @@
+{
+  "id": "sync-ferrari-488-spider",
+  "slug": "ferrari-488-spider",
+  "name": "488 Spider",
+  "fullName": "488 Spider",
+  "brandId": "ferrari",
+  "bodyType": "convertible",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:07:23.743Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/2012-02-26_Piero_Ferrari_at_Museo_Enzo_Ferrari%2C_Modena.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/2012-02-26_Piero_Ferrari_at_Museo_Enzo_Ferrari%2C_Modena.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:07:23.743Z"
+}

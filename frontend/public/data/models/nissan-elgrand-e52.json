@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-elgrand-e52",
+  "slug": "nissan-elgrand-e52",
+  "name": "Elgrand E52",
+  "fullName": "Elgrand E52",
+  "brandId": "nissan",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:14:53.344Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg/3840px-2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg/3840px-2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:14:53.344Z"
+}

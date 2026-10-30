@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-asx",
+  "slug": "mitsubishi-asx",
+  "name": "Mitsubishi ASX",
+  "fullName": "Mitsubishi ASX",
+  "brandId": "mitsubishi",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2010,
+  "isActive": true,
+  "description": "Полная смена платформы для Европы: 2-е поколение ASX — ребейдж Renault Captur II (альянс Renault-Nissan-Mitsubishi), сборка в Вальядолиде (Испания). Топ-версия — 1.3 турбо мягкий гибрид 48В, 158 л.с.; также доступны 1.6 полный гибрид (143 л.с.) и 1.6 PHEV (156 л.с.). Нода Renault Captur отсутствует в графе — кросс-брендовое ребро shares_platform не создано, платформенное родство описано в note. Источники: auto-data.net (ASX II 1.3 Turbo 140/158hp Mild Hybrid), carexpert.com.au.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:14:54.295Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mitsubishi_ASX_%282019%29_IMG_6615.jpg/3840px-Mitsubishi_ASX_%282019%29_IMG_6615.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mitsubishi_ASX_%282019%29_IMG_6615.jpg/3840px-Mitsubishi_ASX_%282019%29_IMG_6615.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:14:54.295Z"
+}

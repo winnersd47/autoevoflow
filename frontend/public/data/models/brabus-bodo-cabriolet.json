@@ -1,0 +1,20 @@
+{
+  "id": "sync-brabus-bodo-cabriolet",
+  "slug": "brabus-bodo-cabriolet",
+  "name": "Brabus Bodo Cabriolet",
+  "fullName": "Brabus Bodo Cabriolet",
+  "brandId": "brabus",
+  "bodyType": "convertible",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "Кабриолет-версия Bodo, дебют The Quail (Кармел) авг.2026, MY2027. Те же 986hp/1200Нм. 77 экземпляров.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:41:51.140Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Brabus_900_Rocket_IMG_0536.jpg/3840px-Brabus_900_Rocket_IMG_0536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Brabus_900_Rocket_IMG_0536.jpg/3840px-Brabus_900_Rocket_IMG_0536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:41:51.140Z"
+}

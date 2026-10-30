@@ -1,0 +1,20 @@
+{
+  "id": "sync-renault-megane-rs-275-trophy-r",
+  "slug": "renault-megane-rs-275-trophy-r",
+  "name": "Renault Megane III RS 275 Trophy-R",
+  "fullName": "Renault Megane III RS 275 Trophy-R",
+  "brandId": "renault",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "ВАЖНО — это поколение III Trophy-R (2014, 250 экз., рекорд FWD Нюрбургринга 7:54.36), НЕ путать с совершенно другим поколением IV Trophy-R (2019, 300hp) — уже существующая нода ren-megane-rs4. Источник: motorauthority.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:21:24.709Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg/3840px-2017_Renault_Megane_Dynamique_S_NAV_DC_1.5_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:21:24.709Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-tang-l",
+  "slug": "byd-tang-l",
+  "name": "BYD Tang L (экспорт: Atto 8)",
+  "fullName": "BYD Tang L (экспорт: Atto 8)",
+  "brandId": "byd",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Флагманский 7-местный SUV на 1000-вольтовой Super e-Platform (в Китае — Tang L, с 2025). Экспортная электроверсия Atto 8 представлена на Парижском автосалоне в октябре 2026, продажи в Европе — 1 кв. 2027: заднеприводная 456 л.с. и полноприводная 764 л.с. (в hp), батарея Blade 2.0 115 кВтч, зарядка 10-97% за 9 минут (Flash Charging), WLTP до 653 км. Год 2025 — старт Tang L в Китае. Источник: carnewschina.com, electrek.co, Wikipedia (2026).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:27:42.280Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg/3840px-BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg/3840px-BYD_Tang_L_EV_IAA_2025_DSC_2306.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:27:42.280Z"
+}

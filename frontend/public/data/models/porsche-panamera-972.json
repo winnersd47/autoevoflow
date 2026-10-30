@@ -1,0 +1,20 @@
+{
+  "id": "sync-porsche-panamera-972",
+  "slug": "porsche-panamera-972",
+  "name": "Porsche Panamera GTS (972)",
+  "fullName": "Porsche Panamera GTS (972)",
+  "brandId": "porsche",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "4.0 V8 twin-turbo без гибридизации, 493 л.с. — самая мощная чисто ICE Panamera в линейке 972, представлена июль 2024, продажи с начала 2025г.",
+  "generationCount": 7,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:09:49.016Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg/3840px-Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg/3840px-Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:09:49.016Z"
+}

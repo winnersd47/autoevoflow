@@ -12,12 +12,18 @@
   "isActive": true,
   "description": "Li Auto L9 — топовый 6-местный EREV SUV Китая. Три экрана, Dolby Atmos, 1.5T + два электромотора, 449 л.с., запас хода 1315 км по CLTC.",
   "generationCount": 1,
-  "thumbnailUrl": null,
-  "heroImageUrl": null,
-  "tags": ["suv", "erev", "li-auto", "china", "flagship"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Li_Auto_L9_IMG001.jpg/3840px-Li_Auto_L9_IMG001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Li_Auto_L9_IMG001.jpg/3840px-Li_Auto_L9_IMG001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "suv",
+    "erev",
+    "li-auto",
+    "china",
+    "flagship"
+  ],
   "aiAnalysisAvailable": true,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T16:31:45.984Z",
   "analysis": {
     "id": "analysis-li-auto-l9-001",
     "entityType": "model",
@@ -46,7 +52,7 @@
         "id": "ins-03",
         "category": "Technology",
         "text": "Система Air Suspension с 4 независимыми стойками и 5 режимами высоты — первая в классе для цены до 500 000 ¥. Mercedes GLS в этом ценовом диапазоне не предлагает пневмоподвеску стандартом.",
-        "confidence": 0.90,
+        "confidence": 0.9,
         "importance": "high"
       },
       {
@@ -76,7 +82,10 @@
     "processingTimeMs": 3920,
     "createdAt": "2026-07-18T11:00:00Z",
     "isCached": true,
-    "metadata": { "modelVersion": "yandexgpt-pro", "language": "ru" }
+    "metadata": {
+      "modelVersion": "yandexgpt-pro",
+      "language": "ru"
+    }
   },
   "generations": [
     {
@@ -90,9 +99,15 @@
       "endYear": null,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["suv"],
-      "engineTypes": ["EREV"],
-      "markets": ["china"],
+      "bodyTypes": [
+        "suv"
+      ],
+      "engineTypes": [
+        "EREV"
+      ],
+      "markets": [
+        "china"
+      ],
       "description": "Li Auto L9 — 6-местный EREV SUV. 1.5T + 2 электромотора, 449 л.с., 1315 км CLTC, воздушная подвеска, тройная мультимедийная система.",
       "thumbnailUrl": null,
       "heroImageUrl": null,
@@ -106,7 +121,13 @@
         "driveType": "AWD",
         "transmission": "automatic"
       },
-      "tags": ["suv", "erev", "2022", "flagship", "6-seat"],
+      "tags": [
+        "suv",
+        "erev",
+        "2022",
+        "flagship",
+        "6-seat"
+      ],
       "aiAnalysisAvailable": false,
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"

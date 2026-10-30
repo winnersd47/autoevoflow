@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-diablo-se30",
+  "slug": "lamborghini-diablo-se30",
+  "name": "Lamborghini Diablo SE30",
+  "fullName": "Lamborghini Diablo SE30",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 1994,
+  "isActive": true,
+  "description": "1994 — юбилейное издание к 30-летию Lamborghini (Sesto Elemento del... 30 anniversario), самая лёгкая и мощная дорожная Diablo на тот момент (525hp, RWD, облегчение кузова). Лимит 150 экз. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:24:50.680Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/1995_Lamborghini_Diablo_SE_30.jpg/3840px-1995_Lamborghini_Diablo_SE_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:24:50.680Z"
+}

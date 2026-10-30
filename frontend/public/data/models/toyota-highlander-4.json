@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-highlander-4",
+  "slug": "toyota-highlander-4",
+  "name": "Toyota Highlander 4th Generation (XU70)",
+  "fullName": "Toyota Highlander 4th Generation (XU70)",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Четвёртое поколение, премьера в ноябре 2019 (MY2020) на платформе TNGA-K (общей с Camry/RAV4/Sienna). Базовый 2.5L Dynamic Force I4 — 184 л.с.; V6 3.5L — 295 л.с.; гибрид 2.5L — 243 л.с. суммарно. С MY2024 V6 заменён на турбо-гибрид 2.4L (265-362 л.с. в зависимости от версии).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:45:18.142Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/3840px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:45:18.142Z"
+}

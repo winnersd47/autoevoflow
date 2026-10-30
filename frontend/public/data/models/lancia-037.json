@@ -1,0 +1,20 @@
+{
+  "id": "sync-lancia-037",
+  "slug": "lancia-037",
+  "name": "Lancia 037",
+  "fullName": "Lancia 037 (1982)",
+  "brandId": "lancia",
+  "bodyType": "coupe",
+  "segment": "rally",
+  "primaryMarket": "global",
+  "startYear": 1982,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:00:59.526Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lancia_Delta_LX_2012_02.jpg/3840px-Lancia_Delta_LX_2012_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Lancia_Delta_LX_2012_02.jpg/3840px-Lancia_Delta_LX_2012_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:00:59.526Z"
+}

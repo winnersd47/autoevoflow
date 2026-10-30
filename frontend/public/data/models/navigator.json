@@ -1,0 +1,20 @@
+{
+  "id": "sync-navigator",
+  "slug": "navigator",
+  "name": "Navigator",
+  "fullName": "Navigator",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "3-е поколение (2007-2017) на платформе U324 (общей с Ford Expedition Gen.3), прежний codeName в графе ошибочно дублировал код 1-го поколения (UN93). До 2014г. — 5.4L V8 (310 л.с.), с рестайлинга 2015г. (то же поколение/платформа) — полностью новый 3.5L EcoBoost twin-turbo V6, 380 л.с./460 фунт-фут на премиальном топливе — пиковое и актуальное на конец выпуска значение, указано в узле. Источники: autocade.net, kbb.com (2015 Navigator EcoBoost switch).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:03:02.758Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg/3840px-2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg/3840px-2019_Lincoln_Navigator_%27Reserve%27%2C_front_8.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:03:02.758Z"
+}

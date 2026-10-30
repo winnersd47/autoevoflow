@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-niro-2",
+  "slug": "kia-niro-2",
+  "name": "Kia Niro II",
+  "fullName": "Kia Niro II (2022)",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "2-е поколение (SG2), три версии: HEV 1.6 GDi 141hp (указан как основная линия, как у Niro I), PHEV 183hp и Niro EV 204hp/64.8 кВтч. Ранее анкор ошибочно был EV-версией.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:47:30.227Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg/3840px-Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg/3840px-Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:47:30.227Z"
+}

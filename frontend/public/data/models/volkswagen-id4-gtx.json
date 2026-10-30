@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id4-gtx",
+  "slug": "volkswagen-id4-gtx",
+  "name": "ID.4 GTX",
+  "fullName": "ID.4 GTX",
+  "brandId": "volkswagen",
+  "bodyType": "suv",
+  "segment": "suv_mid",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:21:31.046Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Volkswagen_ID.Polo_IMG_8361.jpg/3840px-Volkswagen_ID.Polo_IMG_8361.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Volkswagen_ID.Polo_IMG_8361.jpg/3840px-Volkswagen_ID.Polo_IMG_8361.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:21:31.046Z"
+}

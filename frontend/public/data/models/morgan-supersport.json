@@ -1,0 +1,20 @@
+{
+  "id": "sync-morgan-supersport",
+  "slug": "morgan-supersport",
+  "name": "Supersport",
+  "fullName": "Supersport",
+  "brandId": "morgan",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:50:40.003Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2025_Morgan_Supersport_LC25.jpg/3840px-2025_Morgan_Supersport_LC25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2025_Morgan_Supersport_LC25.jpg/3840px-2025_Morgan_Supersport_LC25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:50:40.003Z"
+}

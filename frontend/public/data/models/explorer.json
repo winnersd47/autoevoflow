@@ -1,0 +1,20 @@
+{
+  "id": "sync-explorer",
+  "slug": "explorer",
+  "name": "Explorer Gen.5",
+  "fullName": "Explorer Gen.5",
+  "brandId": "ford",
+  "bodyType": "suv",
+  "segment": "midsize_suv",
+  "primaryMarket": "global",
+  "startYear": 1995,
+  "isActive": true,
+  "description": "",
+  "generationCount": 5,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:17:58.807Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ford_Explorer_EV_IMG_2120.jpg/3840px-Ford_Explorer_EV_IMG_2120.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Ford_Explorer_EV_IMG_2120.jpg/3840px-Ford_Explorer_EV_IMG_2120.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:17:58.807Z"
+}

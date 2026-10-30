@@ -1,0 +1,20 @@
+{
+  "id": "sync-infiniti-q60-project-black-s",
+  "slug": "infiniti-q60-project-black-s",
+  "name": "Infiniti Q60 Project Black S",
+  "fullName": "Infiniti Q60 Project Black S",
+  "brandId": "infiniti",
+  "bodyType": "coupe",
+  "segment": "concept",
+  "primaryMarket": "global",
+  "startYear": 2018,
+  "isActive": true,
+  "description": "Прототип на базе Q60 Red Sport 400, совместная разработка с Renault Sport F1: тот же твин-турбо 3.0L V6 (400 л.с.) + электромотор на задней оси (160 л.с., технология MGU-K/MGU-H из Формулы-1) = 563 л.с. суммарно. Показан в 2017 (концепт) и 2018 (ходовой прототип); проект закрыт в марте 2021, в серию не пошёл. Источник: carscoops.com, motorauthority.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:16:25.091Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg/3840px-2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg/3840px-2019_Infiniti_QX50_AWD%2C_front_8.25.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:16:25.092Z"
+}

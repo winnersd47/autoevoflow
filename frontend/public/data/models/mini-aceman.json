@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-aceman",
+  "slug": "mini-aceman",
+  "name": "Mini Aceman",
+  "fullName": "Mini Aceman (2024)",
+  "brandId": "mini",
+  "bodyType": "suv",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:05:52.905Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Mini_Aceman_DSC_7114.jpg/3840px-Mini_Aceman_DSC_7114.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Mini_Aceman_DSC_7114.jpg/3840px-Mini_Aceman_DSC_7114.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:05:52.905Z"
+}

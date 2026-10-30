@@ -12,12 +12,17 @@
   "isActive": false,
   "description": "The Maserati Ghibli II (1992–1998), developed under Fiat ownership, revived the legendary Ghibli name with a modern twin-turbocharged 2.8-litre V6. A sharp, Marcello Gandini–styled coupe, it marked Maserati's gradual recovery after the troubled Citroën and De Tomaso eras.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
-  "tags": ["coupe", "maserati", "classic", "heritage"],
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg/3840px-2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg/3840px-2018_Maserati_Ghibli_GranLusso_Diesel_3.0_facelift_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "tags": [
+    "coupe",
+    "maserati",
+    "classic",
+    "heritage"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T15:26:34.436Z",
   "generations": [
     {
       "id": "gen-maserati-ghibli-ii-1",
@@ -30,9 +35,15 @@
       "endYear": 1998,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "description": "The Maserati Ghibli II (1992–1998), developed under Fiat ownership, revived the legendary Ghibli name with a modern twin-turbocharged 2.8-litre V6. A sharp, Marcello Gandini–styled coupe, it marked Maserati's gradual recovery after the troubled Citroën and De Tomaso eras.",
       "thumbnailUrl": "",
       "heroImageUrl": "",

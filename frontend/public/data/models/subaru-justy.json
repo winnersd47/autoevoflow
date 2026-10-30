@@ -1,0 +1,20 @@
+{
+  "id": "sync-subaru-justy",
+  "slug": "subaru-justy",
+  "name": "Subaru Justy (1-е поколение)",
+  "fullName": "Subaru Justy (1-е поколение)",
+  "brandId": "subaru",
+  "bodyType": "hatchback",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Один из немногих Subaru НЕ на оппозитном моторе — Justy построен на удлинённой платформе кей-кара Rex и использует поперечный рядный 3-цилиндровый EF12 (1.2L SOHC, ~65-73 л.с. в зависимости от рынка/года), а не фирменный boxer. С февр. 1987г. — первый в мире серийный автомобиль с электронно управляемым бесступенчатым вариатором (ECVT) в этом классе. Поздние экспортные поколения Justy (1995-2003, затем 2007, затем 2016+) — ребейджи Suzuki Cultus/Daihatsu Boon/Toyota Tank, которые в данный аудит не включены как не являющиеся оригинальными разработками Subaru и не входящие в explicit scope задачи. Источник: Wikipedia (Subaru Justy), encycarpedia.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:56:36.893Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Subaru_Justy_1.2_GL_1991_%2834912975052%29.jpg/3840px-Subaru_Justy_1.2_GL_1991_%2834912975052%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Subaru_Justy_1.2_GL_1991_%2834912975052%29.jpg/3840px-Subaru_Justy_1.2_GL_1991_%2834912975052%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:56:36.893Z"
+}

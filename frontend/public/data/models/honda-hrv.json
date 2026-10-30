@@ -1,0 +1,20 @@
+{
+  "id": "sync-honda-hrv",
+  "slug": "honda-hrv",
+  "name": "Honda HR-V (RV)",
+  "fullName": "Honda HR-V (RV)",
+  "brandId": "honda",
+  "bodyType": "suv",
+  "segment": "subcompact",
+  "primaryMarket": "global",
+  "startYear": 1999,
+  "isActive": true,
+  "description": "Третье поколение — заметно крупнее предшественника, построено на платформе 11-го поколения Civic (FE/FL). Для США — атмосферный 2.0L, 158 л.с./138 lb-ft, вариатор. В Европе и Японии параллельно продаётся гибридная версия e:HEV (129 л.с.) под тем же именем; в Японии более крупная версия на этой платформе выделена в отдельную модель ZR-V.",
+  "generationCount": 3,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:38:06.962Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Honda_HR-V_eHEV_Advance_%28III%29_%E2%80%93_f_31122023.jpg/3840px-Honda_HR-V_eHEV_Advance_%28III%29_%E2%80%93_f_31122023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Honda_HR-V_eHEV_Advance_%28III%29_%E2%80%93_f_31122023.jpg/3840px-Honda_HR-V_eHEV_Advance_%28III%29_%E2%80%93_f_31122023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:38:06.962Z"
+}

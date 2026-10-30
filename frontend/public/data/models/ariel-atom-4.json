@@ -1,0 +1,20 @@
+{
+  "id": "sync-ariel-atom-4",
+  "slug": "ariel-atom-4",
+  "name": "Ariel Atom 4",
+  "fullName": "Ariel Atom 4",
+  "brandId": "ariel",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Complete redesign. Honda 2.0L VTEC Turbo (Civic Type R engine), 320 HP. New chromoly spaceframe. 0-60 in 2.8s. $88K+",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:03:32.215Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ArielAtomGoodwood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:03:32.215Z"
+}

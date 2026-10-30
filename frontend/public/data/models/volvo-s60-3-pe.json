@@ -1,0 +1,20 @@
+{
+  "id": "sync-volvo-s60-3-pe",
+  "slug": "volvo-s60-3-pe",
+  "name": "Volvo S60 Polestar Engineered",
+  "fullName": "Volvo S60 Polestar Engineered",
+  "brandId": "volvo",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Версия Polestar Engineered для S60 Gen3 — первый серийный автомобиль под обновлённым брендом Polestar Engineered (весна/лето 2019, MY2019), на основе серийного T8 Twin Engine PHEV (2.0 турбо+компрессор I4 + электромотор). Доработанное ПО силовой установки даёт 415 л.с./494 lb-ft (+15 л.с. к серийным 400 л.с. T8). Амортизаторы Öhlins с ручной регулировкой, тормоза Brembo, кованые диски, золотые ремни безопасности — софт/шасси-тюнинг серийного PHEV-мотора, не отдельный силовой агрегат. Выделен в отдельный узел из volvo-s60-3, который ранее был ошибочно замаскирован под эту версию (см. nodeFixes). Источники: consumerguide.com (Test Drive: 2019 Volvo S60 T8 Polestar), thecarmagazine.com, motorauthority.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:02:21.473Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/3840px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/3840px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:02:21.473Z"
+}

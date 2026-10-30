@@ -1,0 +1,20 @@
+{
+  "id": "sync-lada-2103",
+  "slug": "lada-2103",
+  "name": "ВАЗ-2103/2106",
+  "fullName": "ВАЗ-2103/2106",
+  "brandId": "lada",
+  "bodyType": "sedan",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 1972,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:20:54.212Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/VAZ_2101_BW_2016-09-03_13-51-58.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/VAZ_2101_BW_2016-09-03_13-51-58.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "updatedAt": "2026-10-29T16:20:54.212Z"
+}

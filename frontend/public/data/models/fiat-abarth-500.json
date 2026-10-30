@@ -1,0 +1,20 @@
+{
+  "id": "sync-fiat-abarth-500",
+  "slug": "fiat-abarth-500",
+  "name": "Abarth 695",
+  "fullName": "Abarth 695",
+  "brandId": "fiat",
+  "bodyType": "hatchback",
+  "segment": "hot_hatch",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "Текущий топ линейки — 180PS/178hp база, до 190hp (Biposto). Имя тоже историческое — от классического Abarth 695 1960х.",
+  "generationCount": 4,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:26:12.425Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fiat_Abarth_750_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fiat_Abarth_750_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:26:12.425Z"
+}

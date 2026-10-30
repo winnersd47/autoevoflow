@@ -1,0 +1,20 @@
+{
+  "id": "sync-bmw-z3m",
+  "slug": "bmw-z3m",
+  "name": "BMW Z3 M Coupe (E36/8)",
+  "fullName": "BMW Z3 M Coupe (E36/8)",
+  "brandId": "bmw",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Атмосферный S50/S52 I6, 321 л.с. — самая мощная и культовая версия Z3, кузов \"шутинг-брейк\". 1998г.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:08:54.545Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/BMW_G29_Z4_M40i_%28Facelift%29_1X7A6946-with-less-seller-info.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/BMW_G29_Z4_M40i_%28Facelift%29_1X7A6946-with-less-seller-info.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:08:54.545Z"
+}

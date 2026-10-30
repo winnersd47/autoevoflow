@@ -1,0 +1,20 @@
+{
+  "id": "sync-chev-ss",
+  "slug": "chev-ss",
+  "name": "Chevrolet SS (2014-2017)",
+  "fullName": "Chevrolet SS (2014-2017)",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Заднеприводный седан на платформе Zeta — фактически перебейдженный Holden Commodore SS (VF), собирался в Австралии. LS3 6.2L V8, 415hp, 6-АКПП (с 2015г. опция МКПП Tremec TR-6060). 0-60 за 4.5с. Не связан с Malibu/Impala платформенно — отдельная разработка на австралийской архитектуре GM.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:03:42.677Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Chevy_%2814467564735%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Chevy_%2814467564735%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:03:42.677Z"
+}

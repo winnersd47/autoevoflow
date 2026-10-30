@@ -1,0 +1,20 @@
+{
+  "id": "sync-gmc-acadia-3",
+  "slug": "gmc-acadia-3",
+  "name": "GMC Acadia",
+  "fullName": "GMC Acadia",
+  "brandId": "gmc",
+  "bodyType": "suv",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Третье поколение — снова крупнее (вернулась к полноразмерным 3-рядным габаритам), на удлинённой версии платформы C1 ('C1-2'). Реально новое поколение: новый кузов, впервые единственный мотор для всей линейки — 2.5L турбо-4, 328hp/326 lb-ft, 8-ступенчатый автомат (отказ от V6). Источники: en.wikipedia.org/wiki/GMC_Acadia, gmauthority.com/blog/gm/gmc/acadia/2024-gmc-acadia, cars.usnews.com/cars-trucks/gmc/acadia/2024/specs/acadia-fwd-denali-449290. Ранее планировавшаяся платформа VSS-F (truck-based) не была применена — финально это C1/'Chi', удлинённый вариант.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:13:52.118Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/3840px-2024_GMC_Acadia_Denali_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2024_GMC_Acadia_Denali_front_view.jpg/3840px-2024_GMC_Acadia_Denali_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:13:52.118Z"
+}

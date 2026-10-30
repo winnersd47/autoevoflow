@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-amg-gls63",
+  "slug": "mercedes-amg-gls63",
+  "name": "Mercedes-AMG GLS63 S (X167)",
+  "fullName": "Mercedes-AMG GLS63 S (X167)",
+  "brandId": "mercedes",
+  "bodyType": "suv",
+  "segment": "premium_suv",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "604 л.с., второе поколение GLS63. 2020г.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:09:04.513Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg/1280px-Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg/1280px-Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:09:04.513Z"
+}

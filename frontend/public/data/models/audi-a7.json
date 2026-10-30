@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi A7 Sportback (2010–present) is the four-door fastback in the A6 range — the Gran Turismo alternative to the A6 saloon. Its C7 (4G) and C8 (4K) generations offer TFSI/TDI powertrains and plug-in hybrid variants alongside performance S7 and RS7 derivatives.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/A7_h-tron_quattro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/A7_h-tron_quattro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "tags": [
     "coupe",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:29:41.297Z",
   "generations": [
     {
       "id": "gen-audi-a7-1",

@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-tank-hybrid",
+  "slug": "rezvani-tank-hybrid",
+  "name": "Rezvani Tank Hybrid",
+  "fullName": "Rezvani Tank Hybrid",
+  "brandId": "rezvani",
+  "bodyType": "suv",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "PHEV Tank on Jeep Wrangler 4xe platform. 375 HP combined, 30-mile EV range. First Rezvani hybrid.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:01:09.422Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rezvani_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:01:09.422Z"
+}

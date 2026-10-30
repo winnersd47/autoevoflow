@@ -1,0 +1,20 @@
+{
+  "id": "sync-de-tomaso-vallelunga",
+  "slug": "de-tomaso-vallelunga",
+  "name": "Vallelunga",
+  "fullName": "Vallelunga",
+  "brandId": "de-tomaso",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1965,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:48:14.324Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/1968_De_Tomaso_Vallelunga_2.jpg/3840px-1968_De_Tomaso_Vallelunga_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/1968_De_Tomaso_Vallelunga_2.jpg/3840px-1968_De_Tomaso_Vallelunga_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:48:14.324Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-ami",
+  "slug": "citroen-ami",
+  "name": "Ami 6",
+  "fullName": "Ami 6",
+  "brandId": "citroen",
+  "bodyType": "sedan",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1961,
+  "isActive": true,
+  "description": "Economy 2CV-based car with reverse-raked rear window. 0.6L air-cooled twin. 1.08M units.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:08:12.499Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bornholm_Rundt_2012_%282012-07-08%29%2C_by_Klugschnacker_modified.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:08:12.499Z"
+}

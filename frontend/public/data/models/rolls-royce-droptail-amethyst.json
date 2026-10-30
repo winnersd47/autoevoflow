@@ -1,0 +1,20 @@
+{
+  "id": "sync-rolls-royce-droptail-amethyst",
+  "slug": "rolls-royce-droptail-amethyst",
+  "name": "Rolls-Royce Amethyst Droptail",
+  "fullName": "Rolls-Royce Amethyst Droptail",
+  "brandId": "rolls-royce",
+  "bodyType": "convertible",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Второй коучбилд-родстер серии Droptail, представлен в августе 2023 на Pebble Beach — тема аметиста выбрана в честь камня-талисмана сына заказчика. Деревянная палуба за сиденьями — первая в мире деревянная поверхность, создающая прижимную силу (аэродинамический профиль из натурального шпона), часы Vacheron Constantin в консоли. Механика идентична La Rose Noire (твин-турбо V12, 593 л.с.). Источники: autoevolution.com, topgear.com, autocar.co.uk.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:33:14.170Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Osmaston_Rolls-Royce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:33:14.170Z"
+}

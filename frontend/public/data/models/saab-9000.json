@@ -1,0 +1,20 @@
+{
+  "id": "sync-saab-9000",
+  "slug": "saab-9000",
+  "name": "Saab 9000",
+  "fullName": "Saab 9000 (1984)",
+  "brandId": "saab",
+  "bodyType": "hatchback",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:29:24.000Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Viggen_%2852526298757%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Viggen_%2852526298757%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T17:29:24.000Z"
+}

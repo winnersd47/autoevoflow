@@ -1,0 +1,20 @@
+{
+  "id": "sync-bentley-conti-gt3-s",
+  "slug": "bentley-conti-gt3-s",
+  "name": "Bentley Continental GT S",
+  "fullName": "Bentley Continental GT S",
+  "brandId": "bentley",
+  "bodyType": "coupe",
+  "segment": "premium",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Спортивная спецификация на базе V8 (тот же мотор 542 л.с./770 Нм, что и в Continental GT V8), представлена в 2022 году одновременно с комфортной линейкой Azure. Спортивный выхлоп, 22-дюймовые чёрные диски с 5 Y-образными спицами, красные суппорты, отделка Dinamica в салоне. Источники: gulfnews.com, kbb.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:34:25.528Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:34:25.528Z"
+}

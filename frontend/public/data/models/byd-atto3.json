@@ -1,0 +1,20 @@
+{
+  "id": "sync-byd-atto3",
+  "slug": "byd-atto3",
+  "name": "BYD Atto 3",
+  "fullName": "BYD Atto 3",
+  "brandId": "byd",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:26:56.634Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/BYD_Dolphin_Surf_IAA_2025_DSC_2031.jpg/3840px-BYD_Dolphin_Surf_IAA_2025_DSC_2031.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/BYD_Dolphin_Surf_IAA_2025_DSC_2031.jpg/3840px-BYD_Dolphin_Surf_IAA_2025_DSC_2031.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T16:26:56.634Z"
+}

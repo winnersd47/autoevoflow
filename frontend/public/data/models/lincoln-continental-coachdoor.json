@@ -1,0 +1,20 @@
+{
+  "id": "sync-lincoln-continental-coachdoor",
+  "slug": "lincoln-continental-coachdoor",
+  "name": "Lincoln Continental Coach Door Edition",
+  "fullName": "Lincoln Continental Coach Door Edition",
+  "brandId": "lincoln",
+  "bodyType": "sedan",
+  "segment": "ultra-luxury",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Лимитированная версия возрождённого Continental с задними дверями, открывающимися против хода (\"coach doors\"/\"suicide doors\") — колёсная база удлинена на 6 дюймов (~15см) относительно обычного Black Label. Силовой агрегат идентичен топовому Continental Black Label AWD — 3.0L twin-turbo V6, 400 л.с./400 фунт-фут. Две партии: 80 экземпляров (80th Anniversary Edition, MY2019, только США) + 150 экземпляров (MY2020) = ~230 всего. Это не ателье/тюнинг-переделка аутсайдером, а официальный лимитированный вариант Lincoln (isTuning=false), поэтому ребро к Continental D6E/CD4 — variant_of (трим внутри того же поколения/платформы), а не derived_from. Источники: fordauthority.com, motorauthority.com, carscoops.com, Bonhams (аукционный лот 2020г.).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:05:02.807Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg/3840px-2019_Lincoln_Continental_%22Select%22%2C_front_10.29.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:05:02.807Z"
+}

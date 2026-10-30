@@ -1,0 +1,20 @@
+{
+  "id": "sync-pontiac-g8",
+  "slug": "pontiac-g8",
+  "name": "G8 GT",
+  "fullName": "G8 GT",
+  "brandId": "pontiac",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 2008,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T16:59:42.736Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pontiac_G8_V6_--_02-04-2012_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pontiac_G8_V6_--_02-04-2012_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T16:59:42.736Z"
+}

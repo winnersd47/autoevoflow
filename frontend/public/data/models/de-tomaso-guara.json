@@ -1,0 +1,20 @@
+{
+  "id": "sync-de-tomaso-guara",
+  "slug": "de-tomaso-guara",
+  "name": "Guarà",
+  "fullName": "Guarà",
+  "brandId": "de-tomaso",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1993,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:48:19.863Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Guara_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Guara_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T15:48:19.863Z"
+}

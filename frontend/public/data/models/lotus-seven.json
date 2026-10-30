@@ -1,0 +1,20 @@
+{
+  "id": "sync-lotus-seven",
+  "slug": "lotus-seven",
+  "name": "Lotus Seven",
+  "fullName": "Lotus Seven",
+  "brandId": "lotus",
+  "bodyType": "roadster",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 1957,
+  "isActive": true,
+  "description": "Colin Chapman's minimalist open-wheel sports car. Tube spaceframe, no roof. 75–100 HP. Blueprint for all British ultralight track cars. Rights sold to Caterham 1973.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:05:57.208Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lotus7Series1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lotus7Series1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:05:57.208Z"
+}

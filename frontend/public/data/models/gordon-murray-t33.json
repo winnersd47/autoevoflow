@@ -1,0 +1,20 @@
+{
+  "id": "sync-gordon-murray-t33",
+  "slug": "gordon-murray-t33",
+  "name": "T.33",
+  "fullName": "T.33",
+  "brandId": "gordon-murray",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:47:03.000Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2024_GMA_T.50_SCD24.jpg/3840px-2024_GMA_T.50_SCD24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2024_GMA_T.50_SCD24.jpg/3840px-2024_GMA_T.50_SCD24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:47:03.000Z"
+}

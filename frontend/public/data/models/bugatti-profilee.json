@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-profilee",
+  "slug": "bugatti-profilee",
+  "name": "Bugatti Chiron Profilée",
+  "fullName": "Bugatti Chiron Profilée",
+  "brandId": "bugatti",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Единственный экземпляр, построен в 2022 как менее радикальная альтернатива Pur Sport на агрегатах Super Sport (1600 л.с.); открытая карбоновая отделка Bleu Royal. Продан на аукционе в Париже в фев. 2023 за €9.79 млн — рекордная цена для нового автомобиля на аукционе. Источник: RM Sotheby's, Bugatti Newsroom, Top Gear.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:28:23.289Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:28:23.289Z"
+}

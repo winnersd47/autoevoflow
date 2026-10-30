@@ -1,0 +1,20 @@
+{
+  "id": "sync-kia-ev9",
+  "slug": "kia-ev9",
+  "name": "Kia EV9 GT",
+  "fullName": "Kia EV9 GT",
+  "brandId": "kia",
+  "bodyType": "suv",
+  "segment": "exec_sports",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "Производительная версия EV9: два мотора, 374 кВт (501-509 л.с. в зависимости от рынка/норматива), электронно-управляемая подвеска, e-LSD, Virtual Gear Shift. Запуск в Корее фев. 2025, Европа/США — 2026 МГ. Источник: Kia press office, Edmunds, electrek.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:58:06.611Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kia_EV9_1X7A2472.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kia_EV9_1X7A2472.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:58:06.611Z"
+}

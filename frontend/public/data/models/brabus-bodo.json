@@ -1,0 +1,20 @@
+{
+  "id": "sync-brabus-bodo",
+  "slug": "brabus-bodo",
+  "name": "Brabus Bodo",
+  "fullName": "Brabus Bodo",
+  "brandId": "brabus",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2026,
+  "isActive": true,
+  "description": "Первый НЕ-Mercedes суперкар Brabus за 48 лет истории — назван в честь основателя Bodo Buschmann. Донор — Aston Martin Vanquish (сохранена только крыша, весь остальной кузов — бespoke карбон). Доработанный V12 5.2Т: 1000PS/986hp, 1200Нм. 77 экземпляров, от €1.077M (год = год основания Brabus).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:41:49.193Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Brabus_900_Rocket_IMG_0536.jpg/3840px-Brabus_900_Rocket_IMG_0536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Brabus_900_Rocket_IMG_0536.jpg/3840px-Brabus_900_Rocket_IMG_0536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:41:49.193Z"
+}

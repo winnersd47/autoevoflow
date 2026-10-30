@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-prado-150",
+  "slug": "toyota-prado-150",
+  "name": "Toyota Land Cruiser Prado J150",
+  "fullName": "Toyota Land Cruiser Prado J150",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "off_road",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "Четвёртое поколение (2009) — самое долгоживущее, 14 лет на рынке. Дизель 3.0L D-4D (1KD-FTV) — 173-190 л.с.; бензиновый 4.0L V6 1GR-FE — 282 л.с. Лексус-близнец — GX460 J150 (узел lexus-gx-j150 уже есть в графе). Сменился в 2023 поколением J250, которое с 2024 модельного года в Северной Америке продаётся под историческим именем «Land Cruiser» (см. nodeFix для ncs-toyota-2026-toyota-land-cruiser).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:47:38.059Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg/3840px-2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg/3840px-2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:47:38.059Z"
+}

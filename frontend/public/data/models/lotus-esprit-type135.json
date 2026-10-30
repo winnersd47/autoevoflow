@@ -1,0 +1,20 @@
+{
+  "id": "sync-lotus-esprit-type135",
+  "slug": "lotus-esprit-type135",
+  "name": "Lotus Esprit Type 135",
+  "fullName": "Lotus Esprit Type 135",
+  "brandId": "lotus",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2028,
+  "isActive": true,
+  "description": "Гибридный V8-суперкар Lotus (внутренний код Type 135), анонсирован главой Lotus как первый V8 бренда за 20+ лет; производство — Хетел (Великобритания), старт в 2028. Заявленный совокупный выход — до ~986 л.с. (гибрид V8) с версией V6 попроще. Имя \"Esprit\" пока не объявлено официально (утечка через имя файла тизера), но фактически подразумевается почти всеми источниками как духовное возрождение культового имени — inspired_by от оригинальной S1, а не прямая эволюция (принципиально другая архитектура).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:11:01.297Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1999_Lotus_Esprit_V8_type_918.jpg/3840px-1999_Lotus_Esprit_V8_type_918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1999_Lotus_Esprit_V8_type_918.jpg/3840px-1999_Lotus_Esprit_V8_type_918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:11:01.297Z"
+}

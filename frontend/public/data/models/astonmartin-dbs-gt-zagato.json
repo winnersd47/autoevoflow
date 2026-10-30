@@ -1,0 +1,20 @@
+{
+  "id": "sync-astonmartin-dbs-gt-zagato",
+  "slug": "astonmartin-dbs-gt-zagato",
+  "name": "Aston Martin DBS GT Zagato",
+  "fullName": "Aston Martin DBS GT Zagato",
+  "brandId": "astonmartin",
+  "bodyType": "coupe",
+  "segment": "gt_coupe",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Современная половина парного релиза \"DBZ Centenary Collection\" (к 106-летию бренда, продавался только В ПАРЕ с DB4 GT Zagato Continuation). На базе DBS Superleggera — 5.2Т V12, доработан до 760hp. Крыша из цельного куска карбона, продолжающаяся до заднего стекла (заднего стекла как такового нет).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:47:47.938Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg/3840px-1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg/3840px-1960_Aston_Martin_DB4_GT_Zagato_HCC24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:47:47.938Z"
+}

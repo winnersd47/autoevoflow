@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-tacoma-3",
+  "slug": "toyota-tacoma-3",
+  "name": "Toyota Tacoma Gen3",
+  "fullName": "Toyota Tacoma Gen3 (2015)",
+  "brandId": "toyota",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 2015,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:08:18.917Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Toyota_Tacoma_%28N300%29_TRD_1X7A2438.jpg/3840px-Toyota_Tacoma_%28N300%29_TRD_1X7A2438.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Toyota_Tacoma_%28N300%29_TRD_1X7A2438.jpg/3840px-Toyota_Tacoma_%28N300%29_TRD_1X7A2438.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:08:18.917Z"
+}

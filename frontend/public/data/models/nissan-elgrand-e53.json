@@ -1,0 +1,20 @@
+{
+  "id": "sync-nissan-elgrand-e53",
+  "slug": "nissan-elgrand-e53",
+  "name": "Elgrand E53",
+  "fullName": "Elgrand E53",
+  "brandId": "nissan",
+  "bodyType": "van",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2025,
+  "isActive": true,
+  "description": "Четвёртое поколение Elgrand (E53) — представлено на Japan Mobility Show 29 октября 2025, продажи в Японии с лета 2026. Впервые гибридная силовая установка e-POWER 3-го поколения с полным приводом e-4ORCE: турбо-I3 1.5L работает только как генератор, суммарная мощность двух электромоторов ≈340 л.с. Источник: Nissan пресс-релиз, AutoBuzz.my, techeblog.com 2025.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:50:11.941Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg/3840px-2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg/3840px-2013_Nissan_Elgrand_3.5_Highway_Star_E52_%2820220726%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:50:11.941Z"
+}

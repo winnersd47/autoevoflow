@@ -1,0 +1,20 @@
+{
+  "id": "sync-ds-3-crossback",
+  "slug": "ds-3-crossback",
+  "name": "DS 3 Crossback",
+  "fullName": "DS 3 Crossback",
+  "brandId": "ds",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2019,
+  "isActive": true,
+  "description": "Прямой преемник Citroën DS3 ПОСЛЕ выделения DS Automobiles в отдельный бренд (2014/2015) — первый по-настоящему новый продукт марки (не ребейдж), кроссовер-формат, 1.2 PureTech 130 (131hp) + версия E-Tense EV 136hp. Источник: motorauthority.com, parkers.co.uk.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:23:48.012Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DSV_Bakunawa_descending_underwater_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/DSV_Bakunawa_descending_underwater_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:23:48.012Z"
+}

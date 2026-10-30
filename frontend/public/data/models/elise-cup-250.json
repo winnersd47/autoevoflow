@@ -1,0 +1,20 @@
+{
+  "id": "sync-elise-cup-250",
+  "slug": "elise-cup-250",
+  "name": "Elise Cup 250",
+  "fullName": "Elise Cup 250",
+  "brandId": "lotus",
+  "bodyType": "roadster",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2017,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:32:10.420Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lotus_Elise_Club_Racer_%28front_quarter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lotus_Elise_Club_Racer_%28front_quarter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:32:10.420Z"
+}

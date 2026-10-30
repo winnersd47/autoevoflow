@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-crown-ms110",
+  "slug": "toyota-crown-ms110",
+  "name": "Toyota Crown MS110",
+  "fullName": "Toyota Crown MS110 (1979)",
+  "brandId": "toyota",
+  "bodyType": "sedan",
+  "segment": "exec",
+  "primaryMarket": "global",
+  "startYear": 1979,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:09:28.772Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_Crown_Sedan_FCEV.jpg/3840px-Toyota_Crown_Sedan_FCEV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_Crown_Sedan_FCEV.jpg/3840px-Toyota_Crown_Sedan_FCEV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:09:28.772Z"
+}

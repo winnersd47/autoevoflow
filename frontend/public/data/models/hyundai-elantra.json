@@ -1,0 +1,20 @@
+{
+  "id": "sync-hyundai-elantra",
+  "slug": "hyundai-elantra",
+  "name": "Elantra CN7",
+  "fullName": "Elantra CN7 (2021)",
+  "brandId": "hyundai",
+  "bodyType": "sedan",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 1990,
+  "isActive": true,
+  "description": "",
+  "generationCount": 7,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:09:46.468Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2023_Hyundai_Elantra_Limited_in_Silver%2C_front_left%2C_04-04-2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2023_Hyundai_Elantra_Limited_in_Silver%2C_front_left%2C_04-04-2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:09:46.468Z"
+}

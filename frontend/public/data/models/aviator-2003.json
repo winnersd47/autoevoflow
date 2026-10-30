@@ -1,0 +1,20 @@
+{
+  "id": "sync-aviator-2003",
+  "slug": "aviator-2003",
+  "name": "Aviator Gen.1",
+  "fullName": "Aviator Gen.1",
+  "brandId": "lincoln",
+  "bodyType": "suv",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "1-е поколение (2003-2005) на платформе Ford Explorer Gen.3 (U152), единственное поколение перед 15-летним перерывом до 2020г. Топ-мотор — уникальная для линейки форсировка 4.6L SOHC V8 — 302 л.с. (мощнее, чем в донорском Explorer). Источник: общеизвестные данные по Lincoln Aviator (2003-2005).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:43:03.680Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2020_Lincoln_Aviator_Black_Label_in_Chroma_Caviar_Dark_Grey%2C_front_left.jpg/3840px-2020_Lincoln_Aviator_Black_Label_in_Chroma_Caviar_Dark_Grey%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2020_Lincoln_Aviator_Black_Label_in_Chroma_Caviar_Dark_Grey%2C_front_left.jpg/3840px-2020_Lincoln_Aviator_Black_Label_in_Chroma_Caviar_Dark_Grey%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:43:03.680Z"
+}

@@ -12,15 +12,15 @@
   "isActive": true,
   "description": "The Audi RS6 Avant (2002–present) is the definitive performance estate and one of the most influential fast cars in history. The C5's twin-turbocharged 4.2-litre V8 (450 hp), the C7's 4.0-litre V8 (560 hp), and the C8's 4.0-litre V8 hybrid (600 hp) form a lineage of barely restrained family cars that can outrun supercars. The RS6 Avant defined the genre.",
   "generationCount": 1,
-  "thumbnailUrl": "",
-  "heroImageUrl": "",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1995_Audi_RS2_Avant_LC25.jpg/3840px-1995_Audi_RS2_Avant_LC25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1995_Audi_RS2_Avant_LC25.jpg/3840px-1995_Audi_RS2_Avant_LC25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "wagon",
     "audi"
   ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
-  "updatedAt": "2026-01-01T00:00:00Z",
+  "updatedAt": "2026-10-29T14:14:22.689Z",
   "generations": [
     {
       "id": "gen-audi-rs6-1",

@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-murcielago-lp670-4-sv",
+  "slug": "lamborghini-murcielago-lp670-4-sv",
+  "name": "Lamborghini Murciélago LP670-4 SuperVeloce",
+  "fullName": "Lamborghini Murciélago LP670-4 SuperVeloce",
+  "brandId": "lamborghini",
+  "bodyType": "coupe",
+  "segment": "supercar",
+  "primaryMarket": "global",
+  "startYear": 2009,
+  "isActive": true,
+  "description": "Женева, март 2009 — самая мощная и лёгкая серийная Murciélago (670hp, -100кг сухого веса), финальная версия перед Aventador. AWD. Анонсированный лимит 350 экз., по разным источникам фактически выпущено меньше (~186-308). Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:24:43.539Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lamborghini_Murci%C3%A9lago_LP-640_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lamborghini_Murci%C3%A9lago_LP-640_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T19:24:43.539Z"
+}

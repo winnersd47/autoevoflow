@@ -1,0 +1,20 @@
+{
+  "id": "sync-mercedes-amg-cla45",
+  "slug": "mercedes-amg-cla45",
+  "name": "Mercedes-AMG CLA45 S (C118)",
+  "fullName": "Mercedes-AMG CLA45 S (C118)",
+  "brandId": "mercedes",
+  "bodyType": "coupe",
+  "segment": "premium_compact",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "M139, 415 л.с. 2019г.",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:10:09.775Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg/1280px-Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg/1280px-Mercedes-Benz_Star_%281969-1986%2C_2025-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:10:09.776Z"
+}

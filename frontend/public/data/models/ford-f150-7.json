@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-7",
+  "slug": "ford-f150-7",
+  "name": "Ford F-150 Gen.7",
+  "fullName": "Ford F-150 Gen.7",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1980,
+  "isActive": true,
+  "description": "Седьмое поколение (1980-86, прозвище \"Bullnose\") — первый крупный рестайл кузова, новая решётка с синим овалом Ford, впервые дизельный мотор в гамме пикапов (6.9L V8 International, с 1983г.). Базовая рядная 6-ка 300ci — 115hp; V8 302ci — 130hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:43.846Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:43.846Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-alfa-90-1984",
+  "slug": "alfa-90-1984",
+  "name": "Alfa Romeo 90",
+  "fullName": "Alfa Romeo 90",
+  "brandId": "alfa-romeo",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Малозаметная модель — консервативный дизайн Bertone сложно отличим по тримам, не унаследовала спортивной репутации Alfetta, быстро сменена 164 (1987). Шасси/трансэксл от Alfetta, моторы общие с Alfa 6. База — 1.8 I4, 120PS. Всего 56428 экз. за неполные 4 года.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:06:20.449Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/3840px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:06:20.449Z"
+}

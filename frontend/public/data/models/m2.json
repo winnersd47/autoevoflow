@@ -1,0 +1,20 @@
+{
+  "id": "sync-m2",
+  "slug": "m2",
+  "name": "BMW M2 EV",
+  "fullName": "BMW M2 EV",
+  "brandId": "bmw",
+  "bodyType": "coupe",
+  "segment": "sport",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:24:10.570Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/BMW_C_Evolution_2014-05-25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/BMW_C_Evolution_2014-05-25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:24:10.570Z"
+}

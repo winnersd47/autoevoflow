@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-visa-1000-pistes",
+  "slug": "citroen-visa-1000-pistes",
+  "name": "Citroën Visa 1000 Pistes",
+  "fullName": "Citroën Visa 1000 Pistes",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "racing",
+  "primaryMarket": "global",
+  "startYear": 1984,
+  "isActive": true,
+  "description": "Первый полноприводный гомологационный Group B (XY8-based 1.36Л, 112hp дорожная версия; Evolution — до 145hp). Источник: passionnement-citroen.com, tech-racingcars.wikidot.com.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:22:37.854Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1985_Citroen_Visa_11_RE_1.1_Front.jpg/3840px-1985_Citroen_Visa_11_RE_1.1_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/1985_Citroen_Visa_11_RE_1.1_Front.jpg/3840px-1985_Citroen_Visa_11_RE_1.1_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T20:22:37.854Z"
+}

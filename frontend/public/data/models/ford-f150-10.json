@@ -1,0 +1,20 @@
+{
+  "id": "sync-ford-f150-10",
+  "slug": "ford-f150-10",
+  "name": "Ford F-150 Gen.10",
+  "fullName": "Ford F-150 Gen.10",
+  "brandId": "ford",
+  "bodyType": "pickup",
+  "segment": "truck",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Десятое поколение (1997-2003, дизайн-язык Ford \"New Edge\") — F-150 впервые получил отдельную от Super Duty платформу и кузов. Новые SOHC V8 на замену старым OHV: 4.6L — 220hp (231hp с 1999г.), топовый 5.4L Triton — 235hp (260hp с 1999г.); база — 4.2L V6, 202hp.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:52:48.201Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg/3840px-2018_Ford_F-150_XLT_Crew_Cab%2C_front_11.10.19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:52:48.201Z"
+}

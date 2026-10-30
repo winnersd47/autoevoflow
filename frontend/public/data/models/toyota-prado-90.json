@@ -1,0 +1,20 @@
+{
+  "id": "sync-toyota-prado-90",
+  "slug": "toyota-prado-90",
+  "name": "Toyota Land Cruiser Prado J90",
+  "fullName": "Toyota Land Cruiser Prado J90",
+  "brandId": "toyota",
+  "bodyType": "suv",
+  "segment": "off_road",
+  "primaryMarket": "global",
+  "startYear": 1996,
+  "isActive": true,
+  "description": "Второе поколение (1996) — первый Prado с полностью самостоятельным кузовом, не повторяющим упрощённый дизайн LC70. Топовый бензиновый мотор — 3.4L V6 5VZ-FE, 178 л.с.; дизель 3.0L TD (1KZ-TE с интеркулером) — ок. 125-130 л.с. Основной конкурент Mitsubishi Pajero/Montero на экспортных рынках.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:46:33.715Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg/3840px-2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg/3840px-2024_Toyota_Land_Cruiser_250_VX_in_Platinum_White_Pearl_Mica%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:46:33.715Z"
+}

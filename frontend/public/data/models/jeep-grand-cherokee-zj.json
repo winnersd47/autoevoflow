@@ -1,0 +1,20 @@
+{
+  "id": "sync-jeep-grand-cherokee-zj",
+  "slug": "jeep-grand-cherokee-zj",
+  "name": "Jeep Grand Cherokee 5.9 Limited",
+  "fullName": "Jeep Grand Cherokee 5.9 Limited",
+  "brandId": "jeep",
+  "bodyType": "suv",
+  "segment": "large_suv",
+  "primaryMarket": "global",
+  "startYear": 1992,
+  "isActive": true,
+  "description": "Самый мощный серийный ZJ (финальный год поколения) — 5.9L V8 245 л.с./345 Нм, тираж ограничен (~14-16 тыс.), маркетинг Jeep называл его «самым быстрым серийным внедорожником в мире» (0-96 км/ч за 7.6 с). Прямой исторический предок будущей SRT8-линейки Grand Cherokee. Источники: automobile-catalog.com, topcarrating.com, oldcarmemories.com (1998).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:57:54.334Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg/3840px-2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg/3840px-2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:57:54.334Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-bugatti-eb110",
+  "slug": "bugatti-eb110",
+  "name": "EB110 Super Sport",
+  "fullName": "EB110 Super Sport",
+  "brandId": "bugatti",
+  "bodyType": "coupe",
+  "segment": "hypercar",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:46:09.091Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/1995_Bugatti_EB110SS_in_Blu_Bugatti%2C_front_left_%28Greenwich%29.jpg/3840px-1995_Bugatti_EB110SS_in_Blu_Bugatti%2C_front_left_%28Greenwich%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/1995_Bugatti_EB110SS_in_Blu_Bugatti%2C_front_left_%28Greenwich%29.jpg/3840px-1995_Bugatti_EB110SS_in_Blu_Bugatti%2C_front_left_%28Greenwich%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:46:09.092Z"
+}

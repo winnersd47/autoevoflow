@@ -1,0 +1,20 @@
+{
+  "id": "sync-citroen-e-c3",
+  "slug": "citroen-e-c3",
+  "name": "C3 Gen.4",
+  "fullName": "C3 Gen.4",
+  "brandId": "citroen",
+  "bodyType": "hatchback",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2024,
+  "isActive": true,
+  "description": "Ребро от C3 Gen.3 было variant_of (как будто просто EV-трим) — ОШИБКА: подтверждено (citroenvie.com \"Citroën Introduces 4th Generation C3\", пресс-релизы Stellantis), это самостоятельное 4-е поколение C3 на новой платформе Smart Car Platform (не CMP, на которой построено Gen.3) — глобальная модель (Европа/Индия/Лат.Америка, там же база для Basalt/нового C3 Aircross). Переименован \"ë-C3\"→\"C3 Gen.4\" для единообразия с Gen.2/Gen.3; серийное имя ë-C3 сохранено в note. Ребро перетипизировано evolves_into.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:10:48.084Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/3840px-Citroen_C4_%282020%29_1X7A5851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/3840px-Citroen_C4_%282020%29_1X7A5851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:10:48.084Z"
+}

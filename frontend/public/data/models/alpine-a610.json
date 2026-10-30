@@ -1,0 +1,20 @@
+{
+  "id": "sync-alpine-a610",
+  "slug": "alpine-a610",
+  "name": "Alpine A610 Turbo",
+  "fullName": "Alpine A610 Turbo",
+  "brandId": "alpine",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 1991,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:02:13.851Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alpine_A110_S_Automesse_Ludwigsburg_2022_1X7A5946.jpg/3840px-Alpine_A110_S_Automesse_Ludwigsburg_2022_1X7A5946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alpine_A110_S_Automesse_Ludwigsburg_2022_1X7A5946.jpg/3840px-Alpine_A110_S_Automesse_Ludwigsburg_2022_1X7A5946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:02:13.851Z"
+}

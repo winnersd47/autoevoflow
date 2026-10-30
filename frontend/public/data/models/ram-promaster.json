@@ -1,0 +1,20 @@
+{
+  "id": "sync-ram-promaster",
+  "slug": "ram-promaster",
+  "name": "Ram ProMaster EV",
+  "fullName": "Ram ProMaster EV (2024)",
+  "brandId": "ram",
+  "bodyType": "van",
+  "segment": "commercial",
+  "primaryMarket": "global",
+  "startYear": 2014,
+  "isActive": true,
+  "description": "Первый серийный электрофургон Ram — тот же кузов/поколение, что и ICE ProMaster (2014, донор Fiat Ducato), электропривод передних колёс, 110кВтч батарея (с 2025 м.г.), до 162 миль (260км) запаса хода WLTP-подобного цикла. Источники: electrek.com, kbb.com, autoblog.com (2025-2026).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:56:45.338Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ram_ProMaster_City_Montr%C3%A9al.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ram_ProMaster_City_Montr%C3%A9al.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T14:56:45.338Z"
+}

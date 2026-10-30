@@ -11,8 +11,8 @@
   "isActive": true,
   "description": "The Limited trim gets the new system, while the Platinum's turbocharged hybrid is all about performance",
   "generationCount": 1,
-  "heroImageUrl": "",
-  "thumbnailUrl": "",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_Crown_Sedan_FCEV.jpg/3840px-Toyota_Crown_Sedan_FCEV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Toyota_Crown_Sedan_FCEV.jpg/3840px-Toyota_Crown_Sedan_FCEV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "tags": [
     "new",
     "2027"
@@ -22,5 +22,5 @@
   "isLatest": true,
   "scrapedAt": "2026-07-24T10:10:44.410Z",
   "createdAt": "2026-07-24T10:10:54.579Z",
-  "updatedAt": "2026-07-24T10:10:54.579Z"
+  "updatedAt": "2026-10-29T17:59:47.771Z"
 }

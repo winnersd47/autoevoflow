@@ -1,0 +1,20 @@
+{
+  "id": "sync-chevy-malibu",
+  "slug": "chevy-malibu",
+  "name": "Malibu Gen.6",
+  "fullName": "Malibu Gen.6",
+  "brandId": "chevrolet",
+  "bodyType": "sedan",
+  "segment": "midsize",
+  "primaryMarket": "global",
+  "startYear": 2004,
+  "isActive": true,
+  "description": "2.2L Ecotec I4, 145hp (база). Платформа GM Epsilon (GMX380) — общая с Saab 9-3 и Opel Vectra C. Ранее в графе ошибочно значилась как \"Gen.7\" — по стандартной нумерации (Wikipedia и др.) это 6-е поколение.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:48:03.022Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_02112024.jpg/3840px-Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_02112024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_02112024.jpg/3840px-Chevrolet_Malibu_LT_%28IX%2C_Facelift%29_%E2%80%93_f_02112024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:48:03.022Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-chrysler-crossfire",
+  "slug": "chrysler-crossfire",
+  "name": "Chrysler Crossfire",
+  "fullName": "Chrysler Crossfire (2003)",
+  "brandId": "chrysler",
+  "bodyType": "coupe",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2003,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:23:08.243Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2004_Chrysler_Crossfire_3.2.jpg/3840px-2004_Chrysler_Crossfire_3.2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2004_Chrysler_Crossfire_3.2.jpg/3840px-2004_Chrysler_Crossfire_3.2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:23:08.243Z"
+}

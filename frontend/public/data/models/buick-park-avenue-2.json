@@ -1,0 +1,20 @@
+{
+  "id": "sync-buick-park-avenue-2",
+  "slug": "buick-park-avenue-2",
+  "name": "Buick Park Avenue Ultra",
+  "fullName": "Buick Park Avenue Ultra",
+  "brandId": "buick",
+  "bodyType": "sedan",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 1997,
+  "isActive": true,
+  "description": "Рестайлинг платформы (колёсная база +3 дюйма, до 113.8), финальное поколение модели (снята с производства в 2005г.). Ultra — supercharged 3800 (сначала Series II L67, затем Series III L32), стабильно 240hp/280 фунт-фут. Источник: motogallery.com (1997-2005 Buick Park Avenue Ultra).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T20:06:44.854Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/2001_Buick_Park_Avenue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/2001_Buick_Park_Avenue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T20:06:44.854Z"
+}

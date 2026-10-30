@@ -1,0 +1,20 @@
+{
+  "id": "sync-lynk-co-06",
+  "slug": "lynk-co-06",
+  "name": "Lynk & Co 06",
+  "fullName": "Lynk & Co 06",
+  "brandId": "lynk-co",
+  "bodyType": "suv",
+  "segment": "compact_suv",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Самый компактный SUV в линейке. 1.5Т турбо-«тройка», 290Нм, 7-ст. DCT; есть и PHEV-версия (187hp суммарно, турбомотор + 80hp э/мотор).",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:57:21.406Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lynk_%26_Co_Z10_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:57:21.406Z"
+}

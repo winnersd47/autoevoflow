@@ -1,0 +1,20 @@
+{
+  "id": "sync-rezvani-beast-alpha",
+  "slug": "rezvani-beast-alpha",
+  "name": "Rezvani Beast Alpha",
+  "fullName": "Rezvani Beast Alpha",
+  "brandId": "rezvani",
+  "bodyType": "coupe",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2016,
+  "isActive": true,
+  "description": "Hardtop coupe on Lotus Elise chassis. Sidewinder dihedral doors. $95K.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:00:57.263Z",
+  "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/RezvaniBeast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+  "updatedAt": "2026-10-29T18:00:57.263Z"
+}

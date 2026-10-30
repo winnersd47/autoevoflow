@@ -1,0 +1,20 @@
+{
+  "id": "sync-lamborghini-urus-s",
+  "slug": "lamborghini-urus-s",
+  "name": "Lamborghini Urus S",
+  "fullName": "Lamborghini Urus S",
+  "brandId": "lamborghini",
+  "bodyType": "suv",
+  "segment": "luxury",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "Нояб. 2022 (MY2023) — сменил базовый Urus как стандартная версия линейки: тот же форсированный до 666hp 4.0Л V8, что у Performante, но комфортная настройка пневмоподвески вместо трек-фокуса. Источник: официальные пресс-материалы Lamborghini.",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T19:21:11.643Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/3840px-Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Lamborghini_Urus_SE_DSC_8524.jpg/3840px-Lamborghini_Urus_SE_DSC_8524.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T19:21:11.643Z"
+}

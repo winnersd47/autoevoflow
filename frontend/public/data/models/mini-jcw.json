@@ -1,0 +1,20 @@
+{
+  "id": "sync-mini-jcw",
+  "slug": "mini-jcw",
+  "name": "Mini JCW",
+  "fullName": "Mini JCW (2006)",
+  "brandId": "mini",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2006,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:05:46.950Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/MINI_Clubman_%28MSP16%29.jpg/3840px-MINI_Clubman_%28MSP16%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/MINI_Clubman_%28MSP16%29.jpg/3840px-MINI_Clubman_%28MSP16%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:05:46.950Z"
+}

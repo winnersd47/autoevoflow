@@ -1,0 +1,20 @@
+{
+  "id": "sync-cupra-born",
+  "slug": "cupra-born",
+  "name": "Cupra Born",
+  "fullName": "Cupra Born (2021)",
+  "brandId": "cupra",
+  "bodyType": "hatchback",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2021,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T17:12:07.302Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cupra_Born_%E2%80%93_f_03042026.jpg/3840px-Cupra_Born_%E2%80%93_f_03042026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cupra_Born_%E2%80%93_f_03042026.jpg/3840px-Cupra_Born_%E2%80%93_f_03042026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T17:12:07.302Z"
+}

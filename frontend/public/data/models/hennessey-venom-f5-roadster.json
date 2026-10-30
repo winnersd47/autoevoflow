@@ -1,0 +1,20 @@
+{
+  "id": "sync-hennessey-venom-f5-roadster",
+  "slug": "hennessey-venom-f5-roadster",
+  "name": "Venom F5 Roadster",
+  "fullName": "Venom F5 Roadster",
+  "brandId": "hennessey",
+  "bodyType": "convertible",
+  "segment": "sports",
+  "primaryMarket": "global",
+  "startYear": 2022,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T15:54:17.506Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2022_Hennessey_Venom_F5_Roadster_6.6_Front.jpg/3840px-2022_Hennessey_Venom_F5_Roadster_6.6_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2022_Hennessey_Venom_F5_Roadster_6.6_Front.jpg/3840px-2022_Hennessey_Venom_F5_Roadster_6.6_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T15:54:17.506Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "sync-mitsubishi-outlander-phev",
+  "slug": "mitsubishi-outlander-phev",
+  "name": "Mitsubishi Outlander PHEV",
+  "fullName": "Mitsubishi Outlander PHEV",
+  "brandId": "mitsubishi",
+  "bodyType": "suv",
+  "segment": "mainstream",
+  "primaryMarket": "global",
+  "startYear": 2013,
+  "isActive": true,
+  "description": "Выделена отдельной нодой по аналогии с mit-outlander-phev (3-е поколение) — узел-якорь mit-outlander-4 ошибочно хранил гибридные характеристики вместо базового бензинового трима (см. nodeFixes). PHEV 4-го поколения: атмосферный 2.4 + 2 электромотора, суммарно 224 л.с./332 Нм (Европа/JDM; US-спец. после рестайлинга 2023г. — 248 л.с., не включено отдельной нодой). Источники: motor1.com, autoblog.com (2023 Outlander PHEV specs).",
+  "generationCount": 2,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T14:54:23.903Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg/3840px-2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg/3840px-2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T14:54:23.903Z"
+}

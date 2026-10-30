@@ -1,0 +1,20 @@
+{
+  "id": "sync-volkswagen-id2all",
+  "slug": "volkswagen-id2all",
+  "name": "ID.2all Concept",
+  "fullName": "ID.2all Concept",
+  "brandId": "volkswagen",
+  "bodyType": "hatchback",
+  "segment": "compact",
+  "primaryMarket": "global",
+  "startYear": 2023,
+  "isActive": true,
+  "description": "",
+  "generationCount": 1,
+  "tags": [],
+  "aiAnalysisAvailable": false,
+  "createdAt": "2026-10-29T18:21:38.905Z",
+  "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Volkswagen_ID.Polo_IMG_8361.jpg/3840px-Volkswagen_ID.Polo_IMG_8361.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Volkswagen_ID.Polo_IMG_8361.jpg/3840px-Volkswagen_ID.Polo_IMG_8361.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "updatedAt": "2026-10-29T18:21:38.905Z"
+}
