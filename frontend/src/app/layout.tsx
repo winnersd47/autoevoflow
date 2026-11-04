@@ -1,7 +1,15 @@
 import React from "react";
 import { cookies } from "next/headers";
+import type { Metadata } from "next";
 
 export const dynamic = 'force-static';
+
+// Без metadataBase относительные og:image из opengraph-image.tsx (model/brand)
+// резолвятся в localhost на проде — Telegram/соцсети не смогут их загрузить.
+export const metadata: Metadata = {
+  metadataBase: new URL(process.env.SITE_URL || 'https://autoevo.agc-flow.online'),
+};
+
 import { Inter, Orbitron } from "next/font/google";
 import "@/styles/globals.css";
 import Navigation from "@/components/layout/Navigation";

@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
-import { ChevronLeft, Network, BarChart3, Layers, Info } from "lucide-react";
+import { ChevronLeft, Network, BarChart3, Layers, Info, Sparkles } from "lucide-react";
 import { useModel, useModelGenerations, useModelEvolution, useAnalysis } from "@/lib/api";
 import { useDemoModel } from "@/lib/demo-data";
 import { useLocale } from "@/contexts/LocaleContext";
@@ -11,13 +11,14 @@ import Timeline from "@/components/ui/Timeline";
 import AIAnalysisPanel from "@/components/ui/AIAnalysisPanel";
 import GenerationCard from "@/components/ui/GenerationCard";
 import WallpaperGallery from "@/components/ui/WallpaperGallery";
+import NextGenDesigner from "@/components/ui/NextGenDesigner";
 import dynamic from "next/dynamic";
 
 const EvolutionGraph = dynamic(() => import("@/components/graph/EvolutionGraph"), { ssr: false });
 
 // ─── Tab types ────────────────────────────────────────────────────────────────
 
-type TabId = "timeline" | "graph" | "gallery" | "analysis";
+type TabId = "timeline" | "graph" | "gallery" | "analysis" | "nextgen";
 
 // ─── Spec Table ───────────────────────────────────────────────────────────────
 
@@ -56,6 +57,7 @@ export default function ModelPage({ params }: { params: { slug: string } }) {
     { id: "graph",    label: t("model.tabGraph"),    icon: Network },
     { id: "gallery",  label: t("model.tabGallery"),  icon: BarChart3 },
     { id: "analysis", label: t("model.tabAnalysis"), icon: Info },
+    { id: "nextgen",  label: t("model.tabNextgen"),  icon: Sparkles },
   ];
 
   const { data: apiModel, isLoading } = useModel(slug);
@@ -225,6 +227,24 @@ export default function ModelPage({ params }: { params: { slug: string } }) {
                 )}
               </div>
             )}
+
+            {/* Next-Gen AI Tab */}
+            {activeTab === "nextgen" && (() => {
+              const last = generations[generations.length - 1];
+              return (
+                <div className="max-w-4xl">
+                  <NextGenDesigner
+                    slug={slug}
+                    brandName={model.brand?.name ?? ""}
+                    modelName={model.name}
+                    lastYear={last?.startYear ?? model.startYear}
+                    lastHp={last?.specs?.horsepower}
+                    engineType={last?.engineTypes?.[0]}
+                    notes={last?.description ? [last.description] : undefined}
+                  />
+                </div>
+              );
+            })()}
           </motion.div>
         </AnimatePresence>
       </div>

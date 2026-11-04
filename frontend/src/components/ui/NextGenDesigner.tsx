@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Zap, Cpu, TrendingUp, Palette, Copy, Check, RefreshCw } from "lucide-react";
+import { Sparkles, Zap, Cpu, TrendingUp, Palette, Copy, Check, RefreshCw, Clock } from "lucide-react";
 
 interface NextGenResult {
   predictedYear: number;
@@ -14,9 +14,12 @@ interface NextGenResult {
   narrative: string;
   imagePrompt: string;
   marketContext: string;
+  isCached?: boolean;
+  generatedAt?: string;
 }
 
 interface Props {
+  slug: string;
   brandName: string;
   modelName: string;
   lastYear: number;
@@ -88,18 +91,18 @@ function Skeleton() {
   )
 }
 
-export default function NextGenDesigner({ brandName, modelName, lastYear, lastHp, engineType, zone, notes }: Props) {
+export default function NextGenDesigner({ slug, brandName, modelName, lastYear, lastHp, engineType, zone, notes }: Props) {
   const [result, setResult] = useState<NextGenResult | null>(null)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
 
-  const generate = async () => {
+  const generate = async (force = false) => {
     setLoading(true); setError(null)
     try {
       const res = await fetch('/api/nextgen', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ brandName, modelName, lastYear, lastHp, engineType, zone, notes }),
+        body: JSON.stringify({ slug, brandName, modelName, lastYear, lastHp, engineType, zone, notes, force }),
       })
       if (!res.ok) {
         const err = await res.json()
@@ -127,7 +130,7 @@ export default function NextGenDesigner({ brandName, modelName, lastYear, lastHp
           </p>
         </div>
         {result && !loading && (
-          <button onClick={generate} className="btn-surface flex items-center gap-2 text-sm">
+          <button onClick={() => generate(true)} className="btn-surface flex items-center gap-2 text-sm">
             <RefreshCw className="w-4 h-4" /> Обновить
           </button>
         )}
@@ -150,7 +153,7 @@ export default function NextGenDesigner({ brandName, modelName, lastYear, lastHp
             ИИ проанализирует историю модели, технологические тренды и дизайн-философию бренда
           </p>
           <button
-            onClick={generate}
+            onClick={() => generate(false)}
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-primary text-black font-semibold hover:bg-primary/90 transition-colors"
           >
             <Sparkles className="w-4 h-4" />
@@ -163,7 +166,7 @@ export default function NextGenDesigner({ brandName, modelName, lastYear, lastHp
       {error && (
         <div className="glass rounded-2xl border border-danger/30 p-6 text-center">
           <p className="text-danger text-sm mb-3">{error}</p>
-          <button onClick={generate} className="btn-secondary text-sm">Попробовать снова</button>
+          <button onClick={() => generate(false)} className="btn-secondary text-sm">Попробовать снова</button>
         </div>
       )}
 
@@ -264,6 +267,15 @@ export default function NextGenDesigner({ brandName, modelName, lastYear, lastHp
                   <CopyButton text={result.imagePrompt} />
                 </div>
                 <p className="text-text-muted text-xs font-mono leading-relaxed">{result.imagePrompt}</p>
+              </div>
+            )}
+
+            {/* Cache footer */}
+            {result.isCached && (
+              <div className="flex items-center gap-1.5 text-white/25 text-[11px] px-1">
+                <Clock className="w-3 h-3" />
+                <span>Кэшировано</span>
+                <span className="italic ml-1">Результаты могут быть из кэша — нажмите «Обновить» для нового прогноза</span>
               </div>
             )}
           </motion.div>

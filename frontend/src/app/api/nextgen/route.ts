@@ -2,12 +2,43 @@
  * POST /api/nextgen
  * Генерирует предсказание следующего поколения автомобиля.
  * Провайдеры (в приоритете): Groq → Anthropic Claude
- * Body: { brandName, modelName, lastYear, lastHp?, engineType?, zone?, notes? }
+ * Body: { slug, brandName, modelName, lastYear, lastHp?, engineType?, zone?, notes?, force? }
+ *
+ * Публичный роут (страница /model/[slug] открыта всем, значит и эта вкладка
+ * тоже) — поэтому результат кэшируется в public/data/models/<slug>.json
+ * (поле nextgenPrediction) и повторные визиты не дёргают Groq/Claude заново.
+ * force=true (кнопка «Обновить») всегда пересчитывает и перезаписывает кэш.
  */
 import { NextRequest, NextResponse } from 'next/server'
+import fs from 'fs'
+import path from 'path'
 
 export const runtime = 'nodejs'
 export const maxDuration = 30
+
+const MODELS_DIR = path.join(process.cwd(), 'public', 'data', 'models')
+
+function readCached(slug: string): (Record<string, unknown> & { generatedAt: string }) | null {
+  try {
+    const data = JSON.parse(fs.readFileSync(path.join(MODELS_DIR, `${slug}.json`), 'utf-8'))
+    return data.nextgenPrediction ?? null
+  } catch {
+    return null
+  }
+}
+
+function writeCache(slug: string, prediction: Record<string, unknown>) {
+  const file = path.join(MODELS_DIR, `${slug}.json`)
+  let data: Record<string, unknown> = {}
+  try {
+    data = JSON.parse(fs.readFileSync(file, 'utf-8'))
+  } catch {
+    // файла модели ещё нет — создавать его тут не задача этого роута
+    return
+  }
+  data.nextgenPrediction = prediction
+  fs.writeFileSync(file, JSON.stringify(data, null, 2))
+}
 
 const GROQ_URL     = 'https://api.groq.com/openai/v1/chat/completions'
 const GROQ_MODEL   = 'llama-3.3-70b-versatile'
@@ -124,10 +155,17 @@ export async function POST(req: NextRequest) {
   }
 
   const body = await req.json()
-  const { brandName, modelName, lastYear, lastHp, engineType, zone, notes = [] } = body
+  const { slug, brandName, modelName, lastYear, lastHp, engineType, zone, notes = [], force } = body
 
   if (!brandName || !modelName || !lastYear) {
     return NextResponse.json({ error: 'Missing required fields' }, { status: 400 })
+  }
+
+  const validSlug = typeof slug === 'string' && /^[a-z0-9-]+$/.test(slug) ? slug : null
+
+  if (validSlug && !force) {
+    const cached = readCached(validSlug)
+    if (cached) return NextResponse.json({ ...cached, isCached: true })
   }
 
   const prompt = buildPrompt(brandName, modelName, lastYear, lastHp, engineType, zone, notes)
@@ -136,13 +174,17 @@ export async function POST(req: NextRequest) {
     const text = hasGroq
       ? await callGroq(prompt, groqKey!)
       : await callClaude(prompt, claudeKey!)
-    return NextResponse.json(parseResult(text))
+    const result = { ...parseResult(text), generatedAt: new Date().toISOString() }
+    if (validSlug) writeCache(validSlug, result)
+    return NextResponse.json({ ...result, isCached: false })
   } catch (primaryErr) {
     // Groq failed → try Claude as fallback
     if (hasGroq && hasClaude) {
       try {
         const text = await callClaude(prompt, claudeKey!)
-        return NextResponse.json(parseResult(text))
+        const result = { ...parseResult(text), generatedAt: new Date().toISOString() }
+        if (validSlug) writeCache(validSlug, result)
+        return NextResponse.json({ ...result, isCached: false })
       } catch (fallbackErr) {
         console.error('[nextgen] Claude fallback error:', fallbackErr)
       }

@@ -19,6 +19,8 @@ import {
   Network,
   BarChart3,
   Compass,
+  Clapperboard,
+  MessageCircle,
 } from 'lucide-react'
 import { useLocale } from '@/contexts/LocaleContext'
 import { AppLogo } from '@/components/ui/AppLogo'
@@ -306,8 +308,10 @@ export function Navigation() {
     { label: t('nav.brands'), href: '/brands', icon: Compass },
     { label: t('nav.evolution'), href: '/evolution', icon: Network },
     { label: t('nav.latest'), href: '/latest', icon: Zap },
+    { label: t('nav.reels'), href: '/reels', icon: Clapperboard },
     { label: t('nav.search'), href: '/search', icon: Search },
     { label: t('nav.compare'), href: '/compare', icon: BarChart3 },
+    { label: t('nav.ask'), href: '/ask', icon: MessageCircle },
   ]
 
   useEffect(() => {

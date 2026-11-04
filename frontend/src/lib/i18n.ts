@@ -6,7 +6,7 @@ type TranslationTree = { [key: string]: string | TranslationTree }
 
 const en: TranslationTree = {
   nav: {
-    home: 'Home', brands: 'Brands', evolution: 'Evolution', latest: 'Latest', search: 'Search', compare: 'Compare',
+    home: 'Home', brands: 'Brands', evolution: 'Evolution', latest: 'Latest', search: 'Search', compare: 'Compare', reels: 'Reels', ask: 'Ask AI',
     signIn: 'Sign in', signInUp: 'Sign in / Sign up', notifications: 'Notifications',
     profile: 'Profile', favorites: 'Favorites', settings: 'Settings', signOut: 'Sign out',
   },
@@ -139,7 +139,7 @@ const en: TranslationTree = {
     generationsShort: '{count} gen.', activeBadge: 'Active', discontinuedBadge: 'Discontinued',
   },
   model: {
-    tabTimeline: 'Timeline', tabGraph: 'Evolution Graph', tabGallery: 'Gallery', tabAnalysis: 'AI Analysis',
+    tabTimeline: 'Timeline', tabGraph: 'Evolution Graph', tabGallery: 'Gallery', tabAnalysis: 'AI Analysis', tabNextgen: 'Next-Gen AI',
     introduced: 'Introduced', ended: 'Ended', generationsLabel: 'Generations',
     notFound: 'Model Not Found', browseAll: 'Browse All Brands',
     noGraph: 'Evolution graph not available', noAnalysis: 'No AI analysis available yet.',
@@ -219,7 +219,7 @@ const en: TranslationTree = {
 
 const ru: TranslationTree = {
   nav: {
-    home: 'Главная', brands: 'Бренды', evolution: 'Эволюция', latest: 'Новинки', search: 'Поиск', compare: 'Сравнение',
+    home: 'Главная', brands: 'Бренды', evolution: 'Эволюция', latest: 'Новинки', search: 'Поиск', compare: 'Сравнение', reels: 'Лента', ask: 'Спросить ИИ',
     signIn: 'Войти', signInUp: 'Войти / Регистрация', notifications: 'Уведомления',
     profile: 'Профиль', favorites: 'Избранное', settings: 'Настройки', signOut: 'Выйти',
   },
@@ -352,7 +352,7 @@ const ru: TranslationTree = {
     generationsShort: '{count} пок.', activeBadge: 'В производстве', discontinuedBadge: 'Снята',
   },
   model: {
-    tabTimeline: 'Хронология', tabGraph: 'Граф эволюции', tabGallery: 'Галерея', tabAnalysis: 'ИИ-анализ',
+    tabTimeline: 'Хронология', tabGraph: 'Граф эволюции', tabGallery: 'Галерея', tabAnalysis: 'ИИ-анализ', tabNextgen: 'ИИ-прогноз',
     introduced: 'Начало', ended: 'Конец', generationsLabel: 'Поколений',
     notFound: 'Модель не найдена', browseAll: 'Все бренды',
     noGraph: 'Граф эволюции недоступен', noAnalysis: 'ИИ-анализ ещё недоступен.',
