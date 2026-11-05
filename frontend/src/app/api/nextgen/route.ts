@@ -29,15 +29,16 @@ function readCached(slug: string): (Record<string, unknown> & { generatedAt: str
 
 function writeCache(slug: string, prediction: Record<string, unknown>) {
   const file = path.join(MODELS_DIR, `${slug}.json`)
-  let data: Record<string, unknown> = {}
   try {
-    data = JSON.parse(fs.readFileSync(file, 'utf-8'))
-  } catch {
-    // файла модели ещё нет — создавать его тут не задача этого роута
-    return
+    const data = JSON.parse(fs.readFileSync(file, 'utf-8'))
+    data.nextgenPrediction = prediction
+    fs.writeFileSync(file, JSON.stringify(data, null, 2))
+  } catch (err) {
+    // На Vercel файловая система serverless-функций read-only (EROFS) —
+    // кэш просто не переживёт между запросами, это ожидаемо. Важно не
+    // уронить сам ответ пользователю из-за этого — прогноз уже посчитан.
+    console.error('[nextgen] cache write skipped:', err)
   }
-  data.nextgenPrediction = prediction
-  fs.writeFileSync(file, JSON.stringify(data, null, 2))
 }
 
 const GROQ_URL     = 'https://api.groq.com/openai/v1/chat/completions'
@@ -190,6 +191,6 @@ export async function POST(req: NextRequest) {
       }
     }
     console.error('[nextgen] AI error:', primaryErr)
-    return NextResponse.json({ error: 'AI generation failed', detail: String(primaryErr) }, { status: 500 })
+    return NextResponse.json({ error: 'AI generation failed' }, { status: 500 })
   }
 }
