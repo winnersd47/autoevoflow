@@ -190,6 +190,6 @@ export async function POST(req: NextRequest) {
       }
     }
     console.error('[nextgen] AI error:', primaryErr)
-    return NextResponse.json({ error: 'AI generation failed' }, { status: 500 })
+    return NextResponse.json({ error: 'AI generation failed', detail: String(primaryErr) }, { status: 500 })
   }
 }
