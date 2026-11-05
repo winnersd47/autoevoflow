@@ -41,7 +41,7 @@ function writeCache(slug: string, prediction: Record<string, unknown>) {
 }
 
 const GROQ_URL     = 'https://api.groq.com/openai/v1/chat/completions'
-const GROQ_MODEL   = 'llama-3.3-70b-versatile'
+const GROQ_MODEL   = 'openai/gpt-oss-120b'
 const CLAUDE_URL   = 'https://api.anthropic.com/v1/messages'
 const CLAUDE_MODEL = 'claude-sonnet-4-6'
 
@@ -190,8 +190,6 @@ export async function POST(req: NextRequest) {
       }
     }
     console.error('[nextgen] AI error:', primaryErr)
-    // TODO(temp-debug): detail временно возвращается клиенту, чтобы
-    // продиагностировать первый прод-вызов — убрать после диагностики.
-    return NextResponse.json({ error: 'AI generation failed', detail: String(primaryErr) }, { status: 500 })
+    return NextResponse.json({ error: 'AI generation failed' }, { status: 500 })
   }
 }
