@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 8 * * 1'   # 11:00 MSK (UTC+3), по понедельникам
   workflow_dispatch:        # ручной запуск из Actions → Run workflow
+    inputs:
+      limit:
+        description: 'Ограничить число моделей (пусто = все активные без прогноза)'
+        required: false
+        default: ''
 
 jobs:
   generate:
@@ -28,7 +33,7 @@ jobs:
         working-directory: frontend
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: node scripts/generate-nextgen-predictions.js
+        run: node scripts/generate-nextgen-predictions.js ${{ github.event.inputs.limit && format('--limit={0}', github.event.inputs.limit) || '' }}
 
       - name: Commit predictions
         run: |
