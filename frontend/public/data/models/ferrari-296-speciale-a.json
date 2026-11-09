@@ -68,5 +68,29 @@
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"
     }
-  ]
+  ],
+  "nextgenPrediction": {
+    "predictedYear": 2028,
+    "confidence": 0.78,
+    "predictedHp": 970,
+    "predictedEngine": "v6t-hybrid",
+    "designTrends": [
+      "Aerodynamically active rear spoiler",
+      "Carbon‑fiber monocoque with exposed weave",
+      "Closed‑cockpit with removable roof panel",
+      "Sculpted side air intakes inspired by Prancing Horse emblem",
+      "Laser‑etched matte black accents"
+    ],
+    "techTrends": [
+      "48‑V mild‑hybrid system with 150 kW electric boost",
+      "Advanced active aerodynamics with AI‑controlled flaps",
+      "Augmented‑reality driver display integrated into windshield",
+      "Carbon‑ceramic brakes with regenerative cooling",
+      "Over‑the‑air performance updates via Ferrari Connect"
+    ],
+    "narrative": "Следующее поколение Ferrari 296 Speciale будет воплощать идею «предела гибридного драйва». Модель получит более агрессивный, но при этом элегантный профиль, где каждый элемент кузова служит одновременно аэродинамической функцией и визуальным акцентом. Закрытый кокпит с возможностью снятия крыши в один клик позволит сохранить ощущение открытой дороги, а активный задний спойлер будет автоматически подстраиваться под режимы езды, обеспечивая максимальную прижимную силу без потери чистой линии.\n\nТехнологически автомобиль получит 48‑вольтовую гибридную систему, способную добавить 150 кВт чистой электрической мощности, а также полностью цифровой AR‑дисплей, проецирующий важную информацию прямо в поле зрения водителя. Интеллектуальная система управления аэродинамикой, поддерживаемая ИИ, будет постоянно анализировать условия трассы и оптимизировать настройки в реальном времени, а система рекуперативного охлаждения тормозов повысит эффективность регенерации энергии. Всё это создаст уникальное сочетание экстремальной производительности и экологической ответственности, характерное для будущего суперкаров Ferrari.",
+    "imagePrompt": "A futuristic Ferrari 296 Speciale Next-Gen concept, open-top roadster, sleek carbon-fiber body, active rear wing, glowing blue hybrid accents, set on a coastal cliff at sunset, photorealistic, ultra-detail",
+    "marketContext": "Positioned as the flagship hyper‑car for affluent enthusiasts seeking cutting‑edge hybrid performance, competing with the Lamborghini Aventador SVJ and McLaren Artura.",
+    "generatedAt": "2026-11-09T09:12:23.780Z"
+  }
 }

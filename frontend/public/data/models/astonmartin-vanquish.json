@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T14:25:03.626Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg/3840px-Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg/3840px-Aston_Martin_Vanquish_S_-_prawy_prz%C3%B3d_%28MSP17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T14:25:03.626Z"
+  "updatedAt": "2026-10-29T14:25:03.626Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.87,
+    "predictedHp": 950,
+    "predictedEngine": "V12 hybrid",
+    "designTrends": [
+      "Карбоновый монокок полностью заменит алюминиевый шасси",
+      "Активные аэродинамические элементы с переменной геометрией",
+      "Широкие задние спойлеры и интегрированные диффузоры для повышения прижимной силы",
+      "Тонкие светодиодные линии в задних фонарях, создающие «лазерный» эффект",
+      "Скрытая система открытого крыла‑крыло‑крыло с автоматическим закрыванием"
+    ],
+    "techTrends": [
+      "Гибридный силовой агрегат V12 + два электромотора, суммарно 950 л.с.",
+      "Система управления на базе ИИ с адаптивным драйвинг‑ассистентом",
+      "AR‑HUD с проекцией навигации и данных о состоянии автомобиля в реальном времени",
+      "Твердо‑тельные аккумуляторы нового поколения, позволяющие 30‑минутный заряд до 80 %",
+      "Полностью цифровая кабина с голосовым управлением и персонализированными профилями"
+    ],
+    "narrative": "Следующее поколение Aston Martin Vanquish 25 Volante будет воплощать идею «электрической грации» – сочетание классического V12 звука с мгновенным откликом электромоторов. Дизайн будет построен вокруг чистых, резких линий, подчёркнутых активной аэродинамикой, которая меняет форму крыши и задних спойлеров в зависимости от скорости и режима вождения. Карбоновый монокок не только уменьшит вес, но и позволит разместить гибридную батарею в центральной части шасси, сохранив идеальный баланс.\n\nФилософия нового Vanquish – это «гран-туризм будущего»: роскошь, которую можно ощущать в любой точке мира, при этом поддерживая экологическую ответственность. Интеллектуальные системы управления адаптируются к стилю водителя, а полностью цифровая кабина предлагает персонализированный опыт, где каждый элемент – от сидений до освещения – подстраивается под настроение владельца. Такой Vanquish станет символом перехода от традиционного суперкара к высокотехнологичному, но всё ещё эмоциональному автомобилю.",
+    "imagePrompt": "A futuristic Aston Martin Vanquish 25 Volante concept, carbon fiber monocoque, active aerodynamic surfaces, hybrid V12 engine visible, sleek low-slung silhouette, glowing LED light strips, open top with automatic retractable roof, high-detail, photorealistic, cinematic lighting",
+    "marketContext": "Позиционируется как ультра-роскошный гибридный гран-турер, конкурируя с Ferrari Roma GT и Lamborghini Aventador SVJ в сегменте ограниченных серийных суперкаров.",
+    "generatedAt": "2026-11-09T09:56:10.248Z"
+  }
 }

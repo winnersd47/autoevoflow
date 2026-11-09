@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:54:55.045Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/BYD_Dolphin_G_IMG_7843.jpg/3840px-BYD_Dolphin_G_IMG_7843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/BYD_Dolphin_G_IMG_7843.jpg/3840px-BYD_Dolphin_G_IMG_7843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:54:55.045Z"
+  "updatedAt": "2026-10-29T18:54:55.045Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 250,
+    "predictedEngine": "plug-in hybrid (1.5L turbo I4 + dual electric motors)",
+    "designTrends": [
+      "Более агрессивный аэродинамический профиль с коэффициентом Cd ≤ 0.26",
+      "LED‑матрица Full‑Span в передней части и динамический световой кольцевой орнамент в задней части",
+      "Плавающий крыша‑платформа с безрамочным стеклом и интегрированными солнечными панелями",
+      "Активный задний спойлер и диффузор, меняющие угол в зависимости от режима движения",
+      "Экологичные материалы интерьера: переработанный алюминий, ткань из морских волокон"
+    ],
+    "techTrends": [
+      "Батарея Blade‑X 30 kWh, запас электрического хода до 120 миль (WLTP) и быстрая зарядка 350 кВт",
+      "Трёхуровневая система OTA‑обновлений, включая функции автономного вождения уровня 3",
+      "AR‑HUD с проекцией навигации и предупреждений о дорожных условиях",
+      "Интеллектуальная система управления климатом с рекуперацией энергии",
+      "Интегрированный 5G‑модуль для V2X‑коммуникаций и сервисов каршеринга"
+    ],
+    "narrative": "Следующее поколение BYD Dolphin G DM‑i будет воплощать концепцию «Эко‑спорт», сочетая динамику, характерный для хэтчбеков, и максимальную эффективность электрификации. Благодаря увеличенной батарее Blade‑X и более мощному электромотору, автомобиль сможет покрывать до 120 миль в полностью электрическом режиме, что делает его идеальным для ежедневных поездок в городе, а гибридный диапазон более 1100 км устраняет любые опасения о «запасе хода». \n\nДизайн будет ориентирован на молодую, технологически подкованную аудиторию, ценящую как визуальную выразительность, так и экологическую ответственность. Плавные линии кузова, динамический световой орнамент и активные аэродинамические элементы подчеркнут спортивный характер, а использование переработанных и биобазированных материалов в салоне создаст ощущение будущего без компромиссов в комфорте.",
+    "imagePrompt": "A futuristic compact hatchback with a sleek low drag silhouette, full-width LED matrix front, floating glass roof with integrated solar cells, active rear spoiler, bright electric blue accents, high-tech interior visible through large windows, set on a modern European city street at dusk, photorealistic, ultra-detailed, cinematic lighting",
+    "marketContext": "Позиционируется как премиум‑класс PHEV хэтчбек для Европы, конкурируя с VW Golf GTE и Kia Niro PHEV, предлагая более длинный электрический диапазон и передовые технологии.",
+    "generatedAt": "2026-11-09T10:10:36.472Z"
+  }
 }

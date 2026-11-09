@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T16:11:17.111Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/1988_Mercedes-Benz_300d_Diesel_Automatic_3.0_Front.jpg/3840px-1988_Mercedes-Benz_300d_Diesel_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/1988_Mercedes-Benz_300d_Diesel_Automatic_3.0_Front.jpg/3840px-1988_Mercedes-Benz_300d_Diesel_Automatic_3.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T16:11:17.111Z"
+  "updatedAt": "2026-10-29T16:11:17.111Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.81,
+    "predictedHp": 540,
+    "predictedEngine": "dual-motor EV with solid-state battery",
+    "designTrends": [
+      "Тонкие аэродинамические линии с интегрированными световыми панелями",
+      "Увеличенный кузов с более высоким клиренсом для гибкости",
+      "Элегантные хромированные детали в сочетании с матовыми поверхностями",
+      "Крупные панорамные окна с тонированным стеклом",
+      "Футуристический градиентный лак"
+    ],
+    "techTrends": [
+      "Система управления на базе нейронных сетей",
+      "Твердотельные батареи с зарядкой до 80% за 15 минут",
+      "Интерактивный HUD с дополненной реальностью",
+      "Полностью автономный уровень 5",
+      "Модульный сервисный пакет с удалённой диагностикой"
+    ],
+    "narrative": "Следующее поколение Mercedes‑Benz VLS Maybach 2032 представляет собой синтез роскоши и передовых технологий, где каждый элемент подчёркивает статус владельца в эпоху полной электрификации. Кузов получит более выразительные, но при этом плавные линии, создающие ощущение движения даже в стоянии, а большие панорамные окна и световые панели сделают салон светлее и просторнее. Внутри будет доминировать минимализм премиум‑класса: мягкие материалы, адаптивные подсветки и полностью цифровая панель приборов, способная подстраиваться под настроение водителя.\n\nТехническая база – двойные электромоторы с твердотельными батареями, обеспечивающие 540 л.с. и запас хода более 700 км. Система управления, построенная на нейронных сетях, обеспечивает уровень автономии 5, а интегрированный HUD с AR‑элементами выводит информацию прямо в поле зрения водителя. Все это подкреплено сервисной экосистемой, где обновления программного обеспечения и диагностика происходят удалённо, поддерживая безупречный опыт эксплуатации.",
+    "imagePrompt": "A futuristic ultra-luxury electric sedan, sleek aerodynamic silhouette, dual motor setup visible, solid-state battery pack, large panoramic tinted glass roof, subtle chrome accents, ambient lighting, high-end interior with AR HUD, night city background, photorealistic",
+    "marketContext": "Модель будет позиционироваться как флагманский электромобиль премиум‑сегмента, ориентированный на клиентов, ищущих высочайший уровень комфорта, автономии и технологичности.",
+    "generatedAt": "2026-11-09T09:12:59.489Z"
+  }
 }

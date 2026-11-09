@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T16:51:17.706Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/2024_Chevrolet_Silverado_EV_4WT_AWD_in_Summit_White%2C_front_left%2C_2024-06-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/2024_Chevrolet_Silverado_EV_4WT_AWD_in_Summit_White%2C_front_left%2C_2024-06-30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T16:51:17.706Z"
+  "updatedAt": "2026-10-29T16:51:17.706Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.78,
+    "predictedHp": 460,
+    "predictedEngine": "plug-in hybrid",
+    "designTrends": [
+      "Более агрессивный фронт с крупными светодиодными матричными фарами",
+      "Узкая, но мускулистая профильная линия крыши для улучшения аэродинамики",
+      "Эмблема Chevrolet в виде подсвечиваемого логотипа на крышке багажника",
+      "Большие 22‑23‑дюймовые легкосплавные диски с двойным спицевым дизайном",
+      "Минималистичный интерьер с панорамным стеклом над кабиной"
+    ],
+    "techTrends": [
+      "Плагин‑гибридная система с 100 кВт электромотором и 3,5‑литровым V8",
+      "Полностью цифровая приборная панель 15‑дюймового OLED‑дисплея",
+      "Система автономного вождения Level 3 с адаптивным круиз‑контролем",
+      "Интеграция 5G‑модема и облачных сервисов для удалённого управления грузом",
+      "Система активного подвески с электромеханическим регулированием высоты"
+    ],
+    "narrative": "Следующее поколение Chevrolet Silverado будет представлять собой синтез традиционной американской мощи и современных экологических требований. Плагин‑гибридный силовой агрегат позволит достичь 460 л.с., сочетая крутящий момент V8 с мгновенным откликом электромотора, что обеспечит отличные динамические характеристики и возможность передвижения в полностью электрическом режиме до 80 км. Дизайн будет подчёркивать мужественность и технологичность: массивный решётчатый радиатор, светодиодные матричные фары и динамический профиль кузова создадут визуальный образ «рабочего зверя будущего».",
+    "imagePrompt": "Futuristic 2030 Chevrolet Silverado pickup, aggressive front grille, LED matrix headlights, sleek muscular roofline, illuminated Chevrolet badge on tailgate, large 22-inch alloy wheels, panoramic roof, bright metallic paint, set on a rugged desert road at sunset, hyper-realistic, 8K",
+    "marketContext": "Модель позиционируется как премиальный рабочий пикап для профессионалов и энтузиастов, сочетая мощность традиционного Silverado с экологичностью гибридных технологий.",
+    "generatedAt": "2026-11-09T09:21:26.403Z"
+  }
 }

@@ -17,7 +17,11 @@
     "headquarters": "Hethel, Norfolk, UK",
     "modelCount": 7,
     "generationCount": 17,
-    "tags": ["sports", "lightweight", "british"],
+    "tags": [
+      "sports",
+      "lightweight",
+      "british"
+    ],
     "aiAnalysisAvailable": true,
     "createdAt": "2026-01-01T00:00:00Z",
     "updatedAt": "2026-01-01T00:00:00Z"
@@ -32,11 +36,17 @@
   "generationCount": 5,
   "thumbnailUrl": "https://images.caricos.com/l/lotus/1998_lotus_esprit_v8/images/1920x1080/1998_lotus_esprit_v8_1_1920x1080.jpg",
   "heroImageUrl": "https://images.caricos.com/l/lotus/1998_lotus_esprit_v8/images/1920x1080/1998_lotus_esprit_v8_1_1920x1080.jpg",
-  "tags": ["mid-engine", "coupe", "iconic", "bond-car", "turbo", "v8"],
+  "tags": [
+    "mid-engine",
+    "coupe",
+    "iconic",
+    "bond-car",
+    "turbo",
+    "v8"
+  ],
   "aiAnalysisAvailable": true,
   "createdAt": "2026-01-01T00:00:00Z",
   "updatedAt": "2026-01-01T00:00:00Z",
-
   "generations": [
     {
       "id": "gen-esprit-s1",
@@ -49,9 +59,15 @@
       "endYear": 1978,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "specs": {
         "engineDisplacement": 1973,
         "engineCylinders": 4,
@@ -88,7 +104,12 @@
       ],
       "designerName": "Giorgetto Giugiaro (Ital Design)",
       "platformCode": "Type 79",
-      "tags": ["giugiaro", "wedge", "iconic", "bond-car"],
+      "tags": [
+        "giugiaro",
+        "wedge",
+        "iconic",
+        "bond-car"
+      ],
       "aiAnalysisAvailable": true,
       "evolutionSummary": "The founding design language — a geometric wedge of uncompromising angularity that influenced an entire generation of sports car design.",
       "createdAt": "2026-01-01T00:00:00Z",
@@ -105,9 +126,15 @@
       "endYear": 1981,
       "isFacelift": true,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "specs": {
         "engineDisplacement": 1973,
         "engineCylinders": 4,
@@ -140,7 +167,11 @@
         }
       ],
       "designerName": "Giorgetto Giugiaro (revised by Lotus)",
-      "tags": ["essex", "facelift", "wedge"],
+      "tags": [
+        "essex",
+        "facelift",
+        "wedge"
+      ],
       "aiAnalysisAvailable": false,
       "evolutionSummary": "Detail aerodynamic refinement of the original Giugiaro wedge — the S1 principle proven and polished.",
       "createdAt": "2026-01-01T00:00:00Z",
@@ -157,9 +188,15 @@
       "endYear": 1987,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "specs": {
         "engineDisplacement": 2174,
         "engineCylinders": 4,
@@ -192,7 +229,12 @@
         }
       ],
       "designerName": "Colin Spooner (Lotus)",
-      "tags": ["turbo", "colin-spooner", "forced-induction", "muscle"],
+      "tags": [
+        "turbo",
+        "colin-spooner",
+        "forced-induction",
+        "muscle"
+      ],
       "aiAnalysisAvailable": true,
       "evolutionSummary": "The turbo transformation: Spooner's wide-arch body gave the Esprit supercar presence while the 2.2T engine provided genuine supercar performance.",
       "createdAt": "2026-01-01T00:00:00Z",
@@ -209,9 +251,15 @@
       "endYear": 1996,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "specs": {
         "engineDisplacement": 2174,
         "engineCylinders": 4,
@@ -244,7 +292,12 @@
         }
       ],
       "designerName": "Julian Thomson (Lotus)",
-      "tags": ["julian-thomson", "x180", "refined", "turbo"],
+      "tags": [
+        "julian-thomson",
+        "x180",
+        "refined",
+        "turbo"
+      ],
       "aiAnalysisAvailable": false,
       "evolutionSummary": "Julian Thomson's S4 rounded the Esprit's geometry, making it more aerodynamically sophisticated and more visually mature — a bridge to the V8 era.",
       "createdAt": "2026-01-01T00:00:00Z",
@@ -261,9 +314,15 @@
       "endYear": 2004,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["coupe"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "coupe"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "specs": {
         "engineDisplacement": 3506,
         "engineCylinders": 8,
@@ -298,14 +357,18 @@
         }
       ],
       "designerName": "Lotus Design (Julian Thomson)",
-      "tags": ["v8", "twin-turbo", "supercar", "final-generation"],
+      "tags": [
+        "v8",
+        "twin-turbo",
+        "supercar",
+        "final-generation"
+      ],
       "aiAnalysisAvailable": true,
       "evolutionSummary": "The V8 Esprit — Lotus's home-developed twin-turbo V8 transformed the model from a British sports car into a genuine supercar, the definitive expression of 28 years of development.",
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"
     }
   ],
-
   "analysis": {
     "id": "analysis-esprit-evolution",
     "entityType": "model",
@@ -327,7 +390,7 @@
         "id": "insight-esprit-2",
         "category": "Aerodynamic Legacy",
         "text": "Giugiaro's S1 design, created without CAD, produced a drag coefficient of approximately 0.33 Cd — comparable to contemporary purpose-designed aerodynamic test bodies. This was confirmed by Lotus wind tunnel testing conducted only after the car entered production.",
-        "confidence": 0.90,
+        "confidence": 0.9,
         "importance": "high"
       },
       {
@@ -342,5 +405,29 @@
     "processingTimeMs": 3800,
     "createdAt": "2026-01-15T10:00:00Z",
     "isCached": true
+  },
+  "nextgenPrediction": {
+    "predictedYear": 2033,
+    "confidence": 0.78,
+    "predictedHp": 1150,
+    "predictedEngine": "plug-in hybrid V6 + dual electric motors",
+    "designTrends": [
+      "Активный аэродинамический спойлер с регулируемым углом атаки",
+      "Карбоновый монокок с интегрированными структурными световыми панелями",
+      "Тонкие OLED‑матрицы в фарах и задних фонарях",
+      "Минималистичный, почти бесшовный кузов без традиционных ручек",
+      "Снижение высоты салона и удлинённый задний профиль для лучшей устойчивости"
+    ],
+    "techTrends": [
+      "Турбонаддув с переменным давлением и прямым впрыском топлива",
+      "Векторный электромоторный крутящий момент для полного привода",
+      "AR‑HUD с проекцией навигации и данных о динамике в реальном времени",
+      "Беспроводная зарядка и Vehicle‑to‑Load (V2L) для внешних устройств",
+      "AI‑управляемая адаптивная подвеска с предсказанием дорожных условий"
+    ],
+    "narrative": "Следующее поколение Lotus Esprit, условно названное Type 140, продолжит традицию возврата к гибридной мощности, но с упором на электрификацию и цифровой опыт водителя. Силовой агрегат сочетает лёгкий V6 с двойным электромотором, обеспечивая суммарные 1150 л.с. и мгновенный крутящий момент, что делает модель конкурентоспособной в сегменте гиперкаров, сохраняя при этом характерный для Lotus «чистый» драйв. Технологии активной аэродинамики и AI‑подвески позволяют автомобилю адаптироваться к любой дорожной ситуации, а система V2L превращает его в мобильный источник энергии.\n\nДизайн Type 140 – это синтез наследия 70‑х годов и футуристических решений: плавные линии, вытянутый задний «клюв», полностью безрамные окна и карбоновый монокок, покрытый микроскопическими световыми панелями, которые меняют цвет в зависимости от режима движения. Lotus позиционирует эту модель как «halo‑car», демонстрирующий технологический потенциал бренда и подчеркивающий его приверженность лёгкости, эффективности и удовольствию от вождения, даже в эпоху полной электрификации.",
+    "imagePrompt": "A futuristic Lotus Esprit Type 140 concept car with a low-slung carbon fiber body, active aerodynamic rear wing, seamless OLED matrix headlights, hybrid V6 powertrain with dual electric motors, glowing underbody lights, set on a sleek wet road at night, hyperrealistic, 8K resolution",
+    "marketContext": "Модель будет позиционирована как флагманский гибридный суперкар, ориентированный на богатую аудиторию, ищущую передовые технологии и уникальный стиль, одновременно конкурируя с ограниченными сериями гиперкаров.",
+    "generatedAt": "2026-11-09T09:04:11.807Z"
   }
 }

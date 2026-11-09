@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T15:41:57.543Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bentley_Continental_GT_First_Edition_%2849919050697%29_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T15:41:57.543Z"
+  "updatedAt": "2026-10-29T15:41:57.543Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 800,
+    "predictedEngine": "plug-in hybrid V8",
+    "designTrends": [
+      "Утончённый аэродинамический профиль с активными аэродинамическими элементами",
+      "Более широкая решётка с адаптивной подсветкой и «умными» заслонками",
+      "Увеличенная стеклянная зона кабины, панорамный люк и безрамные окна",
+      "Карбоновый кузовной пакет с лёгкими панелями и диффузором",
+      "Наследие Bentley в виде характерных «coach‑lines» и хромированных акцентов"
+    ],
+    "techTrends": [
+      "48 kWh литий‑ионный аккумулятор, запас электрического хода до 120 км (WLTP)",
+      "Система Level 3 автономного вождения с полным набором ADAS",
+      "Кривая OLED‑панель 12,3\" с дополненной реальностью и голосовым управлением",
+      "Гибридный силовой блок: 4,0 л V8 + 150 кВт электромотор, поддержка 400 кВт зарядки",
+      "Экологичные материалы интерьера: переработанный алькантар и биопластик"
+    ],
+    "narrative": "Следующее поколение Bentley Continental GT будет представлять собой кульминацию гибридной эры марки – полностью электризированный, но при этом сохраняющий характерный звук V8, который стал визитной карточкой модели. Новый GT V9 сочетает в себе 800 л.с., получаемые от 4,0‑литрового двойного турбонаддува V8 и мощного электромотора, а также 48‑кВт·ч аккумулятор, позволяющий проехать до 120 км в чисто электрическом режиме. Это делает автомобиль одновременно быстрым, дальнобойным и более экологически ответственным.\n\nВ дизайне Bentley делает ставку на аэродинамику будущего: активные спойлеры, динамические вентиляционные отверстия и полностью интегрированная световая система, подчёркивающие динамику и роскошь. Внутри появляется полностью цифровой кокпит с изогнутыми OLED‑дисплеями, а также премиальные материалы, полученные из вторичного сырья, подтверждая приверженность бренда к устойчивому развитию без потери уровня комфорта.",
+    "imagePrompt": "A futuristic Bentley Continental GT V9 concept, sleek low-slung coupe with active aerodynamic flaps, full-bleed LED headlights, carbon fiber body, panoramic glass roof, luxurious interior featuring curved OLED cockpit, parked on a winding mountain road at sunset, ultra‑luxury, high detail",
+    "marketContext": "Позиционируется как флагманский гибридный GT‑купе премиум‑класса, конкурируя с Rolls‑Royce Wraith EV и Aston Martin DBX Hybrid, удерживая лидерство в сегменте ультра‑роскошных спортивных автомобилей.",
+    "generatedAt": "2026-11-09T09:11:04.988Z"
+  }
 }

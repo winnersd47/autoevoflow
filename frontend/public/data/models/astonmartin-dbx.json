@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T14:35:54.634Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg/3840px-2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg/3840px-2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T14:35:54.634Z"
+  "updatedAt": "2026-10-29T14:35:54.634Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 785,
+    "predictedEngine": "plug-in hybrid V8",
+    "designTrends": [
+      "Узкие, почти вертикальные светодиодные фары с динамической подсветкой",
+      "Карбоновый кузовный панельный модуль, снижающий массу на 12 %",
+      "Активный аэродинамический спойлер с регулируемым углом наклона",
+      "Бесшовные алюминиевые детали отделки, подчёркивающие премиум‑стиль",
+      "Круглые, почти «скульптурные» линии боковых порогов"
+    ],
+    "techTrends": [
+      "Полностью автономный режим Level 4 с системой «Aston Drive AI»",
+      "AR‑HUD с проекцией навигации, информации о состоянии батареи и динамики движения",
+      "Система рекуперации энергии от торможения, увеличивающая дальность на 25 %",
+      "Интерактивный интерьер с голографическим дисплеем и адаптивным освещением",
+      "Подключение к сети 5G и облачным сервисам для обновления функций «over‑the‑air»"
+    ],
+    "narrative": "Следующее поколение DBX S будет представлять собой синтез традиционной британской роскоши и передовых электромобилей. Платформой станет полностью переработанный шасси с гибридным V8, способным выдавать 785 л.с. и покрывать более 600 км в режиме электромобиля. Лёгкие карбоновые композитные панели и активный аэродинамический спойлер позволят достичь динамики, сравнимой с легковыми спорткарами, сохранив при этом практичность крупного SUV.\n\nФилософия модели – «Элегантность в движении». Внутреннее пространство будет сконцентрировано на цифровом опыте: голографический дисплей, адаптивные материалы и система «Aston Drive AI», позволяющая водителю переключаться между полностью автономным и ручным режимами без потери ощущения контроля. DBX S 2029‑го года станет флагманом бренда в сегменте премиальных электромобилей, демонстрируя, как традиционный дизайн может эволюционировать в эру устойчивой мобильности.",
+    "imagePrompt": "A futuristic luxury SUV with sleek vertical LED headlights, carbon fiber body panels, active rear spoiler, premium British design cues, glowing holographic dashboard, set on a coastal road at sunset, photorealistic, high detail",
+    "marketContext": "Позиционируется как премиум‑гибридный SUV, конкурируя с Range Rover SVAutobiography Hybrid и Mercedes‑EQG, ориентирован на покупателей, ищущих сочетание высокой производительности и экологичности.",
+    "generatedAt": "2026-11-09T10:05:56.656Z"
+  }
 }

@@ -14,7 +14,14 @@
   "generationCount": 4,
   "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_a3/images/1920x1080/2021_audi_a3_1_1920x1080.jpg",
   "heroImageUrl": "https://images.caricos.com/a/audi/2021_audi_a3/images/1920x1080/2021_audi_a3_1_1920x1080.jpg",
-  "tags": ["hatchback", "audi", "quattro", "luxury", "compact", "mqb"],
+  "tags": [
+    "hatchback",
+    "audi",
+    "quattro",
+    "luxury",
+    "compact",
+    "mqb"
+  ],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-01-01T00:00:00Z",
   "updatedAt": "2026-01-01T00:00:00Z",
@@ -30,13 +37,43 @@
       "endYear": 2003,
       "isFacelift": false,
       "isConcept": false,
-      "bodyTypes": ["hatchback"],
-      "engineTypes": ["ICE"],
-      "markets": ["global"],
+      "bodyTypes": [
+        "hatchback"
+      ],
+      "engineTypes": [
+        "ICE"
+      ],
+      "markets": [
+        "global"
+      ],
       "description": "The 8L A3 (1996–2003) launched the A3 nameplate on the PQ34 platform, offering a premium alternative to the VW Golf Mk3.",
       "thumbnailUrl": "https://images.caricos.com/a/audi/2021_audi_a3/images/1920x1080/2021_audi_a3_1_1920x1080.jpg",
       "heroImageUrl": "",
       "images": []
     }
-  ]
+  ],
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.78,
+    "predictedHp": 280,
+    "predictedEngine": "dual-motor EV (e-tron)",
+    "designTrends": [
+      "Узкий, более аэродинамический профиль с коэффициентом Cd <0.25",
+      "Полноширокая светодиодная световая полоса в передних и задних фарах",
+      "Скрытые дверные ручки и бесшовные боковые панели",
+      "Увеличенный панорамный стеклянный купол с переменной тонировкой",
+      "Интерьер из переработанных и биобазовых материалов, монохромная цветовая палитра"
+    ],
+    "techTrends": [
+      "15‑дюймовый гибкий OLED‑дисплей, охватывающий всю приборную панель",
+      "AR‑HUD с проекцией навигации и предупреждений в реальном времени",
+      "Биометрический мониторинг водителя (пульс, уровень стресса) и адаптивный комфорт сидений",
+      "AI‑управляемый предиктивный ADAS с V2X‑коммуникацией",
+      "Полное OTA‑обновление программного обеспечения и возможность «software‑defined» мощности"
+    ],
+    "narrative": "Следующее поколение Audi A3 будет представлять собой первый полностью электрический компактный седан в линейке, построенный на новой модульной платформе PPE 2.0. Основная идея — соединить традиционную динамику Audi с безупречной экологичностью, предлагая 280 л.с., мгновенный крутящий момент и дальность более 500 км. Дизайн будет подчёркнуто футуристическим, но сохраняет узнаваемый язык бренда: плавные линии, характерная решётка, теперь выполненная из светопропускающего алюминия, и динамичные световые элементы, которые меняют цвет в зависимости от режима вождения.\n\nВнутри автомобиль превратится в мобильный кокон цифрового комфорта: полностью безкнопочный интерфейс, гибкий OLED‑экран, который подстраивается под предпочтения водителя, и система биометрического мониторинга, позволяющая автомобилю предугадывать потребности пользователя. Благодаря AI‑управляемому ADAS и V2X‑связи A3 будет не только безопаснее, но и способна взаимодействовать с инфраструктурой города, оптимизируя маршрут и энергопотребление. Это делает модель идеальной для молодых профессионалов, ценящих технологичность, экологию и премиальный статус.",
+    "imagePrompt": "Futuristic Audi A3 2032 electric compact sedan, sleek aerodynamic shape, full-width LED light strip, hidden door handles, large glass roof with variable tint, minimalist interior with curved 15-inch OLED display, biometric controls, set in a modern cityscape at dusk, photorealistic, high detail",
+    "marketContext": "Позиционируется как премиальный компактный EV, конкурируя с BMW i4, Mercedes‑EQE и Tesla Model 3 в сегменте цифровых и экологичных автомобилей.",
+    "generatedAt": "2026-11-09T09:03:35.724Z"
+  }
 }

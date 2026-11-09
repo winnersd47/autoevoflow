@@ -16,5 +16,27 @@
   "createdAt": "2026-10-29T14:16:43.885Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg/3840px-Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg/3840px-Hyundai_Tucson_1.6_T-GDI_PHEV_Prime_%28IV%29_%E2%80%93_f_05072025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T14:16:43.885Z"
+  "updatedAt": "2026-10-29T14:16:43.885Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.78,
+    "predictedHp": 280,
+    "predictedEngine": "PHEV (2.0 L turbo‑inline‑4 + 85 kW electric motor)",
+    "designTrends": [
+      "Угловатый, но более аэродинамический силуэт с интегрированными спойлерами",
+      "Полосы светодиодной подсветки, переходящие в динамичные «кристальные» элементы на крыше",
+      "Увеличенные габариты: +80 мм длина, +45 мм ширина, +30 мм высота",
+      "Бесшовные панорамные окна и «прозрачный» задний фонарный блок"
+    ],
+    "techTrends": [
+      "Система Hyundai SmartSense 3.0 с автопилотом уровня 3",
+      "Интерфейс 20‑дюймового OLED‑кокпита с гибкой проекцией AR‑навигатора",
+      "Беспроводная зарядка автомобиля и поддержка 800‑V быстрой зарядки",
+      "Интегрированный AI‑ассистент, обучающийся стилю вождения владельца"
+    ],
+    "narrative": "Следующее поколение Hyundai Tucson будет называться Tucson NX6 и станет воплощением гибридной трансформации бренда. Сочетание мощного 2,0‑литрового турбодвигателя и высокоэффективного электрического модуля обеспечит динамику, сравнимую с полноприводными конкурентами, при этом сохранив низкий уровень выбросов. Дизайн будет построен на «Dynamic Sensibility» — плавные, но резкие линии, подчёркнутые световыми полосами, которые теперь простираются по всему кузову, создавая визуальный эффект скорости даже в неподвижном виде.\n\nТехнически Tucson NX6 получит полностью цифровой кокпит, где 20‑дюймовый OLED‑экран заменит традиционные приборы, а проекционный AR‑навигатор будет выводить информацию прямо на лобовое стекло. Система SmartSense 3.0 предложит автопилот уровня 3, адаптивный круиз‑контроль, автоматический экстренный тормоз и «умный» режим парковки. Электрический пакет позволит проехать до 80 км в полностью электрическом режиме, а поддержка 800‑V быстрой зарядки сократит время зарядки до 15 минут для 80 % батареи.",
+    "imagePrompt": "A futuristic 2030 Hyundai Tucson NX6 compact SUV, sharp angular body with full-width LED light strips, crystal roof lighting, large panoramic glass, 20-inch OLED cockpit visible through open doors, dynamic urban background, hyper-realistic, cinematic lighting",
+    "marketContext": "Тачан NX6 будет позиционироваться как премиум‑гибрид в сегменте компактных кроссоверов, ориентированный на технологически продвинутых покупателей в Северной Америке, Европе и Азии.",
+    "generatedAt": "2026-11-09T09:14:28.495Z"
+  }
 }

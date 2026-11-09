@@ -16,5 +16,29 @@
   "tags": [],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-10-29T11:36:10.367Z",
-  "updatedAt": "2026-10-29T11:36:10.367Z"
+  "updatedAt": "2026-10-29T11:36:10.367Z",
+  "nextgenPrediction": {
+    "predictedYear": 2027,
+    "confidence": 0.78,
+    "predictedHp": 550,
+    "predictedEngine": "v6t hybrid",
+    "designTrends": [
+      "Sculpted, flowing body panels with active aerodynamics",
+      "OLED full‑width grille that doubles as a digital display",
+      "Camera‑based mirrors integrated into the A‑pillars",
+      "Zero‑LED light strip running the length of the roofline",
+      "Modular cockpit with AR HUD and touch‑free controls"
+    ],
+    "techTrends": [
+      "48 V mild‑hybrid system combined with a high‑voltage solid‑state battery",
+      "Level‑3+ autonomous driving suite with predictive AI routing",
+      "Augmented‑reality head‑up display with real‑time navigation overlays",
+      "Over‑the‑air updates and AI‑driven personalization of driving modes",
+      "Advanced lightweight carbon‑fiber‑reinforced polymer chassis"
+    ],
+    "narrative": "Следующее поколение Audi C Concept будет представлять собой синтез динамики и устойчивости, объединяя мощный V6‑турбированный гибрид с 550 л.с. и новейшими материалами для снижения веса. Дизайн будет ориентирован на плавные линии, которые меняют свою форму в зависимости от скорости, а OLED‑грид будет служить как визуальный центр, отражающий настроение автомобиля и состояние батареи. Интегрированные в кузов камеры‑зеркала и полностью цифровой приборный кластер создадут ощущение открытого пространства и будущего.\n\nФилософия новой концепции — «Electrified Performance», где электрификация усиливает традиционный характер Audi: точность, динамика и эмоциональная связь с водителем. Благодаря уровню автономии Level‑3+ и AR‑HUD, водитель получает не только контроль, но и интеллектуальную поддержку, позволяя сосредоточиться на удовольствии от вождения, а не на рутине. Это делает Audi C 2027 идеальным выбором для премиум‑клиентов, ищущих сочетание спортивного характера и экологической ответственности.",
+    "imagePrompt": "A futuristic Audi C concept 2027, sleek aerodynamic silhouette, full-width OLED grille, camera mirrors, zero LED light strip along roof, carbon-fiber body, dynamic lighting, high-tech interior with AR HUD, night city background, ultra‑realistic rendering",
+    "marketContext": "Позиционируется как премиальный спортивный гибрид для сегмента люксовых седанов, конкурируя с Mercedes EQS Performance и BMW i7 M70.",
+    "generatedAt": "2026-11-09T09:19:12.009Z"
+  }
 }

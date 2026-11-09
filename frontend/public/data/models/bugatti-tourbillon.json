@@ -68,5 +68,29 @@
       "createdAt": "2026-01-01T00:00:00Z",
       "updatedAt": "2026-01-01T00:00:00Z"
     }
-  ]
+  ],
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.81,
+    "predictedHp": 2100,
+    "predictedEngine": "e-hybrid V16 with solid-state battery",
+    "designTrends": [
+      "Sculptural carbon‑nanotube monocoque with flowing lines",
+      "Active aerodynamic skin with morphing flaps",
+      "Full‑length glass canopy with electrochromic tint",
+      "Heritage “C‑shaped” front grille reinterpreted as luminous matrix",
+      "Minimalist cockpit with holographic instrument cluster"
+    ],
+    "techTrends": [
+      "Solid‑state battery delivering 800 kWh energy density",
+      "AI‑driven torque vectoring and predictive chassis control",
+      "Integrated laser‑based LiDAR for autonomous safety modes",
+      "Carbon‑nanotube reinforced carbon fiber chassis for 30 % weight reduction",
+      "Wireless high‑speed V2X communication for track telemetry"
+    ],
+    "narrative": "Следующее поколение Bugatti Tourbillon будет называться Tourbillon II и станет воплощением синергии традиционного V16 с передовыми электромобилями. Мощность поднимется до 2100 л.с., при этом система e‑hybrid обеспечит мгновенный крутящий момент от электромоторов, позволяя разгоняться от 0 до 400 км/ч менее чем за 2,1 секунды. Автомобиль будет построен на монококовом шасси из карбон‑нанотрубок, что даст рекордную жёсткость при минимальном весе.\n\nДизайн сохранит фирменные черты Bugatti – «C‑образную» решётку, но она будет выполнена в виде светящегося матричного OLED‑элемента, а кузов обрастёт активными морфирующими панелями, меняющими профиль в зависимости от скорости и условий трассы.",
+    "imagePrompt": "A futuristic hypercar on a sleek track, ultra-low carbon-nanotube body with flowing lines, active morphing aerodynamic surfaces, glowing matrix front grille, full glass canopy with electrochromic tint, holographic cockpit, night setting, high contrast, photorealistic, ultra-detail, cinematic lighting",
+    "marketContext": "Эксклюзивный гиперкар премиум‑класса, ориентированный на ограниченный рынок сверхбогатых энтузиастов и коллекционеров, конкурирующий с Rimac C_Two и Koenigsegg Jesko Absolut.",
+    "generatedAt": "2026-11-09T09:06:11.511Z"
+  }
 }

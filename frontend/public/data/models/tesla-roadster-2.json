@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T16:56:07.537Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/NextGenTeslaRoadster_%28cropped%29.jpg/3840px-NextGenTeslaRoadster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/NextGenTeslaRoadster_%28cropped%29.jpg/3840px-NextGenTeslaRoadster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T16:56:07.537Z"
+  "updatedAt": "2026-10-29T16:56:07.537Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.81,
+    "predictedHp": 1500,
+    "predictedEngine": "tri-motor ev with solid-state battery",
+    "designTrends": [
+      "Активные аэродинамические элементы, меняющие форму в реальном времени",
+      "Полностью безрамочный панорамный стеклянный купол",
+      "Интегрированные фотогальванические панели в кузове",
+      "Минималистичный интерьер с полностью цифровой панелью",
+      "Кузов из композитных наноматериалов для снижения веса"
+    ],
+    "techTrends": [
+      "Твердотельные батареи с плотностью энергии > 500 Wh/kg",
+      "800 V архитектура с мгновенной зарядкой до 80% за 5 минут",
+      "Полностью автономный режим Level 4 с адаптивным управлением",
+      "AR‑HUD, проецирующий информацию непосредственно в поле зрения водителя",
+      "Обновления программного обеспечения «over‑the‑air» для улучшения динамики"
+    ],
+    "narrative": "Следующее поколение Tesla Roadster станет воплощением будущего электроспорта: трёхмоторный привод, работающий от твердотельных батарей, обеспечит мгновенный крутящий момент и мощность в 1500 л.с., позволяя разгоняться до 100 км/ч за менее чем 2 секунды. Кузов будет построен из ультра‑лёгких нанокомпозитов, а активные аэродинамические поверхности будут автоматически подстраиваться под стиль вождения, улучшая как прижимную силу, так и эффективность.\n\nВнутреннее пространство Roadster 3 будет полностью цифровым: панель приборов заменит традиционный набор кнопок, а AR‑HUD будет проецировать навигацию, телеметрию и предупреждения прямо в линию взгляда. Твердотельные батареи и 800 V система зарядки позволят зарядить автомобиль от 10 % до 80 % за 5 минут, делая дальность более 1000 км на одной зарядке реальностью. Автономный уровень 4 обеспечит безопасный драйв в любой дорожной ситуации, а постоянные OTA‑обновления будут улучшать как динамику, так и функции автопилота.\n\nФилософия нового Roadster — это синтез экстремальной производительности, экологической ответственности и передовых технологий, которые делают спорткар доступным в повседневной эксплуатации без компромиссов.",
+    "imagePrompt": "A futuristic electric sports car with a sleek low-slung silhouette, active aerodynamic flaps, full glass canopy, solar skin integrated into the body, three glowing motor pods at the rear, bright neon accents, set on a futuristic highway at sunset, ultra‑realistic, photorealistic, cinematic lighting",
+    "marketContext": "Roadster 3 позиционируется как премиальный электросуперкар, конкурирующий с традиционными V12 гиперкарами, но предлагающий экологичность и технологичность уровня будущего.",
+    "generatedAt": "2026-11-09T09:22:07.856Z"
+  }
 }

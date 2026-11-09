@@ -16,5 +16,27 @@
   "createdAt": "2026-10-29T16:46:26.046Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/BMW_iX5_60_xDrive_%28G65%29_%E2%80%93_f_20082026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/BMW_iX5_60_xDrive_%28G65%29_%E2%80%93_f_20082026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T16:46:26.046Z"
+  "updatedAt": "2026-10-29T16:46:26.046Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.81,
+    "predictedHp": 440,
+    "predictedEngine": "v8 hybrid",
+    "designTrends": [
+      "Более агрессивные линии кузова с аэродинамическими вставками",
+      "Широкая решетка в стиле «угольного» дизайна",
+      "Уменьшенный профиль боковых светодиодных фар",
+      "Тонкие алюминиевые детали и матовый черный экстерьер"
+    ],
+    "techTrends": [
+      "Полностью цифровой кокпит с 15‑дюймовым OLED‑дисплеем",
+      "Система Level 3 автономного вождения",
+      "Интеграция 5G и V2X коммуникаций",
+      "Адаптивные подвески с электромеханическим управлением"
+    ],
+    "narrative": "Следующее поколение BMW X5 G75 будет построено на платформе CLAR‑NEXT, где традиционный V8 с турбонаддувом комбинируется с мощным электромотором, образуя гибридную систему мощностью около 440 л.с. Это решение позволяет сохранить характерный «звуковой» характер двигателя, одновременно отвечая требованиям по снижению выбросов и повышенной топливной эффективности. Электрический диапазон в гибридном режиме составит до 80 км, что делает модель пригодной как для городского использования, так и для длительных путешествий по бездорожью.\n\nДизайн будет отражать эволюцию фирменного языка BMW: более выразительная решетка в виде «угля», динамичные линии кузова и светодиодные фары, которые «расширяются» в зависимости от режима вождения. Внутри будет просторный, минималистичный салон с полностью цифровой панелью приборов, адаптивным климат‑контролем и новыми функциями персонализации, позволяющими водителю настраивать атмосферу кабины под настроение.",
+    "imagePrompt": "A futuristic luxury large SUV, BMW X5 next generation, aggressive angular body, large carbon-fiber grille, sleek LED headlights, metallic matte black finish, large alloy wheels, glowing interior with a massive 15-inch OLED display, dynamic road background, photorealistic, high detail",
+    "marketContext": "Позиционируется как премиум‑кроссовер для требовательных клиентов, конкурируя с Mercedes‑GLE Coupé и Audi Q8, предлагая гибридную мощность и передовые технологии.",
+    "generatedAt": "2026-11-09T09:20:30.066Z"
+  }
 }

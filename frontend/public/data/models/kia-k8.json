@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T14:22:42.149Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kia_K8_Hybrid_GL3_HEV_Snow_White_Pearl_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kia_K8_Hybrid_GL3_HEV_Snow_White_Pearl_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T14:22:42.149Z"
+  "updatedAt": "2026-10-29T14:22:42.149Z",
+  "nextgenPrediction": {
+    "predictedYear": 2028,
+    "confidence": 0.79,
+    "predictedHp": 340,
+    "predictedEngine": "plug-in hybrid twin‑turbo V6",
+    "designTrends": [
+      "Смягчённые, но агрессивные линии кузова с более длинным капотом и коротким задним профилем",
+      "Полностью интегрированная световая полоса в виде «плавающего» LED‑хвоста, соединяющая задние фонари",
+      "Бесшовные двери без внешних ручек, открывающиеся по датчику приближения",
+      "Большой, почти панорамный стеклянный купол над задними пассажирами",
+      "Эко‑кожаный салон с 3‑D‑текстурой, подчёркивающий премиум‑чувство"
+    ],
+    "techTrends": [
+      "Система помощи водителю уровня 3 с автоматическим управлением в пробках и на шоссе",
+      "12,3‑дюймов полностью цифровой кокпит + 15‑дюймов 3‑D HUD с дополненной реальностью",
+      "5G‑модуль и интегрированная платформа Kia Connect для удалённого управления автомобилем",
+      "Система рекуперации энергии от солнечных панелей, встроенных в крышу",
+      "Адаптивные подвески с активным демпфером, управляемыми ИИ"
+    ],
+    "narrative": "Следующее поколение Kia K8 будет представлять собой кульминацию стратегии бренда по переходу к электрификации без потери характерного корейского шарма. Платформа будет основана на гибридном шасси, где 2,5‑литровый V6 с двойным турбонаддувом работает в паре с мощным электромотором, обеспечивая 340 л.с. и почти 600 Нм крутящего момента, а также полностью электрический режим до 80 км. Дизайн получит более выразительные формы, подчёркнутые плавной световой полосой, а интерьер станет цифровой галереей с материалами, имитирующими натуральную кожу, но с низким углеродным следом. Технологический арсенал будет включать уровень автопилота 3, 5G‑связь и расширенную реальность, делая K8 не только бизнес‑седаном, но и мобильным офисом будущего.",
+    "imagePrompt": "A futuristic luxury sedan inspired by Kia K8, 2028 model, sleek low-slung silhouette, continuous LED light strip across the rear, hidden door handles, panoramic glass roof, premium eco-leather interior with digital cockpit, night city backdrop, ultra‑realistic, high detail, cinematic lighting",
+    "marketContext": "Kia K8 P2 будет конкурировать с Genesis G80, BMW 5 Series и Mercedes‑E‑Класс, предлагая премиум‑уровень технологий и гибридную эффективность по более доступной цене.",
+    "generatedAt": "2026-11-09T09:23:26.330Z"
+  }
 }

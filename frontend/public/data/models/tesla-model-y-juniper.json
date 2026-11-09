@@ -16,5 +16,28 @@
   "createdAt": "2026-10-29T17:57:38.401Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg/3840px-Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg/3840px-Tesla_Model_Y_Premium_%28Facelift%29_%E2%80%93_f_05052026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T17:57:38.401Z"
+  "updatedAt": "2026-10-29T17:57:38.401Z",
+  "nextgenPrediction": {
+    "predictedYear": 2028,
+    "confidence": 0.78,
+    "predictedHp": 410,
+    "predictedEngine": "ev",
+    "designTrends": [
+      "Аэродинамический силуэт с скрытыми ручками дверей",
+      "Интегрированные солнечные панели на крыше",
+      "Минималистичный стеклянный купол над кабиной",
+      "Модульная система багажного отделения"
+    ],
+    "techTrends": [
+      "800‑В система сверхбыстрой зарядки",
+      "Полный автопилот уровня 5",
+      "Твёрдо‑тельный аккумулятор нового поколения",
+      "Дополненная реальность в HUD",
+      "Двусторонний поток энергии V2G"
+    ],
+    "narrative": "Следующее поколение Tesla Model Y Juniper будет построено вокруг идеи «прозрачного будущего»: автомобиль станет продолжением городской среды, а не её отдельным объектом. Благодаря полностью стеклянному куполу и интегрированным солнечным панелям, модель будет собирать энергию даже в городе, а модульный багажный отсек позволит адаптировать пространство под любые задачи – от семейных поездок до активного отдыха.\n\nТехнологический фундамент будет основан на 800‑В системе зарядки и твердотельных батареях, обеспечивая более 500 км запаса хода при 10‑минутной зарядке. Полный автопилот уровня 5 даст возможность полностью автономных поездок, а система V2G превратит автомобиль в мобильный источник энергии для дома и сети, усиливая экологическую ценность продукта.",
+    "imagePrompt": "Futuristic compact electric SUV with sleek aerodynamic lines, hidden door handles, full glass canopy, solar roof tiles, glowing blue accents, set in a modern cityscape at dusk, photorealistic, high detail",
+    "marketContext": "Модель позиционируется как премиальный компактный кроссовер для экологически осознанных городских потребителей, предлагая максимальную автономность и энергоэффективность.",
+    "generatedAt": "2026-11-09T09:26:06.868Z"
+  }
 }

@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T16:44:04.195Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Genesis_GV60_1X7A5760.jpg/3840px-Genesis_GV60_1X7A5760.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Genesis_GV60_1X7A5760.jpg/3840px-Genesis_GV60_1X7A5760.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T16:44:04.195Z"
+  "updatedAt": "2026-10-29T16:44:04.195Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 720,
+    "predictedEngine": "dual-motor EV with 120 kWh solid-state battery",
+    "designTrends": [
+      "угловатый аэродинамический кузов с резкими линиями",
+      "массивная решетка передней части с подсветкой Magma‑orange",
+      "адаптивные светодиодные фары с динамической проекцией логотипа",
+      "широкие арочные колёсные арки и двойные выхлопные каналы (символика мощности)",
+      "матовые металлические акценты и контрастные хромированные детали"
+    ],
+    "techTrends": [
+      "800 kW сверхбыстрая зарядка, 15‑минутный заряд до 80 % благодаря твердотельному аккумулятору",
+      "уровень автономии 4 с полной интеграцией в сеть умных дорог",
+      "AR‑HUD 8K с голографическим интерфейсом и проекцией навигации на лобовое стекло",
+      "активный аэродинамический спойлер и регулируемые диффузоры для оптимизации прижимной силы",
+      "интерьерный панельный модуль с гибкими OLED‑дисплеями и сенсорным управлением жестами"
+    ],
+    "narrative": "Следующее поколение Genesis GV60 Magma будет представлять собой кульминацию электромобилей премиум‑класса, где динамика и роскошь соединятся в едином, почти футуристическом образе. Новый GV60 Magma 2029 получит более тяжёлый, но при этом ультра‑лёгкий кузов из алюминиево‑углеродного композита, что позволит увеличить жёсткость шасси и сократить общий вес. Дизайн будет подчёркнуто агрессивным: резкие линии, широкие арочные колёсные арки и фирменная решетка Magma‑orange, подсвечиваемая в темноте, станут визуальными маркерами высокой производительности.\n\nТехнологический арсенал будет ориентирован на максимальную эффективность и автономию. Твёрдотельный аккумулятор ёмкостью 120 kWh обеспечит не только рекордный диапазон более 600 миль, но и возможность зарядки до 80 % за 15 минут. Система полного уровня 4 автономного вождения будет интегрирована с инфраструктурой умных дорог, а AR‑HUD 8K предоставит водителю полностью иммерсивный опыт управления. Всё это будет подкреплено 720 л.с. в режиме Boost, позволяющим разогнаться до 100 км/ч за 3,0 секунды, подтверждая статус Magma как электромобильного эквивалента традиционных M/AMG‑моделей.",
+    "imagePrompt": "A futuristic compact luxury SUV with sharp angular lines, aggressive Magma-orange illuminated grille, dual LED headlights projecting the brand logo, wide wheel arches, active aerodynamic spoiler, sleek black matte finish with metallic accents, set against a neon-lit cityscape at night, hyper-realistic, 8K detail",
+    "marketContext": "Модель будет позиционирована как премиальный электросуббренд в сегменте compact SUV, конкурируя с BMW X3 M, Mercedes-AMG GLC 63 и Tesla Model Y Performance.",
+    "generatedAt": "2026-11-09T09:15:40.797Z"
+  }
 }
