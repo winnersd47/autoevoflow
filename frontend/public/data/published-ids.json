@@ -536,7 +536,16 @@
     "motor1-news-813545-2027-kia-ev9-pricing-torque",
     "cad-news-a74272007-2027-bmw-x3-m50-power-appearance-package",
     "cad-lexus-tx-hybrid-2027",
-    "motor1-news-813697-2027-jeep-compass-pricing-equipment"
+    "motor1-news-813697-2027-jeep-compass-pricing-equipment",
+    "td-car-reviews-2027-honda-hrv-review",
+    "cad-news-a74286839-2027-fiat-topolino-street-legal-status",
+    "rat-photos-g74286481-see-every-image-of-the-2027-bmw-m350-xdrive",
+    "cad-reviews-a74274538-2027-bmw-3-series-drive",
+    "jlp-2301577-2027-nissan-rogue-hybrid-epower-first-drive-review",
+    "cad-nissan-rogue-hybrid",
+    "rat-reviews-a74296222-tested-2027-bmw-i3-50-xdrive",
+    "cad-photos-a74273370-2027-bmw-i3-drive-interior-gallery",
+    "rat-news-a74333411-2027-toyota-sequoia-refresh-details"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -857,7 +866,11 @@
     "audi__q9-first-__2027",
     "bmw__x3-m50__2027",
     "lexus__tx-hybrid__2027",
-    "jeep__compass__2027"
+    "jeep__compass__2027",
+    "honda__hr-v__2027",
+    "fiat__topolino-finally-earns__2027",
+    "nissan__rogue__2027",
+    "bmw__i3-xdrive__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -1509,9 +1522,10 @@
       "hasPhoto": true,
       "channelId": "-1004476377905",
       "ids": [
-        "cad-reviews-a73447484-2027-toyota-sequoia-tundra-trailhunter-pro"
+        "cad-reviews-a73447484-2027-toyota-sequoia-tundra-trailhunter-pro",
+        "rat-news-a74333411-2027-toyota-sequoia-refresh-details"
       ],
-      "updatedAt": "2026-08-18T14:04:33.247Z"
+      "updatedAt": "2026-11-09T08:07:44.675Z"
     },
     "porsche__carrera-wasn't__2027": {
       "messageId": 67,
@@ -2878,9 +2892,10 @@
       "hasPhoto": true,
       "channelId": "-1004431862248",
       "ids": [
-        "ncs-bmw-2027-i3"
+        "ncs-bmw-2027-i3",
+        "cad-photos-a74273370-2027-bmw-i3-drive-interior-gallery"
       ],
-      "updatedAt": "2026-10-19T02:08:08.751Z"
+      "updatedAt": "2026-10-31T02:04:40.554Z"
     },
     "subaru__wrx-gd25__2027": {
       "messageId": 482,
@@ -2905,9 +2920,10 @@
       "hasPhoto": true,
       "channelId": "-1004431862248",
       "ids": [
-        "ncs-bmw-2027-3-series"
+        "ncs-bmw-2027-3-series",
+        "cad-reviews-a74274538-2027-bmw-3-series-drive"
       ],
-      "updatedAt": "2026-10-19T08:07:07.287Z"
+      "updatedAt": "2026-10-30T02:05:04.764Z"
     },
     "nissan__pixo__2027": {
       "messageId": 485,
@@ -2932,9 +2948,10 @@
       "hasPhoto": true,
       "channelId": "-1004431862248",
       "ids": [
-        "ncs-bmw-2027-m350_xdrive"
+        "ncs-bmw-2027-m350_xdrive",
+        "rat-photos-g74286481-see-every-image-of-the-2027-bmw-m350-xdrive"
       ],
-      "updatedAt": "2026-10-19T14:06:49.920Z"
+      "updatedAt": "2026-10-30T02:04:39.278Z"
     },
     "nissan__pathfinder-toasts__2027": {
       "messageId": 256,
@@ -3022,9 +3039,10 @@
       "hasPhoto": true,
       "channelId": "-1004431862248",
       "ids": [
-        "ncs-nissan-2027-rogue_hybrid"
+        "ncs-nissan-2027-rogue_hybrid",
+        "cad-nissan-rogue-hybrid"
       ],
-      "updatedAt": "2026-10-20T11:06:24.247Z"
+      "updatedAt": "2026-10-30T15:08:44.700Z"
     },
     "chevrolet__corvette’s-6.7-liter-v-8__2027": {
       "messageId": 492,
@@ -3561,8 +3579,44 @@
         "motor1-news-813697-2027-jeep-compass-pricing-equipment"
       ],
       "updatedAt": "2026-10-29T13:34:10.862Z"
+    },
+    "honda__hr-v__2027": {
+      "messageId": 532,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "td-car-reviews-2027-honda-hrv-review"
+      ],
+      "updatedAt": "2026-10-29T20:05:01.091Z"
+    },
+    "fiat__topolino-finally-earns__2027": {
+      "messageId": 333,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74286839-2027-fiat-topolino-street-legal-status"
+      ],
+      "updatedAt": "2026-10-29T21:07:57.477Z"
+    },
+    "nissan__rogue__2027": {
+      "messageId": 535,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "jlp-2301577-2027-nissan-rogue-hybrid-epower-first-drive-review"
+      ],
+      "updatedAt": "2026-10-30T14:04:32.945Z"
+    },
+    "bmw__i3-xdrive__2027": {
+      "messageId": 536,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "rat-reviews-a74296222-tested-2027-bmw-i3-50-xdrive"
+      ],
+      "updatedAt": "2026-10-30T20:04:32.063Z"
     }
   },
-  "updatedAt": "2026-10-29T13:34:10.862Z",
-  "total": 537
+  "updatedAt": "2026-11-11T12:02:37.992Z",
+  "total": 546
 }
