@@ -1562,7 +1562,7 @@
   "latestCars": [
     {
       "id": "cad-news-a71781881-2027-honda-prelude-limited-edition-revealed",
-      "name": "2027 Honda Prelude Limited Edition Shimmers Under the Summer Sun",
+      "name": "2027 Honda Prelude Limited Edition",
       "year": 2027,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/83bc0fe7-f59b-48ab-9306-ac9a3f56f3e4.jpg",
       "pageUrl": "https://www.caranddriver.com/news/a71781881/2027-honda-prelude-limited-edition-revealed/",
@@ -1580,7 +1580,7 @@
     },
     {
       "id": "td-news-2027-honda-civic-type-r-hrc-sounds-like-way-more-than-a",
-      "name": "2027 Honda Civic Type R HRC Sounds Like",
+      "name": "2027 Honda Civic Type R HRC",
       "year": 2027,
       "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/09/c260109a_001H.jpg?quality=85&amp;w=2048",
       "pageUrl": "https://www.thedrive.com/news/2027-honda-civic-type-r-hrc-sounds-like-way-more-than-an-aero-package-tds",
@@ -1589,7 +1589,7 @@
     },
     {
       "id": "motor1-news-807773-2027-honda-civic-type-r",
-      "name": "2027 Honda Civic Type R HRC Reportedly Heads",
+      "name": "2027 Honda Civic Type R HRC",
       "year": 2027,
       "imageUrl": "https://cdn.motor1.com/images/mgl/Ak3zzP/s3/2026-honda-civic-type-r-hrc-concept.jpg",
       "pageUrl": "https://www.motor1.com/news/807773/2027-honda-civic-type-r/",
@@ -1642,6 +1642,15 @@
       "scrapedAt": "2026-10-29T14:04:01.673Z"
     },
     {
+      "id": "jlp-2306408-2027-honda-africa-twin-displacement-skyhook-64b2a8",
+      "name": "2027 Honda Africa Twin",
+      "year": 2027,
+      "imageUrl": "https://www.jalopnik.com/img/gallery/2027-honda-africa-twin-offers-more-displacement-skyhook-suspension-and-the-bikes-funniest-trim-level/intro-1793802079.jpg",
+      "pageUrl": "https://www.jalopnik.com/2306408/2027-honda-africa-twin-displacement-skyhook-suspension/",
+      "description": "The Honda Africa Twin is one of the best adventure bikes on the market, but Honda isn&#39;t resting on its laurels.",
+      "scrapedAt": "2026-11-04T15:07:47.545Z"
+    },
+    {
       "id": "ncs-honda-2026-prelude_uk-version",
       "name": "Honda Prelude [UK]",
       "year": 2026,
@@ -1661,7 +1670,7 @@
     },
     {
       "id": "carscoops-2026-07-honda-fit-facelift",
-      "name": "Honda&#8217;s Fit Lives On In Japan With A Refresh And An $11K Starting Price",
+      "name": "Honda Fit",
       "year": 2026,
       "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/07/2026-Honda-Fit-Japan-15-copy-1024x576.jpg",
       "pageUrl": "https://www.carscoops.com/2026/07/honda-fit-facelift/",
@@ -1730,15 +1739,6 @@
       "pageUrl": "https://www.caranddriver.com/reviews/a73358221/2003-honda-element-ex-archive-test/",
       "description": "Mr. X Games meets the Rubbermaid.",
       "scrapedAt": "2026-08-10T14:04:01.872Z"
-    },
-    {
-      "id": "carscoops-2026-06-honda-s2000-low-mileage-auction",
-      "name": "A 679-Mile 2000 Honda S2000 Was Hiding In A Barn",
-      "year": 2000,
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/g4r5vtfebw-dv-1024x576.jpg",
-      "pageUrl": "https://www.carscoops.com/2026/06/honda-s2000-low-mileage-auction/",
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/g4r5vtfebw-dv-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-bottom: 15px",
-      "scrapedAt": "2026-06-19T19:59:53.165Z"
     }
   ]
 }

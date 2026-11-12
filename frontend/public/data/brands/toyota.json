@@ -3364,6 +3364,15 @@
       "scrapedAt": "2026-09-23T08:04:01.233Z"
     },
     {
+      "id": "cad-toyota-scion-kei-01-2028",
+      "name": "2028 Toyota Scion KEI-01",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/36ff7f58-7d24-4b3e-995f-f499e6b5614d.png",
+      "pageUrl": "https://www.caranddriver.com/toyota/scion-kei-01-2028",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-11-10T16:03:54.041Z"
+    },
+    {
       "id": "cad-toyota-c-hr-2027",
       "name": "2027 Toyota C-HR",
       "year": 2027,
@@ -3374,7 +3383,7 @@
     },
     {
       "id": "cad-news-a71888001-2027-toyota-highlander-production-delayed",
-      "name": "2027 Toyota Highlander Production Delayed Due to 'Final Adjustments'",
+      "name": "2027 Toyota Highlander",
       "year": 2027,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2027-toyota-highlander-limited-spellbound2tone-001-698bf25846523.jpg",
       "pageUrl": "https://www.caranddriver.com/news/a71888001/2027-toyota-highlander-production-delayed/",
@@ -3428,7 +3437,7 @@
     },
     {
       "id": "cad-news-a73235834-2027-toyota-sequoia-trailhunter-revealed",
-      "name": "2027 Toyota Sequoia Joins the Off-Road Party",
+      "name": "2027 Toyota Sequoia",
       "year": 2027,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b8bfb1d9-6215-44d0-badb-13ae67b19172.jpg",
       "pageUrl": "https://www.caranddriver.com/news/a73235834/2027-toyota-sequoia-trailhunter-revealed/",
@@ -3455,7 +3464,7 @@
     },
     {
       "id": "drv-auto-news-news-2027-toyota-sequoia-trailhunter-trim-updates-",
-      "name": "2027 Toyota Sequoia ups screen acreage,",
+      "name": "2027 Toyota Sequoia",
       "year": 2027,
       "imageUrl": "",
       "pageUrl": "https://driving.ca/auto-news/news/2027-toyota-sequoia-trailhunter-trim-updates-screen",
@@ -3506,15 +3515,6 @@
       "pageUrl": "https://www.caranddriver.com/photos/a73334908/2027-toyota-tundra-hybrid-trd-pro-revealed-exterior-gallery/",
       "description": "See the new Honeycomb color on the 2027 Toyota Tundra Hybrid TRD Pro.",
       "scrapedAt": "2026-08-03T20:04:01.326Z"
-    },
-    {
-      "id": "cad-toyota-crown-2027",
-      "name": "2027 Toyota Crown",
-      "year": 2027,
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2023-toyota-crown-platinum-501-64c92958d8769.jpg",
-      "pageUrl": "https://www.caranddriver.com/toyota/crown-2027",
-      "description": "Review, Pricing, and Specs",
-      "scrapedAt": "2026-08-05T20:04:01.557Z"
     }
   ]
 }

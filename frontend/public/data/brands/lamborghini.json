@@ -676,7 +676,7 @@
     },
     {
       "id": "cad-news-a71783168-2027-lamborghini-urus-se-performante-revealed",
-      "name": "2027 Lamborghini Urus SE Performante Ups the Ante on Hybrid Power",
+      "name": "2027 Lamborghini Urus SE Performante",
       "year": 2027,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/8dee86ac-d415-4b47-917b-7db6f6d7c3ff.jpg",
       "pageUrl": "https://www.caranddriver.com/news/a71783168/2027-lamborghini-urus-se-performante-revealed/",
@@ -685,7 +685,7 @@
     },
     {
       "id": "cad-photos-g71782621-2027-lamborghini-urus-se-performante-reveal",
-      "name": "View Interior Photos of the 2027 Lamborghini Urus SE Performante",
+      "name": "2027 Lamborghini Urus SE Performante",
       "year": 2027,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/40b1ab54-56b5-4805-84dd-279ef5b976f4.jpg",
       "pageUrl": "https://www.caranddriver.com/photos/g71782621/2027-lamborghini-urus-se-performante-revealed-interior-gallery/",
@@ -694,7 +694,7 @@
     },
     {
       "id": "cad-photos-g71782620-2027-lamborghini-urus-se-performante-reveal",
-      "name": "View Exterior Photos of the 2027 Lamborghini Urus SE Performante",
+      "name": "2027 Lamborghini Urus SE Performante",
       "year": 2027,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/37a41494-e6b9-4465-9fb6-795f23fd2ebf.jpg",
       "pageUrl": "https://www.caranddriver.com/photos/g71782620/2027-lamborghini-urus-se-performante-revealed-exterior-gallery/",
@@ -703,7 +703,7 @@
     },
     {
       "id": "rat-news-a71796339-2027-lamborghini-urus-se-performante-hardcore",
-      "name": "The 2027 Lamborghini Urus SE Performante Is One Hardcore PHEV SUV",
+      "name": "2027 Lamborghini Urus SE Performante",
       "year": 2027,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0036aca1-bb9c-4785-9309-b70ec8283434.jpg",
       "pageUrl": "https://www.roadandtrack.com/news/a71796339/2027-lamborghini-urus-se-performante-hardcore-phev-suv/",
@@ -756,6 +756,15 @@
       "scrapedAt": "2026-10-27T20:04:01.508Z"
     },
     {
+      "id": "cad-lamborghini-temerario-2027",
+      "name": "2027 Lamborghini Temerario",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/5dbb366d-ab43-434c-9245-c7577b97159f.jpg",
+      "pageUrl": "https://www.caranddriver.com/lamborghini/temerario-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-11-05T02:04:01.669Z"
+    },
+    {
       "id": "cad-photos-g71897774-2026-lamborghini-temerario-test-exterior-ga",
       "name": "2026 Lamborghini Temerario",
       "year": 2026,
@@ -766,7 +775,7 @@
     },
     {
       "id": "cad-reviews-a71866295-2026-lamborghini-temerario-test",
-      "name": "2026 Lamborghini Temerario Shows Up Its Big Brother",
+      "name": "2026 Lamborghini Temerario",
       "year": 2026,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bb64f640-24a7-4158-a824-014ef1ebae77.jpg",
       "pageUrl": "https://www.caranddriver.com/reviews/a71866295/2026-lamborghini-temerario-test/",
@@ -834,15 +843,6 @@
       "imageUrl": "https://www.netcarshow.com/Lamborghini-Asterion_LPI910-4_Concept-2014-wallpaper.jpg",
       "pageUrl": "https://www.netcarshow.com/lamborghini/2014-asterion_lpi910-4_concept/",
       "description": "Automobili Lamborghini unveils its first plug-in hybrid (PHEV) technology demonstrator, the Lamborghini Asterion LPI910-4, making its world debut at the...",
-      "scrapedAt": "2026-06-05T07:31:49.539Z"
-    },
-    {
-      "id": "ncs-lamborghini-2013-egoista_concept",
-      "name": "Lamborghini Egoista Concept",
-      "year": 2013,
-      "imageUrl": "https://www.netcarshow.com/Lamborghini-Egoista_Concept-2013-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/lamborghini/2013-egoista_concept/",
-      "description": "Powered by a 5.2-liter V10 engine supplying it with 600 horsepower, the Lamborghini Egoista is an intentionally extreme and unusual vehicle with absolutely...",
       "scrapedAt": "2026-06-05T07:31:49.539Z"
     }
   ]

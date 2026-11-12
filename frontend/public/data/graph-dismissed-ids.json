@@ -1,16 +1,102 @@
 {
-  "ncs-bentley-2028-torcal": { "reason": "дубль bentley-torcal", "dismissedAt": "2026-10-29" },
-  "ncs-bentley-2028-bentley-torcal-breaks": { "reason": "дубль bentley-torcal, обрезанный заголовок статьи", "dismissedAt": "2026-10-29" },
-  "ncs-bentley-2028-bentley-torcal-ev-charts-a-slightly-strange": { "reason": "дубль bentley-torcal, обрезанный заголовок статьи", "dismissedAt": "2026-10-29" },
-  "ncs-bentley-2028-bentley-torcal-first-ride": { "reason": "дубль bentley-torcal, обрезанный заголовок статьи", "dismissedAt": "2026-10-29" },
-  "ncs-bentley-2028-bentley-torcal-aims-to-capture-that-tangibl": { "reason": "дубль bentley-torcal, обрезанный заголовок статьи", "dismissedAt": "2026-10-29" },
-  "ncs-jaguar-2028-type-01": { "reason": "дубль jaguar-type01", "dismissedAt": "2026-10-29" },
-  "ncs-jaguar-2028-jaguar-type-01-ev": { "reason": "дубль jaguar-type01 (Type 01 изначально EV)", "dismissedAt": "2026-10-29" },
-  "ncs-mercedes-2028-mercedes-amg-gt-suv-one-ups": { "reason": "дубль AMG GT SUV", "dismissedAt": "2026-10-29" },
-  "ncs-mercedes-2027-mercedes-amg-gle53-phev": { "reason": "дубль GLE 53 (слит в merc-gle-w167-fl как variant_of)", "dismissedAt": "2026-10-29" },
-  "ncs-skoda-2027-epiq": { "reason": "дубль Škoda Epiq", "dismissedAt": "2026-10-29" },
-  "ncs-astonmartin-2028-martin-valen": { "reason": "дубль Aston Martin Valhalla-линейки, обрезанный заголовок", "dismissedAt": "2026-10-29" },
-  "ncs-bmw-2027-bmw-x5-first": { "reason": "дубль bmw-x5-g65 (обзор G65 под заголовком 'First')", "dismissedAt": "2026-10-29" },
-  "ncs-mercedes-2027-mercedes-benz-c-class-refresh": { "reason": "дубль merc-c-w206 рестайлинга", "dismissedAt": "2026-10-29" },
-  "ncs-mercedes-2027-c-class-ev-uk": { "reason": "дубль merc-c-w206-ev, региональный вариант [UK]", "dismissedAt": "2026-10-29" }
+  "ncs-bentley-2028-torcal": {
+    "reason": "дубль bentley-torcal",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-bentley-2028-bentley-torcal-breaks": {
+    "reason": "дубль bentley-torcal, обрезанный заголовок статьи",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-bentley-2028-bentley-torcal-ev-charts-a-slightly-strange": {
+    "reason": "дубль bentley-torcal, обрезанный заголовок статьи",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-bentley-2028-bentley-torcal-first-ride": {
+    "reason": "дубль bentley-torcal, обрезанный заголовок статьи",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-bentley-2028-bentley-torcal-aims-to-capture-that-tangibl": {
+    "reason": "дубль bentley-torcal, обрезанный заголовок статьи",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-jaguar-2028-type-01": {
+    "reason": "дубль jaguar-type01",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-jaguar-2028-jaguar-type-01-ev": {
+    "reason": "дубль jaguar-type01 (Type 01 изначально EV)",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-mercedes-2028-mercedes-amg-gt-suv-one-ups": {
+    "reason": "дубль AMG GT SUV",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-mercedes-2027-mercedes-amg-gle53-phev": {
+    "reason": "дубль GLE 53 (слит в merc-gle-w167-fl как variant_of)",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-skoda-2027-epiq": {
+    "reason": "дубль Škoda Epiq",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-astonmartin-2028-martin-valen": {
+    "reason": "дубль Aston Martin Valhalla-линейки, обрезанный заголовок",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-bmw-2027-bmw-x5-first": {
+    "reason": "дубль bmw-x5-g65 (обзор G65 под заголовком 'First')",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-mercedes-2027-mercedes-benz-c-class-refresh": {
+    "reason": "дубль merc-c-w206 рестайлинга",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-mercedes-2027-c-class-ev-uk": {
+    "reason": "дубль merc-c-w206-ev, региональный вариант [UK]",
+    "dismissedAt": "2026-10-29"
+  },
+  "ncs-maserati-2027-granturismo-trofeo": {
+    "reason": "дубль maserati-granturismo2-trofeo-fl",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-bmw-2027-i3": {
+    "reason": "дубль ncs-bmw-2027-bmw-i3",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-bmw-2027-m350-xdrive": {
+    "reason": "дубль bmw-m350-g50 (было ошибочное evolves_into от M3 G80)",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-mercedes-2027-mercedes-amg-glc53-pros": {
+    "reason": "дубль ncs-mercedes-2027-glc53-amg-us (обзор)",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-audi-2027-a6-allroad-uk": {
+    "reason": "рыночная UK-версия ncs-audi-2027-a6-allroad-quattro",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-audi-2027-q7-uk": {
+    "reason": "рыночная UK-версия ncs-audi-2027-q7",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-porsche-2027-porsche-cayenne-ev-can-open-its-doors": {
+    "reason": "дубль porsche-cayenne-electric, заголовок статьи",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-audi-2027-rs5-saloon-uk": {
+    "reason": "дубль ncs-audi-2027-audi-rs5-sedan (UK)",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-mercedes-2027-vle": {
+    "reason": "дубль mb-vle (фиктивный facelifted_to)",
+    "dismissedAt": "2026-11-04"
+  },
+  "ncs-volkswagen-2027-volkswagen-atlas-first": {
+    "reason": "дубль vw-atlas-2 (Volkswagen Atlas II, 2027)",
+    "dismissedAt": "2026-11-12"
+  },
+  "ncs-toyota-2027-toyota-rav4-phev-a-big-upgrade": {
+    "reason": "переименован в ncs-toyota-2027-toyota-rav4-phev (название без хвоста заголовка)",
+    "dismissedAt": "2026-11-12"
+  }
 }

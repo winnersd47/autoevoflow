@@ -447,7 +447,7 @@
   "latestCars": [
     {
       "id": "cad-news-a73555945-2029-lotus-esprit-v6-engine-option-report",
-      "name": "2029 Lotus Esprit to",
+      "name": "2029 Lotus Esprit",
       "year": 2029,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d0b64efe-c254-4ba5-af1c-96cfaac65aed.jpeg",
       "pageUrl": "https://www.caranddriver.com/news/a73555945/2029-lotus-esprit-v6-engine-option-report/",
@@ -491,8 +491,17 @@
       "scrapedAt": "2026-07-24T10:10:44.468Z"
     },
     {
+      "id": "cad-lotus-evija-2027",
+      "name": "2027 Lotus Evija",
+      "year": 2027,
+      "imageUrl": "",
+      "pageUrl": "https://www.caranddriver.com/lotus/evija-2027",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-11-06T20:04:00.824Z"
+    },
+    {
       "id": "cad-news-a71755341-watt-avant-design-lotus-concept-car-collab",
-      "name": "Two U.K. Companies Used Their Imagination, and Lotus Inspiration, for This Concept Collab",
+      "name": "Two U.K. Companies Used Their Imagination",
       "year": 2026,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ff67f891-12d4-421e-a755-71803ad60b4a.jpeg",
       "pageUrl": "https://www.caranddriver.com/news/a71755341/watt-avant-design-lotus-concept-car-collab/",

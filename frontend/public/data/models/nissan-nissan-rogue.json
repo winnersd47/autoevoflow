@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-rogue",
+  "slug": "nissan-nissan-rogue",
+  "name": "2027 Nissan Rogue",
+  "fullName": "2027 Nissan Rogue",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With a unique powertrain, the new 2027 Nissan Rogue Hybrid drives like nothing else in its class, and that&#39;s a good thing.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-nissan-rogue-hybrids-silence-speaks-volumes/intro-1793301780.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-nissan-rogue-hybrids-silence-speaks-volumes/intro-1793301780.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2301577/2027-nissan-rogue-hybrid-epower-first-drive-review/",
+  "isLatest": true,
+  "scrapedAt": "2026-10-30T14:04:02.052Z",
+  "createdAt": "2026-10-30T14:04:11.934Z",
+  "updatedAt": "2026-10-30T14:04:11.935Z"
+}

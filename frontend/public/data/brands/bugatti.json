@@ -1105,6 +1105,15 @@
   ],
   "latestCars": [
     {
+      "id": "cad-bugatti-tourbillon-2027",
+      "name": "2027 Bugatti Tourbillon",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0b5aaf86-c235-4031-bdfa-dddcaf0f1ced.jpg",
+      "pageUrl": "https://www.caranddriver.com/bugatti/tourbillon-2027",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-11-11T02:04:01.007Z"
+    },
+    {
       "id": "ncs-bugatti-2026-w16_mistral_le_retour_du_jeune_prince",
       "name": "Bugatti W16 Mistral Le Retour du Jeune Prince",
       "year": 2026,

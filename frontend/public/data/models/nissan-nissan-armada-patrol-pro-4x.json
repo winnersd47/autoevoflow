@@ -1,0 +1,26 @@
+{
+  "id": "ncs-nissan-nissan-armada-patrol-pro-4x",
+  "slug": "nissan-nissan-armada-patrol-pro-4x",
+  "name": "Nissan Armada Patrol PRO-4X",
+  "fullName": "2027 Nissan Armada Patrol PRO-4X",
+  "brandId": "nissan",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "For the 2027 model year, Armada's capable PRO-4X grade is renamed Patrol PRO-4X, aligning the model with Patrol's 75-year heritage of global SUV adventure.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.netcarshow.com/Nissan-Armada_Patrol_PRO-4X-2027-wallpaper.jpg",
+  "thumbnailUrl": "https://www.netcarshow.com/R/Nissan-Armada_Patrol_PRO-4X-2027-thb.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.netcarshow.com/nissan/2027-armada_patrol_pro-4x/",
+  "isLatest": true,
+  "scrapedAt": "2026-11-09T14:03:53.563Z",
+  "createdAt": "2026-11-09T14:04:23.267Z",
+  "updatedAt": "2026-11-09T14:04:23.267Z"
+}

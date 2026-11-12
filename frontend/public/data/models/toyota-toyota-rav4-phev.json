@@ -1,0 +1,26 @@
+{
+  "id": "ncs-toyota-toyota-rav4-phev",
+  "slug": "toyota-toyota-rav4-phev",
+  "name": "2027 Toyota RAV4 PHEV",
+  "fullName": "2027 Toyota RAV4 PHEV",
+  "brandId": "toyota",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "With Tesla-style NACS ports and fast-charging capability on all trims, you can use your RAV4 PHEV like an EV.",
+  "generationCount": 1,
+  "heroImageUrl": "https://cdn.motor1.com/images/mgl/3WmX6Y/s3/2026-toyota-rav4-phev.jpg",
+  "thumbnailUrl": "https://cdn.motor1.com/images/mgl/3WmX6Y/s3/2026-toyota-rav4-phev.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://insideevs.com/news/814708/2027-toyota-rav4-nacs-port-fast-charging/",
+  "isLatest": true,
+  "scrapedAt": "2026-11-06T20:04:01.005Z",
+  "createdAt": "2026-11-06T20:04:02.369Z",
+  "updatedAt": "2026-11-06T20:04:02.373Z"
+}

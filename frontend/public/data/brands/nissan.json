@@ -2606,7 +2606,7 @@
     },
     {
       "id": "td-news-2027-nissan-z-just-got-more-expensive-but-look-at-it",
-      "name": "2027 Nissan Z Just",
+      "name": "2027 Nissan Z",
       "year": 2027,
       "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/07/27OMP_Zb026_13MAR26.jpg?quality=85",
       "pageUrl": "https://www.thedrive.com/news/2027-nissan-z-just-got-more-expensive-but-look-at-it",
@@ -2678,7 +2678,7 @@
     },
     {
       "id": "drv-auto-news-news-2027-nissan-kicks-canadian-pricing",
-      "name": "2027 Nissan Kicks starts at $27,798 in Canada",
+      "name": "2027 Nissan Kicks",
       "year": 2027,
       "imageUrl": "",
       "pageUrl": "https://driving.ca/auto-news/news/2027-nissan-kicks-canadian-pricing",
@@ -2731,22 +2731,22 @@
       "scrapedAt": "2026-10-26T14:03:53.991Z"
     },
     {
-      "id": "ncs-nissan-2026-terrano_suv_phev_concept",
-      "name": "Nissan Terrano SUV PHEV Concept",
-      "year": 2026,
-      "imageUrl": "https://www.netcarshow.com/Nissan-Terrano_SUV_PHEV_Concept-2026-wallpaper.jpg",
-      "pageUrl": "https://www.netcarshow.com/nissan/2026-terrano_suv_phev_concept/",
-      "description": "Terrano PHEV Concept marks the return of an iconic nameplate. Equipped with the latest plug-in hybrid technology, the Terrano builds on Nissan's off-road heritage...",
-      "scrapedAt": "2026-06-05T07:31:49.538Z"
+      "id": "jlp-2301577-2027-nissan-rogue-hybrid-epower-first-drive-review",
+      "name": "2027 Nissan Rogue",
+      "year": 2027,
+      "imageUrl": "https://www.jalopnik.com/img/gallery/2027-nissan-rogue-hybrids-silence-speaks-volumes/intro-1793301780.jpg",
+      "pageUrl": "https://www.jalopnik.com/2301577/2027-nissan-rogue-hybrid-epower-first-drive-review/",
+      "description": "With a unique powertrain, the new 2027 Nissan Rogue Hybrid drives like nothing else in its class, and that&#39;s a good thing.",
+      "scrapedAt": "2026-10-30T14:04:02.052Z"
     },
     {
-      "id": "carscoops-2026-06-2027-nissan-frontier-pricing",
-      "name": "Nissan&#8217;s New Frontier Sport Edition Adds The PRO-4X Look For $990",
-      "year": 2026,
-      "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Nissan-Frontier-copy-1024x576.jpg",
-      "pageUrl": "https://www.carscoops.com/2026/06/2027-nissan-frontier-pricing/",
-      "description": "<img width=\"1024\" height=\"576\" src=\"https://www.carscoops.com/wp-content/uploads/2026/06/2027-Nissan-Frontier-copy-1024x576.jpg\" class=\"attachment-large size-large wp-post-image\" alt=\"\" style=\"margin-",
-      "scrapedAt": "2026-06-16T07:53:02.800Z"
+      "id": "cad-nissan-rogue-hybrid",
+      "name": "2027 Nissan Rogue Hybrid",
+      "year": 2027,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/de8ddd89-99df-402a-b7df-b15af8ae6418.jpg",
+      "pageUrl": "https://www.caranddriver.com/nissan/rogue-hybrid",
+      "description": "Review, Pricing, and Specs",
+      "scrapedAt": "2026-10-30T14:04:01.779Z"
     }
   ]
 }

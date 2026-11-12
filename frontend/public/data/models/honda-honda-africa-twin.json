@@ -1,0 +1,26 @@
+{
+  "id": "ncs-honda-honda-africa-twin",
+  "slug": "honda-honda-africa-twin",
+  "name": "2027 Honda Africa Twin",
+  "fullName": "2027 Honda Africa Twin",
+  "brandId": "honda",
+  "bodyType": "other",
+  "segment": "other",
+  "primaryMarket": "global",
+  "startYear": 2027,
+  "isActive": true,
+  "description": "The Honda Africa Twin is one of the best adventure bikes on the market, but Honda isn&#39;t resting on its laurels.",
+  "generationCount": 1,
+  "heroImageUrl": "https://www.jalopnik.com/img/gallery/2027-honda-africa-twin-offers-more-displacement-skyhook-suspension-and-the-bikes-funniest-trim-level/intro-1793802079.jpg",
+  "thumbnailUrl": "https://www.jalopnik.com/img/gallery/2027-honda-africa-twin-offers-more-displacement-skyhook-suspension-and-the-bikes-funniest-trim-level/intro-1793802079.jpg",
+  "tags": [
+    "new",
+    "2027"
+  ],
+  "aiAnalysisAvailable": false,
+  "sourceUrl": "https://www.jalopnik.com/2306408/2027-honda-africa-twin-displacement-skyhook-suspension/",
+  "isLatest": true,
+  "scrapedAt": "2026-11-04T15:07:47.545Z",
+  "createdAt": "2026-11-04T15:07:57.338Z",
+  "updatedAt": "2026-11-04T15:07:57.339Z"
+}

@@ -673,6 +673,15 @@
   ],
   "latestCars": [
     {
+      "id": "cad-subaru-getaway-2028",
+      "name": "2028 Subaru",
+      "year": 2028,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/cd212b86-7f22-4eb0-90eb-49ee4864a234.jpg",
+      "pageUrl": "https://www.caranddriver.com/subaru/getaway-2028",
+      "description": "What We Know So Far",
+      "scrapedAt": "2026-11-06T21:07:13.860Z"
+    },
+    {
       "id": "ncs-subaru-2027-getaway",
       "name": "Subaru Getaway",
       "year": 2027,
@@ -683,7 +692,7 @@
     },
     {
       "id": "carscoops-2026-06-2027-subaru-brz-updates",
-      "name": "Subaru BRZ Slides Into 2027 With Higher Prices And Not Much Else",
+      "name": "Subaru BRZ",
       "year": 2027,
       "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2027-Subaru-BRZ-1024x576.jpg",
       "pageUrl": "https://www.carscoops.com/2026/06/2027-subaru-brz-updates/",
@@ -692,7 +701,7 @@
     },
     {
       "id": "carscoops-2026-06-subaru-solterra-pricing",
-      "name": "Subaru&#8217;s Second-Quickest Production Car Holds Its Price For 2027",
+      "name": "Subaru Second-Quickest Production Car",
       "year": 2027,
       "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/2026_Subaru_Solterra_045-copy-1024x576.jpg",
       "pageUrl": "https://www.carscoops.com/2026/06/subaru-solterra-pricing/",
@@ -737,7 +746,7 @@
     },
     {
       "id": "cad-news-a73890887-2027-subaru-forester-nonhybrid-changes-detail",
-      "name": "2027 Subaru Forester Prices Hold Steady, but Nonhybrid",
+      "name": "2027 Subaru Forester",
       "year": 2027,
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/29cdeb06-8307-4bc6-b835-32043364f345.jpg",
       "pageUrl": "https://www.caranddriver.com/news/a73890887/2027-subaru-forester-nonhybrid-changes-details-prices/",
@@ -809,7 +818,7 @@
     },
     {
       "id": "carscoops-2026-06-subaru-levorg-layback-hybrid",
-      "name": "Subaru&#8217;s New Levorg Layback Hybrid Looks Like An Impreza Wagon",
+      "name": "Subaru Levorg Layback Hybrid",
       "year": 2026,
       "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Subaru-Levorg-Layback-SHEV-Japan-4-2048x1152-1-1024x576.webp",
       "pageUrl": "https://www.carscoops.com/2026/06/subaru-levorg-layback-hybrid/",
@@ -818,7 +827,7 @@
     },
     {
       "id": "carscoops-2026-06-subaru-sambar-van-update",
-      "name": "Subaru&#8217;s Cheapest New Car Is A $7,200 Kei Van With Three Pedals",
+      "name": "Subaru Cheapest New Car",
       "year": 2026,
       "imageUrl": "https://www.carscoops.com/wp-content/uploads/2026/06/Subaru-Sambar-Van-main-copy-1024x576.jpg",
       "pageUrl": "https://www.carscoops.com/2026/06/subaru-sambar-van-update/",
@@ -841,15 +850,6 @@
       "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bb13d48c-af3f-4810-b0e4-3b0e3b6615c0.jpg",
       "pageUrl": "https://www.caranddriver.com/reviews/a71934066/2026-subaru-wrx-drive/",
       "description": "A strong starting price provides a solid platform for having a good time behind the wheel, whether you're staying on the road or hitting the track.",
-      "scrapedAt": "2026-07-16T19:45:46.451Z"
-    },
-    {
-      "id": "cad-photos-g71932410-2026-subaru-wrx-drive-gallery",
-      "name": "2026 Subaru WRX",
-      "year": 2026,
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bd43a8dd-fcf3-4a61-9421-dffd106c7f74.jpg",
-      "pageUrl": "https://www.caranddriver.com/photos/g71932410/2026-subaru-wrx-drive-gallery/",
-      "description": "See the interior and exterior of the 2026 Subaru WRX from every angle.",
       "scrapedAt": "2026-07-16T19:45:46.451Z"
     }
   ]
