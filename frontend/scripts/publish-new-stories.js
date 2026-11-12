@@ -190,6 +190,105 @@ function storyMentionsModel(plainText, car) {
   return distinctive(rem).some(t => text.includes(norm(t)))
 }
 
+// ─── Очистка названия от редакционного хука ───────────────────────────────────
+// Заголовки источников — это предложения: "2027 BMW 740 xDrive Builds on Excellence",
+// "2027 Toyota RAV4 Raises Prices", "2027 Genesis GV60 / GV60 Magma". Целиком они
+// уходили в заголовок поста и в ключ модели — отсюда косметический мусор в канале
+// и дубли одной модели из разных статей (Silverado HD ×2, RAV4 ×2, GV60 ×2: ключи
+// разные, потому что в 3 токена ключа попадали слова хука).
+// Режем по пунктуации ВНЕ скобок и по первому слову-хуку после модели. Проверено на
+// 5340 настоящих названиях графа: меняются только заведомо описательные/испорченные.
+const HOOK_WORDS = new Set([
+  // глаголы 3 л. ед. ч. — типичное начало хука ("Builds on Excellence", "Raises Prices")
+  'Builds','Raises','Provides','Embraces','Earns','Gets','Gains','Adds','Brings','Offers','Keeps','Makes','Takes','Drops',
+  'Cuts','Grows','Steps','Stays','Returns','Joins','Loses','Boosts','Delivers','Packs','Promises','Proves','Shows','Swaps',
+  'Turns','Updates','Upgrades','Arrives','Debuts','Launches','Starts','Ends','Costs','Hits','Beats','Rivals','Leads','Aims',
+  'Wants','Needs','Pushes','Pulls','Climbs','Falls','Rises','Looks','Feels','Sounds','Hides','Gives','Opens','Closes',
+  'Reveals','Unveils','Introduces','Expands','Extends','Receives','Sees','Becomes','Remains','Continues','Combines','Blends',
+  'Mixes','Plays','Fights','Chases','Targets','Tackles','Faces','Meets','Welcomes','Honors','Celebrates','Marks','Goes','Comes',
+  'Does','Has','Is','Are','Was','Were','Will','May','Might','Could','Should','Can',
+  'Charts','Doubles','Triples','Redefines','Refines','Reinvents','Reimagines','Rewrites','Revives','Restyles','Refreshes','Revamps',
+  'Reworks','Retains','Reaches','Reigns','Reminds','Replaces','Sets','Sells','Sends','Signs','Slides','Slips','Snags','Sparks','Speeds',
+  'Splits','Stands','Stretches','Strikes','Struggles','Stuns','Succeeds','Suffers','Supports','Surges','Surprises','Switches','Tastes',
+  'Teases','Tells','Thinks','Tops','Tows','Treats','Tries','Trims','Unleashes','Unlocks','Wears','Wins','Wows','Yields','Zooms',
+  'Attracts','Avoids','Backs','Breaks','Calls','Carries','Catches','Changes','Charges','Checks','Chooses','Claims','Clears','Covers',
+  'Crashes','Creates','Crushes','Dares','Demands','Describes','Designs','Dips','Dives','Eases','Embodies','Enters','Escapes','Evolves',
+  'Excels','Exceeds','Fills','Finds','Fires','Fixes','Flexes','Follows','Forces','Fuels','Grabs','Handles','Heads','Helps','Holds',
+  'Hopes','Hunts','Ignites','Impresses','Improves','Invites','Jumps','Kicks','Knows','Lands','Lasts','Lets','Lifts','Likes','Lives',
+  'Matches','Matters','Misses','Moves','Outdoes','Outruns','Overhauls','Passes','Pays','Picks','Plans','Pleases','Powers','Prepares',
+  'Presents','Pursues','Puts','Races','Reads','Rebuilds','Recalls','Refuses','Rejects','Relaunches','Relies','Renews','Resets',
+  'Resists','Responds','Retires','Reverses','Revisits','Rewards','Rides','Runs','Rushes','Saves','Says','Scores','Seeks','Seems',
+  'Settles','Shakes','Shapes','Shares','Shifts','Shines','Shocks','Skips','Slows','Soars','Solves','Spreads','Stacks','Steals',
+  'Sticks','Stops','Surpasses','Survives','Sweeps','Swings','Talks','Teams','Tempts','Thrills','Throws','Tightens','Touches','Tours',
+  'Transforms','Travels','Tweaks','Twists','Unites','Wakes','Walks','Warns','Wastes','Watches','Weighs','Wraps',
+  // наречия
+  'Finally','Officially','Quietly','Now','Just','Still','Even','Also','Again','Soon','Already','Almost','Nearly','Only',
+  // артикли ("A Big Upgrade") — см. условие в cleanModelName
+  'A','An','The',
+])
+// "Works" сознательно НЕТ в списке: "Defender Works V8", "John Cooper Works" — настоящие комплектации.
+const FUNC_NEXT = /^(on|to|for|in|a|an|the|by|with|its|your|you|that|more|less|new|big|all|at|from|up|out|over|into)$/i
+// Служебные слова на конце заголовка. Артикли сюда НЕ входят: "A" на конце — часть имени (Ferrari 356 A, 458 Speciale A).
+const TRAILING_NOISE = /^(review|first|look|drive|test|preview|revealed|unveiled|spied|spotted|teased|leaked|price|pricing|specs|interior|exterior|gallery|photos|video|to|more|less|than|and|or|of|in|on|for|with|the|its|by|at|as|vs)$/i
+
+function cutAtHookPunctuation(s) {
+  let depth = 0
+  for (let i = 0; i < s.length; i++) {
+    const ch = s[i]
+    if (ch === '(' || ch === '[') depth++
+    else if (ch === ')' || ch === ']') depth = Math.max(0, depth - 1)
+    else if (depth === 0) {
+      if (ch === ',' || ch === ';' || ch === '|' || ch === '…' || ch === '–' || ch === '—') return s.slice(0, i)
+      // двоеточие — хук только с пробелом после ("Model: hook"); "e:HEV", "D:5" — часть имени
+      if (ch === ':' && /\s/.test(s[i + 1] || '')) return s.slice(0, i)
+      if (ch === '-' && s[i - 1] === ' ' && s[i + 1] === ' ') return s.slice(0, i)
+      if (ch === '.' && s[i + 1] === '.' && s[i + 2] === '.') return s.slice(0, i)
+    }
+  }
+  return s
+}
+
+function cleanModelName(name, brand) {
+  if (!name) return name
+  const orig = String(name)
+  let n = cutAtHookPunctuation(orig.replace(/\s+/g, ' ').trim()).trim()
+  n = n.replace(/(\S+)\s*\/\s*\1(?=\s|$)/, '$1') // "GV60 / GV60 Magma" → "GV60 Magma"
+  const tokens = n.split(' ')
+  const brandWords = String(brand || '').toLowerCase().split(/\s+/).filter(Boolean)
+  let start = 0
+  while (start < tokens.length && (/^(19|20)\d\d$/.test(tokens[start]) || brandWords.includes(tokens[start].toLowerCase()))) start++
+  // start — первый токен модели; хук ищем строго ПОСЛЕ него (модель не может остаться пустой)
+  let cut = tokens.length
+  for (let i = start + 1; i < tokens.length; i++) {
+    const next = tokens[i + 1] || ''
+    let isHook = HOOK_WORDS.has(tokens[i])
+    // "A/An/The" — хук лишь после >=2 токенов модели и перед словом с заглавной ("RAV4 PHEV A Big Upgrade");
+    // иначе это часть комплектации ("GTO The Judge", "Rebel The Machine")
+    if (/^(A|An|The)$/.test(tokens[i]) && !(i - start >= 2 && /^[A-Z]/.test(next))) isHook = false
+    // неизвестный глагол на -s перед служебным словом ("Builds on", "Aims To", "Charts A")
+    if (!isHook && /^[A-Z][a-z]{2,}s$/.test(tokens[i]) && FUNC_NEXT.test(next)) isHook = true
+    // редкий глагол с характерным окончанием (Exemplifies, Emphasizes, Showcases, Highlights, Elevates);
+    // в 5340 настоящих названиях графа слов с такими окончаниями вне позиции модели нет
+    if (!isHook && /^[A-Z][a-z]{3,}(ifies|izes|ises|ates|cases|ights|ides)$/.test(tokens[i])) isHook = true
+    if (!isHook) continue
+    cut = i
+    break
+  }
+  const out = tokens.slice(0, cut)
+  while (out.length > start + 1 && TRAILING_NOISE.test(out[out.length - 1])) out.pop()
+  const res = out.join(' ').trim()
+  return out.length > start && res.length >= 2 ? res : orig
+}
+
+// Копия машины с очищенным названием (исходное — в _rawName, для логов).
+function withCleanName(car) {
+  const brand = car.brand || car.brandName || ''
+  const name = cleanModelName(car.name, brand)
+  const fullName = cleanModelName(car.fullName, brand)
+  if (name === car.name && fullName === car.fullName) return car
+  return { ...car, name, fullName, _rawName: car.name || car.fullName }
+}
+
 function extractModelKey(car) {
   const brand = normBrand(car.brandSlug || (car.brand || '').toLowerCase().replace(/\s+/g, '-')) || 'unknown'
   const year  = String(car.year || '').match(/\d{4}/)?.[0] || ''
@@ -1908,9 +2007,10 @@ async function main() {
     if (!fs.existsSync(LATEST_JSON)) { console.error('latest-cars.json не найден'); process.exit(1) }
     const latest = JSON.parse(fs.readFileSync(LATEST_JSON, 'utf-8'))
     const cars   = latest.cars || []
-    const car    = cars.find(c => c.id === carId)
-    if (!car) { console.error(`[publish-stories] Машина не найдена: ${carId}`); process.exit(1) }
-    console.log(`[publish-stories] Режим --car-id: ${car.name || car.fullName}`)
+    const rawCar = cars.find(c => c.id === carId)
+    if (!rawCar) { console.error(`[publish-stories] Машина не найдена: ${carId}`); process.exit(1) }
+    const car = withCleanName(rawCar) // та же очистка названия от хука, что в автоматическом режиме
+    console.log(`[publish-stories] Режим --car-id: ${car.name || car.fullName}${car._rawName ? `  (было: «${car._rawName}»)` : ''}`)
     const graph = loadGraph()
     if (isDry) { await dryRun(car, graph); return }
     const token = process.env.TELEGRAM_BOT_TOKEN, channelId = process.env.TELEGRAM_CHANNEL_ID
@@ -1984,7 +2084,7 @@ async function main() {
     if (!target) { console.log('Нет новых моделей для превью'); return }
 
     const graph = loadGraph()
-    await dryRun(target, graph)
+    await dryRun(withCleanName(target), graph)
     return
   }
 
@@ -2055,10 +2155,20 @@ async function main() {
   const retroSkipped = nonClickbait.length - genuineOnly.length
   if (retroSkipped > 0) console.log(`[publish-stories] Пропущено ${retroSkipped} архивных/ретро статей (не новинки) из прочих источников`)
 
+  // Заголовок-предложение → чистое название модели. СТРОГО после фильтров кликбейта/ретро
+  // (им хук как раз нужен) и ДО проверки имени и группировки: одна модель из разных
+  // статей получает один ключ и один пост ("Silverado HD" и "Silverado HD, a Gorilla-Strong…").
+  const cleanedCars = genuineOnly.map(withCleanName)
+  const renamed = cleanedCars.filter(c => c._rawName)
+  if (renamed.length) {
+    console.log(`[publish-stories] Очищено ${renamed.length} названий от редакционного хвоста:`)
+    renamed.slice(0, 6).forEach(c => console.log(`    «${c._rawName}» → «${c.name}»`))
+  }
+
   // Имя должно быть настоящим названием модели, а не обрывком предложения —
   // применяем ко ВСЕМ источникам (в т.ч. NCS: дефект другого рода, но проверка та же)
-  const qualityCars = genuineOnly.filter(looksLikeRealModelName)
-  const badNameSkipped = genuineOnly.length - qualityCars.length
+  const qualityCars = cleanedCars.filter(looksLikeRealModelName)
+  const badNameSkipped = cleanedCars.length - qualityCars.length
   if (badNameSkipped > 0) console.log(`[publish-stories] Пропущено ${badNameSkipped} статей — имя не похоже на реальную модель (нет названия модели или бренд не сразу после года)`)
 
   // Группируем по модели → один пост на модель, независимо от числа источников
