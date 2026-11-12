@@ -138,6 +138,10 @@ function isClickbaitHeadline(car) {
 function looksLikeRealModelName(car) {
   const name = (car.name || car.fullName || '').trim()
   if (!name) return false
+  // Название обязано содержать МОДЕЛЬ, а не только год и бренд. "2028 Subaru" и
+  // "2027 Chevrolet" проходили проверку позиции бренда ниже (бренд сразу после
+  // года), и пост уходил в канал с заголовком без модели (11.11.2026).
+  if (!hasModelName(car)) return false
   const brand = (car.brand || car.brandName || '').trim()
   if (!brand) return true // нет данных о бренде — нечем проверить, пропускаем как есть
   const brandIdx = name.toLowerCase().indexOf(brand.toLowerCase())
@@ -146,6 +150,44 @@ function looksLikeRealModelName(car) {
   if (!before) return true // бренд — первое слово, всё чисто
   const nonYearWords = before.split(/\s+/).filter(w => w && !/^(19|20)\d\d$/.test(w))
   return nonYearWords.length <= 2
+}
+
+// Остаток названия после вычета года, бренда и служебных слов (то, что и есть
+// модель). В отличие от extractModelKey цифровые модели ("911", "Smart 2") тут
+// сохраняются — иначе их пришлось бы считать безымянными.
+function modelRemainder(car) {
+  const brand = (car.brand || car.brandName || '').toLowerCase()
+  let n = (car.name || car.fullName || '').toLowerCase().split(':')[0]
+  n = n.replace(/\b(19|20)\d{2}\b/g, ' ')
+  for (const w of brand.split(/\s+/).filter(Boolean)) {
+    n = n.replace(new RegExp(`\\b${w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'g'), ' ')
+  }
+  n = n.replace(NOISE_WORDS, ' ')
+  return n.replace(/[^a-z0-9а-яё#\- ]/gi, ' ').replace(/\s+/g, ' ').trim()
+}
+// Достаточно хотя бы одного буквенно-цифрового символа: "Smart 2", "Nissan Z"
+// — настоящие названия из одного знака, пустой остаток ("2028 Subaru") — нет.
+function hasModelName(car) {
+  return /[a-z0-9а-яё]/i.test(modelRemainder(car))
+}
+
+// Пост обязан быть про ТУ машину, что в заголовке: хотя бы один отличительный
+// токен модели должен встретиться в тексте. Служебные слова ("Series", "Class")
+// и одиночные цифры не считаем: легитимный пост про "3-Series" называет её
+// "M350"/"Neue Klasse" и слова Series не содержит — такие названия проверить
+// по тексту нечем, пропускаем. Остальное замерено: 56 из 56 нормальных постов.
+const GENERIC_MODEL_WORDS = /^(series|serie|class|klasse|line|range|edition|sport|model|models)$/i
+function storyMentionsModel(plainText, car) {
+  const distinctive = (s) => s.split(/[^a-z0-9а-яё#]+/i).filter(t => t.length >= 2 && !GENERIC_MODEL_WORDS.test(t))
+  const rem = modelRemainder(car)
+  // Нет отличительного идентификатора ("3-Series", "C-Class", "Smart 2") —
+  // проверить по тексту нечем, не придираемся.
+  if (!distinctive(rem.split(' ')[0] || '').length) return true
+  // Любой отличительный токен названия (хвост-хук заголовка лишь добавляет шансов
+  // совпасть, не отнимает). Сравнение без пробелов/дефисов: "GLE 53" ↔ "gle53".
+  const norm = (s) => s.toLowerCase().replace(/[^a-z0-9а-яё#]+/g, '')
+  const text = norm(plainText)
+  return distinctive(rem).some(t => text.includes(norm(t)))
 }
 
 function extractModelKey(car) {
@@ -649,39 +691,60 @@ async function callQwen(messages) {
 // Поэтому пробуем НЕСКОЛЬКО моделей С РАЗНЫХ бэкендов подряд за один вызов —
 // не только разный размер, но и разный upstream-пул, чтобы один перегруженный
 // провайдер не валил всю попытку.
+// 2026-11-11: nemotron-3-super-120b и laguna-s-2.1 сняты с каталога (404 "no
+// longer available"), из-за чего весь пул молча отваливался и публикация
+// стояла с 31 октября. Замена проверена живым русскоязычным вызовом:
+// gemma-4-31b-it — 200 за ~1.3с, хороший русский (бывает 429 shared-pool на
+// upstream Google); openrouter/free — роутер по любой живой free-модели;
+// nemotron-3.5-* НЕ годятся — reasoning, при max_tokens 1800 content пустой.
+// Слабые/непредсказуемые модели (LFM2.5 2.6B, роутер openrouter/free) для ПУБЛИЧНЫХ
+// постов сознательно исключены: на русский промпт они отвечали по-английски и
+// выдумывали факты ("8 колёсных арок против 6") — 9–11.11.2026 три таких поста
+// ушли в канал. Лучше пропустить публикацию, чем отправить мусор.
 const OPENROUTER_FREE_MODELS = [
-  'liquid/lfm-2.5-2.6b:free',            // LiquidAI — свой бэкенд
-  'nvidia/nemotron-3-super-120b-a12b:free', // NVIDIA — свой бэкенд, НЕ reasoning-вариант
-  'poolside/laguna-s-2.1:free',          // Poolside — ещё один независимый бэкенд
+  'google/gemma-4-31b-it:free',          // Google AI Studio — лучший русский из живых
+  'google/gemma-4-26b-a4b-it:free',      // тот же upstream, но свой rate-limit бакет
 ]
 
 async function callOpenRouter(messages) {
   const key = process.env.OPENROUTER_API_KEY
   if (!key || key.startsWith('your_')) return null
 
-  let lastErr
+  // Копим причины по КАЖДОЙ модели: раньше в лог попадала только последняя, и
+  // сбой первых моделей пула (429/404/таймаут) оставался невидимым — именно
+  // так список успел молча протухнуть.
+  const errors = []
   for (const model of OPENROUTER_FREE_MODELS) {
-    try {
-      const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          Authorization: `Bearer ${key}`,
-          'Content-Type': 'application/json',
-          // Требуют OpenRouter для бесплатных моделей — без них могут резать лимиты сильнее.
-          'HTTP-Referer': 'https://autoevoflow.local',
-          'X-Title': 'AutoEvoFlow',
-        },
-        body: JSON.stringify({ model, messages, max_tokens: 1800, temperature: 0.72 }),
-        signal: AbortSignal.timeout(60_000),
-      })
-      if (!res.ok) { lastErr = new Error(`OpenRouter ${model} ${res.status}: ${await res.text()}`); continue }
-      const data = await res.json()
-      const content = data.choices?.[0]?.message?.content
-      if (content) return content
-      lastErr = new Error(`OpenRouter ${model}: empty response`)
-    } catch (e) { lastErr = e }
+    // До 2 попыток на модель: "temporarily rate-limited upstream" (429) —
+    // перегрузка общего free-пула Google, обычно проходит через несколько секунд.
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+          method: 'POST',
+          headers: {
+            Authorization: `Bearer ${key}`,
+            'Content-Type': 'application/json',
+            // Требуют OpenRouter для бесплатных моделей — без них могут резать лимиты сильнее.
+            'HTTP-Referer': 'https://autoevoflow.local',
+            'X-Title': 'AutoEvoFlow',
+          },
+          // max_tokens с запасом + reasoning low: reasoning-модели (openrouter/free
+          // часто маршрутизирует на них, LFM2.5 тоже) раньше выедали весь лимит 1800
+          // на скрытые "размышления" и отдавали пустой content (finish=length).
+          body: JSON.stringify({ model, messages, max_tokens: 4500, temperature: 0.72, reasoning: { effort: 'low' } }),
+          signal: AbortSignal.timeout(60_000),
+        })
+        if (res.status === 429 && attempt < 2) { await new Promise(r => setTimeout(r, 8000)); continue }
+        if (!res.ok) { errors.push(`${model} ${res.status}: ${(await res.text()).replace(/\s+/g, ' ').slice(0, 170)}`); break }
+        const data = await res.json()
+        const content = data.choices?.[0]?.message?.content
+        if (content) return content
+        errors.push(`${model}: empty response (finish=${data.choices?.[0]?.finish_reason ?? '?'})`)
+        break
+      } catch (e) { errors.push(`${model}: ${e.message}`); break }
+    }
   }
-  throw lastErr || new Error('OpenRouter: all free models unavailable')
+  throw new Error(`OpenRouter: ${errors.join(' | ') || 'all free models unavailable'}`)
 }
 
 // ── Cerebras (бесплатный тариф, быстрый инференс Llama) ───────────────────────
@@ -742,6 +805,25 @@ async function callMistral(messages) {
     signal: AbortSignal.timeout(45_000),
   })
   if (!res.ok) throw new Error(`Mistral ${res.status}: ${await res.text()}`)
+  const data = await res.json()
+  return data.choices?.[0]?.message?.content ?? null
+}
+
+// ── Groq (openai/gpt-oss-120b) ───────────────────────────────────────────────
+// Бесплатный и быстрый, но с рабочей/офисной сети Groq отдаёт 403 (блокировка на
+// уровне сети) — реально работает из GitHub Actions, где теперь и живёт публикация.
+// gpt-oss — reasoning-модель: max_tokens с запасом, иначе "размышления" съедят лимит.
+// Тот же вызов (эндпоинт/модель) в src/app/api/nextgen/route.ts уже проверен на проде.
+async function callGroq(messages) {
+  const key = process.env.GROQ_API_KEY
+  if (!key || key.startsWith('your_')) return null
+  const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ model: 'openai/gpt-oss-120b', messages, max_tokens: 4096, temperature: 0.72 }),
+    signal: AbortSignal.timeout(60_000),
+  })
+  if (!res.ok) throw new Error(`Groq ${res.status}: ${(await res.text()).replace(/\s+/g, ' ').slice(0, 200)}`)
   const data = await res.json()
   return data.choices?.[0]?.message?.content ?? null
 }
@@ -1348,13 +1430,26 @@ const SECTION_HEADERS = {
 // жирного начертания прекрасно рендерятся), а именно РЕАЛЬНЫЙ симптом:
 // остаётся ли после вырезания шапок содержательный текст.
 const SECTION_HEADER_RE = /^(🏛|🧬|⚡|🔮)\s*(?:<[bi]>)?(?:ИСТОРИ[ЕЙЯИ]{1,2}|ЭВОЛ[ЮЪ]ЦИ[ЕЙЯИ]{1,2}|ЧТО\s+ДЕЛАЕТ\s+Е[ЁE]\s+ОСОБЕННОЙ|ПРОГНОЗ)(?:<\/[bi]>)?:?\s*/gmu
-function isWellFormedStory(text) {
+function isWellFormedStory(text, car) {
   const plain = sanitizeStory(text)
     .replace(SECTION_HEADER_RE, '')
     .replace(/<[^>]+>/g, '')
     .replace(/\s+/g, ' ')
     .trim()
-  return plain.length >= 80
+  // Нормальный разбор — от ~430 знаков (замер по 58 опубликованным); 300 — запас.
+  if (plain.length < 300) return false
+  // Канал русскоязычный. Слабые free-модели (LFM2.5 2.6B и т.п.) на русский
+  // промпт отвечают ПО-АНГЛИЙСКИ, оставляя русскими только заголовки секций —
+  // структурную проверку это проходило, и 9–10.11.2026 такие тексты (0% кириллицы)
+  // ушли в канал, один — поверх уже опубликованного поста. У нормальных постов
+  // доля кириллицы среди букв ≥ 0.63 (много латиницы в названиях моделей), у
+  // английских ≈ 0 — порог 0.5 разделяет их с запасом.
+  const letters  = plain.match(/\p{L}/gu) || []
+  const cyrillic = plain.match(/[А-Яа-яЁё]/g) || []
+  if (letters.length === 0 || cyrillic.length / letters.length < 0.5) return false
+  // Пост про другую машину (галлюцинация) — тоже брак: 11.11.2026 под заголовком
+  // "2028 Subaru" ушёл текст про Impreza WRX GC 1992 и выдуманные цифры.
+  return !car || storyMentionsModel(plain, car)
 }
 
 // ─── Нормализация форматирования для Telegram HTML ───────────────────────────
@@ -1429,6 +1524,13 @@ async function publishTeaser(car, ctx) {
 // Yandex → шаблон). Вынесено отдельно, чтобы editCarPost не дублировал всю
 // цепочку фолбэков — она пересобирает историю с учётом НОВОЙ статьи в research.
 async function generateStory(car, ctx, format) {
+  // Последний рубеж "при оформлении публикации": даже если машина как-то обошла
+  // фильтр на входе, пост без названия модели не уходит (см. looksLikeRealModelName).
+  // Бросаем ошибку — вызывающий код не помечает машину опубликованной.
+  if (!hasModelName(car)) {
+    throw new Error(`Нет названия модели в «${car.name || car.fullName}» (только год/бренд) — публикация пропущена`)
+  }
+
   // ── Веб-ресерч (параллельно: Wikipedia + DDG + статья) ────────────────────
   process.stdout.write(`  🔍 Исследование [${format.id}]... `)
   const research = await researchCar(car)
@@ -1443,8 +1545,17 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 Gemini 2.5 Flash... ')
     try {
       story = await callGemini(messages)
-      if (story && isWellFormedStory(story)) { provider = 'Gemini'; console.log('✅') }
+      if (story && isWellFormedStory(story, car)) { provider = 'Gemini'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
+    } catch (e) { console.log(`⚠️  ${e.message}`) }
+  }
+
+  if (!story && process.env.GROQ_API_KEY && !process.env.GROQ_API_KEY.startsWith('your_')) {
+    process.stdout.write('  🤖 Groq (gpt-oss-120b)... ')
+    try {
+      story = await callGroq(messages)
+      if (story && isWellFormedStory(story, car)) { provider = 'Groq'; console.log('✅') }
+      else if (story) { console.log('⚠️  не прошёл проверку (формат/язык/модель), пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
 
@@ -1452,7 +1563,7 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 DeepSeek... ')
     try {
       story = await callDeepSeek(messages)
-      if (story && isWellFormedStory(story)) { provider = 'DeepSeek'; console.log('✅') }
+      if (story && isWellFormedStory(story, car)) { provider = 'DeepSeek'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
@@ -1461,7 +1572,7 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 YandexGPT... ')
     try {
       story = await callYandex(messages)
-      if (story && isWellFormedStory(story)) { provider = 'YandexGPT'; console.log('✅') }
+      if (story && isWellFormedStory(story, car)) { provider = 'YandexGPT'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
@@ -1470,7 +1581,7 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 Qwen Plus... ')
     try {
       story = await callQwen(messages)
-      if (story && isWellFormedStory(story)) { provider = 'Qwen'; console.log('✅') }
+      if (story && isWellFormedStory(story, car)) { provider = 'Qwen'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
@@ -1479,7 +1590,7 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 OpenRouter (неск. free-моделей)... ')
     try {
       story = await callOpenRouter(messages)
-      if (story && isWellFormedStory(story)) { provider = 'OpenRouter'; console.log('✅') }
+      if (story && isWellFormedStory(story, car)) { provider = 'OpenRouter'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
@@ -1488,7 +1599,7 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 Cerebras (Llama 3.3 70B)... ')
     try {
       story = await callCerebras(messages)
-      if (story && isWellFormedStory(story)) { provider = 'Cerebras'; console.log('✅') }
+      if (story && isWellFormedStory(story, car)) { provider = 'Cerebras'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
@@ -1497,7 +1608,7 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 NVIDIA NIM (Llama 3.3 70B)... ')
     try {
       story = await callNvidia(messages)
-      if (story && isWellFormedStory(story)) { provider = 'NVIDIA'; console.log('✅') }
+      if (story && isWellFormedStory(story, car)) { provider = 'NVIDIA'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
@@ -1506,7 +1617,7 @@ async function generateStory(car, ctx, format) {
     process.stdout.write('  🤖 Mistral Small... ')
     try {
       story = await callMistral(messages)
-      if (story && isWellFormedStory(story)) { provider = 'Mistral'; console.log('✅') }
+      if (story && isWellFormedStory(story, car)) { provider = 'Mistral'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
     } catch (e) { console.log(`⚠️  ${e.message}`) }
   }
@@ -1702,49 +1813,55 @@ async function dryRun(car, graph) {
   console.log('\n─── ГЕНЕРАЦИЯ ───')
   if (process.env.GEMINI_API_KEY && !process.env.GEMINI_API_KEY.startsWith('your_')) {
     process.stdout.write('Gemini 2.5 Flash... ')
-    try { story = await callGemini(messages); if (story && isWellFormedStory(story)) { provider = 'Gemini'; console.log('✅') }
+    try { story = await callGemini(messages); if (story && isWellFormedStory(story, car)) { provider = 'Gemini'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
+    catch (e) { console.log(`⚠️  ${e.message}`) }
+  }
+  if (!story && process.env.GROQ_API_KEY && !process.env.GROQ_API_KEY.startsWith('your_')) {
+    process.stdout.write('Groq (gpt-oss-120b)... ')
+    try { story = await callGroq(messages); if (story && isWellFormedStory(story, car)) { provider = 'Groq'; console.log('✅') }
+      else if (story) { console.log('⚠️  не прошёл проверку (формат/язык/модель), пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.DEEPSEEK_API_KEY && !process.env.DEEPSEEK_API_KEY.startsWith('your_')) {
     process.stdout.write('DeepSeek... ')
-    try { story = await callDeepSeek(messages); if (story && isWellFormedStory(story)) { provider = 'DeepSeek'; console.log('✅') }
+    try { story = await callDeepSeek(messages); if (story && isWellFormedStory(story, car)) { provider = 'DeepSeek'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.YANDEX_API_KEY && !process.env.YANDEX_API_KEY.startsWith('your_')) {
     process.stdout.write('YandexGPT... ')
-    try { story = await callYandex(messages); if (story && isWellFormedStory(story)) { provider = 'YandexGPT'; console.log('✅') }
+    try { story = await callYandex(messages); if (story && isWellFormedStory(story, car)) { provider = 'YandexGPT'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.QWEN_API_KEY && !process.env.QWEN_API_KEY.startsWith('your_')) {
     process.stdout.write('Qwen Plus... ')
-    try { story = await callQwen(messages); if (story && isWellFormedStory(story)) { provider = 'Qwen'; console.log('✅') }
+    try { story = await callQwen(messages); if (story && isWellFormedStory(story, car)) { provider = 'Qwen'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.OPENROUTER_API_KEY && !process.env.OPENROUTER_API_KEY.startsWith('your_')) {
     process.stdout.write('OpenRouter (неск. free-моделей)... ')
-    try { story = await callOpenRouter(messages); if (story && isWellFormedStory(story)) { provider = 'OpenRouter'; console.log('✅') }
+    try { story = await callOpenRouter(messages); if (story && isWellFormedStory(story, car)) { provider = 'OpenRouter'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.CEREBRAS_API_KEY && !process.env.CEREBRAS_API_KEY.startsWith('your_')) {
     process.stdout.write('Cerebras (Llama 3.3 70B)... ')
-    try { story = await callCerebras(messages); if (story && isWellFormedStory(story)) { provider = 'Cerebras'; console.log('✅') }
+    try { story = await callCerebras(messages); if (story && isWellFormedStory(story, car)) { provider = 'Cerebras'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.NVIDIA_API_KEY && !process.env.NVIDIA_API_KEY.startsWith('your_')) {
     process.stdout.write('NVIDIA NIM (Llama 3.3 70B)... ')
-    try { story = await callNvidia(messages); if (story && isWellFormedStory(story)) { provider = 'NVIDIA'; console.log('✅') }
+    try { story = await callNvidia(messages); if (story && isWellFormedStory(story, car)) { provider = 'NVIDIA'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
   if (!story && process.env.MISTRAL_API_KEY && !process.env.MISTRAL_API_KEY.startsWith('your_')) {
     process.stdout.write('Mistral Small... ')
-    try { story = await callMistral(messages); if (story && isWellFormedStory(story)) { provider = 'Mistral'; console.log('✅') }
+    try { story = await callMistral(messages); if (story && isWellFormedStory(story, car)) { provider = 'Mistral'; console.log('✅') }
       else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
     catch (e) { console.log(`⚠️  ${e.message}`) }
   }
@@ -1872,6 +1989,16 @@ async function main() {
   }
 
   // ── Обычный автоматический режим (из scrape-latest.js) ────────────────────
+  // Автопубликацией владеет GitHub Actions (.github/workflows/publish-stories.yml):
+  // оттуда Gemini/Groq доступны без геоблока, не нужен включённый ноутбук, а
+  // состояние (published-*.json) коммитится в git, и сайт обновляется сам.
+  // PUBLISH_OWNER=ci в .env.local гасит ЛОКАЛЬНЫЙ авторежим — два публикатора с
+  // разным состоянием дают дубли. Ручные режимы (--car-id/--model/--dry-run) не затронуты.
+  if (process.env.PUBLISH_OWNER === 'ci' && process.env.GITHUB_ACTIONS !== 'true') {
+    console.log('[publish-stories] автопубликацию ведёт GitHub Actions (PUBLISH_OWNER=ci) — локально пропускаю')
+    return
+  }
+
   const token     = process.env.TELEGRAM_BOT_TOKEN
   const channelId = process.env.TELEGRAM_CHANNEL_ID
 
@@ -1932,7 +2059,7 @@ async function main() {
   // применяем ко ВСЕМ источникам (в т.ч. NCS: дефект другого рода, но проверка та же)
   const qualityCars = genuineOnly.filter(looksLikeRealModelName)
   const badNameSkipped = genuineOnly.length - qualityCars.length
-  if (badNameSkipped > 0) console.log(`[publish-stories] Пропущено ${badNameSkipped} статей — имя не похоже на реальную модель (бренд не сразу после года)`)
+  if (badNameSkipped > 0) console.log(`[publish-stories] Пропущено ${badNameSkipped} статей — имя не похоже на реальную модель (нет названия модели или бренд не сразу после года)`)
 
   // Группируем по модели → один пост на модель, независимо от числа источников
   const groups = groupByModel(qualityCars)

@@ -51,10 +51,13 @@ const LIMIT = Number((args.find(a => a.startsWith('--limit=')) || '').split('=')
 // нулевой баланс) оба недоступны, поэтому остальные 6 обязательны, а не
 // просто подстраховка. ──────────────────────────────────────────────────────
 
+// Тот же обновлённый 2026-11-11 список, что в publish-new-stories.js
+// (старые nemotron-3-super/laguna сняты с каталога OpenRouter, 404).
+// Без слабых моделей (LFM2.5 2.6B, openrouter/free): текст сохраняется на сайте,
+// а они отвечают по-английски и выдумывают факты (см. publish-new-stories.js).
 const OPENROUTER_FREE_MODELS = [
-  'liquid/lfm-2.5-2.6b:free',
-  'nvidia/nemotron-3-super-120b-a12b:free',
-  'poolside/laguna-s-2.1:free',
+  'google/gemma-4-31b-it:free',
+  'google/gemma-4-26b-a4b-it:free',
 ]
 
 async function callGemini(messages) {

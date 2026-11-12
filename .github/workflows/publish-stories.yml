@@ -1,15 +1,76 @@
 name: AutoEvoFlow — Публикация новинок авто
 
+# Единственный автоматический публикатор (локальный авторежим выключен строкой
+# PUBLISH_OWNER=ci в frontend/.env.local — два публикатора дают дубли в канале).
+# Почему здесь: с офисной сети Gemini/Groq недоступны (геоблок), а тут они работают;
+# не нужен включённый ноутбук; состояние сразу коммитится в git → Vercel обновляет /latest.
+#
+# Нужные секреты репозитория (Settings → Secrets and variables → Actions):
+#   TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL_ID, TELEGRAM_CHANNEL_SECONDARY
+#   GEMINI_API_KEY (рекомендуется) и/или GROQ_API_KEY — хотя бы один ИИ-ключ
+#   по желанию: OPENROUTER_API_KEY, DEEPSEEK_API_KEY, YANDEX_API_KEY, YANDEX_FOLDER_ID,
+#   QWEN_API_KEY, CEREBRAS_API_KEY, NVIDIA_API_KEY, MISTRAL_API_KEY
+
 on:
   schedule:
-    - cron: '0 7 * * *'   # 10:00 MSK (UTC+3)
-  workflow_dispatch:        # ручной запуск из Actions → Run workflow
+    - cron: '7 */6 * * *'   # каждые 6 часов, как раньше локально (UTC)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Тест без отправки в Telegram: только сгенерировать превью одного поста'
+        type: boolean
+        default: false
+
+# Два прогона одновременно = общее состояние published-*.json и дубли постов.
+concurrency:
+  group: publish-stories
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      SITE_URL:                   https://autoevo.agc-flow.online
+      TELEGRAM_BOT_TOKEN:         ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHANNEL_ID:        ${{ secrets.TELEGRAM_CHANNEL_ID }}
+      TELEGRAM_CHANNEL_SECONDARY: ${{ secrets.TELEGRAM_CHANNEL_SECONDARY }}
+      GEMINI_API_KEY:             ${{ secrets.GEMINI_API_KEY }}
+      GROQ_API_KEY:               ${{ secrets.GROQ_API_KEY }}
+      DEEPSEEK_API_KEY:           ${{ secrets.DEEPSEEK_API_KEY }}
+      YANDEX_API_KEY:             ${{ secrets.YANDEX_API_KEY }}
+      YANDEX_FOLDER_ID:           ${{ secrets.YANDEX_FOLDER_ID }}
+      QWEN_API_KEY:               ${{ secrets.QWEN_API_KEY }}
+      OPENROUTER_API_KEY:         ${{ secrets.OPENROUTER_API_KEY }}
+      CEREBRAS_API_KEY:           ${{ secrets.CEREBRAS_API_KEY }}
+      NVIDIA_API_KEY:             ${{ secrets.NVIDIA_API_KEY }}
+      MISTRAL_API_KEY:            ${{ secrets.MISTRAL_API_KEY }}
 
     steps:
+      # Раньше отсутствие секретов давало "TELEGRAM_BOT_TOKEN не задан — пропускаю" и
+      # ЗЕЛЁНЫЙ прогон: workflow тихо ничего не делал. Теперь падаем явно.
+      - name: Проверка секретов (ИИ)
+        run: |
+          if [ -z "$GEMINI_API_KEY" ] && [ -z "$GROQ_API_KEY" ]; then
+            echo "::error title=Не заданы секреты репозитория::GEMINI_API_KEY или GROQ_API_KEY — нужен хотя бы один ИИ-ключ"
+            exit 1
+          fi
+
+      - name: Проверка секретов (Telegram)
+        if: ${{ !inputs.dry_run }}
+        run: |
+          missing=""
+          [ -z "$TELEGRAM_BOT_TOKEN" ]         && missing="$missing TELEGRAM_BOT_TOKEN"
+          [ -z "$TELEGRAM_CHANNEL_ID" ]        && missing="$missing TELEGRAM_CHANNEL_ID"
+          [ -z "$TELEGRAM_CHANNEL_SECONDARY" ] && missing="$missing TELEGRAM_CHANNEL_SECONDARY"
+          if [ -n "$missing" ]; then
+            echo "::error title=Не заданы секреты репозитория::$missing"
+            exit 1
+          fi
+
       - name: Checkout
         uses: actions/checkout@v4
 
@@ -24,29 +85,32 @@ jobs:
         working-directory: frontend
         run: npm ci --ignore-scripts
 
-      - name: Publish new stories
-        working-directory: frontend/scripts
-        env:
-          TELEGRAM_BOT_TOKEN:        ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHANNEL_ID:       ${{ secrets.TELEGRAM_CHANNEL_ID }}
-          TELEGRAM_CHANNEL_SECONDARY: ${{ secrets.TELEGRAM_CHANNEL_SECONDARY }}
-          SITE_URL:                  ${{ secrets.SITE_URL }}
-          GEMINI_API_KEY:            ${{ secrets.GEMINI_API_KEY }}
-          DEEPSEEK_API_KEY:          ${{ secrets.DEEPSEEK_API_KEY }}
-          YANDEX_API_KEY:            ${{ secrets.YANDEX_API_KEY }}
-          YANDEX_FOLDER_ID:          ${{ secrets.YANDEX_FOLDER_ID }}
-          QWEN_API_KEY:              ${{ secrets.QWEN_API_KEY }}
-          OPENROUTER_API_KEY:        ${{ secrets.OPENROUTER_API_KEY }}
-          CEREBRAS_API_KEY:          ${{ secrets.CEREBRAS_API_KEY }}
-          NVIDIA_API_KEY:            ${{ secrets.NVIDIA_API_KEY }}
-          MISTRAL_API_KEY:           ${{ secrets.MISTRAL_API_KEY }}
-        run: node publish-new-stories.js
+      # Накопленная очередь статей (latest-cars.json) живёт в кэше Actions, а не в git:
+      # сайту этот файл не нужен, а коммиты каждые 6 часов только плодили бы деплои.
+      - name: Restore scraper queue
+        uses: actions/cache@v4
+        with:
+          path: frontend/public/data/latest-cars.json
+          key: latest-cars-${{ github.run_id }}
+          restore-keys: latest-cars-
 
-      - name: Save published-ids.json
+      - name: Тест генерации (dry-run, без отправки)
+        if: ${{ inputs.dry_run }}
+        working-directory: frontend
+        run: node scripts/publish-new-stories.js --dry-run
+
+      # scrape-latest.js сам тянет sync-latest-to-project → обогащение → публикацию
+      # в Telegram (до 3 постов за прогон), как раньше делал локальный pipeline.js.
+      - name: Скрапер + публикация
+        if: ${{ !inputs.dry_run }}
+        working-directory: frontend
+        run: node scripts/scrape-latest.js
+
+      # Сливаем (объединение, не перезапись) и пушим состояние: published-stories.json —
+      # это и есть лента /latest, published-ids.json — защита от дублей в канале.
+      - name: Сохранить состояние публикации
+        if: ${{ !inputs.dry_run }}
         run: |
           git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add frontend/public/data/published-ids.json || true
-          git diff --staged --quiet || \
-            git commit -m "chore: update published-ids [skip ci]" && \
-            git push
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          node frontend/scripts/sync-published-to-git.js

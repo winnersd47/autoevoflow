@@ -189,10 +189,12 @@ function buildContextBlock(nodes: GraphNode[]): string {
 
 // ─── LLM providers — тот же набор/порядок/endpoints, что в compare/route.ts ────
 
+// Тот же обновлённый 2026-11-11 список, что в publish-new-stories.js
+// (старые nemotron-3-super/laguna сняты с каталога OpenRouter, 404).
 const OPENROUTER_FREE_MODELS = [
-  'liquid/lfm-2.5-2.6b:free',
-  'nvidia/nemotron-3-super-120b-a12b:free',
-  'poolside/laguna-s-2.1:free',
+  'google/gemma-4-31b-it:free',
+  'google/gemma-4-26b-a4b-it:free',
+  'openrouter/free',
 ]
 
 async function callGemini(messages: { role: string; content: string }[]) {
