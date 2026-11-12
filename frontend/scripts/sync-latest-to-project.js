@@ -21,6 +21,10 @@ const DISMISSED_IDS_FILE = path.join(ROOT, 'public/data/graph-dismissed-ids.json
 
 const A777_BRAND_MAP = require('./a777-brand-map.js')
 const { crawlBrandCatalog, lookupA777ForNode } = require('./a777-lib.js')
+// Заголовок статьи → чистое название модели ("2027 Toyota RAV4 PHEV A Big Upgrade" → "…RAV4 PHEV").
+// Без этого из хука рождались узлы с грязными label/id/slug, файлы моделей и дубли существующих
+// узлов (Atlas First при уже имеющемся Atlas II) — fuzzy-дедуп ниже их не ловил.
+const { withCleanName } = require('./lib/clean-model-name')
 
 // ─── Парсинг технических данных из описания ───────────────────────────────────
 function inferFromDescription(name, desc = '') {
@@ -340,6 +344,13 @@ async function syncToGraph(latestCars) {
 
     const node   = makeGraphNode(car)
 
+    // Название очищено от хвоста заголовка (withCleanName), а узел этой новинки мог быть создан ДО очистки —
+    // тогда его id построен от сырого заголовка. Без этой проверки та же новинка заводила бы второй узел
+    // с чистым id (нечёткий дедуп ниже не ловит, например, "GV60 / GV60 Magma" → "GV60 Magma").
+    const rawId = car._rawName && car._rawName !== car.name ? makeGraphNode({ ...car, name: car._rawName }).id : null
+    if (rawId && dismissedIds[rawId]) { skippedDismissed++; continue }
+    if (rawId && existingIds.has(rawId)) continue
+
     // Постоянный блок-лист — проверяем ДО всех остальных проверок, см. комментарий выше.
     if (dismissedIds[node.id]) { skippedDismissed++; continue }
 
@@ -473,13 +484,24 @@ function syncToBrands(latestCars) {
 // ─── Создание/обновление model JSONs ─────────────────────────────────────────
 function syncToModels(latestCars) {
   let created = 0
+  // Признанные дублями/мусором узлы (блок-лист графа) страницу модели не получают: раньше файл создавался заново
+  // на каждом прогоне, даже если узел давно отклонён (Atlas First — дубль Atlas II).
+  let dismissedIds = {}
+  if (fs.existsSync(DISMISSED_IDS_FILE)) { try { dismissedIds = JSON.parse(fs.readFileSync(DISMISSED_IDS_FILE, 'utf8')) } catch {} }
   for (const car of latestCars) {
     if (!car.year || !car.brandSlug || !car.name) continue
+    if (dismissedIds[makeGraphNode(car).id]) continue
+    if (car._rawName && car._rawName !== car.name && dismissedIds[makeGraphNode({ ...car, name: car._rawName }).id]) continue
     const { hp, engineType } = inferFromDescription(car.name, car.description)
     const modelSlug = `${car.brandSlug}-${car.name.toLowerCase().replace(/^\d{4}\s+/,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')}`
     const modelFile = path.join(MODELS_DIR, `${modelSlug}.json`)
 
     if (fs.existsSync(modelFile)) continue  // уже есть
+    // Файл модели мог быть создан ДО очистки названия — под слагом от сырого заголовка; второй не плодим.
+    if (car._rawName && car._rawName !== car.name) {
+      const rawSlug = `${car.brandSlug}-${car._rawName.toLowerCase().replace(/^\d{4}\s+/,'').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'')}`
+      if (fs.existsSync(path.join(MODELS_DIR, `${rawSlug}.json`))) continue
+    }
 
     const model = {
       id:          `ncs-${modelSlug}`,
@@ -542,7 +564,7 @@ async function main() {
     'range rover':'land-rover', 'range-rover':'land-rover', 'rangerover':'land-rover',
     'jlr':'jaguar' }
   cars.forEach(c => { if (c.brandSlug && BRAND_ALIAS[c.brandSlug]) c.brandSlug = BRAND_ALIAS[c.brandSlug] })
-  const whitelisted = cars.filter(c => c.brandSlug && BRAND_WHITELIST.has(c.brandSlug))
+  const whitelisted = cars.filter(c => c.brandSlug && BRAND_WHITELIST.has(c.brandSlug)).map(withCleanName)
   const droppedN = cars.length - whitelisted.length
   if (droppedN > 0) {
     const off = [...new Set(cars.filter(c => !c.brandSlug || !BRAND_WHITELIST.has(c.brandSlug)).map(c => c.brandSlug || '?'))]
@@ -555,7 +577,8 @@ async function main() {
   const validCars = whitelisted.filter(c =>
     c.year && c.year >= 2024 &&
     c.brandSlug &&
-    c.name && c.name.length < 80 &&
+    // длину меряем по СЫРОМУ заголовку: слишком длинный — это новость, а не модель (как и раньше)
+    c.name && (c._rawName || c.name).length < 80 &&
     !NEWS_SOURCES.has(c.source)
   )
   console.log(`Валидных для синхронизации: ${validCars.length}`)
