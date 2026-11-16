@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:46:29.128Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:46:29.128Z"
+  "updatedAt": "2026-10-29T18:46:29.128Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.78,
+    "predictedHp": 805,
+    "predictedEngine": "dual-motor EV with solid-state battery",
+    "designTrends": [
+      "Карбоновый монокок из цельного листа с минимальными швами",
+      "Активные аэродинамические элементы: регулируемый задний спойлер и диффузор",
+      "Скрытые дверные ручки и полностью безрамочные LED‑фары",
+      "Классический «тройной» радиатор, стилизованный под электромоторные охлаждения",
+      "Элегантные линии кузова, отсылающие к оригинальному GranTurismo, но с более резким профилем"
+    ],
+    "techTrends": [
+      "Твердотельные батареи ёмкостью 120 кВт·ч, диапазон >500 км",
+      "Система Level‑4 автономного вождения с адаптивным управлением трассы",
+      "AR‑HUD с проекцией навигации, параметров автомобиля и динамики гонки",
+      "Беспроводная зарядка мощностью 350 кВт, 80 % за 12 минут",
+      "OTA‑обновления, позволяющие менять характеристики мощности и подвески в реальном времени"
+    ],
+    "narrative": "Следующее поколение Maserati GranTurismo Mk3 Folgore будет воплощать идею «электрической страсти», соединяя наследие классического гран‑туризма с передовыми технологиями электромобилей. Автомобиль получит двойной электромотор, расположенный на каждой оси, что обеспечит суммарную мощность около 805 л.с. и мгновенный крутящий момент, позволяющий разгоняться до 100 км/ч за 2,8 секунды. Твёрдотельные батареи нового поколения увеличат реальный запас хода до более чем 500 километров, а система быстрой беспроводной зарядки сделает дальние поездки комфортными.\n\nДизайн будет сочетать ретро‑элементы оригинального GranTurismo — характерный «тройной» радиатор и плавные линии кузова — с ультрасовременными решениями: полностью безрамочные светодиодные фары, скрытые дверные ручки и активные аэродинамические элементы, которые автоматически оптимизируют прижимную силу. Внутри будет панорамный кокпит с полностью цифровой приборной панелью, AR‑HUD и материалами премиум‑класса, включая Alcantara и полированный алюминий. Maserati намерена сохранить эмоциональную связь с водителем, предлагая настройку подвески, отклика руля и звука имитации традиционного V8 через аудиосистему, создавая уникальный опыт электрического гран‑туризма.",
+    "imagePrompt": "A futuristic Maserati GranTurismo Mk3 Folgore electric grand tourer, low-slung carbon fiber body, active rear spoiler, hidden door handles, glowing blue accents, night cityscape, hyper-realistic, cinematic lighting, 8K resolution",
+    "marketContext": "Позиционируется как флагманский электрический гран‑турер Maserati, конкурируя с Porsche Taycan Turbo S, Ferrari SF90 Stradale и Bentley Flying Spur EV.",
+    "generatedAt": "2026-11-16T10:28:42.214Z"
+  }
 }

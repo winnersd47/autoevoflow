@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T19:12:10.371Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg/3840px-Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg/3840px-Kia_EV4_GT-Line_Automesse_Ludwigsburg_2025_DSC_2535.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T19:12:10.371Z"
+  "updatedAt": "2026-10-29T19:12:10.371Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 352,
+    "predictedEngine": "ev",
+    "designTrends": [
+      "Угловатый, аэродинамический кузов с коэффициентом сопротивления ниже 0.22",
+      "Карбоновый спойлер и задний диффузор в виде «крыльев» для улучшения прижима",
+      "Тонкие светодиодные матричные фары с динамической подсветкой логотипа Kia",
+      "Экологичные композитные материалы внутри салона: переработанный алькантар и биопластик",
+      "Большие панорамные стекла с электрохромным затемнением"
+    ],
+    "techTrends": [
+      "800‑В система быстрой зарядки до 350 км за 10 минут",
+      "Твёрдотельные батареи с энергоёмкостью 95 кВт·ч и диапазоном 550 км (WLTP)",
+      "Продвинутая система Level‑3 автономного вождения с мониторингом слепых зон и «умным» автопарком",
+      "Интегрированный V2L (Vehicle‑to‑Load) с мощностью 22 кВт для питания дома и оборудования",
+      "AR‑HUD с проекцией навигации, информации о состоянии батареи и режимов вождения"
+    ],
+    "narrative": "Следующее поколение Kia EV4 GT станет воплощением динамики и устойчивости, сочетая спортивный характер GT‑версии с передовыми экологическими решениями. Кузов будет более агрессивным, с чётко выраженными линиями, которые не только подчёркивают мощь, но и снижают аэродинамический коэффициент. Внутри салона доминируют лёгкие, но прочные материалы, а цифровая панель приборов расширяется до 15‑дюймового гибкого OLED‑дисплея, поддерживающего персонализированные режимы вождения.\n\nТехнологический фокус смещён к увеличенной ёмкости батареи и ультрабыстрой зарядке, что позволит покрыть более 500 км в городе за один заряд. Система автономного вождения уровня 3 даст возможность полностью доверить управление в пробках и на автострадах, а V2L‑функция превратит автомобиль в мобильную электростанцию. Всё это делает EV4 GT 2029‑го года идеальным выбором для тех, кто ищет спортивный опыт без компромиссов в экологичности.",
+    "imagePrompt": "Futuristic Kia EV4 GT 2029, aggressive angular fastback, carbon fiber rear wing, 800V electric powertrain, sleek LED matrix headlights, panoramic electrochromic glass roof, night city backdrop, high detail, photorealistic",
+    "marketContext": "Позиционируется как премиум‑спортивный электромобиль в сегменте compact GT, конкурируя с Tesla Model 3 Performance и Polestar 2 Performance.",
+    "generatedAt": "2026-11-16T10:33:05.539Z"
+  }
 }

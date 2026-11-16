@@ -16,5 +16,27 @@
   "createdAt": "2026-10-29T19:11:01.297Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1999_Lotus_Esprit_V8_type_918.jpg/3840px-1999_Lotus_Esprit_V8_type_918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1999_Lotus_Esprit_V8_type_918.jpg/3840px-1999_Lotus_Esprit_V8_type_918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T19:11:01.297Z"
+  "updatedAt": "2026-10-29T19:11:01.297Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.78,
+    "predictedHp": 1150,
+    "predictedEngine": "plug-in hybrid V8 with solid‑state battery",
+    "designTrends": [
+      "Активные аэродинамические элементы с адаптивным управлением",
+      "Карбоновый монокок с интегрированными графеновыми панелями",
+      "Бабочки‑крылья и низко расположенный профиль, отсылающий к S1",
+      "Минималистичный интерьер с цифровой панелью AR‑HUD"
+    ],
+    "techTrends": [
+      "Твёрдо‑тельные аккумуляторы на основе графена для мгновенной зарядки",
+      "AI‑управляемый векторинг крутящего момента на каждом колесе",
+      "Полностью цифровой драйвер‑ассистент, активируемый только в режимах трека",
+      "Система рекуперативного охлаждения тормозов, повышающая эффективность"
+    ],
+    "narrative": "Следующее поколение Lotus Esprit Type 136 будет воплощать идею «чистого драйва» в эпоху электрификации. Компания сохраняет наследие V8, но усиливает его полностью интегрированной гибридной системой, где мощный V8 с двойным турбонаддувом работает в паре с двумя электромоторами, питаемыми твердотельным аккумулятором. Общая мощность достигает 1150 л.с., а вес автомобиля остаётся ниже 1300 кг благодаря использованию ультралёгких композитов и графеновых структур.\n\nДизайн будет сочетать ретро‑футуризм: плавные линии, напоминающие оригинальный Esprit, но при этом полностью переосмысленные для аэродинамики нового уровня. Активные спойлеры, регулируемые диффузоры и полностью закрытый подкапотный отсек создадут динамический силуэт, который меняет форму в зависимости от скорости и режима вождения. Внутри – минимум физической обвязки, максимум цифровых данных: полностью настраиваемый AR‑HUD, система голосового управления и телеметрия в реальном времени, позволяющая водителю полностью сосредоточиться на трассе.",
+    "imagePrompt": "A futuristic Lotus Esprit Type 136 hypercar on a coastal road at night, low-slung carbon fiber body, active aerodynamic flaps, butterfly doors open, glowing blue electric accents, photorealistic, high detail",
+    "marketContext": "Flagship hypercar positioned to challenge Ferrari, McLaren and Rimac, reinforcing Lotus as a leader in lightweight performance and hybrid technology.",
+    "generatedAt": "2026-11-16T10:32:04.388Z"
+  }
 }

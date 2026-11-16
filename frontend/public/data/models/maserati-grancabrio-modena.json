@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:46:36.064Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:46:36.064Z"
+  "updatedAt": "2026-10-29T18:46:36.064Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 580,
+    "predictedEngine": "plug-in hybrid (V6t + electric motor)",
+    "designTrends": [
+      "Купе‑кабриолет с полностью откидным стеклянным потолком без видимых швов",
+      "Смягчённые линии кузова, но с более агрессивным передним профилем и массивным грилем Trident 2.0",
+      "Активные аэродинамические элементы: регулируемые спойлеры, диффузоры и воздухозаборы",
+      "Литой алюминиевый каркас с углеродными вставками для снижения веса",
+      "Интегрированные светодиодные подсветки в порогах и задних кромках"
+    ],
+    "techTrends": [
+      "Система mild‑hybrid 48 V + мощный электромотор, обеспечивающий 0‑100 км/ч за 3,6 с",
+      "Полностью цифровая панель приборов 15,5\" с AR‑навигатором и проекцией HUD",
+      "Подключение 5G, OTA‑обновления и адаптивные настройки подвески через приложение",
+      "Система рекуперации энергии от торможения до 30 % и режим «Electric‑Only» до 50 км",
+      "Продвинутая система помощи водителю Level 3 с автопарковкой и автопилотом на шоссе"
+    ],
+    "narrative": "Следующее поколение Maserati GranCabrio будет представлять собой синтез традиционного итальянского драйва и современной электрификации. Модель получит гибридную силовую установку – турбированный V6 в сочетании с мощным электромотором, что позволит достичь 580 л.с. и полностью электрический режим до 50 км, удовлетворяя требования экологичности без потери характерного звука и эмоций. Кузов будет переработан в более динамичную форму с полностью откидным стеклянным потолком, подчёркнутым плавными линиями и активными аэродинамическими элементами, которые автоматически адаптируются к скорости и стилю вождения.\n\nФилософия нового GranCabrio ориентирована на «emocione», где каждый элемент – от подсветки порогов до цифровой приборной панели – усиливает ощущение роскоши и скорости. Технологический набор будет включать 5G‑связь, OTA‑обновления и продвинутый Level 3 автопилот, делая автомобиль не только спортивным, но и умным помощником в повседневной жизни. Таким образом, GranCabrio 2029 станет флагманом Maserati в сегменте премиальных открытых GT, предлагая клиентам уникальное сочетание традиций и будущего.",
+    "imagePrompt": "A sleek 2029 Maserati GranCabrio convertible with a seamless glass roof, aggressive front fascia featuring a modern Trident grille, active aerodynamic rear spoiler, carbon fiber accents, bright LED lighting, parked on a coastal road at sunset, ultra-realistic, high detail, cinematic lighting",
+    "marketContext": "Позиционируется как премиальный гибридный GT‑кабриолет, конкурируя с Bentley Continental GT Convertible и Porsche 911 Carrera Cabriolet, при этом предлагая более экологичный профиль.",
+    "generatedAt": "2026-11-16T10:29:18.134Z"
+  }
 }

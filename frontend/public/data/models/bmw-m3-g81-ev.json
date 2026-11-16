@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:20:22.542Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_M3_Competition_%28G80%29_IMG_4041.jpg/3840px-BMW_M3_Competition_%28G80%29_IMG_4041.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_M3_Competition_%28G80%29_IMG_4041.jpg/3840px-BMW_M3_Competition_%28G80%29_IMG_4041.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:20:22.542Z"
+  "updatedAt": "2026-10-29T18:20:22.542Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.81,
+    "predictedHp": 825,
+    "predictedEngine": "ev",
+    "designTrends": [
+      "Карбоновый кузов с активной аэродинамикой",
+      "Бесшовные панорамные стекла и светодиодные световые полосы",
+      "Минималистичный интерьер из переработанных материалов",
+      "Гибкие LED-лампы, меняющие цвет в зависимости от режима",
+      "Тонко интегрированные сканирующие сенсоры в кузове"
+    ],
+    "techTrends": [
+      "Твердотельные батареи 1200 В с зарядкой до 80 % за 12 минут",
+      "Полностью автономный режим Level 4 с AI‑управлением",
+      "AR‑HUD с проекцией навигации и телеметрии на лобовое стекло",
+      "Беспроводная зарядка мощностью 350 кВт",
+      "Обновления ПО по воздуху и адаптивные настройки подвески"
+    ],
+    "narrative": "Следующее поколение BMW M3 EV будет воплощением синергии экстремальной динамики и экологической ответственности. Ставка делается на твердотельные батареи, которые позволяют достичь 800 км автономии и ускорения 0‑100 км/ч за 2,6 секунды, сохраняя при этом характерный для M‑серии драйв. Кузов выполнен из углеродного композита, а система активной аэродинамики автоматически регулирует спойлеры и диффузоры, оптимизируя прижимную силу в реальном времени.\n\nВнутри салона доминирует философия «less is more»: панель приборов заменена на полностью цифровой 15‑дюймовый изогнутый дисплей, а материалы – на переработанный алюминий, биопластик и натуральный волокнистый текстиль. Интегрированный AI‑ассистент учится стилю вождения владельца, предлагая персонализированные режимы, а система AR‑HUD проецирует всю необходимую информацию прямо в поле зрения водителя, делая каждую поездку безопасной и захватывающей.",
+    "imagePrompt": "Futuristic 2032 BMW M3 EV sports sedan, carbon fiber body with active aero elements, glowing blue LED light strips, seamless panoramic glass roof, set in a neon-lit cyberpunk city at night, ultra-realistic rendering, high detail",
+    "marketContext": "Позиционируется как премиальный электрический спорткар, конкурируя с Tesla Model S Plaid, Mercedes‑AMG EQS и Lucid Air Performance, укрепляя лидерство BMW в сегменте высоких технологий и динамики.",
+    "generatedAt": "2026-11-16T10:14:33.842Z"
+  }
 }

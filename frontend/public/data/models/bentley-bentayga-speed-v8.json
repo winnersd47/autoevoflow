@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T19:35:44.223Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/3840px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg/3840px-Bentley_Bentayga_V8_%28FL%29_IMG_0005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T19:35:44.223Z"
+  "updatedAt": "2026-10-29T19:35:44.223Z",
+  "nextgenPrediction": {
+    "predictedYear": 2028,
+    "confidence": 0.78,
+    "predictedHp": 720,
+    "predictedEngine": "plug-in hybrid (twin‑turbo V8 + electric motor)",
+    "designTrends": [
+      "Утончённый, аэродинамический кузов с активными аэродинамическими элементами",
+      "Более агрессивный фронтальный гриль с подсветкой LED и матовым хромом",
+      "Карбоновый панельный набор: крышка багажника, спойлер и крыша",
+      "Тонкие светодиодные фары с адаптивным проецированием",
+      "Эко‑кожаные обшивки из переработанных материалов"
+    ],
+    "techTrends": [
+      "48‑В гибридная система с рекуперативным торможением и старт‑стопом",
+      "Электрический задний приводный модуль (e‑Axle) для мгновенного крутящего момента",
+      "Система Level 3 автономного вождения с Lidar‑ассистентом",
+      "AR‑HUD с проекцией навигации и параметров автомобиля в реальном времени",
+      "Полное OTA‑обновление программного обеспечения и персонализированный AI‑ассистент"
+    ],
+    "narrative": "Следующее поколение Bentley Bentayga Speed будет представлять собой синтез традиционного британского люкса и передовых экологических технологий. Компания решает не отказываться от легендарного V8, а усиливает его гибридным комплектом, позволяющим достичь 720 л.с. и полностью электромобильного режима до 80 км. Это отвечает растущему спросу на высокопроизводительные, но более чистые SUV, сохраняя при этом характерный звук и динамику, известные поклонникам Bentayga.\n\nДизайн будет ориентирован на динамику и устойчивость: активные аэродинамические спойлеры, карбоновый кузовной пакет и подсвеченный гриль создадут ощущение скорости даже в неподвижном виде. Внутри салона появятся новые материалы из переработанной кожи и древесины, а также полностью цифровая панель приборов с AR‑HUD, позволяющая водителю оставаться в центре внимания, а не в окружении кнопок. Такое сочетание традиций и инноваций укрепит позицию Bentayga Speed как флагаманского SUV в сегменте ультра‑люкса.",
+    "imagePrompt": "A futuristic 2028 Bentley Bentayga Speed concept SUV, sleek muscular body with active aero flaps, carbon fiber roof and rear spoiler, illuminated black grille with chrome accents, adaptive LED matrix headlights, glossy midnight black paint, luxurious interior visible through open doors with recycled leather upholstery, on a mountain road at sunset, photorealistic, high detail",
+    "marketContext": "Bentley позиционирует новое поколение как ультра‑люксовый, высокопроизводительный гибридный SUV, конкурируя с Rolls‑Royce Cullinan, Lamborghini Urus и Mercedes‑Maybach GLS, отвечая требованиям экологичности без потери мощности.",
+    "generatedAt": "2026-11-16T10:35:49.260Z"
+  }
 }

@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T19:38:14.100Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T19:38:14.100Z"
+  "updatedAt": "2026-10-29T19:38:14.100Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.78,
+    "predictedHp": 560,
+    "predictedEngine": "v6t mild-hybrid",
+    "designTrends": [
+      "Широкая решетка Trident 2.0 с динамической подсветкой",
+      "Активные аэродинамические спойлеры и вентиляционные шторки",
+      "Полностью LED‑фары с адаптивным световым потоком",
+      "Тонкие светлые задние фонари в стиле MCPura 2.0",
+      "Кабриолетный кузов с усиленной рамой и панорамным стеклом"
+    ],
+    "techTrends": [
+      "48‑В гибридная система с рекуперативным торможением",
+      "Интерфейс MIA 3.0 с дополненной реальностью и голосовым помощником",
+      "15‑дюймовая полностью цифровая приборная панель",
+      "Электроподвес с адаптивной настройкой рулевого управления",
+      "5G‑подключение, OTA‑обновления и система автопилота уровня 2"
+    ],
+    "narrative": "Следующее поколение Maserati GranCabrio Mk3 Modena будет представлять собой синтез традиционного итальянского стиля и современных технологий. Модель получит более агрессивный облик: расширенная решетка Trident, активные аэродинамические элементы и светодиодные фары, подчеркивающие динамику и элегантность. Кабриолет сохранит открытый характер, но благодаря новой алюминиево‑магниевой раме и панорамному стеклу повысит жёсткость кузова и комфорт в салоне.\n\nПод капотом появится 3,0‑литровый V6 с двойным турбонаддувом, усиленный 48‑В гибридным модулем, который поднимает мощность до 560 л.с. и улучшает эффективность расхода топлива. Внутри будет интегрирован MIA 3.0 с AR‑проектором, 15‑дюймовой цифровой панелью и полностью настраиваемой аудиосистемой, а также система автопилота уровня 2, позволяющая водителю наслаждаться долгими поездками без усталости.",
+    "imagePrompt": "A sleek 2023 Maserati GranCabrio Mk3 Modena concept, convertible with a wide Trident 2.0 grille, active aerodynamic shutters, thin light MCPura rear lights, panoramic glass roof, vibrant red paint, set on a coastal road at sunset, ultra-realistic, high detail, cinematic lighting",
+    "marketContext": "Модель будет позиционироваться как премиум‑кабриолет в сегменте GT, конкурируя с Lamborghini Huracán Spyder и Ferrari Roma Cabriolet, предлагая сочетание высокой мощности, гибридной эффективности и роскошного дизайна.",
+    "generatedAt": "2026-11-16T10:36:25.849Z"
+  }
 }

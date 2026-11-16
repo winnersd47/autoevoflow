@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T14:09:49.016Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg/3840px-Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg/3840px-Porsche_972_Turbo_E-Hybrid_IMG_0445.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T14:09:49.016Z"
+  "updatedAt": "2026-10-29T14:09:49.016Z",
+  "nextgenPrediction": {
+    "predictedYear": 2028,
+    "confidence": 0.79,
+    "predictedHp": 545,
+    "predictedEngine": "plug-in hybrid V8",
+    "designTrends": [
+      "Узкие, почти вертикальные LED-фары с адаптивным световым рисунком",
+      "Усиленный аэродинамический пакет: активный спойлер и диффузор с переменными элементами",
+      "Смещение линии крыши к более «кокетному» профилю, приближающемуся к спортивному купе",
+      "Тонкие алюминиевые детали кузова, подчёркивающие лёгкость и динамику",
+      "Интегрированные «скрытые» боковые вентиляционные отверстия для охлаждения гибридной системы"
+    ],
+    "techTrends": [
+      "Плагин‑гибридный агрегат: 4.0 L V8 twin‑turbo + 2,5 kWh аккумулятор, суммарный крутящий момент 900 Nm",
+      "Система Porsche Torque Vectoring с предсказательным управлением на основе ИИ",
+      "Полностью цифровой cockpit с OLED‑панелями 15,6\" и функцией AR‑навигации",
+      "Продвинутая система помощи водителю Level 3 с возможностью автономного вождения в пробках",
+      "Интерактивный «Smart Surface» на центральной консоли, реагирующий на прикосновение и жесты"
+    ],
+    "narrative": "Следующее поколение Panamera GTS будет представлять собой кульминацию эры гибридных GT‑купов Porsche, где чисто механический драйв соединяется с электрификацией без потери характерного звука V8. Модель получит новый плагин‑гибридный агрегат, который позволит разгоняться до 0–100 км/ч за 3,2 секунды, а также покрывать до 80 км на чисто электрическом ходу, что сделает её более гибкой в условиях урбанистических ограничений. Дизайн будет ориентирован на агрессивный, но утончённый силуэт: более низкая и вытянутая крыша, резкие линии боковых профилей и активные аэродинамические элементы, подчёркивающие динамику даже в статичном виде.\n\nФилософия нового GTS – «Performance with Responsibility». Porsche сохраняет эмоциональный отклик от традиционного V8, но добавляет электрификацию, чтобы соответствовать строгим европейским нормативам выбросов и растущим требованиям потребителей к экологичности. Инновационные цифровые решения и уровень автономии Level 3 делают автомобиль не только быстрым, но и умным, готовым к будущим сценариям городской мобильности, где комфорт и эффективность идут рука об руку.",
+    "imagePrompt": "A sleek 2028 Porsche Panamera GTS plug-in hybrid, low-slung coupe silhouette, aggressive vertical LED headlights, active rear spoiler, carbon-fiber accents, futuristic digital cockpit visible through open doors, night city background, photorealistic, high detail",
+    "marketContext": "Позиционируется как премиальный гибридный GT‑купер, конкурируя с Mercedes-AMG GT 63 S E Performance и BMW M8 Competition Hybrid.",
+    "generatedAt": "2026-11-16T10:13:32.461Z"
+  }
 }

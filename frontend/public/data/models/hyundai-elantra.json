@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T14:09:46.468Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2023_Hyundai_Elantra_Limited_in_Silver%2C_front_left%2C_04-04-2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/2023_Hyundai_Elantra_Limited_in_Silver%2C_front_left%2C_04-04-2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T14:09:46.468Z"
+  "updatedAt": "2026-10-29T14:09:46.468Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.78,
+    "predictedHp": 180,
+    "predictedEngine": "2.0L Turbo Hybrid",
+    "designTrends": [
+      "Более резкие линии и динамичный силуэт «Parametric Fluidic Sculpture»",
+      "Увеличенный панорамный люк‑кокпит с бесшовным стеклом",
+      "Интегрированная световая полоска в задних фонарях, меняющая цвет в зависимости от режима",
+      "Экологичные материалы: переработанный алюминий и биокомпозитные детали интерьера",
+      "3‑D‑печатный решетчатый радиатор с адаптивным открытием"
+    ],
+    "techTrends": [
+      "15‑дюймовый OLED‑дисплей с гибкой панелью управления",
+      "Система автономного вождения уровня 3 с функцией «Highway Pilot»",
+      "Встроенный солнечный панельный модуль на крыше для подзарядки аккумулятора",
+      "V2X‑коммуникация и облачная AI‑помощница для предиктивного обслуживания",
+      "Плагин‑гибридный вариант с 30 км чисто электрического пробега"
+    ],
+    "narrative": "Новое поколение Hyundai Avante/Elantra (9‑е) будет построено вокруг концепции «Sustainable Motion». Автомобиль сочетает в себе динамичный внешний вид, полученный благодаря новой языковой системе Parametric Fluidic Sculpture, и экологичность – кузов из переработанных материалов, а также гибридный силовой агрегат, способный развивать 180 л.с. и покрывать до 30 км без участия двигателя внутреннего сгорания. Дизайн подчеркивает открытость и технологичность: панорамный стеклянный кокпит, плавно переходящий в цифровой дисплей, и адаптивная решетка радиатора, меняющая форму в зависимости от температуры и режима движения.\n\nВнутри автомобиль предлагает 15‑дюймовый OLED‑центр, полностью заменяющий традиционную панель приборов, и систему Level‑3 автопилота, позволяющую водителю расслабиться на трассе. Интегрированные V2X‑технологии обеспечивают связь с инфраструктурой и другими автомобилями, а солнечная панель на крыше подпитывает вспомогательные системы, увеличивая эффективность гибридного привода. Плагин‑гибридный вариант даст возможность полностью электрического передвижения в городе, отвечая растущим требованиям к экологичности и экономии топлива.",
+    "imagePrompt": "Futuristic mid-size sedan, 2032 Hyundai Avante, sleek parametric fluidic sculpture lines, large panoramic glass roof, adaptive 3D printed grille, OLED cockpit visible through transparent interior, night city background with subtle neon lighting, realistic rendering",
+    "marketContext": "Позиционируется как премиальный компактный седан, конкурирующий с Honda Accord, Toyota Camry и Mazda6, делая ставку на гибридную эффективность и передовые технологии.",
+    "generatedAt": "2026-11-16T10:13:22.542Z"
+  }
 }

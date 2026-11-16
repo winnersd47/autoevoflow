@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:46:31.022Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:46:31.022Z"
+  "updatedAt": "2026-10-29T18:46:31.022Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.81,
+    "predictedHp": 635,
+    "predictedEngine": "plug-in hybrid V6t",
+    "designTrends": [
+      "Активные аэродинамические элементы: регулируемые спойлеры и каналы охлаждения",
+      "Карбоновый кузов с интегрированными световыми панелями в крыше",
+      "Узкие светодиодные фары с адаптивным проекционным светом",
+      "Бесшовные линии кузова, «скульптурный» профиль без традиционных порогов",
+      "Тонированные окна с электрохромным покрытием"
+    ],
+    "techTrends": [
+      "48‑В гибридная система с рекуперативным торможением и электромотором в задней оси",
+      "Полностью цифровой кокпит с 5‑кратным AR‑HUD и голосовым AI‑ассистентом",
+      "Система предиктивного контроля подвески на базе нейронных сетей",
+      "Беспроводная зарядка для смартфонов и планшетов, а также V2L (vehicle‑to‑load) порт",
+      "Интегрированный система управления климатом с индивидуальными микрозонами и ароматерапией"
+    ],
+    "narrative": "Следующее поколение Maserati GranCabrio Mk3 Trofeo Facelift будет представлять собой синтез традиционного итальянского драйва и передовых электрификационных технологий. Появится plug‑in гибридный V6 Turbo, способный развивать 635 л.с., что позволит кабрио окончательно догнать и превзойти свои купе‑братья, сохранив при этом характерный звук и отзывчивость двигателя. Электромотор в задней оси обеспечит мгновенный крутящий момент, улучшит динамику разгона и снизит выбросы, а система 48‑В гибридного крутящего момента сделает переключения более плавными и экономичными.\n\nВ дизайне Maserati сделает ставку на «скульптурную лёгкость»: карбоновые панели, активные аэродинамические элементы и электрохромные окна создадут ощущение полёта, а адаптивные фары с проекционным светом подчеркнут динамичность модели в любой обстановке. Салон будет полностью цифровым, с 12‑дюймовым AR‑HUD, тактильным рулём с обратной связью и возможностью персонализировать каждую деталь через AI‑ассистент. Всё это позиционирует GranCabrio как флагманскую роскошь‑спортивную модель, ориентированную на требовательных энтузиастов, желающих сочетать открытый драйв с будущим электромобилей.",
+    "imagePrompt": "A futuristic luxury convertible sports car on a coastal road at sunset, sleek carbon-fiber body with active aerodynamic flaps, dark tinted electrochromic windows, bright adaptive LED headlights, open roof with carbon weave, detailed interior showing digital AR HUD and tactile steering wheel, high realism, cinematic lighting",
+    "marketContext": "Позиционируется как премиум‑кабрио для сегмента GT‑люкса, конкурируя с Bentley Continental GT Convertible и Ferrari Roma Cabriolet, привлекая покупателей, ищущих сочетание высокой производительности, открытого кузова и экологичной гибридной технологии.",
+    "generatedAt": "2026-11-16T10:28:47.325Z"
+  }
 }

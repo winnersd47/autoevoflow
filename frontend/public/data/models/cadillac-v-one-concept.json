@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:40:34.829Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/2026_6_Hours_of_Spa-Francorchamps_Cadillac_Hertz_Team_Jota_Cadillac_V-Series.R_No.12_%28DSC07675%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/2026_6_Hours_of_Spa-Francorchamps_Cadillac_Hertz_Team_Jota_Cadillac_V-Series.R_No.12_%28DSC07675%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T18:40:34.829Z"
+  "updatedAt": "2026-10-29T18:40:34.829Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 945,
+    "predictedEngine": "plug-in hybrid V8 + dual electric motors",
+    "designTrends": [
+      "Карбоновый монокок полностью интегрирован с аэродинамической системой, закрывающей весь кузов",
+      "Активные аэродинамические элементы с переменной геометрией, управляемые ИИ",
+      "Трёхкрылый задний спойлер с функцией рекуперации энергии",
+      "Сквозные светодиодные линии «кристального» света, меняющие цвет в зависимости от режима",
+      "Система «плавающих» дверей с магнитным упором, открывающихся без внешних рычагов"
+    ],
+    "techTrends": [
+      "Гибридный буст 800+ кВт, комбинирующий 5,5‑литровый V8 с двумя 250 кВт электромоторами",
+      "Полностью автономный режим «Track Assist» с нейросетевым управлением траекторией",
+      "Система распределения крутящего момента 4‑в‑4 с векторизацией в реальном времени",
+      "AR‑HUD с проекцией телеметрии прямо в поле зрения водителя",
+      "Беспроводная зарядка на трассе через индуктивные дорожные полосы"
+    ],
+    "narrative": "Следующее поколение Cadillac V‑ONE Concept – V‑ONE X, представляет собой эволюцию гиперкара, где гибридный буст переходит в полуприводную электрификацию, позволяя достичь почти 950 л.с. и ускорения 0‑100 км/ч менее чем за 2,2 секунды. Дизайн V‑ONE X сохраняет агрессивный силуэт предшественника, но каркас полностью выполнен из углепластика с интегрированными активными аэродинамическими панелями, которые автоматически подстраиваются под каждый угол поворота, повышая прижимную силу и одновременно рекуперируя энергию. Светодиодные «кристальные» полосы, охватывающие всю длину кузова, меняют цвет в зависимости от режима – от ярко‑красного в «Race» до холодного синего в «Eco‑Track». \n\nФилософия V‑ONE X – это синтез чистой скорости и интеллектуального управления. Платформа заимствована у гоночных V‑Series.R, но дополнена системой автономного «Track Assist», позволяющей водителю «передавать» управление ИИ для идеального прохождения трассы. Концепт ориентирован не только на профессиональных пилотов, но и на энтузиастов, желающих испытать пределы технологии в контролируемой среде, сохраняя при этом эксклюзивность и роскошь бренда Cadillac.",
+    "imagePrompt": "A futuristic single-seat hypercar on a coastal race track at sunset, carbon-fiber monocoque body with active aerodynamic surfaces, dual electric motors visible, glowing crystal LED light strips along the sides, magnetic floating doors open, driver wearing a high-tech racing suit, photorealistic, ultra-detailed, cinematic lighting",
+    "marketContext": "V‑ONE X позиционируется как эксклюзивный трековый концепт для ограниченного круга клиентов, подчеркивая технологическое лидерство Cadillac в сегменте гиперкаров премиум‑класса.",
+    "generatedAt": "2026-11-16T10:23:57.353Z"
+  }
 }

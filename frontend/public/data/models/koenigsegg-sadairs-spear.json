@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:29:44.095Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agera_RST_Koenigsegg.jpg/3840px-Agera_RST_Koenigsegg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Agera_RST_Koenigsegg.jpg/3840px-Agera_RST_Koenigsegg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:29:44.095Z"
+  "updatedAt": "2026-10-29T18:29:44.095Z",
+  "nextgenPrediction": {
+    "predictedYear": 2028,
+    "confidence": 0.78,
+    "predictedHp": 1800,
+    "predictedEngine": "twin-turbo V8 hybrid",
+    "designTrends": [
+      "Активные аэродинамические панели с изменяемой геометрией",
+      "Угловой силуэт в стиле stealth с минимальными визуальными линиями",
+      "Прозрачный OLED‑кокпит с интегрированным HUD",
+      "Карбоновый монокок с армированием графеном для снижения веса",
+      "Адаптивные лазерные фары с проекцией бренда"
+    ],
+    "techTrends": [
+      "Твердотельные батареи с энергоплотностью > 500 Wh/kg",
+      "Торк- векторинг через отдельные электромоторы на каждом колесе",
+      "AI‑управляемый предиктивный контроль подвески",
+      "Дополненная реальность HUD с 3D‑навигацией",
+      "Лазерный LiDAR для автономных функций безопасности"
+    ],
+    "narrative": "Следующее поколение Koenigsegg Sadair Spear будет воплощать концепцию «молниеносной эволюции» — сочетание экстремальной мощности и ультра‑интеллектуального управления. Гиперкар получит гибридный силовой агрегат: V8 с двойным турбонаддувом в паре с двумя высокоэффективными электромоторами, что позволит достичь 1800 л.с. и мгновенного крутящего момента от 0 до 100 км/ч за 2,1 секунды. Твёрдотельные батареи и система рекуперации энергии обеспечат пробег в электрическом режиме до 80 км, а также сократят вес и повысит динамику.\n\nДизайн будет ориентирован на активную аэродинамику: изменяемые спойлеры, подвижные диффузоры и динамические воздухозаборы, которые автоматически подстраиваются под стиль вождения. Карбон‑графеновый монокок и полностью прозрачный OLED‑кокпит создадут ощущение полёта, а интегрированные лазерные фары с проекцией логотипа подчеркнут футуристический характер машины. Технологический пакет включает AI‑подвеску, AR‑HUD и системы автономной помощи, превращая Spear в интеллектуального хищника на дороге.",
+    "imagePrompt": "A futuristic hypercar with a sharp angular silhouette, active aerodynamic flaps, carbon-graphene monocoque, transparent OLED roof, twin-turbo V8 hybrid powertrain, laser headlights projecting the brand logo, set on a sleek runway at sunset, photorealistic, ultra-detailed",
+    "marketContext": "Эксклюзивный ультра‑гиперкар, позиционируемый как флагман для самых требовательных коллекционеров, конкурирующий с Bugatti Chiron Super Sport и Rimac Nevera.",
+    "generatedAt": "2026-11-16T10:19:25.482Z"
+  }
 }

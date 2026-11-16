@@ -16,5 +16,28 @@
   "createdAt": "2026-10-29T18:25:16.656Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2018_Acura_RDX_in_Lunar_Silver_Metallic%2C_front_left.jpg/3840px-2018_Acura_RDX_in_Lunar_Silver_Metallic%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2018_Acura_RDX_in_Lunar_Silver_Metallic%2C_front_left.jpg/3840px-2018_Acura_RDX_in_Lunar_Silver_Metallic%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:25:16.656Z"
+  "updatedAt": "2026-10-29T18:25:16.656Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.78,
+    "predictedHp": 420,
+    "predictedEngine": "ev",
+    "designTrends": [
+      "аэродинамический кузов с коэффициентом сопротивления ниже 0.20",
+      "полностью закрытая решетка радиатора, заменённая на светодиодный световой пояс",
+      "модульные панельные элементы, позволяющие менять цвет и текстуру без покраски",
+      "широкие «крылья» задних фонарей, формирующие визуальный «молниеносный» след"
+    ],
+    "techTrends": [
+      "твердотельные аккумуляторы с удельной мощностью 350 Вт·ч/кг",
+      "двухмоторная система полного привода с векторным управлением крутящего момента",
+      "интегрированный AR‑HUD с 3D‑картой дорожного покрытия и проекцией навигации на лобовое стекло",
+      "автономный режим Level 4 с адаптивным ИИ‑ассистентом, обучающимся стилю вождения владельца",
+      "беспроводная зарядка высокой мощности (до 350 кВт) через инфраструктуру 5G‑модульных зарядных станций"
+    ],
+    "narrative": "Следующее поколение Acura ZSX EV будет воплощать философию «Dynamic Elegance», соединяя спортивный характер модели с экологической ответственностью. Кузов получит более резкие линии, подчёркнутые световыми элементами, а аэродинамика будет оптимизирована для максимального запаса хода — цель более 600 км на одной зарядке. Внутри салона доминирует минимализм с акцентом на цифровые интерфейсы: 15‑дюймовый OLED‑дисплей, полностью настраиваемый виртуальный приборный кластер и система голосового управления, интегрированная с экосистемой Acura Connected.\n\nТехнологический пакет будет ориентирован на будущую инфраструктуру: твердотельные батареи обеспечат мгновенный отклик и сократят время зарядки до 10 минут, а система двойного привода с независимыми электромоторами позволит распределять крутящий момент в реальном времени, обеспечивая 0–100 км/ч за 3,2 секунды. Автономный режим Level 4 сделает ZSX EV идеальным как для динамичной городской езды, так и для дальних путешествий, предоставляя водителю возможность полностью довериться системе в условиях высокой загруженности дорог.",
+    "imagePrompt": "Futuristic 2020s luxury sport electric sedan, low drag coefficient, sleek closed front grille replaced by glowing LED light bar, modular color-shifting panels, wide rear light wings, dynamic angles, high-detail, photorealistic, night city background, Acura ZSX EV 2032 concept",
+    "marketContext": "Позиционируется как премиальный электроседан в сегменте US‑market, конкурируя с Tesla Model S Plaid, Lucid Air и Mercedes EQS, предлагая более агрессивный дизайн и передовые автономные функции.",
+    "generatedAt": "2026-11-16T10:16:38.207Z"
+  }
 }

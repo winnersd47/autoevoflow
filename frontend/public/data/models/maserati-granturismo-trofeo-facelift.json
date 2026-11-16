@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:46:26.477Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:46:26.477Z"
+  "updatedAt": "2026-10-29T18:46:26.477Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.81,
+    "predictedHp": 635,
+    "predictedEngine": "V6t+Hybrid",
+    "designTrends": [
+      "Смягчённые линии кузова с активными аэродинамическими элементами",
+      "Узкие светодиодные фары‑проекционные с адаптивным световым рисунком",
+      "Крыло‑спойлер с переменной геометрией, интегрированное в задний бампер",
+      "Трёхцветный интерьер: алькантара, карбон и матовый алюминий",
+      "Широкие задние диффузоры с регулируемыми вентиляционными отверстиями"
+    ],
+    "techTrends": [
+      "Гибридная система 48 V с двумя электромоторами, обеспечивающими 120 кВт суммарно",
+      "Полностью цифровая приборная панель 15‑дюйм с AR‑навигатором",
+      "Интеллектуальная система управления подвеской с предсказательным адаптивным демпфером",
+      "Беспроводная зарядка смартфонов и интеграция 5G‑модема для OTA‑обновлений",
+      "Система контроля усталости водителя с биометрическим сканером руля"
+    ],
+    "narrative": "Следующее поколение Maserati GranTurismo Mk3 будет воплощать идею «Элегантный адреналин». Модель сохранит характерный GT‑спортивный профиль, но получит более динамичную форму благодаря активным аэродинамическим элементам, которые меняют свою конфигурацию в зависимости от скорости и режима вождения. Гибридная установка V6t+Electric даст не только прирост мощности до 635 л.с., но и улучшит отклик на низких оборотах, позволяя достичь 0‑100 км/ч за 3,4 секунды, сохраняя при этом более низкие выбросы CO₂.\n\nВнутри автомобиля будет сочетаться роскошь традиционных материалов и футуристический цифровой опыт. Цифровая панель с дополненной реальностью будет проецировать важную информацию прямо в поле зрения водителя, а тактильный руль с биометрическим сканером обеспечит персонализированный контроль. Maserati стремится объединить эмоциональную связь с машиной и современные требования к эффективности, делая GranTurismo Mk3 идеальным выбором для взыскательных энтузиастов, ищущих баланс между наследием и инновациями.",
+    "imagePrompt": "A sleek 2032 Maserati GranTurismo Mk3 concept, low-slung GT coupe with active aerodynamic flaps, narrow adaptive LED projector headlights, carbon-fiber rear diffuser, luxurious interior visible through glass, night city backdrop, photorealistic, ultra-detailed, cinematic lighting",
+    "marketContext": "GranTurismo Mk3 будет позиционироваться как премиальный гибридный GT‑купе, конкурируя с моделями Ferrari Roma, Porsche 911 Turbo и Aston Martin DB11 Hybrid, привлекая покупателей, ценящих сочетание традиционного итальянского стиля и передовых технологий.",
+    "generatedAt": "2026-11-16T10:28:36.779Z"
+  }
 }

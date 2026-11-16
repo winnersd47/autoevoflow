@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:53:52.700Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dodge_Charger_SE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dodge_Charger_SE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T18:53:52.700Z"
+  "updatedAt": "2026-10-29T18:53:52.700Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.81,
+    "predictedHp": 365,
+    "predictedEngine": "2.0L turbocharged inline‑4 with mild‑hybrid system (e‑Hybrid)",
+    "designTrends": [
+      "Широкая решётка с черным матовым обводом и LED‑молниями",
+      "Купе‑хэтч с наклонным задним стеклом, подчёркивающим «muscle hatch»",
+      "Контурные аэродинамические спойлеры и активные задние диффузоры",
+      "Тёмные алюминиевые детали кузова (окна, зеркала, пороги)",
+      "Подсвечиваемая подсветка порогов и логотипа Dodge"
+    ],
+    "techTrends": [
+      "Платформа STLA‑Large с возможностью полного электромобиля в будущих модификациях",
+      "Продвинутая система ADAS Level 3 с автопилотом в шоссе",
+      "12,3‑дюймовый полностью цифровой приборный кластер + 14‑дюймовый центрированный сенсорный дисплей",
+      "Подключаемый «Mopar Performance Hub» с OTA‑обновлениями и настройкой режимов драйва",
+      "Интегрированный 800‑ваттный адаптер для быстрой зарядки гибридного аккумулятора"
+    ],
+    "narrative": "Следующее поколение Dodge GLH, названное часто как GLH‑2, будет воплощать идею «Goes Like Hell» в виде современного performance crossover, который сочетает в себе агрессивный мускульный характер классических Dodge с практичностью компактного SUV. На основе новой платформы STLA‑Large, модель получит лёгкий, но мощный 2.0‑литровый турбодвигатель с mild‑hybrid системой, позволяющий достичь 365 л.с. и мгновенного крутящего момента, а также обеспечить более низкий уровень выбросов без потери динамики. Цена будет держаться в районе $38 000, чтобы сохранить конкурентоспособность в сегменте, где доминируют такие модели, как Ford Bronco Sport и Hyundai Tucson N.\n\nДизайн будет отталкиваться от «muscle hatch»‑концепции: низкая, широкая посадка, резкая линия крыши, завершающаяся плавным наклоном заднего стекла. Характерные черные матовые акценты, массивная решётка с LED‑молниями и подсвечиваемые пороги усилят визуальное присутствие на дороге. Технологический пакет включит в себя Level‑3 автопилот, полностью цифровой кокпит и гибкую систему управления мощностью через приложение Mopar, позволяя владельцам настраивать драйв‑режимы от «Eco» до «Hellfire». Эта комбинация стиля, мощности и современных технологий сделает GLH‑2 ярким флагманом в линейке Dodge, ориентированным на молодых энтузиастов, ищущих спорт‑ориентированный кроссовер без компромиссов.",
+    "imagePrompt": "A futuristic 2030 Dodge GLH performance crossover, aggressive black matte grille with LED lightning, muscular fastback hatch silhouette, dark aluminum trim, illuminated door sills, LED headlights, set on a rugged road with a city skyline at dusk, photorealistic, high detail, cinematic lighting",
+    "marketContext": "GLH‑2 будет позиционироваться как доступный, но ярко выраженный performance crossover в ценовом сегменте до $39 000, конкурируя с Ford Bronco Sport Raptor и Hyundai Tucson N.",
+    "generatedAt": "2026-11-16T10:31:17.655Z"
+  }
 }

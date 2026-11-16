@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T20:25:19.526Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2026_Jeep_Cherokee_Laredo_in_Bright_White%2C_front_left%2C_2026-05-03.jpg/3840px-2026_Jeep_Cherokee_Laredo_in_Bright_White%2C_front_left%2C_2026-05-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2026_Jeep_Cherokee_Laredo_in_Bright_White%2C_front_left%2C_2026-05-03.jpg/3840px-2026_Jeep_Cherokee_Laredo_in_Bright_White%2C_front_left%2C_2026-05-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T20:25:19.526Z"
+  "updatedAt": "2026-10-29T20:25:19.526Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 260,
+    "predictedEngine": "plug-in hybrid (2.0L turbo I4 + dual electric motors)",
+    "designTrends": [
+      "Увеличенный дорожный просвет до 220 мм и более выраженные скелетные арки кузова",
+      "Глубокие матовые металлические панели с подсветкой в ночном режиме",
+      "Крупные квадратные светодиодные матричные фары с адаптивным проецированием",
+      "Съёмный панорамный солнечный модуль на крыше, интегрированный в кузов",
+      "Более резкие, но при этом аэродинамичные линии боковых порогов"
+    ],
+    "techTrends": [
+      "Платформа STLA Large‑EV с возможностью 100 кВт·ч батареи и быстрым зарядом 350 кВт",
+      "Level 3 автопилот с поддержкой off‑road режимов (Rock, Sand, Snow)",
+      "AR‑HUD с проекцией маршрута прямо на лобовое стекло и 3‑D навигацией по бездорожью",
+      "Модульный интерьер: складывающиеся сиденья, система «Living Space» с OLED‑панелями",
+      "Полный набор OTA‑обновлений, включая настройку подвески и режимов двигателя"
+    ],
+    "narrative": "Следующее поколение Jeep Cherokee KM будет называться просто Cherokee X, подчеркивая переход от традиционного гибрида к полноценному plug‑in гибриду, способному покрыть до 600 км на чисто электрическом ходу. Дизайн сохранит узнаваемый «квадратный» силуэт, но получит более агрессивный профиль, усиленные арки и новую систему активного аэродинамического спойлера, который поднимается при необходимости улучшить проходимость. Солнечный модуль на крыше будет подпитывать вспомогательные системы, позволяя увеличить автономию в режиме EV и снизить расход топлива в гибридном режиме.\n\nФилософия Cherokee X — «Электрический джип без компромиссов». Автомобиль будет готов к любому ландшафту: от городских улиц до бездорожья, предлагая одновременно экологичность и традиционную мощь Jeep. Благодаря Level 3 автопилоту и расширенной системе помощи водителю, владельцы смогут безопасно исследовать новые маршруты, а гибкая модульная кабина превратит машину в мобильный офис, кемпинг‑домик или семейный транспорт в зависимости от потребностей.",
+    "imagePrompt": "A futuristic mid-size SUV with a rugged boxy silhouette, high ground clearance, matte metallic panels with subtle backlit accents, large square LED matrix headlights, a detachable solar roof panel, and a sleek rear with integrated LED light strip, set on a rocky desert landscape, hyper-realistic, 8K",
+    "marketContext": "Позиционируется как премиум‑кроссовер для активных потребителей, желающих сочетать электромобилитет с традиционной проходимостью Jeep.",
+    "generatedAt": "2026-11-16T10:45:01.071Z"
+  }
 }

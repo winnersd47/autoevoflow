@@ -16,5 +16,28 @@
   "createdAt": "2026-10-29T18:40:43.849Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Geely_Galaxy_Starship_7_007.jpg/3840px-Geely_Galaxy_Starship_7_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Geely_Galaxy_Starship_7_007.jpg/3840px-Geely_Galaxy_Starship_7_007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:40:43.849Z"
+  "updatedAt": "2026-10-29T18:40:43.849Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 1240,
+    "predictedEngine": "full EV with solid‑state battery and tri‑motor AWD",
+    "designTrends": [
+      "Угловатый, но более аэродинамический кузов с интегрированными панелями солнечных элементов",
+      "Модульные кузовные блоки, позволяющие быстро менять конфигурацию (грузовой, кемпер, спасательная)",
+      "Активные световые полосы в виде «космического» орнамента, меняющие цвет в зависимости от режима",
+      "Усиленные алюминиево‑магниевые арки и карбоновые вставки для снижения веса"
+    ],
+    "techTrends": [
+      "Твердотельные батареи ёмкостью 250 kWh, обеспечивающие более 800 км автономии",
+      "Система Level‑4 автономного вождения с адаптивным роутингом по бездорожью",
+      "AR‑HUD с 3‑D картой местности и проекцией пути в реальном времени",
+      "Активная подвеска с электромагнитным демпфированием, регулируемая под стиль вождения",
+      "Внутренняя сеть IoT: мониторинг состояния шин, батареи и окружающей среды в реальном времени"
+    ],
+    "narrative": "Следующее поколение Geely Galaxy Zhanjian 800 представляет собой эволюцию концепции \"космического\" оф‑роуда, где традиционная брутальность соединяется с чистой электрической энергией. Полностью электрический силовой агрегат, состоящий из трёх высокоэффективных синхронных моторов и твердотельных батарей, обеспечивает более 1240 л.с. и мгновенный крутящий момент, позволяя преодолевать любые препятствия без компромиссов в динамике. Корпус сохраняет характерный «коробчатый» силуэт, но теперь он обтекаемый, покрыт легкими композитными панелями и покрыт интегрированными солнечными листами, которые подзаряжают батарею в пути.\n\nФилософия модели – это «покоритель новых горизонтов»: от пустынных дюн до арктических просторов, от городских улиц до отдалённых баз. Geely делает ставку на автономность и интеллектуальное управление, предоставляя водителю полностью адаптивный опыт: система Level‑4 берёт на себя управление в сложных условиях, а AR‑HUD и система активной подвески позволяют чувствовать каждый метр пути. Это не просто SUV, а мобильная платформа для приключений будущего, готовая к экспорту в премиальные сегменты Европы и Северной Америки.",
+    "imagePrompt": "Futuristic boxy off-road SUV with angular lines, integrated solar panel skin, tri-motor AWD, glowing adaptive light strips, rugged all-terrain tires, standing on a rocky landscape at sunrise, high detail, cinematic lighting, ultra realistic",
+    "marketContext": "Premium off‑road EV positioned to challenge the likes of Rivian R1S and Mercedes‑EQG in Europe and North America, targeting affluent adventure‑seeking consumers.",
+    "generatedAt": "2026-11-16T10:24:48.934Z"
+  }
 }

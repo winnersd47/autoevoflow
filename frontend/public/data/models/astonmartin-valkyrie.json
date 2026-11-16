@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T14:36:56.826Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg/3840px-Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg/3840px-Aston_Martin_Valkyrie_Verification_Prototype_001_Genf_2019_1Y7A5569.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T14:36:56.826Z"
+  "updatedAt": "2026-10-29T14:36:56.826Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 860,
+    "predictedEngine": "V12 hybrid (6.5L V12 + 2 electric motors)",
+    "designTrends": [
+      "Карбоновый монокок с интегрированными световыми элементами",
+      "Активные аэродинамические поверхности, меняющиеся в реальном времени",
+      "Тонкая, почти бесшовная линия крыши, напоминающая крыло ястреба",
+      "Прозрачный панорамный кокпит с голографическим HUD",
+      "Уменьшенный вес за счёт 3D‑печатных металлокомпозитов"
+    ],
+    "techTrends": [
+      "Гибридная система с рекуперацией энергии от торможения и аэродинамики",
+      "AI‑управляемый режим трассы с предиктивным управлением подвеской",
+      "Батарея нового поколения 800 V, полностью интегрированная в кузов",
+      "AR‑интерфейс для пилота, проецирующий данные о трассе и динамике автомобиля",
+      "Полностью адаптивная подвеска с электромагнитным демпфером"
+    ],
+    "narrative": "Следующее поколение Aston Martin Valkyrie LM будет воплощать идею «чистого ускорения» в эпоху гибридных технологий. Сочетая легендарный 6,5‑литровый V12 без наддува с двумя высокоэффективными электромоторами, машина получит более 860 л.с., но при этом сохранит характерный звук и отзывчивость, которые ценятся энтузиастами. Активные аэродинамические элементы, управляемые искусственным интеллектом, позволят оптимизировать прижимную силу в каждом километре трассы, а система рекуперации энергии от аэродинамических поверхностей дополнит батарею, увеличивая дальность на треке.\n\nФилософия нового Valkyrie LM — это синтез экстремального производственного мастерства и экологической ответственности, не жертвуя ни одной долей драйва. Ограниченный тираж в 7‑9 экземпляров будет поставляться клиентам с полной кастомизацией, включая персонализированные аэродинамические карты и уникальные отделки интерьера, делая каждую машину истинным произведением искусства, предназначенным исключительно для самых требовательных пилотов‑коллекционеров.",
+    "imagePrompt": "Aston Martin Valkyrie LM next generation hypercar, futuristic carbon fiber monocoque, active aerodynamic flaps, low-slung silhouette, hybrid V12 powertrain, track setting at sunset, hyper-realistic, cinematic lighting, detailed reflections",
+    "marketContext": "Эксклюзивный трек‑only гиперкар премиум‑класса, ориентированный на коллекционеров и профессиональных гонщиков, конкурирующий с Pagani Huayra Roadster и Bugatti Chiron Super Sport.",
+    "generatedAt": "2026-11-16T10:29:23.287Z"
+  }
 }

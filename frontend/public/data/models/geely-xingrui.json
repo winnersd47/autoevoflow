@@ -16,5 +16,27 @@
   "createdAt": "2026-10-29T18:41:46.041Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Geely_Preface_008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Geely_Preface_008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T18:41:46.041Z"
+  "updatedAt": "2026-10-29T18:41:46.041Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 320,
+    "predictedEngine": "dual-motor EV",
+    "designTrends": [
+      "Аэродинамический кузов с плавными линиями и скрытыми дверными ручками",
+      "Смещение задних фонарей в виде светового «пояса»",
+      "Большие панорамные окна и стеклянный потолок",
+      "Уменьшенный радиаторный блок для более чистого фронтального облика"
+    ],
+    "techTrends": [
+      "800‑вольтовая платформа с быстрой зарядкой до 80 % за 15 минут",
+      "Интегрированный AR‑HUD с проекцией навигации на лобовое стекло",
+      "Система автономного вождения уровня 3 с адаптивным «умным» шасси",
+      "Беспроводная зарядка и V2L (vehicle‑to‑load) для внешних устройств"
+    ],
+    "narrative": "Следующее поколение Geely Xingrui L будет полностью электрическим, сохраняя элегантный силуэт среднего седана, но получив радикально обновлённый облик, подчеркивающий динамику и технологичность. Кузов станет более вытянутым, с минимальными визуальными элементами, а задняя часть будет оформлена в виде широкой световой полосы, создающей эффект «плавающего» автомобиля. Внутри ожидается просторный кокпит с полностью цифровой панелью приборов, 15,6‑дюймовым центральным дисплеем и 12‑дюймовым AR‑HUD, а также премиальные материалы, такие как переработанный алькантар и нити из биокомпозитов.\n\nФилософия нового Xingrui L направлена на сочетание экологической ответственности и премиального комфорта. Платформа 800 В позволяет обеспечить дальность пробега более 600 км и мгновенный крутящий момент, а система V2L открывает новые возможности для использования автомобиля как мобильной электростанции. Автономные функции уровня 3 делают поездки более безопасными и расслабляющими, превращая автомобиль в «умный» мобильный офис.",
+    "imagePrompt": "A sleek mid-size luxury sedan in futuristic design, dual electric motors visible through subtle body lines, seamless glass roof, full-width LED light strip at the rear, 800V electric architecture, high-gloss black and pearl white colors, set on a modern cityscape at dusk, ultra-realistic, cinematic lighting",
+    "marketContext": "Позиционируется как премиум‑электроседан для технологически продвинутых потребителей в Китае и на международных рынках, конкурируя с Tesla Model 3 и BYD Seal.",
+    "generatedAt": "2026-11-16T10:24:55.187Z"
+  }
 }

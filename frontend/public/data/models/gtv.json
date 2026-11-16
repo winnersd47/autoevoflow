@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:25:14.580Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Alfa_Romeo_GTV_20TB-Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Alfa_Romeo_GTV_20TB-Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T18:25:14.580Z"
+  "updatedAt": "2026-10-29T18:25:14.580Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.79,
+    "predictedHp": 460,
+    "predictedEngine": "ev",
+    "designTrends": [
+      "Смелый, агрессивный кузов с острыми линиями и широкой решёткой‑пластины",
+      "Круглые LED‑фары, интегрированные в форму капота, с динамической подсветкой",
+      "Тонированные аэродинамические спойлеры и активные диффузоры",
+      "Эко‑кожа и переработанные материалы в интерьере",
+      "Гладкие, почти бесшовные панели с минимальными визуальными швами"
+    ],
+    "techTrends": [
+      "Батарея 120 кВт·ч с технологией твердотельных элементов, зарядка 350 кВт",
+      "Полный автономный режим Level 4 с адаптивным ИИ‑помощником",
+      "Интерактивный 3‑D HUD, проецирующий информацию на лобовое стекло",
+      "Система рекуперации энергии от аэродинамических элементов",
+      "Подключение к сети V2X для координации дорожного движения"
+    ],
+    "narrative": "Следующее поколение Alfa Romeo GTV EV будет воплощать дух «красоты в скорости», соединяя классический итальянский стиль с передовыми электромобилями. Дизайн будет построен вокруг динамичной, почти скульптурной формы, подчёркнутой агрессивными линиями и яркой световой сигнатурой, которая делает автомобиль мгновенно узнаваемым в потоке. Внутри будет использовано сочетание премиальных, экологически чистых материалов и цифрового кокпита, где каждый элемент управляется голосом и жестами.\n\nТехнологически GTV EV 2032 станет флагманом Alfa Romeo в области электромобилей, предлагая 460 л.с., мгновенный крутящий момент и диапазон более 600 км благодаря новейшей твердотельной батарее. Система автономного вождения уровня 4 позволит водителю полностью расслабиться в городском потоке, а интеграция V2X обеспечит безопасное взаимодействие с другими транспортными средствами и инфраструктурой. Это не просто автомобиль — это мобильный арт‑объект, призванный вдохновлять и задавать новые стандарты в премиум‑сегменте.",
+    "imagePrompt": "A futuristic Alfa Romeo GTV EV 2032 concept, aggressive angular body, wide grille, sleek LED headlights, carbon fiber accents, glossy black finish with red accents, aerodynamic active spoilers, interior with digital 3D HUD and eco-leather seats, set on a modern city street at dusk, ultra-realistic, cinematic lighting",
+    "marketContext": "Позиционируется как премиальный спортивный электромобиль в сегменте GT, конкурируя с Tesla Roadster, Porsche Taycan Turbo и Mercedes‑EQ GT.",
+    "generatedAt": "2026-11-16T10:16:33.210Z"
+  }
 }

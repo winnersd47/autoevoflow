@@ -16,5 +16,27 @@
   "createdAt": "2026-10-29T18:53:51.003Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2025_BYD_Shark_6_front.jpg/3840px-2025_BYD_Shark_6_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/2025_BYD_Shark_6_front.jpg/3840px-2025_BYD_Shark_6_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:53:51.003Z"
+  "updatedAt": "2026-10-29T18:53:51.003Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 525,
+    "predictedEngine": "plug-in hybrid with solid‑state battery (dual‑motor + 1.5 L turbo generator)",
+    "designTrends": [
+      "Более агрессивный аэродинамический профиль с низкой линией крыши и широкой задней спойлерной панелью",
+      "Корпус из гибридного алюминиево‑углеродного композита, позволяющий сократить вес и увеличить прочность",
+      "Полностью интегрированные световые полосы в передней и задней части, меняющие цвет в зависимости от режима движения",
+      "Увеличенные колёсные арки и 22‑дюймовые кованые диски, подчёркивающие off‑road DNA"
+    ],
+    "techTrends": [
+      "Солид‑стейт батарея ёмкостью 120 kWh, обеспечивающая электромобильный запас хода до 150 км (WLTP)",
+      "Уровень автономии SAE Level 3 с возможностью «hands‑free» на шоссе и в автопарках",
+      "Интегрированный солнечный панельный купол, добавляющий до 15 км автономного пробега в день",
+      "AI‑ассистент кабины с адаптивным звуковым ландшафтом и проекционным HUD на 15‑дюйм"
+    ],
+    "narrative": "Следующее поколение BYD Shark будет позиционироваться как «электрический штурм» — мощный, но одновременно экологичный пикап, готовый к любым условиям. BYD сохраняет проверенную архитектуру Dual Mode Off‑road, но заменяет традиционный литий‑ионный блок на более безопасную и быструю в зарядке солид‑стейт батарею, что удваивает чисто‑электрический запас хода и сокращает время зарядки до 15 минут при 350 кВт. При этом 1,5‑литровый турбо‑генератор остаётся, но теперь работает как высокоэффективный range‑extender, позволяя достичь суммарных 525 л.с. и крутящего момента 720 Нм.\n\nДизайн Shark 2029 сочетает в себе «muscle‑truck» эстетика с современными аэродинамическими решениями: резко очерченный кузов, подсвеченные световые полосы и панорамный купол с фотоэлементами. Внутри — минималистичный, но технологичный интерьер с 15‑дюймовым голографическим HUD, 12‑инчовым сенсорным дисплеем и полностью цифровой приборной панелью, способными адаптироваться к предпочтениям водителя через AI‑ассистент. Всё это делает Shark не просто транспортным средством, а мобильной платформой будущего, где мощность, автономность и цифровой комфорт находятся в гармонии.",
+    "imagePrompt": "Futuristic 2029 BYD Shark pickup, sleek aerodynamic body with carbon‑fiber panels, integrated LED light strips, large 22 inch forged wheels, solar roof dome, glowing holographic HUD visible through windshield, set on a rugged mountain road at sunset, hyper‑realistic, ultra‑detailed, cinematic lighting",
+    "marketContext": "Shark 2029 будет конкурировать с премиальными электропикапами как Rivian R1T и Ford F‑150 Lightning, предлагая более высокий запас чисто‑электрического пробега и гибридный диапазон для дальних поездок.",
+    "generatedAt": "2026-11-16T10:30:46.559Z"
+  }
 }

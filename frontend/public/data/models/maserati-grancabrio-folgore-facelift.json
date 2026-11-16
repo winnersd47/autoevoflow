@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:46:33.184Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:46:33.184Z"
+  "updatedAt": "2026-10-29T18:46:33.184Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.79,
+    "predictedHp": 825,
+    "predictedEngine": "dual-motor EV with solid‑state battery",
+    "designTrends": [
+      "Более агрессивный, аэродинамический профиль с активными спойлерами и скрытыми дверными ручками",
+      "Тонкая, почти бесшовная решётка из матового алюминия с интегрированными светодиодными элементами",
+      "Угловатый, но элегантный кузовный язык: широкие арки колес, «плавающие» линии крыши и полностью закрывающийся кабриолет‑механизм",
+      "Цифровая подсветка контуров кузова, меняющаяся в зависимости от режима вождения",
+      "Интерьер с бесшовными панелями из переработанного карбона и «умным» рулём с сенсорным дисплеем"
+    ],
+    "techTrends": [
+      "Твердотельный аккумулятор 800 V, обеспечивающий запас хода более 650 км и зарядку 10 % за 5 минут",
+      "Полностью автономный режим Level 4 с адаптивным AI‑ассистентом, обучающимся стилю водителя",
+      "Дополненная реальность HUD, проецирующий навигацию, телеметрию и состояние автомобиля прямо в линию взгляда",
+      "Система рекуперации энергии от ветра, использующая открытый кузов кабриолета",
+      "Обновления программного обеспечения по воздуху, включая новые режимы драйва и улучшения аэродинамики"
+    ],
+    "narrative": "Следующее поколение Maserati GranCabrio Folgore будет воплощать идею «Электрическая страсть без компромиссов». Автомобиль сохранит открытый характер кабриолета, но получит полностью новую архитектуру, построенную на твердотельных батареях и двух мощных электромоторах, позволяющих развивать более 800 л.с. и ускоряться от 0 до 100 км/ч за 2,9 секунды. Дизайн будет более резким, но при этом утончённым: аэродинамические спойлеры, активные элементы кузова и светодиодные подсветки, подчёркивающие динамику движения.\n\nВнутри GranCabrio 2030 предложит роскошь будущего – панель из переработанного карбона, полностью цифровой кокпит с AR‑HUD и рулём, объединяющим традиционное ощущение управления и сенсорные функции. Интеллектуальная система управления будет способна предугадывать желания водителя, переключая режимы от «Grand Tourer» до «Track». При этом Maserati сохранит свою характерную итальянскую страсть, делая электромобиль не просто экологичным, а эмоционально захватывающим.",
+    "imagePrompt": "A futuristic 2030 Maserati GranCabrio Folgore convertible, sleek low-slung silhouette, active aerodynamic flaps, matte aluminum grille with embedded LEDs, open top with seamless roof mechanism, dual electric motors visible, carbon fiber interior with digital AR HUD, night city background, ultra‑luxury, photorealistic",
+    "marketContext": "Позиционируется как ультра‑люксовый электрокабриолет премиум‑класса, конкурируя с Ferrari Roma EV и Porsche 911 Turbo S EV.",
+    "generatedAt": "2026-11-16T10:29:12.797Z"
+  }
 }

@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T14:24:57.935Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg/3840px-1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg/3840px-1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T14:24:57.935Z"
+  "updatedAt": "2026-10-29T14:24:57.935Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.78,
+    "predictedHp": 670,
+    "predictedEngine": "V8 hybrid",
+    "designTrends": [
+      "Утончённый ретро‑муслённый кузов с более агрессивным передним бампером и фирменной решёткой",
+      "Крупные матричные LED‑фары с адаптивным световым блоком",
+      "Активные аэродинамические элементы: регулируемый спойлер и диффузор",
+      "Лёгкие карбон‑композитные вставки на крышке багажника и крыше",
+      "Трёхцветная подсветка задних фонарей в стиле «тёмный ночной стелс»"
+    ],
+    "techTrends": [
+      "Полный пакет Level 3 автономного вождения с системой «Drive‑Assist 3.0»",
+      "AR‑HUD с проекцией навигации и параметров автомобиля прямо на лобовое стекло",
+      "Система быстрой зарядки 800 V и интегрированный солид‑стейт аккумулятор",
+      "Интеллектуальная подвеска с адаптивным демпфером, управляемая ИИ",
+      "Обновления ПО «по воздуху» и персонализированные режимы вождения"
+    ],
+    "narrative": "Следующее поколение Dodge Charger Super Bee 4‑Door станет кульминацией более чем полувековой истории американского маслкар‑муслённого. Сочетая мощный V8 с гибридным электроприводом, модель получит 670 л.с., мгновенный крутящий момент и возможность полностью электромобильного режима на коротких дистанциях, сохраняя при этом характерный, агрессивный звук двигателя. Дизайн будет отсылает к классическому Super Bee 1968‑го, но получит современную форму: более низкая посадка, резкие линии кузова и активные аэродинамические элементы, которые автоматически подстраиваются под стиль вождения.\n\nФилософия нового Charger — это «мощь без компромиссов и экологическая ответственность». Электрификация позволит бренду соответствовать ужесточённым мировым нормативам выбросов, одновременно предлагая драйв, который ожидает истинный поклонник американского «muscle». Интеграция передовых цифровых технологий сделает автомобиль не только быстрым, но и умным, готовым к автономному вождению и полной кастомизации через OTA‑обновления.",
+    "imagePrompt": "A futuristic 2029 Dodge Charger Super Bee 4-door, aggressive front grille, matte black carbon fiber accents, active aerodynamic spoiler, bright matrix LED headlights, sleek muscular silhouette, night city background, hyper-realistic rendering",
+    "marketContext": "Позиционируется как премиальный американский маслкар‑гибрид, конкурируя с Cadillac CT5-V Blackwing и новыми электромобилями от Tesla и Rivian в сегменте высокопроизводительных седанов.",
+    "generatedAt": "2026-11-16T10:21:22.487Z"
+  }
 }

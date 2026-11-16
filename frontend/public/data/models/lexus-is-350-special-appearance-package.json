@@ -16,5 +16,29 @@
   "tags": [],
   "aiAnalysisAvailable": false,
   "createdAt": "2026-10-29T11:36:10.431Z",
-  "updatedAt": "2026-10-29T11:36:10.431Z"
+  "updatedAt": "2026-10-29T11:36:10.431Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.78,
+    "predictedHp": 340,
+    "predictedEngine": "3.5L V6 Twin‑Turbo Hybrid (48 kWh solid‑state plug‑in)",
+    "designTrends": [
+      "Sharpened spindle grille with active aero shutters",
+      "Sculpted side character lines and hidden door handles",
+      "20‑21‑inch forged alloy wheels with aerodynamic spokes",
+      "Full‑width LED light bar with dynamic turn signals",
+      "Aerodynamic rear diffuser and active rear spoiler"
+    ],
+    "techTrends": [
+      "48 kWh solid‑state battery enabling 70 km electric‑only range",
+      "AI‑assisted variable‑rate steering with torque‑vectoring",
+      "30° augmented‑reality heads‑up display",
+      "Lexus Safety System+ 3.0 with driver monitoring and V2X communication",
+      "Wireless over‑the‑air updates for powertrain and infotainment"
+    ],
+    "narrative": "Следующее поколение Lexus IS 350 Special Appearance Package будет представлять собой гибридный спортивный седан, где традиционный характер V6 соединяется с передовыми электромобилями. Мощность увеличится до 340 л.с., а система plug‑in hybrid обеспечит почти 70 км чисто электрической езды, позволяя клиентам совмещать динамику и экологичность без компромиссов. Дизайн будет подчёркнут более агрессивной решёткой с активными заслонками, динамичными световыми элементами и скрытыми ручками, что придаст автомобилю более футуристический, но в то же время узнаваемый облик.\n\nТехнологический арсенал модели будет ориентирован на цифровой опыт водителя: расширенный AR‑HUD, система AI‑управления рулём и трансмиссией, а также полностью автономные функции безопасности, включая V2X‑коммуникацию. Lexus планирует сохранить традиционную философию «высокого уровня обслуживания» и «искусства в деталях», предоставляя клиентам не только мощный драйв, но и комфорт будущего, где каждый элемент автомобиля работает в синергии с водителем.",
+    "imagePrompt": "Futuristic 2029 Lexus IS 350 Special Appearance Package concept, sleek angular body, active spindle grille, full-width LED light bar, 20-inch forged alloy wheels, night city backdrop, high detail, photorealistic",
+    "marketContext": "Модель будет позиционироваться как премиальный гибридный спорт‑седан, конкурируя с BMW 3 Series M340i xDrive, Mercedes‑C 300 e и Audi S4, привлекая покупателей, ищущих сочетание динамики, технологии и экологичности.",
+    "generatedAt": "2026-11-16T10:29:28.683Z"
+  }
 }

@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T17:45:25.606Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Renault_Twingo_Dynamique_%28III%29_%E2%80%93_Frontansicht%2C_24._Oktober_2015%2C_M%C3%BCnster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Renault_Twingo_Dynamique_%28III%29_%E2%80%93_Frontansicht%2C_24._Oktober_2015%2C_M%C3%BCnster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T17:45:25.606Z"
+  "updatedAt": "2026-10-29T17:45:25.606Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 105,
+    "predictedEngine": "ev",
+    "designTrends": [
+      "LED matrix round headlights with retro‑inspired light signatures",
+      "More aerodynamic silhouette with a pronounced Kammback rear",
+      "Expanded glass area and thin roof rails for a lighter visual weight",
+      "Digital rear light bar replacing traditional taillights",
+      "Optional solar‑roof panel for auxiliary charging"
+    ],
+    "techTrends": [
+      "Solid‑state 45 kWh battery delivering ~350 km WLTP range",
+      "800 V fast‑charging architecture (0‑80 % in ~15 min)",
+      "Level‑2 advanced driver assistance (adaptive cruise, lane‑keep) with OTA updates",
+      "Fully digital 10.25‑inch instrument cluster and infotainment system",
+      "Vehicle‑to‑grid (V2G) capability for home energy management"
+    ],
+    "narrative": "Пятое поколение Renault Twingo будет представлять собой эволюцию городской электромобилизации, сохраняя узнаваемый ретро‑облик оригинала, но получая современный, футуристический облик. Дизайн объединит круглые LED‑фары, напоминающие о первых моделях, с более аэродинамичной формой кузова, широким остеклением и плавными линиями, что подчеркнёт динамичность и лёгкость в городе. Особое внимание уделено устойчивости: внедрена твердотельная батарея ёмкостью 45 кВт·ч, обеспечивающая до 350 км пробега по WLTP, а система быстрой зарядки 800 В позволяет пополнять энергию за считанные минуты.\n\nТехнологический набор будет ориентирован на цифровой комфорт и экологическую гибкость. Инструментальная панель полностью цифровая, система мультимедиа поддерживает 5G‑связь и бесшовные OTA‑обновления. Уровень помощи водителю Level‑2 делает вождение в плотном городском потоке более безопасным, а функция V2G позволяет владельцам отдавать энергию обратно в сеть или использовать её дома. Всё это будет доступно по цене чуть выше 20 000 €, сохраняя позицию доступного городского электромобиля, способного конкурировать с VW e‑up! и Skoda Citigo EV.",
+    "imagePrompt": "Renault Twingo 5th generation electric city hatchback, compact compact, retro-futuristic design, round LED matrix headlights, smooth aerodynamic lines, large glass canopy, subtle orange accent details, glossy white paint, parked on a European cobblestone street at dusk, hyperrealistic, 8k resolution",
+    "marketContext": "Доступный городской электромобиль, позиционируемый как бюджетный конкурент VW e‑up! и Skoda Citigo EV, ориентированный на европейских покупателей, ищущих стиль и практичность без компромисса в экологичности.",
+    "generatedAt": "2026-11-16T10:13:37.863Z"
+  }
 }

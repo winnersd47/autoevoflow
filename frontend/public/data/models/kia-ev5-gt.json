@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T19:12:12.163Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2024_Kia_EV5_Earth_Exclusive_AWD_%28Thailand%29_front_view.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T19:12:12.163Z"
+  "updatedAt": "2026-10-29T19:12:12.163Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 355,
+    "predictedEngine": "ev",
+    "designTrends": [
+      "Аэродинамический кузов с активными спойлерами",
+      "Пиксельные LED‑фары и световая подпись «Kia」",
+      "Уменьшенный радиаторный решётка‑грид с динамической подсветкой",
+      "Экологичные материалы интерьера: переработанный алькантар и бамбук",
+      "Большие 22‑дюймовые легкосплавные диски с двойным спицевым дизайном"
+    ],
+    "techTrends": [
+      "800‑В система быстрой зарядки до 80 % за 15 минут",
+      "Твердотельные батареи с удлинённым диапазоном более 600 км",
+      "AR‑HUD с проекцией навигации и предупреждений в реальном времени",
+      "Продвинутая система ADAS уровня 3 с функцией автономного вождения в городе",
+      "Полный OTA‑обновляемый софт, включая режимы «Track» и «Eco»"
+    ],
+    "narrative": "Следующее поколение Kia EV5 GT будет представлено как эволюция «зеленого» спортивного кроссовера, где каждый элемент подчёркивает динамику и экологичность. Новый EV5 GT получит более мощный двойной электромотор, способный выдавать 355 л.с., а ускорение 0‑100 км/ч сократится до 5,4 сек. Благодаря 800‑В архитектуре и твердотельным батареям автомобиль обеспечит более 600 км реального пробега и молниеносную зарядку, делая его конкурентом в сегменте премиум‑кроссоверов.\n\nДизайн будет построен на принципе «мощный минимализм»: резкие линии, активные аэродинамические элементы и характерная световая подпись Kia. Внутри будет доминировать цифровой кокпит с 15‑дюймовым панорамным дисплеем и дополненной реальностью, а материалы из переработанных волокон и бамбука подчеркнут приверженность бренда к устойчивому развитию. Все это создаст образ динамичного, технологичного и экологически ответственного автомобиля, готового к вызовам будущего.",
+    "imagePrompt": "Futuristic compact SUV with sleek aerodynamic silhouette, aggressive front fascia featuring pixel LED headlights, dual-tone metallic paint, large 22-inch alloy wheels, glowing underglow, set in a modern cityscape at dusk, hyper-realistic, cinematic lighting",
+    "marketContext": "Kia EV5 GT 2029 позиционируется как премиум‑производительный электрокроссовер, ориентированный на рынок США и Европы, конкурируя с Tesla Model Y Performance и Hyundai Ioniq 5 GT.",
+    "generatedAt": "2026-11-16T10:33:10.989Z"
+  }
 }

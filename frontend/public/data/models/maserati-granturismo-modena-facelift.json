@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:45:23.047Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Maserati_GranTurismo_Trofeo_1X7A0828.jpg/3840px-Maserati_GranTurismo_Trofeo_1X7A0828.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:45:23.047Z"
+  "updatedAt": "2026-10-29T18:45:23.047Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.78,
+    "predictedHp": 530,
+    "predictedEngine": "V6t+48V mild‑hybrid",
+    "designTrends": [
+      "Кристаллические, резкие линии кузова с динамичными фасетами",
+      "Активные аэродинамические элементы: регулируемый сплиттер, задний диффузор и спойлер",
+      "Полноширокая световая полоса в задней части, интегрированная в LED‑фары",
+      "Скрытые дверные ручки и бесшовные боковые пороги из алюминиевого сплава",
+      "Акцент на карбоновом волокне: крышка багажника, задний спойлер и элементы интерьера"
+    ],
+    "techTrends": [
+      "12‑дюймовый OLED‑кокпит с полностью настраиваемыми виртуальными панелями",
+      "AR‑HUD с проекцией навигации, динамики скорости и предупреждений о дорожных условиях",
+      "AI‑ассистент вождения уровня 2+ с функцией «автопилот» на трассе",
+      "Подключаемый гибридный модуль 48 V, позволяющий мгновенный крутящий момент и рекуперацию энергии",
+      "Обновления ПО «по воздуху», включая новые режимы вождения и мультимедийные функции"
+    ],
+    "narrative": "Следующее поколение Maserati GranTurismo Mk3 Modena будет представлять собой синтез традиционного итальянского драйва и современных экологических требований. Машина получит гибридный V6‑турбо с 48‑вольтовой системой, которая добавит 40 л.с. к базовой мощности, сохранив характерный звук двигателя, но при этом снизит выбросы CO₂ и улучшит отклик на низких оборотах. Кузов будет более агрессивным, с резко очерченными фасетами и активными аэродинамическими элементами, которые автоматически подстраиваются под стиль вождения, обеспечивая максимальную прижимную силу без ущерба для эстетики.\n\nВнутри GranTurismo Mk3 получит полностью цифровой кокпит с 12‑дюймовым OLED‑дисплеем, дополненным дополненной реальностью в виде HUD, а также тактильный руль с алюминиевыми вставками, напоминающими гоночные рукоятки. Система AI‑ассистента будет предугадывать желания водителя, предлагая оптимальные режимы динамики и энергоэффективности. Всё это делает модель флагманом GT‑купе, способным конкурировать с лучшими представителями сегмента, сохраняя при этом фирменный стиль Maserati – элегантность, страсть и динамику.",
+    "imagePrompt": "A futuristic 2032 Maserati GranTurismo Mk3 Modena facelift, sleek angular bodywork with active front splitter and rear diffuser, full-width LED light strip at the rear, hidden door handles, carbon fiber roof and rear spoiler, 12-inch OLED cockpit visible through a driver-focused interior, Italian luxury GT coupe on a coastal road at sunset, photorealistic, high detail",
+    "marketContext": "Позиционируется как премиальный GT‑купе-флагман, конкурирующий с Ferrari Roma, Porsche 911 Turbo и Aston Martin Vantage в сегменте высокопроизводительных роскошных спорткаров.",
+    "generatedAt": "2026-11-16T10:28:31.570Z"
+  }
 }

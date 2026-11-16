@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:33:31.435Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T18:33:31.435Z"
+  "updatedAt": "2026-10-29T18:33:31.435Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 350,
+    "predictedEngine": "plug-in hybrid i-FORCE MAX (3.0L V6 turbo + electric motor)",
+    "designTrends": [
+      "Усиленный аэродинамический профиль с более широкой решёткой и интегрированными LED‑матрицами",
+      "Более высокий клиренс и модульные кузовные панели из алюминия и углеродного композита",
+      "Сокращённые боковые зеркала в пользу камерных систем и панорамного стеклянного крыши",
+      "Внутреннее пространство с гибкой планировкой: складывающиеся задние сидения и модульные отсеки",
+      "Эко‑материалы в отделке: переработанный пластик, веганская кожа"
+    ],
+    "techTrends": [
+      "Система Toyota Safety Sense 4.0 с уровнем автопилота Level 3",
+      "Полностью электрифицированный задний привод (e‑Axle) и возможность зарядки от солнечной крыши",
+      "Интеграция OTA‑обновлений и персонализированных профилей водителя",
+      "Продвинутая система управления энергией батареи с рекуперативным торможением до 70 %",
+      "Подключённый к облаку сервис Toyota Connected Services с функцией «Off‑Road Navigator»"
+    ],
+    "narrative": "Следующее поколение Land Cruiser будет называться Land Cruiser 2029 и станет символом перехода Toyota от традиционного гибрида к полноценному plug‑in гибриду, сохраняя легендарную проходимость и надёжность. Новый i‑FORCE MAX объединит 3,0‑литровый турбированный V6 с мощным электромотором, обеспечивая 350 л.с. и мгновенный крутящий момент, а также возможность проезда в полностью электрическом режиме до 80 км, что отвечает растущим требованиям к экологичности без ущерба для внедорожных возможностей.\n\nДизайн будет сочетать современную динамику и классический «квадратный» силуэт, характерный для Land Cruiser, но с более гладкими линиями, улучшенной аэродинамикой и ярко выраженной решёткой, подчёркнутой светодиодными матричными фарами. Внутри появятся гибкие модули сидений, панорамный стеклянный люк и отделка из переработанных материалов, подчеркивающих экологическую направленность модели. Технологический пакет будет включать уровень автономии Level 3, полностью цифровую приборную панель и интеграцию облачных сервисов, делая Land Cruiser 2029 лидером в сегменте премиальных больших внедорожников.",
+    "imagePrompt": "Futuristic 2029 Toyota Land Cruiser, large rugged SUV with sleek aerodynamic body, wide LED matrix grille, panoramic glass roof, off‑road tires, plug‑in hybrid badge, set in a mountain landscape, hyper‑realistic, high detail, cinematic lighting",
+    "marketContext": "Позиционируется как премиальный крупный внедорожник для Северной Америки и глобального рынка, конкурируя с Range Rover, Lexus LX и Mercedes‑GLE.",
+    "generatedAt": "2026-11-16T10:21:17.258Z"
+  }
 }

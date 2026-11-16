@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T19:28:25.684Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bugatti_Mistral_2.jpg/3840px-Bugatti_Mistral_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Bugatti_Mistral_2.jpg/3840px-Bugatti_Mistral_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T19:28:25.684Z"
+  "updatedAt": "2026-10-29T19:28:25.684Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.81,
+    "predictedHp": 1900,
+    "predictedEngine": "plug-in hybrid (W16 + 2 electric motors)",
+    "designTrends": [
+      "Краска с наночастицами, меняющая цвет в зависимости от угла и освещения",
+      "Активные аэродинамические элементы, регулируемые в реальном времени",
+      "Полностью карбоновый монокок, интегрированный с открывающимся купе‑крылом",
+      "Минималистичный кабина‑кокпит с полностью цифровой панелью",
+      "Ретрактируемый крыша‑механизм, позволяющий мгновенно переходить в open‑top"
+    ],
+    "techTrends": [
+      "Гибридная система W16 + два высокопроизводительных электромотора, суммарно 1900 л.с.",
+      "Твердотельные батареи с энергоплотностью > 500 Wh/kg",
+      "AI‑управляемые режимы вождения: Eco, Sport, Track и Autonomous Cruise",
+      "Дополненная реальность HUD, проецирующий навигацию и телеметрию на ветровое стекло",
+      "Рекуперативные углеродно‑керамические тормоза с системой охлаждения жидкостного типа"
+    ],
+    "narrative": "Следующее поколение Bugatti Mistral Caroline будет воплощать синтез безупречного наследия марки и новых требований к устойчивости. Гиперкар получит гибридный силовой агрегат, где легендарный W16 будет работать в паре с двумя электрическими моторами, обеспечивая мгновенный крутящий момент и суммарную мощность около 1900 л.с. Это позволит не только достичь новых скоростных рекордов, но и сократить выбросы CO₂, отвечая требованиям будущих регуляций.\n\nДизайн будет подчеркивать эксклюзивность: лак с наночастицами будет менять оттенок от лавандового к бирюзовому, отражая настроение владельца и освещённость. Активные аэродинамические поверхности, интегрированные в кузов, будут автоматически оптимизировать прижимную силу, а полностью карбоновый монокок обеспечит максимальную жёсткость при минимальном весе. Открывающаяся крыша‑крыло, разработанная по принципу «мгновенного раскрытия», сохранит ощущение полёта, характерное для Mistral, но с улучшенной аэродинамикой и защитой от ветра.",
+    "imagePrompt": "A futuristic open-top hypercar inspired by Bugatti Mistral Caroline, 2032 model, sleek carbon-fiber monocoque, retractable winged roof, shifting lavender-to-blue iridescent paint, active aerodynamic flaps, hybrid powertrain visible, high-gloss finish, set on a coastal road at sunset, ultra-detailed, photorealistic",
+    "marketContext": "Эксклюзивный лимитированный гиперкар для элитных коллекционеров, позиционируемый как флагман экологически ответственного роскоши, конкурирующий с Koenigsegg Regera и Pagani Huayra Roadster.",
+    "generatedAt": "2026-11-16T10:35:08.625Z"
+  }
 }
