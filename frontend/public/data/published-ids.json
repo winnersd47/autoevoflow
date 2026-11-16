@@ -3302,15 +3302,6 @@
       ],
       "updatedAt": "2026-10-24T08:06:22.825Z"
     },
-    "bmw__7-series-embraces-luxurious__2027": {
-      "messageId": 296,
-      "hasPhoto": true,
-      "channelId": "-1004476377905",
-      "ids": [
-        "cad-reviews-a74181769-2027-bmw-7-series-drive"
-      ],
-      "updatedAt": "2026-10-24T11:05:36.828Z"
-    },
     "bmw__ix5-xdrive-proves__2027": {
       "messageId": 507,
       "hasPhoto": true,
@@ -3321,13 +3312,14 @@
       "updatedAt": "2026-10-24T14:04:27.154Z"
     },
     "bmw__7-series__2027": {
-      "messageId": 298,
+      "messageId": 296,
       "hasPhoto": true,
       "channelId": "-1004476377905",
       "ids": [
+        "cad-reviews-a74181769-2027-bmw-7-series-drive",
         "cad-photos-a74203883-2027-bmw-7-series-drive-interior-gallery"
       ],
-      "updatedAt": "2026-10-24T14:04:58.098Z"
+      "updatedAt": "2026-11-16T05:57:09.879Z"
     },
     "honda__vezel__2027": {
       "messageId": 509,
@@ -3620,6 +3612,6 @@
       "updatedAt": "2026-10-30T20:04:32.063Z"
     }
   },
-  "updatedAt": "2026-11-12T11:17:52.874Z",
+  "updatedAt": "2026-11-16T05:57:09.880Z",
   "total": 546
 }
