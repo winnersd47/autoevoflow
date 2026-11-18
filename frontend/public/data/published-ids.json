@@ -550,7 +550,10 @@
     "cad-news-a74425789-2028-ford-mustang-cobra-future-cars",
     "cad-toyota-scion-kei-01",
     "cad-genesis-gv80-hybrid",
-    "ncs-audi-2028-nuvolari"
+    "ncs-audi-2028-nuvolari",
+    "cad-news-a74403648-2028-honda-cr-v-next-gen-hybrid-only-bd2967",
+    "rat-news-a74403139-2028-honda-cr-v-details",
+    "rat-reviews-a74392790-2027-bmw-i7-60-xdrive-ev-drive-review"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -881,7 +884,9 @@
     "bmw__ix5-xdrive__2027",
     "ford__mustang-cobra__2028",
     "toyota__scion-kei-01__2028",
-    "genesis__gv80-hybrid__2028"
+    "genesis__gv80-hybrid__2028",
+    "honda__cr-v__2028",
+    "bmw__i7-xdrive__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3647,8 +3652,27 @@
         "cad-genesis-gv80-hybrid"
       ],
       "updatedAt": "2026-11-18T13:45:26.184Z"
+    },
+    "honda__cr-v__2028": {
+      "messageId": 341,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74403648-2028-honda-cr-v-next-gen-hybrid-only-bd2967",
+        "rat-news-a74403139-2028-honda-cr-v-details"
+      ],
+      "updatedAt": "2026-11-18T20:26:59.097Z"
+    },
+    "bmw__i7-xdrive__2027": {
+      "messageId": 543,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "rat-reviews-a74392790-2027-bmw-i7-60-xdrive-ev-drive-review"
+      ],
+      "updatedAt": "2026-11-18T20:33:50.702Z"
     }
   },
-  "updatedAt": "2026-11-18T13:46:28.148Z",
-  "total": 551
+  "updatedAt": "2026-11-18T20:33:50.702Z",
+  "total": 554
 }

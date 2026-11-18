@@ -1,6 +1,37 @@
 {
   "stories": [
     {
+      "modelKey": "bmw__i7-xdrive__2027",
+      "id": "rat-reviews-a74392790-2027-bmw-i7-60-xdrive-ev-drive-review",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW i7 60 xDrive",
+      "fullName": "2027 BMW i7 60 xDrive",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ 2022 году <b>660 л.с.</b> вывели на дорогу <i>i7 G70</i>, ставший самым мощным электроседаном в линейке, а его шасси сразу же оказалось «двойником» для <i>7 Series G70</i>.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nЭта связь‑платформа позволила в 2027‑м превратить «донор» в <i>i7 60 xDrive</i>, где мощность осталась <b>660 л.с.</b>, но крутящий момент и управляемость получили электромоторный характер.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nБлагодаря наследию <i>7 Series G70</i> автомобиль сохраняет традиционную динамику, а батарея обеспечивает мгновенный крутящий момент, делая разгон от 0 до 100 км/ч в секунды, сравнимый с прежним бензиновым аналогом.  \n\n🔮 <b>ПРОГНОЗ</b>\nОжидаем, что эта синергия платформы и электропривода ускорит переход остальных седанов бренда к полностью электрическому характеру.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/79a7f918-05c3-4ddc-8fba-60f3db2b7922.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/bmw-i7-g70",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "publishedAt": "2026-11-18T20:33:49.039Z",
+      "teaserSentAt": "2026-11-18T20:33:50.700Z"
+    },
+    {
+      "modelKey": "honda__cr-v__2028",
+      "id": "cad-news-a74403648-2028-honda-cr-v-next-gen-hybrid-only-bd2967",
+      "brand": "Honda",
+      "brandSlug": "honda",
+      "name": "2028 Honda CR-V",
+      "fullName": "2028 Honda CR-V",
+      "year": 2028,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ 1991 году Honda выпустила <b>Civic EG 5th</b>, закрепив репутацию бренда как производителя надёжных и экономичных автомобилей, что стало фундаментом для будущих гибридных инициатив.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт этой основы к 2028 году Honda представила <b>CR‑V 2028</b> на полностью новой <i>платформе</i> с повышенной жёсткостью и лёгкостью, продолжая линию компактных кроссоверов, начатую в 1990‑х с <b>NSX NA1</b>.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nНовый <i>двухмоторный гибрид</i> сочетает улучшенный двигатель и задний электрический мотор, заменяя прежний механический AWD и обеспечивая лучшую эффективность и тягу.  \n\n🔮 <b>ПРОГНОЗ</b>\nВероятно, эта гибридная архитектура станет базой для дальнейшего расширения Honda Hybrid в последующих моделях, усилив позицию бренда в сегменте экологичных кроссоверов.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-honda-cr-v-hybrid-awd-sport-touring-120-679407c3124cb.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-news-a74403648-2028-honda-cr-v-next-gen-hybrid-only-bd2967",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "publishedAt": "2026-11-18T20:26:59.095Z"
+    },
+    {
       "modelKey": "audi__nuvolari__2028",
       "id": "ncs-audi-2028-nuvolari",
       "brand": "Audi",
@@ -891,37 +922,7 @@
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
       "publishedAt": "2026-10-22T05:04:46.487Z"
-    },
-    {
-      "modelKey": "mercedes__mercedes-amg-gle53__2027",
-      "id": "cad-photos-a74179379-2027-mercedes-amg-gle53-drive-gallery",
-      "brand": "Mercedes",
-      "brandSlug": "mercedes",
-      "name": "2027 Mercedes-AMG GLE53",
-      "fullName": "2027 Mercedes-AMG GLE53",
-      "year": 2027,
-      "story": "<b>2023</b> года в Германии первые серии GLE53 собирались на заводе в Брюхе, где трудились <i> GLE53 </i> — символ утреннего кофе и бескомпромиссного комфорта. В <b>2027</b> обновлённая версия получает гибридную силовую установку <i> PHEV </i>, соединяя <b>420</b> л.с. и <b>100</b> км пробега на электроэнергии.  \n\n🧬 ЭВОЛЮЦИИ: от <b>2023</b> до <b>2027</b> модель шла пути трансформации, сохраняя спортивный дизайн и премиальный интерьер, но добавляя экологию. Последнее поколение <i> GLE53 PHEV </i> стало мостом между роскошью и устойчивостью.  \n\n⚡ ЧТО ДЕЛАЕТ ЕЙ ОСОБЕННОЙ: в <b>2027</b> году <i> GLE53 PHEV </i> развивается до <b>420</b> л.с., тогда как <i> BMW X5 xDrive45e </i> предлагает <b>385</b> л.с. — шаг вперёд, обусловленный спросом на «зелёный» комфорт.  \n\n🔮 ПРОГНОЗ: к <b>2030</b> <i> GLE53 </i> станет полностью электрической, используя технологию <i> EQS </i>, сохранив спортивный характер и улучшая динамику.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1f5af43b-a4ad-4463-b669-481251ebd115.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-photos-a74179379-2027-mercedes-amg-gle53-drive-gallery",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-22T02:05:55.761Z"
-    },
-    {
-      "modelKey": "mercedes__mercedes-amg-gle63__2027",
-      "id": "cad-photos-a74181727-2027-mercedes-amg-gle63-s-drive-gallery",
-      "brand": "Mercedes",
-      "brandSlug": "mercedes",
-      "name": "2027 Mercedes-AMG GLE63 S",
-      "fullName": "2027 Mercedes-AMG GLE63 S",
-      "year": 2027,
-      "story": "🏛 <b>ИСТОРИЯ</b>\nСамым неожиданным фактом стало, что <b>2027</b> год стал последним для версии с надписями «AMG Coupe» — решение о закрытии производства купе-кроссовера последовало уже через <b>4</b> месяца после выхода обновлённой GLE63 S.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <b>612</b> л.с., выпущенных в <i>2027</i> GLE63 S Coupe, до <b>630</b> л.с. в <b>2028</b> GLE63 S SUV — это не просто прирост мощности, а скачок крутящего момента с <b>850</b> до <b>900</b> Н·м, достигнутый за счёт новой турбокомпрессорной установки <i>LS4</i>.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nНовая система полного привода AMG Performance 4Matic+ с <b>100</b>-процентным распределением крутящего момента в задние колёса превосходит аналоги Range Rover SVR (<b>665</b> л.с.) и BMW X5 M60i (<b>530</b> л.с.) именно в динамике с выезда — разгон до <b>100</b> км/ч за <b>3.8</b> секунды против <b>4.1</b> у конкурентов.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2029</b> году <i>LS4</i> заменит традиционные турбины на электродвутьевые установки, а значит — распределение мощности станет не только межосевым, но и межколёсным в реальном времени.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/af05c5be-688e-4b6b-83e4-cffc76f70fbf.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-photos-a74181727-2027-mercedes-amg-gle63-s-drive-gallery",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-22T02:04:37.209Z"
     }
   ],
-  "updatedAt": "2026-11-18T13:46:28.147Z"
+  "updatedAt": "2026-11-18T20:33:49.039Z"
 }
