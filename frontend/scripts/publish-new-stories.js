@@ -2089,7 +2089,9 @@ function nodeToCarObject(node) {
 }
 
 // ─── Dry-run: вывод истории в консоль без публикации ─────────────────────────
-async function dryRun(car, graph) {
+// → true, если данных хватило бы для боевого поста. skipThin: «пустую» машину не отдавать модели
+// (как в боевом прогоне) — нужно, когда превью перебирает несколько кандидатов подряд.
+async function dryRun(car, graph, { skipThin = false } = {}) {
   const label = car.name || car.fullName
   console.log(`\n🔍 DRY RUN: ${label}\n`)
 
@@ -2125,9 +2127,13 @@ async function dryRun(car, graph) {
 
   const data = describeGrounding(grounding, ctx, research)
   console.log(`\n─── ДАННЫЕ ───\n${formatGroundingStats(data)}`)
-  console.log(hasEnoughData(data, false)
+  const enough = hasEnoughData(data, false)
+  console.log(enough
     ? `Для нового поста данных достаточно${hasEnoughData(data, true) ? ' (и для правки уже опубликованного)' : ' (для ПРАВКИ уже опубликованного — мало)'}`
-    : '⚠️  Данных слишком мало: в реальном прогоне этот пост был бы ПРОПУЩЕН (модель не вызывалась бы). Ниже — что получилось бы, если всё же вызвать.')
+    : skipThin
+      ? '⚠️  Данных слишком мало: в реальном прогоне этот пост был бы ПРОПУЩЕН (модель не вызывалась бы) — генерацию пропускаю.'
+      : '⚠️  Данных слишком мало: в реальном прогоне этот пост был бы ПРОПУЩЕН (модель не вызывалась бы). Ниже — что получилось бы, если всё же вызвать.')
+  if (!enough && skipThin) return false
 
   console.log('\n─── ГЕНЕРАЦИЯ ───')
   const result = await generateWithProviders(messages, car, grounding, {
@@ -2142,7 +2148,7 @@ async function dryRun(car, graph) {
     console.log('❌ ни один провайдер не дал годный текст (недоступны, пустой ответ или не прошли проверку фактов)')
     console.log('\n⚠️  В реальном прогоне эта модель была бы ПРОПУЩЕНА (не опубликована),')
     console.log('   а не отправлена шаблоном — см. generateStory(). Повтор в следующий прогон.')
-    return
+    return enough
   }
   story = result.story
   provider = result.provider
@@ -2167,6 +2173,7 @@ async function dryRun(car, graph) {
 
   console.log('\n─── ИТОГ ───')
   console.log(`Провайдер: ${provider} | Формат: ${format.id} | Символов: ${story.length} | Слов: ~${story.split(/\s+/).length}`)
+  return enough
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────────────
@@ -2257,11 +2264,23 @@ async function main() {
       try { publishedIds = new Set(JSON.parse(fs.readFileSync(PUBLISHED_IDS, 'utf-8')).ids || []) } catch {}
     }
 
-    const target = isForce ? cars[0] : cars.find(c => !publishedIds.has(c.id))
-    if (!target) { console.log('Нет новых моделей для превью'); return }
+    // Превью не одной машины, а до 2 с достаточными данными (из первых 6 кандидатов): первая в очереди
+    // бывает «пустой» и ничего не говорит о том, как генерация работает на нормальном материале.
+    // «Пустых» пропускаем без вызова модели — так же, как боевой прогон.
+    const pool = isForce
+      ? cars.slice(0, 1)
+      : cars.filter(c => !publishedIds.has(c.id)).map(withCleanName).filter(looksLikeRealModelName).slice(0, 6)
+    if (!pool.length) { console.log('Нет новых моделей для превью'); return }
 
     const graph = loadGraph()
-    await dryRun(withCleanName(target), graph)
+    let shown = 0, looked = 0
+    for (const [i, car] of pool.entries()) {
+      if (shown >= 2) break
+      if (i > 0) console.log('\n' + '═'.repeat(70))
+      looked++
+      if (await dryRun(isForce ? withCleanName(car) : car, graph, { skipThin: !isForce })) shown++
+    }
+    console.log(`\n[dry-run] кандидатов просмотрено: ${looked}, с достаточными данными показано: ${shown}`)
     return
   }
 
