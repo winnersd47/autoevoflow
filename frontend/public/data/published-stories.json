@@ -1,6 +1,21 @@
 {
   "stories": [
     {
+      "modelKey": "lexus__es__2027",
+      "id": "cad-lexus-es",
+      "brand": "Lexus",
+      "brandSlug": "lexus",
+      "name": "2027 Lexus ES",
+      "fullName": "2027 Lexus ES",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1992</b> году Lexus выпустил ES300 с полностью электроуправляемым климатом, что удивило автолюбителей. В <b>1996</b> году ES300 получил <b>210 л.с.</b> и стал первым седаном бренда с адаптивной подвеской.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\n1996 — таков старт эволюции, когда в <b>2022</b> появился <i>TNGA‑F</i> с гибридным агрегатом <b>260 л.с.</b>. В <b>2027</b> модель получила <b>340 л.с.</b> и <b>45 000 $</b> базовую цену, сохранив традицию роскоши.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n<b>340 л.с.</b> позволяют <i>Lexus ES 2027</i> обгонять <i>Mercedes C‑Class</i> в <b>0–100 км/ч</b> за <b>6,2 сек</b> против <b>7,1 сек</b> у конкурента, а встроенный <b>Lidar‑2027</b> обеспечивает автономный режим уровня 3.  \n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2029</b> Lidar‑2027 будет расширен до <b>360‑градусного сканирования</b>, открывая массовый рынок автопилотов в Японии. К <b>2032</b> цена <b>45 000 $</b> снизится до <b>38 000 $</b>, позволяя Lexus доминировать в сегменте премиум‑седанов.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/a8807f6e-6f32-42dc-bb4a-fb35ff1b8e59.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-lexus-es",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "publishedAt": "2026-11-18T07:14:25.682Z"
+    },
+    {
       "modelKey": "bmw__i3__2027",
       "id": "cad-photos-a74273370-2027-bmw-i3-drive-interior-gallery",
       "brand": "BMW",
@@ -170,20 +185,50 @@
       "publishedAt": "2026-10-28T20:04:31.474Z"
     },
     {
-      "modelKey": "aston_martin__valhalla-spider__2028",
-      "id": "ncs-aston_martin-2028-valhalla_spider",
-      "brand": "Aston Martin",
-      "brandSlug": "aston_martin",
-      "name": "Aston Martin Valhalla Spider",
-      "fullName": "2028 Aston Martin Valhalla Spider",
-      "year": 2028,
-      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1913</b> году <b>Robert Bamford</b> и <b> Lionel Martin</b> ознаменовали основу Aston Martin, но настоящий перелом прозвучал в <b>1966</b> году, когда <i>DB4 GT Zagato</i> покорил 24-часовные гонки Ле-Мана с <b>190 миль/ч</b> на прямой. Это был не просто спорткар — это заявка на связь скорости с открытым небом, которая молча ждала своего прорыва на <b>60 лет</b> спустя.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <i>DB4 GT Zagato</i> к <i>Valhalla Coupe</i> — путь через <b>1079PS</b>, где гибридный <i>4.0V8</i> с двумя турбинами стал пиратом традиций: <b>1100Nm</b> крутящего момента в корпусе весом <b>1450kg</b>. От этих <b>1079PS</b> до <b>2028</b> года — парадигма сменилась с карбюраторов на <i>AMPT</i>-оптимизированные аэродинамику.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n<i>Valhalla Spider</i> — первый открытый <i>mid-engined</i> суперкар Aston Martin, но её <b>1079PS</b> против <b>828PS</b> у <i>Porsche 911 GT3 RS</i> (<b>2022</b>) — это не гонка цифр, а утверждение гибридной силы над чистым атмосферным дыханием.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030</b> году <i>Valhalla Spider</i> станет эталоном для электрогибридов с активной аэродинамикой от <i>AMPT</i>, а её <b>1100Nm</b> вдохновят на серийные <i>F1-inspired</i> модели без крыши.",
-      "imageUrl": "https://www.netcarshow.com/Aston_Martin-Valhalla_Spider-2028-wallpaper.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-aston_martin-2028-valhalla_spider",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "publishedAt": "2026-10-28T02:04:48.616Z",
-      "teaserSentAt": "2026-10-28T02:04:50.333Z"
+      "modelKey": "kia__ev9__2027",
+      "id": "motor1-news-813545-2027-kia-ev9-pricing-torque",
+      "brand": "Kia",
+      "brandSlug": "kia",
+      "name": "2027 Kia EV9",
+      "fullName": "2027 Kia EV9",
+      "year": 2027,
+      "story": "<b>2021</b> года в Киа взяли концептуальный кроссовер и превратили его в реальный EV9 — но с того же подходом, что и в Hyundai IONIQ 9: бренд-донор стал близнецом по платформе.\n\n🧬 <b>Эволюция</b> началась не с нуля — EV9 (2023) получил <b>379</b> л.с. и пошёл в эволюцию через GT-версию с <b>501</b> л.с., но уже в <b>2027</b> году Kia поднял мощность до нового уровня, не меняя архитектуры.  \n\n⚡ <b>Особенность</b> — это когда <b>Kia EV9</b> стоит от <b>$56 635</b>, а его технический близнец — Hyundai IONIQ 9 — стартует на <b>$70 000</b>+. Тот же 800-вольтовый заряд, тот же трёхрядный салон, но другой имидж — и цена.  \n\n🔮 <b>2028</b> год: Kia запустит GT-версию EV9 с <i>통합몰티</i>-платформы, а Hyundai ответит тем же — просто с другой маской.",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/AkOPEO/s3/2027-kia-ev9.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/kia-ev9",
+      "source": "motor1",
+      "sourceLabel": "Motor1",
+      "publishedAt": "2026-10-28T13:19:12.849Z"
+    },
+    {
+      "modelKey": "audi__q9-first-__2027",
+      "id": "td-car-reviews-2027-audi-q9-first-drive-review",
+      "brand": "Audi",
+      "brandSlug": "audi",
+      "name": "2027 Audi Q9 First-Drive",
+      "fullName": "2027 Audi Q9 First-Drive",
+      "year": 2027,
+      "story": "<b>1978</b> Audi представил <i>Audi 80 B2</i>, а в <b>1980</b> — революционный <i>Quattro Ur</i>, задавший вектор полного привода. Через <b>47 лет</b> эти корни привели к <b>2027</b> Q9 — крупнейшему SUV в истории бренда с тремя рядами и ценой от <b>$89 095</b>.\n\nЭволюция шла от <i>80 B1</i> (<b>1972</b>) к <i>Quattro Group B</i> (<b>1982</b>), накопившись в <i>80 B3</i> (<b>1986</b>), где технологии и дизайн срослись. Этот путь — от компактного седана к легендарному кроссоверу с V6 и V8 — стал фундаментом для мощного турбированного силового агрегата Q9, унаследованного от <i>SQ9</i>.\n\n<b>690</b> л.с. <i>SQ9</i> против <b>617</b> л.с. <i>BMW X7 M60i</i> — Audi выигрывает в крутящем моменте <b>850</b> Н·м и объёме третьего ряда. Этот скачок — результат полумьесяца инженерной эволюции, начатой ещё с <i>Quattro Ur</i>.\n\nК <b>2030</b> Q9 получит гибридный силовой агрегат мощностью <b>450</b> л.с., устранив слепую зону на рынке США, где спрос на экологичные премиум-SUV растёт вдвое быстрее, чем на обычные модели.",
+      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/untitled-0447_6afce2-e1793028067850-copy.jpg?quality=85",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/td-car-reviews-2027-audi-q9-first-drive-review",
+      "source": "thedrive",
+      "sourceLabel": "The Drive",
+      "publishedAt": "2026-10-28T05:04:47.312Z",
+      "teaserSentAt": "2026-10-28T05:04:49.034Z"
+    },
+    {
+      "modelKey": "mercedes__eqs__2027",
+      "id": "cad-mercedes-benz-eqs-suv-2027",
+      "brand": "Mercedes-Benz",
+      "brandSlug": "mercedes-benz",
+      "name": "2027 Mercedes-Benz EQS SUV",
+      "fullName": "2027 Mercedes-Benz EQS SUV",
+      "year": 2027,
+      "story": "🏛 <b>2027</b> году команда разработчиков EQS SUV X296 столкнулась с ключевой проблемой — как разместить <b>три ряда салона</b> на платформе, рассчитанной на два. Решение крылось не в удлинении кузова, а в перераспределении пространства под батареи, что потребовало перестройки логики расположения аккумуляторных модулей.\n\n🧬 Этот вызов решался через платформу <i>EQS V297</i>, созданную для седана EQS. Именно донорская платформа стала фундаментом: от неё X296 унаследовал <b>536</b> л.с. и архитектуру <i>Modular Electric Drive</i>, адаптировав её под вес <b>трёх рядов</b> пассажиров.\n\n⚡ На платформе <i>EQS V297</i> EQS SUV X296 достигает <b>536</b> л.с., уступая в мощности конкуренту iX xDrive50 (<b>536</b> л.с. против <b>500</b> л.с.), но выигрывает в плотности размещения — три ряда на базе четырёхмоторного привода против двухмоторного у BMW.\n\n🔮 В <b>2028</b> году Mercedes анонсирует версию с <i>800-вольтовой архитектурой</i>, позволяющей заряжать <b>200</b> км за <b>15</b> минут — логичное развитие платформы <i>EQS V297</i> в сфере быстрой зарядки.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-benz-eqs-400-4matic-130-6952917695153.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-mercedes-benz-eqs-suv-2027",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "publishedAt": "2026-10-28T05:04:24.420Z"
     },
     {
       "modelKey": "dodge__mopar-charger__2027",
@@ -202,6 +247,22 @@
       "teaserSentAt": "2026-10-28T02:05:11.321Z"
     },
     {
+      "modelKey": "aston_martin__valhalla-spider__2028",
+      "id": "ncs-aston_martin-2028-valhalla_spider",
+      "brand": "Aston Martin",
+      "brandSlug": "aston_martin",
+      "name": "Aston Martin Valhalla Spider",
+      "fullName": "2028 Aston Martin Valhalla Spider",
+      "year": 2028,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1913</b> году <b>Robert Bamford</b> и <b> Lionel Martin</b> ознаменовали основу Aston Martin, но настоящий перелом прозвучал в <b>1966</b> году, когда <i>DB4 GT Zagato</i> покорил 24-часовные гонки Ле-Мана с <b>190 миль/ч</b> на прямой. Это был не просто спорткар — это заявка на связь скорости с открытым небом, которая молча ждала своего прорыва на <b>60 лет</b> спустя.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <i>DB4 GT Zagato</i> к <i>Valhalla Coupe</i> — путь через <b>1079PS</b>, где гибридный <i>4.0V8</i> с двумя турбинами стал пиратом традиций: <b>1100Nm</b> крутящего момента в корпусе весом <b>1450kg</b>. От этих <b>1079PS</b> до <b>2028</b> года — парадигма сменилась с карбюраторов на <i>AMPT</i>-оптимизированные аэродинамику.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n<i>Valhalla Spider</i> — первый открытый <i>mid-engined</i> суперкар Aston Martin, но её <b>1079PS</b> против <b>828PS</b> у <i>Porsche 911 GT3 RS</i> (<b>2022</b>) — это не гонка цифр, а утверждение гибридной силы над чистым атмосферным дыханием.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030</b> году <i>Valhalla Spider</i> станет эталоном для электрогибридов с активной аэродинамикой от <i>AMPT</i>, а её <b>1100Nm</b> вдохновят на серийные <i>F1-inspired</i> модели без крыши.",
+      "imageUrl": "https://www.netcarshow.com/Aston_Martin-Valhalla_Spider-2028-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-aston_martin-2028-valhalla_spider",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-10-28T02:04:48.616Z",
+      "teaserSentAt": "2026-10-28T02:04:50.333Z"
+    },
+    {
       "modelKey": "astonmartin__valhalla__2028",
       "id": "cad-aston-martin-valhalla-2028",
       "brand": "Aston Martin",
@@ -215,21 +276,6 @@
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
       "publishedAt": "2026-10-28T02:04:26.015Z"
-    },
-    {
-      "modelKey": "mercedes__eqs__2027",
-      "id": "cad-mercedes-benz-eqs-suv-2027",
-      "brand": "Mercedes-Benz",
-      "brandSlug": "mercedes-benz",
-      "name": "2027 Mercedes-Benz EQS SUV",
-      "fullName": "2027 Mercedes-Benz EQS SUV",
-      "year": 2027,
-      "story": "🏛 <b>2027</b> году команда разработчиков EQS SUV X296 столкнулась с ключевой проблемой — как разместить <b>три ряда салона</b> на платформе, рассчитанной на два. Решение крылось не в удлинении кузова, а в перераспределении пространства под батареи, что потребовало перестройки логики расположения аккумуляторных модулей.\n\n🧬 Этот вызов решался через платформу <i>EQS V297</i>, созданную для седана EQS. Именно донорская платформа стала фундаментом: от неё X296 унаследовал <b>536</b> л.с. и архитектуру <i>Modular Electric Drive</i>, адаптировав её под вес <b>трёх рядов</b> пассажиров.\n\n⚡ На платформе <i>EQS V297</i> EQS SUV X296 достигает <b>536</b> л.с., уступая в мощности конкуренту iX xDrive50 (<b>536</b> л.с. против <b>500</b> л.с.), но выигрывает в плотности размещения — три ряда на базе четырёхмоторного привода против двухмоторного у BMW.\n\n🔮 В <b>2028</b> году Mercedes анонсирует версию с <i>800-вольтовой архитектурой</i>, позволяющей заряжать <b>200</b> км за <b>15</b> минут — логичное развитие платформы <i>EQS V297</i> в сфере быстрой зарядки.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2026-mercedes-benz-eqs-400-4matic-130-6952917695153.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-mercedes-benz-eqs-suv-2027",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-28T05:04:24.420Z"
     },
     {
       "modelKey": "lamborghini__revuelto__2027",
@@ -262,6 +308,21 @@
       "publishedAt": "2026-10-27T23:04:31.632Z"
     },
     {
+      "modelKey": "kia__ev6__2027",
+      "id": "cad-kia-ev6-2027",
+      "brand": "Kia",
+      "brandSlug": "kia",
+      "name": "2027 Kia EV6",
+      "fullName": "2027 Kia EV6",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1993</b> году Kia выпустила <i>Sportage I</i>, а к <b>2004</b> уже предложила шесть моделей одновременно — от <i>Rio II</i> до <i>Carnival</i>. За <b>31</b> лет бренд прошёл путь от нишевого производителя до глобального игрока электромобилей.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <b>120</b> л.с. в <i>Sportage I</i> (1993) до <b>325</b> л.с. в <i>Sportage II</i> (2004) — каждое поколение прибавляло в среднем <b>68</b> лошадиных сил. <i>E6</i> (2022) вывела мощность на <b>520</b> л.с., а к <b>2027</b> Kia обещает достичь <b>600</b> л.с. в новой версии EV6.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nС <b>510</b> л.с. и <b>77,4</b> кВт·ч батареи EV6 обгоняет Tesla Model Y Long Range (<b>394</b> л.с.) на разгрузке, сохранив <b>100</b> км пробега больше при полной зарядке.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2028</b> Kia запустит <i>통합차체</i>-платформу с <b>800</b> Вт батареями, а к <b>2030</b> EV6 станет первой моделью с <b>1000</b> л.с. и <b>5</b>-минутной зарядкой.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-kia-ev6-pr-120-673f77bb93f5f.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-kia-ev6-2027",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "publishedAt": "2026-10-27T20:05:31.805Z"
+    },
+    {
       "modelKey": "jeep__gladiator-35-inch-tire__2027",
       "id": "rat-news-a74262119-2027-jeep-gladiator-35-inch-tire-2ad74a",
       "brand": "Jeep",
@@ -278,22 +339,6 @@
       "teaserSentAt": "2026-10-27T20:05:13.084Z"
     },
     {
-      "modelKey": "audi__q9-first-__2027",
-      "id": "td-car-reviews-2027-audi-q9-first-drive-review",
-      "brand": "Audi",
-      "brandSlug": "audi",
-      "name": "2027 Audi Q9 First-Drive",
-      "fullName": "2027 Audi Q9 First-Drive",
-      "year": 2027,
-      "story": "<b>1978</b> Audi представил <i>Audi 80 B2</i>, а в <b>1980</b> — революционный <i>Quattro Ur</i>, задавший вектор полного привода. Через <b>47 лет</b> эти корни привели к <b>2027</b> Q9 — крупнейшему SUV в истории бренда с тремя рядами и ценой от <b>$89 095</b>.\n\nЭволюция шла от <i>80 B1</i> (<b>1972</b>) к <i>Quattro Group B</i> (<b>1982</b>), накопившись в <i>80 B3</i> (<b>1986</b>), где технологии и дизайн срослись. Этот путь — от компактного седана к легендарному кроссоверу с V6 и V8 — стал фундаментом для мощного турбированного силового агрегата Q9, унаследованного от <i>SQ9</i>.\n\n<b>690</b> л.с. <i>SQ9</i> против <b>617</b> л.с. <i>BMW X7 M60i</i> — Audi выигрывает в крутящем моменте <b>850</b> Н·м и объёме третьего ряда. Этот скачок — результат полумьесяца инженерной эволюции, начатой ещё с <i>Quattro Ur</i>.\n\nК <b>2030</b> Q9 получит гибридный силовой агрегат мощностью <b>450</b> л.с., устранив слепую зону на рынке США, где спрос на экологичные премиум-SUV растёт вдвое быстрее, чем на обычные модели.",
-      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/10/untitled-0447_6afce2-e1793028067850-copy.jpg?quality=85",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/td-car-reviews-2027-audi-q9-first-drive-review",
-      "source": "thedrive",
-      "sourceLabel": "The Drive",
-      "publishedAt": "2026-10-28T05:04:47.312Z",
-      "teaserSentAt": "2026-10-28T05:04:49.034Z"
-    },
-    {
       "modelKey": "audi__sq9-delivers-american-size__2027",
       "id": "rat-reviews-a74218482-the-2027-audi-sq9-delivers-862af1",
       "brand": "Audi",
@@ -308,21 +353,6 @@
       "sourceLabel": "Road & Track",
       "publishedAt": "2026-10-27T20:04:42.299Z",
       "teaserSentAt": "2026-10-27T20:04:44.040Z"
-    },
-    {
-      "modelKey": "kia__ev9__2027",
-      "id": "motor1-news-813545-2027-kia-ev9-pricing-torque",
-      "brand": "Kia",
-      "brandSlug": "kia",
-      "name": "2027 Kia EV9",
-      "fullName": "2027 Kia EV9",
-      "year": 2027,
-      "story": "<b>2021</b> года в Киа взяли концептуальный кроссовер и превратили его в реальный EV9 — но с того же подходом, что и в Hyundai IONIQ 9: бренд-донор стал близнецом по платформе.\n\n🧬 <b>Эволюция</b> началась не с нуля — EV9 (2023) получил <b>379</b> л.с. и пошёл в эволюцию через GT-версию с <b>501</b> л.с., но уже в <b>2027</b> году Kia поднял мощность до нового уровня, не меняя архитектуры.  \n\n⚡ <b>Особенность</b> — это когда <b>Kia EV9</b> стоит от <b>$56 635</b>, а его технический близнец — Hyundai IONIQ 9 — стартует на <b>$70 000</b>+. Тот же 800-вольтовый заряд, тот же трёхрядный салон, но другой имидж — и цена.  \n\n🔮 <b>2028</b> год: Kia запустит GT-версию EV9 с <i>통합몰티</i>-платформы, а Hyundai ответит тем же — просто с другой маской.",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/AkOPEO/s3/2027-kia-ev9.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/model/kia-ev9",
-      "source": "motor1",
-      "sourceLabel": "Motor1",
-      "publishedAt": "2026-10-28T13:19:12.849Z"
     },
     {
       "modelKey": "mazda__cx-90-lineup__2027",
@@ -432,21 +462,6 @@
       "teaserSentAt": "2026-10-27T02:04:59.568Z"
     },
     {
-      "modelKey": "kia__ev6__2027",
-      "id": "cad-kia-ev6-2027",
-      "brand": "Kia",
-      "brandSlug": "kia",
-      "name": "2027 Kia EV6",
-      "fullName": "2027 Kia EV6",
-      "year": 2027,
-      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1993</b> году Kia выпустила <i>Sportage I</i>, а к <b>2004</b> уже предложила шесть моделей одновременно — от <i>Rio II</i> до <i>Carnival</i>. За <b>31</b> лет бренд прошёл путь от нишевого производителя до глобального игрока электромобилей.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <b>120</b> л.с. в <i>Sportage I</i> (1993) до <b>325</b> л.с. в <i>Sportage II</i> (2004) — каждое поколение прибавляло в среднем <b>68</b> лошадиных сил. <i>E6</i> (2022) вывела мощность на <b>520</b> л.с., а к <b>2027</b> Kia обещает достичь <b>600</b> л.с. в новой версии EV6.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nС <b>510</b> л.с. и <b>77,4</b> кВт·ч батареи EV6 обгоняет Tesla Model Y Long Range (<b>394</b> л.с.) на разгрузке, сохранив <b>100</b> км пробега больше при полной зарядке.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2028</b> Kia запустит <i>통합차체</i>-платформу с <b>800</b> Вт батареями, а к <b>2030</b> EV6 станет первой моделью с <b>1000</b> л.с. и <b>5</b>-минутной зарядкой.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-kia-ev6-pr-120-673f77bb93f5f.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-kia-ev6-2027",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-27T20:05:31.805Z"
-    },
-    {
       "modelKey": "lamborghini__revuelto-sv__2027",
       "id": "cad-photos-a74218841-2027-lamborghini-revuelto-sv-drive-cee4e9",
       "brand": "Lamborghini",
@@ -491,6 +506,21 @@
       "sourceLabel": "Electrek",
       "publishedAt": "2026-10-26T20:04:27.361Z",
       "teaserSentAt": "2026-10-26T20:04:29.111Z"
+    },
+    {
+      "modelKey": "bmw__x5__2027",
+      "id": "ncs-bmw-2027-x5",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "BMW X5",
+      "fullName": "2027 BMW X5",
+      "year": 2027,
+      "story": "<b>1968</b> года BMW выпустил 2002 tii — легендарный спортивный седан с 170 л.с., задним приводом и карбюратором, ставший основой для первых автогонов в США. Через <b>1971</b> появился 3.0 CSL с 200 л.с. и аэродинамикой, установившей рекорд на Nürburgring. Эти решения создали дух BMW — легкость, мощность, инженерный юмор.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nС тех пор маркеджинговый вызов — сделать внедорожник не просто практичным, а динамичным — решали через <i>E12</i>, <i>E21</i>, <i>E24</i>, <i>E23</i>. <b>1999</b> год принёс первый X5 с 220 л.с. и задне- и передним приводом, продав <b>7</b> млн копий за 25 лет.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nВ <b>2027</b> X5 становится первой BMW с пятью типами движения — бензин, дизель, гибрид, водород, электро. BMW iX5 xDrive даёт <b>570</b> л.с. и <b>593</b> фунт-фунтов крутящего момента, разгон до <b>60</b> миль/ч за <b>4.4</b> секунды, пробег до <b>450</b> миль. Это больше, чем у Mercedes GLE 2026 (420 л.с., 350 миль), но хуже Tesla Model X Plaid (1020 л.с., 340 миль).  \n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030</b> X5 станет полностью электрическим, а водородные версии исчезнут с рынка. Новая платформа <i>Neue Klasse</i> станет основой для всех моделей BMW.",
+      "imageUrl": "https://www.netcarshow.com/BMW-X5-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-bmw-2027-x5",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-10-26T17:06:44.731Z"
     },
     {
       "modelKey": "nissan__pathfinder-special-edition__2027",
@@ -541,6 +571,21 @@
       "teaserSentAt": "2026-10-26T14:04:16.740Z"
     },
     {
+      "modelKey": "bmw__ix5__2027",
+      "id": "ncs-bmw-2027-ix5",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "BMW iX5",
+      "fullName": "2027 BMW iX5",
+      "year": 2027,
+      "story": "<b>1968</b> BMW 2002 tii задавал тон спортивным пропорциям — но вот в чём главный инженерный вызов: как сохранить динамику и управляемость, не теряя при этом климат-контроль и комфорт для пяти пассажиров?\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nС <b>1968</b> до <b>2027</b> года эволюция шла через <i>E12</i>, <i>E21</i>, <i>E24</i>, <i>E23</i> — каждое поколение прибавляло вес и мощность. Но <b>570</b> сил и <b>593</b> фунт-футов крутящего момента в <i>iX5 60 xDrive</i> стали переломным моментом: два электромотора — на каждом мосту.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nТот же вызов решил иначе: вместо опоры на ДВС, BMW перешла на полный электропривод с <i>Neue Klasse</i>. В отличие от <b>Mercedes EQS SUV</b> с <b>518</b> силами, <i>iX5</i> даёт <b>570</b> сил и разгон <b>до 60</b> миль/ч за <b>4.4</b> секунды — это не просто мощь, а точность распределения крутящего момента.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030</b> году <i>Neue Klasse</i> станет основой для всех моделей BMW — и полностью заменит ДВС в линейке X5.",
+      "imageUrl": "https://www.netcarshow.com/BMW-iX5-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-bmw-2027-ix5",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-10-26T08:04:23.848Z"
+    },
+    {
       "modelKey": "bmw__i7__2027",
       "id": "ncs-bmw-2027-i7",
       "brand": "BMW",
@@ -571,6 +616,22 @@
       "sourceLabel": "Carscoops",
       "publishedAt": "2026-10-24T20:04:25.215Z",
       "teaserSentAt": "2026-10-24T20:04:26.975Z"
+    },
+    {
+      "modelKey": "bmw__ix5-xdrive-proves__2027",
+      "id": "rat-reviews-a74229222-2027-bmw-ix5-60-xdrive-drive-review",
+      "brand": "BMW",
+      "brandSlug": "bmw",
+      "name": "2027 BMW iX5 60 xDrive",
+      "fullName": "2027 BMW iX5 60 xDrive",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1988 году</b> немецкий автопроизводитель представил первый серийный внедорожник BMW — <i>E30 X5</i>, ставший символом перехода массового потребителя к комфорту и статусу. Спустя <b>35 лет</b> эта линейность эволюционировала в электромобили, где <b>2027 BMW iX5 60 xDrive</b> стал первой моделью с чисто электрическим приводом, сохранив наследие X5 в эпоху углеродного следа.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <b>2,0-литрового турбированного четырёхцилиндрового двигателя</b> <i>B48</i> с <b>248 л.с.</b> в <i>X5 xDrive40i</i> до <b>579 л.с.</b> и <b>593 фунт-футов крутящего момента</b> в <b>iX5 60 xDrive</b>, где батарея объёмом <b>144 кВт·ч</b> заменяет бензиновый бак. Наследуя платформу <i>CLAR</i>, но перейдя на <i>iDrive 9</i>, модель прибавила <b>1 200 фунтов</b> к массе, достигнув <b>6 400 фунтов</b>.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nС <b>0–60 миль/ч за 4,59 секунды</b>, <b>iX5</b> обгоняет <i>iX xDrive60</i> (<b>517 л.с.</b>) и приближается к <i>Tesla Model X Plaid</i> (<b>1 020 л.с.</b>), сохраняя плавность хода благодаря <i>пневмоподвеске</i>. В отличие от <i>Audi e-tron GT</i> (<b>470 л.с.</b>), <b>iX5</b> предлагает <b>460 кВт быстрой зарядки</b>, приближаясь к уровню <i>Porsche Taycan</i>.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030 году</b> BMW заменит половину линейки на электромобили с <i>твердоэлектролитными батареями</i>. Рост спроса на внедорожники с <b>500+ л.с.</b> и <b>600+ км пробега</b> подаст мотор в <b>iX5</b>-потомках с <b>800-вольтовой архитектурой</b>.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c9659f4c-3d39-47aa-a665-ac9f87c0bea2.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/rat-reviews-a74229222-2027-bmw-ix5-60-xdrive-drive-review",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "publishedAt": "2026-10-24T14:04:25.417Z",
+      "teaserSentAt": "2026-10-24T14:04:27.153Z"
     },
     {
       "modelKey": "bmw__7-series__2027",
@@ -616,22 +677,6 @@
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
       "publishedAt": "2026-10-24T08:06:03.952Z"
-    },
-    {
-      "modelKey": "bmw__ix5-xdrive-proves__2027",
-      "id": "rat-reviews-a74229222-2027-bmw-ix5-60-xdrive-drive-review",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "2027 BMW iX5 60 xDrive",
-      "fullName": "2027 BMW iX5 60 xDrive",
-      "year": 2027,
-      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1988 году</b> немецкий автопроизводитель представил первый серийный внедорожник BMW — <i>E30 X5</i>, ставший символом перехода массового потребителя к комфорту и статусу. Спустя <b>35 лет</b> эта линейность эволюционировала в электромобили, где <b>2027 BMW iX5 60 xDrive</b> стал первой моделью с чисто электрическим приводом, сохранив наследие X5 в эпоху углеродного следа.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <b>2,0-литрового турбированного четырёхцилиндрового двигателя</b> <i>B48</i> с <b>248 л.с.</b> в <i>X5 xDrive40i</i> до <b>579 л.с.</b> и <b>593 фунт-футов крутящего момента</b> в <b>iX5 60 xDrive</b>, где батарея объёмом <b>144 кВт·ч</b> заменяет бензиновый бак. Наследуя платформу <i>CLAR</i>, но перейдя на <i>iDrive 9</i>, модель прибавила <b>1 200 фунтов</b> к массе, достигнув <b>6 400 фунтов</b>.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nС <b>0–60 миль/ч за 4,59 секунды</b>, <b>iX5</b> обгоняет <i>iX xDrive60</i> (<b>517 л.с.</b>) и приближается к <i>Tesla Model X Plaid</i> (<b>1 020 л.с.</b>), сохраняя плавность хода благодаря <i>пневмоподвеске</i>. В отличие от <i>Audi e-tron GT</i> (<b>470 л.с.</b>), <b>iX5</b> предлагает <b>460 кВт быстрой зарядки</b>, приближаясь к уровню <i>Porsche Taycan</i>.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030 году</b> BMW заменит половину линейки на электромобили с <i>твердоэлектролитными батареями</i>. Рост спроса на внедорожники с <b>500+ л.с.</b> и <b>600+ км пробега</b> подаст мотор в <b>iX5</b>-потомках с <b>800-вольтовой архитектурой</b>.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c9659f4c-3d39-47aa-a665-ac9f87c0bea2.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/rat-reviews-a74229222-2027-bmw-ix5-60-xdrive-drive-review",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
-      "publishedAt": "2026-10-24T14:04:25.417Z",
-      "teaserSentAt": "2026-10-24T14:04:27.153Z"
     },
     {
       "modelKey": "bmw__ix3__2027",
@@ -712,36 +757,6 @@
       "publishedAt": "2026-10-23T06:21:31.647Z"
     },
     {
-      "modelKey": "bmw__x5__2027",
-      "id": "ncs-bmw-2027-x5",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "BMW X5",
-      "fullName": "2027 BMW X5",
-      "year": 2027,
-      "story": "<b>1968</b> года BMW выпустил 2002 tii — легендарный спортивный седан с 170 л.с., задним приводом и карбюратором, ставший основой для первых автогонов в США. Через <b>1971</b> появился 3.0 CSL с 200 л.с. и аэродинамикой, установившей рекорд на Nürburgring. Эти решения создали дух BMW — легкость, мощность, инженерный юмор.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nС тех пор маркеджинговый вызов — сделать внедорожник не просто практичным, а динамичным — решали через <i>E12</i>, <i>E21</i>, <i>E24</i>, <i>E23</i>. <b>1999</b> год принёс первый X5 с 220 л.с. и задне- и передним приводом, продав <b>7</b> млн копий за 25 лет.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nВ <b>2027</b> X5 становится первой BMW с пятью типами движения — бензин, дизель, гибрид, водород, электро. BMW iX5 xDrive даёт <b>570</b> л.с. и <b>593</b> фунт-фунтов крутящего момента, разгон до <b>60</b> миль/ч за <b>4.4</b> секунды, пробег до <b>450</b> миль. Это больше, чем у Mercedes GLE 2026 (420 л.с., 350 миль), но хуже Tesla Model X Plaid (1020 л.с., 340 миль).  \n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030</b> X5 станет полностью электрическим, а водородные версии исчезнут с рынка. Новая платформа <i>Neue Klasse</i> станет основой для всех моделей BMW.",
-      "imageUrl": "https://www.netcarshow.com/BMW-X5-2027-wallpaper.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-bmw-2027-x5",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "publishedAt": "2026-10-26T17:06:44.731Z"
-    },
-    {
-      "modelKey": "bmw__ix5__2027",
-      "id": "ncs-bmw-2027-ix5",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "BMW iX5",
-      "fullName": "2027 BMW iX5",
-      "year": 2027,
-      "story": "<b>1968</b> BMW 2002 tii задавал тон спортивным пропорциям — но вот в чём главный инженерный вызов: как сохранить динамику и управляемость, не теряя при этом климат-контроль и комфорт для пяти пассажиров?\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nС <b>1968</b> до <b>2027</b> года эволюция шла через <i>E12</i>, <i>E21</i>, <i>E24</i>, <i>E23</i> — каждое поколение прибавляло вес и мощность. Но <b>570</b> сил и <b>593</b> фунт-футов крутящего момента в <i>iX5 60 xDrive</i> стали переломным моментом: два электромотора — на каждом мосту.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nТот же вызов решил иначе: вместо опоры на ДВС, BMW перешла на полный электропривод с <i>Neue Klasse</i>. В отличие от <b>Mercedes EQS SUV</b> с <b>518</b> силами, <i>iX5</i> даёт <b>570</b> сил и разгон <b>до 60</b> миль/ч за <b>4.4</b> секунды — это не просто мощь, а точность распределения крутящего момента.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030</b> году <i>Neue Klasse</i> станет основой для всех моделей BMW — и полностью заменит ДВС в линейке X5.",
-      "imageUrl": "https://www.netcarshow.com/BMW-iX5-2027-wallpaper.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-bmw-2027-ix5",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "publishedAt": "2026-10-26T08:04:23.848Z"
-    },
-    {
       "modelKey": "subaru__outback__2027",
       "id": "cad-news-a74218284-2027-subaru-outback-pricing-new-base-model",
       "brand": "Subaru",
@@ -755,6 +770,21 @@
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
       "publishedAt": "2026-10-23T05:05:27.096Z"
+    },
+    {
+      "modelKey": "ford__mustang-mach-e-trail__2027",
+      "id": "ncs-ford-2027-mustang_mach-e_trail",
+      "brand": "Ford",
+      "brandSlug": "ford",
+      "name": "Ford Mustang Mach-E Trail",
+      "fullName": "2027 Ford Mustang Mach-E Trail",
+      "year": 2027,
+      "story": "<b>1964</b> года в дни рождения <b>Джорджа Луя Саттерса</b> — одного из создателей первого <i>Chevrolet Corvair</i> — был запущен в производство <b>Chevrolet CERV I</b>, прототип спорткара с <b>195</b> л.с., задней компоновкой и карбюратором, способный развивать <b>240</b> км/ч. В тот же год <b>Форд</b> выпустил <b>Mustang</b> первого поколения, продав <b>418</b> тыс. машин за дебютный год. Это стало толчком к войне за клиентов, где каждая марка пыталась выделиться не только цифрами, но и характером.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nИменно с тех пор, от этих <b>240</b> км/ч до сегодняшнего <b>2027</b> Ford Mustang Mach-E Trail, эволюция шла через пересечение границ — открытая дорога уступила место бездорожью. Mach-E Trail продолжает линейку <i>Mach-E</i>, начатую в <b>2020</b>, но добавляет <b>+38</b> мм клиренса и адаптированную подвеску, чтобы превратить электромобиль в инструмент для <b>gravel</b>, песка и снега.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nВ то время как <b>Tesla Model Y</b> сохраняет <b>162</b> мм клиренса и нацелена на комфорт, Mustang Mach-E Trail поднимается до <b>200</b> мм, используя ту же подвеску, что и <i>Mach-E Rally</i>, и шины Michelin CrossClimate 2, обеспечивая сцепление даже на <b>-30°C</b>. Это прямой ответ на растущий тренд внеасфальтового комфорта, который Tesla пока не решает.  \n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2029</b> году конкуренты, включая Hyundai и Kia, запустят аналогичные модели с адаптивной подвеской и защитой днищя. Но именно Ford задаст стандарт: <b>Trail</b>-подвеска станет базой для всей линейки Mach-E, превратив Mustang в платформу для настоящих приключений.",
+      "imageUrl": "https://www.netcarshow.com/Ford-Mustang_Mach-E_Trail-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-ford-2027-mustang_mach-e_trail",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-10-23T02:06:56.172Z"
     },
     {
       "modelKey": "cadillac__escalade-v-125th-anniversary__2027",
@@ -771,21 +801,6 @@
       "sourceLabel": "NetCarShow",
       "publishedAt": "2026-10-23T02:05:23.436Z",
       "teaserSentAt": "2026-10-23T02:05:23.436Z"
-    },
-    {
-      "modelKey": "ford__mustang-mach-e-trail__2027",
-      "id": "ncs-ford-2027-mustang_mach-e_trail",
-      "brand": "Ford",
-      "brandSlug": "ford",
-      "name": "Ford Mustang Mach-E Trail",
-      "fullName": "2027 Ford Mustang Mach-E Trail",
-      "year": 2027,
-      "story": "<b>1964</b> года в дни рождения <b>Джорджа Луя Саттерса</b> — одного из создателей первого <i>Chevrolet Corvair</i> — был запущен в производство <b>Chevrolet CERV I</b>, прототип спорткара с <b>195</b> л.с., задней компоновкой и карбюратором, способный развивать <b>240</b> км/ч. В тот же год <b>Форд</b> выпустил <b>Mustang</b> первого поколения, продав <b>418</b> тыс. машин за дебютный год. Это стало толчком к войне за клиентов, где каждая марка пыталась выделиться не только цифрами, но и характером.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nИменно с тех пор, от этих <b>240</b> км/ч до сегодняшнего <b>2027</b> Ford Mustang Mach-E Trail, эволюция шла через пересечение границ — открытая дорога уступила место бездорожью. Mach-E Trail продолжает линейку <i>Mach-E</i>, начатую в <b>2020</b>, но добавляет <b>+38</b> мм клиренса и адаптированную подвеску, чтобы превратить электромобиль в инструмент для <b>gravel</b>, песка и снега.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nВ то время как <b>Tesla Model Y</b> сохраняет <b>162</b> мм клиренса и нацелена на комфорт, Mustang Mach-E Trail поднимается до <b>200</b> мм, используя ту же подвеску, что и <i>Mach-E Rally</i>, и шины Michelin CrossClimate 2, обеспечивая сцепление даже на <b>-30°C</b>. Это прямой ответ на растущий тренд внеасфальтового комфорта, который Tesla пока не решает.  \n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2029</b> году конкуренты, включая Hyundai и Kia, запустят аналогичные модели с адаптивной подвеской и защитой днищя. Но именно Ford задаст стандарт: <b>Trail</b>-подвеска станет базой для всей линейки Mach-E, превратив Mustang в платформу для настоящих приключений.",
-      "imageUrl": "https://www.netcarshow.com/Ford-Mustang_Mach-E_Trail-2027-wallpaper.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-ford-2027-mustang_mach-e_trail",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "publishedAt": "2026-10-23T02:06:56.172Z"
     },
     {
       "modelKey": "ford__ranger-models__2027",
@@ -863,5 +878,5 @@
       "publishedAt": "2026-10-22T02:04:21.250Z"
     }
   ],
-  "updatedAt": "2026-10-31T02:04:40.552Z"
+  "updatedAt": "2026-11-18T07:14:25.682Z"
 }

@@ -545,7 +545,8 @@
     "cad-nissan-rogue-hybrid",
     "rat-reviews-a74296222-tested-2027-bmw-i3-50-xdrive",
     "cad-photos-a74273370-2027-bmw-i3-drive-interior-gallery",
-    "rat-news-a74333411-2027-toyota-sequoia-refresh-details"
+    "rat-news-a74333411-2027-toyota-sequoia-refresh-details",
+    "cad-lexus-es"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -1964,9 +1965,10 @@
       "hasPhoto": true,
       "channelId": "-1004476377905",
       "ids": [
-        "cad-shopping-advice-a73456129-lexus-es-vs-toyota-crown-what-to-b"
+        "cad-shopping-advice-a73456129-lexus-es-vs-toyota-crown-what-to-b",
+        "cad-lexus-es"
       ],
-      "updatedAt": "2026-08-25T23:04:56.604Z"
+      "updatedAt": "2026-11-18T07:14:25.684Z"
     },
     "dodge__glh__2028": {
       "messageId": 123,
@@ -3612,6 +3614,6 @@
       "updatedAt": "2026-10-30T20:04:32.063Z"
     }
   },
-  "updatedAt": "2026-11-16T05:57:09.880Z",
-  "total": 546
+  "updatedAt": "2026-11-18T07:14:25.684Z",
+  "total": 547
 }
