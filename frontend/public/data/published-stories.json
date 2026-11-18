@@ -1,6 +1,66 @@
 {
   "stories": [
     {
+      "modelKey": "audi__nuvolari__2028",
+      "id": "ncs-audi-2028-nuvolari",
+      "brand": "Audi",
+      "brandSlug": "audi",
+      "name": "Audi Nuvolari",
+      "fullName": "2028 Audi Nuvolari",
+      "year": 2028,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ 2006‑м <i>R8 Typ 42</i> с <b>420 л.с.</b> инженеры впервые столкнулись с ограничением традиционного V8‑клада в компактном купе‑шасси.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nК 2015‑му <i>R8 Typ 4S</i> мощность выросла до <b>540 л.с.</b>, но потребность в более эффективном управлении теплом и весом усилилась, подталкивая к гибридному решению.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n2028‑й <i>Audi Nuvolari</i> объединил <b>736 kW</b> (<b>1001 л.с.</b>) гибридный V8 4.0 L biturbo, требуя новой архитектуры, способной разместить батарею, электромоторы и систему охлаждения без ущерба аэродинамике, что стало главным инженерным вызовом.  \n\n🔮 <b>ПРОГНОЗ</b>\nВероятно, будущие модели будут использовать модульные гибридные подрамники, позволяющие масштабировать эту упаковку без потери динамики.",
+      "imageUrl": "https://www.netcarshow.com/Audi-Nuvolari-2028-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/ncs-audi-2028-audi-nuvolari",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-11-18T13:46:28.147Z"
+    },
+    {
+      "modelKey": "genesis__gv80-hybrid__2028",
+      "id": "cad-genesis-gv80-hybrid",
+      "brand": "Genesis",
+      "brandSlug": "genesis",
+      "name": "2028 Genesis GV80 Hybrid",
+      "fullName": "2028 Genesis GV80 Hybrid",
+      "year": 2028,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nСамый «зеленый» SUV‑рынок в 2021‑м году появился, когда <b>GV80</b> с <b>375 л.с.</b> вышел на базу, а уже в 2013‑м <i>Santa Fe DM</i> стал его тайным вдохновителем.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <b>375 л.с.</b> к <b>409 л.с.</b> в <i>GV80 Coupe</i>, а затем <b>GV80</b> «перешагнул» к <i>GV90</i> и к <i>X Concept</i>, каждый из которых лишь подмигивает будущей гибридной версии.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n2027‑й гибрид соединяет <i>2.5‑литровый турбо‑четырёхцилиндровый</i> с электромотором, давая <b>347 л.с.</b> — больше базового, но меньше «твин‑турбо» V‑6‑двигателя в оригинальном <b>375 л.с.</b>.  \n\n🔮 <b>ПРОГНОЗ</b>\nОжидаем, что эта «гибридная» связь с <i>GV90</i> и <i>X Concept</i> подтолкнёт Genesis к дальнейшему «электро‑роскоши» в премиум‑классе.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/faede420-8556-4893-a4cc-a55fff14a0d9.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/gen-gv80-1",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "publishedAt": "2026-11-18T13:45:26.183Z"
+    },
+    {
+      "modelKey": "toyota__scion-kei-01__2028",
+      "id": "cad-toyota-scion-kei-01",
+      "brand": "Toyota",
+      "brandSlug": "toyota",
+      "name": "2028 Toyota Scion KEI-01",
+      "fullName": "2028 Toyota Scion KEI-01",
+      "year": 2028,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ 1955 году <i>Toyota Crown S30</i> показал, как крупный седан может выдержать тяжёлый американский рынок, а к 1980 году <i>Land Cruiser 60</i> доказал, что надёжный внедорожник способен работать в экстремальных условиях.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nЭти уроки привели к 2026 году, когда Toyota представила <i>Scion by Toyota</i> и объявила о <i>KEI‑01</i> – праворульном LSV, ограниченном 25 миль/ч, длиной чуть более 11 футов и шириной менее 5 футов.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nГлавный инженерный вызов — разместить 660 см³ трёхцилиндровый двигатель, 4‑WD и систему безопасности LSV в корпусе, который в Японии считается «кеи», но при этом выдерживает американские нормы и грузоподъёмность 600 фунтов.  \n\n🔮 <b>ПРОГНОЗ</b>\nВероятно, дальнейшее развитие будет сосредоточено на упрощении компоновки силовой установки и усилении кузовных модулей, чтобы сохранить компактность <i>KEI‑01</i> и одновременно повысить надёжность для американских флотов.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/36ff7f58-7d24-4b3e-995f-f499e6b5614d.png",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-toyota-scion-kei-01",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "publishedAt": "2026-11-18T13:44:27.098Z"
+    },
+    {
+      "modelKey": "ford__mustang-cobra__2028",
+      "id": "cad-news-a74425789-2028-ford-mustang-cobra-future-cars",
+      "brand": "Ford",
+      "brandSlug": "ford",
+      "name": "2028 Ford Mustang Cobra",
+      "fullName": "2028 Ford Mustang Cobra",
+      "year": 2028,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ 1964‑м году <b>Mustang Gen.1</b> с <b>271 л.с.</b> ворвался в эпоху молодёжных «pony cars», а уже через три года <b>Mercury Cougar Gen.1</b> использовал тот же шасси, показывая, как Ford делил платформу между более «элитным» Mercury и «бунтарским» Mustang.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт 1974‑го <b>Mustang II</b> в <b>139 л.с.</b> к 2005‑му <b>S197</b> с <b>300 л.с.</b> наблюдался рост мощности, а варианты <i>Shelby GT350</i> 306 л.с., <i>Boss 302</i> 290 л.с. и <i>Boss 429</i> 375 л.с. подчеркивали стремление к трек‑ориентированности.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n2028‑й <b>Mustang Cobra</b> возвращает название, используя натур‑аспирированный <b>5.4‑л V‑8</b> с «flat‑plane», тем самым соединяя наследие 1960‑х с современным «race‑derived» характером, контрастируя с более «домашним» Cougar‑подходом.  \n\n🔮 <b>ПРОГНОЗ</b>\nВероятно, будущие модели сохранят «flat‑plane» V‑8, усиливая связь между «бунтарским» Mustang и «элитным» наследием Mercury в новых кросс‑брендовых проектах.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6722cd71-0f94-4dc2-a361-89c21b889153.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/ford-mustang-1",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "publishedAt": "2026-11-18T13:43:35.781Z"
+    },
+    {
       "modelKey": "lexus__es__2027",
       "id": "cad-lexus-es",
       "brand": "Lexus",
@@ -861,22 +921,7 @@
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
       "publishedAt": "2026-10-22T02:04:37.209Z"
-    },
-    {
-      "modelKey": "mercedes__mercedes-amg-gls63__2027",
-      "id": "cad-photos-a74182251-2027-mercedes-amg-gls63-drive-gallery",
-      "brand": "Mercedes",
-      "brandSlug": "mercedes",
-      "name": "2027 Mercedes-AMG GLS63",
-      "fullName": "2027 Mercedes-AMG GLS63",
-      "year": 2027,
-      "story": "🏛 ИСТОРИЕЙ стало то, что в <b>2012</b> году <i>BMW X5 M</i> вывел на рынок <b>560</b> л.с., заставив «Мерседес» пересмотреть AMG GLS63: с <b>585</b> л.с. в <b>2017</b> до <b>612</b> л.с. в <b>2027</b>. Этот рост — не случайность, а ответ на давление конкурентов и потребителей спортивных внедорожников.\n\n🧬 ЭВОЛЮЦИЯ шла через три ключевых скачка: <b>2017</b> — <b>585</b> л.с., <b>2021</b> — <b>600</b> л.с., <b>2027</b> — <b>612</b> л.с. Каждое поколение прибавляло мощности, сохраняя рамочный кузов, в отличие от каркасельных конструкций у <i>X5 M</i>. Последний скачок до <b>612</b> л.с. стал фундаментом для новой философии силового агрегата.\n\n⚡ ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ — это не просто <b>612</b> л.с., а их сочетание с <i>AMG RIDE CONTROL</i>: адаптивная подвеска, которая в <b>0,15</b> секунды реагирует на неровности, тогда как <i>X5 M</i> отстаёт на <b>0,3</b> секунды в реакции. Этот разрыв — результат накопленной эволюции, а не просто инженерной ёрзости.\n\n🔮 ПРОГНОЗ: к <b>2030</b> году <b>612</b> л.с. станут базой для гибридного V8 с <i>EQ Boost</i>, а конкуренция с <i>X5 M50i</i> вынудит «Мерседес» запустить версию с >650 л.с. в <b>2032</b>.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ff0faf93-fcff-4f10-ad9f-53614bfb5ab1.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-photos-a74182251-2027-mercedes-amg-gls63-drive-gallery",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-22T02:04:21.250Z"
     }
   ],
-  "updatedAt": "2026-11-18T12:59:45.229Z"
+  "updatedAt": "2026-11-18T13:46:28.147Z"
 }

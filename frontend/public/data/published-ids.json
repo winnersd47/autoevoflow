@@ -546,7 +546,11 @@
     "rat-reviews-a74296222-tested-2027-bmw-i3-50-xdrive",
     "cad-photos-a74273370-2027-bmw-i3-drive-interior-gallery",
     "rat-news-a74333411-2027-toyota-sequoia-refresh-details",
-    "cad-lexus-es"
+    "cad-lexus-es",
+    "cad-news-a74425789-2028-ford-mustang-cobra-future-cars",
+    "cad-toyota-scion-kei-01",
+    "cad-genesis-gv80-hybrid",
+    "ncs-audi-2028-nuvolari"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -874,7 +878,10 @@
     "bmw__i3-xdrive__2027",
     "fiat__topolino__2027",
     "bmw__x5-xdrive__2027",
-    "bmw__ix5-xdrive__2027"
+    "bmw__ix5-xdrive__2027",
+    "ford__mustang-cobra__2028",
+    "toyota__scion-kei-01__2028",
+    "genesis__gv80-hybrid__2028"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -1928,9 +1935,10 @@
       "hasPhoto": true,
       "channelId": "-1004476377905",
       "ids": [
-        "cad-audi-nuvolari"
+        "cad-audi-nuvolari",
+        "ncs-audi-2028-nuvolari"
       ],
-      "updatedAt": "2026-08-25T20:04:26.915Z"
+      "updatedAt": "2026-11-18T13:46:28.148Z"
     },
     "lincoln__corsair-keeps__2027": {
       "messageId": 119,
@@ -3612,8 +3620,35 @@
         "rat-reviews-a74296222-tested-2027-bmw-i3-50-xdrive"
       ],
       "updatedAt": "2026-10-30T20:04:32.063Z"
+    },
+    "ford__mustang-cobra__2028": {
+      "messageId": 338,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74425789-2028-ford-mustang-cobra-future-cars"
+      ],
+      "updatedAt": "2026-11-18T13:43:35.785Z"
+    },
+    "toyota__scion-kei-01__2028": {
+      "messageId": 339,
+      "hasPhoto": false,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-toyota-scion-kei-01"
+      ],
+      "updatedAt": "2026-11-18T13:44:27.099Z"
+    },
+    "genesis__gv80-hybrid__2028": {
+      "messageId": 340,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-genesis-gv80-hybrid"
+      ],
+      "updatedAt": "2026-11-18T13:45:26.184Z"
     }
   },
-  "updatedAt": "2026-11-18T07:14:25.684Z",
-  "total": 547
+  "updatedAt": "2026-11-18T13:46:28.148Z",
+  "total": 551
 }

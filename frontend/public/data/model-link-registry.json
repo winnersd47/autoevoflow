@@ -22,5 +22,17 @@
     "articleId": "rat-reviews-a74296222-tested-2027-bmw-i3-50-xdrive",
     "articleTitle": "2027 BMW i3 50 xDrive",
     "usedAt": "2026-10-30T20:04:30.325Z"
+  },
+  "ford-mustang-1": {
+    "source": "caranddriver",
+    "articleId": "cad-news-a74425789-2028-ford-mustang-cobra-future-cars",
+    "articleTitle": "2028 Ford Mustang Cobra",
+    "usedAt": "2026-11-18T13:43:35.785Z"
+  },
+  "genesis-gv80": {
+    "source": "caranddriver",
+    "articleId": "cad-genesis-gv80-hybrid",
+    "articleTitle": "2028 Genesis GV80 Hybrid",
+    "usedAt": "2026-11-18T13:45:26.184Z"
   }
 }
