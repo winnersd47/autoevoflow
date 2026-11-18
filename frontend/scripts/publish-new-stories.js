@@ -23,6 +23,11 @@
  *
  * Публикует не более 3 новых моделей за запуск.
  * Хранит список опубликованных ID в public/data/published-ids.json.
+ *
+ * Качество текста: пост уходит только если он прошёл isWellFormedStory (язык, длина,
+ * название модели) И checkStoryFacts (каждая цифра с единицей и каждое название
+ * латиницей есть в данных, которые видела модель). Не прошёл — одна повторная попытка
+ * с перечнем выдуманного, затем следующий провайдер, затем пропуск до следующего прогона.
  */
 'use strict'
 const fs   = require('fs')
@@ -815,20 +820,59 @@ async function callMistral(messages) {
 // ── Groq (openai/gpt-oss-120b) ───────────────────────────────────────────────
 // Бесплатный и быстрый, но с рабочей/офисной сети Groq отдаёт 403 (блокировка на
 // уровне сети) — реально работает из GitHub Actions, где теперь и живёт публикация.
-// gpt-oss — reasoning-модель: max_tokens с запасом, иначе "размышления" съедят лимит.
+// gpt-oss — reasoning-модель: скрытые «размышления» идут в тот же лимит max_tokens.
 // Тот же вызов (эндпоинт/модель) в src/app/api/nextgen/route.ts уже проверен на проде.
+// Живой лог CI 16.11.2026 (пять запросов подряд, ни одного поста):
+//  • 3 из 5 отбиты 429 по TPM: на бесплатном тарифе (on_demand) у gpt-oss-120b 8000 токенов
+//    в минуту на ВСЮ организацию (делится с nextgen-прогнозами и другими проектами), причём
+//    Groq закладывает в расход prompt + max_tokens ещё до ответа ("Used 4031/7152/6646");
+//  • 2 прошедших вернули пустой content без ошибки: reasoning среднего уровня выедал max_tokens
+//    на подсчёт «ровно 90–110 слов» и проверку ограничений, до самого текста дело не доходило.
+// Поэтому: reasoning_effort low (как reasoning.effort в OpenRouter ниже), max_tokens по размеру
+// поста (≈100 слов), на 429 ждём время, которое подсказал Groq, и повторяем, а пустой ответ — это
+// ошибка с причиной в логе (finish/usage), а не тихий null, после которого пост молча пропадал.
+function groqRetryDelayMs(res, bodyText) {
+  let sec = Number(res.headers.get('retry-after'))
+  if (!(sec > 0)) {
+    const m = /try again in\s+(?:(\d+)m)?\s*([\d.]+)\s*(ms|s)\b/i.exec(bodyText || '')
+    if (m) sec = Number(m[1] || 0) * 60 + (m[3].toLowerCase() === 'ms' ? Number(m[2]) / 1000 : Number(m[2]))
+  }
+  if (!(sec > 0)) sec = 15 // Groq не подсказал: окно TPM скользящее, 15 с обычно хватает
+  if (sec > 70) return null // суточный лимит (TPD): ждать десятки минут внутри прогона бессмысленно
+  return Math.max(2000, Math.round(sec * 1000) + 1000)
+}
+
 async function callGroq(messages) {
   const key = process.env.GROQ_API_KEY
   if (!key || key.startsWith('your_')) return null
-  const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-    method: 'POST',
-    headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ model: 'openai/gpt-oss-120b', messages, max_tokens: 4096, temperature: 0.72 }),
-    signal: AbortSignal.timeout(60_000),
-  })
-  if (!res.ok) throw new Error(`Groq ${res.status}: ${(await res.text()).replace(/\s+/g, ' ').slice(0, 200)}`)
-  const data = await res.json()
-  return data.choices?.[0]?.message?.content ?? null
+  const payload = { model: 'openai/gpt-oss-120b', messages, max_tokens: 2500, temperature: 0.5, reasoning_effort: 'low' }
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+      signal: AbortSignal.timeout(60_000),
+    })
+    if (res.status === 429 && attempt < 3) {
+      const text = await res.text()
+      const wait = groqRetryDelayMs(res, text)
+      if (wait == null) throw new Error(`Groq 429 (суточный лимит, ждать бессмысленно): ${text.replace(/\s+/g, ' ').slice(0, 160)}`)
+      await new Promise(r => setTimeout(r, wait))
+      continue
+    }
+    if (!res.ok) {
+      const text = (await res.text()).replace(/\s+/g, ' ')
+      // reasoning_effort не принят (модель/API изменились): пробуем без него, а не теряем весь вызов
+      if (res.status === 400 && payload.reasoning_effort && /reasoning/i.test(text)) { delete payload.reasoning_effort; continue }
+      throw new Error(`Groq ${res.status}: ${text.slice(0, 200)}`)
+    }
+    const data = await res.json()
+    const choice = data.choices?.[0]
+    const content = choice?.message?.content
+    if (content && content.trim()) return content
+    throw new Error(`Groq: пустой ответ (finish=${choice?.finish_reason ?? '?'}, completion_tokens=${data.usage?.completion_tokens ?? '?'})`)
+  }
+  throw new Error('Groq: попытки исчерпаны')
 }
 
 // ═══════════════════════════════════════════════════════════════════════════════
@@ -840,22 +884,22 @@ const POST_FORMATS = [
   {
     id: 'provocateur',
     systemRole: 'Ты — провокационный автожурналист. Твой фирменный приём: начинать с неожиданного факта или парадокса, который ломает ожидания читателя.',
-    opening: 'НАЧАЛО: первые два предложения — неожиданный факт или контринтуитивное утверждение. НЕ называй модель в первом предложении. Создай интригу, заставь читать дальше.',
+    opening: 'НАЧАЛО: первые два предложения — самый неожиданный ФАКТ ИЗ ДАННЫХ или контраст между фактами из данных (парадокс, которого в данных нет, не выдумывай). НЕ называй модель в первом предложении. Создай интригу, заставь читать дальше.',
   },
   {
     id: 'historian',
     systemRole: 'Ты — автомобильный историк, специализирующийся на скрытых связях между эпохами и маркетинговых решениях, изменивших отрасль.',
-    opening: 'НАЧАЛО: начни с исторического контекста эпохи — что происходило в индустрии или в мире, когда появились предшественники этой машины. Конкретные события, имена, цифры.',
+    opening: 'НАЧАЛО: начни с исторического контекста эпохи — что происходило в индустрии или в мире, когда появились предшественники этой машины. Опирайся на годы и модели из цепочки эволюции и из источников в данных; события, имена и цифры — только если они есть в данных.',
   },
   {
     id: 'engineer',
     systemRole: 'Ты — бывший инженер-конструктор, ставший журналистом. Смотришь на каждый автомобиль через призму инженерных вызовов и компромиссов.',
-    opening: 'НАЧАЛО: сформулируй главный инженерный вызов, который стоял перед командой разработчиков. Не мощность, не дизайн — а конкретная техническая проблема, которую надо было решить.',
+    opening: 'НАЧАЛО: сформулируй главный инженерный вызов, который виден из данных (платформа, силовая установка, привод, кузов). Не мощность, не дизайн — а конкретная техническая проблема. Данных мало — опиши вызов общими словами, без выдуманных систем и цифр.',
   },
   {
     id: 'culturalist',
     systemRole: 'Ты — культурный критик, видящий автомобили как символы эпохи и зеркало общественных настроений.',
-    opening: 'НАЧАЛО: начни с культурного или социального контекста. Почему именно сейчас? Какой запрос общества отвечает эта машина? Свяжи технику с духом времени.',
+    opening: 'НАЧАЛО: начни с культурного или социального контекста. Почему именно сейчас? Какой запрос общества отвечает эта машина? Свяжи технику с духом времени — без выдуманных цифр и названий.',
   },
 ]
 
@@ -930,7 +974,7 @@ function buildAIMessages(car, ctx, research, format) {
   // (общая платформа/донор-двигатель под кузовами противоположных по духу
   // марок), и его надо подавать как твист, а не проходную деталь.
   const crossBrandBoost = ctx.crossBrandLinks?.length
-    ? `\nОСОБЫЙ АКЦЕНТ: смотри КРОСС-БРЕНДОВЫЕ СВЯЗИ в данных графа — сделай их главным содержанием истории, а не технической деталью. Прямо назови другой бренд/модель как неожиданность (в ИСТОРИИ или ЭВОЛЮЦИИ), подчеркни контраст характера/цены/имиджа марок при технической близости.\n`
+    ? `\nОСОБЫЙ АКЦЕНТ: смотри КРОСС-БРЕНДОВЫЕ СВЯЗИ в данных графа — сделай их главным содержанием истории, а не технической деталью. Прямо назови другой бренд/модель как неожиданность (в ИСТОРИИ или ЭВОЛЮЦИИ), подчеркни контраст характера и имиджа марок при технической близости (цены и цифры — только если они есть в данных).\n`
     : ''
 
   // Как crossBrandBoost, но БЕЗ "контраста брендов" — донор тут той же марки
@@ -967,15 +1011,21 @@ ${format.opening}
 предмета разговора.
 ОСОБЕННОСТЬ → ПРОГНОЗ: прогноз отвечает на вопрос "и что дальше будет именно
 с этой особенностью", а не открывает произвольную новую тему.
+Связность не отменяет правило фактов (см. ниже): если для перехода нет числа или
+факта в данных — переходи по смыслу, без числа.
+
+ГЛАВНОЕ ПРАВИЛО — ТОЛЬКО ФАКТЫ ИЗ ДАННЫХ ВЫШЕ. Текст проверяет программа: пост, в котором есть что-то лишнее, не будет опубликован.
+— Каждое число с единицей (л.с., кВт, Н·м, секунды, км/ч, цена, запас хода, проценты, тираж) и каждое название латиницей (платформа, технология, двигатель, конкурент) обязаны БУКВАЛЬНО присутствовать в блоках данных выше. Нет в данных — не пиши. Не подставляй «похожие» цифры из памяти, не пересчитывай единицы, не придумывай названия систем и рекорды.
+— С конкурентом сравнивай, только если он и его цифры названы в данных. Иначе сравнивай с предыдущим поколением из цепочки эволюции.
+— Мало данных — пиши короче: лучше 50 слов точных фактов, чем 110 слов с догадками. Раздел без фактов — одна короткая фраза без цифр.
 
 ЖЁСТКИЕ ТРЕБОВАНИЯ — нарушение = плохой пост:
-ДЛИНА: ровно 90–110 слов суммарно. Короткие предложения, никакой воды.
-ФАКТЫ: каждое предложение содержит ≥1 конкретного факта — год, цифра, имя, цена, модель.
+ДЛИНА: от 50 до 110 слов суммарно. Короткие предложения, никакой воды.
+ФАКТЫ: каждое предложение опирается на факт из данных — год, цифра, имя, цена, модель.
 ЗАПРЕЩЕНО: "является", "представляет собой", "позиционируется", "делает ставку", "переосмысленный", "новая точка отсчёта", "продолжает развивать", "твист", "фора".
-ФОРМАТИРОВАНИЕ: <b>все ключевые числа и факты</b>, <i>технические названия и кодовые имена</i>. Не менее 8 тегов <b> в посте.
-КОНКУРЕНТ: в разделе "ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ" — конкретное сравнение с главным соперником (цифра vs цифра), встроенное в связку с ЭВОЛЮЦИЕЙ, а не отдельной репликой.
-ПРОГНОЗ: ровно 2 предложения. Конкретный год + технология или рыночный сценарий, вытекающий из ОСОБЕННОСТИ, а не с чистого листа.
-ИСТОРИЯ: начни с самого неожиданного факта — не с "бренд основан в...".
+ФОРМАТИРОВАНИЕ: <b>ключевые числа и факты из данных</b>, <i>технические названия и кодовые имена</i>. Тегов <b> столько, сколько реальных фактов: не добавляй факты ради тегов.
+ПРОГНОЗ: 1–2 предложения. Осторожный сценарий ("вероятно", "ожидаем"), вытекающий из ОСОБЕННОСТИ. Без новых цифр и названий, которых нет в данных.
+ИСТОРИЯ: начни с самого интересного факта ИЗ ДАННЫХ — не с "бренд основан в...".
 HTML: только <b> и <i>. Запрещены * # _ ~ [ ] ( ).`
 
   return [
@@ -1479,6 +1529,292 @@ function sanitizeStory(text) {
     .trim()
 }
 
+// ─── Проверка фактов: ни цифр, ни названий «из воздуха» ───────────────────────
+// Живой случай 18.11.2026: правкой старого поста в общий канал ушёл текст про Lexus ES
+// с «TNGA‑F», «Lidar‑2027», «автономностью 3 уровня» и «6,2 с против 7,1 с у Mercedes
+// C‑Class» — ничего из этого не было в данных, которые получила модель (промпт ТРЕБОВАЛ
+// сравнение с соперником цифрой и ≥8 выделенных фактов, а данных не хватало).
+// isWellFormedStory смотрит на форму (язык, длина, название модели), но не на факты.
+//
+// Здесь замкнутый мир: каждое число с единицей измерения (л.с., кВт, Н·м, секунды, км/ч,
+// цена, %, запас хода, тираж…) и каждое название латиницей (платформа, технология,
+// конкурент) должны БУКВАЛЬНО встречаться в блоках данных, которые видела модель
+// (граф + ресерч + описание). Число сверяется с числами ТОЙ ЖЕ единицы (или без распознанной
+// единицы) с допуском 2,5%; пересчёт между единицами (кВт→л.с., мили→км, фунт-футы→Н·м…)
+// берётся только из чисел, помеченных исходной единицей, — иначе совпадения случайны
+// (156 л.с. × 1,34 ≈ 210 «подтвердило бы» выдуманные 210 л.с.). Годы не проверяются
+// намеренно: историю поколений модель берёт из цепочки графа, а ПРОГНОЗ — про будущее.
+
+// Нормализация для сравнения: без неразрывных пробелов и «умных» дефисов, нижний регистр.
+function normFactText(s) {
+  return String(s || '')
+    .replace(/[    ]/g, ' ')
+    .replace(/­/g, '')
+    .replace(/[‐-―−]/g, '-')
+    .toLowerCase()
+}
+
+// «45 000» | «45,000» | «6,2» | «6.2» | «340»
+const FACT_NUM  = String.raw`(\d{1,3}(?:[ ,]\d{3})+(?:[.,]\d+)?|\d+(?:[.,]\d+)?)`
+// Множитель после числа: «45 тыс.», «45k», «1,2 млн»
+const FACT_MULT = String.raw`(?:\s*(тыс(?:яч\w*)?\.?|млн\.?|миллион\w*|млрд\.?|thousand|million|k|m)(?![a-zа-яё]))?`
+
+function factMultiplier(w) {
+  if (!w) return 1
+  if (/^(тыс|thousand$|k$)/.test(w)) return 1e3
+  if (/^(млн|миллион|million$|m$)/.test(w)) return 1e6
+  if (/^млрд/.test(w)) return 1e9
+  return 1
+}
+
+// Возможные значения записи числа. «1,500» — это 1500 (запятая как разделитель тысяч)
+// или 1,5; «45.000» — 45000 или 45. Берём оба прочтения, чтобы формат записи не ломал сверку.
+function factNumVariants(raw) {
+  const s = raw.replace(/ /g, '')
+  let m
+  if ((m = /^(\d{1,3}(?:,\d{3})+)(\.\d+)?$/.exec(s))) {
+    const v = [Number(s.replace(/,/g, ''))]
+    if (!m[2] && /^\d{1,3},\d{3}$/.test(s)) v.push(Number(s.replace(',', '.')))
+    return v
+  }
+  if (/^\d{1,3}(?:\.\d{3})+$/.test(s)) {
+    const v = [Number(s.replace(/\./g, ''))]
+    if (/^\d{1,3}\.\d{3}$/.test(s)) v.push(Number(s))
+    return v
+  }
+  return [Number(s.replace(',', '.'))]
+}
+
+// [класс, единицы] — русские и английские (источники в основном английские). Порядок важен:
+// специфичные раньше общих (кВт·ч раньше кВт, км/ч раньше км, л/100 км раньше литров,
+// фунт-футы раньше фунтов) — одно число принадлежит ровно одному классу, первому подошедшему.
+const FACT_UNITS = [
+  ['energy', String.raw`квт\s*[·⋅.\-]?\s*ч|kwh|kilowatt[\s\-]?hours?`],
+  ['hp',     String.raw`л\.?\s?с\.?|лс|лошадин\w*\s+сил\w*|hp|ps|bhp|horse\s?power`],
+  ['kw',     String.raw`квт|kw|kilowatts?`],
+  ['lbft',   String.raw`lb[\s\-]?ft|pounds?[\s\-]?feet`],
+  ['nm',     String.raw`н\s*[·⋅.]?\s*м|нм|n\s*[·⋅.]?\s*m|newton[\s\-]?met(?:er|re)s?`],
+  ['kmh',    String.raw`км\s*/\s*ч|км в час|km\s*/\s*h|kph`],
+  ['mph',    String.raw`mph|миль\s*/\s*ч|миль в час|miles per hour`],
+  ['l100',   String.raw`л\s*/\s*100\s*км|l\s*/\s*100\s*km`],
+  ['mpg',    String.raw`mpg|миль на галлон`],
+  ['sec',    String.raw`сек\w*|seconds?|secs?|с(?![а-яёa-z])|s(?![a-z])`],
+  ['km',     String.raw`км|km|kilomet(?:er|re)s?`],
+  ['mi',     String.raw`миль|miles?|mi(?![a-z])`],
+  ['kg',     String.raw`кг|kg|kilograms?`],
+  ['lb',     String.raw`lbs?|фунт\w*|pounds?`],
+  ['mm',     String.raw`мм|mm|millimet(?:er|re)s?`],
+  ['in',     String.raw`дюйм\w*|inch\w*`],
+  ['pct',    String.raw`%|процент\w*|percent`],
+  ['money',  String.raw`\$|€|£|¥|₽|руб\w*|долл\w*|dollars?|euros?|usd|eur|евро|юан\w*`],
+  ['liter',  String.raw`литр\w*|liters?|litres?|л(?![а-яёa-z.])|l(?![a-z.])`],
+  ['count',  String.raw`экз\w*|штук\w*|шт(?![а-яёa-z])|машин\w*|автомобил\w*|units?|vehicles?`],
+]
+
+// Эталоны замера и служебные случаи — не заявленные характеристики (только для текста поста).
+function skipFactClaim(cls, m, value, normText) {
+  const before = normText.slice(Math.max(0, m.index - 8), m.index)
+  const after  = normText.slice(m.index + m[0].length, m.index + m[0].length + 12)
+  // Одинокая «с»/«s» — предлог/буква, а не секунды: секунды — это десятичное («6,2 с»)
+  // или после «за»/«до» («за 5 с»); «в 2,5 с половиной раза» — не секунды.
+  if (cls === 'sec' && m[3].length === 1 && !/[.,]/.test(m[1]) && !/(?:за|до)\s*$/.test(before)) return true
+  if (cls === 'sec' && /^\s*(половин|лишн|небольш)/.test(after)) return true
+  // «разгон до 100 км/ч», «до 60 mph», «расход на 100 км» — эталон замера
+  if (cls === 'kmh' && value === 100) return true
+  if (cls === 'mph' && (value === 60 || value === 62)) return true
+  if (cls === 'km' && value === 100 && /на\s*$/.test(before)) return true
+  // Мелкие количества («3 автомобиля») — не статистика; проверяем тиражи и объёмы.
+  if (cls === 'count' && value < 100) return true
+  return false
+}
+
+// Числа с единицами из текста → { claims: [{ cls, start, raw, values }], claimed: Set(начал чисел) }.
+// forCorpus — для текста ДАННЫХ: без пропусков, чтобы ничего не терять.
+function extractFactClaims(normText, forCorpus = false) {
+  const claims = []
+  const claimed = new Set()
+  for (const [cls, unit] of FACT_UNITS) {
+    const re = new RegExp(FACT_NUM + FACT_MULT + String.raw`[\s\-]*(` + unit + ')', 'g')
+    let m
+    while ((m = re.exec(normText))) {
+      if (claimed.has(m.index)) continue
+      claimed.add(m.index)   // число «принадлежит» первому подошедшему классу, даже если оно пропущено
+      const k = factMultiplier(m[2])
+      const values = factNumVariants(m[1]).map(v => v * k)
+      if (!forCorpus && skipFactClaim(cls, m, values[0], normText)) continue
+      // «фунт»/«pound» — и вес, и валюта («1,4 млн фунтов»): засчитываем числа обоих классов
+      const alt = cls === 'lb' && /^(фунт|pound)/.test(m[3]) ? ['money'] : null
+      claims.push({ cls, start: m.index, raw: m[0].trim(), values, alt })
+    }
+  }
+  // «$45 000», «€1,2 млн» — знак валюты перед числом
+  const pre = new RegExp(String.raw`[$€£¥₽]\s*` + FACT_NUM + FACT_MULT, 'g')
+  let pm
+  while ((pm = pre.exec(normText))) {
+    const start = pm.index + pm[0].search(/\d/)
+    if (claimed.has(start)) continue
+    claimed.add(start)
+    const k = factMultiplier(pm[2])
+    claims.push({ cls: 'money', start, raw: pm[0].trim(), values: factNumVariants(pm[1]).map(v => v * k) })
+  }
+  return { claims, claimed }
+}
+
+// Корпус данных: числа с распознанной единицей (по классам) + «голые» числа (единица не распознана:
+// годы, коды, непонятные слова) — последние годятся для прямого сравнения с любым классом.
+function buildFactCorpus(grounding) {
+  const norm = normFactText(grounding)
+  const { claims, claimed } = extractFactClaims(norm, true)
+  const bare = []
+  const re = new RegExp(FACT_NUM + FACT_MULT, 'g')
+  let m
+  while ((m = re.exec(norm))) {
+    if (claimed.has(m.index)) continue
+    const k = factMultiplier(m[2])
+    for (const v of factNumVariants(m[1])) { bare.push(v); if (k !== 1) bare.push(v * k) }
+  }
+  return { norm, claims, bare }
+}
+
+// «Достаточно близко»: до 20 — совпадение в пределах 0,05 (6,2 ≠ 6,3), дальше — округление до 2,5%.
+function numClose(a, b) {
+  const hi = Math.max(Math.abs(a), Math.abs(b))
+  return Math.abs(a - b) <= (hi < 20 ? 0.05 : Math.max(0.05, hi * 0.025))
+}
+
+// заявлено = исходное × k, исходное берётся ТОЛЬКО из чисел класса from
+const FACT_CONV = {
+  hp:   [['kw', 1.341], ['kw', 1.36]],
+  kw:   [['hp', 1 / 1.341], ['hp', 1 / 1.36]],
+  nm:   [['lbft', 1.3558]],
+  lbft: [['nm', 1 / 1.3558]],
+  kmh:  [['mph', 1.609]],
+  mph:  [['kmh', 1 / 1.609]],
+  km:   [['mi', 1.609]],
+  mi:   [['km', 1 / 1.609]],
+  kg:   [['lb', 0.4536]],
+  lb:   [['kg', 2.2046]],
+  mm:   [['in', 25.4]],
+  in:   [['mm', 1 / 25.4]],
+}
+
+function factClaimGrounded(claim, corpus) {
+  const same = corpus.bare.slice()
+  for (const c of corpus.claims) if (c.cls === claim.cls || (claim.alt && claim.alt.includes(c.cls))) same.push(...c.values)
+  for (const v of claim.values) {
+    if (same.some(n => numClose(v, n))) return true
+    for (const [from, k] of FACT_CONV[claim.cls] || []) {
+      for (const c of corpus.claims) {
+        if (c.cls === from && c.values.some(n => numClose(v, n * k))) return true
+      }
+    }
+    if (claim.cls === 'l100') {   // из mpg: л/100 км = 235,2 / mpg (US) или 282,5 / mpg (UK)
+      for (const c of corpus.claims) {
+        if (c.cls === 'mpg' && c.values.some(n => n > 0 && (numClose(v, 235.215 / n) || numClose(v, 282.481 / n)))) return true
+      }
+    }
+  }
+  return false
+}
+
+// Общеизвестные сокращения, которые не считаются «названием технологии из воздуха».
+const FACT_NAME_ALLOW = new Set([
+  'awd', 'fwd', 'rwd', 'suv', 'bev', 'phev', 'hev', 'mhev', 'erev', 'ice', 'led', 'oled',
+  'dct', 'cvt', 'abs', 'esp', 'adas', 'ota', 'wltp', 'epa', 'nedc', 'ncap', 'usb', 'gps',
+  'nfc', 'hud', 'vin', 'kwh', 'mph', 'kmh', 'rpm', 'mpg', 'lbft',
+])
+
+// Названия латиницей из текста поста: с заглавной, с цифрой или camelCase; короче 3 знаков не берём.
+function extractFactNames(plain) {
+  const names = []
+  const seen = new Set()
+  const re = /[A-Za-z][A-Za-z0-9]*(?:[-‐-―−][A-Za-z0-9]+)*/g
+  let m
+  while ((m = re.exec(plain))) {
+    const t  = m[0]
+    const sq = t.toLowerCase().replace(/[^a-z0-9]/g, '')
+    if (sq.length < 3 || seen.has(sq)) continue
+    if (!(/^[A-Z]/.test(t) || /\d/.test(t) || /[a-z][A-Z]/.test(t))) continue
+    if (FACT_NAME_ALLOW.has(sq) || /^[vw]\d{1,2}$/.test(sq)) continue
+    seen.add(sq)
+    names.push({ text: t.replace(/[‐-―−]/g, '-'), sq })
+  }
+  return names
+}
+
+// → { ok, issues: [{ kind: 'число'|'название', text }] }. grounding — текст блоков данных,
+// которые видела модель (см. buildGroundingText).
+function checkStoryFacts(story, grounding) {
+  const plain = sanitizeStory(story)
+    .replace(SECTION_HEADER_RE, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&[a-z]+;|&#\d+;/gi, ' ')
+  const normStory = normFactText(plain).replace(/\s+/g, ' ')
+  const corpus = buildFactCorpus(grounding)
+  const issues = []
+  const add = (kind, text) => { if (!issues.some(i => i.text === text)) issues.push({ kind, text }) }
+
+  for (const c of extractFactClaims(normStory).claims) {
+    if (!factClaimGrounded(c, corpus)) add('число', c.raw)
+  }
+  const groundSq = corpus.norm.replace(/[^a-z0-9а-яё]/g, '')
+  for (const n of extractFactNames(plain)) {
+    if (!groundSq.includes(n.sq)) add('название', n.text)
+  }
+  return { ok: issues.length === 0, issues }
+}
+
+function formatFactIssues(issues, max = 6) {
+  const shown = issues.slice(0, max).map(i => `«${i.text}»`).join(', ')
+  return shown + (issues.length > max ? ` и ещё ${issues.length - max}` : '')
+}
+
+// Данные, на которые модель имела право опираться (то же, что вошло в промпт).
+function buildGroundingText(car, ctx, research) {
+  return [
+    `${car.brand || ''} ${car.name || car.fullName || ''} ${car.year || ''}`,
+    car.description || '',
+    (car._sources || []).join(' '),
+    buildGraphContext(ctx) || '',
+    buildResearchContext(research) || '',
+  ].join('\n')
+}
+
+// Сколько в данных реальной «фактуры»: узел графа и длина его цепочки, числа с единицами (без тиражей),
+// текст статьи. Нужна, чтобы НЕ просить модель писать про машину, о которой почти ничего не известно:
+// 18.11.2026 про Lexus ES было шесть строк «истории бренда» и пять рекламных сниппетов — модель
+// заполнила пустоту выдумками, а правка ещё и затёрла старый пост.
+function describeGrounding(grounding, ctx, research) {
+  const { claims } = buildFactCorpus(grounding)
+  const facts = new Set(claims.filter(c => c.cls !== 'count').map(c => `${c.cls}:${Math.round(c.values[0])}`)).size
+  const node  = !!ctx?.matchedNode
+  const chain = node ? (ctx.ancestorChain?.length || 0) + 1 + (ctx.descendants?.length || 0) : 0
+  return { node, chain, facts, article: (research?.article || '').length, wiki: !!research?.wiki, snippets: research?.snippets?.length || 0 }
+}
+
+// Минимум для нового поста: цепочка эволюции из ≥2 поколений, или хотя бы одно число с единицей,
+// или текст статьи, или wiki — иначе писать не о чем, выйдет вода («продолжает линейку…»), а это
+// тот же «пустой шаблон», который решено не публиковать. Для ПРАВКИ уже опубликованного (она
+// затирает текст) планка выше: цепочка ≥2, или ≥3 числа с единицами, или полноценная статья.
+function hasEnoughData(d, forEdit) {
+  if (forEdit) return (d.node && d.chain >= 2) || d.facts >= 3 || d.article >= 800
+  return (d.node && d.chain >= 2) || d.facts >= 1 || d.article >= 400 || d.wiki
+}
+
+function formatGroundingStats(d) {
+  return `узел графа ${d.node ? `да (цепочка ${d.chain})` : 'нет'}, чисел с единицами ${d.facts}, ` +
+    `статья ${d.article ? d.article + ' зн.' : 'нет'}, wiki ${d.wiki ? 'да' : 'нет'}, сниппетов ${d.snippets}`
+}
+
+// Повторный запрос: тот же промпт + перечень того, чего нет в данных. Дописываем в ПОЛЬЗОВАТЕЛЬСКОЕ
+// сообщение (а не добавляем реплики): Gemini/Yandex берут только system+user.
+function buildRepairMessages(messages, issues) {
+  const list = issues.slice(0, 14).map(i => `«${i.text}»`).join(', ')
+  const note = `\n\nПРЕДЫДУЩИЙ ВАРИАНТ ОТКЛОНЁН ПРОВЕРКОЙ ФАКТОВ: в нём названы цифры или названия, которых нет в данных выше: ${list}. ` +
+    'Перепиши пост целиком: убери их и всё, что на них опирается, используй только факты из данных. Не хватает данных — пиши короче, без цифр.'
+  return messages.map(m => m.role === 'user' ? { ...m, content: m.content + note } : m)
+}
+
 // ─── Тизер для второго (свободного) канала ───────────────────────────────────
 // НЕ раскрывает полный текст истории (только заголовок + CTA в основной канал).
 // Раньше сюда же добавлялись строки цепочки/л.с./типа мотора, но ТОЛЬКО когда
@@ -1523,10 +1859,51 @@ async function publishTeaser(car, ctx) {
   }
 }
 
-// Общий шаг для publishCar/editCarPost: веб-ресерч + AI-генерация (DeepSeek →
-// Yandex → шаблон). Вынесено отдельно, чтобы editCarPost не дублировал всю
+// ─── Цепочка AI-провайдеров ───────────────────────────────────────────────────
+// Пробуются по порядку приоритета (пустой/placeholder-ключ пропускается). Побеждает первый,
+// чей текст прошёл ВСЕ проверки: isWellFormedStory (форма/язык/модель) и checkStoryFacts
+// (факты). Текст с выдуманными цифрами/названиями получает ОДНУ повторную попытку у того же
+// провайдера (с перечнем выдуманного), потом цепочка идёт дальше. Единая реализация для
+// generateStory (боевой путь) и dryRun — раньше это были два набора по 9 копий одного блока.
+const AI_PROVIDERS = [
+  { name: 'Gemini',     label: 'Gemini 2.5 Flash',                env: 'GEMINI_API_KEY',     call: m => callGemini(m) },
+  { name: 'Groq',       label: 'Groq (gpt-oss-120b)',             env: 'GROQ_API_KEY',       call: m => callGroq(m) },
+  { name: 'DeepSeek',   label: 'DeepSeek',                        env: 'DEEPSEEK_API_KEY',   call: m => callDeepSeek(m) },
+  { name: 'YandexGPT',  label: 'YandexGPT',                       env: 'YANDEX_API_KEY',     call: m => callYandex(m) },
+  { name: 'Qwen',       label: 'Qwen Plus',                       env: 'QWEN_API_KEY',       call: m => callQwen(m) },
+  { name: 'OpenRouter', label: 'OpenRouter (неск. free-моделей)', env: 'OPENROUTER_API_KEY', call: m => callOpenRouter(m) },
+  { name: 'Cerebras',   label: 'Cerebras (Llama 3.3 70B)',        env: 'CEREBRAS_API_KEY',   call: m => callCerebras(m) },
+  { name: 'NVIDIA',     label: 'NVIDIA NIM (Llama 3.3 70B)',      env: 'NVIDIA_API_KEY',     call: m => callNvidia(m) },
+  { name: 'Mistral',    label: 'Mistral Small',                   env: 'MISTRAL_API_KEY',    call: m => callMistral(m) },
+]
+
+// → { story, provider } | null. onReject({ provider, story, issues }) — для dry-run: показать забракованный текст.
+async function generateWithProviders(messages, car, grounding, { indent = '  ', onReject } = {}) {
+  for (const p of AI_PROVIDERS) {
+    const key = process.env[p.env]
+    if (!key || key.startsWith('your_')) continue
+    let msgs = messages
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      process.stdout.write(`${indent}🤖 ${p.label}${attempt > 1 ? ', повтор с поправкой' : ''}... `)
+      let story
+      try { story = await p.call(msgs) } catch (e) { console.log(`⚠️  ${e.message}`); break }
+      if (!story) { console.log('⚠️  пустой ответ, пробуем дальше'); break }
+      if (!isWellFormedStory(story, car)) { console.log('⚠️  не прошёл проверку (формат/язык/модель), пробуем дальше'); break }
+      const facts = checkStoryFacts(story, grounding)
+      if (facts.ok) { console.log('✅'); return { story, provider: p.name } }
+      console.log(`⚠️  в тексте есть то, чего нет в данных: ${formatFactIssues(facts.issues)}`)
+      if (onReject) onReject({ provider: p.name, story, issues: facts.issues })
+      if (attempt === 2) break
+      msgs = buildRepairMessages(messages, facts.issues)
+    }
+  }
+  return null
+}
+
+// Общий шаг для publishCar/editCarPost: веб-ресерч + AI-генерация (цепочка AI_PROVIDERS,
+// проверка формата и фактов). Вынесено отдельно, чтобы editCarPost не дублировал всю
 // цепочку фолбэков — она пересобирает историю с учётом НОВОЙ статьи в research.
-async function generateStory(car, ctx, format) {
+async function generateStory(car, ctx, format, { forEdit = false } = {}) {
   // Последний рубеж "при оформлении публикации": даже если машина как-то обошла
   // фильтр на входе, пост без названия модели не уходит (см. looksLikeRealModelName).
   // Бросаем ошибку — вызывающий код не помечает машину опубликованной.
@@ -1540,90 +1917,19 @@ async function generateStory(car, ctx, format) {
   const srcCount = [research.wiki, research.snippets.length, research.article].filter(Boolean).length
   console.log(`${srcCount} источник(а)`)
 
-  // ── AI генерация: Gemini → DeepSeek → Yandex → шаблон ─────────────────────
+  // ── Хватает ли данных? Если нет — модель не зовём (она бы выдумала недостающее) ──
+  const grounding = buildGroundingText(car, ctx, research)
+  const data = describeGrounding(grounding, ctx, research)
+  console.log(`  📊 Данные: ${formatGroundingStats(data)}`)
+  if (!hasEnoughData(data, forEdit)) {
+    throw new Error(forEdit
+      ? 'Данных слишком мало, чтобы переписывать уже опубликованный пост — пост не трогаю'
+      : 'О модели почти ничего не известно (нет цепочки эволюции, характеристик и текста статьи) — публикация отложена до появления данных')
+  }
+
+  // ── AI-генерация: цепочка провайдеров + проверка формата и фактов ──────────
   const messages = buildAIMessages(car, ctx, research, format)
-  let story, provider
-
-  if (process.env.GEMINI_API_KEY && !process.env.GEMINI_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 Gemini 2.5 Flash... ')
-    try {
-      story = await callGemini(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'Gemini'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-
-  if (!story && process.env.GROQ_API_KEY && !process.env.GROQ_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 Groq (gpt-oss-120b)... ')
-    try {
-      story = await callGroq(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'Groq'; console.log('✅') }
-      else if (story) { console.log('⚠️  не прошёл проверку (формат/язык/модель), пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-
-  if (!story && process.env.DEEPSEEK_API_KEY && !process.env.DEEPSEEK_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 DeepSeek... ')
-    try {
-      story = await callDeepSeek(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'DeepSeek'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-
-  if (!story && process.env.YANDEX_API_KEY && !process.env.YANDEX_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 YandexGPT... ')
-    try {
-      story = await callYandex(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'YandexGPT'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-
-  if (!story && process.env.QWEN_API_KEY && !process.env.QWEN_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 Qwen Plus... ')
-    try {
-      story = await callQwen(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'Qwen'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-
-  if (!story && process.env.OPENROUTER_API_KEY && !process.env.OPENROUTER_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 OpenRouter (неск. free-моделей)... ')
-    try {
-      story = await callOpenRouter(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'OpenRouter'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-
-  if (!story && process.env.CEREBRAS_API_KEY && !process.env.CEREBRAS_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 Cerebras (Llama 3.3 70B)... ')
-    try {
-      story = await callCerebras(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'Cerebras'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-
-  if (!story && process.env.NVIDIA_API_KEY && !process.env.NVIDIA_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 NVIDIA NIM (Llama 3.3 70B)... ')
-    try {
-      story = await callNvidia(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'NVIDIA'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-
-  if (!story && process.env.MISTRAL_API_KEY && !process.env.MISTRAL_API_KEY.startsWith('your_')) {
-    process.stdout.write('  🤖 Mistral Small... ')
-    try {
-      story = await callMistral(messages)
-      if (story && isWellFormedStory(story, car)) { provider = 'Mistral'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined }
-    } catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
+  const result   = await generateWithProviders(messages, car, grounding)
 
   // Живой случай: все настроенные провайдеры легли одновременно (Gemini 429
   // квота, DeepSeek 402 баланс, YandexGPT 403 права) — раньше это тихо уходило
@@ -1631,14 +1937,16 @@ async function generateStory(car, ctx, format) {
   // линейке...") и публиковалось как обычный пост. По явному решению
   // пользователя: лучше пропустить публикацию и повторить в следующий
   // прогон (когда какой-то из провайдеров отойдёт), чем разослать пустой
-  // шаблон вместо текста. Бросаем ошибку — вызывающий код (publishCar/
-  // editCarPost, цикл в main()) уже ловит её через try/catch и НЕ помечает
-  // машину как опубликованную, так что она корректно останется в очереди.
+  // шаблон вместо текста. Так же с выдумками: текст, не прошедший проверку фактов
+  // (см. checkStoryFacts), не публикуется и НЕ перезаписывает уже опубликованный пост.
+  // Бросаем ошибку — вызывающий код (publishCar/editCarPost, цикл в main())
+  // уже ловит её через try/catch и НЕ помечает машину как опубликованную, так что
+  // она корректно останется в очереди.
   // Qwen и OpenRouter добавлены именно как независимые запасные варианты для
   // такого сценария — не завязаны на те же аккаунты/биллинг, что первые три.
-  if (!story) throw new Error('Все AI-провайдеры недоступны — публикация отложена до следующего прогона')
+  if (!result) throw new Error('Ни один AI-провайдер не дал годный текст (недоступны, пустой ответ или не прошли проверку фактов) — публикация отложена до следующего прогона')
 
-  return { story: sanitizeStory(story), research, provider }
+  return { story: sanitizeStory(result.story), research, provider: result.provider }
 }
 
 // ─── Публикация одного автомобиля ─────────────────────────────────────────────
@@ -1740,7 +2048,8 @@ async function editCarPost(car, graph, channelId, record) {
 
   const ctx    = getGraphContext(car, graph)
   const format = pickFormat(car.id || label)
-  const { story, provider } = await generateStory(car, ctx, format)
+  // forEdit: правка ЗАТИРАЕТ опубликованный текст — планка по данным выше, чем для нового поста
+  const { story, provider } = await generateStory(car, ctx, format, { forEdit: true })
 
   await editTelegramPost(car, story, channelId, record.messageId, record.hasPhoto, ctx.matchedNode)
   console.log(`  ✅ Отредактировано [${provider}]`)
@@ -1810,70 +2119,34 @@ async function dryRun(car, graph) {
   if (research.snippets.length) research.snippets.forEach((s, i) => console.log(`  ${i+1}. ${s.slice(0,100)}`))
   console.log(`Статья: ${research.article ? research.article.slice(0, 120) + '…' : 'нет'}`)
 
-  const messages = buildAIMessages(car, ctx, research, format)
+  const messages  = buildAIMessages(car, ctx, research, format)
+  const grounding = buildGroundingText(car, ctx, research)
   let story, provider
 
+  const data = describeGrounding(grounding, ctx, research)
+  console.log(`\n─── ДАННЫЕ ───\n${formatGroundingStats(data)}`)
+  console.log(hasEnoughData(data, false)
+    ? `Для нового поста данных достаточно${hasEnoughData(data, true) ? ' (и для правки уже опубликованного)' : ' (для ПРАВКИ уже опубликованного — мало)'}`
+    : '⚠️  Данных слишком мало: в реальном прогоне этот пост был бы ПРОПУЩЕН (модель не вызывалась бы). Ниже — что получилось бы, если всё же вызвать.')
+
   console.log('\n─── ГЕНЕРАЦИЯ ───')
-  if (process.env.GEMINI_API_KEY && !process.env.GEMINI_API_KEY.startsWith('your_')) {
-    process.stdout.write('Gemini 2.5 Flash... ')
-    try { story = await callGemini(messages); if (story && isWellFormedStory(story, car)) { provider = 'Gemini'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story && process.env.GROQ_API_KEY && !process.env.GROQ_API_KEY.startsWith('your_')) {
-    process.stdout.write('Groq (gpt-oss-120b)... ')
-    try { story = await callGroq(messages); if (story && isWellFormedStory(story, car)) { provider = 'Groq'; console.log('✅') }
-      else if (story) { console.log('⚠️  не прошёл проверку (формат/язык/модель), пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story && process.env.DEEPSEEK_API_KEY && !process.env.DEEPSEEK_API_KEY.startsWith('your_')) {
-    process.stdout.write('DeepSeek... ')
-    try { story = await callDeepSeek(messages); if (story && isWellFormedStory(story, car)) { provider = 'DeepSeek'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story && process.env.YANDEX_API_KEY && !process.env.YANDEX_API_KEY.startsWith('your_')) {
-    process.stdout.write('YandexGPT... ')
-    try { story = await callYandex(messages); if (story && isWellFormedStory(story, car)) { provider = 'YandexGPT'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story && process.env.QWEN_API_KEY && !process.env.QWEN_API_KEY.startsWith('your_')) {
-    process.stdout.write('Qwen Plus... ')
-    try { story = await callQwen(messages); if (story && isWellFormedStory(story, car)) { provider = 'Qwen'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story && process.env.OPENROUTER_API_KEY && !process.env.OPENROUTER_API_KEY.startsWith('your_')) {
-    process.stdout.write('OpenRouter (неск. free-моделей)... ')
-    try { story = await callOpenRouter(messages); if (story && isWellFormedStory(story, car)) { provider = 'OpenRouter'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story && process.env.CEREBRAS_API_KEY && !process.env.CEREBRAS_API_KEY.startsWith('your_')) {
-    process.stdout.write('Cerebras (Llama 3.3 70B)... ')
-    try { story = await callCerebras(messages); if (story && isWellFormedStory(story, car)) { provider = 'Cerebras'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story && process.env.NVIDIA_API_KEY && !process.env.NVIDIA_API_KEY.startsWith('your_')) {
-    process.stdout.write('NVIDIA NIM (Llama 3.3 70B)... ')
-    try { story = await callNvidia(messages); if (story && isWellFormedStory(story, car)) { provider = 'NVIDIA'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story && process.env.MISTRAL_API_KEY && !process.env.MISTRAL_API_KEY.startsWith('your_')) {
-    process.stdout.write('Mistral Small... ')
-    try { story = await callMistral(messages); if (story && isWellFormedStory(story, car)) { provider = 'Mistral'; console.log('✅') }
-      else if (story) { console.log('⚠️  плохой формат заголовков, пробуем дальше'); story = undefined } }
-    catch (e) { console.log(`⚠️  ${e.message}`) }
-  }
-  if (!story) {
-    console.log('❌ все провайдеры недоступны')
+  const result = await generateWithProviders(messages, car, grounding, {
+    indent: '',
+    // В dry-run показываем и забракованный проверкой фактов текст — чтобы можно было оценить строгость проверки.
+    onReject: ({ provider: rejectedBy, story: rejected }) => {
+      const preview = sanitizeStory(rejected).replace(/<[^>]+>/g, '').replace(/\n{2,}/g, '\n')
+      console.log(`   ↳ отклонённый текст (${rejectedBy}):\n${preview.split('\n').map(l => '     ' + l).join('\n')}`)
+    },
+  })
+  if (!result) {
+    console.log('❌ ни один провайдер не дал годный текст (недоступны, пустой ответ или не прошли проверку фактов)')
     console.log('\n⚠️  В реальном прогоне эта модель была бы ПРОПУЩЕНА (не опубликована),')
     console.log('   а не отправлена шаблоном — см. generateStory(). Повтор в следующий прогон.')
     return
   }
+  story = result.story
+  provider = result.provider
+
   story = sanitizeStory(story)
 
   const plain = story
@@ -2118,10 +2391,14 @@ async function main() {
     return
   }
 
-  const toPublish = newGroups.slice(0, 3)     // максимум 3 новых поста за запуск
+  const MAX_NEW_POSTS = 3   // максимум 3 новых поста за запуск
+  // …но кандидатов пробуем до 6: тот, кого забраковала проверка фактов или у кого мало данных,
+  // не должен вечно занимать первые места очереди и не пускать остальных (раньше брались ровно 3).
+  const MAX_ATTEMPTS  = 6
   const toEdit    = enrichGroups.slice(0, 2)  // максимум 2 правки за запуск
   const graph     = loadGraph()
   let published = 0
+  let attempts  = 0
   let edited     = 0
 
   // Сохраняем дедупликацию сразу после КАЖДОГО успешного поста/правки, а не
@@ -2142,9 +2419,10 @@ async function main() {
     }, null, 2))
   }
 
-  for (let i = 0; i < toPublish.length; i++) {
-    if (i > 0) await new Promise(r => setTimeout(r, 3500))
-    const car = toPublish[i]
+  for (const car of newGroups) {
+    if (published >= MAX_NEW_POSTS || attempts >= MAX_ATTEMPTS) break
+    if (attempts > 0) await new Promise(r => setTimeout(r, 3500))
+    attempts++
     try {
       // Источники из GENERAL_CHANNEL_SOURCES едут в общий канал целиком, а не в VIP —
       // если общий канал ещё не настроен (SECONDARY_CH пуст), тихо остаёмся на VIP.
@@ -2172,7 +2450,7 @@ async function main() {
   // Правим уже опубликованные посты, для которых нашлась статья с уникальной
   // инфой — та же задержка от флуд-лимита, что и у новых публикаций.
   for (let i = 0; i < toEdit.length; i++) {
-    if (i > 0 || toPublish.length) await new Promise(r => setTimeout(r, 3500))
+    if (i > 0 || attempts) await new Promise(r => setTimeout(r, 3500))
     const car = toEdit[i]
     try {
       // Правим пост в канале, где он РЕАЛЬНО лежит (старые записи без channelId — VIP по умолчанию),
@@ -2195,9 +2473,9 @@ async function main() {
     }
   }
 
-  console.log(`[publish-stories] ✅ Опубликовано ${published}/${toPublish.length}, отредактировано ${edited}/${toEdit.length}`)
-  if (newGroups.length > toPublish.length)
-    console.log(`  ℹ️  Ещё ${newGroups.length - toPublish.length} новых — в следующем запуске`)
+  console.log(`[publish-stories] ✅ Опубликовано ${published}/${MAX_NEW_POSTS} (кандидатов пробовали: ${attempts}), отредактировано ${edited}/${toEdit.length}`)
+  if (newGroups.length > attempts)
+    console.log(`  ℹ️  Ещё ${newGroups.length - attempts} новых — в следующем запуске`)
   if (enrichGroups.length > toEdit.length)
     console.log(`  ℹ️  Ещё ${enrichGroups.length - toEdit.length} правок — в следующем запуске`)
 }
