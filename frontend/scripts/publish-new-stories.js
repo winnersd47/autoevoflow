@@ -621,7 +621,7 @@ async function callGemini(messages) {
       if (attempt > 0) await new Promise(r => setTimeout(r, 6000))
       let res
       try {
-        res = await fetch(url, { method: 'POST', headers: {'Content-Type':'application/json'}, body, signal: AbortSignal.timeout(90_000) })
+        res = await fetch(url, { method: 'POST', headers: {'Content-Type':'application/json'}, body, signal: AbortSignal.timeout(60_000) })
       } catch (e) { lastErr = e; break }
       if (res.status === 503) { lastErr = new Error(`Gemini 503 overloaded`); continue }
       if (!res.ok) { lastErr = new Error(`Gemini ${model} ${res.status}: ${(await res.text()).slice(0,150)}`); break }
@@ -953,9 +953,11 @@ function buildGraphContext(ctx) {
       ).join('\n')
       parts.push(`СВЯЗЬ С ДРУГОЙ МОДЕЛЬЮ ТОГО ЖЕ БРЕНДА (не прямая эволюция):\n${sibText}`)
     }
-  } else if (brandSample.length) {
-    parts.push(`ИСТОРИЯ БРЕНДА (выборка):\n${brandSample.map(n => `  ${n.year} ${n.label}`).join('\n')}`)
   }
+  // Без узла графа НЕ подмешиваем «ИСТОРИЯ БРЕНДА (выборка)» (6 самых старых моделей марки): это не предки
+  // машины, а модель выстраивает из них выдуманную родословную. Живые случаи: Lexus ES 18.11.2026 («ES300
+  // 1992/1996» как её история) и Honda CR-V 19.11.2026 («линия компактных кроссоверов, начатая с NSX NA1»).
+  // Нет узла — история строится только из текста статьи и источников; нет и их — раздел короткий и без цифр.
 
   return parts.join('\n\n')
 }
@@ -1483,14 +1485,16 @@ const SECTION_HEADERS = {
 // жирного начертания прекрасно рендерятся), а именно РЕАЛЬНЫЙ симптом:
 // остаётся ли после вырезания шапок содержательный текст.
 const SECTION_HEADER_RE = /^(🏛|🧬|⚡|🔮)\s*(?:<[bi]>)?(?:ИСТОРИ[ЕЙЯИ]{1,2}|ЭВОЛ[ЮЪ]ЦИ[ЕЙЯИ]{1,2}|ЧТО\s+ДЕЛАЕТ\s+Е[ЁE]\s+ОСОБЕННОЙ|ПРОГНОЗ)(?:<\/[bi]>)?:?\s*/gmu
-function isWellFormedStory(text, car) {
+// → null, если текст годен, иначе короткая причина отказа (идёт в лог: прогон #40 «не прошёл проверку
+// (формат/язык/модель)» не говорил, какая именно из трёх).
+function whyNotWellFormed(text, car) {
   const plain = sanitizeStory(text)
     .replace(SECTION_HEADER_RE, '')
     .replace(/<[^>]+>/g, '')
     .replace(/\s+/g, ' ')
     .trim()
   // Нормальный разбор — от ~430 знаков (замер по 58 опубликованным); 300 — запас.
-  if (plain.length < 300) return false
+  if (plain.length < 300) return `короче 300 знаков (${plain.length})`
   // Канал русскоязычный. Слабые free-модели (LFM2.5 2.6B и т.п.) на русский
   // промпт отвечают ПО-АНГЛИЙСКИ, оставляя русскими только заголовки секций —
   // структурную проверку это проходило, и 9–10.11.2026 такие тексты (0% кириллицы)
@@ -1499,14 +1503,15 @@ function isWellFormedStory(text, car) {
   // английских ≈ 0 — порог 0.5 разделяет их с запасом.
   const letters  = plain.match(/\p{L}/gu) || []
   const cyrillic = plain.match(/[А-Яа-яЁё]/g) || []
-  if (letters.length === 0 || cyrillic.length / letters.length < 0.5) return false
+  if (letters.length === 0 || cyrillic.length / letters.length < 0.5) return `мало кириллицы (${Math.round(100 * cyrillic.length / Math.max(1, letters.length))}%)`
   // Пост про другую машину (галлюцинация) — тоже брак: 11.11.2026 под заголовком
   // "2028 Subaru" ушёл текст про Impreza WRX GC 1992 и выдуманные цифры.
-  return !car || storyMentionsModel(plain, car)
+  return (!car || storyMentionsModel(plain, car)) ? null : 'в тексте нет названия модели'
 }
+function isWellFormedStory(text, car) { return whyNotWellFormed(text, car) === null }
 
 // ─── Нормализация форматирования для Telegram HTML ───────────────────────────
-function sanitizeStory(text) {
+function storyMarkdownToHtml(text) {
   return text
     // Markdown bold → <b>
     .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
@@ -1527,6 +1532,48 @@ function sanitizeStory(text) {
     // Collapse 3+ newlines to 2
     .replace(/\n{3,}/g, '\n\n')
     .trim()
+}
+
+// Telegram (parse_mode=HTML) понимает лишь небольшой набор тегов и требует экранировать < > &. Живые случаи
+// прогона #40 (18.11.2026): модель вставила <br> — «Unsupported start tag "br"», пост Honda CR-V не ушёл;
+// «голый» < в тексте («<5 с») — «Unsupported start tag ""», правка VW Atlas не прошла. Оба кандидата терялись
+// и пробовались заново каждый прогон. В сюжете допустимы только <b> и <i>: <br> → перенос строки,
+// <strong>/<em> → <b>/<i>, прочие теги убираем (текст внутри остаётся), < > & экранируем, вложенность чиним.
+const HTML_NAMED_ENTITIES = { nbsp: ' ', mdash: '—', ndash: '–', hellip: '…', laquo: '«', raquo: '»', lsquo: '‘', rsquo: '’', ldquo: '“', rdquo: '”', quot: '"', apos: "'", times: '×', deg: '°', minus: '−' }
+function normalizeTelegramHtml(s) {
+  // Именованные сущности, которых Telegram не знает, — в сами символы (&amp; &lt; &gt; оставляем как есть)
+  s = s.replace(/&([a-z]+);/gi, (m, n) => {
+    const k = n.toLowerCase()
+    return (k === 'amp' || k === 'lt' || k === 'gt') ? m : (k in HTML_NAMED_ENTITIES ? HTML_NAMED_ENTITIES[k] : m)
+  })
+  const out = []
+  const stack = []   // открытые <b>/<i>
+  const re = /<(\/?)([A-Za-z][A-Za-z0-9]*)\b[^<>]*>|(&(?:amp|lt|gt|quot|#\d+|#x[0-9a-fA-F]+);)|([<>&])/g
+  let last = 0, m
+  while ((m = re.exec(s))) {
+    out.push(s.slice(last, m.index))
+    last = m.index + m[0].length
+    if (m[2] !== undefined) {                       // тег
+      const name = m[2].toLowerCase(), closing = m[1] === '/'
+      const tag = (name === 'b' || name === 'strong') ? 'b' : (name === 'i' || name === 'em') ? 'i' : null
+      if (name === 'br') out.push('\n')
+      else if (tag && !closing) { stack.push(tag); out.push(`<${tag}>`) }
+      else if (tag && closing) {
+        const idx = stack.lastIndexOf(tag)
+        if (idx >= 0) { while (stack.length > idx + 1) out.push(`</${stack.pop()}>`); out.push(`</${stack.pop()}>`) }
+        // закрывающий тег без открывающего — выбрасываем
+      } else if (closing && /^(?:p|div|li|h[1-6]|ul|ol)$/.test(name)) out.push('\n')
+      // остальные теги (p, div, span, a, …) — только убираем
+    } else if (m[3] !== undefined) out.push(m[3])    // корректная сущность
+    else out.push(m[4] === '<' ? '&lt;' : m[4] === '>' ? '&gt;' : '&amp;')
+  }
+  out.push(s.slice(last))
+  while (stack.length) out.push(`</${stack.pop()}>`)
+  return out.join('')
+}
+
+function sanitizeStory(text) {
+  return normalizeTelegramHtml(storyMarkdownToHtml(text)).replace(/\n{3,}/g, '\n\n').trim()
 }
 
 // ─── Проверка фактов: ни цифр, ни названий «из воздуха» ───────────────────────
@@ -1742,7 +1789,25 @@ function extractFactNames(plain) {
   return names
 }
 
-// → { ok, issues: [{ kind: 'число'|'название', text }] }. grounding — текст блоков данных,
+// Громкие слова, которые модель любит добавлять «для красоты»: «впервые», «самый…», «рекорд», «вдвое»…
+// Каждое допускается, только если в данных сказано то же (first / most / record / double…). Числовая
+// проверка их не видит. Живые случаи 19.11.2026: «282 л.с., что вдвое превышает мощность предшественников»
+// (VW Atlas) и «стал самым мощным электроседаном в линейке» (BMW i7) — в данных такого не было.
+// «Первое поколение/серия», «первый раз» — не утверждение, их пропускаем. \b с кириллицей не работает —
+// границы слов задаются через (?<![а-яё]) / (?![а-яё]).
+const CLAIM_CUES = [
+  { ru: /(?<![а-яё])(?:впервые|перв(?:ый|ая|ое|ые|ым|ой|ого|ому|ом|ых|ыми)(?!\s+(?:поколен|генерац|серии|выпуск|раз)))(?![а-яё])/,
+    data: /\bfirst\b|\bdebut|\binaugural\b|(?<![а-яё])впервые|(?<![а-яё])перв(?:ый|ая|ое|ые)/ },
+  { ru: /(?<![а-яё])сам(?:ый|ая|ое|ые|ым|ой|ого|ому|ом|ых|ыми)\s+[а-яё]+(?:ый|ая|ое|ые|ым|ой|ого|ому|ом|ых|ыми|ий|ее|ие|им|их)(?![а-яё])/,
+    data: /\b(?:most|fastest|quickest|largest|biggest|highest|best|longest|lightest|strongest|greatest|ever)\b|(?<![а-яё])сам(?:ый|ая|ое|ые)/ },
+  { ru: /(?<![а-яё])рекорд/, data: /record|рекорд/ },
+  { ru: /(?<![а-яё])(?:вдвое|втрое|вчетверо)(?![а-яё])|(?<![а-яё])в\s+(?:два|три|четыре|пять|\d+)\s+раза?(?![а-яё])/,
+    data: /\b(?:double|doubled|doubles|twice|triple|tripled|\d+\s*times|\dx)\b|вдвое|втрое/ },
+  { ru: /(?<![а-яё])единственн/, data: /\bonly\b|\bsole\b|\bsingle\b|единственн/ },
+  { ru: /(?<![а-яё])(?:лучш(?:ий|ая|ее|ие|им|ей|его)|наилучш|быстрейш|мощнейш)/, data: /\bbest\b|\bfastest\b|\bmost powerful\b|лучш|быстрейш|мощнейш/ },
+]
+
+// → { ok, issues: [{ kind: 'число'|'название'|'утверждение', text }] }. grounding — текст блоков данных,
 // которые видела модель (см. buildGroundingText).
 function checkStoryFacts(story, grounding) {
   const plain = sanitizeStory(story)
@@ -1760,6 +1825,10 @@ function checkStoryFacts(story, grounding) {
   const groundSq = corpus.norm.replace(/[^a-z0-9а-яё]/g, '')
   for (const n of extractFactNames(plain)) {
     if (!groundSq.includes(n.sq)) add('название', n.text)
+  }
+  for (const c of CLAIM_CUES) {
+    const cm = c.ru.exec(normStory)
+    if (cm && !c.data.test(corpus.norm)) add('утверждение', cm[0].trim())
   }
   return { ok: issues.length === 0, issues }
 }
@@ -1810,7 +1879,7 @@ function formatGroundingStats(d) {
 // сообщение (а не добавляем реплики): Gemini/Yandex берут только system+user.
 function buildRepairMessages(messages, issues) {
   const list = issues.slice(0, 14).map(i => `«${i.text}»`).join(', ')
-  const note = `\n\nПРЕДЫДУЩИЙ ВАРИАНТ ОТКЛОНЁН ПРОВЕРКОЙ ФАКТОВ: в нём названы цифры или названия, которых нет в данных выше: ${list}. ` +
+  const note = `\n\nПРЕДЫДУЩИЙ ВАРИАНТ ОТКЛОНЁН ПРОВЕРКОЙ ФАКТОВ: в нём есть цифры, названия или громкие утверждения («впервые», «самый», «вдвое» и т.п.), которых нет в данных выше: ${list}.` +
     'Перепиши пост целиком: убери их и всё, что на них опирается, используй только факты из данных. Не хватает данных — пиши короче, без цифр.'
   return messages.map(m => m.role === 'user' ? { ...m, content: m.content + note } : m)
 }
@@ -1877,18 +1946,37 @@ const AI_PROVIDERS = [
   { name: 'Mistral',    label: 'Mistral Small',                   env: 'MISTRAL_API_KEY',    call: m => callMistral(m) },
 ]
 
+// Предохранитель: провайдер, который падает (таймаут, перегрузка, квота), отключается до конца прогона —
+// иначе каждый кандидат ждал бы его таймаут заново. Прогон #40: Gemini трижды по 90 с «aborted due to
+// timeout», затем 429 «exceeded your current quota» на каждом кандидате — 4,5 из 8,5 минут впустую.
+// Квота/суточный лимит — отключаем сразу; прочие сбои — после AI_MAX_FAILS подряд. Ответ, не прошедший
+// проверки, сбоем НЕ считается (провайдер работает, просто текст плохой).
+const AI_MAX_FAILS = 2
+const AI_HEALTH = {}   // имя провайдера → { fails, dead } (живёт один запуск процесса)
+function resetAiHealth() { for (const k of Object.keys(AI_HEALTH)) delete AI_HEALTH[k] }
+
 // → { story, provider } | null. onReject({ provider, story, issues }) — для dry-run: показать забракованный текст.
 async function generateWithProviders(messages, car, grounding, { indent = '  ', onReject } = {}) {
   for (const p of AI_PROVIDERS) {
     const key = process.env[p.env]
     if (!key || key.startsWith('your_')) continue
+    const health = (AI_HEALTH[p.name] = AI_HEALTH[p.name] || { fails: 0, dead: false })
+    if (health.dead) continue
     let msgs = messages
     for (let attempt = 1; attempt <= 2; attempt++) {
       process.stdout.write(`${indent}🤖 ${p.label}${attempt > 1 ? ', повтор с поправкой' : ''}... `)
       let story
-      try { story = await p.call(msgs) } catch (e) { console.log(`⚠️  ${e.message}`); break }
+      try { story = await p.call(msgs); health.fails = 0 } catch (e) {
+        health.fails++
+        if (/quota|суточный лимит/i.test(e.message) || health.fails >= AI_MAX_FAILS) {
+          health.dead = true
+          console.log(`⚠️  ${e.message} — ${p.name} отключён до конца прогона`)
+        } else console.log(`⚠️  ${e.message}`)
+        break
+      }
       if (!story) { console.log('⚠️  пустой ответ, пробуем дальше'); break }
-      if (!isWellFormedStory(story, car)) { console.log('⚠️  не прошёл проверку (формат/язык/модель), пробуем дальше'); break }
+      const why = whyNotWellFormed(story, car)
+      if (why) { console.log(`⚠️  не прошёл проверку формы: ${why}, пробуем дальше`); break }
       const facts = checkStoryFacts(story, grounding)
       if (facts.ok) { console.log('✅'); return { story, provider: p.name } }
       console.log(`⚠️  в тексте есть то, чего нет в данных: ${formatFactIssues(facts.issues)}`)

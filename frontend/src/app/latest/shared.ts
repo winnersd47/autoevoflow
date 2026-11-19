@@ -34,6 +34,8 @@ export function storyPreview(html: string, maxLen = 220): string {
   const plain = html
     .replace(SECTION_HEADER_RE, '')
     .replace(/<[^>]+>/g, '')
+    // Публикатор экранирует < > & сущностями (так требует Telegram HTML) — в превью показываем сами символы
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&amp;/g, '&')
     .replace(/\s+/g, ' ')
     .trim();
   return plain.length > maxLen ? plain.slice(0, maxLen).trimEnd() + '…' : plain;
