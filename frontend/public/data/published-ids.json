@@ -557,7 +557,11 @@
     "ncs-ford-2028-mustang_gtd_1901_edition",
     "ncs-nissan-2027-armada_patrol_pro-4x",
     "ncs-rolls-royce-2027-spectre_black_badge_series_ii",
-    "ncs-volkswagen-2027-atlas"
+    "ncs-volkswagen-2027-atlas",
+    "cad-hyundai-elantra-n-2028",
+    "cad-news-a74473109-2028-genesis-g80-hybrid-revealed",
+    "ncs-hyundai-2027-elantra",
+    "jlp-2321034-2027-hyundai-elantra-hybrid-sedan-us-spec-f9bce1"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -893,7 +897,10 @@
     "bmw__i7-xdrive__2027",
     "ford__mustang-gtd-edition__2028",
     "nissan__armada-patrol-pro-4x__2027",
-    "rolls-royce__spectre-black-badge__2027"
+    "rolls-royce__spectre-black-badge__2027",
+    "hyundai__elantra__2028",
+    "genesis__g80__2028",
+    "hyundai__elantra__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3706,8 +3713,36 @@
         "ncs-rolls-royce-2027-spectre_black_badge_series_ii"
       ],
       "updatedAt": "2026-11-19T07:15:46.785Z"
+    },
+    "hyundai__elantra__2028": {
+      "messageId": 346,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-hyundai-elantra-n-2028"
+      ],
+      "updatedAt": "2026-11-19T20:29:15.571Z"
+    },
+    "genesis__g80__2028": {
+      "messageId": 347,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74473109-2028-genesis-g80-hybrid-revealed"
+      ],
+      "updatedAt": "2026-11-19T20:29:35.619Z"
+    },
+    "hyundai__elantra__2027": {
+      "messageId": 547,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-hyundai-2027-elantra",
+        "jlp-2321034-2027-hyundai-elantra-hybrid-sedan-us-spec-f9bce1"
+      ],
+      "updatedAt": "2026-11-19T20:29:50.782Z"
     }
   },
-  "updatedAt": "2026-11-19T07:17:23.217Z",
-  "total": 558
+  "updatedAt": "2026-11-19T20:29:50.782Z",
+  "total": 562
 }

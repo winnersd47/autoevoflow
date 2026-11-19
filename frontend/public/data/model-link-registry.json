@@ -58,5 +58,17 @@
     "articleId": "ncs-rolls-royce-2027-spectre_black_badge_series_ii",
     "articleTitle": "Rolls-Royce Spectre Black Badge Series II",
     "usedAt": "2026-11-19T07:15:45.065Z"
+  },
+  "hyundai-elantra": {
+    "source": "netcarshow",
+    "articleId": "ncs-hyundai-2027-elantra",
+    "articleTitle": "Hyundai Elantra",
+    "usedAt": "2026-11-19T20:29:49.112Z"
+  },
+  "genesis-g80": {
+    "source": "caranddriver",
+    "articleId": "cad-news-a74473109-2028-genesis-g80-hybrid-revealed",
+    "articleTitle": "2028 Genesis G80",
+    "usedAt": "2026-11-19T20:29:35.619Z"
   }
 }
