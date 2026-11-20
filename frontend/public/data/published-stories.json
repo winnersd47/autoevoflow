@@ -1,6 +1,54 @@
 {
   "stories": [
     {
+      "modelKey": "volkswagen__t-roc__2027",
+      "id": "ncs-volkswagen-2027-t-roc_r",
+      "brand": "Volkswagen",
+      "brandSlug": "volkswagen",
+      "name": "Volkswagen T-Roc R",
+      "fullName": "2027 Volkswagen T-Roc R",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nПервый <i>T‑Roc</i> появился в 2017 г., в 2026 г. вышло <i>T‑Roc II</i>.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nВ версии <i>T‑Roc R</i> добавлен 48‑V <i>EA888 evo5</i> mild‑hybrid, а также система <i>4MOTION</i> и запуск‑контроль.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nМощность <b>245 kW</b> ( <b>333 PS</b> ), крутящий момент <b>420 Nm</b>. Разгон до <b>100 km/h</b> за <b>5 сек</b>. Электронно ограниченная верхняя скорость <b>250 km/h</b>. Технология 48‑V обеспечивает рекуперацию и режим «coasting».  \n\n🔮 <b>ПРОГНОЗ</b>\nВероятно, в дальнейшем появятся новые версии с улучшенной 48‑V системой, но детали пока не объявлены.",
+      "imageUrl": "https://www.netcarshow.com/Volkswagen-T-Roc_R-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/vw-t-roc",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-11-20T20:01:09.703Z",
+      "teaserSentAt": "2026-11-20T20:01:11.361Z"
+    },
+    {
+      "modelKey": "audi__a2-e-tron__2027",
+      "id": "ncs-audi-2027-a2_e-tron",
+      "brand": "Audi",
+      "brandSlug": "audi",
+      "name": "Audi A2 e-tron",
+      "fullName": "2027 Audi A2 e-tron",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nAudi A2 e‑tron — первая полностью электрическая модель в истории марки, разработана как компактный хэтчбек.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nНовая версия построена на платформе <i>MEB</i> и имеет кузов <i>hatchback</i>.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n<b>2.77 м</b> — длина колёсной базы; <b>401 миль</b> — заявленный запас хода; оснащена <i>bidirectional charging</i>; производство в <i>Ingolstadt</i>; в Великобритании приём заказов открыт в <b>октябре 2026</b>, первые поставки запланированы на <b>начало 2027</b>.\n\n🔮 <b>ПРОГНОЗ</b>\nОжидается, что в дальнейшем будут объявлены дополнительные версии и варианты оснащения.",
+      "imageUrl": "https://www.netcarshow.com/Audi-A2_e-tron-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/audi-a2-etron",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-11-20T20:01:02.145Z",
+      "teaserSentAt": "2026-11-20T20:01:03.808Z"
+    },
+    {
+      "modelKey": "byd__yangwang-altior__2027",
+      "id": "ncs-byd-2027-yangwang_altior",
+      "brand": "BYD",
+      "brandSlug": "byd",
+      "name": "BYD Yangwang Altior",
+      "fullName": "2027 BYD Yangwang Altior",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nYangwang Altior — продолжение линейки после <i>Yangwang U8</i>.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nAltior заменил <i>U8</i>, использует базу <i>BYD Sea Hawk</i> вместо предыдущей платформы.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n<b>5 600 mm</b> длина, <b>2 030 mm</b> ширина, <b>1 590 mm</b> высота, <b>3 500 mm</b> колесная база. Первый автомобиль с 4 nm <i>Xuanji A3</i> чипом и системой <i>God’s Eye A</i> (парковочная, авто‑ и городская навигация).  \n\n🔮 <b>ПРОГНОЗ</b>\nВероятно, будут объявлены дополнительные версии с расширенными функциями ассистированного вождения.",
+      "imageUrl": "https://www.netcarshow.com/BYD-Yangwang_Altior-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/byd-yangwang-u8",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-11-20T20:00:54.114Z",
+      "teaserSentAt": "2026-11-20T20:00:55.828Z"
+    },
+    {
       "modelKey": "lamborghini__temerario-spyder__2027",
       "id": "ncs-lamborghini-2027-temerario_spyder",
       "brand": "Lamborghini",
@@ -879,52 +927,7 @@
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
       "publishedAt": "2026-10-24T11:05:36.827Z"
-    },
-    {
-      "modelKey": "chevrolet__silverado-ev__2027",
-      "id": "cad-chevrolet-silverado-ev",
-      "brand": "Chevrolet",
-      "brandSlug": "chevrolet",
-      "name": "2027 Chevrolet Silverado EV",
-      "fullName": "2027 Chevrolet Silverado EV",
-      "year": 2027,
-      "story": "<b>🏛 ИСТОРИЯ</b>  \nВ <b>1999</b> году пикап Silverado вышел с <b>255</b> л.с., но уже к <b>2007</b> мощность выросла до <b>315</b> л.с. — и это только начало. За два десятилетия Chevrolet превратил пикап из сельхозмашины в символ американской мощи: от <b>355</b> л.с. в <b>2014</b> до <b>420</b> л.с. в <b>2019</b>. Каждое поколение прибавляло мощности, как буд бы само движение времени ускорялось. Но в <b>2027</b> что-то изменилось не так, как ожидалось — машина стала электрической.  \n\n<b>🧬 ЭВОЛЮЦИЯ</b>  \nОт <b>255</b> л.с. в <b>1999</b> до <b>420</b> л.с. в <b>2019</b> — пять поколений, одна цель: усилить. Но пятый шаг — <i>Silverado EV</i> — не про л.с., а про <b>510</b> л.с. и <b>нулевые выбросы</b>. Тот же вызов решил и <i>GMC Sierra</i>, с которой Silverado Gen.4 делил платформу — теперь они снова рядом, но в разном мире.  \n\n<b>⚡ ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>  \n<i>Silverado EV</i> разгоняется до <b>100</b> км/ч за <b>4,4</b> секунды — быстрее, чем <i>Tesla Cybertruck</i> (<b>6,1</b> с) и дешевле, чем <i>Rivian R1T</i> (<b>$73 000</b>), если Silverado EV стоит <b>$55 000</b>. Тот же крутящий момент, другая энергия.  \n\n<b>🔮 ПРОГНОЗ</b>  \nК <b>2030</b> <i>Silverado EV</i> станет основой для <i>GMC Hummer EV</i> — общая платформа, но противоположные имиджи. Рынок увидит: одна машина — два бренда, одна энергия — два будущия.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3e28b3ec-62f3-405c-90e5-216be0107bee.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-chevrolet-silverado-ev",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-24T08:06:22.824Z"
-    },
-    {
-      "modelKey": "cadillac__escalade-v-collector-series__2027",
-      "id": "cad-news-a74231668-2027-cadillac-escalade-v-125th-453718",
-      "brand": "Cadillac",
-      "brandSlug": "cadillac",
-      "name": "2027 Cadillac Escalade-V Collector Series",
-      "fullName": "2027 Cadillac Escalade-V Collector Series",
-      "year": 2027,
-      "story": "<b>2023</b> V-Series.R выиграл <b>Rolex 24</b> на <b>671</b> л.с. <i>V-LMDh</i>, став победителем в <b>IMSА</b>.\n\n🧬 ЭВОЛЮЦИИИ: от <b>671</b> л.с. <i>V-Series.R</i> к <b>2027</b> Escalade-V Collector Series — <b>125</b> лет Cadillac, <b>685</b> л.с. в <i>V8</i>, цена — <b>$120 000</b>.\n\n⚡ ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ: <b>685</b> л.с. против <b>660</b> л.с. у <b>Mercedes-AMG G63</b> <i>2027</i>, <b>125</b> лет истории в каждом <i>Collector Series</i> элементе.\n\n🔮 ПРОГНОЗ: к <b>2030</b> Escalade-V станет <b>100%</b> электрическим, сохранив <i>V8-звук</i> через <b>активную аудиосимуляцию</b>, как наследие <b>125</b> лет традиций.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/33a859e5-776f-4fed-b0ea-661f3b2ef12e.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-news-a74231668-2027-cadillac-escalade-v-125th-453718",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-24T08:06:03.952Z"
-    },
-    {
-      "modelKey": "bmw__ix3__2027",
-      "id": "cad-photos-a74081553-2027-bmw-ix3-test-exterior-gallery",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "2027 BMW iX3",
-      "fullName": "2027 BMW iX3",
-      "year": 2027,
-      "story": "<b>1968</b> 2002 tii задала тон спортивному наследию BMW. <b>1971</b> 3.0 CSL закрепила его на треке. С <b>1972</b> E12 началась эра комфорта. <b>1975</b> E21 запустила 3 Series. <b>1976</b> E24 и <b>1977</b> E23 завершили стартовую линейку.  \n\nЭти модели довели до <i>Neue Klasse</i> — платформа с батареей <b>800V</b>, эффективность <b>6,9 км/кВт·ч</b>. Инженеры решили проблему теплового управления и веса традиционных EV.  \n\n<i>iX3</i> 2027 обгоняет <b>Tesla Model Y Long Range</b>: <b>600 км</b> пробега vs <b>525 км</b>. Использована уплотнённая батарея <b>100 кВт·ч</b> и рекуперация <b>200 кВт</b>.  \n\nДо <b>2030</b> вся линейка BMW перейдёт на <i>Neue Klasse</i> с <b>800V</b> и нулевыми выбросами при производстве.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e157936d-f9ab-4e7c-9341-40cd981d8159.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-photos-a74081553-2027-bmw-ix3-test-exterior-gallery",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-24T05:05:11.919Z"
     }
   ],
-  "updatedAt": "2026-11-20T07:03:32.093Z"
+  "updatedAt": "2026-11-20T20:01:09.703Z"
 }

@@ -82,5 +82,23 @@
     "articleId": "ncs-lamborghini-2027-temerario_spyder",
     "articleTitle": "Lamborghini Temerario Spyder",
     "usedAt": "2026-11-20T07:03:32.095Z"
+  },
+  "yangwang-u8": {
+    "source": "netcarshow",
+    "articleId": "ncs-byd-2027-yangwang_altior",
+    "articleTitle": "BYD Yangwang Altior",
+    "usedAt": "2026-11-20T20:00:54.115Z"
+  },
+  "audi-a2-e-tron": {
+    "source": "netcarshow",
+    "articleId": "ncs-audi-2027-a2_e-tron",
+    "articleTitle": "Audi A2 e-tron",
+    "usedAt": "2026-11-20T20:01:02.146Z"
+  },
+  "volkswagen-t-roc": {
+    "source": "netcarshow",
+    "articleId": "ncs-volkswagen-2027-t-roc_r",
+    "articleTitle": "Volkswagen T-Roc R",
+    "usedAt": "2026-11-20T20:01:09.704Z"
   }
 }
