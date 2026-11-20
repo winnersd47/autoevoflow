@@ -561,7 +561,9 @@
     "cad-hyundai-elantra-n-2028",
     "cad-news-a74473109-2028-genesis-g80-hybrid-revealed",
     "ncs-hyundai-2027-elantra",
-    "jlp-2321034-2027-hyundai-elantra-hybrid-sedan-us-spec-f9bce1"
+    "jlp-2321034-2027-hyundai-elantra-hybrid-sedan-us-spec-f9bce1",
+    "rat-photos-a74411519-see-every-angle-of-the-2027-bfc8f7",
+    "ncs-lamborghini-2027-temerario_spyder"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -900,7 +902,9 @@
     "rolls-royce__spectre-black-badge__2027",
     "hyundai__elantra__2028",
     "genesis__g80__2028",
-    "hyundai__elantra__2027"
+    "hyundai__elantra__2027",
+    "chevrolet__silverado__2027",
+    "lamborghini__temerario-spyder__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3741,8 +3745,26 @@
         "jlp-2321034-2027-hyundai-elantra-hybrid-sedan-us-spec-f9bce1"
       ],
       "updatedAt": "2026-11-19T20:29:50.782Z"
+    },
+    "chevrolet__silverado__2027": {
+      "messageId": 548,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "rat-photos-a74411519-see-every-angle-of-the-2027-bfc8f7"
+      ],
+      "updatedAt": "2026-11-20T07:03:25.522Z"
+    },
+    "lamborghini__temerario-spyder__2027": {
+      "messageId": 549,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-lamborghini-2027-temerario_spyder"
+      ],
+      "updatedAt": "2026-11-20T07:03:33.814Z"
     }
   },
-  "updatedAt": "2026-11-19T20:29:50.782Z",
-  "total": 562
+  "updatedAt": "2026-11-20T07:03:33.814Z",
+  "total": 564
 }

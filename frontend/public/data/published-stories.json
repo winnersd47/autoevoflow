@@ -1,6 +1,38 @@
 {
   "stories": [
     {
+      "modelKey": "lamborghini__temerario-spyder__2027",
+      "id": "ncs-lamborghini-2027-temerario_spyder",
+      "brand": "Lamborghini",
+      "brandSlug": "lamborghini",
+      "name": "Lamborghini Temerario Spyder",
+      "fullName": "2027 Lamborghini Temerario Spyder",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nСамый громкий звук в 2027 году — это не выстрел, а <b>10 000 об/мин</b> двигателя, который Lamborghini заставил реветь в открытом кузове, превратив обычный купе‑спидкар в первый в истории Spyder с ретрактируемой жёсткой крышкой.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nЭта крышка, появившаяся в 2027 году, стала логическим продолжением линейки, где предшествующее поколение‑купе уже использовало <i>twin‑turbo V8</i> с плоским‑плоскостным коленчатым валом.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nСочетание <i>flat‑plane crankshaft</i> и возможности подниматься до <b>10 250 об/мин</b> в режиме Launch Control делает её «самой быстрым» серийным открытым турбодвигателем.  \n\n🔮 <b>ПРОГНОЗ</b>\nВероятно, эта революционная комбинация повышенной оборотности и жёсткой крыши задаст тон будущим открытым суперкарам Lamborghini.",
+      "imageUrl": "https://www.netcarshow.com/Lamborghini-Temerario_Spyder-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/ncs-lamborghini-2027-temerario-spyder",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-11-20T07:03:32.093Z",
+      "teaserSentAt": "2026-11-20T07:03:33.800Z"
+    },
+    {
+      "modelKey": "chevrolet__silverado__2027",
+      "id": "rat-photos-a74411519-see-every-angle-of-the-2027-bfc8f7",
+      "brand": "Chevrolet",
+      "brandSlug": "chevrolet",
+      "name": "2027 Chevrolet Silverado",
+      "fullName": "2027 Chevrolet Silverado",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ 2019‑м году <b>Silverado Gen.4</b> с <b>420л.с.</b> показал, что платформа <i>shared</i> с <i>GMC Sierra</i> вынуждает инженеров решать задачу совместимости кузовных модулей и тяжёлого дизеля.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nК 2027‑му году <b>Silverado Gen.5</b> поднялся до <b>481л.с.</b>, требуя новой рамы, способной выдержать <i>8.3‑liter turbodiesel</i> и сохранять грузоподъёмность.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nТот же кросс‑брендовый фундамент, что и у <i>GMC Sierra</i>, теперь служит базой для монстр‑двигателя, подчёркивая контраст: <i>Chevrolet</i> остаётся «рабочей лошадью», а <i>GMC</i> – «премиум‑трактором».  \n\n🔮 <b>ПРОГНОЗ</b>\nОжидаем, что эта платформа будет адаптирована под гибридные варианты, сохраняя совместимость с <i>GMC</i> без изменения базовой геометрии.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/4e5caef4-a97d-4ac4-a7e8-b7296673dfbb.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/chev-silverado-4",
+      "source": "roadandtrack",
+      "sourceLabel": "Road & Track",
+      "publishedAt": "2026-11-20T07:03:23.783Z",
+      "teaserSentAt": "2026-11-20T07:03:25.521Z"
+    },
+    {
       "modelKey": "hyundai__elantra__2027",
       "id": "ncs-hyundai-2027-elantra",
       "brand": "Hyundai",
@@ -892,39 +924,7 @@
       "source": "caranddriver",
       "sourceLabel": "Car and Driver",
       "publishedAt": "2026-10-24T05:05:11.919Z"
-    },
-    {
-      "modelKey": "lexus__nx-350h__2027",
-      "id": "rat-reviews-a74219191-tested-2027-lexus-nx-350h",
-      "brand": "Lexus",
-      "brandSlug": "lexus",
-      "name": "2027 Lexus NX 350h",
-      "fullName": "2027 Lexus NX 350h",
-      "year": 2027,
-      "story": "<b>1989</b> года, когда японская экономика достигла <b>трёх триллионов долларов</b>, Toyota запустила Lexus LS 400 — первую модель бренда, ставшую ответом на немецкую люксовую элиту. В <b>1992</b> году последовали LS 400 Phase II и ES300, а в <b>1993</b> — GS300, закладывающие основу для спортивного кроссовера будущего.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <b>236 л.с.</b> первоначального гибрида NX 350h до <b>244 л.с.</b> в <b>2027</b> году, сохранение платформы с <i>минимальными</i> изменениями, но чистый дизайн и обновлённый технококпит — это третье поколение NX, или «второй с половиной».\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nТолько гибридные силовые агрегаты: <i>NX 350h</i> и <i>NX 450h+</i>. В отличие от BMW X3 xDrive30e с <b>290 л.с.</b>, Lexus выбирает эффективность — <b>244 л.с.</b> и расход около <b>2,5 л/100 км</b>.\n\n🔮 ПРОГноз  \nК <b>2030</b> году Lexus уйдёт на полностью электрические платформы, и NX станет основой для <i>e-Lexus</i> — первого всеэлектрического кроссовера марки.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/747ff76e-32b2-4f07-b668-d35942ef988f.jpeg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/rat-reviews-a74219191-tested-2027-lexus-nx-350h",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
-      "publishedAt": "2026-10-24T05:04:26.923Z",
-      "teaserSentAt": "2026-10-24T05:04:28.653Z"
-    },
-    {
-      "modelKey": "kia__telluride-hybrid__2027",
-      "id": "tn-3929-2027-kia-telluride-hybrid-gets-31-mpg-and-saves-94d409",
-      "brand": "Kia",
-      "brandSlug": "kia",
-      "name": "2027 Kia Telluride Hybrid",
-      "fullName": "2027 Kia Telluride Hybrid",
-      "year": 2027,
-      "story": "<b>2019</b> года <i>Kia Telluride</i> запустила продажи с <b>291</b> л.с., но к <b>2027</b> году гибридный вариант вышел с <b>329</b> л.с. и <b>31</b> mpg комбинированного расхода топлива. Инженеры столкнулись с ключевой проблемой: как сохранить мощность при переходе на <i>2.5-литровый турбонаддув</i> + электромотор, не теряя проходимости и комфорта. Решение — гибридная трансмиссия с рекуперацией, что снизило расход на <b>745</b> долларов в год. В <b>2027</b> году <i>Telluride Hybrid</i> обогнулся <i>Hyundai Palisade Hybrid</i> благодаря более плотной настройке <i>HEV-системы</i>, хотя конкурент доминирует по цене (<b>61 180</b> долларов против <b>57 590</b>).  \n🔮 К <b>2030</b> году <i>Kia</i> заменит <i>HEV</i> на <i>PHEV</i> с <b>50</b> км пробега на энергии, усиливая позиции в сегменте люкс-внедорожников.",
-      "imageUrl": "https://www.torquenews.com/sites/default/files/images/2027-kia-telluride-%283%29_0.jpeg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/tn-3929-2027-kia-telluride-hybrid-gets-31-mpg-and-saves-94d409",
-      "source": "torquenews",
-      "sourceLabel": "Torque News",
-      "publishedAt": "2026-10-24T02:04:28.536Z",
-      "teaserSentAt": "2026-10-24T02:04:30.274Z"
     }
   ],
-  "updatedAt": "2026-11-19T20:29:49.111Z"
+  "updatedAt": "2026-11-20T07:03:32.093Z"
 }
