@@ -100,5 +100,23 @@
     "articleId": "ncs-volkswagen-2027-t-roc_r",
     "articleTitle": "Volkswagen T-Roc R",
     "usedAt": "2026-11-20T20:01:09.704Z"
+  },
+  "volkswagen-golf-gti-rabbit-edition": {
+    "source": "netcarshow",
+    "articleId": "ncs-volkswagen-2027-golf_gti_rabbit_edition",
+    "articleTitle": "Volkswagen Golf GTI Rabbit Edition",
+    "usedAt": "2026-11-21T06:58:01.152Z"
+  },
+  "audi-sq7": {
+    "source": "netcarshow",
+    "articleId": "ncs-audi-2027-sq7",
+    "articleTitle": "Audi SQ7",
+    "usedAt": "2026-11-21T06:59:16.818Z"
+  },
+  "toyota-toyota-tundra-first-drive": {
+    "source": "thedrive",
+    "articleId": "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2",
+    "articleTitle": "2027 Toyota Tundra First-Drive",
+    "usedAt": "2026-11-21T06:59:32.949Z"
   }
 }

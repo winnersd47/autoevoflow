@@ -566,7 +566,10 @@
     "ncs-lamborghini-2027-temerario_spyder",
     "ncs-byd-2027-yangwang_altior",
     "ncs-audi-2027-a2_e-tron",
-    "ncs-volkswagen-2027-t-roc_r"
+    "ncs-volkswagen-2027-t-roc_r",
+    "ncs-volkswagen-2027-golf_gti_rabbit_edition",
+    "ncs-audi-2027-sq7",
+    "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -910,7 +913,10 @@
     "lamborghini__temerario-spyder__2027",
     "byd__yangwang-altior__2027",
     "audi__a2-e-tron__2027",
-    "volkswagen__t-roc__2027"
+    "volkswagen__t-roc__2027",
+    "volkswagen__golf-gti-rabbit__2027",
+    "audi__sq7__2027",
+    "toyota__tundra-first-__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3796,8 +3802,35 @@
         "ncs-volkswagen-2027-t-roc_r"
       ],
       "updatedAt": "2026-11-20T20:01:11.362Z"
+    },
+    "volkswagen__golf-gti-rabbit__2027": {
+      "messageId": 553,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-volkswagen-2027-golf_gti_rabbit_edition"
+      ],
+      "updatedAt": "2026-11-21T06:58:02.829Z"
+    },
+    "audi__sq7__2027": {
+      "messageId": 554,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-audi-2027-sq7"
+      ],
+      "updatedAt": "2026-11-21T06:59:18.493Z"
+    },
+    "toyota__tundra-first-__2027": {
+      "messageId": 555,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2"
+      ],
+      "updatedAt": "2026-11-21T06:59:34.618Z"
     }
   },
-  "updatedAt": "2026-11-20T20:01:11.362Z",
-  "total": 567
+  "updatedAt": "2026-11-21T06:59:34.618Z",
+  "total": 570
 }

@@ -1,6 +1,54 @@
 {
   "stories": [
     {
+      "modelKey": "toyota__tundra-first-__2027",
+      "id": "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2",
+      "brand": "Toyota",
+      "brandSlug": "toyota",
+      "name": "2027 Toyota Tundra First-Drive",
+      "fullName": "2027 Toyota Tundra First-Drive",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nТрудно‑мало‑мало, третье поколение Toyota Tundra появилось после четырнадцатилетнего второго поколения.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\n2027 <b>Tundra First‑Drive</b> — первое обновление за четыре года третьего поколения, добавлено в кузове coupe.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nВ статье отмечено, что 2027 <b>Tundra</b> исправила многие прошлые недочёты, но интерьер и варианты 4WD требуют доработки; тесты проведены в <i>TRD Off‑Road</i> и ограниченной версии.  \n\n🔮 <b>ПРОГНОЗ</b>\nОжидается, что Toyota продолжит выпускать дальнейшие обновления в рамках текущего поколения, но детали пока не объявлены.",
+      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/11/untitled-0027_c82db1-e1794839288333.jpeg?quality=85",
+      "pageUrl": "https://autoevo.agc-flow.online/model/ncs-toyota-2027-toyota-tundra-first-drive",
+      "source": "thedrive",
+      "sourceLabel": "The Drive",
+      "publishedAt": "2026-11-21T06:59:32.948Z",
+      "teaserSentAt": "2026-11-21T06:59:34.617Z"
+    },
+    {
+      "modelKey": "audi__sq7__2027",
+      "id": "ncs-audi-2027-sq7",
+      "brand": "Audi",
+      "brandSlug": "audi",
+      "name": "Audi SQ7",
+      "fullName": "2027 Audi SQ7",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nAudi Q7 третьего поколения — премиальный SUV с возможностью шести или семи сидений.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\n2027 Audi SQ7 заменил V6 на 4.0‑литровый twin‑turbo V8.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n<b>591 л.с.</b> и <b>590 lb‑ft</b> крутящего момента от <i>4.0‑liter twin turbo V8</i>; ускорение 0‑60 mph в &lt; b&gt;4.8 сек (для SQ7); доступен <i>illuminated panoramic sunroof</i> с переключаемой прозрачностью; варианты с шестью и семью сиденьями; <i>digital lighting technology</i> экстерьера.  \n\n🔮 <b>ПРОГНОЗ</b>\nОжидаем дальнейшее уточнение цен и доступных комплектаций; официальные даты поставок пока не объявлены.",
+      "imageUrl": "https://www.netcarshow.com/Audi-SQ7-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/ncs-audi-2027-sq7",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-11-21T06:59:16.817Z",
+      "teaserSentAt": "2026-11-21T06:59:18.492Z"
+    },
+    {
+      "modelKey": "volkswagen__golf-gti-rabbit__2027",
+      "id": "ncs-volkswagen-2027-golf_gti_rabbit_edition",
+      "brand": "Volkswagen",
+      "brandSlug": "volkswagen",
+      "name": "Volkswagen Golf GTI Rabbit Edition",
+      "fullName": "2027 Volkswagen Golf GTI Rabbit Edition",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>  \nVolkswagen Golf GTI Rabbit Edition — ограниченная версия, появившаяся после модели GTI S и GTI SE.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>  \nВ новой версии добавлены <i>blacked‑out design accents</i>, новые эмблемы спереди и сзади, а также <i>chassis upgrades</i> для улучшения управляемости в поворотах.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>  \nМодель <b>2027.5 GTI Rabbit Edition</b> была продемонстрирована <b>2026 Los Angeles Auto Show</b>, предназначена только для США, ограниченный тираж, размещается между GTI S и GTI SE. В основе — <i>mild‑hybrid 48‑V EA888 evo5</i> с мощностью <b>245 kW (333 PS)</b> и крутящим моментом <b>420 Nm</b>.  \n\n🔮 <b>ПРОГНОЗ</b>  \nОжидается, что Volkswagen объявит детали поставок и окончательный тираж в ближайшее время; дальнейшие версии пока не анонсированы.",
+      "imageUrl": "https://www.netcarshow.com/Volkswagen-Golf_GTI_Rabbit_Edition-2027-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/ncs-volkswagen-2027-golf-gti-rabbit-edition",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-11-21T06:58:01.150Z",
+      "teaserSentAt": "2026-11-21T06:58:02.828Z"
+    },
+    {
       "modelKey": "volkswagen__t-roc__2027",
       "id": "ncs-volkswagen-2027-t-roc_r",
       "brand": "Volkswagen",
@@ -880,54 +928,7 @@
       "sourceLabel": "NetCarShow",
       "publishedAt": "2026-10-25T20:04:33.538Z",
       "teaserSentAt": "2026-10-25T20:04:35.254Z"
-    },
-    {
-      "modelKey": "honda__vezel__2027",
-      "id": "carscoops-2295069-2027-honda-vezel-japan-updates-black-sport",
-      "brand": "Honda",
-      "brandSlug": "honda",
-      "name": "2027 Honda Vezel",
-      "fullName": "2027 Honda Vezel",
-      "year": 2027,
-      "story": "🏛 ИСТОРИЕЙ Honda Vezel считается 2014 год выхода первого поколения, но истоки — в 1978 году, когда <i>Honda Prelude</i> задала планку компактности и эффективности для всей линейки бренда.  \n\n🧬 ЭВОЛЮЦИЯ модели шла через три поколения: 2014, 2018 и 2021. Последнее дебютировало с гибридной установкой <i>e:HEV</i>, а 2024-й фасеточный апдейт добавил темные фонари и пакет Play.  \n\n⚡ ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ — это не дизайн, а <b>инженерный компромисс</b>: в 2027-м Vezel сохранил 7-дюймовый кластер и 9-дюймовый экран, но добавил задние вентиляторы и USB-C. В то время как <i>Suzuki Vitara</i> в Европе пошёл на 11-дюймовый дисплей, Honda сберегла вертикальную планку — чтобы не перегрузить архитектуру <i>Honda Sensing</i> и не усложнять калибровку камер.  \n\n🔮 ПРОГНОЗ: к 2029 году Vezel перейдёт на единую платформу <i>e:HEV 2.0</i> с интеграцией ИИ-помощника, сократив количество отдельных микроконтроллеров на борту с 12 до 6.",
-      "imageUrl": "https://www.carscoops.com/img/gallery/2027-honda-vezel-gets-a-black-sport-style-glow-up-in-japan/intro-1792756166.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/carscoops-2295069-2027-honda-vezel-japan-updates-black-sport",
-      "source": "carscoops",
-      "sourceLabel": "Carscoops",
-      "publishedAt": "2026-10-24T20:04:25.215Z",
-      "teaserSentAt": "2026-10-24T20:04:26.975Z"
-    },
-    {
-      "modelKey": "bmw__ix5-xdrive-proves__2027",
-      "id": "rat-reviews-a74229222-2027-bmw-ix5-60-xdrive-drive-review",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "2027 BMW iX5 60 xDrive",
-      "fullName": "2027 BMW iX5 60 xDrive",
-      "year": 2027,
-      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1988 году</b> немецкий автопроизводитель представил первый серийный внедорожник BMW — <i>E30 X5</i>, ставший символом перехода массового потребителя к комфорту и статусу. Спустя <b>35 лет</b> эта линейность эволюционировала в электромобили, где <b>2027 BMW iX5 60 xDrive</b> стал первой моделью с чисто электрическим приводом, сохранив наследие X5 в эпоху углеродного следа.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nОт <b>2,0-литрового турбированного четырёхцилиндрового двигателя</b> <i>B48</i> с <b>248 л.с.</b> в <i>X5 xDrive40i</i> до <b>579 л.с.</b> и <b>593 фунт-футов крутящего момента</b> в <b>iX5 60 xDrive</b>, где батарея объёмом <b>144 кВт·ч</b> заменяет бензиновый бак. Наследуя платформу <i>CLAR</i>, но перейдя на <i>iDrive 9</i>, модель прибавила <b>1 200 фунтов</b> к массе, достигнув <b>6 400 фунтов</b>.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nС <b>0–60 миль/ч за 4,59 секунды</b>, <b>iX5</b> обгоняет <i>iX xDrive60</i> (<b>517 л.с.</b>) и приближается к <i>Tesla Model X Plaid</i> (<b>1 020 л.с.</b>), сохраняя плавность хода благодаря <i>пневмоподвеске</i>. В отличие от <i>Audi e-tron GT</i> (<b>470 л.с.</b>), <b>iX5</b> предлагает <b>460 кВт быстрой зарядки</b>, приближаясь к уровню <i>Porsche Taycan</i>.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030 году</b> BMW заменит половину линейки на электромобили с <i>твердоэлектролитными батареями</i>. Рост спроса на внедорожники с <b>500+ л.с.</b> и <b>600+ км пробега</b> подаст мотор в <b>iX5</b>-потомках с <b>800-вольтовой архитектурой</b>.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c9659f4c-3d39-47aa-a665-ac9f87c0bea2.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/rat-reviews-a74229222-2027-bmw-ix5-60-xdrive-drive-review",
-      "source": "roadandtrack",
-      "sourceLabel": "Road & Track",
-      "publishedAt": "2026-10-24T14:04:25.417Z",
-      "teaserSentAt": "2026-10-24T14:04:27.153Z"
-    },
-    {
-      "modelKey": "bmw__7-series__2027",
-      "id": "cad-reviews-a74181769-2027-bmw-7-series-drive",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "2027 BMW 7-Series",
-      "fullName": "2027 BMW 7-Series",
-      "year": 2027,
-      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>1977</b> году, когда трио <i>Devo</i> выпускало альбом «Q: Are We Not Men? A: We Are Devo!», BMW запустил <b>7 Series E23</b> — первый автомобиль бренда с системой <i>Check Control</i>. Это совпало с кризисом нефти и ростом электромобилей в США, где <b>GM EV1</b> уже ездил по Лос-Анджелесу.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nС тех пор BMW выпустил <b>шесть поколений</b> 7 Series, увеличив максимальную мощность с <b>210</b> до <b>620</b> л.с. в версии <i>M760i xDrive</i>. Последнее поколение, <b>G78</b>, дебютировало в <b>2022</b>, а к <b>2027</b> году становится платформой для полностью электрического <i>i7 xDrive60</i>.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\n2027 BMW 7-Series предлагает <b>12</b> вариантов салона и <b>37</b> оттенков краски, тогда как <b>Mercedes S-Class</b> за 2026 год предлагала лишь <b>8</b>. Этот maximalistский подход — ответ на роскошный минимализм конкурентов.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030</b> году BMW заменит все бензинные версии 7 Series на гибридные и электромобили, сохранив при этом максимализм в кастомизации.",
-      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/845ae470-48ee-4b27-859e-fb5d0b522ddc.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/cad-reviews-a74181769-2027-bmw-7-series-drive",
-      "source": "caranddriver",
-      "sourceLabel": "Car and Driver",
-      "publishedAt": "2026-10-24T11:05:36.827Z"
     }
   ],
-  "updatedAt": "2026-11-20T20:01:09.703Z"
+  "updatedAt": "2026-11-21T06:59:32.948Z"
 }
