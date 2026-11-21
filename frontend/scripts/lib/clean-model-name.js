@@ -64,7 +64,9 @@ for (const w of ['with','without','for','in','at','on','to','as','and','or','but
 // "Works" сознательно НЕТ в списке: "Defender Works V8", "John Cooper Works" — настоящие комплектации.
 const FUNC_NEXT = /^(on|to|for|in|a|an|the|by|with|its|your|you|that|more|less|new|big|all|at|from|up|out|over|into|under|across|through|around|onto|toward|towards|beyond|behind|between|among|against|along|amid|within|without|upon|off|away|back)$/i
 // Служебные слова на конце заголовка. Артикли сюда НЕ входят: "A" на конце — часть имени (Ferrari 356 A, 458 Speciale A).
-const TRAILING_NOISE = /^(review|reviewed|first|look|drive|driven|test|tested|preview|revealed|unveiled|spied|spotted|teased|leaked|price|pricing|specs|interior|exterior|gallery|photos|video|to|more|less|than|and|or|of|in|on|for|with|the|its|by|at|as|vs|due|production)$/i
+// Слитные через дефис формы слов обзора («First-Drive», «Road-Test») — те же служебные слова: 21.11.2026 в ленту и в
+// заголовок поста попало «2027 Toyota Tundra First-Drive» (имя собрано из адреса статьи The Drive).
+const TRAILING_NOISE = /^(review|reviewed|first|look|drive|driven|test|tested|preview|revealed|unveiled|spied|spotted|teased|leaked|price|pricing|specs|interior|exterior|gallery|photos|video|first-drive|first-look|first-test|first-impressions|road-test|test-drive|long-term|to|more|less|than|and|or|of|in|on|for|with|the|its|by|at|as|vs|due|production)$/i
 // Притяжательная форма ("Folgore's", "Honda’s"): не часть названия модели. Исключения — официальные комплектации ("Founder's Edition").
 const POSS_TOK = /^[A-Za-z0-9][\w.-]*[’']s$/i
 const POSS_KEEP_NEXT = /^(edition|special|series|collection|package|limited|signature|anniversary|tribute|cup|trophy|spec|version|model|choice)$/i
