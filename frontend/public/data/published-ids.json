@@ -569,7 +569,8 @@
     "ncs-volkswagen-2027-t-roc_r",
     "ncs-volkswagen-2027-golf_gti_rabbit_edition",
     "ncs-audi-2027-sq7",
-    "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2"
+    "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2",
+    "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -916,7 +917,8 @@
     "volkswagen__t-roc__2027",
     "volkswagen__golf-gti-rabbit__2027",
     "audi__sq7__2027",
-    "toyota__tundra-first-__2027"
+    "toyota__tundra-first-__2027",
+    "toyota__grmn-corolla__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3829,8 +3831,17 @@
         "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2"
       ],
       "updatedAt": "2026-11-21T06:59:34.618Z"
+    },
+    "toyota__grmn-corolla__2027": {
+      "messageId": 556,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review"
+      ],
+      "updatedAt": "2026-11-21T19:07:14.588Z"
     }
   },
-  "updatedAt": "2026-11-21T06:59:34.618Z",
-  "total": 570
+  "updatedAt": "2026-11-21T19:07:14.588Z",
+  "total": 571
 }

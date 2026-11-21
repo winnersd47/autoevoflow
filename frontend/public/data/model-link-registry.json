@@ -118,5 +118,11 @@
     "articleId": "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2",
     "articleTitle": "2027 Toyota Tundra First-Drive",
     "usedAt": "2026-11-21T06:59:32.949Z"
+  },
+  "toyota-grmn-corolla": {
+    "source": "jalopnik",
+    "articleId": "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review",
+    "articleTitle": "2027 Toyota GRMN Corolla",
+    "usedAt": "2026-11-21T19:07:12.876Z"
   }
 }
