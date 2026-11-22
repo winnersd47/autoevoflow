@@ -124,5 +124,17 @@
     "articleId": "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review",
     "articleTitle": "2027 Toyota GRMN Corolla",
     "usedAt": "2026-11-21T19:07:12.876Z"
+  },
+  "ferrari-296-challenge-evo": {
+    "source": "netcarshow",
+    "articleId": "ncs-ferrari-2027-296_challenge_evo",
+    "articleTitle": "Ferrari 296 Challenge Evo",
+    "usedAt": "2026-11-22T06:35:17.950Z"
+  },
+  "ferrari-296-challenge-stradale": {
+    "source": "netcarshow",
+    "articleId": "ncs-ferrari-2027-296_challenge_stradale",
+    "articleTitle": "Ferrari 296 Challenge Stradale",
+    "usedAt": "2026-11-22T06:35:33.321Z"
   }
 }

@@ -570,7 +570,9 @@
     "ncs-volkswagen-2027-golf_gti_rabbit_edition",
     "ncs-audi-2027-sq7",
     "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2",
-    "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review"
+    "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review",
+    "ncs-ferrari-2027-296_challenge_evo",
+    "ncs-ferrari-2027-296_challenge_stradale"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -918,7 +920,9 @@
     "volkswagen__golf-gti-rabbit__2027",
     "audi__sq7__2027",
     "toyota__tundra-first-__2027",
-    "toyota__grmn-corolla__2027"
+    "toyota__grmn-corolla__2027",
+    "ferrari__challenge-evo__2027",
+    "ferrari__challenge-stradale__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3840,8 +3844,26 @@
         "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review"
       ],
       "updatedAt": "2026-11-21T19:07:14.588Z"
+    },
+    "ferrari__challenge-evo__2027": {
+      "messageId": 557,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-ferrari-2027-296_challenge_evo"
+      ],
+      "updatedAt": "2026-11-22T06:35:19.601Z"
+    },
+    "ferrari__challenge-stradale__2027": {
+      "messageId": 558,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-ferrari-2027-296_challenge_stradale"
+      ],
+      "updatedAt": "2026-11-22T06:35:34.964Z"
     }
   },
-  "updatedAt": "2026-11-21T19:07:14.588Z",
-  "total": 571
+  "updatedAt": "2026-11-22T06:35:34.964Z",
+  "total": 573
 }
