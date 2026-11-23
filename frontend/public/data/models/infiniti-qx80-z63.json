@@ -16,5 +16,28 @@
   "createdAt": "2026-10-29T20:17:32.394Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2019_Infiniti_QX80_Limited_in_Moonstone_White%2C_front_left.jpg/3840px-2019_Infiniti_QX80_Limited_in_Moonstone_White%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2019_Infiniti_QX80_Limited_in_Moonstone_White%2C_front_left.jpg/3840px-2019_Infiniti_QX80_Limited_in_Moonstone_White%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T20:17:32.394Z"
+  "updatedAt": "2026-10-29T20:17:32.394Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.78,
+    "predictedHp": 505,
+    "predictedEngine": "plug-in hybrid twin-turbo V6",
+    "designTrends": [
+      "уголок «крыло‑птица» в передней части, более агрессивный решётка‑решётка с подсветкой",
+      "смелые линии кузова, широкие арки колес и более низкая посадка для лучшей аэродинамики",
+      "полностью панорамный люк с электро‑тёмным стеклом и интегрированный в крышу OLED‑дисплей",
+      "ярко‑контрастные акцентные цвета в виде «красных полос» по боковым склонам"
+    ],
+    "techTrends": [
+      "полностью цифровая приборная панель 15‑дюйм с гибкой конфигурацией UI",
+      "система автономного вождения уровня 3 с возможностью «автопарковки» в 3‑м квадратных метрах",
+      "интегрированный 48‑В электросистема и система рекуперации энергии торможения",
+      "интерактивный HUD с проекцией AR‑навигации и предупреждениями о препятствиях",
+      "беспроводная зарядка для смартфонов и планшетов в каждом сиденье"
+    ],
+    "narrative": "Следующее поколение Infiniti QX80 будет представлять собой гибридную трансформацию, где традиционный мощный V6‑твин‑турбо получит поддержку электрической системы, позволяя достичь 505 л.с. и почти мгновенного крутящего момента. Это решение отвечает росту требований к экологичности без потери характерного для QX80 уровня роскоши и динамики.  \n\nДизайн будет сочетать в себе классический премиум‑стиль Infiniti с новыми аэродинамическими элементами: более широкая решётка, выразительные светодиодные фары и панорамный люк, создающие ощущение простора и технологичности. Внутри внимание сосредоточено на цифровом опыте – 15‑дюймовый дисплей, AR‑HUD и персонализированные зоны комфорта, а также система автономного вождения уровня 3, позволяющая владельцу отдыхать за рулём в длительных поездках.",
+    "imagePrompt": "A futuristic large luxury SUV, 2029 Infiniti QX80 concept, plug-in hybrid twin-turbo V6, aggressive illuminated grille, sweeping body lines, panoramic OLED roof, sleek black paint with red accent stripes, high-detail, realistic lighting, night city backdrop",
+    "marketContext": "QX80 2029 позиционируется как премиальный гибридный SUV в сегменте full-size, конкурируя с Lexus LX 600, Mercedes‑GLS и Range Rover, предлагая сочетание мощности, роскоши и экологичности.",
+    "generatedAt": "2026-11-23T20:01:36.141Z"
+  }
 }

@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T20:27:45.877Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T20:27:45.877Z"
+  "updatedAt": "2026-10-29T20:27:45.877Z",
+  "nextgenPrediction": {
+    "predictedYear": 2032,
+    "confidence": 0.78,
+    "predictedHp": 650,
+    "predictedEngine": "dual‑motor EV with 48 V mild‑hybrid range extender",
+    "designTrends": [
+      "Крупные, но аэродинамически оптимизированные боковые линии с характерным «шипом» Alfa Romeo в задней части",
+      "Светодиодные матричные фары с адаптивным проекционным светом, оформленные в виде «крыльев»",
+      "Смелый, почти безрамочный кузов, подчёркнутый крупными 22‑дюймовыми лёгкосплавными дисками",
+      "Интегрированный задний спойлер‑крыло, работающий как активный аэродинамический элемент",
+      "Тонированные стекла с электролюминесцентными вставками для динамичной подсветки"
+    ],
+    "techTrends": [
+      "800 V архитектура, быстрая зарядка до 80 % за 15 минут",
+      "Система управления энергией AI‑driven, оптимизирующая распределение мощности между моторами и батареей",
+      "Полностью цифровая приборная панель 15,0\" с голографическим HUD",
+      "Продвинутая система автономного вождения Level 3+ с функцией «мульти‑модульного» вождения",
+      "Беспроводная зарядка «over‑the‑air» для обновления ПО и микроподзарядки батареи"
+    ],
+    "narrative": "Следующее поколение Alfa Romeo Stelvio будет воплощать философию «Эволюция без компромиссов», сочетая истинный итальянский драйв с полностью электрическим приводом. Платформа будет построена на новой архитектуре STLA Ultra, позволяющей разместить батарею ёмкостью 100 kWh в центральной части шасси, что снизит центр тяжести и улучшит динамику. Трёхмоторный набор (два на оси и один в виде 48 V микро‑генератора) обеспечит мгновенный крутящий момент, позволяя разгонять Stelvio от 0 до 100 км/ч за 3,8 секунды, сохраняя при этом дальность до 650 км по WLTP.\n\nДизайн будет отсылает к наследию Alfa Romeo: выразительный «шип» в решётке, плавные линии, подчёркнутые аэродинамикой, и динамичное освещение, которое меняет цвет в зависимости от режима вождения. Внутри — полностью цифровой кокпит, поддержка голосового ассистента Alfa AI и возможность персонализировать интерфейс под каждый профиль водителя. Такое сочетание высочайшей производительности, экологичности и эмоционального дизайна позиционирует Stelvio как премиум‑кроссовер, способный конкурировать с лучшими электромобилями в сегменте mid‑size SUV.",
+    "imagePrompt": "A futuristic 2032 Alfa Romeo Stelvio concept, sleek aerodynamic SUV with a sharp Alfa Romeo shark nose grille, dual LED matrix headlights shaped like wings, 22-inch alloy wheels, active rear spoiler, tinted glass with subtle glowing accents, side view showing a low center of gravity, set on a modern mountain road at sunset, ultra‑realistic, high detail, cinematic lighting",
+    "marketContext": "Stelvio 2032 будет ориентирован на премиум‑сегмент электроседанов‑кроссоверов, конкурируя с Mercedes‑EQE SUV, BMW iX и Audi Q5 e‑tron, предлагая уникальный стиль и динамику Alfa Romeo.",
+    "generatedAt": "2026-11-23T20:04:17.912Z"
+  }
 }

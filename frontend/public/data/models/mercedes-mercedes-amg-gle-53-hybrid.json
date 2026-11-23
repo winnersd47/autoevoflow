@@ -22,5 +22,28 @@
   "isLatest": true,
   "scrapedAt": "2026-10-16T02:04:01.526Z",
   "createdAt": "2026-10-16T02:04:11.487Z",
-  "updatedAt": "2026-10-16T02:04:11.488Z"
+  "updatedAt": "2026-10-16T02:04:11.488Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.78,
+    "predictedHp": 650,
+    "predictedEngine": "3.0L V6 turbo + electric motor (PHEV)",
+    "designTrends": [
+      "Aerodynamic silhouette with active grille shutters",
+      "Sculpted LED matrix lighting with dynamic signatures",
+      "Carbon‑fiber rear spoiler integrated into the roofline",
+      "Wider wheel arches and flared fenders for a muscular stance"
+    ],
+    "techTrends": [
+      "48‑V high‑voltage system plus 100 kW electric boost",
+      "Next‑gen 4MATIC+ with torque vectoring and rear‑axle e‑axle",
+      "Augmented‑reality HUD with AI‑driven driver assistance",
+      "Full over‑the‑air software updates and modular digital cockpit",
+      "Integrated solar roof panel for auxiliary battery charging"
+    ],
+    "narrative": "Следующее поколение AMG GLE 53 будет представлять собой эволюцию гибридного супер‑внедорожника, где мощность и эффективность находятся в идеальном балансе. Сочетание 3,0‑литрового V6 с турбонаддувом и мощного электрического мотора, способного добавить до 100 кВт, поднимает суммарную мощность до 650 л.с., а крутящий момент превышает 750 Н·м. Автомобиль сохраняет полноприводную систему 4MATIC+, но теперь она оснащена активным распределением крутящего момента на каждое колесо, что гарантирует максимальное сцепление в любых условиях.\n\nДизайн будет подчёркнут динамичными линиями, активными элементами аэродинамики и световыми решениями, которые станут фирменным «цифровым отпечатком» AMG. Инновационные технологии, такие как AR‑HUD, система предиктивного управления энергопотреблением и встроенный солнечный панельный модуль, делают GLE 53 не только скоростным, но и умным, готовым к будущему автономных функций. Эта модель продолжит позиционирование AMG как лидера в премиальном сегменте «производительность + экологичность».",
+    "imagePrompt": "A futuristic high‑performance Mercedes AMG GLE 53 concept SUV, 2030 model year, sleek aerodynamic shape, active grille shutters, sculpted LED matrix headlights, carbon‑fiber rear spoiler, wide flared wheel arches, glowing blue accents, digital cockpit visible through open door, set on a modern cityscape at dusk, hyper‑realistic rendering",
+    "marketContext": "Модель будет ориентирована на премиум‑сегмент крупных гибридных SUV, конкурируя с BMW X5 M50i Hybrid и Audi Q8 TFSI e, предлагая высший уровень мощности и технологической интеграции.",
+    "generatedAt": "2026-11-23T20:02:06.866Z"
+  }
 }

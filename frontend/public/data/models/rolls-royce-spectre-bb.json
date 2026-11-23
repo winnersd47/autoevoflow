@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T19:29:36.447Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg/3840px-2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg/3840px-2024_Rolls-Royce_Spectre_in_Midnight_Sapphire_over_Silver%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T19:29:36.447Z"
+  "updatedAt": "2026-10-29T19:29:36.447Z",
+  "nextgenPrediction": {
+    "predictedYear": 2028,
+    "confidence": 0.81,
+    "predictedHp": 750,
+    "predictedEngine": "dual-motor EV with solid-state battery",
+    "designTrends": [
+      "Силуэт с более резкой линией крыши, создающий динамичную «пилотную» посадку",
+      "Скрытые дверные ручки и полностью безрамочный OLED‑фронтальный гриль",
+      "Легкие карбон‑фибровые панели кузова, комбинированные с традиционной алюминиевой рамой",
+      "Персонализируемая подсветка интерьера с 360° светодиодным панорамным потолком",
+      "Эмблема Black Badge в виде гравированного кристалла, подсвечиваемого лазером"
+    ],
+    "techTrends": [
+      "Твердотельные батареи ёмкостью 120 кВт·ч, обеспечивающие более 600 км запаса хода",
+      "AI‑управляемая адаптивная подвеска с предиктивным контролем стабилизации",
+      "Дополненная реальность HUD с проекцией навигации и информации о состоянии автомобиля",
+      "Голосовой ассистент нового поколения с естественной речью и функциями управления климатом и развлечениями",
+      "Беспроводные OTA‑обновления всех систем, включая автопилот уровня 3"
+    ],
+    "narrative": "Следующее поколение Rolls‑Royce Spectre Black Badge будет представлять собой кульминацию электрификации и безупречного роскоши. Сочетая мощный двойной электромотор, способный выдавать 750 л.с. и крутящий момент в 1300 Н·м, модель сохраняет характерный для Black Badge характер – агрессивный звук, мгновенный отклик и динамику, сравнимую с суперкарами, но при этом остаётся предельно тихой внутри салона. Твердотельные батареи позволяют увеличить дальность без потери веса, а система AI‑подвески адаптирует каждый километр к дорожным условиям, обеспечивая плавность, которой славятся автомобили Rolls‑Royce.\n\nДизайн нового Spectre Black Badge подчеркивает «ночную» эстетику: безрамочный OLED‑гриль, скрытые ручки и кристаллическая эмблема, подсвечиваемая лазером, создают ощущение мистической энергии. Интерьер переходит к полностью цифровому опыту, где панорамный светодиодный потолок и проекционный HUD превращают салон в пространство будущего, не жертвуя традиционным качеством материалов – кожа, редкое дерево и металлы остаются в центре внимания, лишь обрамленные инновационными световыми решениями.",
+    "imagePrompt": "A futuristic ultra‑luxury GT coupe, Rolls‑Royce Spectre Black Badge 2028 edition, sleek carbon‑fiber body, hidden door handles, full‑width OLED front grille, laser‑lit crystal Black Badge emblem, ambient interior lighting, panoramic LED ceiling, dual electric motors visible through subtle vents, night city backdrop, photorealistic",
+    "marketContext": "Позиционируется как премиальный электрический GT‑купе для самых взыскательных клиентов, конкурируя с Bentley Bentayga EV и Aston Martin DBX EV, укрепляя лидерство Rolls‑Royce в сегменте ультра‑роскоши.",
+    "generatedAt": "2026-11-23T19:59:19.544Z"
+  }
 }

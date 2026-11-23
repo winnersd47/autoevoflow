@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T18:42:56.743Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/3840px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg/3840px-Ford_World_Headquarters_from_sidewalk%2C_against_sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T18:42:56.743Z"
+  "updatedAt": "2026-10-29T18:42:56.743Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.78,
+    "predictedHp": 350,
+    "predictedEngine": "dual-motor ev",
+    "designTrends": [
+      "Скользящие аэродинамические линии с уменьшённым коэффициентом лобового сопротивления",
+      "Интегрированные матричные светодиодные фары и задняя подсветка",
+      "Увеличенные колесные арки и более высокий клиренс для уверенного поведения в городе и на бездорожье",
+      "Кузов из переработанных композитных панелей с модульными панелями доступа к батарее",
+      "Смелый двойной цветовой блок: металлик‑титан и акцентные неоновые вставки"
+    ],
+    "techTrends": [
+      "Твердотельный аккумулятор 800 V с диапазоном более 500 миль",
+      "Система Level‑3+ автопилота с адаптивным ИИ‑ассистентом \"Ford Co‑Pilot\"",
+      "Полностью OTA‑обновляемый программный стек, включая функции автопилота и мультимедиа",
+      "Интеграция Vehicle‑to‑Grid (V2G) для продажи электроэнергии в сеть",
+      "Бесконтактные инфракрасные сенсоры для мониторинга состояния батареи и предиктивного обслуживания"
+    ],
+    "narrative": "Следующее поколение Ford Fathom будет представлять собой эволюцию компактного электропикапа, объединяющего городскую манёвренность Maverick с грузовыми возможностями Lightning. На новой универсальной платформе UEV 2.0 модель получит двойной электромотор, способный развивать около 350 л.с., а твердотельный аккумулятор обеспечит более 500 миль пробега и быструю зарядку до 80 % за 15 минут. Фокус будет смещён от просто «пикапа» к «мультифункциональному мобильному пространству», где кузов легко трансформируется: от традиального грузового отсека до мобильного офиса или зоны отдыха.\n\nФилософия нового Fathom — устойчивость без компромиссов в производительности. Использование переработанных композитных материалов и модульных панелей упрощает ремонт и вторичную переработку, а система V2G превращает автомобиль в резервный источник энергии для дома. Внешний вид будет сочетать строгую аэродинамику с яркими акцентами, подчёркивающими технологический характер модели, а продвинутый Level‑3+ автопилот позволит водителю сосредоточиться на задачах, а не на дороге.",
+    "imagePrompt": "Futuristic compact electric pickup truck, sleek aerodynamic body, matte metallic teal with titanium accents, integrated matrix LED headlights, visible solid-state battery module, high-detail side view, dynamic lighting, realistic rendering",
+    "marketContext": "Модель будет позиционироваться между Ford Maverick EV и F‑150 Lightning, предлагая более доступный, но всё же мощный электропикап для городских профессионалов, которым нужна грузовая функциональность без лишних расходов.",
+    "generatedAt": "2026-11-23T19:59:14.191Z"
+  }
 }

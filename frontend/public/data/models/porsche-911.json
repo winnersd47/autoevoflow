@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T14:04:08.685Z",
   "heroImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg/3840px-1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
   "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg/3840px-1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-  "updatedAt": "2026-10-29T14:04:08.685Z"
+  "updatedAt": "2026-10-29T14:04:08.685Z",
+  "nextgenPrediction": {
+    "predictedYear": 2030,
+    "confidence": 0.81,
+    "predictedHp": 755,
+    "predictedEngine": "dual‑eTurbo hybrid (flat‑6 + two electric motors)",
+    "designTrends": [
+      "Узкие, активные аэродинамические элементы с полностью регулируемыми спойлерами",
+      "Карбоновый монокок с открытой текстурой и подсветкой в виде сетки",
+      "OLED‑освещение фар с динамической сигнатурой Porsche",
+      "Сокращённый передний свес и более агрессивный профиль крыши",
+      "Интегрированный задний диффузор с подсветкой"
+    ],
+    "techTrends": [
+      "800 V электрическая система + 48 V микросистема для мгновенного отклика",
+      "Твердотельные аккумуляторы в виде модульных панелей, увеличивающие ёмкость на 20 %",
+      "AI‑управляемый векторинг крутящего момента на всех четырёх колесах",
+      "Дополненная реальность в HUD с проекцией трассы и данных о состоянии автомобиля",
+      "Система предиктивного управления тормозами и подвеской на основе данных облака"
+    ],
+    "narrative": "Следующее поколение Porsche 911 Turbo S T‑Hybrid станет квинтэссенцией \"мощности без компромиссов\" и \"интеллектуального аэродинамического управления\". Модель получит полностью переработанный кузов, где каждый элемент – от передних светодиодных фар до заднего диффузора – будет активно менять форму в зависимости от режима вождения, обеспечивая оптимальное сцепление и минимальное сопротивление. Карбоновый монокок с открытой текстурой подчеркнёт технологический характер автомобиля, а OLED‑освещение придаст ему узнаваемый фирменный облик в темное время суток.\n\nПод капотом будет установлен новый flat‑6 с двойным eTurbo, поддерживаемый двумя электромоторами, работающими в режиме полного гибрида и в режиме чисто электрического ускорения. Совокупная мощность достигнет 755 л.с., а крутящий момент превзойдёт 1 300 Н·м, позволяя разгонять 911 от 0 до 100 км/ч за менее чем 2,3 секунды. Интегрированные твердотельные батареи и система 800 V обеспечат мгновенный электрический буст без потери дальности, а AI‑векторинг будет распределять крутящий момент между осями в реальном времени, делая управляемость предельно точной и предсказуемой.",
+    "imagePrompt": "A futuristic Porsche 911 Turbo S T-Hybrid 2030 concept, sleek low-slung silhouette, active aerodynamic flaps, carbon fiber monocoque with visible weave, glowing OLED headlights, rear diffuser with neon accents, high-detail, photorealistic, dynamic lighting, side view on a mountain road at sunset",
+    "marketContext": "Позиционируется как флагманский гиперкар в сегменте премиум-спорткаров, конкурируя с Lamborghini Aventador SVJ и Ferrari SF90 Stradale, предлагая высочайшую производительность и передовые гибридные технологии.",
+    "generatedAt": "2026-11-23T19:58:57.518Z"
+  }
 }

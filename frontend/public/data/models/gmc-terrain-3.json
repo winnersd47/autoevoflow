@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T20:13:59.158Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/2019_GMC_Terrain_Denali%2C_front_2.29.20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T20:13:59.158Z"
+  "updatedAt": "2026-10-29T20:13:59.158Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 215,
+    "predictedEngine": "2.0L turbo‑4 with mild‑hybrid (e‑Assist) and optional plug‑in hybrid",
+    "designTrends": [
+      "Более массивный, квадратный кузов, приближенный к языку Yukon/Acadia, но с более короткой колесной базой для компактности",
+      "Широкая решетка с подсветкой в фирменном «C」-стиле и вертикальные LED‑фары с адаптивным световым рисунком",
+      "Крупные колесные арки и «кросс‑брейк» детали (защищённые пороги, скруглённые пороги)",
+      "Плоская крыша с интегрированным панорамным люком и «зубчатым» задним спойлером для улучшения аэродинамики",
+      "Интерьер с 15‑дюймовым полностью цифровым приборным кластером и 14‑дюймовым центральным сенсорным дисплеем"
+    ],
+    "techTrends": [
+      "Стандартный пакет ADAS Level 2+: адаптивный круиз‑контроль, автопарковка, система предотвращения столкновений с пешеходами",
+      "Подключённый «GMC Infotainment 2.0» с OTA‑обновлениями, голосовым помощником и поддержкой беспроводного Apple CarPlay/Android Auto",
+      "Беспроводная зарядка, 2‑зонный климат‑контроль и система очистки воздуха с ионизацией",
+      "Опциональная система «Super Cruise» с поддержкой автопилота на шоссе",
+      "Электрический задний дифференциал с режимом «Terrain Select» для улучшения проходимости"
+    ],
+    "narrative": "Следующее поколение GMC Terrain будет представлять собой переход к гибридной архитектуре, сохраняя при этом узнаваемый «грузовой» характер бренда. На базе новой модульной платформы GMT‑C, модель получит 2.0‑литровый турбо‑четырёхцилиндровый двигатель, усиленный системой mild‑hybrid, а также опцию plug‑in hybrid, позволяющую проехать до 45 км на чистой электроэнергии. Мощность поднимется до 215 л.с., а крутящий момент — до 260 фунт‑фут, что обеспечит более динамичное ускорение и улучшенную проходимость в режиме AWD.\n\nДизайн будет ещё более «рабочим»: массивная решетка, чётко выраженные арки, усиленные пороги и скульптурные линии кузова подчеркнут прочность, а современные LED‑элементы и панорамный люк придадут модели премиальный вид. Внутри водителей ждёт полностью цифровой кокпит, продвинутая система помощи водителю и гибридные технологии, которые делают Terrain более экологичным, но не менее способным к приключениям. Таким образом, новый Terrain займет промежуточную нишу между традиционным компактным кроссовером и более крупными, полностью электрическими SUV GMC.",
+    "imagePrompt": "A 2029 GMC Terrain concept in a rugged yet refined style, matte dark gray exterior, bold rectangular grille with blue LED lighting, pronounced wheel arches, panoramic roof, standing on a forest trail at sunrise, interior visible through open doors showing a digital 15-inch cockpit and 14-inch touchscreen, realistic, high detail, cinematic lighting",
+    "marketContext": "Позиционируется как премиальный компактный кроссовер с гибридными опциями, конкурируя с Toyota RAV4 Hybrid, Honda CR‑V Hybrid и Ford Escape Plug‑In.",
+    "generatedAt": "2026-11-23T20:01:00.134Z"
+  }
 }

@@ -16,5 +16,29 @@
   "createdAt": "2026-10-29T20:28:53.918Z",
   "heroImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
   "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2026_Cadillac_Escalade_ESV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-  "updatedAt": "2026-10-29T20:28:53.918Z"
+  "updatedAt": "2026-10-29T20:28:53.918Z",
+  "nextgenPrediction": {
+    "predictedYear": 2029,
+    "confidence": 0.81,
+    "predictedHp": 770,
+    "predictedEngine": "plug-in hybrid V8 (twin‑turbo + electric motor)",
+    "designTrends": [
+      "Матовый черный «Stealth» лак с голографическим отливом",
+      "Вертикальная светодиодная решетка с лазерным подсвечиванием",
+      "Активные аэродинамические элементы: регулируемые спойлеры и диффузор",
+      "Полноширокая OLED‑полоса света в передней части кузова",
+      "Углеродные волокна в крышке капота и боковых панелях"
+    ],
+    "techTrends": [
+      "Уровень автономии 3 (полноправный автопилот в городе)",
+      "AR‑HUD с 3D‑картой маршрута и проекцией мультимедиа",
+      "Лидар‑сканер 360° для улучшенного восприятия окружающей среды",
+      "Беспроводная быстрая зарядка для электромотора (до 80% за 15 мин)",
+      "OTA‑обновления с возможностью «тюнинга» мощности в реальном времени"
+    ],
+    "narrative": "Следующее поколение Cadillac Escalade‑V будет представлено в 2029 году как символ перехода бренда к электрификации без потери легендарного американского мощного характера. Новая Escalade‑V 125th Anniversary Collector Series получит гибридный силовой агрегат — традиционный 6,2‑литровый V8 с двойным турбонаддувом, дополненный мощным электромотором, что позволит достичь 770 л.с. и мгновенного крутящего момента, а также сократить выбросы CO₂, отвечая требованиям новых экологических норм.\n\nДизайн будет сочетать массивность классического SUV с футуристическими элементами: матовый «Stealth» лак, вертикальная светодиодная решетка, активные аэродинамические спойлеры и углеродные волокна, подчеркивающие технологический прогресс. Технологический арсенал будет включать уровень автономии 3, AR‑HUD, лидар, беспроводную зарядку и OTA‑тюнинг, делая Escalade‑V не только самым мощным, но и самым умным кроссовером в своем сегменте.",
+    "imagePrompt": "Futuristic 2029 Cadillac Escalade-V luxury SUV, matte black stealth paint with holographic sheen, vertical laser-lit grille, carbon fiber hood and side panels, active aerodynamic spoilers, full-width OLED light bar, 24-inch forged wheels with blue accents, night city background, hyper‑realistic rendering",
+    "marketContext": "Escalade‑V 2029 позиционируется как премиальный флагманский SUV, конкурирующий с Range Rover SVAutobiography, Mercedes‑Maybach G‑Class и Bentley Bentayga, объединяя мощность, роскошь и передовые технологии.",
+    "generatedAt": "2026-11-23T20:04:49.074Z"
+  }
 }
