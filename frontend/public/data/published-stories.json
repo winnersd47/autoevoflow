@@ -1,6 +1,22 @@
 {
   "stories": [
     {
+      "modelKey": "kia__telluride__2027",
+      "id": "td-car-reviews-2027-kia-telluride-review",
+      "brand": "Kia",
+      "brandSlug": "kia",
+      "name": "2027 Kia Telluride",
+      "fullName": "2027 Kia Telluride",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nВ <b>2019</b> году вышел кроссовер <i>Kia Telluride</i>.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nВторое поколение <b>2027</b> модельного года получило переработанное шасси и гибридный вариант. Центральная консоль спереди сохранила крупные поручни.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nВнедорожное исполнение <i>X-Pro</i> получило отделку из прессованного углепластика. На центральной консоли установлены <b>две</b> беспроводные зарядные площадки и отсек внизу для сумки или компьютера. Тест включал свыше <b>500</b> миль пути за <b>две</b> поездки по <b>3,5</b> часа.\n\n🔮 <b>ПРОГНОЗ</b>\nОжидаем, что гибридная модификация флагмана будет предоставлена на дорожные тесты позднее.",
+      "imageUrl": "https://www.thedrive.com/wp-content/uploads/2026/11/untitled-0736-copy.jpeg?quality=85&amp;w=2048",
+      "pageUrl": "https://autoevo.agc-flow.online/model/kia-telluride-1",
+      "source": "thedrive",
+      "sourceLabel": "The Drive",
+      "publishedAt": "2026-11-23T23:48:56.227Z",
+      "teaserSentAt": "2026-11-23T23:48:57.888Z"
+    },
+    {
       "modelKey": "ferrari__challenge-stradale__2027",
       "id": "ncs-ferrari-2027-296_challenge_stradale",
       "brand": "Ferrari",
@@ -913,23 +929,7 @@
       "sourceLabel": "NetCarShow",
       "publishedAt": "2026-10-26T17:04:33.597Z",
       "teaserSentAt": "2026-10-26T17:04:35.431Z"
-    },
-    {
-      "modelKey": "mazda__cx-5__2027",
-      "id": "carscoops-2295896-2027-mazda-cx-5-updates-pricing",
-      "brand": "Mazda",
-      "brandSlug": "mazda",
-      "name": "2027 Mazda CX-5",
-      "fullName": "2027 Mazda CX-5",
-      "year": 2027,
-      "story": "<b>1978</b> года Mazda выпустила RX-7 SA22C — спорткар с роторным двигателем, который стал культовым в Японии, а в США продавался по цене около <b>$7,000</b>. Через девять лет, в <b>1981</b>, на смену первой RX-7 пришла Series II, а в том же году Mazda представила Mazda 929 HB — крупный седан с V6. В <b>1983</b> вышла Mazda 626 GC, а в <b>1985</b> — RX-7 FC, уже с улучшенной подвеской и турбонаддувом.\n\nЭти модели легли в основу эволюции кроссоверов. Если первые RX-7 развивали мощность — с <b>100</b> до <b>145</b> л.с. — то к <b>2027</b> Mazda CX-5 получает <b>187</b> л.с. от 2.5-литрового четырёхцилиндрового двигателя. Но главное — доступ к <i>Google Gemini</i>, ИИ-ассистенту, который заменяет прямые руки на руль.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nCX-5 теперь с <i>Google Gemini</i> и полным приводом в базе — это ответ на то же самое, что и у Toyota RAV4: <b>$31,485</b> против <b>$30,585</b>. Но вместо кнопок — голос.\n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2029</b> <i>Google Gemini</i> станет стандартом в Mazda, а к <b>2030</b> — заменит традиционный дисплей на нейроинтерфейс.",
-      "imageUrl": "https://www.carscoops.com/img/gallery/2027-mazda-cx-5-gets-google-gemini-across-the-board-31485-starting-price/intro-1792786970.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/carscoops-2295896-2027-mazda-cx-5-updates-pricing",
-      "source": "carscoops",
-      "sourceLabel": "Carscoops",
-      "publishedAt": "2026-10-26T14:04:48.384Z",
-      "teaserSentAt": "2026-10-26T14:04:50.227Z"
     }
   ],
-  "updatedAt": "2026-11-22T06:35:33.320Z"
+  "updatedAt": "2026-11-23T23:48:56.227Z"
 }

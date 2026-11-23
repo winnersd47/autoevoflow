@@ -572,7 +572,8 @@
     "td-car-reviews-2027-toyota-tundra-first-drive-review-c3acf2",
     "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review",
     "ncs-ferrari-2027-296_challenge_evo",
-    "ncs-ferrari-2027-296_challenge_stradale"
+    "ncs-ferrari-2027-296_challenge_stradale",
+    "td-car-reviews-2027-kia-telluride-review"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -922,7 +923,8 @@
     "toyota__tundra-first-__2027",
     "toyota__grmn-corolla__2027",
     "ferrari__challenge-evo__2027",
-    "ferrari__challenge-stradale__2027"
+    "ferrari__challenge-stradale__2027",
+    "kia__telluride__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3862,8 +3864,17 @@
         "ncs-ferrari-2027-296_challenge_stradale"
       ],
       "updatedAt": "2026-11-22T06:35:34.964Z"
+    },
+    "kia__telluride__2027": {
+      "messageId": 559,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "td-car-reviews-2027-kia-telluride-review"
+      ],
+      "updatedAt": "2026-11-23T23:48:57.890Z"
     }
   },
-  "updatedAt": "2026-11-22T06:35:34.964Z",
-  "total": 573
+  "updatedAt": "2026-11-23T23:48:57.890Z",
+  "total": 574
 }

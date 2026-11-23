@@ -136,5 +136,11 @@
     "articleId": "ncs-ferrari-2027-296_challenge_stradale",
     "articleTitle": "Ferrari 296 Challenge Stradale",
     "usedAt": "2026-11-22T06:35:33.321Z"
+  },
+  "kia-telluride": {
+    "source": "thedrive",
+    "articleId": "td-car-reviews-2027-kia-telluride-review",
+    "articleTitle": "2027 Kia Telluride",
+    "usedAt": "2026-11-23T23:48:56.229Z"
   }
 }
