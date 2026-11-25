@@ -1,6 +1,37 @@
 {
   "stories": [
     {
+      "modelKey": "toyota__sienna__2027",
+      "id": "cad-news-a74476966-2027-toyota-sienna-hybrid-minivan-revealed",
+      "brand": "Toyota",
+      "brandSlug": "toyota",
+      "name": "2027 Toyota Sienna Refreshed",
+      "fullName": "2027 Toyota Sienna Refreshed",
+      "year": 2027,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nМинивэн <i>Toyota Sienna</i> вышел в <b>1997</b> году. Второе поколение появилось в <b>2003</b> году, третье — в <b>2010</b> году, а четвертое дебютировало в <b>2021</b> году.\n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nВнешность версии <b>2027</b> года повторяет модель <b>2026</b> года. Отдача гибридной установки выросла на <b>6</b> л.с. до <b>251</b> л.с., а время разгона до 60 миль/ч сократилось на <b>0,3</b> секунды.\n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nМодель получила бензиновый мотор объемом <b>2,5</b> литра, батарею емкостью <b>1,15</b> кВт·ч и электромотор на <b>166</b> л.с. Версия с полным приводом оснащена задним электромотором на <b>54</b> л.с. В базовое оснащение вошли экраны на <b>12,3</b> дюйма и встроенный видеорегистратор.\n\n🔮 <b>ПРОГНОЗ</b>\nСтоимость и сроки начала продаж обновленного минивэна пока не названы.",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/406b96fc-2c91-4dbb-9574-362162015b14.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/model/toyota-sienna-1",
+      "source": "caranddriver",
+      "sourceLabel": "Car and Driver",
+      "publishedAt": "2026-11-25T21:38:26.889Z"
+    },
+    {
+      "modelKey": "suzuki__ignis__2028",
+      "id": "ncs-suzuki-2028-ignis",
+      "brand": "Suzuki",
+      "brandSlug": "suzuki",
+      "name": "Suzuki Ignis",
+      "fullName": "2028 Suzuki Ignis",
+      "year": 2028,
+      "story": "🏛 <b>ИСТОРИЯ</b>\nIgnis пришёл после поколения с традиционным ДВС, которое ранее представляло модель в сегменте компактных хэтчбеков.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nНовый Ignis — электрический хэтчбек с <b>компактным eAxle</b>, объединяющим <i>мотор</i>, <i>инвертор</i> и <i>редуктор</i> в одном блоке; использует <b>LFP‑батарею</b>; габарит — <b>3 840 мм</b> длиной, на <b>10 мм</b> короче предыдущей версии, а <b>колёсная база</b> увеличена на <b>20 мм</b>.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nSuzuki Motor Corporation провела онлайн‑премьеру <b>25 ноября 2026 г.</b>; продажи в Европе и других регионах запланированы на <b>лето 2027 г.</b>; дизайн подчёркнут «плавающей крышей» и черными столбами.  \n\n🔮 <b>ПРОГНОЗ</b>\nОжидается объявление дополнительных комплектаций в 2027 году, но детали пока не раскрыты.",
+      "imageUrl": "https://www.netcarshow.com/Suzuki-Ignis-2028-wallpaper.jpg",
+      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-suzuki-2028-ignis",
+      "source": "netcarshow",
+      "sourceLabel": "NetCarShow",
+      "publishedAt": "2026-11-25T21:37:36.393Z",
+      "teaserSentAt": "2026-11-25T21:37:38.123Z"
+    },
+    {
       "modelKey": "kia__telluride__2027",
       "id": "td-car-reviews-2027-kia-telluride-review",
       "brand": "Kia",
@@ -898,38 +929,7 @@
       "sourceLabel": "Electrek",
       "publishedAt": "2026-10-26T20:04:27.361Z",
       "teaserSentAt": "2026-10-26T20:04:29.111Z"
-    },
-    {
-      "modelKey": "bmw__x5__2027",
-      "id": "ncs-bmw-2027-x5",
-      "brand": "BMW",
-      "brandSlug": "bmw",
-      "name": "BMW X5",
-      "fullName": "2027 BMW X5",
-      "year": 2027,
-      "story": "<b>1968</b> года BMW выпустил 2002 tii — легендарный спортивный седан с 170 л.с., задним приводом и карбюратором, ставший основой для первых автогонов в США. Через <b>1971</b> появился 3.0 CSL с 200 л.с. и аэродинамикой, установившей рекорд на Nürburgring. Эти решения создали дух BMW — легкость, мощность, инженерный юмор.  \n\n🧬 <b>ЭВОЛЮЦИЯ</b>\nС тех пор маркеджинговый вызов — сделать внедорожник не просто практичным, а динамичным — решали через <i>E12</i>, <i>E21</i>, <i>E24</i>, <i>E23</i>. <b>1999</b> год принёс первый X5 с 220 л.с. и задне- и передним приводом, продав <b>7</b> млн копий за 25 лет.  \n\n⚡ <b>ЧТО ДЕЛАЕТ ЕЁ ОСОБЕННОЙ</b>\nВ <b>2027</b> X5 становится первой BMW с пятью типами движения — бензин, дизель, гибрид, водород, электро. BMW iX5 xDrive даёт <b>570</b> л.с. и <b>593</b> фунт-фунтов крутящего момента, разгон до <b>60</b> миль/ч за <b>4.4</b> секунды, пробег до <b>450</b> миль. Это больше, чем у Mercedes GLE 2026 (420 л.с., 350 миль), но хуже Tesla Model X Plaid (1020 л.с., 340 миль).  \n\n🔮 <b>ПРОГНОЗ</b>\nК <b>2030</b> X5 станет полностью электрическим, а водородные версии исчезнут с рынка. Новая платформа <i>Neue Klasse</i> станет основой для всех моделей BMW.",
-      "imageUrl": "https://www.netcarshow.com/BMW-X5-2027-wallpaper.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-bmw-2027-x5",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "publishedAt": "2026-10-26T17:06:44.731Z"
-    },
-    {
-      "modelKey": "nissan__pathfinder-special-edition__2027",
-      "id": "ncs-nissan-2027-pathfinder_special_edition",
-      "brand": "Nissan",
-      "brandSlug": "nissan",
-      "name": "Nissan Pathfinder Special Edition",
-      "fullName": "2027 Nissan Pathfinder Special Edition",
-      "year": 2027,
-      "story": "<b>1986</b> года Nissan выпустил первый Pathfinder как ответ на растущий спрос на семейные внедорожники с настоящей проходимостью. Через <b>41</b> лет, к <u>2027</u> Special Edition, инженеры столкнулись с ключевой проблемой: как сохранить наследие первого Pathfinder — его простоту и надёжность — не теряя при этом конкурентоспособности на рынке, где <i>Toyota 4Runner</i> и <i>Ford Bronco</i> уже предлагают гибридные силовые агрегаты.  \n\nЭта задача привела к эволюции модели: от кузова на легком шасси <b>1986</b> к полноразмерному SUV с монокузовом и <i>VCturbo</i>-двигателем. Последнее поколение, <u>2027</u>, стало отправной точкой для Special Edition — с <i>бургундийным интерьером</i>, отсылающим к оригиналу, и ценой от <b>$47 390</b>.  \n\nЧто делает её особенной — это попытка соединить nostalgia с современностью: <b>6000</b> фунтов тяговой способности при сохранении цены ниже, чем у конкурентов на <b>$5000–7000</b>.  \n\nВ <u>2029</u> мы увидим гибридную версию Pathfinder на базе <i>e-POWER</i>, что станет логичным продолжением этого баланса между прошлым и будущим.",
-      "imageUrl": "https://www.netcarshow.com/Nissan-Pathfinder_Special_Edition-2027-wallpaper.jpg",
-      "pageUrl": "https://autoevo.agc-flow.online/latest/ncs-nissan-2027-pathfinder_special_edition",
-      "source": "netcarshow",
-      "sourceLabel": "NetCarShow",
-      "publishedAt": "2026-10-26T17:04:33.597Z",
-      "teaserSentAt": "2026-10-26T17:04:35.431Z"
     }
   ],
-  "updatedAt": "2026-11-23T23:48:56.227Z"
+  "updatedAt": "2026-11-25T21:38:26.889Z"
 }

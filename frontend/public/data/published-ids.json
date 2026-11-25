@@ -573,7 +573,10 @@
     "jlp-2318730-2027-toyota-grmn-corolla-track-first-drive-review",
     "ncs-ferrari-2027-296_challenge_evo",
     "ncs-ferrari-2027-296_challenge_stradale",
-    "td-car-reviews-2027-kia-telluride-review"
+    "td-car-reviews-2027-kia-telluride-review",
+    "ncs-suzuki-2028-ignis",
+    "cad-news-a74476966-2027-toyota-sienna-hybrid-minivan-revealed",
+    "jlp-2326150-2027-toyota-sienna-hybrid-updates-mpg-specs"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -924,7 +927,9 @@
     "toyota__grmn-corolla__2027",
     "ferrari__challenge-evo__2027",
     "ferrari__challenge-stradale__2027",
-    "kia__telluride__2027"
+    "kia__telluride__2027",
+    "suzuki__ignis__2028",
+    "toyota__sienna__2027"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3873,8 +3878,27 @@
         "td-car-reviews-2027-kia-telluride-review"
       ],
       "updatedAt": "2026-11-23T23:48:57.890Z"
+    },
+    "suzuki__ignis__2028": {
+      "messageId": 560,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "ncs-suzuki-2028-ignis"
+      ],
+      "updatedAt": "2026-11-25T21:37:38.123Z"
+    },
+    "toyota__sienna__2027": {
+      "messageId": 362,
+      "hasPhoto": true,
+      "channelId": "-1004476377905",
+      "ids": [
+        "cad-news-a74476966-2027-toyota-sienna-hybrid-minivan-revealed",
+        "jlp-2326150-2027-toyota-sienna-hybrid-updates-mpg-specs"
+      ],
+      "updatedAt": "2026-11-25T21:38:26.890Z"
     }
   },
-  "updatedAt": "2026-11-23T23:48:57.890Z",
-  "total": 574
+  "updatedAt": "2026-11-25T21:38:26.890Z",
+  "total": 577
 }
