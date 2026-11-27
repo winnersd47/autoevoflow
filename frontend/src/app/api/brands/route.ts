@@ -12,6 +12,7 @@
  * (в графе таких полей нет, только brandId/brandName).
  */
 import { NextResponse } from 'next/server'
+import { CDN_CACHE_DATA } from '@/lib/cdn-cache'
 import fs from 'fs'
 import path from 'path'
 import { getBrandMeta } from '@/lib/brand-meta'
@@ -41,5 +42,5 @@ export async function GET() {
     })
     .sort((a, b) => b.models - a.models)
 
-  return NextResponse.json({ brands, total: brands.length })
+  return NextResponse.json({ brands, total: brands.length }, { headers: CDN_CACHE_DATA })
 }

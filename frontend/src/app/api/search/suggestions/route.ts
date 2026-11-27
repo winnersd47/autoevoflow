@@ -1,6 +1,7 @@
 // GET /api/search/suggestions?q=<partial> — простые автодополнения для SearchBar,
 // та же статика graph.json, без бэкенда (см. комментарий в ../route.ts).
 import { NextRequest, NextResponse } from 'next/server'
+import { CDN_CACHE_DATA } from '@/lib/cdn-cache'
 import fs from 'fs'
 import path from 'path'
 
@@ -17,7 +18,7 @@ function loadLabels() {
 
 export async function GET(req: NextRequest) {
   const q = (req.nextUrl.searchParams.get('q') || '').trim().toLowerCase()
-  if (q.length < 2) return NextResponse.json([])
+  if (q.length < 2) return NextResponse.json([], { headers: CDN_CACHE_DATA })
 
   const seen = new Set<string>()
   const out: string[] = []
@@ -29,5 +30,5 @@ export async function GET(req: NextRequest) {
       if (out.length >= 8) break
     }
   }
-  return NextResponse.json(out)
+  return NextResponse.json(out, { headers: CDN_CACHE_DATA })
 }

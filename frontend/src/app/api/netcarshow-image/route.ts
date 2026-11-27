@@ -4,6 +4,7 @@
  * URL должен быть из домена images.netcarshow.com или www.netcarshow.com.
  */
 import { NextRequest, NextResponse } from 'next/server'
+import { CDN_CACHE_IMAGE, CDN_CACHE_MISS } from '@/lib/cdn-cache'
 
 export const runtime = 'nodejs'
 // Без этого Next.js пытается статически сгенерировать этот GET-роут при
@@ -30,17 +31,17 @@ export async function GET(req: NextRequest) {
     const ct = upstream.headers.get('content-type') ?? ''
     if (!upstream.ok || !ct.startsWith('image/')) {
       // Возвращаем прозрачный 1x1 вместо ошибки → UI показывает fallback
-      return new NextResponse(null, { status: 204 })
+      return new NextResponse(null, { status: 204, headers: CDN_CACHE_MISS })
     }
     const buf = await upstream.arrayBuffer()
     return new NextResponse(buf, {
       status: 200,
       headers: {
         'Content-Type':  ct,
-        'Cache-Control': 'public, max-age=86400',   // кэш 1 день
+        ...CDN_CACHE_IMAGE,
       },
     })
   } catch {
-    return new NextResponse('fetch error', { status: 502 })
+    return new NextResponse('fetch error', { status: 502, headers: CDN_CACHE_MISS })
   }
 }

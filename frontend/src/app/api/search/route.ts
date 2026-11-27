@@ -14,6 +14,7 @@
  * читает JSON-файл), в отличие от Python-бэкенда.
  */
 import { NextRequest, NextResponse } from 'next/server'
+import { CDN_CACHE_DATA } from '@/lib/cdn-cache'
 import fs from 'fs'
 import path from 'path'
 
@@ -113,7 +114,7 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({
       results: [], total: 0, query: q, mode: 'semantic',
       processingTimeMs: Date.now() - started, sessionId: 'local',
-    })
+    }, { headers: CDN_CACHE_DATA })
   }
 
   let nodes: GraphNode[]
@@ -153,5 +154,5 @@ export async function GET(req: NextRequest) {
     mode: 'semantic',
     processingTimeMs: Date.now() - started,
     sessionId: 'local',
-  })
+  }, { headers: CDN_CACHE_DATA })
 }

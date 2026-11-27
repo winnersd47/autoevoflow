@@ -12,6 +12,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import fs from 'fs'
 import path from 'path'
+import { CDN_CACHE_IMAGE, CDN_CACHE_MISS } from '@/lib/cdn-cache'
 
 export const runtime = 'nodejs'
 
@@ -24,7 +25,7 @@ export async function GET(req: NextRequest) {
   // Читаем URL картинки только из локального доверенного файла модели
   const file = path.join(process.cwd(), 'public', 'data', 'models', `${slug}.json`)
   if (!fs.existsSync(file)) {
-    return new NextResponse('model not found', { status: 404 })
+    return new NextResponse('model not found', { status: 404, headers: CDN_CACHE_MISS })
   }
 
   let imgUrl = ''
@@ -34,7 +35,7 @@ export async function GET(req: NextRequest) {
   } catch {
     return new NextResponse('parse error', { status: 500 })
   }
-  if (!imgUrl) return new NextResponse('no image', { status: 404 })
+  if (!imgUrl) return new NextResponse('no image', { status: 404, headers: CDN_CACHE_MISS })
 
   // Белый список доверенных хостов (SSRF-защита) + Referer, нужный тем из
   // них, что проверяют hotlink (caricos/netcarshow). null — Referer не нужен
@@ -59,7 +60,7 @@ export async function GET(req: NextRequest) {
     return new NextResponse('bad url', { status: 400 })
   }
   if (!(host in TRUSTED_HOSTS)) {
-    return new NextResponse('no image', { status: 404 })
+    return new NextResponse('no image', { status: 404, headers: CDN_CACHE_MISS })
   }
 
   const referer = TRUSTED_HOSTS[host]
@@ -72,7 +73,7 @@ export async function GET(req: NextRequest) {
     const upstream = await fetch(imgUrl, { headers })
     const ct = upstream.headers.get('content-type') || ''
     if (!upstream.ok || !ct.startsWith('image/')) {
-      return new NextResponse('upstream unavailable', { status: 502 })
+      return new NextResponse('upstream unavailable', { status: 502, headers: CDN_CACHE_MISS })
     }
 
     const buf = await upstream.arrayBuffer()
@@ -80,10 +81,10 @@ export async function GET(req: NextRequest) {
       status: 200,
       headers: {
         'Content-Type': upstream.headers.get('content-type') || 'image/jpeg',
-        'Cache-Control': 'public, max-age=604800, immutable',  // кэш на неделю
+        ...CDN_CACHE_IMAGE,
       },
     })
   } catch {
-    return new NextResponse('fetch failed', { status: 502 })
+    return new NextResponse('fetch failed', { status: 502, headers: CDN_CACHE_MISS })
   }
 }

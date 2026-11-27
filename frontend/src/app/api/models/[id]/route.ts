@@ -18,6 +18,7 @@
  * покажет пустое состояние (страница уже на это рассчитана).
  */
 import { NextResponse } from 'next/server'
+import { CDN_CACHE_DATA } from '@/lib/cdn-cache'
 import fs from 'fs'
 import path from 'path'
 import { getBrandMeta } from '@/lib/brand-meta'
@@ -139,5 +140,5 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
     updatedAt: new Date(0).toISOString(),
   }
 
-  return NextResponse.json({ model, generations })
+  return NextResponse.json({ model, generations }, { headers: CDN_CACHE_DATA })
 }

@@ -13,6 +13,7 @@
  * рендер {dna && ...}/{analysis && ...}) — просто не покажет эти блоки.
  */
 import { NextRequest, NextResponse } from 'next/server'
+import { CDN_CACHE_DATA } from '@/lib/cdn-cache'
 import fs from 'fs'
 import path from 'path'
 import { getBrandMeta, COUNTRY_CODE } from '@/lib/brand-meta'
@@ -124,5 +125,5 @@ export async function GET(_req: NextRequest, { params }: { params: { id: string 
     updatedAt: new Date(0).toISOString(),
   }
 
-  return NextResponse.json({ brand, models })
+  return NextResponse.json({ brand, models }, { headers: CDN_CACHE_DATA })
 }
