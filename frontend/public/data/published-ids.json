@@ -576,7 +576,9 @@
     "td-car-reviews-2027-kia-telluride-review",
     "ncs-suzuki-2028-ignis",
     "cad-news-a74476966-2027-toyota-sienna-hybrid-minivan-revealed",
-    "jlp-2326150-2027-toyota-sienna-hybrid-updates-mpg-specs"
+    "jlp-2326150-2027-toyota-sienna-hybrid-updates-mpg-specs",
+    "aw-news-a74545291-2028-volvo-xc60-xc90-phev-drive-review",
+    "carscoops-2328198-2028-genesis-g80-hybrid-length"
   ],
   "keys": [
     "mercedes__amg-gt53:-536-hp__2027",
@@ -929,7 +931,9 @@
     "ferrari__challenge-stradale__2027",
     "kia__telluride__2027",
     "suzuki__ignis__2028",
-    "toyota__sienna__2027"
+    "toyota__sienna__2027",
+    "volvo__xc60-phev__2028",
+    "genesis__g80-hybrid__2028"
   ],
   "records": {
     "lexus__gs300__1994": {
@@ -3897,8 +3901,26 @@
         "jlp-2326150-2027-toyota-sienna-hybrid-updates-mpg-specs"
       ],
       "updatedAt": "2026-11-25T21:38:26.890Z"
+    },
+    "volvo__xc60-phev__2028": {
+      "messageId": 562,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "aw-news-a74545291-2028-volvo-xc60-xc90-phev-drive-review"
+      ],
+      "updatedAt": "2026-11-27T21:06:52.824Z"
+    },
+    "genesis__g80-hybrid__2028": {
+      "messageId": 563,
+      "hasPhoto": true,
+      "channelId": "-1004431862248",
+      "ids": [
+        "carscoops-2328198-2028-genesis-g80-hybrid-length"
+      ],
+      "updatedAt": "2026-11-27T21:07:59.684Z"
     }
   },
-  "updatedAt": "2026-11-25T21:38:26.890Z",
-  "total": 577
+  "updatedAt": "2026-11-27T21:07:59.684Z",
+  "total": 579
 }

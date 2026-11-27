@@ -148,5 +148,17 @@
     "articleId": "cad-news-a74476966-2027-toyota-sienna-hybrid-minivan-revealed",
     "articleTitle": "2027 Toyota Sienna Refreshed",
     "usedAt": "2026-11-25T21:38:26.890Z"
+  },
+  "volvo-xc60": {
+    "source": "autoweek",
+    "articleId": "aw-news-a74545291-2028-volvo-xc60-xc90-phev-drive-review",
+    "articleTitle": "2028 Volvo XC60 PHEV",
+    "usedAt": "2026-11-27T21:06:51.195Z"
+  },
+  "genesis-g80-hybrid": {
+    "source": "carscoops",
+    "articleId": "carscoops-2328198-2028-genesis-g80-hybrid-length",
+    "articleTitle": "2028 Genesis G80 Hybrid",
+    "usedAt": "2026-11-27T21:07:58.055Z"
   }
 }
