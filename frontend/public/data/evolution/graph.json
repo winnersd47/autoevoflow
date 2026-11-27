@@ -67557,6 +67557,107 @@
       "bodyType": "coupe",
       "engineType": "v6t",
       "note": "Прототип-превью новой GT4-машины Maserati Corse на базе GranTurismo, показанный на Goodwood Festival of Speed 2026 (июль); цель — гонки в классе GT4 с сезона 2028. Кузов и силовая установка от дорожного купе (3,0 л twin-turbo V6 Nettuno), задний привод, подвеска от GranTurismo Trofeo, примерно на 400 кг легче дорожной версии; мощность не раскрыта (регулируется BoP). Разработку ведёт тест-пилот Maserati Андреа Бертолини. Программы Maserati GT2 (MC20 GT2 — есть в графе) и GT4 по сообщению о решении Stellantis не затронуты — клиентский автоспорт сохраняется. Источники: Motorsport.com / Carscoops / Evo (пресса), Wikipedia Stellantis."
+    },
+    {
+      "id": "gen-g80-hybrid",
+      "label": "G80 Hybrid",
+      "fullName": "Genesis G80 Hybrid",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "genesis",
+      "brandName": "Genesis",
+      "modelSlug": "genesis-g80-hybrid",
+      "familyKey": "gen-g80",
+      "bodyType": "sedan",
+      "segment": "exec",
+      "zone": "flagship_sed",
+      "hp": 347,
+      "engineType": "i4h",
+      "note": "Гибридная версия G80 — первый гибрид в истории Genesis. Мировая премьера — 18 ноября 2026 г., Лос-Анджелес (пресс-релиз Genesis Motor North America от 19.11.2026; тогда же GV80 Hybrid дебютировал в Северной Америке). Силовая установка: бензиновый 2,5-литровый турбомотор + стартер-генератор + тяговый электромотор (параллельная схема), суммарно 347 л.с. и 391 фунт-фут (≈530 Н·м), семиступенчатый автомат; гибридная батарея с жидкостным охлаждением — первая в Hyundai Motor Group. По внутренним тестам Genesis расход ниже на 30%, запас хода — более 800 км (оценка). Кузов длиннее на 5,1 дюйма (130 мм) — место под гибридную батарею и увеличенный бак (Carscoops со слов руководителя продуктового планирования Genesis); новая решётка с G-Matrix, 20-дюймовые диски. Цены и характеристики для Северной Америки не объявлены. Модельный год в прессе — то 2027, то 2028 (сайт Genesis США — 2028), производство — с начала 2027 г. (Motor1). Источники: Genesis (пресс-релиз 19.11.2026), Motor1, Carscoops."
+    },
+    {
+      "id": "gen-gv80-hybrid",
+      "label": "GV80 Hybrid",
+      "fullName": "Genesis GV80 Hybrid",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "genesis",
+      "brandName": "Genesis",
+      "modelSlug": "genesis-gv80-hybrid",
+      "familyKey": "gen-gv80",
+      "bodyType": "suv",
+      "segment": "exec",
+      "zone": "suv_large",
+      "hp": 347,
+      "engineType": "i4h",
+      "note": "Гибридная версия GV80 (JX1) — первый гибрид Genesis: впервые показана в августе 2026 г. (Electrek, 13.08.2026), североамериканский дебют — 18 ноября 2026 г., Лос-Анджелес (пресс-релиз Genesis от 19.11.2026). Тот же турбогибрид 2,5 л, что у G80 Hybrid: 347 л.с. и 391 фунт-фут (на 47 л.с. больше бензинового GV80 — Motor1), семиступенчатый автомат, жидкостное охлаждение батареи — первое в Hyundai Motor Group. Экономичнее бензиновой версии на 24% (внутренние тесты Genesis), запас хода — более 800 км (оценка). Новая решётка с G-Matrix, колёса 19/20/22 дюйма. Цены и характеристики для Северной Америки не объявлены; модельный год у разных источников 2027/2028. Источники: Genesis (пресс-релиз 19.11.2026), Motor1."
+    },
+    {
+      "id": "toyota-highlander-5",
+      "label": "Highlander Gen5",
+      "fullName": "Toyota Highlander 5th Generation (BEV)",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "toyota",
+      "brandName": "Toyota",
+      "modelSlug": "toyota-highlander-5",
+      "familyKey": "toyota-highlander",
+      "bodyType": "suv",
+      "segment": "midsize_suv",
+      "zone": "suv_mid",
+      "hp": 338,
+      "engineType": "ev",
+      "codeName": "BEV",
+      "note": "Новое поколение Highlander (пятое после XU70) — полностью электрическое: первая трёхрядная BEV Toyota в Северной Америке и первая BEV Toyota, собираемая в Северной Америке (четвёртая BEV в линейке Toyota). Модельный год — 2028 (часть прессы называет его 2027). По пресс-релизу Toyota Canada от 10.02.2026: комплектации XLE, XLE Premium, Limited; передний или полный привод; до 338 л.с. суммарно, момент 198/125 фунт-фут на передней/задней оси; батареи 77,0 и 95,8 кВт·ч (XLE AWD с 95,8 кВт·ч — 504 км по оценке производителя); порт NACS; режим V2L (питание внешних устройств); до семи мест; экран 14 дюймов и приборная панель 12,3 дюйма. Включён в экспозицию автосалона в Лос-Анджелесе, 20–29.11.2026 (список организаторов от 15.10.2026). Источники: Toyota Canada (10.02.2026), организаторы Los Angeles Auto Show."
+    },
+    {
+      "id": "suzuki-ignis-ev",
+      "label": "Ignis",
+      "fullName": "Suzuki Ignis (электрическая)",
+      "type": "generation",
+      "year": 2028,
+      "brandId": "suzuki",
+      "brandName": "Suzuki",
+      "modelSlug": "suzuki-ignis-ev",
+      "familyKey": "suzuki-ignis",
+      "bodyType": "hatchback",
+      "segment": "subcompact",
+      "zone": "hatchback",
+      "engineType": "ev",
+      "codeName": "EV",
+      "note": "Новая Ignis — первый компактный электромобиль Suzuki для мирового рынка («Easy to Switch — лучший городской автомобиль для вашего района»). Мировая премьера — онлайн, 25 ноября 2026 г.; продажи начнутся поэтапно в Европе и других странах с лета 2027 г. Платформа HEARTECT-e (специально для электромобилей, батарея под кузовом), компактный блок eAxle (мотор, инвертор и редуктор в одном корпусе), LFP-батарея, минимальный радиус разворота 4,5 м, рекуперация с гидравлическим тормозом; городской кузов с «плавающей» крышей. Мощность, ёмкость батареи, запас хода и габариты не раскрыты. Год 2028 — модельный год по NetCarShow. Источники: Suzuki Global Newsroom (25.11.2026), NetCarShow."
+    },
+    {
+      "id": "nissan-nx7",
+      "label": "NX7",
+      "fullName": "Dongfeng Nissan NX7",
+      "type": "generation",
+      "year": 2026,
+      "brandId": "nissan",
+      "brandName": "Nissan",
+      "modelSlug": "nissan-nx7",
+      "bodyType": "suv",
+      "segment": "mid_suv",
+      "zone": "china_ev",
+      "hp": 231,
+      "engineType": "phev",
+      "note": "Dongfeng Nissan NX7 — подзаряжаемый гибридный кроссовер для Китая, четвёртая модель серии N и второй SUV после NX8 (предпродажные цены ниже, чем у NX8). Представлен 13 ноября 2026 г. с открытием предпродаж (от 129 900 юаней; версии 320 Pro, 320 Max, 320 Ultra LiDAR); официальный старт продаж — 27 ноября 2026 г. на автосалоне в Гуанчжоу. Габариты 4785×1932×1665 мм, колёсная база 2815 мм. Силовая установка: атмосферный 1,5-литровый бензиновый мотор для PHEV (73 кВт ≈ 98 л.с.) и тяговый электромотор 170 кВт (≈231 л.с. — эта цифра указана в узле), LFP-батарея CATL 40,9 кВт·ч; запас хода на электротяге 320 км, суммарный 1666 км (по циклу CLTC). Версия Ultra LiDAR — с лидаром и системой помощи Momenta R7; экран 17,3 дюйма. Источник: CnEVPost (13.11.2026)."
+    },
+    {
+      "id": "lincoln-aviator-ex8",
+      "label": "Aviator EX8",
+      "fullName": "Lincoln Aviator EX8",
+      "type": "generation",
+      "year": 2027,
+      "brandId": "lincoln",
+      "brandName": "Lincoln",
+      "modelSlug": "lincoln-aviator-ex8",
+      "familyKey": "lincoln-aviator",
+      "bodyType": "suv",
+      "segment": "midsize_luxury_suv",
+      "zone": "china_ev",
+      "engineType": "phev",
+      "note": "Подзаряжаемый гибридный кроссовер Lincoln только для Китая — выпускает совместное предприятие Changan Ford. Имя Aviator унаследовано: по габаритам близок к американскому Aviator, а по внешности больше тяготеет к Navigator; общего с американским Aviator CD6 нет (InsideEVs). Первые изображения камуфлированной машины Lincoln опубликовал в октябре 2026 г., в начале ноября сертификат появился в базе Минпрома КНР (MIIT), затем бренд сам раскрыл внешность; полная премьера — автосалон в Гуанчжоу (27.11–6.12.2026), старт продаж — первая половина 2027 г. Габариты 5055×1995×1790–1800 мм, колёсная база 3010 мм, пять мест, лидар над лобовым стеклом. ДВС — турбо 1,5 л Changan, 148 л.с. (по данным MIIT; Kolesa.ru называет 150), батарея LFP совместного предприятия Changan–CATL; данные об электромоторе и запасе хода не раскрыты, поэтому мощность в узле не указана. Источники: Kolesa.ru, InsideEVs, Carscoops."
     }
   ],
   "edges": [
@@ -96975,92 +97076,156 @@
     {
       "source": "peugeot-905",
       "target": "peugeot-905b",
-      "type": "facelifted_to"
+      "type": "facelifted_to",
+      "id": "e-peugeot-905-peugeot-905b",
+      "strength": 0.9
     },
     {
       "source": "peugeot-905",
       "target": "peugeot-908-hdi-fap",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-peugeot-905-peugeot-908-hdi-fap",
+      "strength": 0.9
     },
     {
       "source": "peugeot-908-hdi-fap",
       "target": "peugeot-908-hy",
-      "type": "variant_of"
+      "type": "variant_of",
+      "id": "e-peugeot-908-hdi-fap-peugeot-908-hy",
+      "strength": 0.9
     },
     {
       "source": "peugeot-908-hdi-fap",
       "target": "peugeot-908-v8",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-peugeot-908-hdi-fap-peugeot-908-v8",
+      "strength": 0.9
     },
     {
       "source": "peugeot-908-v8",
       "target": "peugeot-9x8",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-peugeot-908-v8-peugeot-9x8",
+      "strength": 0.9
     },
     {
       "source": "peugeot-9x8",
       "target": "peugeot-9x8-2024",
-      "type": "facelifted_to"
+      "type": "facelifted_to",
+      "id": "e-peugeot-9x8-peugeot-9x8-2024",
+      "strength": 0.9
     },
     {
       "source": "alpine-a450",
       "target": "alpine-a460",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a450-alpine-a460",
+      "strength": 0.9
     },
     {
       "source": "alpine-a460",
       "target": "alpine-a470",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a460-alpine-a470",
+      "strength": 0.9
     },
     {
       "source": "alpine-a470",
       "target": "alpine-a480",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a470-alpine-a480",
+      "strength": 0.9
     },
     {
       "source": "alpine-a480",
       "target": "alpine-a424",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a480-alpine-a424",
+      "strength": 0.9
     },
     {
       "source": "alpine-a442b",
       "target": "alpine-a424",
-      "type": "inspired_by"
+      "type": "inspired_by",
+      "id": "e-alpine-a442b-alpine-a424",
+      "strength": 0.7
     },
     {
       "source": "alpine-a521",
       "target": "alpine-a522",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a521-alpine-a522",
+      "strength": 0.9
     },
     {
       "source": "alpine-a522",
       "target": "alpine-a523",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a522-alpine-a523",
+      "strength": 0.9
     },
     {
       "source": "alpine-a523",
       "target": "alpine-a524",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a523-alpine-a524",
+      "strength": 0.9
     },
     {
       "source": "alpine-a524",
       "target": "alpine-a525",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a524-alpine-a525",
+      "strength": 0.9
     },
     {
       "source": "alpine-a525",
       "target": "alpine-a526",
-      "type": "evolves_into"
+      "type": "evolves_into",
+      "id": "e-alpine-a525-alpine-a526",
+      "strength": 0.9
     },
     {
       "source": "lancia-delta-integrale",
       "target": "lancia-ypsilon-rally2-hf-integrale",
-      "type": "inspired_by"
+      "type": "inspired_by",
+      "id": "e-lancia-delta-integrale-lancia-ypsilon-rally2-hf-integrale",
+      "strength": 0.6
     },
     {
       "source": "maserati-granturismo2-trofeo",
       "target": "maserati-granturismo-project-gt4",
-      "type": "derived_from"
+      "type": "derived_from",
+      "id": "e-maserati-granturismo2-trofeo-maserati-granturismo-project-gt4",
+      "strength": 0.85
+    },
+    {
+      "id": "e-gen-g80-2-gen-g80-hybrid",
+      "source": "gen-g80-2",
+      "target": "gen-g80-hybrid",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "e-gen-gv80-1-gen-gv80-hybrid",
+      "source": "gen-gv80-1",
+      "target": "gen-gv80-hybrid",
+      "type": "variant_of",
+      "strength": 0.9
+    },
+    {
+      "id": "e-toyota-highlander-4-toyota-highlander-5",
+      "source": "toyota-highlander-4",
+      "target": "toyota-highlander-5",
+      "type": "evolves_into",
+      "strength": 0.95
+    },
+    {
+      "id": "e-lincoln-aviator-2-lincoln-aviator-ex8",
+      "source": "lincoln-aviator-2",
+      "target": "lincoln-aviator-ex8",
+      "type": "inspired_by",
+      "strength": 0.5
     }
   ]
 }
